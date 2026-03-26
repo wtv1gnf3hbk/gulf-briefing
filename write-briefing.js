@@ -7,34 +7,26 @@
  *   - index.html (styled page with screenshots, refresh button, feedback)
  *
  * Supports 3 output styles via --style flag:
- *   - conversational (default): prose lead + sectioned bullets
- *   - bullets: quick-scan, one line per story
- *   - wib: Economist-style "World in Brief" dense paragraphs
+ *   conversational (default), bullets, wib
  *
  * Requires: ANTHROPIC_API_KEY environment variable
- *
- * Usage:
- *   node write-briefing.js                  # conversational (default)
- *   node write-briefing.js --style=bullets  # bullet summary
- *   node write-briefing.js --style=wib      # World in Brief
  */
 
 const https = require('https');
 const fs = require('fs');
 
+// Parse --style flag from command line
+const styleArg = process.argv.find(a => a.startsWith('--style='));
+const STYLE = styleArg ? styleArg.split('=')[1] : 'conversational';
+if (!['conversational', 'bullets', 'wib'].includes(STYLE)) {
+  console.error('Unknown style: ' + STYLE + '. Use: conversational, bullets, wib');
+  process.exit(1);
+}
+
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
 if (!ANTHROPIC_API_KEY) {
   console.error('Missing ANTHROPIC_API_KEY environment variable');
-  process.exit(1);
-}
-
-// Parse --style flag from command line
-const styleArg = process.argv.find(a => a.startsWith('--style='));
-const STYLE = styleArg ? styleArg.split('=')[1] : 'conversational';
-
-if (!['conversational', 'bullets', 'wib'].includes(STYLE)) {
-  console.error(`Unknown style: ${STYLE}. Use: conversational, bullets, wib`);
   process.exit(1);
 }
 
@@ -48,7 +40,7 @@ function callClaude(prompt, systemPrompt = '') {
 
     const body = JSON.stringify({
       model: 'claude-sonnet-4-20250514',
-      max_tokens: 3000,
+      max_tokens: 2500,
       system: systemPrompt,
       messages
     });
@@ -97,21 +89,30 @@ function callClaude(prompt, systemPrompt = '') {
 function formatTimestamp(timezone = 'Asia/Dubai') {
   const now = new Date();
 
+  // Format date
   const dateStr = now.toLocaleDateString('en-US', {
-    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
     timeZone: timezone
   });
 
+  // Format time
   const timeStr = now.toLocaleTimeString('en-US', {
-    hour: 'numeric', minute: '2-digit',
+    hour: 'numeric',
+    minute: '2-digit',
     timeZone: timezone
   });
 
+  // Get timezone abbreviation
   const tzAbbr = now.toLocaleTimeString('en-US', {
-    timeZone: timezone, timeZoneName: 'short'
+    timeZone: timezone,
+    timeZoneName: 'short'
   }).split(' ').pop();
 
-  const isoDate = now.toLocaleDateString('en-CA', { timeZone: timezone });
+  // ISO date for machine-readable contexts (feedback, etc.)
+  const isoDate = now.toLocaleDateString('en-CA', { timeZone: timezone }); // YYYY-MM-DD
 
   return { dateStr, timeStr, tzAbbr, isoDate, full: `${dateStr} at ${timeStr} ${tzAbbr}` };
 }
@@ -125,19 +126,6 @@ function generateHTML(briefingText, config) {
   const timestamp = formatTimestamp(timezone);
   const title = config.metadata?.name || 'Gulf Briefing';
   const screenshots = config.screenshots || [];
-
-  // Group screenshots by country/category for cleaner display
-  const countryLabels = {
-    'saudi': 'Saudi Arabia', 'saudi_twitter': 'Saudi Arabia (Officials)',
-    'uae': 'UAE', 'uae_twitter': 'UAE (Officials)',
-    'qatar': 'Qatar', 'qatar_twitter': 'Qatar (Officials)',
-    'bahrain': 'Bahrain', 'bahrain_twitter': 'Bahrain (Officials)',
-    'kuwait': 'Kuwait', 'oman': 'Oman', 'oman_twitter': 'Oman (Officials)',
-    'yemen_irg': 'Yemen (IRG)', 'yemen_irg_twitter': 'Yemen IRG (Officials)',
-    'yemen_houthi': 'Yemen (Houthi)', 'yemen_houthi_twitter': 'Yemen Houthi (Officials)',
-    'yemen_stc': 'Yemen (STC)', 'yemen_stc_twitter': 'Yemen STC (Officials)',
-    'competitors': 'International', 'wire': 'Wires'
-  };
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -182,7 +170,7 @@ function generateHTML(briefingText, config) {
     p { margin-bottom: 16px; }
     ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
     li { margin-bottom: 10px; padding-left: 16px; position: relative; }
-    li::before { content: "\\2022"; position: absolute; left: 0; color: #999; }
+    li::before { content: "•"; position: absolute; left: 0; color: #999; }
     a {
       color: #1a1a1a;
       text-decoration: underline;
@@ -233,6 +221,7 @@ function generateHTML(briefingText, config) {
     .screenshot-card .label a:hover {
       text-decoration: underline;
     }
+    /* Feedback section */
     .feedback-section {
       margin-top: 40px;
       padding-top: 24px;
@@ -300,7 +289,7 @@ function generateHTML(briefingText, config) {
     <div class="title">${title}</div>
     <div class="timestamp">
       Generated ${timestamp.full}
-      &middot; <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
 
@@ -312,13 +301,16 @@ function generateHTML(briefingText, config) {
       const originalText = link.textContent;
 
       try {
+        // Step 1: Trigger the workflow
         link.textContent = 'Triggering...';
         const triggerRes = await fetch(\`\${WORKER_URL}/trigger\`, { method: 'POST' });
         if (!triggerRes.ok) throw new Error('Failed to trigger');
 
+        // Step 2: Wait for run to be created
         link.textContent = 'Starting...';
         await new Promise(r => setTimeout(r, 3000));
 
+        // Step 3: Get the run ID
         link.textContent = 'Finding run...';
         const runsRes = await fetch(\`\${WORKER_URL}/runs\`);
         const runsData = await runsRes.json();
@@ -327,6 +319,7 @@ function generateHTML(briefingText, config) {
         const runId = runsData.workflow_runs[0].id;
         const runUrl = runsData.workflow_runs[0].html_url;
 
+        // Step 4: Poll for completion
         let attempts = 0;
         while (attempts < 60) {
           const statusRes = await fetch(\`\${WORKER_URL}/status/\${runId}\`);
@@ -364,34 +357,34 @@ ${briefingText
   .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
   .replace(/^- (.+)$/gm, '<li>$1</li>')
   .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
-  .split('\\n')
+  .split('\n')
   .map(line => {
     if (line.startsWith('<ul>') || line.startsWith('<li>') || line.startsWith('</ul>')) return line;
-    if (line.startsWith('<strong>')) return \`<p class="section-header">\${line}</p>\`;
-    if (line.trim() && !line.startsWith('<')) return \`<p>\${line}</p>\`;
+    if (line.startsWith('<strong>')) return `<p class="section-header">${line}</p>`;
+    if (line.trim() && !line.startsWith('<')) return `<p>${line}</p>`;
     return line;
   })
-  .join('\\n')}
+  .join('\n')}
   </div>
 
-  ${screenshots.length > 0 ? \`
+  ${screenshots.length > 0 ? `
   <div class="screenshots-section">
-    <div class="screenshots-header">Homepage Screenshots</div>
+    <div class="screenshots-header">📸 Homepage Screenshots</div>
     <div class="screenshots-grid">
-      \${screenshots.map(s => \`
+      ${screenshots.map(s => `
       <div class="screenshot-card">
-        <a href="\${s.url}" target="_blank">
-          <img src="screenshots/\${s.filename}" alt="\${s.name}" loading="lazy">
+        <a href="${s.url}" target="_blank">
+          <img src="screenshots/${s.filename}" alt="${s.name}" loading="lazy">
         </a>
         <div class="label">
-          <a href="\${s.url}" target="_blank">\${s.name}</a>
-          \${s.language && s.language !== 'en' ? \`<span style="color:#999">(\${s.language})</span>\` : ''}
+          <a href="${s.url}" target="_blank">${s.name}</a>
+          ${s.language && s.language !== 'en' ? `<span style="color:#999">(${s.language})</span>` : ''}
         </div>
       </div>
-      \`).join('')}
+      `).join('')}
     </div>
   </div>
-  \` : ''}
+  ` : ''}
 
   <div class="feedback-section" id="feedback-section" data-date="${timestamp.isoDate}">
     <div class="feedback-prompt">How was today's briefing?</div>
@@ -405,16 +398,18 @@ ${briefingText
   </div>
 
   <script>
+    // --- Feedback ---
     var FEEDBACK_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev/feedback';
     var selectedReaction = null;
 
+    // Check if already submitted for this briefing date
     (function() {
       var dateKey = document.getElementById('feedback-section').dataset.date;
       if (localStorage.getItem('feedback-sent-' + dateKey)) {
         document.getElementById('feedback-buttons').style.display = 'none';
-        document.querySelector('.feedback-prompt').style.display = 'none';
+        document.getElementById('feedback-prompt').style.display = 'none';
         document.getElementById('feedback-thanks').style.display = 'block';
-        document.getElementById('feedback-thanks').textContent = 'Feedback sent. Thank you!';
+        document.getElementById('feedback-thanks').textContent = 'Feedback sent \u2014 thank you!';
       }
     })();
 
@@ -425,6 +420,7 @@ ${briefingText
     }
 
     async function submitFeedback() {
+      // Need either a reaction or a comment (or both)
       var comment = document.getElementById('feedback-comment').value.trim();
       if (!selectedReaction && !comment) return;
       var dateKey = document.getElementById('feedback-section').dataset.date;
@@ -444,6 +440,7 @@ ${briefingText
         });
         if (!res.ok) throw new Error('Server error');
 
+        // Success — hide form, show thanks, remember in localStorage
         document.getElementById('feedback-buttons').style.display = 'none';
         document.getElementById('feedback-comment').style.display = 'none';
         document.getElementById('feedback-submit').style.display = 'none';
@@ -451,7 +448,7 @@ ${briefingText
         document.getElementById('feedback-thanks').style.display = 'block';
         localStorage.setItem('feedback-sent-' + dateKey, '1');
       } catch (e) {
-        submitBtn.textContent = 'Error. Try again';
+        submitBtn.textContent = 'Error \u2014 try again';
         submitBtn.disabled = false;
       }
     }
@@ -469,9 +466,11 @@ function buildPrompt(briefing) {
   const ownerName = config.owner || 'the Gulf correspondent';
   const timezone = config.timezone || 'Asia/Dubai';
 
-  // Time-aware greeting
+  // Get current time in the target timezone for greeting
   const hour = new Date().toLocaleString('en-US', {
-    hour: 'numeric', hour12: false, timeZone: timezone
+    hour: 'numeric',
+    hour12: false,
+    timeZone: timezone
   });
   const hourNum = parseInt(hour);
 
@@ -486,12 +485,17 @@ function buildPrompt(briefing) {
     greeting = "Here's your Gulf briefing.";
   }
 
-  // Organize stories by source
+  // Organize stories for the prompt.
+  // Group by source so Claude sees equal representation from all outlets,
+  // rather than the old priority-tier bucketing which caused NHK/Japan Times
+  // to dominate while Kyodo, Yomiuri, AP, Bloomberg etc. were buried or skipped.
   const allStories = (briefing.stories?.all || []);
+
+  // Build a per-source map: { sourceName: [story, story, ...] }
   const bySource = {};
   for (const story of allStories) {
     if (!bySource[story.source]) bySource[story.source] = [];
-    if (bySource[story.source].length < 5) {
+    if (bySource[story.source].length < 5) {  // max 5 per source for token budget
       bySource[story.source].push({
         headline: story.headline,
         url: story.url,
@@ -500,6 +504,7 @@ function buildPrompt(briefing) {
     }
   }
 
+  // Format as a readable block: source name as header, then its stories
   const storiesBlock = Object.entries(bySource)
     .map(([source, stories]) => {
       const items = stories.map(s => `  - ${s.headline} (${s.url})`).join('\n');
@@ -507,89 +512,13 @@ function buildPrompt(briefing) {
     })
     .join('\n\n');
 
+  // Get screenshots info
   const screenshots = briefing.screenshots || [];
 
-  // Load shared style rules
+  // Load shared style rules from file (synced from nyt-concierge/style-rules-prompt.txt).
+  // These are the universal rules enforced by validate-draft.js and fix-draft.js.
   const styleRulesPath = require('path').join(__dirname, 'style-rules-prompt.txt');
-  let styleRules = '';
-  if (fs.existsSync(styleRulesPath)) {
-    styleRules = fs.readFileSync(styleRulesPath, 'utf8').trim();
-  }
-
-  // Style-specific instructions
-  const styleInstructions = {
-    conversational: `
-Write a conversational briefing using these sections in order:
-
-1. **Top News** (2-3 paragraphs, no header): Synthesize the top Gulf stories in flowing prose. Lead with the single most consequential development.
-
-LEAD STORY PRIORITY:
-  1. Military/security (Houthi attacks, coalition operations, Iran tensions)
-  2. Major diplomatic developments (GCC summits, normalization moves, sanctions)
-  3. Energy/economic shocks (OPEC decisions, oil prices, sovereign wealth moves)
-  4. Yemen conflict developments (peace talks, territory changes, humanitarian)
-  5. Political transitions, succession, governance changes
-  6. Mega-projects, economic diversification (NEOM, Vision 2030, tourism)
-  When in doubt: "Would a bureau chief rearrange their day for this?" If no, it's not the lead.
-
-2. **Energy & Economy** (3-4 bullets): Oil, OPEC, sovereign wealth funds, business, trade.
-
-3. **Country Watch** (organized by country, 2-4 bullets each, only countries with news):
-  - **Saudi Arabia**
-  - **UAE**
-  - **Qatar**
-  - **Bahrain / Kuwait / Oman** (combined if light)
-  - **Yemen** (always separate, note which faction/entity is involved)
-
-4. **Official Signals** (2-3 items): Notable statements from officials, Twitter/X posts from key figures that signal policy or diplomatic direction. Always identify the person and their role.
-
-5. **Coverage Flags** (1-2 sentences): Stories where international outlets are ahead of local press, or gaps worth NYT Gulf correspondent attention.
-
-6. **Sources** (bulleted list with links): Every source cited.`,
-
-    bullets: `
-Write a bullet summary briefing organized by country and topic:
-
-## Top Stories
-- [Most important story, one sentence with link and attribution]
-- [Second story]
-- [Third story]
-
-## Saudi Arabia
-- [Story with source attribution and link]
-
-## UAE
-- [Story]
-
-## Qatar
-- [Story]
-
-## Bahrain / Kuwait / Oman
-- [Combined if light news day]
-
-## Yemen
-- [Always note which faction: IRG, Houthi, or STC]
-
-## Energy & Markets
-- [OPEC, oil, sovereign wealth]
-
-## Official Signals
-- [Notable tweets/statements from key figures]
-
-Keep each bullet to ONE sentence. Include link and attribution. Max 20 bullets total.`,
-
-    wib: `
-Write exactly 7 items in Economist "World in Brief" style. Rules:
-- 7 items, each 40-60 words (one dense paragraph)
-- Bold the first phrase up to first period or comma
-- Lead with action verb near the start
-- Embed context seamlessly, no separate background section
-- No hedging or analysis
-- No section headers, no bullets — just a clean stack of bold-lead paragraphs
-- Mix across GCC states + Yemen + energy/economy
-- Dry/British tone: quote sparingly, use scare quotes strategically
-- Cover at least 3 different countries across the 7 items`
-  };
+  const styleRules = fs.readFileSync(styleRulesPath, 'utf8').trim();
 
   const systemPrompt = `You are writing a daily Gulf news briefing for ${ownerName}, covering the 6 GCC states (Saudi Arabia, UAE, Qatar, Bahrain, Kuwait, Oman) and Yemen for the New York Times.
 
@@ -601,17 +530,43 @@ BRIEFING-SPECIFIC RULES:
 1. Write in full sentences, not headline fragments.
 2. Be conversational, like briefing a well-informed colleague.
 3. Focus on the Gulf/Arabian Peninsula region. International stories only if they directly affect the region.
-4. ALWAYS identify which Yemen entity (IRG, Houthi/Ansar Allah, STC) is involved in any Yemen story. The civil war has 3+ sides — never say just "Yemen."
+4. ALWAYS identify which Yemen entity (IRG, Houthi/Ansar Allah, STC) is involved in any Yemen story.
 5. For Saudi Arabia, distinguish between government positions and MBS personal moves.
 6. For UAE, note whether something is Abu Dhabi-driven or Dubai-driven when relevant.
-7. Official Twitter/X posts from ministers and royals are PRIMARY SOURCES — treat them like official statements, not social media chatter.
-8. Energy/OPEC stories are always relevant — never skip them.`;
+7. Official Twitter/X posts from ministers and royals are PRIMARY SOURCES.
+8. Energy/OPEC stories are always relevant.`;
 
   const userPrompt = `${greeting} Here is the scraped data.
 
-${styleInstructions[STYLE]}
+Write a briefing using this headline data. Use these sections in order:
 
-Every bullet/item must have at least one link. Vary attribution: "Reuters reports", "according to WAM", "Al Arabiya reports", "per the Saudi Press Agency", "Al Jazeera reports", "Bloomberg reports."
+1. **Top News** (2-3 paragraphs, no header): Synthesize the top Gulf stories in flowing prose. Lead with the single most consequential development.
+
+LEAD STORY PRIORITY:
+  1. Military/security (Houthi attacks, coalition operations, Iran tensions)
+  2. Major diplomatic developments (GCC summits, normalization moves, sanctions)
+  3. Energy/economic shocks (OPEC decisions, oil prices, sovereign wealth moves)
+  4. Yemen conflict developments (peace talks, territory changes, humanitarian)
+  5. Political transitions, succession, governance changes
+  6. Mega-projects, economic diversification (NEOM, Vision 2030, tourism)
+When in doubt: "Would a bureau chief rearrange their day for this?" If no, it's not the lead.
+
+2. **Energy & Economy** (3-4 bullets): Oil, OPEC, sovereign wealth funds, business, trade.
+
+3. **Country Watch** (organized by country, only countries with news):
+  - **Saudi Arabia**
+  - **UAE**
+  - **Qatar**
+  - **Bahrain / Kuwait / Oman** (combined if light)
+  - **Yemen** (always separate, note which faction)
+
+4. **Official Signals** (2-3 items): Notable statements from officials, Twitter/X posts from key figures that signal policy direction.
+
+5. **Coverage Flags** (1-2 sentences): Stories where international outlets are ahead of local press, or gaps worth NYT Gulf correspondent attention.
+
+6. **Sources** (bulleted list with links): Every source cited.
+
+Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to WAM", "Al Arabiya reports", "per the Saudi Press Agency", "Al Jazeera reports", "Bloomberg reports."
 
 FLAG any stories where:
 - International outlets are ahead of local/regional press
@@ -622,7 +577,7 @@ Here is the data, organized by outlet:
 
 ${storiesBlock}
 
-HOMEPAGE SCREENSHOTS CAPTURED:
+HOMEPAGE SCREENSHOTS CAPTURED (Gulf outlets, competitors, Twitter):
 ${screenshots.map(s => `- ${s.name} (${s.language || 'en'}): screenshots/${s.filename}`).join('\n')}
 
 TWITTER/X FEED CONTENT (translated where available):
@@ -643,7 +598,7 @@ Write the briefing now. Keep it concise but comprehensive.`;
 // ============================================
 
 async function main() {
-  console.log(`Reading briefing.json... (style: ${STYLE})`);
+  console.log('Reading briefing.json...');
 
   if (!fs.existsSync('briefing.json')) {
     console.error('briefing.json not found. Run generate-briefing.js first.');
@@ -655,6 +610,7 @@ async function main() {
   console.log(`Found ${briefing.stats?.totalStories || 0} stories`);
   console.log('');
 
+  // Build prompt
   const { systemPrompt, userPrompt } = buildPrompt(briefing);
 
   console.log('Calling Claude API...');
@@ -675,10 +631,10 @@ async function main() {
     console.log('Saved index.html');
 
     console.log('');
-    console.log('Briefing written successfully');
+    console.log('✅ Briefing written successfully');
 
   } catch (e) {
-    console.error('Failed to write briefing:', e.message);
+    console.error('❌ Failed to write briefing:', e.message);
     process.exit(1);
   }
 }
