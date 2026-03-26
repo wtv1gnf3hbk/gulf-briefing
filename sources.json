@@ -1,0 +1,582 @@
+{
+  "metadata": {
+    "name": "Gulf Briefing",
+    "owner": "Gulf Bureau Correspondent",
+    "timezone": "Asia/Dubai",
+    "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent"
+  },
+  "sources": [
+    {
+      "_comment": "=== SAUDI ARABIA ==="
+    },
+    {
+      "id": "saudi_press_agency",
+      "name": "Saudi Press Agency",
+      "type": "screenshot",
+      "url": "https://www.spa.gov.sa/",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar"
+    },
+    {
+      "id": "alarabiya",
+      "name": "Al Arabiya",
+      "type": "rss",
+      "url": "https://www.alarabiya.net/feed/rss2/ar.xml",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "State-adjacent TV, Saudi perspective on regional affairs"
+    },
+    {
+      "id": "asharq_al_awsat",
+      "name": "Asharq al-Awsat",
+      "type": "screenshot",
+      "url": "https://aawsat.com/",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "Pan-Arab Saudi-owned daily, influential across region"
+    },
+    {
+      "id": "alekhbariya",
+      "name": "Al Ekhbariya",
+      "type": "screenshot",
+      "url": "https://www.alekhbariya.net/ar",
+      "priority": "secondary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "Saudi state TV"
+    },
+    {
+      "id": "twitter_ksamofa",
+      "name": "Saudi MFA",
+      "type": "twitter",
+      "url": "https://x.com/KSAMOFA",
+      "priority": "primary",
+      "category": "saudi_twitter",
+      "notes": "Ministry of Foreign Affairs"
+    },
+    {
+      "id": "twitter_kbs",
+      "name": "Prince Khalid bin Salman",
+      "type": "twitter",
+      "url": "https://x.com/kbsalsaud",
+      "priority": "primary",
+      "category": "saudi_twitter",
+      "notes": "Defense Minister, MBS brother"
+    },
+    {
+      "id": "twitter_faisal",
+      "name": "Prince Faisal bin Farhan",
+      "type": "twitter",
+      "url": "https://x.com/FaisalbinFarhan",
+      "priority": "primary",
+      "category": "saudi_twitter",
+      "notes": "Foreign Minister"
+    },
+    {
+      "id": "twitter_reema",
+      "name": "Princess Reema",
+      "type": "twitter",
+      "url": "https://x.com/rbalsaud",
+      "priority": "secondary",
+      "category": "saudi_twitter",
+      "notes": "Ambassador to US"
+    },
+    {
+      "id": "twitter_aljabir",
+      "name": "Mohammed AlJabir",
+      "type": "twitter",
+      "url": "https://x.com/mohdsalj",
+      "priority": "secondary",
+      "category": "saudi_twitter",
+      "notes": "Saudi Ambassador to Yemen"
+    },
+    {
+      "id": "twitter_moi_saudi",
+      "name": "Saudi Interior Ministry",
+      "type": "twitter",
+      "url": "https://x.com/MOISaudiArabia",
+      "priority": "secondary",
+      "category": "saudi_twitter"
+    },
+    {
+      "id": "twitter_alekhbariya",
+      "name": "Al Ekhbariya TV",
+      "type": "twitter",
+      "url": "https://x.com/alekhbariyatv",
+      "priority": "secondary",
+      "category": "saudi_twitter",
+      "notes": "Saudi state TV Twitter"
+    },
+    {
+      "_comment": "=== UAE ==="
+    },
+    {
+      "id": "wam",
+      "name": "Emirates News Agency (WAM)",
+      "type": "screenshot",
+      "url": "https://www.wam.ae/ar/home/main",
+      "priority": "primary",
+      "category": "uae",
+      "language": "ar"
+    },
+    {
+      "id": "arn_news",
+      "name": "ARN News Center",
+      "type": "rss",
+      "url": "https://www.arnnewscentre.ae/en/feed/",
+      "priority": "primary",
+      "category": "uae",
+      "notes": "English-language UAE news"
+    },
+    {
+      "id": "uae_mofa",
+      "name": "UAE MFA News",
+      "type": "screenshot",
+      "url": "https://www.mofa.gov.ae/MediaHub/News/",
+      "priority": "secondary",
+      "category": "uae"
+    },
+    {
+      "id": "al_etihad",
+      "name": "Al-Etihad",
+      "type": "screenshot",
+      "url": "https://www.aletihad.ae/",
+      "priority": "secondary",
+      "category": "uae",
+      "language": "ar",
+      "notes": "UAE Arabic-language daily"
+    },
+    {
+      "id": "twitter_uae_media",
+      "name": "UAE Gov Media Office",
+      "type": "twitter",
+      "url": "https://x.com/UAEmediaoffice",
+      "priority": "primary",
+      "category": "uae_twitter"
+    },
+    {
+      "id": "twitter_abzayed",
+      "name": "Sheikh Abdulla bin Zayed",
+      "type": "twitter",
+      "url": "https://x.com/ABZayed",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "Foreign Minister"
+    },
+    {
+      "id": "twitter_mbr",
+      "name": "Sheikh Mohammed bin Rashid",
+      "type": "twitter",
+      "url": "https://x.com/HHShkMohd",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "VP and PM, ruler of Dubai"
+    },
+    {
+      "id": "twitter_gargash",
+      "name": "Anwar Gargash",
+      "type": "twitter",
+      "url": "https://x.com/AnwarGargash",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "Diplomatic advisor to president"
+    },
+    {
+      "id": "twitter_tbz",
+      "name": "Tahnoon bin Zayed",
+      "type": "twitter",
+      "url": "https://x.com/hhtbzayed",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "National Security Advisor, major business figure"
+    },
+    {
+      "id": "twitter_mod_uae",
+      "name": "UAE Defense Ministry",
+      "type": "twitter",
+      "url": "https://x.com/modgovae",
+      "priority": "secondary",
+      "category": "uae_twitter"
+    },
+    {
+      "id": "twitter_afra",
+      "name": "Afra al-Hameli",
+      "type": "twitter",
+      "url": "https://x.com/AfraMalHameli",
+      "priority": "secondary",
+      "category": "uae_twitter"
+    },
+    {
+      "id": "twitter_moi_uae",
+      "name": "UAE Interior Ministry",
+      "type": "twitter",
+      "url": "https://x.com/moiuae",
+      "priority": "secondary",
+      "category": "uae_twitter"
+    },
+    {
+      "_comment": "=== QATAR ==="
+    },
+    {
+      "id": "qatar_news_agency",
+      "name": "Qatar News Agency",
+      "type": "screenshot",
+      "url": "https://www.qna.org.qa/ar-QA/qatar",
+      "priority": "primary",
+      "category": "qatar",
+      "language": "ar"
+    },
+    {
+      "id": "al_sharq",
+      "name": "Al Sharq Newspaper",
+      "type": "screenshot",
+      "url": "https://al-sharq.com/",
+      "priority": "secondary",
+      "category": "qatar",
+      "language": "ar"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "priority": "primary",
+      "category": "qatar",
+      "notes": "Al Jazeera English RSS — Qatar-funded but broad international coverage"
+    },
+    {
+      "id": "aljazeera_arabic",
+      "name": "Al Jazeera Arabic",
+      "type": "screenshot",
+      "url": "https://www.aljazeera.net/",
+      "priority": "primary",
+      "category": "qatar",
+      "language": "ar",
+      "notes": "Arabic-language homepage often carries different editorial emphasis"
+    },
+    {
+      "id": "twitter_pm_qatar",
+      "name": "PM Al Thani",
+      "type": "twitter",
+      "url": "https://x.com/MBA_AlThani_",
+      "priority": "primary",
+      "category": "qatar_twitter",
+      "notes": "Sheikh Mohammed bin Abdulrahman Al Thani, PM & FM"
+    },
+    {
+      "id": "twitter_gco_qatar",
+      "name": "Qatar GCO",
+      "type": "twitter",
+      "url": "https://x.com/GCOQatar",
+      "priority": "primary",
+      "category": "qatar_twitter",
+      "notes": "Government Communications Office"
+    },
+    {
+      "id": "twitter_majed",
+      "name": "Majed Al Ansari",
+      "type": "twitter",
+      "url": "https://x.com/majedalansari",
+      "priority": "primary",
+      "category": "qatar_twitter",
+      "notes": "MFA spokesperson"
+    },
+    {
+      "_comment": "=== BAHRAIN ==="
+    },
+    {
+      "id": "bahrain_news_agency",
+      "name": "Bahrain News Agency",
+      "type": "screenshot",
+      "url": "https://www.bna.bh/LatestNews.aspx",
+      "priority": "primary",
+      "category": "bahrain"
+    },
+    {
+      "id": "al_ayam",
+      "name": "Al Ayam",
+      "type": "screenshot",
+      "url": "https://www.alayam.com/online/local",
+      "priority": "secondary",
+      "category": "bahrain",
+      "language": "ar"
+    },
+    {
+      "id": "akhbar_al_khaleej",
+      "name": "Akhbar Al Khaleej",
+      "type": "screenshot",
+      "url": "https://akhbar-alkhaleej.com/news/section/BNEW",
+      "priority": "secondary",
+      "category": "bahrain",
+      "language": "ar"
+    },
+    {
+      "id": "twitter_bahrain_mfa",
+      "name": "Bahrain MFA",
+      "type": "twitter",
+      "url": "https://x.com/bahdiplomatic",
+      "priority": "secondary",
+      "category": "bahrain_twitter"
+    },
+    {
+      "id": "twitter_bahrain_moi",
+      "name": "Bahrain Interior Ministry",
+      "type": "twitter",
+      "url": "https://x.com/moi_bahrain",
+      "priority": "secondary",
+      "category": "bahrain_twitter"
+    },
+    {
+      "_comment": "=== KUWAIT ==="
+    },
+    {
+      "id": "kuna",
+      "name": "Kuwait News Agency",
+      "type": "screenshot",
+      "url": "https://www.kuna.net.kw/Default.aspx",
+      "priority": "primary",
+      "category": "kuwait"
+    },
+    {
+      "id": "al_qabas",
+      "name": "Al Qabas",
+      "type": "screenshot",
+      "url": "https://www.alqabas.com/",
+      "priority": "secondary",
+      "category": "kuwait",
+      "language": "ar"
+    },
+    {
+      "id": "kuwait_times",
+      "name": "Kuwait Times",
+      "type": "rss",
+      "url": "https://kuwaittimes.com/feed/",
+      "priority": "secondary",
+      "category": "kuwait",
+      "notes": "English-language Kuwaiti daily"
+    },
+    {
+      "_comment": "=== OMAN ==="
+    },
+    {
+      "id": "oman_news_agency",
+      "name": "Oman News Agency",
+      "type": "screenshot",
+      "url": "https://omannews.gov.om/",
+      "priority": "primary",
+      "category": "oman"
+    },
+    {
+      "id": "al_roya",
+      "name": "Al Roya",
+      "type": "screenshot",
+      "url": "https://alroya.om/",
+      "priority": "secondary",
+      "category": "oman",
+      "language": "ar"
+    },
+    {
+      "id": "times_of_oman",
+      "name": "Times of Oman",
+      "type": "rss",
+      "url": "https://timesofoman.com/feed",
+      "priority": "secondary",
+      "category": "oman",
+      "notes": "English-language Omani daily"
+    },
+    {
+      "id": "twitter_albusaidi",
+      "name": "Badr Albusaidi",
+      "type": "twitter",
+      "url": "https://x.com/badralbusaidi",
+      "priority": "primary",
+      "category": "oman_twitter",
+      "notes": "Oman Foreign Minister"
+    },
+    {
+      "_comment": "=== YEMEN — INTERNATIONALLY RECOGNIZED GOVERNMENT (IRG) ==="
+    },
+    {
+      "id": "saba_aden",
+      "name": "Saba News Agency (Aden/IRG)",
+      "type": "screenshot",
+      "url": "https://www.sabanew.net/home/ar",
+      "priority": "primary",
+      "category": "yemen_irg",
+      "language": "ar",
+      "notes": "Government-run from Aden"
+    },
+    {
+      "id": "twitter_eryani",
+      "name": "Mohammed Al-Eryani",
+      "type": "twitter",
+      "url": "https://x.com/ERYANIM",
+      "priority": "primary",
+      "category": "yemen_irg_twitter",
+      "notes": "IRG Information Minister"
+    },
+    {
+      "id": "twitter_abuzaraa",
+      "name": "Abu Zaraa",
+      "type": "twitter",
+      "url": "https://x.com/AbuZar3a",
+      "priority": "secondary",
+      "category": "yemen_irg_twitter"
+    },
+    {
+      "id": "twitter_tarik_saleh",
+      "name": "Tarik Saleh",
+      "type": "twitter",
+      "url": "https://x.com/tarikyemen",
+      "priority": "secondary",
+      "category": "yemen_irg_twitter"
+    },
+    {
+      "_comment": "=== YEMEN — HOUTHI (ANSAR ALLAH) ==="
+    },
+    {
+      "id": "saba_houthi",
+      "name": "Saba News Agency (Houthi)",
+      "type": "screenshot",
+      "url": "https://www.saba.ye/ar",
+      "priority": "primary",
+      "category": "yemen_houthi",
+      "language": "ar",
+      "notes": "Houthi-run Saba — parallel to Aden version"
+    },
+    {
+      "id": "twitter_abdulsalam",
+      "name": "Mohammed Abdulsalam",
+      "type": "twitter",
+      "url": "https://x.com/abdusalamsalah",
+      "priority": "primary",
+      "category": "yemen_houthi_twitter",
+      "notes": "Houthi chief negotiator/spokesperson"
+    },
+    {
+      "id": "twitter_mah",
+      "name": "Mohammed Ali Al Houthi",
+      "type": "twitter",
+      "url": "https://x.com/Moh_Alhouthi",
+      "priority": "primary",
+      "category": "yemen_houthi_twitter",
+      "notes": "Head of Supreme Revolutionary Committee"
+    },
+    {
+      "id": "twitter_nasruddin",
+      "name": "Nasruddin Amer",
+      "type": "twitter",
+      "url": "https://x.com/Nasr_Amer1",
+      "priority": "secondary",
+      "category": "yemen_houthi_twitter"
+    },
+    {
+      "_comment": "=== YEMEN — SOUTHERN TRANSITIONAL COUNCIL (STC) ==="
+    },
+    {
+      "id": "stc_aden",
+      "name": "Southern Transitional Council",
+      "type": "screenshot",
+      "url": "https://stcaden.com/",
+      "priority": "secondary",
+      "category": "yemen_stc"
+    },
+    {
+      "id": "twitter_amr_bidh",
+      "name": "Amr Bidh",
+      "type": "twitter",
+      "url": "https://x.com/AmrAlBidh",
+      "priority": "secondary",
+      "category": "yemen_stc_twitter"
+    },
+    {
+      "id": "twitter_binlasem",
+      "name": "Nabeel Bin-Lasem",
+      "type": "twitter",
+      "url": "https://x.com/N_BinLasem",
+      "priority": "secondary",
+      "category": "yemen_stc_twitter"
+    },
+    {
+      "id": "twitter_zubaidi",
+      "name": "Aidarous al-Zubaidi",
+      "type": "twitter",
+      "url": "https://x.com/AidrosAlzubidi",
+      "priority": "primary",
+      "category": "yemen_stc_twitter",
+      "notes": "STC president"
+    },
+    {
+      "_comment": "=== INTERNATIONAL WIRES & COMPETITORS ==="
+    },
+    {
+      "id": "reuters_gulf",
+      "name": "Reuters Gulf",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(Saudi+Arabia+OR+UAE+OR+Qatar+OR+Bahrain+OR+Kuwait+OR+Oman+OR+Yemen+OR+Houthi)+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "wire"
+    },
+    {
+      "id": "ap_gulf",
+      "name": "AP Gulf",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(Saudi+Arabia+OR+UAE+OR+Qatar+OR+Bahrain+OR+Kuwait+OR+Oman+OR+Yemen+OR+Houthi)+site:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "wire"
+    },
+    {
+      "id": "bbc_middleeast",
+      "name": "BBC Middle East",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "priority": "primary",
+      "category": "competitors"
+    },
+    {
+      "id": "ft_mideast",
+      "name": "Financial Times",
+      "type": "screenshot",
+      "url": "https://www.ft.com/world/mideast",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "wsj_mideast",
+      "name": "Wall Street Journal",
+      "type": "screenshot",
+      "url": "https://www.wsj.com/news/types/middle-east-news",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "bloomberg_gulf",
+      "name": "Bloomberg Gulf",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(Saudi+Arabia+OR+UAE+OR+Qatar+OR+Gulf)+site:bloomberg.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "economist_mideast",
+      "name": "Economist Middle East",
+      "type": "screenshot",
+      "url": "https://www.economist.com/middle-east-and-africa",
+      "priority": "tertiary",
+      "category": "competitors"
+    },
+    {
+      "id": "google_news_gulf_arabic",
+      "name": "Google News Gulf (Arabic)",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+(السعودية+OR+الإمارات+OR+قطر+OR+البحرين+OR+الكويت+OR+عمان+OR+اليمن)&ceid=AR:ar&hl=ar&gl=AR",
+      "priority": "primary",
+      "category": "arabic_aggregate",
+      "language": "ar",
+      "notes": "Arabic Google News aggregator for Gulf-related stories from all Arabic outlets"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "gulf-briefing",
+  "version": "1.0.0",
+  "description": "Daily news briefing covering all 6 GCC states + Yemen - runs on GitHub Actions",
+  "main": "generate-briefing.js",
+  "scripts": {
+    "generate": "node generate-briefing.js",
+    "write": "node write-briefing.js",
+    "write:bullets": "node write-briefing.js --style=bullets",
+    "write:wib": "node write-briefing.js --style=wib",
+    "briefing": "node generate-briefing.js && node write-briefing.js",
+    "test": "node --test test/schema.test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

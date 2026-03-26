@@ -1,0 +1,50 @@
+# Generate Gulf Briefing daily at 6am GST (Gulf Standard Time)
+# Also runs on manual trigger for testing
+
+name: Generate Gulf Briefing
+
+on:
+  schedule:
+    # 6am GST = 02:00 UTC (GST is UTC+4)
+    - cron: '0 2 * * *'
+
+  # Manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
+      - name: Scrape news sources
+        run: node generate-briefing.js
+
+      - name: Write conversational briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node write-briefing.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add briefing.json briefing.md index.html screenshots/
+          git diff --staged --quiet || git commit -m "Update Gulf briefing $(TZ=Asia/Dubai date +%Y-%m-%d)"
+          git push
