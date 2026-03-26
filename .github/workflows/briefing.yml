@@ -39,29 +39,21 @@ jobs:
       - name: Scrape news sources
         run: node generate-briefing.js
 
-      - name: Write conversational briefing
+      - name: Write all three styles
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node write-briefing.js
           cp briefing.md conversational.md
           cp index.html conversational.html
-
-      - name: Write bullet briefing
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
           node write-briefing.js --style=bullets
           mv briefing.md bullets.md
           mv index.html bullets.html
-
-      - name: Write WIB briefing
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
           node write-briefing.js --style=wib
           mv briefing.md wib.md
           mv index.html wib.html
+          cp conversational.md briefing.md
+          cp conversational.html index.html
 
       - name: Add navigation bar to all styles
         run: node add-nav.js
@@ -70,6 +62,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add briefing.json briefing.md index.html conversational.md conversational.html bullets.md bullets.html wib.md wib.html screenshots/
+          git add briefing.json conversational.md conversational.html index.html bullets.md bullets.html wib.md wib.html screenshots/
           git diff --staged --quiet || git commit -m "Update Gulf briefing $(TZ=Asia/Dubai date +%Y-%m-%d)"
           git push
