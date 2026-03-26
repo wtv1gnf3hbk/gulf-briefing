@@ -4,18 +4,48 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-03-26T20:20:31.418Z",
-    "generatedTimestamp": 1774556431418
+    "generated": "2026-03-26T20:57:21.570Z",
+    "generatedTimestamp": 1774558641570
   },
   "stats": {
     "sourceCount": 62,
-    "successCount": 60,
-    "totalStories": 60,
+    "successCount": 61,
+    "totalStories": 70,
     "totalScreenshots": 51,
-    "elapsed": "499.2s"
+    "elapsed": "420.4s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Israel sends more troops into southern Lebanon as ground invasion expands",
+        "url": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "qatar",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 20:10:30 +0000",
+        "description": "Lebanon&#039;s PM warns Israeli actions and statements threaten Lebanese sovereignty and violate international law."
+      },
+      {
+        "headline": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
+        "url": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "qatar",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 19:56:31 +0000",
+        "description": "Court dismissed xAI claim that measures were taken after plaintiff produced video of nude person shortly before hearing."
+      },
+      {
+        "headline": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
+        "url": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "qatar",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 19:53:04 +0000",
+        "description": "Judge Hellerstein declined to dismiss the case against Maduro but questioned US prosecutors about his access to defence."
+      },
       {
         "headline": "Key takeaways from Trump’s war on Iran meeting",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
@@ -77,7 +107,7 @@
         "description": "Metropolitan Police says reviewing footage of incident, reporters must be able to work &#039;without intimidation&#039;."
       },
       {
-        "headline": "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
+        "headline": "LIVE: Brazil vs France – World Cup 2026 friendly",
         "url": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
         "source": "Al Jazeera",
         "sourceId": "aljazeera",
@@ -87,34 +117,104 @@
         "description": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream."
       },
       {
-        "headline": "Details revealed of Board of Peace plan for Gaza disarmament",
-        "url": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "qatar",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 16:47:01 +0000",
-        "description": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months."
+        "headline": "UN Secretary-General Antonio Guterres urges diplomacy to end Middle East Conflict",
+        "url": "https://timesofoman.com//article/169921-un-secretary-general-antonio-guterres-urges-diplomacy-to-end-middle-east-conflict",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 21:02:46 +0400",
+        "description": "Brussels: In an urgent appeal to the global community, UN Secretary-General Antonio Guterres expressed grave concerns about the escalating conflict in the..."
       },
       {
-        "headline": "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "qatar",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 16:33:18 +0000",
-        "description": "Defense Secretary Pete Hegseth has said that Iran war is &#039;stuff for the history books&#039;."
+        "headline": "WTO Chief: Global trade system faces uncertainty amid changes",
+        "url": "https://timesofoman.com//article/169920-wto-chief-global-trade-system-faces-uncertainty-amid-changes",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:58:07 +0400",
+        "description": "Yaounde: At the 14th WTO ministerial conference, WTO Director-General Ngozi Okonjo-Iweala addressed the gathering with a stark message about the changing..."
       },
       {
-        "headline": "Olympics align with Trump as transgender athletes banned from women’s games",
-        "url": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "qatar",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 16:27:43 +0000",
-        "description": "Transgender athletes banned from women&#039;s Olympic events by new IOC policy aiming for &#039;fairness, safety and integrity&#039;."
+        "headline": "Balen Shah set to take oath as Nepal PM on Friday",
+        "url": "https://timesofoman.com//article/169919-balen-shah-set-to-take-oath-as-nepal-pm-on-friday",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:55:04 +0400",
+        "description": "Kathmandu: The Rastriya Swatantra Party (RSP) has unanimously approved the proposal of appointing senior leader Balendra Shah as parliamentary party leader,..."
+      },
+      {
+        "headline": "Indian PM Modi to attend G7 summit in France",
+        "url": "https://timesofoman.com//article/169918-indian-pm-modi-to-attend-g7-summit-in-france",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:51:57 +0400",
+        "description": "New Delhi:&nbsp;Indian Prime Minister Narendra Modi is set to travel to France to attend the G7 summit scheduled to take place from June 15 to 17.External..."
+      },
+      {
+        "headline": "Two Omani women drown in Ibri water pool",
+        "url": "https://timesofoman.com//article/169917-two-omani-women-drown-in-ibri-water-pool",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:34:57 +0400",
+        "description": "Ibri: The Search and Rescue Sector reported the death of two female citizens after a tragic drowning incident in a water pool formed in a wadi in the..."
+      },
+      {
+        "headline": "Steve Witkoff confirms Pakistan acting as intermediary between US, Iran",
+        "url": "https://timesofoman.com//article/169916-steve-witkoff-confirms-pakistan-acting-as-intermediary-between-us-iran",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:28:55 +0400",
+        "description": "Washington, DC: United States Special Envoy to the Middle East Steve Witkoff said on Thursday that 15-point action list that forms the framework for a peace..."
+      },
+      {
+        "headline": "Indian, Pakistan expats killed by missile debris in Abu Dhabi",
+        "url": "https://timesofoman.com//article/169915-indian-pakistan-expats-killed-by-missile-debris-in-abu-dhabi",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:24:47 +0400",
+        "description": "Abu Dhabi: An Indian national is among two individuals who tragically lost their lives following a ballistic missile interception over Abu Dhabi on..."
+      },
+      {
+        "headline": "Heavy rains continue in Quriyat, several wadis overflow",
+        "url": "https://timesofoman.com//article/169914-heavy-rains-continue-in-quriyat-several-wadis-overflow",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:19:09 +0400",
+        "description": "Quriyat— Heavy rains continued today across coastal and mountainous villages as well as residential neighborhoods in the Wilayat of Quriyat, including..."
+      },
+      {
+        "headline": "Oman Government announces full acquisition of SalamAir",
+        "url": "https://timesofoman.com//article/169913-oman-government-announces-full-acquisition-of-salamair",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 20:13:33 +0400",
+        "description": "Muscat-- The Government of the Sultanate of Oman announced the successful completion of its acquisition of SalamAir company. The step forms part of the..."
+      },
+      {
+        "headline": "Funeral rites held for three Indian nationals who died in Barka",
+        "url": "https://timesofoman.com//article/169912-funeral-rites-held-for-three-indian-nationals-who-died-in-barka",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 19:38:53 +0400",
+        "description": "Muscat:The last rites of three Indian nationals, who died in an incident in Barka, were held today at 2 PM, Indian News website Mediaone reported.The..."
       },
       {
         "headline": "Ukraine's Zelenskiy arrives in Saudi Arabia for 'important meetings' - Reuters",
@@ -145,16 +245,6 @@
         "priority": "primary",
         "date": "Thu, 26 Mar 2026 10:17:07 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm15bU94U2dnQk96QnpaZGlLZnowTjBJTV94dzhISnE1Qmo0ZHZlN1pMZ0t6VnEyNEJkd1A5OER1bXpGR3FIQ3ZwdzJXSlVkWFc2YXB1by1KYTc2ZnhPUEZSazI1cE1CeWtfRTB"
-      },
-      {
-        "headline": "US military says it struck vessel in Caribbean, killed four people - Reuters",
-        "url": "https://www.reuters.com/world/us-military-says-it-struck-vessel-caribbean-killed-four-people-2026-03-25/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Wed, 25 Mar 2026 20:31:27 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUV3dmZnUFFONVhnTzBIUGtwX2dzb1JMbzZoZ0RIX0RYNHF0OGlMVVNGVGZDeFJXbWdFWXphUW9xZTdYVllTNFgwa1FBMTRFdkhZQWl5bXRTd2lxZ1Z1ZnNaTE9rQlZ1bGVMSnN"
       },
       {
         "headline": "Oil prices rise 5% as investors fear further Middle East escalation - Reuters",
@@ -197,6 +287,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWG1KSTBkcXRqc1JpMDJtQV83WEJpZFJIY3NUZnJocEVaemJNdXA3b19zclJnbGZESHYwcXMxN1REeTdUck9lT3lhbklYTjU1OVJJUmVkRThpQl9hYVRWa2RqYnlXTjZqQnRSZE1"
       },
       {
+        "headline": "UK authorises military to board Russian shadow fleet tankers - Reuters",
+        "url": "https://www.reuters.com/world/uk/uk-authorises-military-board-russian-shadow-fleet-tankers-2026-03-25/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Mar 2026 22:33:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG50clRiMTRtdlJVSFJ3UmtoRGdMTjktQ1c5S29kb0gxT0VMeUlPSGdfYkc4VEJ6RkNhTWc1QzBpLVdDeXFGYjJqU0lvYzlOVllySjlOeW94Y2tDemY0TXlvN2luZDBaZmhVcmJ"
+      },
+      {
         "headline": "Iran war chokes petrochemical supply, sends plastic prices soaring - Reuters",
         "url": "https://www.reuters.com/business/energy/iran-war-chokes-petrochemical-supply-sends-plastic-prices-soaring-2026-03-26/",
         "source": "Reuters Gulf",
@@ -218,7 +318,7 @@
       },
       {
         "headline": "Zelenskyy visits Saudi Arabia as Ukraine provides expertise against Iranian drones - AP News",
-        "url": "https://apnews.com/article/turkish-oil-tanker-attacked-black-sea-2998c366a90ed280e9781a8b030a050c",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDYxeklmNnBsZUZqbFp5c1RIT2Npc2lYU0g5YW5aSzVldWFkVTVLa2lIWnluZE9TamZBV3FqWEVCaWNXMWI4QmpOSy1BQ2Nlb2drcFU5amVycVZMUHZGbU5kbjZpQl9xeTB1WnE1VW1yQ1FsVHp4MERwci1meDZIaHJDU2ZKYWJmdVRKZUR3ZDVBMS1sUXpYRlBRYmk4dw?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -235,16 +335,6 @@
         "priority": "primary",
         "date": "Thu, 26 Mar 2026 14:51:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0M2h1ZUlmalZmdno2UkhIc2tTODloZWdZYllVWGVkU0M5NkNzbnNFVno5d1drRDBfaTRnRmhUQk1aOXgyN21CbXdIOUhEWHZiNk9pTUtpT2U1RjZWclpKMjZkMTRhRXlOUWx"
-      },
-      {
-        "headline": "What we know about diplomatic efforts to end the Iran war - AP News",
-        "url": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 14:21:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNobF90OVZRWTItX3ZFeUFXMU5CVEp2TjRabjBMMjBsWHZQWlF5N0lCckhycWtKUmcwX3dIdHk5OUpvTlNVUWNXVnRsUy1jaEJWSHhsWUtacXZFdnpwNkpYTUFnekpIdmNUQVp"
       },
       {
         "headline": "EU lawmakers approve trade deal with US but add safeguards - AP News",
@@ -267,24 +357,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWR4cTMwMXR2VTJqa3pBN1B5N20xNzlTWW9fcm1UNWxsOTF6bXpMM2lGT2hYV0VDMW13aGZ3R1hpS3B4LTdSLS1yR2V5OFREMU9uS0hlU0xyU0U5QkZRRjFwRUFpVksxS3dtV3Z"
       },
       {
-        "headline": "Stocks rise and oil prices ease as Wall Street keeps yo-yoing because of the war with Iran - AP News",
-        "url": "https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17",
+        "headline": "Shipping traffic through Strait of Hormuz in last 24 hours - AP News",
+        "url": "https://apnews.com/video/shipping-traffic-through-strait-of-hormuz-in-last-24-hours-603a7011916140eda0a0668d909db21c",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Wed, 25 Mar 2026 20:46:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFZWdWRkWTl1NnAtN1JYa2xKazZ4b25QSTB2VGUtdWVXMEZDSmN6QjNBc1ZOZkVaM0VGV3JGbnd6bDcydkdtQzFNWXBMRzlDbE1Ec011cHRwWTRwN2xrMWEyc3JEMkRfdjNiZlV"
+        "date": "Thu, 26 Mar 2026 11:40:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEJLNFJndFRhQnEzNjRtRXZwWmhpOWYtaXhMLUx0c21vT2RGQzFLYzc3XzFzMzVBY3p5U2I3NzRoUlltZ2hGdi1ackZfVG5wMkZlanNTbkRDNFhkU3pTUU9ici01dmxoQ0toejF"
       },
       {
-        "headline": "Iran war - AP News",
-        "url": "https://apnews.com/hub/iran",
+        "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
+        "url": "https://apnews.com/video/melania-trump-brings-humanoid-robot-to-event-to-boost-education-and-technology-for-children-40f84e4ad55946e888d317419afa2d28",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 26 Mar 2026 20:02:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5\" target=\"_blank\"&gt;Iran war&lt;/a&gt;&amp;nbsp;&amp;n"
+        "date": "Thu, 26 Mar 2026 05:06:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
       },
       {
         "headline": "Hawaii suffers its worst flooding in decades - AP News",
@@ -298,7 +388,7 @@
       },
       {
         "headline": "JON GAMBRELL - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5",
+        "url": "https://apnews.com/author/jon-gambrell",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -307,14 +397,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5\" target=\"_blank\"&gt;JON GAMBRELL&l"
       },
       {
-        "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUhOSW8xRFB2NVItWXFvWGlDR29lcXVvY1l0ZU8ycVlmRm5TSWExX0tZRWtQTExwS20xRU52bGVnNTJlamdKLXY4cm1ZMWZDUzZvckdsb3BzNkYwbTNrSW5aQ2g1MFZfS1EtWXU2MUhWMGo4MmF3TXV6SExHT0lXYw?oc=5",
+        "headline": "Plane involved in LaGuardia crash removed from runway - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTdGckUzbjRYNGJkRmdJa1AyRDZJNlg4MUlQQmZjZC1Iam1JMm03V0ZBV3hHRnZUTHlzVUgwcFJYa2RiYVdSY0tIaU4wdw?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 26 Mar 2026 05:06:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
+        "date": "Wed, 25 Mar 2026 22:37:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTd"
+      },
+      {
+        "headline": "Saudi Arabia says it bombs Yemen port city of Mukalla over shipment of weapons for separatists that arrived from UAE - AP News",
+        "url": "https://apnews.com/916be688cf4dd2e79c91b601007ca367",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 15:05:19 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YeTdQd24yQTZsenZSZmpnWXlQWlFUN2FBM25RNDhtOUJLV19Vb1lJWXNwN2xJYTg4MExOWllnMVhKSEE4S0hxOEJaUkRWd2xhamx5cHFhZlNGaFh2WjV4ZA?oc=5\" target=\"_b"
       },
       {
         "headline": "Trump's Iran strategy is to pursue two off-ramps at once",
@@ -447,16 +547,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVNOZ2hqaG5Ra21YOTVTdFZQaHV2RHJqVUZlWlRVb2RaVHFkNjV4NGxZUWp6UkE5WmV5TjJ3Z0t4bEFQWEdUSjFGY1NBNTFOcFlaX0F3Ri1SYzZ1TlFNUDV3ZW8xcU5hSl9kbEV"
       },
       {
-        "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
-        "source": "Bloomberg Gulf",
-        "sourceId": "bloomberg_gulf",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Thu, 26 Mar 2026 09:41:17 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
-      },
-      {
         "headline": "Israel and Iran Keep Up Strikes With Talks to End War Uncertain - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-26/israel-and-iran-keep-up-strikes-with-talks-to-end-war-uncertain",
         "source": "Bloomberg Gulf",
@@ -477,14 +567,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTltRDFPdHhKVHVNX1lWd1hlamVsWEpLMkJVM0VTczlvMmVUektzNXVPZkpZWTFDVE90N3VDLTAtNXk4Vlhicm5udXJIdXFlY2p0eWt5VjVUNDlwYVl5VEJ6VGljOG9hVWdYYWl"
       },
       {
-        "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
+        "headline": "Qatar Airways Seeks Ways to Cut Costs as Iran War Halts Flights - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-26/qatar-airways-seeks-ways-to-cut-costs-as-iran-war-halts-flights",
         "source": "Bloomberg Gulf",
         "sourceId": "bloomberg_gulf",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Thu, 26 Mar 2026 04:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+        "date": "Thu, 26 Mar 2026 11:23:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDBQX29RREZISzlkVDQ3WC1VYjZwSzNjdFhHVURCYWdzNlNYeWFaR3U4VTFGcHNQaENpSGx4OUR6UFJIUTVNQkM1Vl8yUGpKa1BjVngyOFlFSWRKWVNLcHBNd1Z4eExWbUlSd1F"
       },
       {
         "headline": "US Warns on Bab El-Mandeb Strait After Iran Shipping Threat - Bloomberg.com",
@@ -497,14 +587,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnMycm5jb3ZWVG51Y1c3cndkY2p3Q0d6Yk9mTDhUalNhYzBraEkzSk92Y3NZX1NDWjV0Y2Q0ckRpblp5NHJaVzhBWmlFOWo2X2ZuMVpBYlFqUTN4WF9aekt0dm8waVZsNTJsekZ"
       },
       {
-        "headline": "Top Consultant Says Iran War Won’t Stop Chinese Investment - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-26/top-consultant-says-iran-war-won-t-stop-chinese-investment",
+        "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
         "source": "Bloomberg Gulf",
         "sourceId": "bloomberg_gulf",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Thu, 26 Mar 2026 07:28:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ24xM1hlY1R4ei1IN0pRS3NmSjduV3JNSGJxZHR2Nm1jc0NQNklJSVJORExpdHh0T1NIVXRMc1k0bWQ1Tmt5SWpPS2xSLTEyeW5Ga081eWtERnBacmRiMmdGbzQwUVFCbnI3OF9"
+        "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+      },
+      {
+        "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
+        "source": "Bloomberg Gulf",
+        "sourceId": "bloomberg_gulf",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Thu, 26 Mar 2026 09:41:17 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
       },
       {
         "headline": "Gulf Airspace Closures Leave Asia-to-Europe Travelers Stranded and Bleeding Cash - Bloomberg.com",
@@ -517,19 +617,41 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjNpazZHMy1VcGFRSGFVYW1iNnFYZGFVTHh1b1B2a1hTVUhOdTRnTVpvWjcxZDlYOHhPa29aTmZ6dkpEb05CZmhTWFNXZURNNkptc3J1bjVKMVhTcGtxbGpNcjN0VU5HUkNUM3R"
       },
       {
-        "headline": "Saudi Arabia and Egypt friendly match.. date and broadcast channels - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/sport/2026/3/26/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9",
+        "headline": "Fifty economics. . Egypt's warning to Saudi Arabia.. Sisi is playing with fire in Syria and Lebanon.. 3 new dams on the Nile in Ethiopia.. Egypt must beware.. The revolution that awaits Egypt.. and Sisi sends his men to Saudi Arabia.. Egyptian delegations in Lebanon.. An urgent nuclear strike and Egypt's nuclear weapons!! #Fifty_Aq - Facebook",
+        "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%85%D8%B5%D8%AF%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D9%86%D8%B0%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D9%84%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%863-%D8%B3%D8%AF%D9%88%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89/982379831131451/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Thu, 26 Mar 2026 13:06:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOdy0wWEpuQ3JLc0xONGxfT0NzWE42TWozLU9jTDc2OGJyVlBkaXViUnZNWWUyQ0NiZ0o0T2ZMTUJGZzNhbHptbGdOQ0ZBRkl0Ym92RGw1bG5ZOUVvQkU1aEFlZFYxdmt2SnRGWkw",
-        "originalHeadline": "مباراة السعودية ومصر الودية.. الموعد والقنوات الناقلة - الجزيرة نت"
+        "date": "Thu, 26 Mar 2026 20:01:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingVBVV95cUxQczJFaXNjRF9wWUR2UTR0cnF4UlhHT0dubjd5cmhGUW1HanliMkZGVEpVRzR3c2lQMUI4TUlvc2xVcUs4SWxOdVVjVVdCMmRGZVFIaDRWTVFkUEhSTW1VbGFKNlZSVzJVMjJoZmJ",
+        "originalHeadline": "خمسينة اقتصاد. . انذار مصر لـ السعودية..السيسي يلعب بالنار في سوريا ولبنان..3 سدود جديدة على النيل في إثيوبيا ..على مصر أن تحذر ..الثورة التي تنتظر مصر..والسيسي يُرسل رجاله لـ السعودية.. وفود مصر في لبنان.. ضربة نووية عاجلة وسلاح مصر النووي!! #خمسينة_اق - Facebook"
+      },
+      {
+        "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
+        "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 17:02:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
+        "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+      },
+      {
+        "headline": "Real estate developers in the Emirates reassure investors concerned about the Iran-Economy war with Bloomberg",
+        "url": "https://asharqbusiness.com/amp/economics/125554/%D9%85%D8%B7%D9%88%D8%B1%D9%88-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%B9%D9%88%D9%86-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86/",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Thu, 26 Mar 2026 18:13:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxPNXhWcS0wVHdudWNGMnhPQThrR2xGNVRyUEVRbEg2NXo3MVFjaDNvX2JKRi1adXJuS2pHS2hhY1YtYjJpNlpmMXlkNFZnd2dvTG4xaUlQa2kxemNla3IzSjZGeFVWSl9ld3puMjB",
+        "originalHeadline": "مطورو العقارات في الإمارات يطمئنون المس��ثمرين القلقين من حرب إيران - اقتصاد الشرق مع بلومبرغ"
       },
       {
         "headline": "A fire in a fuel tank at Kuwait Airport after a drone attack - Asharq Al-Awsat",
-        "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQNTlmM0lDcS02SUNHVm94VEt6U3JWb2Q5QjdOTXhBbDYweC1tNjRPc05RT2RVLXdhS1lzTnJiMmNLYmd5WGYyZ2lhYWhRbXZOVUlLQzNRWUItOVdOeHA5TGE5MEZrRVB6Q2VxYW9YX1VqQ2ZQci03anMzRmxGV08zdXNiUTc1Z1NhaU5vZC05THRiLWVhZVptbXB4Mm5QT2toVU1iQk5WSGkzdFh5YmxXWkZYVkdQT0Jyb2tWQVBkTXpISzNoWHJNNUhFQmYxNkVSRjdlMjQtQjFaLWpHV3BYUUw1LU1XZllMRlhqbTJpeDBwZ1BPM3Q5aHdGaUVEeVJMVGpkVWNNS0hwMDZFaDBIT2wzamFMV0RFODhUU3VvZFBWSFJ3QXIyYlJqOGkzcUNSUDhjRGdpRWYxa1RROWg5d1VmaFhrX2IxQ2tPZ1BwdUFWUHdzcUJMM20zMzJ6bFBycEh1cmQzWDJ1N1lUZnFoY2hmYlZSekNRRENmYXVHTkxzTi14YnFUSjNwR1hmaF9pT2t4MDlabVJNdDBfbnNxeVdRbUhES1d0bDFZbmxMX0xTT3FMQm9pc2NIOEdDUDFYT05SQVpxTlA3T1RZa1NVdnd2VTgyZ1hOWXZ4VGJGdTVhbm4xc3BacDBSd01uMUFmZFFrRDk3NmVTMFg3T01GZGEyQm9OSVMwNXFHQTJjZzZSeEd4VktxbF9GdllBVmNtSmIxTHJ4OA?oc=5",
+        "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5254983-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D8%AE%D8%B2%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D9%8F%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -539,24 +661,13 @@
         "originalHeadline": "حريق في خزان وقود بمطار الكويت بعد هجوم بمُسيّرات - الشرق الأوسط"
       },
       {
-        "headline": "“Saudi Arabia” launches a logistical corridor linking the Gulf to Jordan via railway - East Economy with Bloomberg",
-        "url": "https://asharqbusiness.com/economics/125452/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%85%D8%B1%D8%A7-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D8%A7-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86/",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 17:26:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPTkZlTFpyWGctRS1vYlVaNk52MkJ1bkM4d0lFUzR0VnBocGRCeGlxT0doRzJkQno4TENSQi03cENVcU12LUlWNFZOaTJSQlZtZmFmNkQ2MUVISVdWbGxXdjRuMm1fQTNSaEFVbVd",
-        "originalHeadline": "\"السعودية\" تطلق ممراً لوجستياً يربط الخليج بالأردن عبر السكك الحديدية - اقتصاد الشرق مع بلومبرغ"
-      },
-      {
         "headline": "Lebanese Foreign Ministry: We condemn the terrorist plot against the State of Kuwait - Al-Ahram Gate",
         "url": "https://gate.ahram.org.eg/News/5584954.aspx",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Thu, 26 Mar 2026 19:17:25 GMT",
+        "date": "Thu, 26 Mar 2026 19:18:00 GMT",
         "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeHZQWTdSeFpGZUNvZUtMaDFwekZwSjdLWEZfT2drT2NreE92VmZldTVMVjVuUkZLNmM4eDZ2ai12eVI3eERtajk0WHNmMTVYMDVKRjJR?oc=5\" target=\"_blank\">الخار",
         "originalHeadline": "الخارجية اللبنانية: ندين المخطط الإرهابي الذي تعرضت له دولة الكويت - بوابة الأهرام"
       },
@@ -583,7 +694,7 @@
         "originalHeadline": "الأسهم السعودية تغلق الخميس مرتفعة بقيادة شركة «صالح الراشد» - جريدة المال"
       },
       {
-        "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Erem Business",
+        "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Ramadan Business",
         "url": "https://www.erembusiness.com/energy/nwxazro",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
@@ -591,18 +702,7 @@
         "priority": "primary",
         "date": "Thu, 26 Mar 2026 19:14:22 GMT",
         "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RFB6WjBFdDJJQWxaQldDQmN5RUlySkpjdHY0WG85a3UyR3RiX0t0UVR3MXRxTndYT3RlMnppZWkwWEVaaC1tOUFWRzkzTW9FNks4ZGd3?oc=5\" target=\"_blank\">«توتا",
-        "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - إرم بزنس"
-      },
-      {
-        "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
-        "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Thu, 26 Mar 2026 16:57:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
-        "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+        "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - ��رم بزنس"
       },
       {
         "headline": "Channels broadcasting the friendly match between Saudi Arabia and Egypt 2026, frequency schedule and direct viewing method - Royal Greenwich Trust School",
@@ -629,6 +729,36 @@
     ],
     "byCategory": {
       "qatar": [
+        {
+          "headline": "Israel sends more troops into southern Lebanon as ground invasion expands",
+          "url": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 20:10:30 +0000",
+          "description": "Lebanon&#039;s PM warns Israeli actions and statements threaten Lebanese sovereignty and violate international law."
+        },
+        {
+          "headline": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
+          "url": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 19:56:31 +0000",
+          "description": "Court dismissed xAI claim that measures were taken after plaintiff produced video of nude person shortly before hearing."
+        },
+        {
+          "headline": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
+          "url": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 19:53:04 +0000",
+          "description": "Judge Hellerstein declined to dismiss the case against Maduro but questioned US prosecutors about his access to defence."
+        },
         {
           "headline": "Key takeaways from Trump’s war on Iran meeting",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
@@ -690,7 +820,7 @@
           "description": "Metropolitan Police says reviewing footage of incident, reporters must be able to work &#039;without intimidation&#039;."
         },
         {
-          "headline": "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
+          "headline": "LIVE: Brazil vs France – World Cup 2026 friendly",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
@@ -698,36 +828,108 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 17:08:51 +0000",
           "description": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream."
+        }
+      ],
+      "oman": [
+        {
+          "headline": "UN Secretary-General Antonio Guterres urges diplomacy to end Middle East Conflict",
+          "url": "https://timesofoman.com//article/169921-un-secretary-general-antonio-guterres-urges-diplomacy-to-end-middle-east-conflict",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 21:02:46 +0400",
+          "description": "Brussels: In an urgent appeal to the global community, UN Secretary-General Antonio Guterres expressed grave concerns about the escalating conflict in the..."
         },
         {
-          "headline": "Details revealed of Board of Peace plan for Gaza disarmament",
-          "url": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:47:01 +0000",
-          "description": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months."
+          "headline": "WTO Chief: Global trade system faces uncertainty amid changes",
+          "url": "https://timesofoman.com//article/169920-wto-chief-global-trade-system-faces-uncertainty-amid-changes",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:58:07 +0400",
+          "description": "Yaounde: At the 14th WTO ministerial conference, WTO Director-General Ngozi Okonjo-Iweala addressed the gathering with a stark message about the changing..."
         },
         {
-          "headline": "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:33:18 +0000",
-          "description": "Defense Secretary Pete Hegseth has said that Iran war is &#039;stuff for the history books&#039;."
+          "headline": "Balen Shah set to take oath as Nepal PM on Friday",
+          "url": "https://timesofoman.com//article/169919-balen-shah-set-to-take-oath-as-nepal-pm-on-friday",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:55:04 +0400",
+          "description": "Kathmandu: The Rastriya Swatantra Party (RSP) has unanimously approved the proposal of appointing senior leader Balendra Shah as parliamentary party leader,..."
         },
         {
-          "headline": "Olympics align with Trump as transgender athletes banned from women’s games",
-          "url": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:27:43 +0000",
-          "description": "Transgender athletes banned from women&#039;s Olympic events by new IOC policy aiming for &#039;fairness, safety and integrity&#039;."
+          "headline": "Indian PM Modi to attend G7 summit in France",
+          "url": "https://timesofoman.com//article/169918-indian-pm-modi-to-attend-g7-summit-in-france",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:51:57 +0400",
+          "description": "New Delhi:&nbsp;Indian Prime Minister Narendra Modi is set to travel to France to attend the G7 summit scheduled to take place from June 15 to 17.External..."
+        },
+        {
+          "headline": "Two Omani women drown in Ibri water pool",
+          "url": "https://timesofoman.com//article/169917-two-omani-women-drown-in-ibri-water-pool",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:34:57 +0400",
+          "description": "Ibri: The Search and Rescue Sector reported the death of two female citizens after a tragic drowning incident in a water pool formed in a wadi in the..."
+        },
+        {
+          "headline": "Steve Witkoff confirms Pakistan acting as intermediary between US, Iran",
+          "url": "https://timesofoman.com//article/169916-steve-witkoff-confirms-pakistan-acting-as-intermediary-between-us-iran",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:28:55 +0400",
+          "description": "Washington, DC: United States Special Envoy to the Middle East Steve Witkoff said on Thursday that 15-point action list that forms the framework for a peace..."
+        },
+        {
+          "headline": "Indian, Pakistan expats killed by missile debris in Abu Dhabi",
+          "url": "https://timesofoman.com//article/169915-indian-pakistan-expats-killed-by-missile-debris-in-abu-dhabi",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:24:47 +0400",
+          "description": "Abu Dhabi: An Indian national is among two individuals who tragically lost their lives following a ballistic missile interception over Abu Dhabi on..."
+        },
+        {
+          "headline": "Heavy rains continue in Quriyat, several wadis overflow",
+          "url": "https://timesofoman.com//article/169914-heavy-rains-continue-in-quriyat-several-wadis-overflow",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:19:09 +0400",
+          "description": "Quriyat— Heavy rains continued today across coastal and mountainous villages as well as residential neighborhoods in the Wilayat of Quriyat, including..."
+        },
+        {
+          "headline": "Oman Government announces full acquisition of SalamAir",
+          "url": "https://timesofoman.com//article/169913-oman-government-announces-full-acquisition-of-salamair",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:13:33 +0400",
+          "description": "Muscat-- The Government of the Sultanate of Oman announced the successful completion of its acquisition of SalamAir company. The step forms part of the..."
+        },
+        {
+          "headline": "Funeral rites held for three Indian nationals who died in Barka",
+          "url": "https://timesofoman.com//article/169912-funeral-rites-held-for-three-indian-nationals-who-died-in-barka",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 19:38:53 +0400",
+          "description": "Muscat:The last rites of three Indian nationals, who died in an incident in Barka, were held today at 2 PM, Indian News website Mediaone reported.The..."
         }
       ],
       "wire": [
@@ -760,16 +962,6 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 10:17:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm15bU94U2dnQk96QnpaZGlLZnowTjBJTV94dzhISnE1Qmo0ZHZlN1pMZ0t6VnEyNEJkd1A5OER1bXpGR3FIQ3ZwdzJXSlVkWFc2YXB1by1KYTc2ZnhPUEZSazI1cE1CeWtfRTB"
-        },
-        {
-          "headline": "US military says it struck vessel in Caribbean, killed four people - Reuters",
-          "url": "https://www.reuters.com/world/us-military-says-it-struck-vessel-caribbean-killed-four-people-2026-03-25/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 25 Mar 2026 20:31:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUV3dmZnUFFONVhnTzBIUGtwX2dzb1JMbzZoZ0RIX0RYNHF0OGlMVVNGVGZDeFJXbWdFWXphUW9xZTdYVllTNFgwa1FBMTRFdkhZQWl5bXRTd2lxZ1Z1ZnNaTE9rQlZ1bGVMSnN"
         },
         {
           "headline": "Oil prices rise 5% as investors fear further Middle East escalation - Reuters",
@@ -812,6 +1004,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWG1KSTBkcXRqc1JpMDJtQV83WEJpZFJIY3NUZnJocEVaemJNdXA3b19zclJnbGZESHYwcXMxN1REeTdUck9lT3lhbklYTjU1OVJJUmVkRThpQl9hYVRWa2RqYnlXTjZqQnRSZE1"
         },
         {
+          "headline": "UK authorises military to board Russian shadow fleet tankers - Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-authorises-military-board-russian-shadow-fleet-tankers-2026-03-25/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Mar 2026 22:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG50clRiMTRtdlJVSFJ3UmtoRGdMTjktQ1c5S29kb0gxT0VMeUlPSGdfYkc4VEJ6RkNhTWc1QzBpLVdDeXFGYjJqU0lvYzlOVllySjlOeW94Y2tDemY0TXlvN2luZDBaZmhVcmJ"
+        },
+        {
           "headline": "Iran war chokes petrochemical supply, sends plastic prices soaring - Reuters",
           "url": "https://www.reuters.com/business/energy/iran-war-chokes-petrochemical-supply-sends-plastic-prices-soaring-2026-03-26/",
           "source": "Reuters Gulf",
@@ -833,7 +1035,7 @@
         },
         {
           "headline": "Zelenskyy visits Saudi Arabia as Ukraine provides expertise against Iranian drones - AP News",
-          "url": "https://apnews.com/article/turkish-oil-tanker-attacked-black-sea-2998c366a90ed280e9781a8b030a050c",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDYxeklmNnBsZUZqbFp5c1RIT2Npc2lYU0g5YW5aSzVldWFkVTVLa2lIWnluZE9TamZBV3FqWEVCaWNXMWI4QmpOSy1BQ2Nlb2drcFU5amVycVZMUHZGbU5kbjZpQl9xeTB1WnE1VW1yQ1FsVHp4MERwci1meDZIaHJDU2ZKYWJmdVRKZUR3ZDVBMS1sUXpYRlBRYmk4dw?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -850,16 +1052,6 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 14:51:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0M2h1ZUlmalZmdno2UkhIc2tTODloZWdZYllVWGVkU0M5NkNzbnNFVno5d1drRDBfaTRnRmhUQk1aOXgyN21CbXdIOUhEWHZiNk9pTUtpT2U1RjZWclpKMjZkMTRhRXlOUWx"
-        },
-        {
-          "headline": "What we know about diplomatic efforts to end the Iran war - AP News",
-          "url": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 14:21:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNobF90OVZRWTItX3ZFeUFXMU5CVEp2TjRabjBMMjBsWHZQWlF5N0lCckhycWtKUmcwX3dIdHk5OUpvTlNVUWNXVnRsUy1jaEJWSHhsWUtacXZFdnpwNkpYTUFnekpIdmNUQVp"
         },
         {
           "headline": "EU lawmakers approve trade deal with US but add safeguards - AP News",
@@ -882,24 +1074,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWR4cTMwMXR2VTJqa3pBN1B5N20xNzlTWW9fcm1UNWxsOTF6bXpMM2lGT2hYV0VDMW13aGZ3R1hpS3B4LTdSLS1yR2V5OFREMU9uS0hlU0xyU0U5QkZRRjFwRUFpVksxS3dtV3Z"
         },
         {
-          "headline": "Stocks rise and oil prices ease as Wall Street keeps yo-yoing because of the war with Iran - AP News",
-          "url": "https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17",
+          "headline": "Shipping traffic through Strait of Hormuz in last 24 hours - AP News",
+          "url": "https://apnews.com/video/shipping-traffic-through-strait-of-hormuz-in-last-24-hours-603a7011916140eda0a0668d909db21c",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 25 Mar 2026 20:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFZWdWRkWTl1NnAtN1JYa2xKazZ4b25QSTB2VGUtdWVXMEZDSmN6QjNBc1ZOZkVaM0VGV3JGbnd6bDcydkdtQzFNWXBMRzlDbE1Ec011cHRwWTRwN2xrMWEyc3JEMkRfdjNiZlV"
+          "date": "Thu, 26 Mar 2026 11:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEJLNFJndFRhQnEzNjRtRXZwWmhpOWYtaXhMLUx0c21vT2RGQzFLYzc3XzFzMzVBY3p5U2I3NzRoUlltZ2hGdi1ackZfVG5wMkZlanNTbkRDNFhkU3pTUU9ici01dmxoQ0toejF"
         },
         {
-          "headline": "Iran war - AP News",
-          "url": "https://apnews.com/hub/iran",
+          "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
+          "url": "https://apnews.com/video/melania-trump-brings-humanoid-robot-to-event-to-boost-education-and-technology-for-children-40f84e4ad55946e888d317419afa2d28",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 20:02:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5\" target=\"_blank\"&gt;Iran war&lt;/a&gt;&amp;nbsp;&amp;n"
+          "date": "Thu, 26 Mar 2026 05:06:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
         },
         {
           "headline": "Hawaii suffers its worst flooding in decades - AP News",
@@ -913,7 +1105,7 @@
         },
         {
           "headline": "JON GAMBRELL - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5",
+          "url": "https://apnews.com/author/jon-gambrell",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -922,14 +1114,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5\" target=\"_blank\"&gt;JON GAMBRELL&l"
         },
         {
-          "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUhOSW8xRFB2NVItWXFvWGlDR29lcXVvY1l0ZU8ycVlmRm5TSWExX0tZRWtQTExwS20xRU52bGVnNTJlamdKLXY4cm1ZMWZDUzZvckdsb3BzNkYwbTNrSW5aQ2g1MFZfS1EtWXU2MUhWMGo4MmF3TXV6SExHT0lXYw?oc=5",
+          "headline": "Plane involved in LaGuardia crash removed from runway - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTdGckUzbjRYNGJkRmdJa1AyRDZJNlg4MUlQQmZjZC1Iam1JMm03V0ZBV3hHRnZUTHlzVUgwcFJYa2RiYVdSY0tIaU4wdw?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 05:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
+          "date": "Wed, 25 Mar 2026 22:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTd"
+        },
+        {
+          "headline": "Saudi Arabia says it bombs Yemen port city of Mukalla over shipment of weapons for separatists that arrived from UAE - AP News",
+          "url": "https://apnews.com/916be688cf4dd2e79c91b601007ca367",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 15:05:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YeTdQd24yQTZsenZSZmpnWXlQWlFUN2FBM25RNDhtOUJLV19Vb1lJWXNwN2xJYTg4MExOWllnMVhKSEE4S0hxOEJaUkRWd2xhamx5cHFhZlNGaFh2WjV4ZA?oc=5\" target=\"_b"
         }
       ],
       "competitors": [
@@ -1064,16 +1266,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVNOZ2hqaG5Ra21YOTVTdFZQaHV2RHJqVUZlWlRVb2RaVHFkNjV4NGxZUWp6UkE5WmV5TjJ3Z0t4bEFQWEdUSjFGY1NBNTFOcFlaX0F3Ri1SYzZ1TlFNUDV3ZW8xcU5hSl9kbEV"
         },
         {
-          "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
-          "source": "Bloomberg Gulf",
-          "sourceId": "bloomberg_gulf",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 09:41:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
-        },
-        {
           "headline": "Israel and Iran Keep Up Strikes With Talks to End War Uncertain - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-26/israel-and-iran-keep-up-strikes-with-talks-to-end-war-uncertain",
           "source": "Bloomberg Gulf",
@@ -1094,14 +1286,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTltRDFPdHhKVHVNX1lWd1hlamVsWEpLMkJVM0VTczlvMmVUektzNXVPZkpZWTFDVE90N3VDLTAtNXk4Vlhicm5udXJIdXFlY2p0eWt5VjVUNDlwYVl5VEJ6VGljOG9hVWdYYWl"
         },
         {
-          "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
+          "headline": "Qatar Airways Seeks Ways to Cut Costs as Iran War Halts Flights - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-26/qatar-airways-seeks-ways-to-cut-costs-as-iran-war-halts-flights",
           "source": "Bloomberg Gulf",
           "sourceId": "bloomberg_gulf",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+          "date": "Thu, 26 Mar 2026 11:23:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDBQX29RREZISzlkVDQ3WC1VYjZwSzNjdFhHVURCYWdzNlNYeWFaR3U4VTFGcHNQaENpSGx4OUR6UFJIUTVNQkM1Vl8yUGpKa1BjVngyOFlFSWRKWVNLcHBNd1Z4eExWbUlSd1F"
         },
         {
           "headline": "US Warns on Bab El-Mandeb Strait After Iran Shipping Threat - Bloomberg.com",
@@ -1114,14 +1306,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnMycm5jb3ZWVG51Y1c3cndkY2p3Q0d6Yk9mTDhUalNhYzBraEkzSk92Y3NZX1NDWjV0Y2Q0ckRpblp5NHJaVzhBWmlFOWo2X2ZuMVpBYlFqUTN4WF9aekt0dm8waVZsNTJsekZ"
         },
         {
-          "headline": "Top Consultant Says Iran War Won’t Stop Chinese Investment - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-26/top-consultant-says-iran-war-won-t-stop-chinese-investment",
+          "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
           "source": "Bloomberg Gulf",
           "sourceId": "bloomberg_gulf",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 07:28:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ24xM1hlY1R4ei1IN0pRS3NmSjduV3JNSGJxZHR2Nm1jc0NQNklJSVJORExpdHh0T1NIVXRMc1k0bWQ1Tmt5SWpPS2xSLTEyeW5Ga081eWtERnBacmRiMmdGbzQwUVFCbnI3OF9"
+          "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+        },
+        {
+          "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
+          "source": "Bloomberg Gulf",
+          "sourceId": "bloomberg_gulf",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 09:41:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
         },
         {
           "headline": "Gulf Airspace Closures Leave Asia-to-Europe Travelers Stranded and Bleeding Cash - Bloomberg.com",
@@ -1136,19 +1338,41 @@
       ],
       "arabic_aggregate": [
         {
-          "headline": "Saudi Arabia and Egypt friendly match.. date and broadcast channels - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/sport/2026/3/26/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9",
+          "headline": "Fifty economics. . Egypt's warning to Saudi Arabia.. Sisi is playing with fire in Syria and Lebanon.. 3 new dams on the Nile in Ethiopia.. Egypt must beware.. The revolution that awaits Egypt.. and Sisi sends his men to Saudi Arabia.. Egyptian delegations in Lebanon.. An urgent nuclear strike and Egypt's nuclear weapons!! #Fifty_Aq - Facebook",
+          "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%85%D8%B5%D8%AF%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D9%86%D8%B0%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D9%84%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%863-%D8%B3%D8%AF%D9%88%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89/982379831131451/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 13:06:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOdy0wWEpuQ3JLc0xONGxfT0NzWE42TWozLU9jTDc2OGJyVlBkaXViUnZNWWUyQ0NiZ0o0T2ZMTUJGZzNhbHptbGdOQ0ZBRkl0Ym92RGw1bG5ZOUVvQkU1aEFlZFYxdmt2SnRGWkw",
-          "originalHeadline": "مباراة السعودية ومصر الودية.. الموعد والقنوات الناقلة - الجزيرة نت"
+          "date": "Thu, 26 Mar 2026 20:01:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingVBVV95cUxQczJFaXNjRF9wWUR2UTR0cnF4UlhHT0dubjd5cmhGUW1HanliMkZGVEpVRzR3c2lQMUI4TUlvc2xVcUs4SWxOdVVjVVdCMmRGZVFIaDRWTVFkUEhSTW1VbGFKNlZSVzJVMjJoZmJ",
+          "originalHeadline": "خمسينة اقتصاد. . انذار مصر لـ السعودية..السيسي يلعب بالنار في سوريا ولبنان..3 سدود جديدة على النيل في إثيوبيا ..على مصر أن تحذر ..الثورة التي تنتظر مصر..والسيسي يُرسل رجاله لـ السعودية.. وفود مصر في لبنان.. ضربة نووية عاجلة وسلاح مصر النووي!! #خمسينة_اق - Facebook"
+        },
+        {
+          "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
+          "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 17:02:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
+          "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+        },
+        {
+          "headline": "Real estate developers in the Emirates reassure investors concerned about the Iran-Economy war with Bloomberg",
+          "url": "https://asharqbusiness.com/amp/economics/125554/%D9%85%D8%B7%D9%88%D8%B1%D9%88-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%B9%D9%88%D9%86-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 18:13:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxPNXhWcS0wVHdudWNGMnhPQThrR2xGNVRyUEVRbEg2NXo3MVFjaDNvX2JKRi1adXJuS2pHS2hhY1YtYjJpNlpmMXlkNFZnd2dvTG4xaUlQa2kxemNla3IzSjZGeFVWSl9ld3puMjB",
+          "originalHeadline": "مطورو العقارات في الإمارات يطمئنون المس��ثمرين القلقين من حرب إيران - اقتصاد الشرق مع بلومبرغ"
         },
         {
           "headline": "A fire in a fuel tank at Kuwait Airport after a drone attack - Asharq Al-Awsat",
-          "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQNTlmM0lDcS02SUNHVm94VEt6U3JWb2Q5QjdOTXhBbDYweC1tNjRPc05RT2RVLXdhS1lzTnJiMmNLYmd5WGYyZ2lhYWhRbXZOVUlLQzNRWUItOVdOeHA5TGE5MEZrRVB6Q2VxYW9YX1VqQ2ZQci03anMzRmxGV08zdXNiUTc1Z1NhaU5vZC05THRiLWVhZVptbXB4Mm5QT2toVU1iQk5WSGkzdFh5YmxXWkZYVkdQT0Jyb2tWQVBkTXpISzNoWHJNNUhFQmYxNkVSRjdlMjQtQjFaLWpHV3BYUUw1LU1XZllMRlhqbTJpeDBwZ1BPM3Q5aHdGaUVEeVJMVGpkVWNNS0hwMDZFaDBIT2wzamFMV0RFODhUU3VvZFBWSFJ3QXIyYlJqOGkzcUNSUDhjRGdpRWYxa1RROWg5d1VmaFhrX2IxQ2tPZ1BwdUFWUHdzcUJMM20zMzJ6bFBycEh1cmQzWDJ1N1lUZnFoY2hmYlZSekNRRENmYXVHTkxzTi14YnFUSjNwR1hmaF9pT2t4MDlabVJNdDBfbnNxeVdRbUhES1d0bDFZbmxMX0xTT3FMQm9pc2NIOEdDUDFYT05SQVpxTlA3T1RZa1NVdnd2VTgyZ1hOWXZ4VGJGdTVhbm4xc3BacDBSd01uMUFmZFFrRDk3NmVTMFg3T01GZGEyQm9OSVMwNXFHQTJjZzZSeEd4VktxbF9GdllBVmNtSmIxTHJ4OA?oc=5",
+          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5254983-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D8%AE%D8%B2%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D9%8F%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1158,24 +1382,13 @@
           "originalHeadline": "حريق في خزان وقود بمطار الكويت بعد هجوم بمُسيّرات - الشرق الأوسط"
         },
         {
-          "headline": "“Saudi Arabia” launches a logistical corridor linking the Gulf to Jordan via railway - East Economy with Bloomberg",
-          "url": "https://asharqbusiness.com/economics/125452/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%85%D8%B1%D8%A7-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D8%A7-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 17:26:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPTkZlTFpyWGctRS1vYlVaNk52MkJ1bkM4d0lFUzR0VnBocGRCeGlxT0doRzJkQno4TENSQi03cENVcU12LUlWNFZOaTJSQlZtZmFmNkQ2MUVISVdWbGxXdjRuMm1fQTNSaEFVbVd",
-          "originalHeadline": "\"السعودية\" تطلق ممراً لوجستياً يربط الخليج بالأردن عبر السكك الحديدية - اقتصاد الشرق مع بلومبرغ"
-        },
-        {
           "headline": "Lebanese Foreign Ministry: We condemn the terrorist plot against the State of Kuwait - Al-Ahram Gate",
           "url": "https://gate.ahram.org.eg/News/5584954.aspx",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 19:17:25 GMT",
+          "date": "Thu, 26 Mar 2026 19:18:00 GMT",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeHZQWTdSeFpGZUNvZUtMaDFwekZwSjdLWEZfT2drT2NreE92VmZldTVMVjVuUkZLNmM4eDZ2ai12eVI3eERtajk0WHNmMTVYMDVKRjJR?oc=5\" target=\"_blank\">الخار",
           "originalHeadline": "الخارجية اللبنانية: ندين المخطط الإرهابي الذي تعرضت له دولة الكويت - بوابة الأهرام"
         },
@@ -1202,7 +1415,7 @@
           "originalHeadline": "الأسهم السعودية تغلق الخميس مرتفعة بقيادة شركة «صالح الراشد» - جريدة المال"
         },
         {
-          "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Erem Business",
+          "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Ramadan Business",
           "url": "https://www.erembusiness.com/energy/nwxazro",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1210,18 +1423,7 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 19:14:22 GMT",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RFB6WjBFdDJJQWxaQldDQmN5RUlySkpjdHY0WG85a3UyR3RiX0t0UVR3MXRxTndYT3RlMnppZWkwWEVaaC1tOUFWRzkzTW9FNks4ZGd3?oc=5\" target=\"_blank\">«توتا",
-          "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - إرم بزنس"
-        },
-        {
-          "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
-          "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
-          "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+          "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - ��رم بزنس"
         },
         {
           "headline": "Channels broadcasting the friendly match between Saudi Arabia and Egypt 2026, frequency schedule and direct viewing method - Royal Greenwich Trust School",
@@ -1249,6 +1451,36 @@
     },
     "byPriority": {
       "primary": [
+        {
+          "headline": "Israel sends more troops into southern Lebanon as ground invasion expands",
+          "url": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 20:10:30 +0000",
+          "description": "Lebanon&#039;s PM warns Israeli actions and statements threaten Lebanese sovereignty and violate international law."
+        },
+        {
+          "headline": "Dutch court bans xAI’s Grok from generating nonconsensual nude images",
+          "url": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 19:56:31 +0000",
+          "description": "Court dismissed xAI claim that measures were taken after plaintiff produced video of nude person shortly before hearing."
+        },
+        {
+          "headline": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence",
+          "url": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "qatar",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 19:53:04 +0000",
+          "description": "Judge Hellerstein declined to dismiss the case against Maduro but questioned US prosecutors about his access to defence."
+        },
         {
           "headline": "Key takeaways from Trump’s war on Iran meeting",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
@@ -1310,7 +1542,7 @@
           "description": "Metropolitan Police says reviewing footage of incident, reporters must be able to work &#039;without intimidation&#039;."
         },
         {
-          "headline": "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
+          "headline": "LIVE: Brazil vs France – World Cup 2026 friendly",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/3/26/live-brazil-vs-france-fifa-world-cup-2026-warm-up?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
@@ -1318,36 +1550,6 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 17:08:51 +0000",
           "description": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream."
-        },
-        {
-          "headline": "Details revealed of Board of Peace plan for Gaza disarmament",
-          "url": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:47:01 +0000",
-          "description": "Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months."
-        },
-        {
-          "headline": "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:33:18 +0000",
-          "description": "Defense Secretary Pete Hegseth has said that Iran war is &#039;stuff for the history books&#039;."
-        },
-        {
-          "headline": "Olympics align with Trump as transgender athletes banned from women’s games",
-          "url": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "qatar",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:27:43 +0000",
-          "description": "Transgender athletes banned from women&#039;s Olympic events by new IOC policy aiming for &#039;fairness, safety and integrity&#039;."
         },
         {
           "headline": "Ukraine's Zelenskiy arrives in Saudi Arabia for 'important meetings' - Reuters",
@@ -1378,16 +1580,6 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 10:17:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm15bU94U2dnQk96QnpaZGlLZnowTjBJTV94dzhISnE1Qmo0ZHZlN1pMZ0t6VnEyNEJkd1A5OER1bXpGR3FIQ3ZwdzJXSlVkWFc2YXB1by1KYTc2ZnhPUEZSazI1cE1CeWtfRTB"
-        },
-        {
-          "headline": "US military says it struck vessel in Caribbean, killed four people - Reuters",
-          "url": "https://www.reuters.com/world/us-military-says-it-struck-vessel-caribbean-killed-four-people-2026-03-25/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 25 Mar 2026 20:31:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUV3dmZnUFFONVhnTzBIUGtwX2dzb1JMbzZoZ0RIX0RYNHF0OGlMVVNGVGZDeFJXbWdFWXphUW9xZTdYVllTNFgwa1FBMTRFdkhZQWl5bXRTd2lxZ1Z1ZnNaTE9rQlZ1bGVMSnN"
         },
         {
           "headline": "Oil prices rise 5% as investors fear further Middle East escalation - Reuters",
@@ -1430,6 +1622,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWG1KSTBkcXRqc1JpMDJtQV83WEJpZFJIY3NUZnJocEVaemJNdXA3b19zclJnbGZESHYwcXMxN1REeTdUck9lT3lhbklYTjU1OVJJUmVkRThpQl9hYVRWa2RqYnlXTjZqQnRSZE1"
         },
         {
+          "headline": "UK authorises military to board Russian shadow fleet tankers - Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-authorises-military-board-russian-shadow-fleet-tankers-2026-03-25/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Mar 2026 22:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG50clRiMTRtdlJVSFJ3UmtoRGdMTjktQ1c5S29kb0gxT0VMeUlPSGdfYkc4VEJ6RkNhTWc1QzBpLVdDeXFGYjJqU0lvYzlOVllySjlOeW94Y2tDemY0TXlvN2luZDBaZmhVcmJ"
+        },
+        {
           "headline": "Iran war chokes petrochemical supply, sends plastic prices soaring - Reuters",
           "url": "https://www.reuters.com/business/energy/iran-war-chokes-petrochemical-supply-sends-plastic-prices-soaring-2026-03-26/",
           "source": "Reuters Gulf",
@@ -1451,7 +1653,7 @@
         },
         {
           "headline": "Zelenskyy visits Saudi Arabia as Ukraine provides expertise against Iranian drones - AP News",
-          "url": "https://apnews.com/article/turkish-oil-tanker-attacked-black-sea-2998c366a90ed280e9781a8b030a050c",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDYxeklmNnBsZUZqbFp5c1RIT2Npc2lYU0g5YW5aSzVldWFkVTVLa2lIWnluZE9TamZBV3FqWEVCaWNXMWI4QmpOSy1BQ2Nlb2drcFU5amVycVZMUHZGbU5kbjZpQl9xeTB1WnE1VW1yQ1FsVHp4MERwci1meDZIaHJDU2ZKYWJmdVRKZUR3ZDVBMS1sUXpYRlBRYmk4dw?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1468,16 +1670,6 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 14:51:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0M2h1ZUlmalZmdno2UkhIc2tTODloZWdZYllVWGVkU0M5NkNzbnNFVno5d1drRDBfaTRnRmhUQk1aOXgyN21CbXdIOUhEWHZiNk9pTUtpT2U1RjZWclpKMjZkMTRhRXlOUWx"
-        },
-        {
-          "headline": "What we know about diplomatic efforts to end the Iran war - AP News",
-          "url": "https://apnews.com/article/iran-war-us-talks-trump-israel-767a154363f4aed9c8af36966c4f701a",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 14:21:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWNobF90OVZRWTItX3ZFeUFXMU5CVEp2TjRabjBMMjBsWHZQWlF5N0lCckhycWtKUmcwX3dIdHk5OUpvTlNVUWNXVnRsUy1jaEJWSHhsWUtacXZFdnpwNkpYTUFnekpIdmNUQVp"
         },
         {
           "headline": "EU lawmakers approve trade deal with US but add safeguards - AP News",
@@ -1500,24 +1692,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWR4cTMwMXR2VTJqa3pBN1B5N20xNzlTWW9fcm1UNWxsOTF6bXpMM2lGT2hYV0VDMW13aGZ3R1hpS3B4LTdSLS1yR2V5OFREMU9uS0hlU0xyU0U5QkZRRjFwRUFpVksxS3dtV3Z"
         },
         {
-          "headline": "Stocks rise and oil prices ease as Wall Street keeps yo-yoing because of the war with Iran - AP News",
-          "url": "https://apnews.com/article/stock-markets-trump-iran-oil-826e691e2fd93a63ac8ec8ed98924a17",
+          "headline": "Shipping traffic through Strait of Hormuz in last 24 hours - AP News",
+          "url": "https://apnews.com/video/shipping-traffic-through-strait-of-hormuz-in-last-24-hours-603a7011916140eda0a0668d909db21c",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 25 Mar 2026 20:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFZWdWRkWTl1NnAtN1JYa2xKazZ4b25QSTB2VGUtdWVXMEZDSmN6QjNBc1ZOZkVaM0VGV3JGbnd6bDcydkdtQzFNWXBMRzlDbE1Ec011cHRwWTRwN2xrMWEyc3JEMkRfdjNiZlV"
+          "date": "Thu, 26 Mar 2026 11:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEJLNFJndFRhQnEzNjRtRXZwWmhpOWYtaXhMLUx0c21vT2RGQzFLYzc3XzFzMzVBY3p5U2I3NzRoUlltZ2hGdi1ackZfVG5wMkZlanNTbkRDNFhkU3pTUU9ici01dmxoQ0toejF"
         },
         {
-          "headline": "Iran war - AP News",
-          "url": "https://apnews.com/hub/iran",
+          "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
+          "url": "https://apnews.com/video/melania-trump-brings-humanoid-robot-to-event-to-boost-education-and-technology-for-children-40f84e4ad55946e888d317419afa2d28",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 20:02:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5\" target=\"_blank\"&gt;Iran war&lt;/a&gt;&amp;nbsp;&amp;n"
+          "date": "Thu, 26 Mar 2026 05:06:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
         },
         {
           "headline": "Hawaii suffers its worst flooding in decades - AP News",
@@ -1531,7 +1723,7 @@
         },
         {
           "headline": "JON GAMBRELL - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5",
+          "url": "https://apnews.com/author/jon-gambrell",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1540,14 +1732,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dTlxTll0VjFIa0tXSkpsenF6VTkxNG5ubzZ3NVFBaDZ4aDU2RWN2UldBM2tMc21LTXQxTWpCb3p6bzNpNFpscjhpNk13MFU?oc=5\" target=\"_blank\"&gt;JON GAMBRELL&l"
         },
         {
-          "headline": "Melania Trump brings humanoid robot to event to boost education and technology - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUhOSW8xRFB2NVItWXFvWGlDR29lcXVvY1l0ZU8ycVlmRm5TSWExX0tZRWtQTExwS20xRU52bGVnNTJlamdKLXY4cm1ZMWZDUzZvckdsb3BzNkYwbTNrSW5aQ2g1MFZfS1EtWXU2MUhWMGo4MmF3TXV6SExHT0lXYw?oc=5",
+          "headline": "Plane involved in LaGuardia crash removed from runway - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTdGckUzbjRYNGJkRmdJa1AyRDZJNlg4MUlQQmZjZC1Iam1JMm03V0ZBV3hHRnZUTHlzVUgwcFJYa2RiYVdSY0tIaU4wdw?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 05:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JTRmszMWQ2d25PX25iWEQ5ZWpyb1Fra25kZ3RzSUJIWG9jbEQ0eS1VVVI1NWhaOUNuX0NGbkhxUzRyM2V4WTRDS0ZXLU5CUnZsZHE5bVBCeDhLZE55eTJZSWJPTkNERXNwQUh"
+          "date": "Wed, 25 Mar 2026 22:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVY3REtwbTJTZURYb0pWV0tOTVlNb09PZXc5UlZnb1VHWWN4X1ZRMlQxX25SRmRVeGJTRWVrVHEzNDQzWkhCc0c4ZDN2V3NtUkhSdzRrWWR1SEI0blZyVmZhNHc0Ry0xZVE3UTd"
+        },
+        {
+          "headline": "Saudi Arabia says it bombs Yemen port city of Mukalla over shipment of weapons for separatists that arrived from UAE - AP News",
+          "url": "https://apnews.com/916be688cf4dd2e79c91b601007ca367",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 15:05:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YeTdQd24yQTZsenZSZmpnWXlQWlFUN2FBM25RNDhtOUJLV19Vb1lJWXNwN2xJYTg4MExOWllnMVhKSEE4S0hxOEJaUkRWd2xhamx5cHFhZlNGaFh2WjV4ZA?oc=5\" target=\"_b"
         },
         {
           "headline": "Trump's Iran strategy is to pursue two off-ramps at once",
@@ -1650,19 +1852,41 @@
           "description": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues."
         },
         {
-          "headline": "Saudi Arabia and Egypt friendly match.. date and broadcast channels - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/sport/2026/3/26/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9",
+          "headline": "Fifty economics. . Egypt's warning to Saudi Arabia.. Sisi is playing with fire in Syria and Lebanon.. 3 new dams on the Nile in Ethiopia.. Egypt must beware.. The revolution that awaits Egypt.. and Sisi sends his men to Saudi Arabia.. Egyptian delegations in Lebanon.. An urgent nuclear strike and Egypt's nuclear weapons!! #Fifty_Aq - Facebook",
+          "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%85%D8%B5%D8%AF%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D8%A7%D9%86%D8%B0%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D9%84%D8%B9%D8%A8-%D8%A8%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%863-%D8%B3%D8%AF%D9%88%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89/982379831131451/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 13:06:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOdy0wWEpuQ3JLc0xONGxfT0NzWE42TWozLU9jTDc2OGJyVlBkaXViUnZNWWUyQ0NiZ0o0T2ZMTUJGZzNhbHptbGdOQ0ZBRkl0Ym92RGw1bG5ZOUVvQkU1aEFlZFYxdmt2SnRGWkw",
-          "originalHeadline": "مباراة السعودية ومصر الودية.. الموعد والقنوات الناقلة - الجزيرة نت"
+          "date": "Thu, 26 Mar 2026 20:01:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingVBVV95cUxQczJFaXNjRF9wWUR2UTR0cnF4UlhHT0dubjd5cmhGUW1HanliMkZGVEpVRzR3c2lQMUI4TUlvc2xVcUs4SWxOdVVjVVdCMmRGZVFIaDRWTVFkUEhSTW1VbGFKNlZSVzJVMjJoZmJ",
+          "originalHeadline": "خمسينة اقتصاد. . انذار مصر لـ السعودية..السيسي يلعب بالنار في سوريا ولبنان..3 سدود جديدة على النيل في إثيوبيا ..على مصر أن تحذر ..الثورة التي تنتظر مصر..والسيسي يُرسل رجاله لـ السعودية.. وفود مصر في لبنان.. ضربة نووية عاجلة وسلاح مصر النووي!! #خمسينة_اق - Facebook"
+        },
+        {
+          "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
+          "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 17:02:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
+          "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+        },
+        {
+          "headline": "Real estate developers in the Emirates reassure investors concerned about the Iran-Economy war with Bloomberg",
+          "url": "https://asharqbusiness.com/amp/economics/125554/%D9%85%D8%B7%D9%88%D8%B1%D9%88-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%B9%D9%88%D9%86-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%82%D9%84%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Thu, 26 Mar 2026 18:13:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxPNXhWcS0wVHdudWNGMnhPQThrR2xGNVRyUEVRbEg2NXo3MVFjaDNvX2JKRi1adXJuS2pHS2hhY1YtYjJpNlpmMXlkNFZnd2dvTG4xaUlQa2kxemNla3IzSjZGeFVWSl9ld3puMjB",
+          "originalHeadline": "مطورو العقارات في الإمارات يطمئنون المس��ثمرين القلقين من حرب إيران - اقتصاد الشرق مع بلومبرغ"
         },
         {
           "headline": "A fire in a fuel tank at Kuwait Airport after a drone attack - Asharq Al-Awsat",
-          "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQNTlmM0lDcS02SUNHVm94VEt6U3JWb2Q5QjdOTXhBbDYweC1tNjRPc05RT2RVLXdhS1lzTnJiMmNLYmd5WGYyZ2lhYWhRbXZOVUlLQzNRWUItOVdOeHA5TGE5MEZrRVB6Q2VxYW9YX1VqQ2ZQci03anMzRmxGV08zdXNiUTc1Z1NhaU5vZC05THRiLWVhZVptbXB4Mm5QT2toVU1iQk5WSGkzdFh5YmxXWkZYVkdQT0Jyb2tWQVBkTXpISzNoWHJNNUhFQmYxNkVSRjdlMjQtQjFaLWpHV3BYUUw1LU1XZllMRlhqbTJpeDBwZ1BPM3Q5aHdGaUVEeVJMVGpkVWNNS0hwMDZFaDBIT2wzamFMV0RFODhUU3VvZFBWSFJ3QXIyYlJqOGkzcUNSUDhjRGdpRWYxa1RROWg5d1VmaFhrX2IxQ2tPZ1BwdUFWUHdzcUJMM20zMzJ6bFBycEh1cmQzWDJ1N1lUZnFoY2hmYlZSekNRRENmYXVHTkxzTi14YnFUSjNwR1hmaF9pT2t4MDlabVJNdDBfbnNxeVdRbUhES1d0bDFZbmxMX0xTT3FMQm9pc2NIOEdDUDFYT05SQVpxTlA3T1RZa1NVdnd2VTgyZ1hOWXZ4VGJGdTVhbm4xc3BacDBSd01uMUFmZFFrRDk3NmVTMFg3T01GZGEyQm9OSVMwNXFHQTJjZzZSeEd4VktxbF9GdllBVmNtSmIxTHJ4OA?oc=5",
+          "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5254983-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D8%AE%D8%B2%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D8%A8%D9%85%D9%8F%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1672,24 +1896,13 @@
           "originalHeadline": "حريق في خزان وقود بمطار الكويت بعد هجوم بمُسيّرات - الشرق الأوسط"
         },
         {
-          "headline": "“Saudi Arabia” launches a logistical corridor linking the Gulf to Jordan via railway - East Economy with Bloomberg",
-          "url": "https://asharqbusiness.com/economics/125452/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%85%D8%B1%D8%A7-%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D8%A7-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 17:26:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPTkZlTFpyWGctRS1vYlVaNk52MkJ1bkM4d0lFUzR0VnBocGRCeGlxT0doRzJkQno4TENSQi03cENVcU12LUlWNFZOaTJSQlZtZmFmNkQ2MUVISVdWbGxXdjRuMm1fQTNSaEFVbVd",
-          "originalHeadline": "\"السعودية\" تطلق ممراً لوجستياً يربط الخليج بالأردن عبر السكك الحديدية - اقتصاد الشرق مع بلومبرغ"
-        },
-        {
           "headline": "Lebanese Foreign Ministry: We condemn the terrorist plot against the State of Kuwait - Al-Ahram Gate",
           "url": "https://gate.ahram.org.eg/News/5584954.aspx",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Thu, 26 Mar 2026 19:17:25 GMT",
+          "date": "Thu, 26 Mar 2026 19:18:00 GMT",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeHZQWTdSeFpGZUNvZUtMaDFwekZwSjdLWEZfT2drT2NreE92VmZldTVMVjVuUkZLNmM4eDZ2ai12eVI3eERtajk0WHNmMTVYMDVKRjJR?oc=5\" target=\"_blank\">الخار",
           "originalHeadline": "الخارجية اللبنانية: ندين المخطط الإرهابي الذي تعرضت له دولة الكويت - بوابة الأهرام"
         },
@@ -1716,7 +1929,7 @@
           "originalHeadline": "الأسهم السعودية تغلق الخميس مرتفعة بقيادة شركة «صالح الراشد» - جريدة المال"
         },
         {
-          "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Erem Business",
+          "headline": "Total Energies confirms its commitment to gas contracts despite the Qatar crisis - Ramadan Business",
           "url": "https://www.erembusiness.com/energy/nwxazro",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1724,18 +1937,7 @@
           "priority": "primary",
           "date": "Thu, 26 Mar 2026 19:14:22 GMT",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RFB6WjBFdDJJQWxaQldDQmN5RUlySkpjdHY0WG85a3UyR3RiX0t0UVR3MXRxTndYT3RlMnppZWkwWEVaaC1tOUFWRzkzTW9FNks4ZGd3?oc=5\" target=\"_blank\">«توتا",
-          "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - إرم بزنس"
-        },
-        {
-          "headline": "Hossam Hassan: Facing Saudi Arabia is a real test for the Pharaohs’ ambitions before the World Cup - Youm7",
-          "url": "https://www.youm7.com/story/2026/3/26/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D8%B7%D9%85%D9%88%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B9%D9%86%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/7354699",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Thu, 26 Mar 2026 16:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgRBVV95cUxONVFXLWlCbGthcWxENjhRcE9Qa0RGLXZUdU1fMllJZlg2SXBqWnh4SHllMjlwTUtOQ1F2VERjczJtQzlPd0p4NjJLVmR6WUFhNUFjVGFqUkpqMmFmUkc5TjdtMXl4UWZpNVRMd0Z",
-          "originalHeadline": "حسام حسن: مواجهة السعودية اختبار حقيقي لطموحات الفراعنة قبل المونديال - اليوم السابع"
+          "originalHeadline": "«توتال إنرجيز» تؤكد التزامها بعقود الغاز رغم أزمة قطر - ��رم بزنس"
         },
         {
           "headline": "Channels broadcasting the friendly match between Saudi Arabia and Egypt 2026, frequency schedule and direct viewing method - Royal Greenwich Trust School",
@@ -1761,6 +1963,106 @@
         }
       ],
       "secondary": [
+        {
+          "headline": "UN Secretary-General Antonio Guterres urges diplomacy to end Middle East Conflict",
+          "url": "https://timesofoman.com//article/169921-un-secretary-general-antonio-guterres-urges-diplomacy-to-end-middle-east-conflict",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 21:02:46 +0400",
+          "description": "Brussels: In an urgent appeal to the global community, UN Secretary-General Antonio Guterres expressed grave concerns about the escalating conflict in the..."
+        },
+        {
+          "headline": "WTO Chief: Global trade system faces uncertainty amid changes",
+          "url": "https://timesofoman.com//article/169920-wto-chief-global-trade-system-faces-uncertainty-amid-changes",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:58:07 +0400",
+          "description": "Yaounde: At the 14th WTO ministerial conference, WTO Director-General Ngozi Okonjo-Iweala addressed the gathering with a stark message about the changing..."
+        },
+        {
+          "headline": "Balen Shah set to take oath as Nepal PM on Friday",
+          "url": "https://timesofoman.com//article/169919-balen-shah-set-to-take-oath-as-nepal-pm-on-friday",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:55:04 +0400",
+          "description": "Kathmandu: The Rastriya Swatantra Party (RSP) has unanimously approved the proposal of appointing senior leader Balendra Shah as parliamentary party leader,..."
+        },
+        {
+          "headline": "Indian PM Modi to attend G7 summit in France",
+          "url": "https://timesofoman.com//article/169918-indian-pm-modi-to-attend-g7-summit-in-france",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:51:57 +0400",
+          "description": "New Delhi:&nbsp;Indian Prime Minister Narendra Modi is set to travel to France to attend the G7 summit scheduled to take place from June 15 to 17.External..."
+        },
+        {
+          "headline": "Two Omani women drown in Ibri water pool",
+          "url": "https://timesofoman.com//article/169917-two-omani-women-drown-in-ibri-water-pool",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:34:57 +0400",
+          "description": "Ibri: The Search and Rescue Sector reported the death of two female citizens after a tragic drowning incident in a water pool formed in a wadi in the..."
+        },
+        {
+          "headline": "Steve Witkoff confirms Pakistan acting as intermediary between US, Iran",
+          "url": "https://timesofoman.com//article/169916-steve-witkoff-confirms-pakistan-acting-as-intermediary-between-us-iran",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:28:55 +0400",
+          "description": "Washington, DC: United States Special Envoy to the Middle East Steve Witkoff said on Thursday that 15-point action list that forms the framework for a peace..."
+        },
+        {
+          "headline": "Indian, Pakistan expats killed by missile debris in Abu Dhabi",
+          "url": "https://timesofoman.com//article/169915-indian-pakistan-expats-killed-by-missile-debris-in-abu-dhabi",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:24:47 +0400",
+          "description": "Abu Dhabi: An Indian national is among two individuals who tragically lost their lives following a ballistic missile interception over Abu Dhabi on..."
+        },
+        {
+          "headline": "Heavy rains continue in Quriyat, several wadis overflow",
+          "url": "https://timesofoman.com//article/169914-heavy-rains-continue-in-quriyat-several-wadis-overflow",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:19:09 +0400",
+          "description": "Quriyat— Heavy rains continued today across coastal and mountainous villages as well as residential neighborhoods in the Wilayat of Quriyat, including..."
+        },
+        {
+          "headline": "Oman Government announces full acquisition of SalamAir",
+          "url": "https://timesofoman.com//article/169913-oman-government-announces-full-acquisition-of-salamair",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 20:13:33 +0400",
+          "description": "Muscat-- The Government of the Sultanate of Oman announced the successful completion of its acquisition of SalamAir company. The step forms part of the..."
+        },
+        {
+          "headline": "Funeral rites held for three Indian nationals who died in Barka",
+          "url": "https://timesofoman.com//article/169912-funeral-rites-held-for-three-indian-nationals-who-died-in-barka",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 19:38:53 +0400",
+          "description": "Muscat:The last rites of three Indian nationals, who died in an incident in Barka, were held today at 2 PM, Indian News website Mediaone reported.The..."
+        },
         {
           "headline": "Saudi Oil Sales to Top Asia Buyers to Drop on Hormuz Disruptions - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-26/saudi-oil-sales-to-top-asia-buyers-to-drop-on-hormuz-disruptions",
@@ -1792,16 +2094,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVNOZ2hqaG5Ra21YOTVTdFZQaHV2RHJqVUZlWlRVb2RaVHFkNjV4NGxZUWp6UkE5WmV5TjJ3Z0t4bEFQWEdUSjFGY1NBNTFOcFlaX0F3Ri1SYzZ1TlFNUDV3ZW8xcU5hSl9kbEV"
         },
         {
-          "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
-          "source": "Bloomberg Gulf",
-          "sourceId": "bloomberg_gulf",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 09:41:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
-        },
-        {
           "headline": "Israel and Iran Keep Up Strikes With Talks to End War Uncertain - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-26/israel-and-iran-keep-up-strikes-with-talks-to-end-war-uncertain",
           "source": "Bloomberg Gulf",
@@ -1822,14 +2114,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTltRDFPdHhKVHVNX1lWd1hlamVsWEpLMkJVM0VTczlvMmVUektzNXVPZkpZWTFDVE90N3VDLTAtNXk4Vlhicm5udXJIdXFlY2p0eWt5VjVUNDlwYVl5VEJ6VGljOG9hVWdYYWl"
         },
         {
-          "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
+          "headline": "Qatar Airways Seeks Ways to Cut Costs as Iran War Halts Flights - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-26/qatar-airways-seeks-ways-to-cut-costs-as-iran-war-halts-flights",
           "source": "Bloomberg Gulf",
           "sourceId": "bloomberg_gulf",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+          "date": "Thu, 26 Mar 2026 11:23:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDBQX29RREZISzlkVDQ3WC1VYjZwSzNjdFhHVURCYWdzNlNYeWFaR3U4VTFGcHNQaENpSGx4OUR6UFJIUTVNQkM1Vl8yUGpKa1BjVngyOFlFSWRKWVNLcHBNd1Z4eExWbUlSd1F"
         },
         {
           "headline": "US Warns on Bab El-Mandeb Strait After Iran Shipping Threat - Bloomberg.com",
@@ -1842,14 +2134,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnMycm5jb3ZWVG51Y1c3cndkY2p3Q0d6Yk9mTDhUalNhYzBraEkzSk92Y3NZX1NDWjV0Y2Q0ckRpblp5NHJaVzhBWmlFOWo2X2ZuMVpBYlFqUTN4WF9aekt0dm8waVZsNTJsekZ"
         },
         {
-          "headline": "Top Consultant Says Iran War Won’t Stop Chinese Investment - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-26/top-consultant-says-iran-war-won-t-stop-chinese-investment",
+          "headline": "US and Iran Wrangle Over Talks With No End to War Yet in Sight - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-25/trump-faces-fresh-iran-demands-as-he-looks-to-jump-start-talks",
           "source": "Bloomberg Gulf",
           "sourceId": "bloomberg_gulf",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 26 Mar 2026 07:28:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ24xM1hlY1R4ei1IN0pRS3NmSjduV3JNSGJxZHR2Nm1jc0NQNklJSVJORExpdHh0T1NIVXRMc1k0bWQ1Tmt5SWpPS2xSLTEyeW5Ga081eWtERnBacmRiMmdGbzQwUVFCbnI3OF9"
+          "date": "Thu, 26 Mar 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0NYWlprVS0zUXpnb0d5N1ZKYTFyaGlCVk1sYm92NEc2WUJmcjZBYnp4SF9qQTQxY2dySjRuN1JndVdISTlhbGN6d3FDVkg3NkxkWDd0V1pzQ1UtcEhYTHE4eEdzWXVheU5sckp"
+        },
+        {
+          "headline": "Iran Oil Revenue Soars as It’s the Only Exporter Out of Hormuz - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
+          "source": "Bloomberg Gulf",
+          "sourceId": "bloomberg_gulf",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Thu, 26 Mar 2026 09:41:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1Y2M2xVQWNqdE43QUljOFNxRDVXN3YzaVk0dlB5UUJqNnQ5WGlIajNtUlp6dVQ1R2dtd2hxWmZNZFFzazJTLTJMN09oa2kybEJyeXRBN21tT3pKeUlUcFNEUUZKb2RHQ2dYUW9"
         },
         {
           "headline": "Gulf Airspace Closures Leave Asia-to-Europe Travelers Stranded and Bleeding Cash - Bloomberg.com",
@@ -1906,11 +2208,11 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
+        "His Highness the Minister of Foreign Affairs, Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n Participates in the session (Global Governance Reform) within the work of the #G7 Ministerial Meeting.",
+        "The Custodian of the Two Holy Mosques and His Highness the Crown Prince offer their condolences to the President of the Republic of Colombia for the victims of the Colombian military plane crash.",
         "His Highness the Minister of Foreign Affairs, Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n He meets with the High Representative of the European Union for Foreign Affairs and Security Policy, Vice-President of the European Commission, Kaya Kallas, on the sidelines of His Highness’s participation in the #G7 ministerial meeting.",
         "During the meeting, the latest developments in the regional and international situation and the efforts made in this regard were discussed.",
-        "The meeting was attended by His Excellency the Ambassador of the Custodian of the Two Holy Mosques to the Republic of France, Fahd bin Mayouf Al-Ruwaili, and His Excellency the Director General of the Office of His Highness the Minister, Walid bin Abdul Hamid Al-Ismail.",
-        "His Highness the Minister of Foreign Affairs, Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n He meets with His Excellency the Minister of Foreign Affairs of the Italian Republic, Antonio Tajani, on the sidelines of His Highness’s participation in the #G7 ministerial meeting.",
-        "During the meeting, bilateral cooperation relations between the two countries were reviewed, in addition to discussing developments in regional situations of common interest."
+        "The meeting was attended by His Excellency the Ambassador of the Custodian of the Two Holy Mosques to the Republic of France, Fahd bin Mayouf Al-Ruwaili, and His Excellency the Director General of the Office of His Highness the Minister, Walid bin Abdul Hamid Al-Ismail."
       ]
     },
     {
@@ -1983,7 +2285,7 @@
       "priority": "secondary",
       "language": "en",
       "tweets": [
-        "We look and feel safe and secure. \n\nfounding_day",
+        "We look and feel safe and sound. \n\nfounding_day",
         "Frequently asked questions for completing procedures for holders of visas ending on 9/8/1447 AH corresponding to 2/25/2026 AD who were unable to leave the Kingdom due to the current conditions that the region is going through.",
         "Frequently Asked Questions\n\nFor completing the procedures of visa holders whose visas expired as of 8/9/1447 AH, corresponding to 25/2/2026 AD, and who were unable to depart the Kingdom due to the current situation in the region.",
         "In implementation of the directives of the leadership - may God protect it.. the Ministry of Interior begins processing the conditions of holders of visas (all types of visit, Umrah, transit and final exit) expiring as of 9/8/1447 AH corresponding to 2/25/2026 AD, who were unable to leave due to the current conditions that the region is going through."
@@ -1998,11 +2300,11 @@
       "priority": "secondary",
       "language": "en",
       "tweets": [
+        "Professor of Political Media Dr. Mutlaq Al-Mutairi:\n\nAmerica's priorities in Iran differ from the rest of the G7 members, and the G7 countries focus on the economy and oil prices",
+        "Political writer Dr. Khaled Batarfi: Iran may have to pay compensation for the damage it caused in the Gulf countries",
+        "Ministry of Defense: intercepting and destroying a drone in the eastern region",
         "A strategic path that enhances trade stability away from sea lane tensions.\n\nThe Empty Quarter port is becoming more important with the political and economic challenges in the region",
-        "From the old port of Doha, the elegance of the past embraces the present and highlights Qatar’s stability and security readiness",
-        "Al-Akhbariya correspondent Ahmed Al-Masoudi: Life is normal in Kuwait and proceeds normally amid rainy weather",
-        "The Foreign Minister meets with the High Representative of the European Union for Foreign Affairs and Security Policy, Vice-President of the European Commission",
-        "Ministry of Defense: intercepting and destroying a drone in the eastern region"
+        "From the old port of Doha, the elegance of the past embraces the present and highlights Qatar’s stability and security readiness"
       ]
     },
     {
@@ -2155,10 +2457,10 @@
       "priority": "secondary",
       "language": "en",
       "tweets": [
+        "Due to the prevailing weather conditions, the Ministry of Interior calls on you to exercise caution and adhere to traffic laws \n\nDue to the current weather, conditions, the Ministry of Interior urges you to take caution and adhere to traffic laws\n\n#UAE_Ministry_of_Interior #UAE_Safety_and_Security\n#MOIUAE",
         "Due to the prevailing weather conditions, the Ministry of the Interior calls on you to exercise caution, adhere to traffic laws, and stay away from places where water collects and valley streams, to avoid vehicles slipping.\n\nDue to the current weather, conditions, the Ministry of Interior urges you to take caution and adhere to",
         "punishment \nWarning",
-        "UAE air defenses deal with Iranian ballistic and cruise missiles and drones.\n\nUAE Air Defenses engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#Ministry_of_Defence \n#UAE_Ministry_of_Defence\n#MOD\n#UAEMinistryOfDefence",
-        "Together we face the vagaries of the weather with awareness and commitment, by following official guidelines and cooperating to protect lives and property."
+        "UAE air defenses deal with Iranian ballistic and cruise missiles and drones.\n\nUAE Air Defenses engaged Iranian\nBallistic and Cruise Missiles and UAVs Attacks\n\n#Ministry_of_Defence \n#UAE_Ministry_of_Defence\n#MOD\n#UAEMinistryOfDefence"
       ]
     },
     {
@@ -2201,7 +2503,7 @@
       "language": "en",
       "tweets": [
         "Today, I was honored by the trust placed in me by His Highness Sheikh Tamim bin Hamad Al Thani, the Emir of the country, may God protect him, by appointing me as Prime Minister. \n\nI ask God Almighty for success, and I look forward to working with my fellow ministers in serving our nation and contributing to its advancement under the wise leadership of His Highness.",
-        "We mourn with regret and sadness the heroes of our armed forces, their brothers from the Qatari-Turkish joint forces, and the collaborators who were martyred as a result of a helicopter crash while performing their national duty. We ask God to have mercy on them, and to protect Qatar and its security. We extend to their families our sincere condolences and sympathy in this painful accident.",
+        "We mourn with regret and sorrow the heroes of our armed forces and their brothers from the Qatari-Turkish joint forces and collaborators who were martyred as a result of a helicopter crash while performing their national duty. We ask God to have mercy on them, and to protect Qatar and its security. We extend to their families our sincere condolences and sympathy in this painful accident.",
         "I congratulate my lord, His Highness the Sheikh \n@TamimBinHamad\nAnd the people of Qatar, and the Arab and Islamic nations, celebrate Eid al-Fitr. In light of these circumstances, we trust in God, then in the wisdom of our leadership and the solidarity of our society that Qatar will remain safe, and we ask God to reward our armed forces, security services, and every individual in society with the best reward for preserving Qatar’s security.",
         "I congratulate our dear people and residents of the land of Qatar, and to all Muslims in the world, a blessed Eid Al-Fitr, asking God to bring it back to us all with goodness, right and blessings. This Eid comes and the men of the nation, led by our armed forces and security services, are vigilant with determination and sincerity for the security and stability of Qatar, praying to God to",
         "Iranian attacks on the State of Qatar, especially deliberately targeting the capabilities of the Qatari people, are rejected and unjustified under any pretext."
@@ -2366,10 +2668,9 @@
       "language": "en",
       "tweets": [
         "No matter how long the night in Sanaa is \n\nThe sun of victory will shine proudly above it",
+        "RT \n@moigovye\n: #Decisive_Storm...a decisive decision that saved #Yemen from Iranian influence and consolidated its Arab identity..",
         "● The eleventh anniversary of the Operation \"Decisive Storm\", led by the Kingdom of Saudi Arabia on March 26, 2015, is a pivotal station in contemporary Yemeni history and a strategic turning point that prevented Yemen from falling completely into the grip of the Iranian scheme,",
-        "● The eleventh anniversary of the launch of Operation Decisive Storm, which was led by the Kingdom of Saudi Arabia on March 26, 2015, marks a turning point in contemporary Yemeni history, and a strategic turning point that prevented Yemen from completely falling into the grip of the Iranian project, and the serious repercussions that would have had on the country.",
-        "On the anniversary of #Decisive_Storm, we recall a distinguished fraternal stance led by the brothers in the Kingdom of Saudi Arabia, alongside the Yemeni people and their constitutional legitimacy, against projects of chaos and militias, as the best example of integrated Arab deterrence in modern history.",
-        "This is a renewed memory for contemplation and comparison between an Arab project that supports the national state, stability and development, and an Iranian project based on violence, chaos, hijacking decisions, and confiscating the will of the peoples and the future of their successive generations."
+        "● The eleventh anniversary of the launch of Operation Decisive Storm, which was led by the Kingdom of Saudi Arabia on March 26, 2015, marks a turning point in contemporary Yemeni history, and a strategic turning point that prevented Yemen from completely falling into the grip of the Iranian project, and the serious repercussions that would have had on the country."
       ]
     },
     {
@@ -2547,10 +2848,6 @@
   ],
   "feedHealth": {
     "failed": [
-      {
-        "name": "Times of Oman",
-        "error": "Timeout"
-      },
       {
         "name": "Kuwait News Agency",
         "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.kuna.net.kw/Default.aspx\", waiting until \"domcontentloaded\"\n"
