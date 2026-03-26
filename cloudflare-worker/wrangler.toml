@@ -2,7 +2,5 @@ name = "gulf-briefing-refresh"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
-# Cron trigger: 02:00 UTC = 6am GST (Gulf Standard Time, UTC+4)
-# Fires the workflow even if GitHub skips the cron due to repo inactivity
-[triggers]
-crons = ["0 2 * * *"]
+# NOTE: Cloudflare cron trigger removed — hit 5-trigger free plan limit.
+# GitHub Actions cron handles scheduling. This worker is refresh-button only.
