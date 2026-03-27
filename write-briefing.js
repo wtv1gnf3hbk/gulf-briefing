@@ -34,7 +34,7 @@ if (!ANTHROPIC_API_KEY) {
 // CLAUDE API CALL
 // ============================================
 
-function callClaude(prompt, systemPrompt = '') {
+function callClaudeOnce(prompt, systemPrompt = '') {
   return new Promise((resolve, reject) => {
     const messages = [{ role: 'user', content: prompt }];
 
@@ -61,7 +61,10 @@ function callClaude(prompt, systemPrompt = '') {
         try {
           const json = JSON.parse(data);
           if (json.error) {
-            reject(new Error(json.error.message));
+            // Mark overloaded/rate-limit as retryable
+            const err = new Error(json.error.message);
+            err.retryable = res.statusCode === 529 || res.statusCode === 429;
+            reject(err);
           } else {
             resolve(json.content[0].text);
           }
@@ -80,6 +83,24 @@ function callClaude(prompt, systemPrompt = '') {
     req.write(body);
     req.end();
   });
+}
+
+// Retry wrapper — up to 3 attempts with exponential backoff for overloaded/rate-limit errors
+async function callClaude(prompt, systemPrompt = '') {
+  const MAX_RETRIES = 3;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await callClaudeOnce(prompt, systemPrompt);
+    } catch (e) {
+      if (e.retryable && attempt < MAX_RETRIES) {
+        const delay = attempt * 15;  // 15s, 30s
+        console.log(`⚠️  API overloaded (attempt ${attempt}/${MAX_RETRIES}), retrying in ${delay}s...`);
+        await new Promise(r => setTimeout(r, delay * 1000));
+      } else {
+        throw e;
+      }
+    }
+  }
 }
 
 // ============================================
