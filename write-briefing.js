@@ -461,7 +461,7 @@ ${briefingText
 // PROMPT BUILDING
 // ============================================
 
-function buildPrompt(briefing) {
+function buildPrompt(briefing, style = 'conversational') {
   const config = briefing.metadata || {};
   const ownerName = config.owner || 'the Gulf correspondent';
   const timezone = config.timezone || 'Asia/Dubai';
@@ -536,9 +536,9 @@ BRIEFING-SPECIFIC RULES:
 7. Official Twitter/X posts from ministers and royals are PRIMARY SOURCES.
 8. Energy/OPEC stories are always relevant.`;
 
-  const userPrompt = `${greeting} Here is the scraped data.
-
-Write a briefing using this headline data. Use these sections in order:
+  // Style-specific instructions
+  const STYLE_INSTRUCTIONS = {
+    conversational: `Write a briefing using this headline data. Use these sections in order:
 
 1. **Top News** (2-3 paragraphs, no header): Synthesize the top Gulf stories in flowing prose. Lead with the single most consequential development.
 
@@ -571,7 +571,50 @@ Every bullet must have at least one link. Vary attribution: "Reuters reports", "
 FLAG any stories where:
 - International outlets are ahead of local/regional press
 - A story might warrant dedicated NYT Gulf coverage
-- There is a gap between Arabic-language and English-language coverage
+- There is a gap between Arabic-language and English-language coverage`,
+
+    bullets: `Write a BULLET-ONLY briefing. NO summary paragraphs, NO prose sections, NO introductory text. Every single item is a bullet point.
+
+FORMAT: Flat list of 15-20 bullet points. Each bullet is one sentence with a link. Group under bold section headers but NO prose under headers — go straight to bullets.
+
+SECTIONS (headers only, then bullets immediately):
+- **Top News** (5-6 bullets, most important first)
+- **Energy & Economy** (3-4 bullets)
+- **Country Watch** (bullets grouped by country name in bold)
+- **Official Signals** (2-3 bullets)
+- **Coverage Flags** (1-2 bullets)
+- **Sources** (bulleted list with links)
+
+RULES:
+- NO paragraphs anywhere. Zero prose. Only bullets.
+- Each bullet = one fact, one sentence, one link.
+- Start each bullet with the country or entity, then the fact.
+- Example: "- Saudi Arabia plans to invest $100 billion in AI infrastructure, the Public Investment Fund announced ([Reuters](url))."`,
+
+    wib: `Write a "World in Brief" style briefing — modeled on The Economist's format.
+
+FORMAT: Exactly 10 numbered items. Each item is a SINGLE dense paragraph of 40-60 words. No bullets, no sub-sections, no headers between items.
+
+STRUCTURE:
+1. Bold topic label at the start of each paragraph (e.g., "**Saudi-Iran talks.**" or "**OPEC production cuts.**")
+2. Then 2-3 sentences of dry, factual prose covering who/what/why.
+3. One link per item.
+
+RULES:
+- Exactly 10 items, numbered 1-10.
+- NO section headers (no "Top News", no "Energy & Economy" — just the numbered items).
+- NO bullet points anywhere. Pure paragraphs.
+- Dry, neutral tone. No analysis, no "this matters because."
+- Each item is self-contained — a reader should understand it without reading the others.
+- Order by importance, not by topic.
+- End with a **Sources** section (bulleted list with links).`
+  };
+
+  const styleInstructions = STYLE_INSTRUCTIONS[style] || STYLE_INSTRUCTIONS.conversational;
+
+  const userPrompt = `${greeting} Here is the scraped data.
+
+${styleInstructions}
 
 Here is the data, organized by outlet:
 
@@ -610,8 +653,9 @@ async function main() {
   console.log(`Found ${briefing.stats?.totalStories || 0} stories`);
   console.log('');
 
-  // Build prompt
-  const { systemPrompt, userPrompt } = buildPrompt(briefing);
+  // Build prompt with style
+  const { systemPrompt, userPrompt } = buildPrompt(briefing, STYLE);
+  console.log(`Style: ${STYLE}`);
 
   console.log('Calling Claude API...');
   const startTime = Date.now();
