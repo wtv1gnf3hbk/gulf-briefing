@@ -610,7 +610,8 @@ RULES:
 - NO paragraphs anywhere. Zero prose. Only bullets.
 - Each bullet = one fact, one sentence, one link.
 - Start each bullet with the country or entity, then the fact.
-- Example: "- Saudi Arabia plans to invest $100 billion in AI infrastructure, the Public Investment Fund announced ([Reuters](url))."`,
+- Use PAST TENSE throughout. These events already happened. "Saudi Arabia announced" not "Saudi Arabia announces" or "Saudi Arabia plans."
+- Example: "- Saudi Arabia announced a $100 billion AI infrastructure investment, the Public Investment Fund said ([Reuters](url))."`,
 
     wib: `Write a "World in Brief" style briefing — modeled on The Economist's format.
 
@@ -628,6 +629,7 @@ RULES:
 - Dry, neutral tone. No analysis, no "this matters because."
 - Each item is self-contained — a reader should understand it without reading the others.
 - Order by importance, not by topic.
+- Use PAST TENSE throughout. These events already happened. "announced" not "announces," "said" not "says."
 - End with a **Sources** section (bulleted list with links).`
   };
 
