@@ -1,53 +1,52 @@
-Ukrainian President Volodymyr Zelenskyy signed a [defense cooperation](https://www.reuters.com/business/aerospace-defense/ukraine-saudi-arabia-sign-deal-defence-cooperation-zelenskiy-says-2026-03-27/) agreement with Saudi Arabia, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal), as part of a surprise Gulf tour positioning Ukraine as a potential air defense partner for the region. The timing coincides with heightened Iranian threats across the Gulf, following [Chinese vessels](https://www.reuters.com/world/china/chinese-ships-halt-attempt-exit-hormuz-despite-iran-safe-passage-assurances-2026-03-27/) halting their exit from the Strait of Hormuz despite Iranian safe passage assurances, Reuters reports.
+**Top News**
 
-Saudi Foreign Minister Prince Faisal bin Farhan [chaired an](https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss) international conference on Palestinian statehood alongside his French counterpart in Paris, while severe weather conditions across Oman forced the [suspension of](https://timesofoman.com//article/169942-temporary-suspension-of-services-at-several-health-centres-due-to-weather-conditions) health services and [road damage](https://timesofoman.com//article/169944-heavy-rainfall-causes-road-damage-and-power-outages-in-north-al-sharqiyah) in North Al Sharqiyah governorate, according to the Times of Oman.
+Iran struck Prince Sultan Air Base in Saudi Arabia, wounding [twelve US](https://www.reuters.com/world/middle-east/twelve-us-troops-wounded-iran-strike-base-saudi-arabia-us-official-says-2026-03-27/) troops and damaging several aircraft, according to Reuters. The attack represents a significant escalation as Iran directly targets American forces on Saudi soil following the ongoing US-Israeli war against Iran. Gulf states have reportedly told Washington that [ending the war](https://www.reuters.com/world/middle-east/gulf-states-tell-us-ending-war-is-not-enough-irans-capabilities-must-be-degraded-2026-03-27/) is insufficient and Iran's capabilities must be degraded, per Reuters.
 
-## Energy & Economy
+The UAE's air defenses engaged Iranian missiles and drones targeting the Emirates, with authorities reporting [two fires](https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss) in Abu Dhabi's Khalifa Economic Zones from falling missile debris. Chinese vessels [halted attempts](https://www.reuters.com/world/china/chinese-ships-halt-attempt-exit-hormuz-despite-iran-safe-passage-assurances-2026-03-27/) to exit the Strait of Hormuz despite Iranian safe passage assurances, Reuters reports, highlighting mounting concerns over maritime security. Trump pressed Saudi Arabia to [recognize Israel](https://www.bloomberg.com/news/articles/2026-03-27/trump-presses-saudis-to-recognize-israel-as-he-defends-iran-war) while defending the Iran war, Bloomberg reports.
 
-• Oil prices [dropped as](https://www.bloomberg.com/news/articles/2026-03-26/latest-oil-market-news-and-analysis-for-march-27) Trump pushed back his timeline for strikes on Iranian energy infrastructure, Bloomberg reports, while vital [oil benchmarks](https://www.bloomberg.com/news/articles/2026-03-27/vital-oil-price-benchmarks-bent-out-of-shape-by-iran-war) remain distorted by the Iran conflict.
+**Energy & Economy**
 
-• UAE ports are [ramping up](https://www.bloomberg.com/news/articles/2026-03-27/uae-port-ramps-up-hormuz-dodging-oil-flows-after-iranian-strikes) Hormuz-dodging oil flows following Iranian strikes, according to Bloomberg, as energy markets adapt to shipping route disruptions.
+• Russia will [ban gasoline](https://timesofoman.com//article/169962-russia-announces-export-ban-on-gasoline-from-april-1) exports from April 1, the Times of Oman reports, potentially affecting global fuel markets as the Iran war disrupts regional energy flows.
 
-• The Iran conflict is [boosting renewable](https://www.reuters.com/business/energy/ceraweek-iran-war-seen-boosting-renewable-energy-investment-with-focus-security-2026-03-26/) energy investment with security rather than climate as the primary driver, Reuters reports from CERAWeek.
+• Oil price benchmarks are being [distorted](https://www.bloomberg.com/news/articles/2026-03-27/vital-oil-price-benchmarks-bent-out-of-shape-by-iran-war) by the Iran war, Bloomberg reports, complicating pricing mechanisms for Gulf crude exports.
 
-• Emerging market [debt issuance](https://www.reuters.com/business/finance/emerging-economies-record-debt-spree-slumps-into-freeze-iran-war-rocks-markets-2026-03-27/) has frozen as the Iran war continues to rock global markets, Reuters reports.
+• G7 foreign ministers emphasized the "absolute necessity" of keeping the Strait of Hormuz [safe and toll-free](https://timesofoman.com//article/169961-g7-foreign-ministers-emphasise-absolute-necessity-of-safe-and-toll-free-strait-of-hormuz), according to the Times of Oman.
 
-## Saudi Arabia
+• The Iran war is making Red Sea shipping a [bigger worry](https://www.bloomberg.com/news/articles/2026-03-27/why-the-iran-war-makes-red-sea-shipping-a-bigger-worry) for global trade, Bloomberg reports.
 
-Saudi Defense Minister Prince Khalid bin Salman held calls with Hungarian and French defense counterparts, discussing "Iran's flagrant attacks on the Kingdom and other regional states," according to his official [Twitter account](https://twitter.com/kbsalsaud). The Foreign Ministry [issued a](https://twitter.com/FaisalbinFarhan) statement reaffirming that "Saudi Arabia's position on the establishment of a Palestinian state is firm and unwavering."
+**Country Watch**
 
-## UAE
+**Saudi Arabia**
+Ukrainian President Zelenskyy signed a [defense cooperation](https://www.reuters.com/business/aerospace-defense/ukraine-saudi-arabia-sign-deal-defence-cooperation-zelenskiy-says-2026-03-27/) deal with Saudi Arabia, Reuters reports. Bloomberg reports Ukraine is offering [air defense](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal) technology in exchange for Gulf funding. Prince Khalid bin Salman met with Hungary's defense minister to discuss "Iran's flagrant attacks on the Kingdom," according to his Twitter account.
 
-UAE air defenses [engaged 6](https://twitter.com/modgovae) ballistic missiles and 9 drones from Iran on March 27, according to the Defense Ministry's official account, bringing total intercepts since Iranian attacks began to 378 ballistic missiles and 15 cruise missiles. Sheikh Anwar Gargash, the presidential advisor, [criticized Turkish](https://twitter.com/AnwarGargash) threats against the UAE as representing "a new downfall for Turkey's diplomacy."
+**UAE**
+The UAE Defense Ministry confirmed air defenses engaged [six ballistic missiles](https://twitter.com/modgovae) and nine drones from Iran on March 27, bringing total intercepts since Iranian attacks began to 378 ballistic missiles and 15 cruise missiles. Abu Dhabi authorities are managing fire incidents in the Khalifa Economic Zones from missile debris.
 
-## Qatar
+**Qatar**
+Prime Minister Al Thani called Iranian attacks on Qatar "rejected and unjustified under any pretext," according to his Twitter account. EU Special Representative Luigi Di Maio met with Qatari officials, expressing "full EU support to Qatar and its people against Iranian attacks," per his social media.
 
-Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani [met with](https://twitter.com/majedalansari) US Secretary of Defense Pete Hegseth in Washington, per his foreign ministry spokesman. EU Special Representative Luigi Di Maio held "very fruitful meetings" in Doha with Qatari officials, expressing "full EU support to Qatar and its people against Iranian attacks," [according to](https://twitter.com/majedalansari) the foreign ministry spokesperson.
+**Bahrain**
+Bahrain's Interior Ministry activated warning sirens, urging citizens to "remain calm and head to the nearest safe place" as regional tensions escalated.
 
-## Bahrain / Kuwait / Oman
+**Yemen**
+Yemen's IRG-backed government through Mohammed Al-Eryani praised Saudi Arabia's "firm fraternal positions" in defending Yemen. Southern Transitional Council leader Amr Bidh addressed European diplomats about southern Yemen developments. Houthi spokesman Mohammed Abdulsalam defended naval operations as supporting Palestinians, not challenging maritime security.
 
-Oman continues [emergency response](https://timesofoman.com//article/169943-oman-continues-emergency-response-efforts-amid-weather-conditions) efforts following severe rainfall that caused power outages and forced temporary [health center](https://timesofoman.com//article/169942-temporary-suspension-of-services-at-several-health-centres-due-to-weather-conditions) closures. Two citizens were [arrested in](https://timesofoman.com//article/169945-two-citizens-arrested-in-bidiyah-for-risky-wadi-crossing) Bidiyah for dangerous wadi crossings. Bahrain's foreign ministry [condemned a](https://twitter.com/bahdiplomatic) "terrorist plot" in Kuwait, though details remain unclear.
+**Official Signals**
 
-## Yemen
+Saudi Foreign Minister Prince Faisal bin Farhan participated in the G7 ministerial meeting session on "Transnational Threats and Sovereignty," discussing international threats and enhancing navigation security. His ministry issued a statement reaffirming that "Saudi Arabia's position on the establishment of a Palestinian state is firm and unwavering," following Crown Prince Mohammed bin Salman's clear stance.
 
-Houthi negotiator Mohammed Abdulsalam [announced an](https://twitter.com/abdusalamsalah) agreement with the IRG government to cancel banking restrictions and resume Yemenia Airlines flights to Jordan and Cairo. Saudi Yemen envoy Mohammed Al-Jabir [declared on](https://twitter.com/mohdsalj) Twitter that "Al-Hudaydah is liberated," though the claim cannot be independently verified. Southern Transitional Council leader Aidarous Al-Zubaidi [performed Umrah](https://twitter.com/AidrosAlzubidi) rituals following Eid Al-Fitr.
+Oman's Foreign Minister Badr Albusaidi told EU officials that "whatever your view of Iran, this war is not of their making," emphasizing Oman's role in facilitating Strait of Hormuz safe passage arrangements during his meeting with EU Special Representative Luigi Di Maio.
 
-## Official Signals
+**Coverage Flags**
 
-Prince Khalid bin Salman's defense consultations with European counterparts signal Saudi efforts to build international consensus against Iranian attacks. His [Twitter posts](https://twitter.com/kbsalsaud) specifically naming Iran's "flagrant attacks" represent unusually direct diplomatic language from Riyadh. Houthi official Mohammed Ali Al-Houthi's [call for](https://twitter.com/Moh_Alhouthi) Arab armies to focus on Jerusalem rather than Yemen suggests Ansar Allah positioning itself as pro-Palestinian while criticizing Saudi military priorities.
+Bloomberg and Reuters are ahead on Gulf diplomatic pressure regarding Iran strategy, with sources indicating Gulf frustration with US war conduct. Arabic-language coverage focuses heavily on solidarity messaging while English outlets detail specific military and economic impacts.
 
-## Coverage Flags
+**Sources**
 
-International outlets are ahead on the Ukraine-Saudi defense deal significance and Hormuz shipping disruptions. The Houthi banking agreement and Al-Hudaydah liberation claims warrant verification through independent sources. Local Arabic coverage of the Egypt-Saudi football match appears to overshadow regional security developments.
-
-## Sources
-
-• [Reuters - Ukraine Saudi Defense Deal](https://www.reuters.com/business/aerospace-defense/ukraine-saudi-arabia-sign-deal-defence-cooperation-zelenskiy-says-2026-03-27/)
-• [Bloomberg - Zelenskyy Gulf Tour](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal)
-• [Reuters - Chinese Ships Hormuz](https://www.reuters.com/world/china/chinese-ships-halt-attempt-exit-hormuz-despite-iran-safe-passage-assurances-2026-03-27/)
-• [Bloomberg - UAE Ports](https://www.bloomberg.com/news/articles/2026-03-27/uae-port-ramps-up-hormuz-dodging-oil-flows-after-iranian-strikes)
-• [Times of Oman - Weather Impact](https://timesofoman.com//article/169942-temporary-suspension-of-services-at-several-health-centres-due-to-weather-conditions)
-• [Twitter - Prince Khalid bin Salman](https://twitter.com/kbsalsaud)
-• [Twitter - UAE Defense Ministry](https://twitter.com/modgovae)
-• [Twitter - Qatar FM Spokesperson](https://twitter.com/majedalansari)
-• [Twitter - Mohammed Abdulsalam](https://twitter.com/abdusalamsalah)
+• [Reuters - US troops wounded](https://www.reuters.com/world/middle-east/twelve-us-troops-wounded-iran-strike-base-saudi-arabia-us-official-says-2026-03-27/)
+• [Reuters - Gulf states tell US](https://www.reuters.com/world/middle-east/gulf-states-tell-us-ending-war-is-not-enough-irans-capabilities-must-be-degraded-2026-03-27/)
+• [Reuters - Chinese ships halt](https://www.reuters.com/world/china/chinese-ships-halt-attempt-exit-hormuz-despite-iran-safe-passage-assurances-2026-03-27/)
+• [Bloomberg - Trump presses Saudis](https://www.bloomberg.com/news/articles/2026-03-27/trump-presses-saudis-to-recognize-israel-as-he-defends-iran-war)
+• [Times of Oman - Russia gasoline ban](https://timesofoman.com//article/169962-russia-announces-export-ban-on-gasoline-from-april-1)
+• [Times of Oman - G7 Hormuz](https://timesofoman.com//article/169961-g7-foreign-ministers-emphasise-absolute-necessity-of-safe-and-toll-free-strait-of-hormuz)
+• [Al Jazeera - Tehran bombing](https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss)
