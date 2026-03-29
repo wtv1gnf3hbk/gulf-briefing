@@ -1,54 +1,51 @@
-**Top News**
+Iran has dramatically escalated its monthlong conflict with the United States by launching direct attacks on multiple Gulf states, marking the first time Iranian forces have struck GCC territory since the war began. Bloomberg reports that Iran [targeted Saudi](https://www.bloomberg.com/news/articles/2026-03-28/iran-backed-houthis-join-war-as-more-us-troops-reach-middle-east) military installations hosting US troops, injuring American personnel, while also hitting industrial facilities in Bahrain and the UAE. The attacks prompted Bahrain to impose a [maritime ban](https://policemc.gov.bh/en/news/77453/) from 6 PM to 4 AM daily, according to its Interior Ministry, while the UAE Defense Ministry reported intercepting [16 ballistic missiles](https://twitter.com/modgovae) and 42 drones in Saturday's barrage alone.
 
-Yemen's Houthi forces entered the month-old US-Israeli war against Iran with their [first missile](https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0) attack on Israel since the conflict began, Al Jazeera reports, opening what Ansar Allah calls a new front as Iranian forces struck Gulf targets. The Houthi escalation threatens to [further damage](https://www.bbc.com/news/articles/cwyvd5z1xjno) global shipping through the Red Sea, according to the BBC, while US Marines have arrived in the region and more American forces are deploying following Iranian attacks that [injured US](https://apnews.com/article/iran-war-american-casualties-wounded-troops-ea713e7850053d8670b062e6b11a6e39) troops at a Saudi base, per AP.
-
-Iranian missile and drone attacks targeted industrial facilities across the Gulf, with Emirates Global Aluminium confirming damage to its [Al Taweelah facility](https://asharqbusiness.com/companies/125816/) in the Khalifa Economic Zone and two people injured at Bahrain Aluminum Company, according to Arabic-language outlets. The UAE Defense Ministry issued repeated statements that air defenses were "currently dealing with missile and drone attacks coming from Iran," while Bahrain's Interior Ministry sounded alarm sirens urging citizens to seek shelter. Saudi Arabia's crucial East-West Pipeline is now [pumping 7](https://www.bloomberg.com/news/articles/2026-03-28/saudi-pipeline-that-bypasses-hormuz-hits-7-million-barrel-goal) million barrels per day of oil that bypasses the Strait of Hormuz, Bloomberg reports, as the waterway faces mounting security pressures.
+Iran-backed Houthis have formally entered the broader conflict, launching their [first missile attack](https://apnews.com/article/iran-israel-us-houthis-yemen-dba2e2e2309f08547a3cbfdc2c367897) on Israel since the war began, according to AP News. The escalation has revived fears of renewed Red Sea shipping disruptions, with the BBC reporting potential [threats to global](https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss) trade routes. Against this backdrop, Pakistani officials are hosting diplomatic talks with Saudi Arabia, Turkey, and Egypt as regional powers seek to contain the crisis, Reuters reports.
 
 **Energy & Economy**
 
-• Saudi Arabia's East-West Pipeline has reached its [7 million](https://www.bloomberg.com/news/articles/2026-03-28/saudi-pipeline-that-bypasses-hormuz-hits-7-million-barrel-goal) barrel-per-day capacity goal, Bloomberg reports, allowing the kingdom to export oil directly to the Red Sea while bypassing the Strait of Hormuz during the Iran conflict.
+• Saudi Arabia's east-west pipeline is now [pumping 7 million](https://www.reuters.com/business/energy/saudi-pipeline-pumping-7-million-bpd-oil-bypassing-hormuz-bloomberg-news-reports-2026-03-28/) barrels per day of oil, bypassing the Strait of Hormuz entirely, according to Bloomberg News via Reuters — a critical development as Iranian attacks threaten shipping lanes.
 
-• Iran has agreed to allow [20 ships](https://timesofoman.com//article/169994-iran-to-allow-20-ships-under-pakistani-flag-through-hormuz-strait-deputy-prime-minister-dar) under Pakistani flag through the Strait of Hormuz, Times of Oman reports, as Deputy Prime Minister Ishaq Dar announced diplomatic arrangements for safe passage.
+• Most Gulf stock markets [declined on](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/) fears of broader conflict with Iran, Reuters reports, reflecting investor anxiety about regional stability.
 
-• Maersk has [halted operations](https://www.reuters.com/world/middle-east/maersk-halts-operations-omans-salalah-port-due-security-incident-2026-03-28/) at Oman's Salalah port due to a security incident, Reuters reports, adding to shipping disruptions across the region.
+• The UN Secretary-General has formed a [special task force](https://timesofoman.com//article/170020-un-secretary-general-forms-special-task-force-to-address-humanitarian-crisis-in-strait-of-hormuz) to address the humanitarian crisis in the Strait of Hormuz, according to Times of Oman.
 
-• Qatar and Egypt called for containing regional escalation to [ensure energy](https://www.aljazeera.net/news/2026/3/29/) security, according to Al Jazeera's Arabic service, as officials warned of broader economic impacts from the Iran war.
-
-**Country Watch**
+• Ukraine's President Zelenskyy is visiting Gulf states seeking [long-term fuel](https://www.bloomberg.com/news/articles/2026-03-28/zelenskiy-seeks-long-term-fuel-supply-deals-on-middle-east-tour) supply deals, Bloomberg reports, while also pursuing defense cooperation agreements.
 
 **Saudi Arabia**
-Prince Khalid bin Salman discussed Iran's "flagrant attacks on the Kingdom" during calls with Hungary's Defense Minister and France's Armed Forces Minister, condemning the [repeated Iranian](https://twitter.com/kbsalsaud) attacks targeting Saudi territory. Saudi Ambassador to Yemen Mohammed AlJabir declared that [Al-Hudaydah is](https://twitter.com/mohdsalj) "liberated" and "Yemen is breathing," while announcing plans to visit Sana'a with an Omani delegation to consolidate the truce and discuss prisoner exchanges.
+
+Prince Khalid bin Salman confirmed he discussed Iran's "flagrant attacks on the Kingdom and other regional states" in calls with Hungarian and French defense ministers, [posting on X](https://twitter.com/kbsalsaud) that he condemned the "repeated Iranian attacks targeting the Kingdom." Foreign Minister Prince Faisal bin Farhan is participating in [quadripartite ministerial talks](https://twitter.com/KSAMOFA) in Islamabad with Pakistan, Turkey, and Egypt to address regional developments. Iran's Parliament Speaker Mohammad Ghalibaf [rejected a](https://timesofoman.com//article/170022-we-will-never-be-humiliated-iran-speaker-ghalibaf-slams-us-15-point-plan) US "15-Point Plan" according to Times of Oman, declaring "we will never be humiliated."
 
 **UAE**
-The Defense Ministry confirmed that UAE air defenses were actively [dealing with](https://twitter.com/modgovae) "missile and drone attacks coming from Iran," with sounds heard across the country resulting from successful interceptions of ballistic missiles, cruise missiles and drones. Emirates Global Aluminium reported damage to its industrial facility in the Khalifa Economic Zone following Iranian attacks.
+
+The UAE Defense Ministry reported intercepting [414 ballistic missiles](https://twitter.com/modgovae) and 15 cruise missiles since Iranian attacks began, with Saturday alone seeing 16 ballistic missiles and 42 drones engaged. CNN Arabic reports that Iran [attacked two](https://arabic.cnn.com/middle-east/article/2026/03/29/bahrains-aluminum-facility-hit-in-iran-attack-state-news-agency-says) aluminum production companies in Bahrain and the UAE. Sheikh Abdullah bin Zayed [criticized the UN's](https://twitter.com/ABZayed) "bare minimum" response to the humanitarian crisis, calling for stronger international efforts to end the war.
 
 **Qatar**
-Prime Minister Mohammed bin Abdulrahman Al Thani condemned Iranian attacks on Qatar, particularly those [deliberately targeting](https://twitter.com/MBA_AlThani_) "the capabilities of the Qatari people" as "rejected and unjustified under any pretext." Qatar's government emphasized that current decisions are based on "comprehensive institutional planning" that prioritizes community safety.
+
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani [condemned Iranian attacks](https://twitter.com/MBA_AlThani_) on Qatar, stating they are "rejected and unjustified under any pretext." Ukraine [agreed defense cooperation](https://www.reuters.com/world/middle-east/ukraine-uae-agree-cooperate-defence-zelenskiy-says-2026-03-28/) with both UAE and Qatar during Zelenskyy's Gulf tour, Reuters reports.
 
 **Bahrain**
-Interior Ministry officials sounded alarm sirens and urged citizens to [remain calm](https://twitter.com/moi_bahrain) and "head to the nearest safe place" as Iranian attacks targeted the kingdom, with two people reportedly injured at Bahrain Aluminum Company facilities.
 
-**Oman**
-Foreign Minister Badr Albusaidi met with EU Special Representative Luigi Di Maio, sharing Oman's "acute concern to bring peace to the region" and stating that [this war](https://twitter.com/badralbusaidi) "is not of their making" while working on safe passage arrangements for the Strait of Hormuz. The country conducted [44 air](https://timesofoman.com//article/169997-44-air-sorties-conducted-404-rescued-amid-rains-in-oman) sorties and rescued 404 people during recent severe weather.
+Two people were [injured in](https://arabic.cnn.com/middle-east/article/2026/03/29/bahrains-aluminum-facility-hit-in-iran-attack-state-news-agency-says) an Iranian attack on Bahrain Aluminum Company, according to CNN Arabic. The Interior Ministry implemented an immediate [maritime movement ban](https://twitter.com/moi_bahrain) from 6 PM to 4 AM "to preserve the safety of sailors and seagoers" following the "blatant Iranian aggression."
 
 **Yemen**
-Houthi spokesman Mohammed Abdulsalam declared that Yemen's naval operations [aim to](https://twitter.com/abdusalamsalah) support Palestinians "in confronting the aggression and siege on Gaza," while Mohammed Ali Al Houthi claimed the "first line of defense" for Mecca and Medina requires [removing the](https://twitter.com/Moh_Alhouthi) "usurping entity from Jerusalem and Palestine." IRG Deputy Prime Minister Abu Zaraa praised the activation of Starlink satellite internet as an [important step](https://twitter.com/AbuZar3a) toward development while criticizing unilateral decision-making within the Presidential Leadership Council.
+
+Houthi forces launched their first missile attack on Israel since the broader Iran conflict began, AP News reports, formally bringing the Iran-backed group into the monthlong war. Mohammed Abdulsalam, the Houthis' chief negotiator, [defended naval operations](https://twitter.com/abdusalamsalah) in the Red Sea as supporting Palestinians, while warning that "whoever seeks to expand the conflict must bear the consequences." Saudi Yemen envoy Mohammed Al Jabir [posted](https://twitter.com/mohdsalj) "#Al-Hudaydah is liberated.....#Yemen is breathing," though the context remains unclear.
 
 **Official Signals**
 
-Ukraine President Zelenskyy secured defense cooperation agreements with both the UAE and Qatar during his Gulf tour, with Bloomberg reporting he offered [air defense](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal) technology in exchange for Gulf funding while seeking long-term fuel supply deals. Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood, stating that Saudi Arabia's position on [establishing a](https://twitter.com/FaisalbinFarhan) Palestinian state "is firm and unwavering" as outlined by Crown Prince Mohammed bin Salman. Pakistan announced it will host diplomatic talks with Saudi Arabia, Turkey, and Egypt as part of [Iran war](https://www.reuters.com/world/asia-pacific/pakistan-host-talks-with-saudi-arabia-turkey-egypt-amid-iran-war-diplomacy-2026-03-28/) diplomacy efforts, Reuters reports.
+Iranian Parliament Speaker Mohammad Ghalibaf's [rejection of](https://timesofoman.com//article/170022-we-will-never-be-humiliated-iran-speaker-ghalibaf-slams-us-15-point-plan) US diplomatic overtures signals Tehran's unwillingness to negotiate while under military pressure, according to Times of Oman. Oman's Foreign Minister Badr Albusaidi [told the Economist](https://twitter.com/badralbusaidi) that "whatever your view of Iran, this war is not of their making," positioning Muscat as a potential mediator while maintaining its policy of constructive neutrality.
 
 **Coverage Flags**
 
-International outlets appear ahead of regional press on the scope of Iranian attacks against Gulf industrial targets, with Arabic-language sources providing more specific details about casualties and facility damage than English reporting. The strategic implications of Saudi Arabia's pipeline capacity milestone and its timing during the Iran conflict warrant deeper analysis of Gulf energy security planning.
+Bloomberg's exclusive reporting on the Saudi pipeline bypassing Hormuz appears ahead of regional outlets, suggesting this story warrants follow-up on energy security implications. The scale of UAE's missile interceptions — over 400 projectiles — has received limited detailed coverage and may merit deeper investigation into Gulf air defense capabilities.
 
 **Sources**
-
-• [Al Jazeera](https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front)
-• [AP News](https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0)
-• [Reuters](https://www.reuters.com/world/middle-east/maersk-halts-operations-omans-salalah-port-due-security-incident-2026-03-28/)
-• [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-28/saudi-pipeline-that-bypasses-hormuz-hits-7-million-barrel-goal)
-• [BBC](https://www.bbc.com/news/articles/cwyvd5z1xjno)
-• [Times of Oman](https://timesofoman.com//article/169994-iran-to-allow-20-ships-under-pakistani-flag-through-hormuz-strait-deputy-prime-minister-dar)
-• [Al Sharq Business](https://asharqbusiness.com/companies/125816/)
-• [Al Jazeera Arabic](https://www.aljazeera.net/news/2026/3/29/)
+• [AP News - Iranian attack on Saudi base injures US troops](https://apnews.com/article/iran-war-american-casualties-wounded-troops-ea713e7850053d8670b062e6b11a6e39)
+• [Reuters - Pakistan to host talks with Saudi Arabia, Turkey, Egypt](https://www.reuters.com/world/asia-pacific/pakistan-host-talks-with-saudi-arabia-turkey-egypt-amid-iran-war-diplomacy-2026-03-28/)
+• [Bloomberg - US sees first combat loss of E-3 jet](https://www.bloomberg.com/news/articles/2026-03-29/us-sees-first-combat-loss-of-valuable-e-3-jet-in-missile-strike)
+• [BBC - Iran-backed Houthis join war](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss)
+• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
+• [UAE Defense Ministry Twitter](https://twitter.com/modgovae)
+• [Bahrain Interior Ministry](https://policemc.gov.bh/en/news/77453/)
+• [Times of Oman - Iran Speaker rejects US plan](https://timesofoman.com//article/170022-we-will-never-be-humiliated-iran-speaker-ghalibaf-slams-us-15-point-plan)
