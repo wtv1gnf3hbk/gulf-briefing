@@ -1,28 +1,30 @@
-**Gulf Brief — March 28, 2026**
+**Gulf Daily Briefing**
 
-1. **Iranian strike on Saudi base.** Iran struck Prince Sultan Air Base in Saudi Arabia, wounding at least 10 US service members and damaging several aircraft, [according to AP](https://apnews.com/article/iran-war-us-troops-wounded-saudi-base-8404fd9b67b76c756e543fc307565572). The attack represents a significant escalation in Iran's targeting of American forces stationed in Gulf states.
+1. **Houthi escalation.** Yemen's Ansar Allah launched its first missile attack on Israel since the Iran war began one month ago, according to [Reuters reports](https://www.reuters.com/world/asia-pacific/yemens-houthis-enter-iran-war-with-attacks-israel-while-us-marines-arrive-region-2026-03-28/). The group's military spokesman said naval operations aim to support Palestinians in Gaza and warned of expanding the conflict to threaten Red Sea shipping routes again.
 
-2. **Gulf states demand Iran capabilities degraded.** Gulf countries told the US that ending the current conflict is insufficient and Iran's military capabilities must be degraded, [Reuters reports](https://www.reuters.com/world/middle-east/gulf-states-tell-us-ending-war-is-not-enough-irans-capabilities-must-be-degraded-2026-03-27/). The position reflects growing Gulf frustration with Washington's handling of Iranian threats to regional security.
+2. **Iranian strikes hit Gulf.** Iran attacked Saudi military bases, injuring US troops, and launched ballistic missiles at UAE and Bahrain industrial facilities, [AP News reports](https://apnews.com/article/iran-war-american-casualties-wounded-troops-ea713e7850053d8670b062e6b11a6e39). Emirates Global Aluminium confirmed damage to its Al Taweelah facility, while Bahrain Aluminum Company reported two injuries from Iranian strikes.
 
-3. **Ukraine signs Saudi defense deal.** Ukraine and Saudi Arabia signed a defense cooperation agreement, with President Zelenskyy offering air defense systems in exchange for Gulf funding, [per Bloomberg](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal). The deal aims to counter Iranian drone capabilities affecting both regions.
+3. **Saudi oil bypass activated.** Saudi Arabia's east-west pipeline reached full capacity of 7 million barrels per day, bypassing the Strait of Hormuz as regional tensions escalate, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-28/saudi-pipeline-that-bypasses-hormuz-hits-7-million-barrel-goal). The pipeline provides crucial energy security as Iran threatens to disrupt Gulf shipping lanes.
 
-4. **Chinese ships halt Hormuz transit.** Chinese vessels stopped attempting to exit the Strait of Hormuz despite Iranian assurances of safe passage, [Reuters reports](https://www.reuters.com/world/china/chinese-ships-halt-attempt-exit-hormuz-despite-iran-safe-passage-assurances-2026-03-27/). The development highlights shipping concerns over the vital energy transit route.
+4. **Zelenskyy courts Gulf support.** Ukrainian President Volodymyr Zelenskyy signed defense cooperation agreements with UAE and Qatar during his Gulf tour, offering air defense technology in exchange for funding, [Reuters reports](https://www.reuters.com/world/middle-east/ukraine-uae-agree-cooperate-defence-zelenskiy-says-2026-03-28/). He also sought long-term fuel supply deals with regional energy producers.
 
-5. **G7 emphasizes Hormuz security.** G7 Foreign Ministers stressed the "absolute necessity" of keeping the Strait of Hormuz "safe and toll-free," according to the [Times of Oman](https://timesofoman.com//article/169961-g7-foreign-ministers-emphasise-absolute-necessity-of-safe-and-toll-free-strait-of-hormuz). Saudi Foreign Minister Prince Faisal participated in the G7 ministerial meeting.
+5. **Oman weather crisis continues.** Omani authorities conducted 44 air rescue sorties and evacuated 404 people during ongoing severe weather, the Times of Oman reported. The sultanate's emergency services remained on high alert as heavy rains and flooding affected multiple regions across the country.
 
-6. **Yemen launches first missile at Israel.** Houthi forces fired their first missile at Israel since the current conflict began, [AP reports](https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0). The strike marks a potential expansion of Ansar Allah's targeting beyond Red Sea shipping operations.
+6. **Pakistan mediates regional diplomacy.** Pakistan announced it will host talks with Saudi Arabia, Turkey, and Egypt to address the Iran war crisis, [Reuters reports](https://www.reuters.com/world/asia-pacific/pakistan-host-talks-with-saudi-arabia-turkey-egypt-amid-iran-war-diplomacy-2026-03-28/). Iran agreed to allow 20 Pakistani-flagged ships through the Hormuz Strait as diplomatic efforts intensify.
 
-7. **UAE air defenses engage Iranian attacks.** UAE air defenses intercepted six ballistic missiles and nine drones launched from Iran on March 27, according to the Defense Ministry. Since Iranian attacks began, UAE systems have engaged 378 ballistic missiles, the ministry [confirmed on Twitter](https://twitter.com/modgovae).
+7. **Maersk suspends Oman operations.** Danish shipping giant Maersk halted operations at Oman's Salalah port due to unspecified security incidents, [Reuters reports](https://www.reuters.com/world/middle-east/maersk-halts-operations-omans-salalah-port-due-security-incident-2026-03-28/). The suspension highlights growing maritime security concerns as the Iran conflict spreads across Gulf waters.
 
-8. **Trump pressures Saudi Israel recognition.** President Trump pressed Saudi Arabia to recognize Israel as he defended the Iran conflict, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-27/trump-presses-saudis-to-recognize-israel-as-he-defends-iran-war). The push comes as the administration seeks broader regional normalization following military operations.
+8. **Saudi Prince condemns attacks.** Prince Khalid bin Salman called Iran's attacks on Saudi Arabia and regional states "flagrant" in discussions with Hungarian and French defense ministers, according to his [official Twitter account](https://twitter.com/kbsalsaud). He emphasized regional security implications during meetings on defense cooperation.
 
-9. **Russia bans gasoline exports.** Russia announced a ban on gasoline exports beginning April 1, according to the [Times of Oman](https://timesofoman.com//article/169962-russia-announces-export-ban-on-gasoline-from-april-1). The restriction could affect global fuel markets already strained by Middle East tensions.
+9. **UAE activates air defenses.** The UAE Defense Ministry confirmed its air defense systems engaged Iranian ballistic missiles, cruise missiles, and drones targeting the country. Ministry [official statements](https://twitter.com/modgovae) urged residents to remain in safe locations as interceptions continued across multiple emirates.
 
-10. **Iran forbids sports travel.** Iran banned its sports teams from traveling to "hostile" countries, [AP reports](https://apnews.com/article/iran-saudi-arabia-war-soccer-58a6347b3bab91b18b5cdd444a2a417d). The restrictions reflect Tehran's broader isolation as the conflict continues.
+10. **Qatar condemns Iranian strikes.** Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani declared Iranian attacks on Qatar "rejected and unjustified under any pretext," according to his [Twitter account](https://twitter.com/MBA_AlThani_). The statement marked Qatar's strongest condemnation since the conflict began affecting Gulf states directly.
 
-**Sources**
-- [AP: Iranian attack on Saudi base wounds US troops](https://apnews.com/article/iran-war-us-troops-wounded-saudi-base-8404fd9b67b76c756e543fc307565572)
-- [Reuters: Gulf states tell US Iran capabilities must be degraded](https://www.reuters.com/world/middle-east/gulf-states-tell-us-ending-war-is-not-enough-irans-capabilities-must-be-degraded-2026-03-27/)
-- [Bloomberg: Zelenskyy offers air defense for Gulf funds](https://www.bloomberg.com/news/articles/2026-03-27/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal)
-- [Times of Oman: G7 emphasizes Hormuz security](https://timesofoman.com//article/169961-g7-foreign-ministers-emphasise-absolute-necessity-of-safe-and-toll-free-strait-of-hormuz)
-- [UAE Defense Ministry Twitter](https://twitter.com/modgovae)
+**Sources:**
+• [Reuters Gulf coverage](https://www.reuters.com/world/middle-east/)
+• [Associated Press Middle East](https://apnews.com/hub/middle-east)
+• [Bloomberg Gulf news](https://www.bloomberg.com/news/)
+• [Al Jazeera English](https://www.aljazeera.com/news/)
+• [Times of Oman](https://timesofoman.com/)
+• [BBC Middle East](https://www.bbc.com/news/world/middle_east)
+• Official Twitter accounts of Gulf government officials
