@@ -15,6 +15,7 @@ const NAV_HTML = `
     <a href="index.html" style="color: #666; text-decoration: none;">Conversational</a>
     <a href="bullets.html" style="color: #666; text-decoration: none;">Bullets</a>
     <a href="wib.html" style="color: #666; text-decoration: none;">World in Brief</a>
+    <a href="feed.html" style="color: #666; text-decoration: none;">Feed</a>
   </div>`;
 
 // Files to inject nav into

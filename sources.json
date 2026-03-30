@@ -39,6 +39,36 @@
       "notes": "Pan-Arab Saudi-owned daily, influential across region"
     },
     {
+      "id": "asharq_news",
+      "name": "Asharq News (Asharq Bloomberg)",
+      "type": "screenshot",
+      "url": "https://asharq.com/",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "Bloomberg-affiliated Arabic news, Saudi Research & Marketing Group, Dubai DIFC"
+    },
+    {
+      "id": "okaz",
+      "name": "Okaz",
+      "type": "screenshot",
+      "url": "https://www.okaz.com.sa/",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "Major Saudi Arabic daily"
+    },
+    {
+      "id": "alriyadh",
+      "name": "Alriyadh",
+      "type": "screenshot",
+      "url": "https://www.alriyadh.com/",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "notes": "Leading Saudi Arabic daily, Riyadh-based"
+    },
+    {
       "id": "alekhbariya",
       "name": "Al Ekhbariya",
       "type": "screenshot",
@@ -339,6 +369,16 @@
       "url": "https://www.kuna.net.kw/Default.aspx",
       "priority": "primary",
       "category": "kuwait"
+    },
+    {
+      "id": "al_anba",
+      "name": "Al Anba",
+      "type": "screenshot",
+      "url": "https://www.alanba.com.kw/",
+      "priority": "primary",
+      "category": "kuwait",
+      "language": "ar",
+      "notes": "Major Kuwaiti Arabic daily"
     },
     {
       "id": "al_qabas",
