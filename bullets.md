@@ -1,46 +1,21 @@
 **Top News**
-- Iran launched missile and drone attacks on multiple Gulf states, according to official statements, with Saudi Arabia reporting Iranian strikes on military bases that [injured US](https://apnews.com/article/iran-war-american-casualties-wounded-troops-ea713e7850053d8670b062e6b11a6e39) troops, AP News reports.
-- Yemen's Iran-backed Houthis entered the month-long Iran conflict with attacks on Israel, raising fears of renewed Red Sea shipping [disruptions, the](https://apnews.com/article/iran-israel-us-houthis-yemen-dba2e2e2309f08547a3cbfdc2c367897) BBC reports.
-- Bahrain imposed a maritime ban from 6pm to 4am until further notice following Iranian attacks that injured two people at Aluminum Bahrain Company, the Interior Ministry [announced](https://policemc.gov.bh/en/news/77453/).
-- Ukraine's President Zelenskyy secured defense cooperation agreements with the UAE and Qatar during his Gulf tour seeking strategic ties and fuel supply [deals, Reuters](https://www.reuters.com/world/middle-east/ukraine-uae-agree-cooperate-defence-zelenskiy-says-2026-03-28/) reports.
-- Pakistan hosted diplomatic talks with Saudi Arabia, Turkey, and Egypt as regional powers sought to address Iran war diplomacy, according to [Reuters](https://www.reuters.com/world/asia-pacific/pakistan-host-talks-with-saudi-arabia-turkey-egypt-amid-iran-war-diplomacy-2026-03-28/).
+
+- Saudi Arabia intercepted five ballistic missiles targeting the Eastern Province as Iranian attacks continued, according to the Ministry of Defense ([Sky News Arabia](https://validate.perfdrive.com/?ssa=8aaf78ab-f3cb-473b-8d64-d9af5355d973&ssb=22103277855&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1861309-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D8%25A7%25D8%25B9%25D8%25AA%25D8%25B1%25D8%25A7%25D8%25B6-5-%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D8%25A8%25D8%25A7%25D9%2584%25D9%258A%25D8%25B3%25D8%25AA%25D9%258A%25D8%25A9-%25D8%25A8%25D8%25A7%25D8%25AA%25D8%25AC%25D8%25A7%25D9%2587-%25D8%25A7%25D9%2584%25D9%2585%25D9%2586%25D8%25B7%25D9%2582%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%2582%25D9%258A%25D8%25A9&ssi=3f9588d0-cf43-4603-9bf2-8a563adfac3f&ssk=botmanager_support@radware.com&ssm=93289854671646579103030561849352&ssn=3ac05a60c1d75396f468e923a3981c2de877e6ec052f-3498-4cd1-998c2f&sso=d1b273ec-b4c0eea2dd990fe58fafef6d9be8414a93d81746127a4fff&ssp=48687545581774820598177487099308507&ssq=03353614591370059650945913442356595751012&ssr=MTI4LjI0LjE2MS44MQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/145.0.7632.6%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlNmVjMDUyZi0zNDk4LTRjZDEtOTNlYy1iNGMwZWVhMmRkOTkxLTE3NzQ4NDU5MTMzMjUwLTAwM2Y5ZjA4MTBiOTgzODI4OGQxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMjY5Y2ZlYTMtOWM4My00YzlmLTgzMTQtMzk3YTdlMjAxZjIzMS0xNzc0ODQ1OTEzMzI1MC0zODUzODIyYmJiZjM4YjVjMTAifQ==)).
+
+- Iran targeted a power station in Kuwait, killing one worker, CNN Arabic [reported](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports).
+
+- UAE air defenses engaged 16 ballistic missiles and 42 drones from Iran on March 29, bringing the total to 414 ballistic missiles intercepted since attacks began, the Defense Ministry [confirmed](https://validate.perfdrive.com/?ssa=8aaf78ab-f3cb-473b-8d64-d9af5355d973&ssb=22103277855&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1861309-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D8%25A7%25D8%25B9%25D8%25AA%25D8%25B1%25D8%25A7%25D8%25B6-5-%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D8%25A8%25D8%25A7%25D9%2584%25D9%258A%25D8%25B3%25D8%25AA%25D9%258A%25D8%25A9-%25D8%25A8%25D8%25A7%25D8%25AA%25D8%25AC%25D8%25A7%25D9%2587-%25D8%25A7%25D9%2584%25D9%2585%25D9%2586%25D8%25B7%25D9%2582%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%2582%25D9%258A%25D8%25A9&ssi=3f9588d0-cf43-4603-9bf2-8a563adfac3f&ssk=botmanager_support@radware.com&ssm=93289854671646579103030561849352&ssn=3ac05a60c1d75396f468e923a3981c2de877e6ec052f-3498-4cd1-998c2f&sso=d1b273ec-b4c0eea2dd990fe58fafef6d9be8414a93d81746127a4fff&ssp=48687545581774820598177487099308507&ssq=03353614591370059650945913442356595751012&ssr=MTI4LjI0LjE2MS44MQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/145.0.7632.6%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlNmVjMDUyZi0zNDk4LTRjZDEtOTNlYy1iNGMwZWVhMmRkOTkxLTE3NzQ4NDU5MTMzMjUwLTAwM2Y5ZjA4MTBiOTgzODI4OGQxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMjY5Y2ZlYTMtOWM4My00YzlmLTgzMTQtMzk3YTdlMjAxZjIzMS0xNzc0ODQ1OTEzMzI1MC0zODUzODIyYmJiZjM4YjVjMTAifQ==).
+
+- Iran-backed Houthis joined the broader Iran war with an attack against Israel as fears grew over Red Sea shipping disruption, the BBC [reported](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&amp;at_campaign=rss).
+
+- Six people were injured in Abu Dhabi after a missile was intercepted near KEZAD industrial zone, authorities told [Reuters](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/).
+
+- Pakistan prepared to host US-Iran talks with regional support from Saudi Arabia, Egypt, and Turkey, Bloomberg [reported](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks).
 
 **Energy & Economy**
-- Saudi Arabia's pipeline is pumping 7 million barrels per day of oil while bypassing the Strait of Hormuz, [Bloomberg News](https://www.reuters.com/business/energy/saudi-pipeline-pumping-7-million-bpd-oil-bypassing-hormuz-bloomberg-news-reports-2026-03-28/) reports via Reuters.
-- Most Gulf markets eased on fears of broader Iran conflict, according to [Reuters](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/).
-- The UN formed a special task force to address the humanitarian crisis in the Strait of Hormuz, the Times of Oman [reports](https://timesofoman.com//article/170020-un-secretary-general-forms-special-task-force-to-address-humanitarian-crisis-in-strait-of-hormuz).
 
-**Country Watch**
+- Gulf stock markets fell on fears of a broader Iran conflict spreading across the region, Reuters [reported](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/).
 
-**Saudi Arabia**
-- Saudi Defense Minister Prince Khalid bin Salman discussed Iranian attacks on the Kingdom with Hungary's Defense Minister, condemning Iran's "flagrant attacks" on Saudi Arabia and regional [states](https://twitter.com/kbsalsaud).
-- Foreign Minister Prince Faisal bin Farhan participated in quadripartite talks in Islamabad focusing on regional developments and diplomatic efforts to contain the [crisis](https://twitter.com/KSAMOFA).
+- Crude oil and LNG supply faced worst-case scenario risks as the Iran war continued, according to [Reuters](https://www.reuters.com/markets/commodities/crude-oil-lng-supply-are-risk-worst-possible-scenario-2026-03-30/).
 
-**UAE**
-- UAE air defenses engaged 16 ballistic missiles and 42 UAVs from Iran on March 29, bringing total intercepts since attacks began to 414 ballistic missiles, the Defense Ministry [said](https://twitter.com/modgovae).
-- Iran attacked aluminum production facilities in the UAE, CNN Arabic [reports](https://arabic.cnn.com/middle-east/article/2026/03/29/bahrains-aluminum-facility-hit-in-iran-attack-state-news-agency-says).
-
-**Kuwait**
-- Kuwait confronted missile attacks and shot down 4 drones, according to Youm7 [reports](https://www.youm7.com/story/2026/3/29/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D9%88%D8%AA%D8%B3%D9%82%D8%B7-4-%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D9%87%D8%AC%D9%88%D9%85/7357425).
-
-**Qatar**
-- Qatar's Prime Minister condemned Iranian attacks on Qatar, stating they were "rejected and unjustified under any [pretext](https://twitter.com/MBA_AlThani_)."
-
-**Oman**
-- Oman's Foreign Minister Badr Albusaidi met with the EU Special Representative, expressing concern about bringing peace to the region and working on safe passage arrangements for Hormuz [Strait](https://twitter.com/badralbusaidi).
-
-**Official Signals**
-- Saudi Foreign Ministry confirmed the Kingdom's position on establishing a Palestinian state remains "firm and unwavering" following Crown Prince Mohammed bin Salman's [statements](https://twitter.com/rbalsaud).
-- UAE Foreign Minister Sheikh Abdullah bin Zayed called for international efforts to end the Iran war and hold those responsible accountable, describing UN humanitarian task force as [insufficient](https://twitter.com/ABZayed).
-
-**Coverage Flags**
-- Yemen's internationally recognized government minister Mohammed Al-Eryani emphasized that Houthis are "implementation tools" for Iran rather than independent [actors](https://twitter.com/ERYANIM).
-
-**Sources**
-- [AP News](https://apnews.com/article/iran-war-american-casualties-wounded-troops-ea713e7850053d8670b062e6b11a6e39)
-- [Reuters Gulf](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/)
-- [BBC Middle East](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss)
-- [Bloomberg Gulf](https://www.bloomberg.com/news/articles/2026-03-29/us-sees-first-combat-loss-of-valuable-e-3-jet-in-missile-strike)
-- [Times of Oman](https://timesofoman.com//article/170020-un-secretary-general-forms-special-task-force-to-address-humanitarian-crisis-in-strait-of-hormuz)
-- [CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/03/29/bahrains-aluminum-facility-hit-in-iran-attack-state-news-agency-says)
-- [Bahrain Interior Ministry](https://policemc.gov.bh/en/news/77453/)
+- Saudi crude headed to Pakistan in a rare transit through the Strait of Hormuz as shipping patterns shifted, Bloomberg [tracked](https://www.bloomberg.com/news/articles/2
