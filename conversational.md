@@ -1,29 +1,56 @@
-Iran-backed Houthis launched their first direct missile attack on Israel yesterday, marking a dramatic escalation that brings the Yemen-based militia into the expanding regional conflict. Israeli forces [intercepted two](https://www.alarabiya.net/amp/arab-and-world/2026/03/30/%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%88-%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B1%D8%B6-%D9%85%D8%B3%D9%8A%D8%B1%D8%AA%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%86) missiles from Yemen, per Al Arabiya, as fears mount that Red Sea shipping could face renewed Houthi strikes. Bloomberg reports the [Houthis have](https://www.bloomberg.com/news/articles/2026-03-29/strikes-continue-as-houthis-join-iran-war-and-us-troops-arrive) officially joined Iran's war following Israeli strikes on Iranian nuclear facilities.
+**Top News**
 
-The escalation triggered immediate defensive responses across the Gulf. Saudi Arabia's defense ministry confirmed it [intercepted five](https://validate.perfdrive.com/?ssa=8aaf78ab-f3cb-473b-8d64-d9af5355d973&ssb=22103277855&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1861309-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D8%25A7%25D8%25B9%25D8%25AA%25D8%25B1%25D8%25A7%25D8%25B6-5-%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D8%25A8%25D8%25A7%25D9%2584%25D9%258A%25D8%25B3%25D8%25AA%25D9%258A%25D8%25A9-%25D8%25A8%25D8%25A7%25D8%25AA%25D8%25AC%25D8%25A7%25D9%2587-%25D8%25A7%25D9%2584%25D9%2585%25D9%2586%25D8%25B7%25D9%2582%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%2582%25D9%258A%25D8%25A9&ssi=3f9588d0-cf43-4603-9bf2-8a563adfac3f&ssk=botmanager_support@radware.com&ssm=93289854671646579103030561849352&ssn=3ac05a60c1d75396f468e923a3981c2de877e6ec052f-3498-4cd1-998c2f&sso=d1b273ec-b4c0eea2dd990fe58fafef6d9be8414a93d81746127a4fff&ssp=48687545581774820598177487099308507&ssq=03353614591370059650945913442356595751012&ssr=MTI4LjI0LjE2MS44MQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/145.0.7632.6%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlNmVjMDUyZi0zNDk4LTRjZDEtOTNlYy1iNGMwZWVhMmRkOTkxLTE3NzQ4NDU5MTMzMjUwLTAwM2Y5ZjA4MTBiOTgzODI4OGQxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMjY5Y2ZlYTMtOWM4My00YzlmLTgzMTQtMzk3YTdlMjAxZjIzMS0xNzc0ODQ1OTEzMzI1MC0zODUzODIyYmJiZjM4YjVjMTAifQ==) ballistic missiles targeting its eastern region, according to Sky News Arabia. Kuwait suffered casualties when Iranian attacks [killed a](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports) worker at a power station, CNN Arabic reports. Meanwhile, Pakistan is preparing to host US-Iran peace talks with backing from regional powers including Saudi Arabia and Egypt, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks).
+The Gulf region faces its most serious security crisis in recent memory as Iranian attacks escalate across multiple fronts. Saudi Arabia intercepted [five ballistic missiles](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports) targeting the Eastern Province, while Kuwait reported a worker killed in an Iranian attack on a power station, according to CNN Arabic. The UAE's Ministry of Defense said its air defenses engaged [16 ballistic missiles and 42 drones](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/) on March 29, with six people injured near Abu Dhabi's KEZAD area following a missile interception, Reuters reports.
 
-## Energy & Economy
+The crisis expanded as Iran-backed Houthis joined the conflict with their [first attack against Israel](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss), the BBC reports, raising fears of renewed Red Sea shipping disruptions. Pakistan is hosting regional talks involving Saudi Arabia, Egypt and Turkey to seek a de-escalation pathway, with Bloomberg reporting that these powers [support US-Iran peace talks](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks).
 
-• Global oil markets face potential disruption as Bloomberg warns of the ["worst-possible scenario"](https://www.reuters.com/markets/commodities/crude-oil-lng-supply-are-risk-worst-possible-scenario-2026-03-30/) for crude and LNG supply following Strait of Hormuz tensions, according to Reuters.
+**Energy & Economy**
 
-• Saudi crude is making a [rare transit](https://www.bloomberg.com/news/articles/2026-03-29/hormuz-tracker-saudi-crude-heads-to-pakistan-in-rare-transit) to Pakistan as the kingdom works around Hormuz shipping constraints, Bloomberg reports.
+• Oil markets remain volatile as Bloomberg warns the Strait of Hormuz faces the ["worst-possible scenario"](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/) for crude and LNG supplies, with shipping disruptions spreading westward from the critical chokepoint.
 
-• Gulf markets declined on [broader Iran](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/) conflict fears, Reuters reports.
+• Gulf financial markets weakened on [broader Iran conflict fears](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/), Reuters reports, as investors assess the economic impact of sustained regional military operations.
 
-• Bloomberg's analysis shows the [Hormuz oil](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/) shock is now heading west as supply disruptions spread.
+• Saudi crude shipments to Pakistan represent a [rare transit route](https://www.bloomberg.com/news/articles/2026-03-29/hormuz-tracker-saudi-crude-heads-to-pakistan-in-rare-transit), according to Bloomberg's Hormuz Tracker, as traditional shipping lanes face increasing disruption.
 
-## Saudi Arabia
+• Qatar's central bank announced [protective measures](https://www.alarabiya.net/aswaq/economy/2026/03/30/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A) for its financial system as regional tensions mount, Al Arabiya reports.
 
-Prince Khalid bin Salman held defense consultations with Hungarian and French counterparts, condemning ["repeated Iranian attacks"](https://x.com/kbsalsaud) targeting the kingdom. Foreign Minister Prince Faisal bin Farhan chaired an international conference on Palestinian statehood recognition in partnership with France, reaffirming that Saudi Arabia's position on establishing a Palestinian state ["is firm"](https://x.com/FaisalbinFarhan) and unwavering. Yemen envoy Mohammed Al-Jabir announced he will [visit Sanaa](https://x.com/mohdsalj) with an Omani delegation to consolidate the truce and support prisoner exchanges.
+**Country Watch**
 
-## UAE
+**Saudi Arabia**
+Crown Prince Mohammed bin Salman held phone calls with the leaders of Spain, Uzbekistan and Mauritania to discuss regional security implications of the Iranian attacks. Defense Minister Prince Khalid bin Salman met with his Hungarian and French counterparts, condemning "repeated Iranian attacks targeting the Kingdom." Foreign Minister Prince Faisal bin Farhan chaired an international conference in Paris on Palestinian statehood, stating Saudi Arabia's position on establishing a Palestinian state remains ["firm and unwavering."](https://twitter.com/FaisalbinFarhan)
 
-The UAE intercepted [16 ballistic](https://x.com/modgovae) missiles and 42 drones in Saturday's Iranian attack, bringing the total intercepted since the conflict began to 414 ballistic missiles and 15 cruise missiles, according to the Defense Ministry. Reuters reports [six were](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/) injured in Abu Dhabi after a missile was intercepted near KEZAD. The Cabinet expressed confidence that ["the world's trust"](https://www.snabusiness.com/article/1861322-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B1%D8%A7%D8%B3%D8%AE%D8%A9) in the Emirates is firmly established, according to Sky News Arabia Economy.
+**UAE**
+The UAE sustained its heaviest missile barrage yet, with defense systems intercepting 16 ballistic missiles and 42 drones in a single day. Sheikh Abdullah bin Zayed praised the country's defensive capabilities while calling for international action to ["end the war"](https://twitter.com/ABZayed) and hold those responsible accountable. The Cabinet approved new strategies for integrative medicine and the space sector during Sunday's meeting.
 
-## Qatar
+**Qatar**
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani described Iranian attacks as ["rejected and unjustified"](https://twitter.com/MBA_AlThani_) while emphasizing Qatar's commitment to maintaining security and stability. The government stressed its crisis response follows comprehensive institutional planning prioritizing community safety.
 
-Prime Minister Mohammed bin Abdulrahman Al Thani condemned Iranian attacks on Qatar as ["rejected and"](https://x.com/MBA_AlThani_) unjustified under any pretext. The government confirmed decisions during the current regional crisis are based on comprehensive institutional planning prioritizing [community safety](https://x.com/GCOQatar), according to the Government Communications Office.
+**Kuwait**
+The Iranian attack on a Kuwaiti power station marks the first confirmed fatality from the current escalation, with Bahrain's Foreign Ministry condemning the ["sinful Iranian attacks"](https://twitter.com/bahdiplomatic) against Kuwait.
 
-## Bahrain / Kuwait / Oman
+**Oman**
+Foreign Minister Badr Albusaidi met with EU Special Representative Luigi Di Maio, emphasizing Oman's role in pursuing regional peace and working to establish ["safe passage arrangements"](https://twitter.com/badralbusaidi) for the Strait of Hormuz. Emergency supplies were delivered to isolated villages in Wadi Bani Khalid, the Times of Oman reports.
 
-Bahrain condemned Iranian attacks on Kuwait, according to its [foreign ministry](https://x.com/bahdiplomatic). The Interior Ministry activated [alarm sirens](https://x.com/moi_bahrain), urging residents to seek safe places. Oman's Foreign Minister Badr Albusaidi met with the EU Special Representative, expressing concern about bringing [peace to](https://x.com/badralbusaidi) the region and noting
+**Yemen**
+Saudi Ambassador Mohammed Al-Jaber announced he will visit Houthi-controlled Sanaa with an Omani delegation to consolidate a ceasefire and discuss prisoner exchanges. Houthi spokesman Mohammed Abdulsalam said naval operations aim to ["support the Palestinian people"](https://twitter.com/abdusalamsalah) while warning that those seeking to expand the conflict "must bear the consequences."
+
+**Official Signals**
+
+Saudi Arabia's foreign ministry issued multiple statements reaffirming the Kingdom's "firm and unwavering" position on Palestinian statehood, while Defense Minister Prince Khalid bin Salman's meetings with European counterparts signal diplomatic efforts to build international consensus against Iranian actions. UAE officials' emphasis on their defensive capabilities and Sheikh Abdullah bin Zayed's call for accountability suggest Abu Dhabi is positioning itself as seeking international support for deterrence measures.
+
+Qatar's Prime Minister Al Thani's description of Iranian attacks as "unjustified under any pretext" represents unusually direct language from Doha, traditionally seen as maintaining closer ties with Iran than other GCC states.
+
+**Coverage Flags**
+
+International outlets are ahead on casualty reporting from the Kuwait power station attack, with Arabic-language sources providing more detailed coverage of missile interceptions. The Houthi decision-making process warrants deeper examination - senior Houthi officials have admitted they were not consulted on escalation decisions, suggesting Iranian Revolutionary Guard command and control rather than allied coordination.
+
+**Sources**
+
+• [CNN Arabic - Iranian attack kills worker at Kuwait power station](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports)
+• [Reuters - Six injured in Abu Dhabi missile interception](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/)
+• [BBC - Iran-backed Houthis join war with Israel attack](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss)
+• [Bloomberg - Pakistan says Saudi, Egypt, Turkey support US-Iran peace talks](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks)
+• [Bloomberg - Strait of Hormuz oil shock heading west](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/)
+• [Reuters - Gulf markets ease on Iran conflict fears](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/)
+• [Al Arabiya - Qatar Central Bank protective measures](https://www.alarabiya.net/aswaq/economy/2026/03/30/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A)
+• [Times of Oman - Emergency supplies delivered to isolated villages](https://timesofoman.com//article/170042-emergency-supplies-delivered-to-isolated-villages-in-wadi-bani-khalid)
