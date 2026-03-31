@@ -141,6 +141,15 @@
       "notes": "Saudi state TV Twitter"
     },
     {
+      "id": "twitter_saudi_civil_defense",
+      "name": "Saudi Civil Defense",
+      "type": "twitter",
+      "url": "https://x.com/SaudiDCD",
+      "priority": "secondary",
+      "category": "saudi_twitter",
+      "notes": "Official Civil Defense authority"
+    },
+    {
       "_comment": "=== UAE ==="
     },
     {
@@ -246,6 +255,24 @@
       "url": "https://x.com/moiuae",
       "priority": "secondary",
       "category": "uae_twitter"
+    },
+    {
+      "id": "twitter_dxb_media",
+      "name": "Dubai Media Office",
+      "type": "twitter",
+      "url": "https://x.com/DXBMediaOffice",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "Official Dubai government media office"
+    },
+    {
+      "id": "twitter_ad_media",
+      "name": "Abu Dhabi Media Office",
+      "type": "twitter",
+      "url": "https://x.com/ADMediaOffice",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "Official Abu Dhabi government media office"
     },
     {
       "_comment": "=== QATAR ==="
