@@ -1,56 +1,54 @@
-**Top News**
+Good morning from the Gulf. Iranian attacks and Gulf air defenses dominated the night as Tehran launched fresh missile and drone strikes against multiple Gulf states, while diplomatic efforts continue to seek a ceasefire in the escalating conflict.
 
-The Gulf region faces its most serious security crisis in recent memory as Iranian attacks escalate across multiple fronts. Saudi Arabia intercepted [five ballistic missiles](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports) targeting the Eastern Province, while Kuwait reported a worker killed in an Iranian attack on a power station, according to CNN Arabic. The UAE's Ministry of Defense said its air defenses engaged [16 ballistic missiles and 42 drones](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/) on March 29, with six people injured near Abu Dhabi's KEZAD area following a missile interception, Reuters reports.
+Iranian forces targeted Kuwait and UAE facilities, with Dubai authorities successfully [extinguishing a fire](https://timesofoman.com//article/170073-dubai-authorities-put-out-fire-on-kuwaiti-oil-tanker) on a Kuwaiti oil tanker hit by an Iranian attack. The UAE Ministry of Defense confirmed air defenses [engaged 11](https://www.twitter.com/modgovae) ballistic missiles and 27 drones on March 30, bringing total intercepts since the conflict began to 425 ballistic missiles and 15 cruise missiles, according to defense officials. Saudi Arabia's Civil Defense reported [shrapnel damage](https://www.twitter.com/alekhbariyatv) to six homes in Al-Kharj Governorate from an intercepted drone, though no casualties were recorded. Al Jazeera reports that [US-Israeli attacks](https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss) struck Isfahan, causing "columns of fire" in the Iranian city.
 
-The crisis expanded as Iran-backed Houthis joined the conflict with their [first attack against Israel](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss), the BBC reports, raising fears of renewed Red Sea shipping disruptions. Pakistan is hosting regional talks involving Saudi Arabia, Egypt and Turkey to seek a de-escalation pathway, with Bloomberg reporting that these powers [support US-Iran peace talks](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks).
+Meanwhile, Gulf allies are privately pressing the Trump administration to continue fighting until Iran is decisively defeated, [AP News reports](https://apnews.com/article/trump-iran-saudi-arabia-mbs-gulf-war-uae-89f690b952fe28d3140c537b70fa5051). The coordination comes as Trump issued new warnings about destroying Iran's desalination infrastructure, while Pakistan prepares to host potential peace talks between the warring sides.
 
-**Energy & Economy**
+## Energy & Economy
 
-• Oil markets remain volatile as Bloomberg warns the Strait of Hormuz faces the ["worst-possible scenario"](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/) for crude and LNG supplies, with shipping disruptions spreading westward from the critical chokepoint.
+• Saudi oil pricing negotiations face mounting pressure as buyers seek alternatives following sustained Iranian attacks on Gulf infrastructure, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-30/saudi-oil-price-talks-take-on-added-urgency-as-deadline-nears).
 
-• Gulf financial markets weakened on [broader Iran conflict fears](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/), Reuters reports, as investors assess the economic impact of sustained regional military operations.
+• Gulf markets traded mixed as the regional conflict escalates, with [Reuters noting](https://www.reuters.com/world/middle-east/gulf-markets-retreat-amid-escalating-middle-east-conflict-saudi-edges-higher-2026-03-30/) Saudi stocks edging higher while other regional markets retreated.
 
-• Saudi crude shipments to Pakistan represent a [rare transit route](https://www.bloomberg.com/news/articles/2026-03-29/hormuz-tracker-saudi-crude-heads-to-pakistan-in-rare-transit), according to Bloomberg's Hormuz Tracker, as traditional shipping lanes face increasing disruption.
+• Qatar Energy and ExxonMobil began producing liquefied natural gas at their Texas facility, according to [Asharq Business](https://asharqbusiness.com/power/126057/).
 
-• Qatar's central bank announced [protective measures](https://www.alarabiya.net/aswaq/economy/2026/03/30/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A) for its financial system as regional tensions mount, Al Arabiya reports.
+• Chinese container ships successfully passed through the Strait of Hormuz on their second attempt, [Reuters reports](https://www.reuters.com/world/china/chinese-container-ships-pass-through-strait-hormuz-second-attempt-data-shows-2026-03-30/), highlighting ongoing navigation challenges in the strategic waterway.
 
-**Country Watch**
+## Country Watch
 
 **Saudi Arabia**
-Crown Prince Mohammed bin Salman held phone calls with the leaders of Spain, Uzbekistan and Mauritania to discuss regional security implications of the Iranian attacks. Defense Minister Prince Khalid bin Salman met with his Hungarian and French counterparts, condemning "repeated Iranian attacks targeting the Kingdom." Foreign Minister Prince Faisal bin Farhan chaired an international conference in Paris on Palestinian statehood, stating Saudi Arabia's position on establishing a Palestinian state remains ["firm and unwavering."](https://twitter.com/FaisalbinFarhan)
+Defense Minister Prince Khalid bin Salman held meetings with British Defense Minister John Healey and Hungarian Defense Minister Kristóf Szalay-Bobrovniczky, [condemning continued](https://www.twitter.com/kbsalsaud) Iranian attacks on the Kingdom. Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood implementation with his French counterpart, while [affirming](https://www.twitter.com/FaisalbinFarhan) Saudi Arabia's "firm and unwavering" position on Palestinian state establishment.
 
 **UAE**
-The UAE sustained its heaviest missile barrage yet, with defense systems intercepting 16 ballistic missiles and 42 drones in a single day. Sheikh Abdullah bin Zayed praised the country's defensive capabilities while calling for international action to ["end the war"](https://twitter.com/ABZayed) and hold those responsible accountable. The Cabinet approved new strategies for integrative medicine and the space sector during Sunday's meeting.
+The Cabinet approved the UAE Strategy for Integrative Medicine and space sector development plans worth 44 billion dirhams, Sheikh Mohammed bin Rashid [announced](https://www.twitter.com/HHShkMohd). Dubai approved economic sector facilities worth one billion dirhams, per [Sky News Arabia](https://www.snabusiness.com/article/1861551/). Presidential advisor Anwar Gargash [criticized](https://www.twitter.com/AnwarGargash) Turkey's defense minister for "provocative statements" representing "a new downfall for his country's diplomacy."
 
 **Qatar**
-Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani described Iranian attacks as ["rejected and unjustified"](https://twitter.com/MBA_AlThani_) while emphasizing Qatar's commitment to maintaining security and stability. The government stressed its crisis response follows comprehensive institutional planning prioritizing community safety.
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani discussed regional escalation with Saudi Crown Prince Mohammed bin Salman, [stressing](https://www.twitter.com/MBA_AlThani_) the need to "coordinate efforts and enhance joint action" toward peaceful solutions.
 
-**Kuwait**
-The Iranian attack on a Kuwaiti power station marks the first confirmed fatality from the current escalation, with Bahrain's Foreign Ministry condemning the ["sinful Iranian attacks"](https://twitter.com/bahdiplomatic) against Kuwait.
-
-**Oman**
-Foreign Minister Badr Albusaidi met with EU Special Representative Luigi Di Maio, emphasizing Oman's role in pursuing regional peace and working to establish ["safe passage arrangements"](https://twitter.com/badralbusaidi) for the Strait of Hormuz. Emergency supplies were delivered to isolated villages in Wadi Bani Khalid, the Times of Oman reports.
+**Bahrain**
+The kingdom [condemned](https://www.twitter.com/bahdiplomatic) Iranian attacks on Kuwait, while interior ministry officials sounded alarm sirens urging citizens to seek shelter, according to [official posts](https://www.twitter.com/moi_bahrain).
 
 **Yemen**
-Saudi Ambassador Mohammed Al-Jaber announced he will visit Houthi-controlled Sanaa with an Omani delegation to consolidate a ceasefire and discuss prisoner exchanges. Houthi spokesman Mohammed Abdulsalam said naval operations aim to ["support the Palestinian people"](https://twitter.com/abdusalamsalah) while warning that those seeking to expand the conflict "must bear the consequences."
+Saudi Yemen envoy Mohammed Al Jabir announced he will [visit Sanaa](https://www.twitter.com/mohdsalj) with an Omani delegation to "consolidate the truce and ceasefire" and support prisoner exchanges. A Yemeni lawmaker filed suit against US military veterans, [AP reports](https://apnews.com/article/yemeni-lawmaker-assassination-attempt-uae-spear-operations-c627ad64f9a90a76349fcadfdfe7a17a), accusing them of attempting to kill him. Houthi negotiator Mohammed Abdulsalam announced an [agreement](https://www.twitter.com/abdusalamsalah) on banking procedures and increased Yemenia Airlines flights to Jordan, Cairo, and India.
 
-**Official Signals**
+## Official Signals
 
-Saudi Arabia's foreign ministry issued multiple statements reaffirming the Kingdom's "firm and unwavering" position on Palestinian statehood, while Defense Minister Prince Khalid bin Salman's meetings with European counterparts signal diplomatic efforts to build international consensus against Iranian actions. UAE officials' emphasis on their defensive capabilities and Sheikh Abdullah bin Zayed's call for accountability suggest Abu Dhabi is positioning itself as seeking international support for deterrence measures.
+Prince Faisal bin Farhan [reaffirmed](https://www.twitter.com/FaisalbinFarhan) Saudi Arabia's unwavering support for Palestinian statehood during the Paris conference, stating Crown Prince Mohammed bin Salman has "clearly and unequivocally" maintained this position. UAE Defense Minister posts show active engagement with Iranian missile and drone attacks, with officials providing specific intercept numbers as a demonstration of defensive capabilities.
 
-Qatar's Prime Minister Al Thani's description of Iranian attacks as "unjustified under any pretext" represents unusually direct language from Doha, traditionally seen as maintaining closer ties with Iran than other GCC states.
+Oman's Foreign Minister Badr Albusaidi [stated](https://www.twitter.com/badralbusaidi) during GCC consultations that "whatever your view of Iran, this war is not of their making," while working on Strait of Hormuz safe passage arrangements.
 
-**Coverage Flags**
+## Coverage Flags
 
-International outlets are ahead on casualty reporting from the Kuwait power station attack, with Arabic-language sources providing more detailed coverage of missile interceptions. The Houthi decision-making process warrants deeper examination - senior Houthi officials have admitted they were not consulted on escalation decisions, suggesting Iranian Revolutionary Guard command and control rather than allied coordination.
+The AP exclusive on Gulf allies privately lobbying Trump to continue fighting Iran suggests significant behind-the-scenes diplomatic coordination not reflected in official statements. Arabic-language social media shows more detailed missile intercept reporting than English outlets, particularly Saudi Civil Defense specificity about Al-Kharj damage.
 
-**Sources**
+## Sources
 
-• [CNN Arabic - Iranian attack kills worker at Kuwait power station](https://arabic.cnn.com/middle-east/article/2026/03/30/worker-killed-in-attack-on-kuwait-power-plant-news-agency-reports)
-• [Reuters - Six injured in Abu Dhabi missile interception](https://www.reuters.com/world/middle-east/five-injured-abu-dhabi-after-missile-intercepted-near-kezad-authorities-say-2026-03-28/)
-• [BBC - Iran-backed Houthis join war with Israel attack](https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss)
-• [Bloomberg - Pakistan says Saudi, Egypt, Turkey support US-Iran peace talks](https://www.bloomberg.com/news/articles/2026-03-29/pakistan-says-saudi-egypt-turkey-support-us-iran-peace-talks)
-• [Bloomberg - Strait of Hormuz oil shock heading west](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/)
-• [Reuters - Gulf markets ease on Iran conflict fears](https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/)
-• [Al Arabiya - Qatar Central Bank protective measures](https://www.alarabiya.net/aswaq/economy/2026/03/30/%D9%85%D8%B5%D8%B1%D9%81-%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B0-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A)
-• [Times of Oman - Emergency supplies delivered to isolated villages](https://timesofoman.com//article/170042-emergency-supplies-delivered-to-isolated-villages-in-wadi-bani-khalid)
+• [Times of Oman - Dubai fire](https://timesofoman.com//article/170073-dubai-authorities-put-out-fire-on-kuwaiti-oil-tanker)
+• [Al Jazeera - Isfahan attacks](https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss)
+• [AP News - Gulf allies lobby Trump](https://apnews.com/article/trump-iran-saudi-arabia-mbs-gulf-war-uae-89f690b952fe28d3140c537b70fa5051)
+• [Bloomberg - Saudi oil pricing](https://www.bloomberg.com/news/articles/2026-03-30/saudi-oil-price-talks-take-on-added-urgency-as-deadline-nears)
+• [Reuters - Gulf markets](https://www.reuters.com/world/middle-east/gulf-markets-retreat-amid-escalating-middle-east-conflict-saudi-edges-higher-2026-03-30/)
+• [Reuters - Strait of Hormuz](https://www.reuters.com/world/china/chinese-container-ships-pass-through-strait-hormuz-second-attempt-data-shows-2026-03-30/)
+• [Asharq Business - Qatar Energy](https://asharqbusiness.com/power/126057/)
+• [Sky News Arabia - UAE facilities](https://www.snabusiness.com/article/1861551/)
+• [AP News - Yemeni lawsuit](https://apnews.com/article/yemeni-lawmaker-assassination-attempt-uae-spear-operations-c627ad64f9a90a76349fcadfdfe7a17a)
