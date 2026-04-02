@@ -1,51 +1,49 @@
-**Gulf Bureau Briefing**
+Good morning from the Gulf. Iran's ongoing attacks on Gulf states escalated dramatically overnight, with the UAE confirming its air defenses [dealt with](https://www.bloomberg.com/news/articles/2026-04-01/uae-asks-un-to-approve-measures-including-force-to-open-hormuz) ballistic missiles and drones launched from Iran. The UAE Defense Ministry reported intercepting 5 ballistic missiles and 35 drones on April 1 alone, bringing the total to 438 ballistic missiles and 19 cruise missiles intercepted since the conflict began. Minor damage was reported near Abu Dhabi's Khalifa Economic Zones following a successful missile interception, with no casualties.
 
-Iranian drone attacks struck Kuwait International Airport's fuel depots overnight, igniting fires and marking a dangerous escalation in the regional conflict. [Kuwait Civil Aviation](https://timesofoman.com//article/170131-kuwait-civil-aviation-iranian-drones-target-kuwait-international-airports-fuel-depots) confirmed the targeting of fuel tanks, according to the Times of Oman. Multiple Arabic outlets including [Al Arabiya reported](https://www.alarabiya.net/aswaq/travel-and-tourism/2026/04/01/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AE%D8%B2%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A) the airport fuel tank fires resulted from Iranian aggression.
-
-The regional conflict is also forcing major industrial shutdowns. The Aramco-Dow joint venture [Sadara Chemical](https://www.reuters.com/business/energy/aramco-dow-joint-venture-sadara-chemical-halts-production-over-middle-east-2026-03-31/) halted production as war disrupts supply chains, Reuters reports. Bloomberg separately reported that [Iran struck](https://www.bloomberg.com/news/articles/2026-03-30/iran-strikes-fully-laden-kuwait-oil-tanker-in-dubai-port-area) a fully laden Kuwait oil tanker in Dubai's port area. The US has [warned Americans](https://www.reuters.com/world/middle-east/us-warns-americans-saudi-arabia-shelter-place-after-threats-2026-03-31/) in Saudi Arabia to shelter in place following threats, per Reuters.
+The attacks prompted urgent diplomatic action. Bloomberg reports the UAE [asked the](https://www.bloomberg.com/news/articles/2026-04-01/uae-asks-un-to-approve-measures-including-force-to-open-hormuz) UN Security Council to approve measures, including the use of force, to reopen the Strait of Hormuz. Iranian actions have severely disrupted Gulf energy exports, with Saudi oil shipments [falling 50%](https://www.bloomberg.com/news/articles/2026-04-01/saudi-oil-exports-fell-by-50-in-march-on-iran-s-hormuz-shutdown) in March due to the Hormuz shutdown. Gulf markets showed cautious optimism, with Reuters reporting Dubai [led stocks](https://www.reuters.com/world/middle-east/dubai-leads-gulf-stocks-higher-hopes-de-escalation-iran-war-2026-04-01/) higher on hopes of de-escalation, while new mediators are reportedly emerging to broker peace talks.
 
 **Energy & Economy**
 
-• [OPEC oil output](https://www.reuters.com/business/energy/opec-oil-output-plunges-march-war-forces-export-cuts-reuters-survey-finds-2026-03-31/) plunged in March as war forces export cuts, according to a Reuters survey.
+• Saudi Aramco and Algeria's Sonatrach [raised LPG](https://www.reuters.com/business/energy/saudi-aramco-sonatrach-raise-lpg-prices-april-by-between-38-80-2026-04-01/) prices for April by 38-80%, Reuters reports, reflecting supply constraints from regional tensions.
 
-• Abu Dhabi's 2PointZero [splashed out](https://www.bloomberg.com/news/articles/2026-03-31/abu-dhabi-s-2pointzero-splashes-out-2-25-billion-in-us-gas-deal) $2.25 billion in a US gas deal, Bloomberg reports.
+• Bloomberg reports Saudi oil [exports fell](https://www.bloomberg.com/news/articles/2026-04-01/saudi-oil-exports-fell-by-50-in-march-on-iran-s-hormuz-shutdown) by 50% in March as Iran's closure of the Strait of Hormuz disrupted global energy flows.
 
-• [Arab nations may lose](https://www.bloomberg.com/news/articles/2026-03-31/arab-nations-may-lose-200-billion-from-iran-war-un-study-finds) $200 billion from the Iran war, a UN study finds, per Bloomberg.
-
-• [Gulf stocks were mixed](https://www.reuters.com/world/middle-east/gulf-stocks-gain-report-trump-weighing-end-iran-war-2026-03-31/) on reports Trump is weighing ending the Iran war, Reuters reports.
+• London's family offices drew increased Gulf investment as non-domiciled residents exited the UK, according to [Bloomberg data](https://www.bloomberg.com/news/articles/2026-04-01/london-s-family-offices-drew-gulf-money-as-non-doms-exited).
 
 **Saudi Arabia**
 
-Saudi air defenses continue intercepting Iranian attacks. The Civil Defense reported [shrapnel damage](https://twitter.com/SaudiDCD) from intercepted drones in Al-Kharj Governorate caused minor injuries and property damage. Al Ekhbariya TV reported Saudi defenses [intercepted 12 drones](https://twitter.com/alekhbariyatv) and 8 missiles on Tuesday alone.
+Defense Minister Prince Khalid bin Salman met with counterparts from Greece, Britain and Hungary to discuss Iran's "continued flagrant attacks on the Kingdom and other regional states." He condemned Tehran's escalation during meetings with Greek Defense Minister Nikos Dendias and UK Defense Secretary John Healey. Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood with his French counterpart, reaffirming Saudi Arabia's "firm and unwavering" position on establishing a Palestinian state.
 
 **UAE**
 
-The UAE Defense Ministry said air defenses [engaged 8 ballistic missiles](https://twitter.com/modgovae), 4 cruise missiles and 36 UAVs on March 31. Iran also [attacked oil tankers](https://www.bloomberg.com/news/articles/2026-03-31/iran-attacks-oil-tanker-after-trump-wavers-on-war-escalation) after Trump appeared to waver on war escalation, Bloomberg reports.
+The UAE's air defense systems successfully intercepted multiple Iranian missile and drone attacks overnight, with authorities confirming [minor damage](https://twitter.com/modgovae) near Abu Dhabi's KEZAD industrial zone. UAE Cabinet meetings praised the "high defensive spirit" of armed forces and the "great patriotic spirit" of Emiratis and residents. The government issued statements defending the UAE's Iranian community as "respected" members of society following what CNN Arabic described as "[inaccurate allegations](https://arabic.cnn.com/middle-east/article/2026/04/02/uae-statement-iranian-community)" about their treatment.
 
-**Kuwait**
+**Qatar**
 
-Beyond the airport attack, Bahrain's Foreign Ministry [condemned](https://twitter.com/bahdiplomatic) the Iranian attacks targeting Kuwait. The strikes represent a significant escalation against GCC infrastructure.
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani held separate talks with Saudi Crown Prince Mohammed bin Salman and UAE President Mohammed bin Zayed to discuss regional escalation. Qatar's government stressed its institutions are maintaining food security through integrated systems combining local production, strategic stocks and global investments during the crisis.
 
-**Bahrain**
+**Bahrain / Kuwait / Oman**
 
-Bahrain's Civil Defense [extinguished fires](https://twitter.com/moi_bahrain) at company facilities resulting from Iranian aggression. Air raid sirens sounded, with authorities urging residents to seek shelter.
+Bahrain activated air raid sirens as Iranian attacks targeted the kingdom, with authorities urging citizens to seek shelter and follow official channels. Foreign Minister Abdullatif Al Zayani conducted consultations with UN Security Council members during Bahrain's council presidency. Oman's Foreign Minister Badr Albusaidi participated in GCC-Russia-Jordan consultations, expressing concerns about humanitarian crises that "may overwhelm many parts of the world" due to the conflict.
 
 **Yemen**
 
-The internationally recognized government's Foreign Minister Al-Eryani declared that [Hodeidah is liberated](https://twitter.com/mohdsalj), with Saudi Yemen envoy Mohammed AlJabir celebrating the development. The IRG continues operations against Houthi forces while the Ansar Allah movement maintains its maritime campaign in support of Gaza.
+The Saudi ambassador to Yemen, Mohammed Al-Jabir, announced plans to visit Houthi-controlled Sanaa with an Omani delegation to consolidate ceasefire efforts and discuss prisoner exchanges. He declared that "Al-Hudaydah is liberated" and "Yemen is breathing" in social media posts. Houthi spokesman Mohammed Abdulsalam defended naval operations in the Red Sea as aimed at supporting Palestinians, not challenging maritime powers.
 
 **Official Signals**
 
-Prince Khalid bin Salman met with British Defense Minister John Healey, condemning Iran's [continued attacks](https://twitter.com/kbsalsaud) on the Kingdom and discussing regional security implications. UAE Foreign Minister Anwar Gargash called for [intensified coordination](https://twitter.com/AnwarGargash) to protect regional security following escalating Iranian attacks. Qatar's Prime Minister emphasized the need for [peaceful solutions](https://twitter.com/MBA_AlThani_) to contain regional escalation during meetings with Saudi and UAE leadership.
+Prince Khalid bin Salman's meetings with Western defense ministers signal Saudi Arabia's push for international coalition-building against Iranian aggression. His emphasis on Iran's "flagrant attacks" on multiple regional states suggests coordination for broader defensive measures. The UAE's formal UN request for authorization to use force in reopening Hormuz represents a significant escalation in diplomatic pressure, potentially setting up Security Council confrontation with Iran's allies.
 
 **Coverage Flags**
 
-International outlets are ahead on economic impact stories, particularly Bloomberg's comprehensive coverage of industrial shutdowns and financial losses from the conflict. The disconnect between English reporting on Iranian escalation and limited Arabic-language coverage of economic disruptions warrants attention.
+Bloomberg's exclusive reporting on UAE's UN request for military authorization and detailed Iranian attack statistics suggests strong UAE government sourcing. The 50% decline in Saudi oil exports represents a major energy story that warrants dedicated Gulf correspondent attention given global price implications.
 
 **Sources**
-• [Times of Oman](https://timesofoman.com//article/170131-kuwait-civil-aviation-iranian-drones-target-kuwait-international-airports-fuel-depots)
-• [Al Arabiya](https://www.alarabiya.net/aswaq/travel-and-tourism/2026/04/01/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%AE%D8%B2%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%D9%8A)
-• [Reuters](https://www.reuters.com/business/energy/aramco-dow-joint-venture-sadara-chemical-halts-production-over-middle-east-2026-03-31/)
-• [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-31/abu-dhabi-s-2pointzero-splashes-out-2-25-billion-in-us-gas-deal)
-• [Saudi Civil Defense](https://twitter.com/SaudiDCD)
-• [UAE Defense Ministry](https://twitter.com/modgovae)
+
+• [Reuters - Dubai stocks higher on de-escalation hopes](https://www.reuters.com/world/middle-east/dubai-leads-gulf-stocks-higher-hopes-de-escalation-iran-war-2026-04-01/)
+• [Reuters - Saudi Aramco, Sonatrach raise LPG prices](https://www.reuters.com/business/energy/saudi-aramco-sonatrach-raise-lpg-prices-april-by-between-38-80-2026-04-01/)
+• [Bloomberg - UAE asks UN for Hormuz measures](https://www.bloomberg.com/news/articles/2026-04-01/uae-asks-un-to-approve-measures-including-force-to-open-hormuz)
+• [Bloomberg - Saudi oil exports fall 50%](https://www.bloomberg.com/news/articles/2026-04-01/saudi-oil-exports-fell-by-50-in-march-on-iran-s-hormuz-shutdown)
+• [Bloomberg - London family offices draw Gulf money](https://www.bloomberg.com/news/articles/2026-04-01/london-s-family-offices-drew-gulf-money-as-non-doms-exited)
+• [CNN Arabic - UAE statement on Iranian community](https://arabic.cnn.com/middle-east/article/2026/04/02/uae-statement-iranian-community)
+• [UAE Defense Ministry Twitter](https://twitter.com/modgovae)
