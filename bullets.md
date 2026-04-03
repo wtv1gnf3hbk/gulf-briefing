@@ -1,52 +1,59 @@
 **Top News**
 
-- Iran launched coordinated missile and drone attacks on multiple Gulf states, with the UAE reporting its air defenses intercepted 5 ballistic missiles and 35 drones on April 1, according to the [UAE Defense](https://www.youm7.com/story/2026/4/2/) Ministry.
-- Saudi oil exports fell 50% in March due to Iran's shutdown of the Strait of Hormuz, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-01/saudi-oil-exports-fell-by-50-in-march-on-iran-s-hormuz-shutdown).
-- The UAE asked the UN to approve measures including military force to reopen the Strait of Hormuz, per [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-01/uae-asks-un-to-approve-measures-including-force-to-open-hormuz).
-- Trump claimed US strategic goals in the Iran war were nearing completion and vowed to "finish the job," [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss) reported.
-- Dubai led Gulf stock markets higher on hopes of de-escalation in the Iran war, [Reuters reports](https://www.reuters.com/world/middle-east/dubai-leads-gulf-stocks-higher-hopes-de-escalation-iran-war-2026-04-01/).
-- Iraq secured the final spot in the 2026 World Cup field as qualifying concluded, [AP News](https://apnews.com/article/world-cup-2026-field-qualifying-iraq-groups-81eab4bf45b1888a6847900356a33d2f) reported.
+- UAE asked the UN to approve measures including force to open the Strait of Hormuz, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-01/uae-asks-un-to-approve-measures-including-force-to-open-hormuz).
+
+- Iran struck an Amazon center in Bahrain for the second time, Masrawy [reported](https://www.masrawy.com/news/news_publicaffairs/details/2026/4/3/2966546/%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86).
+
+- UAE air defenses intercepted 19 ballistic missiles and 26 drones from Iran on April 2, bringing total intercepts to 457 ballistic missiles since Iranian attacks began, the Defense Ministry [announced](https://twitter.com/modgovae).
+
+- Bahrain hoped for a UN Security Council vote on a draft resolution regarding the Strait of Hormuz, Asharq [reported](https://asharq.com/iran/177801/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%A3%D9%85%D9%84-%D9%81%D9%8A-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A3%D9%85%D9%85%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2/).
+
+- OPEC+ members weighed a further oil output hike at Sunday meetings, Reuters [reported](https://www.reuters.com/business/energy/opec-likely-weigh-further-oil-output-hike-sunday-sources-say-2026-04-02/).
 
 **Energy & Economy**
 
-- Saudi Aramco and Algeria's Sonatrach raised LPG prices for April by 38-80%, [Reuters reports](https://www.reuters.com/business/energy/saudi-aramco-sonatrach-raise-lpg-prices-april-by-between-38-80-2026-04-01/).
-- London family offices attracted Gulf money as non-domiciled residents exited the UK, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-01/london-s-family-offices-drew-gulf-money-as-non-doms-exited).
-- Global oil prices faced pressure as stopgap measures failed to halt rising gasoline costs while the world scrambled for more oil, [AP News](https://apnews.com/article/oil-gasoline-prices-rising-economy-sanctions-cbb0d63ed7242b15a0e16586719a4aa1) reported.
+- SpaceX held talks with Saudi Arabia's Public Investment Fund for a possible $5 billion investment in the company's IPO, Reuters [reported](https://www.reuters.com/business/finance/spacex-has-held-talks-with-saudi-fund-possible-5-billion-investment-ipo-sources-2026-04-02/).
+
+- Iran shut down its two largest steel plants due to air strikes, companies told the [BBC](https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss).
+
+- London's family offices drew Gulf money as non-doms exited, Bloomberg [reported](https://www.bloomberg.com/news/articles/2026-04-01/london-s-family-offices-drew-gulf-money-as-non-doms-exited).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and condemned Iran's continued attacks on the Kingdom, according to his [Twitter account](https://twitter.com/kbsalsaud).
-- Saudi Ambassador to Yemen Mohammed AlJabir announced the liberation of Al-Hudaydah and said he would visit Sanaa with an Omani delegation to consolidate the ceasefire, per his [Twitter](https://twitter.com/mohdsalj).
+- Crown Prince Mohammed bin Salman received a phone call from Russian President Putin to discuss regional military escalation and its impact on maritime navigation and the global economy, the Foreign Ministry [said](https://twitter.com/KSAMOFA).
 
-**UAE**
-- UAE air defenses have intercepted 438 ballistic missiles and 19 cruise missiles since Iranian attacks began, the Defense Ministry [reported](https://twitter.com/modgovae).
-- The UAE issued a statement defending its treatment of the Iranian community as "respected" and forming part of its social fabric, [CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/04/02/uae-statement-iranian-community) reported.
-- Sheikh Mohammed bin Rashid praised the UAE's defensive spirit and national institutions' efficiency following the attacks, according to his [Twitter account](https://twitter.com/HHShkMohd).
+- Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and condemned Iran's "continued flagrant attacks" on the Kingdom and regional states, the prince [tweeted](https://twitter.com/kbsalsaud).
 
-**Qatar**
-- Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani discussed regional escalation with Saudi Crown Prince Mohammed bin Salman and stressed the need for coordinated efforts, per his [Twitter](https://twitter.com/MBA_AlThani_).
+**Kuwait**
+- Air defenses responded to Iranian missile and drone attacks, Al Ekhbariya [reported](https://twitter.com/alekhbariyatv).
 
 **Bahrain**
-- Bahrain sounded alarm sirens and urged citizens to seek shelter as Iranian attacks targeted the region, the Interior Ministry [reported](https://twitter.com/moi_bahrain).
+- Interior Ministry sounded sirens and urged citizens to remain calm and head to safe places, the ministry [announced](https://twitter.com/moi_bahrain).
+
+**Qatar**
+- Prime Minister Mohammed bin Abdulrahman Al Thani met with UAE President Mohammed bin Zayed to discuss regional developments and stressed the importance of joint coordination to protect Gulf security, Al Thani [said](https://twitter.com/MBA_AlThani_).
 
 **Yemen**
-- Houthi forces announced they intercepted US warship fire near a Gabonese vessel in the Red Sea, spokesman Mohammed Abdulsalam said on [Twitter](https://twitter.com/abdusalamsalah).
+- Houthi/Ansar Allah official Mohammed Abdulsalam said Yemeni naval operations support Palestinians and are "not a show of force," responding to G7 statements on maritime [security](https://twitter.com/abdusalamsalah).
+
+- IRG ambassador to Saudi Arabia Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges, AlJabir [tweeted](https://twitter.com/mohdsalj).
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan received a call from UN Secretary-General António Guterres, the Foreign Ministry [announced](https://twitter.com/KSAMOFA).
-- Egypt's Foreign Minister held consultations with counterparts from Turkey, Pakistan, Qatar and Bahrain on regional developments, [Asharq reported](https://asharq.com/iran/177698/).
+- Saudi Arabia reaffirmed its "firm and unwavering" position on establishing a Palestinian state following Crown Prince Mohammed bin Salman's statements, Foreign Minister Prince Faisal bin Farhan [said](https://twitter.com/FaisalbinFarhan).
+
+- UAE Deputy Prime Minister Sheikh Abdullah bin Zayed praised the "high defensive spirit" of armed forces and "patriotic spirit" of Emiratis during a Cabinet meeting, he [tweeted](https://twitter.com/ABZayed).
 
 **Coverage Flags**
 
-- Multiple Gulf states activated air defense systems simultaneously, suggesting coordinated Iranian assault across the region.
-- Oil market volatility expected to continue as Hormuz Strait remains contested waterway.
+- Eight Muslim-majority countries condemned Israel's new death penalty law, Reuters [reported](https://www.reuters.com/world/asia-pacific/eight-muslim-majority-countries-condemn-israels-new-death-penalty-law-2026-04-02/).
 
 **Sources**
 
-- [Al Jazeera Iran War Live Blog](https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss)
-- [Bloomberg Gulf Coverage](https://www.bloomberg.com/news/articles/2026-04-01/saudi-oil-exports-fell-by-50-in-march-on-iran-s-hormuz-shutdown)
-- [Reuters Middle East](https://www.reuters.com/world/middle-east/dubai-leads-gulf-stocks-higher-hopes-de-escalation-iran-war-2026-04-01/)
-- [UAE Defense Ministry Twitter](https://twitter.com/modgovae)
-- [Saudi Foreign Ministry Twitter](https://twitter.com/KSAMOFA)
+- [Al Jazeera](https://www.aljazeera.com)
+- [Reuters Gulf](https://www.reuters.com)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com)
+- [Bloomberg Gulf](https://www.bloomberg.com)
+- [Official Twitter accounts](https://twitter.com)
