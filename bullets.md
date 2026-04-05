@@ -1,71 +1,53 @@
 **Top News**
 
-- Iran launched ballistic and cruise missile attacks on five Gulf states on Friday, with UAE air defenses intercepting 18 ballistic missiles, 4 cruise missiles and 47 drones, the UAE Defense Ministry [reported](https://www.bloomberg.com/news/articles/2026-04-03/iran-strikes-more-gulf-targets-as-trump-warns-of-further-attacks).
-
-- Abu Dhabi halted operations at its main Habshan gas facility after Iranian attack debris caused fires, killing one Egyptian national and injuring four others, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-03/abu-dhabi-halts-operations-at-main-gas-facility-after-attack).
-
-- Two US fighter jets were shot down over Iran with search underway for at least one missing crew member, US officials told [Reuters](https://www.reuters.com/world/middle-east/us-fighter-jet-shot-down-over-iran-search-underway-crew-us-official-says-2026-04-03/).
-
-- Bahrain cracked down on internal dissent as the Iran war reignited unrest in the Gulf kingdom, [AP reported](https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985).
-
-- Italy's Prime Minister Meloni visited Saudi Arabia, Qatar and UAE during Gulf tensions and energy worries, [Reuters reported](https://www.reuters.com/world/europe/italys-meloni-flies-gulf-region-energy-security-push-2026-04-03/).
-
-- Three ships exited the Strait of Hormuz using a new route along Oman's coast, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-02/three-ships-appear-to-enter-hormuz-by-new-route-along-oman-coast).
+- Iran declared it is allowing Iraqi ships to pass through the Strait of Hormuz as transits increased, according to [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz).
+- Kuwait suffered drone strikes on its Ministries Complex and power facilities, with [two electricity](https://www.youm7.com/story/2026/4/5/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AE%D8%B1%D9%88%D8%AC-%D9%88%D8%AD%D8%AF%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA/7366333) generation units going out of service, per Youm7.
+- UAE air defenses engaged 23 ballistic missiles and 56 drones from Iran on April 4, the Defense Ministry [said on](https://twitter.com/modgovae) Twitter.
+- The US rescued one airman from a downed F-15E fighter jet over Iran while searching for a missing crew member, [Reuters reports](https://www.reuters.com/business/aerospace-defense/trump-israel-pressure-iran-ahead-deadline-search-continues-missing-us-airman-2026-04-04/).
+- Bahrain's Civil Defense controlled a fire at a facility hit by Iranian strikes without casualties, the Interior Ministry [confirmed on](https://twitter.com/moi_bahrain) Twitter.
+- South Korea asked Gulf nations for steady energy supplies and safety guarantees for Korean vessels during the regional crisis, [Reuters reports](https://www.reuters.com/sustainability/boards-policy-regulation/south-korea-asks-gulf-nations-steady-energy-supply-safety-korean-vessels-2026-04-05/).
 
 **Energy & Economy**
 
-- Russian oil faced heavy demand as desperate Asia tackled energy shock following Middle East escalation, [AP reported](https://apnews.com/article/middle-east-wars-energy-asia-russia-crude-oil-ea90f06d9f35fe4bb977f068d2c6ef27).
-
-- UAE injected $8 billion in liquidity to help lenders during regional crisis, Jefferies [told Bloomberg](https://www.bloomberg.com/news/articles/2026-04-03/jefferies-says-uae-injected-8-billion-liquidity-to-help-lenders).
-
-- A French-owned ship passed through the Strait of Hormuz despite regional tensions, the [BBC reported](https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss).
+- Italy's Prime Minister Meloni visited Doha to bolster energy supplies disrupted by the regional conflict, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war).
+- Satellite firm Planet Labs announced it would indefinitely withhold Iran war imagery, [Reuters reports](https://www.reuters.com/business/media-telecom/satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05/).
+- A French-owned ship successfully passed through the Strait of Hormuz during the ongoing tensions, [BBC reports](https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman received a phone call from Russian President Putin discussing regional military escalation and its impact on maritime navigation and the global economy, the Saudi Foreign Ministry [announced](https://twitter.com/KSAMOFA).
-
-- Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and British Defense Minister John Healey, condemning Iran's continued attacks on the Kingdom, he [posted](https://twitter.com/kbsalsaud).
-
-- Saudi Civil Defense launched an early warning in the Eastern Province then announced the danger had passed, the agency [said](https://twitter.com/SaudiDCD).
+- Crown Prince Mohammed bin Salman received a phone call from Russian President Putin discussing regional escalation's impact on maritime security and the global economy, the Foreign Ministry [said on](https://twitter.com/KSAMOFA) Twitter.
+- Defense Minister Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and condemned Iran's continued attacks on the Kingdom, [he said](https://twitter.com/kbsalsaud) on Twitter.
+- Saudi Arabia's ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges, [he said](https://twitter.com/mohdsalj) on Twitter.
 
 **UAE**
-- UAE Interior Ministry confirmed debris from aerial interceptions caused minor incidents at Oracle building in Dubai Internet City and a Marina area building with no injuries [reported](https://twitter.com/moiuae).
-
-- Abu Dhabi Media Office said two fires broke out at Habshan gas facilities from falling debris after successful air defense interceptions, with emergency teams bringing the incident under [control](https://twitter.com/ADMediaOffice).
+- UAE Presidential advisor Anwar Gargash criticized Turkey's Defense Minister for provocative statements, calling them a "new downfall" for Turkish diplomacy, [he said](https://twitter.com/AnwarGargash) on Twitter.
+- The UAE condemned attacks on its Damascus embassy, [Bahrain's Foreign](https://bit.ly/48d1EXY) Ministry said.
 
 **Qatar**
-- Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani discussed regional escalation with UAE's Mohammed bin Zayed and Saudi's Mohammed bin Salman, stressing need for coordination and peaceful solutions, he [posted](https://twitter.com/MBA_AlThani_).
+- Qatar's Prime Minister discussed regional developments with Saudi Crown Prince Mohammed bin Salman and UAE President Mohammed bin Zayed, stressing coordination for peaceful solutions, [he said](https://twitter.com/MBA_AlThani_) on Twitter.
 
 **Bahrain**
-- Bahrain Interior Ministry arrested drivers and seized their vehicles for 60 days for causing disturbances and spreading panic among residents, the ministry [announced](https://twitter.com/moi_bahrain).
-
-**Oman**
-- Oman's hockey team began Asian Games qualifiers with a 4-1 win over Indonesia, [Times of Oman reported](https://timesofoman.com//article/170229-oman-hockey-team-begins-asian-games-qualifiers-campaign-with-41-win-over-indonesia).
-
-- A child died in a drowning incident in Al Khaboura, according to [Times of Oman](https://timesofoman.com//article/170228-child-dies-in-drowning-incident-in-al-khaboura).
+- Bahrain strongly condemned attacks on the UAE Embassy in Damascus, the Foreign Ministry [said in](https://bit.ly/4v790pX) a statement.
 
 **Yemen**
-- Yemen's IRG Ambassador Mohammed Al-Eryani denied reports of a military transport plane attempting to land on Mayon Island, saying the situation remained stable and under complete [control](https://twitter.com/ERYANIM).
+- Houthi negotiator Mohammed Abdulsalam announced an agreement to resume Yemenia Airlines flights between Sanaa and Jordan with three daily flights, [he said](https://twitter.com/abdusalamsalah) on Twitter.
+- Yemen's IRG presidential advisor Abu Zaraa welcomed the disbursement of financial dues to military personnel forcibly removed from southern governorates, [he said](https://twitter.com/AbuZar3a) on Twitter.
 
 **Official Signals**
 
-- UAE denied circulating reports about conditions of the Iranian community in the country, [Youm7 reported](https://www.youm7.com/story/2026/4/4/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%86%D9%81%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/7365296).
-
-- Bahrain postponed voting on a draft UN resolution regarding the Strait of Hormuz, [Al-Ahram Gate reported](https://gate.ahram.org.eg/News/5589798.aspx).
+- Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood with French Foreign Minister Jean-Yves Le Drian, [he said](https://twitter.com/FaisalbinFarhan) on Twitter.
+- Oman's Foreign Minister Badr Albusaidi held talks with Belarus Foreign Minister Maxim Ryzhenkov on deepening bilateral relations through a newly launched joint commission, [he said](https://twitter.com/badralbusaidi) on Twitter.
 
 **Coverage Flags**
 
-- Ukrainian President Zelenskyy visited Gulf Arab states to discuss drone defense and seek strategic ties, [AP reported](https://apnews.com/article/russia-ukraine-war-odesa-drones-zelenskyy-gulf-5d520d03324170efbfb7f75ca6f2492e).
+- Multiple Gulf officials are condemning Iranian attacks while coordination calls increase between regional leaders.
+- Energy security concerns are driving European diplomatic engagement with Gulf states as regional tensions escalate.
 
 **Sources**
 
-- [Al Jazeera](https://www.aljazeera.com/)
-- [Times of Oman](https://timesofoman.com/)
-- [Reuters Gulf](https://www.reuters.com/)
-- [AP Gulf](https://apnews.com/)
-- [BBC Middle East](https://www.bbc.com/)
-- [Bloomberg Gulf](https://www.bloomberg.com/)
-- [CNN Arabic](https://arabic.cnn.com/)
-- [Al-Sharq](https://asharq.com/)
-- Official Twitter/X accounts of Gulf governments and officials
+- [Al Jazeera](https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss)
+- [Reuters](https://www.reuters.com/business/aerospace-defense/trump-israel-pressure-iran-ahead-deadline-search-continues-missing-us-airman-2026-04-04/)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war)
+- [BBC](https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss)
+- [Sky News Arabia](https://validate.perfdrive.com/?ssa=5cff8a32-4dbe-408a-af38-5f9c80c26bd4&ssb=03970248423&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1862513-%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A9-%25D8%25A5%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25A8%25D9%2586%25D9%2589-%25D9%2585%25D8%25AC%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA&ssi=9e374a77-cf43-47ae-9aba-d16ac909dd0d&ssk=botmanager_support@radware.com&ssm=43717816873490789100479229325195&ssn=b1a70b47f79e10398b6488e9511253656cc0767beb93-1e99-4dba-993c45&sso=8b264d0f-ecafa727f606947c8ee4f1d7f1477b66578df7d3dcc73db9&ssp=78919521141775365164177531263057932&ssq=08592076383342324398763833472068795377210&ssr=NjQuMjM2LjE1My45Nw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNzY3YmViOTMtMWU5OS00ZGJhLTlkMGYtZWNhZmE3MjdmNjA2MS0xNzc

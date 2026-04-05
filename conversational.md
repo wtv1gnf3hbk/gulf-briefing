@@ -1,54 +1,29 @@
-**Top News**
+**Iranian attacks hit Kuwait and Bahrain as Gulf tensions escalate**
 
-Iran struck multiple Gulf states on Friday as the regional conflict escalated dramatically, with UAE air defenses [intercepting 69](https://twitter.com/modgovae) Iranian projectiles including 18 ballistic missiles, 4 cruise missiles and 47 drones, according to the UAE Defense Ministry. The attacks killed an Egyptian national and injured four others at Abu Dhabi's [Habshan gas](https://www.bloomberg.com/news/articles/2026-04-03/abu-dhabi-halts-operations-at-main-gas-facility-after-attack) facility, forcing operations to halt at the critical energy infrastructure. Bloomberg reports that [two fires](https://twitter.com/ADMediaOffice) broke out at the site, with emergency response teams working to contain the incidents.
+Iran launched direct attacks on Kuwait and the UAE Friday, with [Iranian drones](https://validate.perfdrive.com/?ssa=5cff8a32-4dbe-408a-af38-5f9c80c26bd4&ssb=03970248423&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1862513-%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A9-%25D8%25A5%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25A8%25D9%2586%25D9%2589-%25D9%2585%25D8%25AC%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA&ssi=9e374a77-cf43-47ae-9aba-d16ac909dd0d&ssk=botmanager_support@radware.com&ssm=43717816873490789100479229325195&ssn=b1a70b47f79e10398b6488e9511253656cc0767beb93-1e99-4dba-993c45&sso=8b264d0f-ecafa727f606947c8ee4f1d7f1477b66578df7d3dcc73db9&ssp=78919521141775365164177531263057932&ssq=08592076383342324398763833472068795377210&ssr=NjQuMjM2LjE1My45Nw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNzY3YmViOTMtMWU5OS00ZGJhLTlkMGYtZWNhZmE3MjdmNjA2MS0xNzc1MzYzODMzOTM5MC0wMDNlYjU2MTk3MjU5MTVhNGM5MTAiLCJ1em14IjoiN2Y5MDAwZDcxZTFkODktYTAzMS00NTI0LTllOTktZTFjMzBiNzUyNTEyMS0xNzc1MzYzODMzOTM5MC05MTYyN2UzYzIwNzg2NjJlMTAifQ==) targeting Kuwait's Ministries Complex according to Sky News Arabia, causing serious damage and forcing two electricity generation units offline. The UAE Defense Ministry confirmed its air defenses engaged [23 ballistic missiles](https://x.com/modgovae/status/1775368033394) and 56 drones launched from Iran, while Bahrain's Interior Ministry reported civil defense teams [controlling fires](https://x.com/moi_bahrain/status/1775370012) at facilities hit by Iranian strikes. Since the escalation began, UAE air defenses have intercepted 498 ballistic missiles and hundreds of drones, per the Defense Ministry.
 
-The Iranian assault targeted five Gulf countries according to CNN Arabic, while the US lost [two fighter](https://www.reuters.com/world/middle-east/us-fighter-jet-shot-down-over-iran-search-underway-crew-us-official-says-2026-04-03/) jets over Iran with at least one crew member still missing, Reuters reports. Saudi Arabia's Crown Prince Mohammed bin Salman held phone calls with Russia's Putin and Italy's Prime Minister Meloni as diplomatic efforts intensified. The escalation prompted Bahrain to [crack down](https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985) on dissent as internal unrest reignited, according to AP News.
+The attacks come as tensions reach dangerous new levels following the downing of a [US F-15E](https://www.bbc.com/news/articles/cm2k1dgz142o) fighter jet over Iran, with one crew member rescued and another still missing according to the BBC. Crown Prince Mohammed bin Salman held a phone call with Russian President Putin discussing "the rapid developments in the situation in light of the military escalation" and its impact on maritime security and the global economy, per the Saudi Foreign Ministry. Meanwhile, Iran announced that [Iraqi ships](https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz) can transit the Strait of Hormuz as shipping activity increases, Bloomberg reports.
 
-**Energy & Economy**
+## Energy & Economy
 
-• The UAE injected [$8 billion](https://www.bloomberg.com/news/articles/2026-04-03/jefferies-says-uae-injected-8-billion-liquidity-to-help-lenders) in liquidity to support its banking sector following the attacks, Jefferies reports to Bloomberg, signaling authorities' swift response to financial stability concerns.
+- Italian Prime Minister Giorgia Meloni [visited Doha](https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war) to secure energy supplies following the Iran war's impact on global markets, Bloomberg reports
 
-• Abu Dhabi's Habshan gas facility - a major component of UAE energy infrastructure - remains shut down following the Iranian strike that killed one Egyptian worker and injured four others, per Bloomberg.
+- South Korea requested Gulf nations ensure [steady energy supply](https://www.reuters.com/sustainability/boards-policy-regulation/south-korea-asks-gulf-nations-steady-energy-supply-safety-korean-vessels-2026-04-05/) and safety of Korean vessels transiting regional waters, according to Reuters
 
-• Italian PM Meloni is [visiting Saudi](https://www.reuters.com/world/europe/italys-meloni-flies-gulf-region-energy-security-push-2026-04-03/) Arabia, Qatar and UAE in an energy security push following Gulf tensions, Reuters reports, as Europe seeks to diversify supply chains.
+- A [French-owned ship](https://www.bbc.com/news/articles/cjd8275jrrko) successfully passed through the Strait of Hormuz as maritime tensions escalate, the BBC reports
 
-• Three ships successfully used a [new route](https://www.bloomberg.com/news/articles/2026-04-02/three-ships-appear-to-enter-hormuz-by-new-route-along-oman-coast) along Oman's coast to transit the Strait of Hormuz, Bloomberg reports, as maritime traffic adapts to regional tensions.
+- Golf Saudi announced more [LPGA-European tour](https://apnews.com/article/lpga-tour-golf-saudi-let-vegas-shadow-creek-0420fd3653c4072a73bced5783bec7bc) co-sanctioned events planned for North America, AP reports
 
-**Country Watch**
+## Country Watch
 
-**Saudi Arabia**
-Saudi air defense systems remain on high alert following Iran's multi-country assault, with Prince Khalid bin Salman conducting defense consultations with Greek, British and Hungarian counterparts. The Crown Prince [discussed regional](https://twitter.com/KSAMOFA) escalation with Putin, emphasizing negative impacts on maritime navigation and the global economy. Saudi Arabia and five other states issued a [joint condemnation](https://twitter.com/rbalsaud) of Iranian attacks, according to Princess Reema's Twitter account.
+### Saudi Arabia
+Defense Minister Prince Khalid bin Salman conducted [multiple meetings](https://twitter.com/kbsalsaud) with counterparts from Greece, the UK, and Hungary this week, discussing regional developments and condemning "Iran's continued flagrant attacks on the Kingdom." Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood, [welcoming France's](https://twitter.com/FaisalbinFarhan) determination to recognize a Palestinian state. Ambassador Mohammed AlJabir tweeted that [Al-Hudaydah is liberated](https://twitter.com/mohdsalj) and announced plans to visit Sanaa with an Omani delegation to consolidate the truce.
 
-**UAE**
-The UAE bore the brunt of Friday's Iranian assault, with Dubai reporting minor incidents from [interceptor debris](https://twitter.com/DXBMediaOffice) falling on buildings in Dubai Internet City and Marina areas, though no injuries occurred. The UAE government [denied circulating](https://www.youm7.com/story/2026/4/4/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%86%D9%81%D9%89-%D8%B5%D8%AD%D8%A9-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/7365296) reports about conditions of the Iranian community, per Youm7.
+### UAE
+UAE officials strongly condemned the attack on their Damascus embassy, with diplomatic advisor Anwar Gargash calling Turkey's defense minister's statement [a "new downfall"](https://twitter.com/AnwarGargash) for Turkish diplomacy. The Defense Ministry provided regular updates on intercepting Iranian missiles and drones, emphasizing the scale of attacks since the conflict began.
 
-**Bahrain**
-Bahraini authorities [arrested drivers](https://twitter.com/moi_bahrain) and seized vehicles for 60 days following disturbances that spread panic among citizens during the regional crisis. The kingdom postponed voting on a [UN resolution](https://gate.ahram.org.eg/News/5589798.aspx) regarding the Strait of Hormuz, Al-Ahram reports.
+### Kuwait
+Kuwait sustained the most significant damage from Iranian attacks, with the Ministries Complex hit and two power generation units knocked offline according to [Youm7](https://www.youm7.com/story/2026/4/5/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AE%D8%B1%D9%88%D8%AC-%D9%88%D8%AD%D8%AF%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA/7366333). Al-Sharq reported serious damage to the [ministerial complex](https://asharq.com/iran/178051/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1-%D8%AC%D8%B3%D9%8A%D9%85%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A/) from the Iranian strikes.
 
-**Oman** 
-A child [died in](https://timesofoman.com//article/170228-child-dies-in-drowning-incident-in-al-khaboura) a drowning incident in Al Khaboura, Times of Oman reports. Foreign Minister Badr Albusaidi welcomed his Belarusian counterpart to discuss [deepening bilateral](https://twitter.com/badralbusaidi) relations through a newly launched joint commission.
-
-**Yemen**
-Saudi Yemen envoy Mohammed AlJabir announced he will [visit Sana'a](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the truce, support prisoner exchanges and discuss dialogue between Yemeni components. Houthi spokesman Mohammed Abdulsalam published the [text of](https://twitter.com/abdusalamsalah) an agreement covering bank procedures, Yemenia Airlines flights, and other arrangements. The Southern Transitional Council's Amr Bidh warned that political agreements [will not](https://twitter.com/AmrAlBidh) stand in the way of citizens' lives and livelihoods.
-
-**Official Signals**
-
-Prince Khalid bin Salman emphasized Iran's "continued flagrant attacks on the Kingdom and other regional states" in meetings with defense ministers from Greece, Britain and Hungary, signaling Saudi Arabia's diplomatic push to frame Iranian actions as threats to international security. Qatar's Prime Minister Al Thani stressed the need to "coordinate efforts and enhance joint action" in calls with Saudi Crown Prince Mohammed bin Salman and UAE President Mohammed bin Zayed, indicating Gulf coordination despite the crisis.
-
-The UAE Defense Ministry's detailed accounting of intercepted Iranian projectiles - precisely listing 18 ballistic missiles, 4 cruise missiles and 47 drones - demonstrates the UAE's strategy of transparent reporting on defensive capabilities while avoiding inflammatory rhetoric.
-
-**Coverage Flags**
-
-International outlets are providing more granular military details than regional press, particularly on US aircraft losses over Iran and specific targeting of energy infrastructure. The gap between Arabic and English coverage is notable on Iranian community conditions in the UAE, with local outlets focusing on government denials while international media explores broader implications.
-
-**Sources**
-• [UAE Defense Ministry Twitter](https://twitter.com/modgovae)
-• [Bloomberg - Abu Dhabi gas facility attack](https://www.bloomberg.com/news/articles/2026-04-03/abu-dhabi-halts-operations-at-main-gas-facility-after-attack)
-• [Reuters - US fighter jets shot down](https://www.reuters.com/world/middle-east/us-fighter-jet-shot-down-over-iran-search-underway-crew-us-official-says-2026-04-03/)
-• [AP News - Bahrain cracks down on dissent](https://apnews.com/article/iran-us-war-bahrain-protests-dissent-952f20a5bafd31d91b2a83454e8f9985)
-• [CNN Arabic - Iran attacks five Gulf states](https://arabic.cnn.com/middle-east/article/2026/04/04/details-of-irans-new-attacks-on-5-gulf-states-friday)
-• [Bloomberg - UAE liquidity injection](https://www.bloomberg.com/news/articles/2026-04-03/jefferies-says-uae-injected-8-billion-liquidity-to-help-lenders)
-• [Times of Oman - Child drowning](https://timesofoman.com//article/170228-child-dies-in-drowning-incident-in-al-khaboura)
-• [Reuters - Italy Gulf visit](https://www.reuters.com/world/europe/italys-meloni-flies-gulf-region-energy-security-push-2026-04-03/)
-• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-• [Mohammed AlJabir Twitter](https://twitter.com/mohdsalj)
+### Bahrain
+Bahrain's Interior Ministry reported civil defense teams successfully controlled fires at facilities hit by Iranian attacks, with [no casualties](https://twitter.com/moi_bahrain) reported. The Foreign Ministry condemned attacks on the UAE embassy in Damascus in coordination with
