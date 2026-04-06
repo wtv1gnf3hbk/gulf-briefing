@@ -1,53 +1,55 @@
 **Top News**
 
-- Iran declared it is allowing Iraqi ships to pass through the Strait of Hormuz as transits increased, according to [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-04/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz).
-- Kuwait suffered drone strikes on its Ministries Complex and power facilities, with [two electricity](https://www.youm7.com/story/2026/4/5/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AE%D8%B1%D9%88%D8%AC-%D9%88%D8%AD%D8%AF%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A8%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA/7366333) generation units going out of service, per Youm7.
-- UAE air defenses engaged 23 ballistic missiles and 56 drones from Iran on April 4, the Defense Ministry [said on](https://twitter.com/modgovae) Twitter.
-- The US rescued one airman from a downed F-15E fighter jet over Iran while searching for a missing crew member, [Reuters reports](https://www.reuters.com/business/aerospace-defense/trump-israel-pressure-iran-ahead-deadline-search-continues-missing-us-airman-2026-04-04/).
-- Bahrain's Civil Defense controlled a fire at a facility hit by Iranian strikes without casualties, the Interior Ministry [confirmed on](https://twitter.com/moi_bahrain) Twitter.
-- South Korea asked Gulf nations for steady energy supplies and safety guarantees for Korean vessels during the regional crisis, [Reuters reports](https://www.reuters.com/sustainability/boards-policy-regulation/south-korea-asks-gulf-nations-steady-energy-supply-safety-korean-vessels-2026-04-05/).
+- Iran rejected Trump's Tuesday deadline to reopen the Strait of Hormuz, according to [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss).
+- The UAE air defense systems intercepted Iranian missile and drone attacks, with debris from a successful interception causing moderate injuries to a Ghanaian national at a company in Abu Dhabi's industrial zone, the UAE [Defense Ministry](screenshots/twitter_mod_uae.png) confirmed.
+- OPEC+ agreed to boost oil production quotas when the Strait of Hormuz reopens, [Reuters reported](https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/).
+- The US rescued a missing airman after his jet was downed in Iran, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios).
+- Bahrain's Foreign Minister called the Strait of Hormuz crisis an urgent matter requiring international action to avoid humanitarian and economic consequences, the [ministry stated](https://bit.ly/4tcOUcB).
+- Trump issued an expletive-laden threat to Iran over the Hormuz Strait blockage, the [BBC reported](https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss).
 
 **Energy & Economy**
 
-- Italy's Prime Minister Meloni visited Doha to bolster energy supplies disrupted by the regional conflict, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war).
-- Satellite firm Planet Labs announced it would indefinitely withhold Iran war imagery, [Reuters reports](https://www.reuters.com/business/media-telecom/satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05/).
-- A French-owned ship successfully passed through the Strait of Hormuz during the ongoing tensions, [BBC reports](https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss).
+- Oil prices rose as the US-Israeli war with Iran continued to disrupt supply, [Reuters reported](https://www.reuters.com/business/energy/oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05/).
+- Saudi Arabia's non-oil business activity shrank in March during the conflict, according to PMI data cited by [Reuters](https://www.reuters.com/world/middle-east/saudi-arabias-non-oil-business-activity-shrinks-march-amid-conflict-pmi-shows-2026-04-05/).
+- Most Gulf stocks were subdued following escalating regional conflict, [Reuters reported](https://www.reuters.com/world/middle-east/most-gulf-stocks-subdued-amid-escalating-conflict-2026-04-05/).
+- Pakistan announced it will repay matured loan deposits to the UAE, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman received a phone call from Russian President Putin discussing regional escalation's impact on maritime security and the global economy, the Foreign Ministry [said on](https://twitter.com/KSAMOFA) Twitter.
-- Defense Minister Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and condemned Iran's continued attacks on the Kingdom, [he said](https://twitter.com/kbsalsaud) on Twitter.
-- Saudi Arabia's ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges, [he said](https://twitter.com/mohdsalj) on Twitter.
+- Prince Khalid bin Salman met with Greece's Defense Minister and condemned Iran's continued attacks on the Kingdom and other regional states, according to his [Twitter account](screenshots/twitter_kbs.png).
+- The Saudi Ambassador to Yemen Mohammed AlJabir announced his upcoming visit to Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges, he [posted](screenshots/twitter_aljabir.png).
 
-**UAE**
-- UAE Presidential advisor Anwar Gargash criticized Turkey's Defense Minister for provocative statements, calling them a "new downfall" for Turkish diplomacy, [he said](https://twitter.com/AnwarGargash) on Twitter.
-- The UAE condemned attacks on its Damascus embassy, [Bahrain's Foreign](https://bit.ly/48d1EXY) Ministry said.
+**UAE** 
+- Bahrain condemned the attacks on the UAE embassy in Damascus, the Bahraini [Foreign Ministry](https://bit.ly/48d1EXY) announced.
+- Three Gulf funds agreed to back Paramount's $8.1 billion takeover of Warner, the [WSJ reported](https://www.reuters.com/business/media-telecom/three-gulf-funds-agree-back-paramounts-81-billion-takeover-warner-wsj-reports-2026-04-05/) per Reuters.
 
 **Qatar**
-- Qatar's Prime Minister discussed regional developments with Saudi Crown Prince Mohammed bin Salman and UAE President Mohammed bin Zayed, stressing coordination for peaceful solutions, [he said](https://twitter.com/MBA_AlThani_) on Twitter.
+- Qatar's PM discussed regional developments with UAE President Sheikh Mohammed bin Zayed and stressed the importance of joint coordination to protect regional security, he [announced](screenshots/twitter_pm_qatar.png).
 
 **Bahrain**
-- Bahrain strongly condemned attacks on the UAE Embassy in Damascus, the Foreign Ministry [said in](https://bit.ly/4v790pX) a statement.
+- Bahrain's Interior Ministry confirmed civil defense controlled a fire at a facility targeted by Iranian aggression without casualties, the [ministry stated](screenshots/twitter_bahrain_moi.png).
+
+**Oman**
+- Foreign Minister Badr Albusaidi welcomed Belarus FM Maxim Ryzhenkov to discuss deepening bilateral relations, he [posted](screenshots/twitter_albusaidi.png).
 
 **Yemen**
-- Houthi negotiator Mohammed Abdulsalam announced an agreement to resume Yemenia Airlines flights between Sanaa and Jordan with three daily flights, [he said](https://twitter.com/abdusalamsalah) on Twitter.
-- Yemen's IRG presidential advisor Abu Zaraa welcomed the disbursement of financial dues to military personnel forcibly removed from southern governorates, [he said](https://twitter.com/AbuZar3a) on Twitter.
+- IRG Information Minister Mohammed Al-Eryani warned that the Houthi militia posed a cross-border threat as an organic extension of Iran's Revolutionary Guard, he [tweeted](screenshots/twitter_eryani.png).
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood with French Foreign Minister Jean-Yves Le Drian, [he said](https://twitter.com/FaisalbinFarhan) on Twitter.
-- Oman's Foreign Minister Badr Albusaidi held talks with Belarus Foreign Minister Maxim Ryzhenkov on deepening bilateral relations through a newly launched joint commission, [he said](https://twitter.com/badralbusaidi) on Twitter.
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired an international conference on Palestinian statehood with France and commended France's resolve to recognize Palestine, he [announced](screenshots/twitter_faisal.png).
+- Qatar's Foreign Ministry spokesman called for reducing escalation and rejected steps threatening regional security and stability, [officials said](screenshots/twitter_majed.png).
 
 **Coverage Flags**
 
-- Multiple Gulf officials are condemning Iranian attacks while coordination calls increase between regional leaders.
-- Energy security concerns are driving European diplomatic engagement with Gulf states as regional tensions escalate.
+- Aid groups warned the Iran war is hindering food and medicine from reaching millions, [AP reported](https://apnews.com/article/iran-us-mideast-wars-global-aid-eae99c347456ced2989e9f253448b56b).
 
 **Sources**
 
-- [Al Jazeera](https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss)
-- [Reuters](https://www.reuters.com/business/aerospace-defense/trump-israel-pressure-iran-ahead-deadline-search-continues-missing-us-airman-2026-04-04/)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-04/italy-s-meloni-visits-doha-to-bolster-energy-supplies-hit-by-war)
-- [BBC](https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss)
-- [Sky News Arabia](https://validate.perfdrive.com/?ssa=5cff8a32-4dbe-408a-af38-5f9c80c26bd4&ssb=03970248423&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1862513-%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A9-%25D8%25A5%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25A8%25D9%2586%25D9%2589-%25D9%2585%25D8%25AC%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA&ssi=9e374a77-cf43-47ae-9aba-d16ac909dd0d&ssk=botmanager_support@radware.com&ssm=43717816873490789100479229325195&ssn=b1a70b47f79e10398b6488e9511253656cc0767beb93-1e99-4dba-993c45&sso=8b264d0f-ecafa727f606947c8ee4f1d7f1477b66578df7d3dcc73db9&ssp=78919521141775365164177531263057932&ssq=08592076383342324398763833472068795377210&ssr=NjQuMjM2LjE1My45Nw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNzY3YmViOTMtMWU5OS00ZGJhLTlkMGYtZWNhZmE3MjdmNjA2MS0xNzc
+- [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss)
+- [Times of Oman](https://timesofoman.com//article/170308-opec-hikes-oil-production-quotas-expresses-concern-over-attacks-on-energy-infrastructure)
+- [Reuters Gulf](https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/)
+- [BBC Middle East](https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss)
+- [Bloomberg Gulf](https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios)
+- [Official Twitter accounts](screenshots/)
