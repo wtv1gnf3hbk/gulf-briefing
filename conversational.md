@@ -1,31 +1,49 @@
-**Top News**
+Good morning from the Gulf. Iranian missile and drone attacks escalated dramatically across the region Monday, with Saudi Arabia intercepting 7 missiles that left debris near energy facilities, according to [Reuters reports](https://www.reuters.com/world/saudi-arabia-intercepts-7-missiles-debris-falls-near-energy-facilities-2026-04-06/). The UAE Defense Ministry confirmed its air defenses engaged [12 ballistic missiles](https://www.reuters.com/world/middle-east/iran-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06/), 2 cruise missiles, and 19 drones from Iran, while Tehran claimed it struck US forces relocated on Kuwait's Bubiyan island.
 
-OPEC+ agreed to boost oil production quotas contingent on the reopening of the Strait of Hormuz, [Reuters reports](https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/), as the Iran-US conflict continues to disrupt global energy supplies. The decision comes as [oil prices rise](https://www.reuters.com/business/energy/oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05/) while Trump issued an [expletive-laden threat](https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss) to Iran over the strait blockade, according to the BBC. Iranian officials [rejected Trump's Tuesday deadline](https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss) on Hormuz, Al Jazeera reports.
-
-The UAE Defense Ministry confirmed its air defenses were [actively intercepting](https://twitter.com/modgovae) Iranian missile and drone attacks, with debris from successful interceptions causing moderate injuries to a Ghanaian national at an Abu Dhabi industrial facility. Saudi Arabia's non-oil business activity [contracted in March](https://www.reuters.com/world/middle-east/saudi-arabias-non-oil-business-activity-shrinks-march-amid-conflict-pmi-shows-2026-04-05/) as the regional conflict weighs on economic sentiment, Reuters reports.
+The attacks come as President Trump renewed threats against Iran over the Hormuz Strait blockade, with [BBC reporting](https://www.bbc.com/news/articles/cvg0q6wdzp1o) Trump issued "expletive-laden" ultimatums as deal deadline pressures mount. The UAE has demanded that any US-Iran agreement must guarantee [Hormuz passage](https://www.reuters.com/world/europe/uae-says-use-hormuz-must-be-guaranteed-any-us-iran-deal-2026-04-06/), highlighting Gulf states' concerns about economic lifelines. Prince Khalid bin Salman met with defense ministers from Greece, Britain, and Hungary to discuss "Iran's continued flagrant attacks on the Kingdom and other regional states," according to his official posts.
 
 **Energy & Economy**
 
-• OPEC+ approved theoretical production quota increases tied to Strait of Hormuz reopening, with delegates describing the move as largely symbolic given current supply disruptions, [according to Bloomberg](https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say).
+• Saudi Arabia raised Asian oil prices to record premiums as war disrupts global markets, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets), with the kingdom capitalizing on supply concerns following Iranian threats.
 
-• Oil prices opened higher as US-Israeli operations with Iran continue disrupting supply chains, [Reuters reports](https://www.reuters.com/business/energy/oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05/).
+• The Hormuz closure is dividing Middle Eastern oil fortunes, with [Reuters analyzing](https://www.reuters.com/business/energy/hormuz-closure-divides-fortunes-middle-eastern-oil-states-2026-04-06/) how different Gulf states face varying impacts from potential strait blockages.
 
-• Gulf stocks remained subdued as regional conflict escalation weighs on investor sentiment, [per Reuters](https://www.reuters.com/world/middle-east/most-gulf-stocks-subdued-amid-escalating-conflict-2026-04-05/).
+• Gulf equity markets traded mixed as investors awaited clarity on US-Iran negotiations, [Reuters reports](https://www.reuters.com/world/middle-east/major-gulf-markets-mixed-investors-await-clarity-us-iran-talks-2026-04-06/), with uncertainty weighing on regional bourses.
 
-• Pakistan confirmed it will repay matured loan deposits to the UAE, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-04/pakistan-says-it-will-repay-matured-loan-deposits-to-uae).
-
-**Country Watch**
+• The UAE surprised markets by putting Pakistan under financial strain with a $3 billion loan move, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-06/uae-s-surprise-3-billion-loan-move-puts-pakistan-under-strain), though details remain unclear.
 
 **Saudi Arabia**
-Prince Khalid bin Salman held defense meetings with Greek Minister Nikos Dendias and UK Defense Secretary John Healey, condemning Iran's [continued attacks](https://twitter.com/kbsalsaud) on the Kingdom. Saudi Ambassador to Yemen Mohammed AlJabir announced plans to [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the truce and support prisoner exchanges.
 
-**UAE** 
-The Defense Ministry reported successfully intercepting Iranian ballistic missiles and drones, with [debris injuries](https://twitter.com/modgovae) at an Abu Dhabi facility. Moody's maintained the UAE's credit rating at Aa2, [according to Alghad TV](https://www.alghad.tv/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%85%D9%88%D8%AF%D9%8A%D8%B2-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D8%A6%D8%AA%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%86%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%89-aa2). Syria is investigating an [attack on](https://asharq.com/politics/178153/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AD%D9%82%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A5%D8%AF%D8%A7%D9%86%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/) the UAE embassy in Damascus, per Al-Sharq.
+Prince Faisal bin Farhan co-chaired an international conference in partnership with France on Palestinian statehood, stating Saudi Arabia's position on establishing a Palestinian state remains "firm and unwavering." The Foreign Ministry issued statements condemning Iranian attacks and welcoming UN Human Rights Council resolutions. Saudi Civil Defense warned citizens against filming missile interceptions, posting alerts about dangers passing in the Eastern Province. Ambassador Mohammed AlJabir posted that Al-Hudaydah is "liberated," though context for this claim is unclear.
+
+**UAE**
+
+The Defense Ministry provided detailed breakdowns of Iranian attacks, confirming 12 ballistic missiles, 2 cruise missiles and 19 drones were intercepted. Sheikh Mohammed bin Rashid highlighted the UAE's rise to 9th place globally in merchandise exports, advancing from 17th in five years. Dubai Chambers explored strengthening trade resilience with Oman through meetings in Sohar. The Interior Ministry issued live missile threat warnings Monday, telling residents to stay in safe locations and follow official channels.
+
+**Kuwait**
+
+Iranian forces claimed to have struck US troops relocated to Kuwait's Bubiyan island, [Reuters reports](https://www.reuters.com/world/middle-east/iran-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06/), marking a significant escalation in attacks on American forces in the Gulf.
 
 **Bahrain**
-Foreign Minister Dr. Abdullatif Al Zayani called the Strait of Hormuz crisis an urgent matter requiring [international action](https://validate.perfdrive.com/?ssa=7aa0c08c-cbc4-494c-9230-12a57bb504ce&ssb=96491254385&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1862615-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25A3%25D8%25B2%25D9%2585%25D8%25A9-%25D9%2585%25D8%25B6%25D9%258A%25D9%2582-%25D9%2587%25D8%25B1%25D9%2585%25D8%25B2-%25D8%25AA%25D8%25AA%25D8%25B7%25D9%2584%25D8%25A8-%25D8%25AA%25D8%25AD%25D8%25B1%25D9%2583%25D8%25A7-%25D8%25AF%25D9%2588%25D9%2584%25D9%258A%25D8%25A7-%25D8%25B9%25D8%25A7%25D8%25AC%25D9%2584%25D8%25A7&ssi=cec59f9c-cf43-4904-8590-978e3eddbec8&ssk=botmanager_support@radware.com&ssm=61536869883312117107272390350702&ssn=ff85eff67856182ad584ac72a9d2686dbcc640d1fe57-686b-4803-b6bf92&sso=4c7c3377-3326cce6173c7f7dbdc13138da512622ada66ed380065d3f&ssp=23748073921775491785177543714698860&ssq=24117715080413811718850804711299682430841&ssr=MTcyLjIxMi4xNjQuMTc=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNDBkMWZlNTctNjg2Yi00ODAzLWIzNzctMzMyNmNjZTYxNzNjMS0xNzc1NDUwODA0ODg3MC0wMDMyODI5M2NlOTBjNWZlOWYxMTAiLCJ1em14IjoiN2Y5MDAwZTc2Y2JkN2QtODhhMS00MDgxLWEwZTAtYzE4NzEyZTk0ZGRiMS0xNzc1NDUwODA0ODg3MC01ZmNlMjVmYzhmNWU1OWQzMTAifQ==) to avoid humanitarian repercussions, according to Sky News Arabia. The Interior Ministry said Civil Defense controlled fires from Iranian attacks without casualties.
 
-**Oman**
-Foreign Minister Badr Albusaidi welcomed his Belarusian counterpart to discuss [deepening bilateral relations](https://twitter.com/badralbusaidi) and held calls with GCC colleagues and Russia about regional war impacts.
+The Interior Ministry sounded alarm sirens and urged citizens to seek safe shelter, mirroring coordinated regional responses to Iranian missile threats. Foreign Minister statements emphasized that the Hormuz crisis requires "urgent international action" to avoid humanitarian and economic repercussions.
 
-**
+**Yemen**
+
+IRG Ambassador Mohammed Al-Eryani condemned Houthi militia attempts to cancel commercial registries of over 4,225 local and international agencies, calling it "systematic economic massacre." Houthi negotiator Mohammed Abdulsalam posted details of an apparent banking agreement, including resuming Yemenia flights between Sanaa and Jordan. STC's Amr Bidh warned against using the Riyadh Agreement to "torture people and score political points."
+
+**Official Signals**
+
+Prince Khalid bin Salman's meetings with multiple defense ministers signal Saudi Arabia is building international consensus around Iranian aggression, specifically mentioning the attacks' impact on "global peace and security." The UAE's detailed military accounting of intercepted projectiles demonstrates Gulf states are documenting Iranian escalation for potential international legal proceedings. Qatar PM Sheikh Mohammed bin Abdulrahman's calls with regional leaders stress "joint coordination to protect security" while supporting "peaceful paths."
+
+**Coverage Flags**
+
+International outlets are providing more granular details about Iranian attack patterns and US force relocations than regional English-language press. The scale of Saudi Arabia's Asian oil price increases warrants deeper NYT Gulf coverage on how the kingdom is monetizing regional instability.
+
+**Sources**
+• [Reuters - Saudi Arabia intercepts missiles](https://www.reuters.com/world/saudi-arabia-intercepts-7-missiles-debris-falls-near-energy-facilities-2026-04-06/)
+• [Reuters - Iran strikes Kuwait](https://www.reuters.com/world/middle-east/iran-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06/)
+• [Reuters - UAE Hormuz demands](https://www.reuters.com/world/europe/uae-says-use-hormuz-must-be-guaranteed-any-us-iran-deal-2026-04-06/)
+• [Bloomberg - Saudi oil premiums](https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets)
+• [BBC - Trump Iran threats](https://www.bbc.com/news/articles/cvg0q6wdzp1o)
+• [Al Jazeera - Gulf attacks](https://www.aljazeera.net/news/2026/4/7/%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6)
