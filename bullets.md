@@ -1,58 +1,47 @@
 **Top News**
 
-- Saudi Arabia intercepted 7 missiles, with debris falling near energy facilities during ongoing Iranian attacks, Reuters [reports](https://www.reuters.com/world/saudi-arabia-intercepts-7-missiles-debris-falls-near-energy-facilities-2026-04-06/).
-- UAE air defense systems engaged 12 ballistic missiles, 2 cruise missiles, and 19 drones launched from Iran on April 6, the Defense Ministry [announced](https://twitter.com/modgovae).
-- Iran struck US forces relocated to Kuwait's Bubiyan Island, an Iranian military spokesperson confirmed, according to [Reuters](https://www.reuters.com/world/middle-east/iran-struck-us-forces-relocated-kuwaits-bubiyan-island-military-spokesperson-2026-04-06/).
-- Trump issued an "expletive-laden threat" to Iran over Hormuz Strait blockage as negotiations continue, the BBC [reports](https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss).
-- UAE insisted that Hormuz Strait access "must be guaranteed" in any US-Iran deal, Reuters [reports](https://www.reuters.com/world/europe/uae-says-use-hormuz-must-be-guaranteed-any-us-iran-deal-2026-04-06/).
-- Bahrain activated emergency sirens, urging citizens to "remain calm and head to the nearest safe place," the Interior Ministry [said](https://twitter.com/moi_bahrain).
+- Iran's Islamic Revolutionary Guard Corps attacked Saudi Arabia's Jubail petrochemical complex, [Reuters reported](https://www.reuters.com/world/middle-east/iran-has-attacked-saudi-petrochemical-complex-jubail-fars-news-agency-says-2026-04-07/).
+- The United States and Iran agreed to a two-week ceasefire following Trump's threats, [AP reported](https://apnews.com/article/iran-us-israel-trump-lebanon-april-7-2026-421ee64fdc9a5c26460df8119c7d1b3f).
+- UAE air defense systems engaged Iranian ballistic missiles and drones, the Defense Ministry [confirmed](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- Kuwait issued a stay-at-home order for residents starting midnight Wednesday, according to [Sky News Arabia](https://validate.perfdrive.com/?ssa=a00351c4-6af7-43fb-8056-ddfa56f91807&ssb=95556216179&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1863006-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25AA%25D8%25AF%25D8%25B9%25D9%2588-%25D8%25A7%25D9%2584%25D8%25B3%25D9%2583%25D8%25A7%25D9%2586-%25D9%2584%25D9%2584%25D8%25A8%25D9%2582%25D8%25A7%25D8%25A1-%25D8%25A7%25D9%2584%25D9%2585%25D9%2586%25D8%25A7%25D8%25B2%25D9%2584-%25D8%25A8%25D8%25AF%25D8%25A1%25D8%25A7-%25D9%2585%25D9%2586%25D8%25AA%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2584%25D9%258A%25D9%2584&ssi=65097593-cf43-43d0-bb53-bf4a32c4570e&ssk=botmanager_support@radware.com&ssm=03659849931853626109850596837566&ssn=acb31f814205bfdd540f1a4813d03915469b5a86b184-4248-4f44-9d1387&sso=23bd76a7-a128233ced809d7f6c374984764a78800fc1c17306d60fef&ssp=92789196241775678031177562590685030&ssq=79952322299927060354522999574801858281305&ssr=NTIuMTY1LjU5Ljc=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMDg2YzE1NzQwLTI1ODYtNDU5Mi04NDQyLTA4ZDU1YjdiODljNTEtMTc3NTYyMjk5OTQ4MjAtYzE4ODFiMzkyZDEzOTQxZDEwIiwiX191em1mIjoiN2Y5MDAwNWE4NmIxODQtNDI0OC00ZjQ0LTk2YTctYTEyODIzM2NlZDgwMS0xNzc1NjIyOTk5NDgxMC0wMDM2MDI4OTY3YWI1YTE3ZTVkMTAifQ==).
+- Qatar intercepted Iranian missiles, resulting in four civilians injured by falling debris, [Reuters reported](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- Some Saudi firms extended work-from-home policies following Iran's ultimatum threats, [Reuters reported](https://www.reuters.com/business/world-at-work/some-firms-saudi-extend-work-home-ahead-iran-ultimatum-2026-04-07/).
 
 **Energy & Economy**
 
-- Saudi Arabia raised Asian oil prices to record premiums as the Iran conflict disrupts global markets, Bloomberg [reports](https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets).
-- Hormuz closure would create "divided fortunes" for Middle Eastern oil states, with some benefiting from higher prices, Reuters [reports](https://www.reuters.com/business/energy/hormuz-closure-divides-fortunes-middle-eastern-oil-states-2026-04-06/).
-- Gulf equity markets traded mixed as investors await clarity on US-Iran negotiations, Reuters [reports](https://www.reuters.com/world/middle-east/major-gulf-markets-mixed-investors-await-clarity-us-iran-talks-2026-04-06/).
+- OPEC oil output fell by the largest amount in decades last month due to regional conflict, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-07/opec-output-fell-most-in-decades-last-month-on-war-survey-shows).
+- Middle East oil production could drop by 9 million barrels per day, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/mideast-crude-output-seen-dropping-by-9-million-barrels-a-day).
+- Iran and Oman were reportedly allowed to charge for Strait of Hormuz passage, the [Times of Oman](https://timesofoman.com//article/170400-iran-oman-reported-to-be-allowed-to-charge-for-strait-of-hormuz-passage) said.
+- Abu Dhabi authorities responded to a fire at the Habshan gas processing facility, the Interior Ministry [announced](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Khalid bin Salman met with British Defense Minister John Healey and condemned Iran's continued attacks on the Kingdom, he [announced](https://twitter.com/kbsalsaud).
-- Saudi Civil Defense warned citizens against filming missile interceptions, stating it "exposes you to legal [accountability](https://twitter.com/SaudiDCD)."
+- Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and condemned Iran's continued attacks on the Kingdom, he [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- The Foreign Ministry condemned attacks on Kuwait's consulate in Iraq's Basra, the ministry [stated](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- Civil Defense warned against filming or publishing information about missile interceptions and impacts, the agency [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
-**UAE** 
-- UAE Foreign Minister Sheikh Abdullah bin Zayed said his country entered the World Trade Organization's top ten merchandise exporters for the first time, advancing from 17th to 9th [place](https://twitter.com/ABZayed).
-- UAE demanded Pakistan repay a $3 billion loan early, putting additional strain on Islamabad's finances, Bloomberg [reports](https://www.bloomberg.com/news/articles/2026-04-06/uae-s-surprise-3-billion-loan-move-puts-pakistan-under-strain).
+**UAE**
+- UAE air defenses engaged one ballistic missile and 11 drones launched from Iran on April 7, the Defense Ministry [announced](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- The UAE entered the world's top ten merchandise exporters for the first time, advancing from 17th to ninth place globally, Sheikh Mohammed bin Rashid [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJTTMIZ7DLZXAP7F4-2026-04-07/).
 
 **Qatar**
-- Qatar's foreign ministry spokesman called for "reducing escalation" and rejected steps threatening regional security and stability, Majed Al Ansari [said](https://twitter.com/majedalansari).
+- Qatar's government reiterated its readiness to confront the regional crisis through coordination between agencies, the Government Communications Office [stated](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
 **Bahrain**
-- Bahrain's Foreign Minister said the Hormuz crisis "requires urgent international action" to avoid humanitarian and economic consequences, the ministry [announced](https://twitter.com/bahdiplomatic).
+- Bahrain's Interior Ministry sounded sirens and urged residents to seek safe places, the ministry [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+
+**Kuwait**
+- Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah made his first visit to Oman since taking office, Oman's Foreign Minister [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
 **Oman**
-- Oman's Foreign Minister Badr Albusaidi welcomed Belarus Foreign Minister Maxim Ryzhenkov to discuss deepening bilateral relations, he [said](https://twitter.com/badralbusaidi).
+- Sultan Haitham bin Tariq received Kuwait's Foreign Minister to discuss regional developments, according to [Badr Albusaidi](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
-**Yemen - IRG**
-- Yemen's internationally recognized government activated Starlink satellite internet, calling it an "important step" for development, Presidential Council member Abu Zaraa [announced](https://twitter.com/AbuZar3a).
-
-**Yemen - Houthis**
-- Houthi military spokesperson Mohammed Abdulsalam said Yemeni naval forces aimed to "support the Palestinian people" and warned against expanding the conflict, he [stated](https://twitter.com/abdusalamsalah).
+**Yemen**
+- Yemen's IRG ambassador Mohammed Al-Eryani warned against celebrating attacks on Gulf economies, calling them pillars of stability, he [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
+- Houthi spokesman Mohammed Abdulsalam said Yemeni naval operations aim to support Palestinians in Gaza, he [tweeted](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/).
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan chaired an international conference on Palestinian statehood with France, emphasizing the Kingdom's "firm and unwavering" position on Palestinian [state](https://twitter.com/FaisalbinFarhan).
-- UAE Presidential Affairs Minister Mansour bin Zayed extended the Nafes Emiratization program until 2040 under presidential directives, Abu Dhabi Media Office [reported](https://twitter.com/ADMediaOffice).
-
-**Coverage Flags**
-
-- Multiple Gulf states issued emergency alerts simultaneously, suggesting coordinated Iranian missile attacks across the region.
-- Trump administration appears actively engaged in Iran negotiations while maintaining public threats, potentially signaling diplomatic progress.
-
-**Sources**
-
-- [Reuters Gulf Coverage](https://www.reuters.com/world/saudi-arabia-intercepts-7-missiles-debris-falls-near-energy-facilities-2026-04-06/)
-- [BBC Middle East](https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss)
-- [Bloomberg Gulf](https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets)
-- [UAE Defense Ministry](https://twitter.com/modgovae)
-- [Saudi MFA](https://twitter.com/KSAMOFA)
-- [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss)
+- Pakistan's Prime Minister Shehbaz Sharif confirmed immediate ceasefire and US-Iran talks taking place in Pakistan, the [Times of Oman](https://timesofoman.com//article/170395-shehbaz-sharif-confirms-immediate-ceasefire-us-iran-talks-in-pakistan) reported.
+- Iran's
