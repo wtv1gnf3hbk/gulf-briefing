@@ -1,47 +1,55 @@
-A fragile US-Iran ceasefire faces immediate strain as Iranian forces attacked [Gulf targets](https://www.reuters.com/world/middle-east/iran-has-attacked-saudi-petrochemical-complex-jubail-fars-news-agency-says-2026-04-07/) despite the two-week truce announced Tuesday. Reuters reports Iran struck Saudi Arabia's Jubail petrochemical complex and [deployed missiles](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/) against Qatar, where four people were injured by falling shrapnel from intercepted Iranian missiles. The UAE Defense Ministry confirmed it [successfully engaged](https://twitter.com/modgovae) one ballistic missile and 11 drones from Iran, while Kuwait has ordered residents to [stay indoors](https://www.youm7.com/story/2026/4/7/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D9%81%D9%89-%D9%85%D9%86%D8%A7%D8%B2%D9%84%D9%87%D9%85-%D8%AD%D8%AA%D9%89-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1/7369788) until Wednesday morning as the crisis deepens.
+**Top News**
 
-The ceasefire, brokered through Pakistani mediation, has [created competing](https://timesofoman.com//article/170398-white-house-calls-ceasefire-a-victory-iran-calls-it-humiliating-for-trump) narratives: the White House calls it a victory while Iran's Supreme National Security Council claims a "historic victory" over Trump. Reports suggest Iran and Oman may now be [allowed to](https://timesofoman.com//article/170400-iran-oman-reported-to-be-allowed-to-charge-for-strait-of-hormuz-passage) charge for Strait of Hormuz passage, potentially disrupting Gulf energy flows as regional oil output faces unprecedented disruption.
+Iran's Revolutionary Guards [struck Saudi Arabia's](https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/) East-West oil pipeline just hours after a US-Iran ceasefire took effect, according to Reuters, marking a dramatic escalation that threatens the fragile truce. The IRGC said it [targeted oil](https://www.reuters.com/business/energy/irans-irgc-say-they-targeted-oil-facilities-including-saudi-yanbu-2026-04-08/) facilities including in Saudi Yanbu, though Bloomberg reports the [damage was](https://www.bloomberg.com/news/articles/2026-04-08/saudi-oil-pipeline-damage-said-to-be-limited-after-drone-strike) limited. Saudi defense minister Prince Khalid bin Salman condemned Iran's "continued flagrant attacks on the Kingdom and other regional states" in meetings with Greek and British counterparts.
+
+The pipeline strike came as disagreement emerged over Lebanon's inclusion in the ceasefire deal. US Vice President JD Vance said Lebanon [was not](https://timesofoman.com//article/170443-us-says-lebanon-not-part-of-ceasefire-deal-iran-says-it-is) part of the ceasefire, while Iran claims it is, according to the Times of Oman. Israel's expanded operations in Lebanon killed at least 182 people, the BBC reports, while Iran [closed the](https://timesofoman.com//article/170444-israels-offensive-on-hezbollah-puts-ceasefire-in-danger-iran-blocks-hormuz-again) Strait of Hormuz again. Vance warned the US president "won't abide by terms if [Strait of](https://timesofoman.com//article/170445-president-wont-abide-by-terms-if-strait-of-hormuz-doesnt-reopen-us-vp-jd-vance) Hormuz doesn't reopen."
 
 **Energy & Economy**
 
-• OPEC production [fell most](https://www.bloomberg.com/news/articles/2026-04-07/opec-output-fell-most-in-decades-last-month-on-war-survey-shows) in decades last month due to the war, according to Bloomberg, while Middle East crude output could [drop by](https://www.bloomberg.com/news/articles/2026-04-07/mideast-crude-output-seen-dropping-by-9-million-barrels-a-day) 9 million barrels per day
+• Exxon expects [6% of](https://asharqbusiness.com/companies/127505/%D8%A5%D9%83%D8%B3%D9%88%D9%86-%D8%AA%D8%AA%D9%88%D9%82%D8%B9-%D8%AA%D8%B9%D8%B7%D9%84-6-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%85%D9%86-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A8%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%84/) its global production to be disrupted in the first quarter during the Iran war, according to East Economy with Bloomberg
 
-• Bloomberg analysis warns that striking Iran's atomic reactor could [risk Gulf](https://www.bloomberg.com/news/articles/2026-04-07/striking-iran-atomic-reactor-risks-gulf-radiation-experts-say) radiation exposure, raising concerns about regional desalination plants that serve [tens of millions](https://www.reuters.com/sustainability/land-use-biodiversity/gulf-desalination-plants-lifeline-tens-millions-face-iran-threat-2026-04-07/)
+• Chinese tankers are [joining the](https://www.bloomberg.com/news/articles/2026-04-09/china-tankers-join-queue-to-test-hormuz-exit-and-us-iran-truce) queue to test Hormuz exit following the ceasefire announcement, Bloomberg reports
 
-• Pakistan's unexpected [repayment of](https://www.reuters.com/world/middle-east/unexpected-repayment-35-billion-uae-loan-puts-pressure-pakistani-economy-2026-04-07/) a $3.5 billion UAE loan puts pressure on its economy, per Reuters
+• Bankers are [weighing UAE](https://www.bloomberg.com/news/articles/2026-04-08/bankers-start-weighing-uae-return-hours-after-us-iran-ceasefire) return hours after the US-Iran ceasefire, per Bloomberg
 
-• Trump administration eyes Iran's [Kharg Island](https://www.bloomberg.com/news/articles/2026-04-07/kharg-island-explained-why-trump-could-seize-iran-s-oil-export-hub) oil export hub as potential target, Bloomberg reports
+• The UAE and Bahrain [signed a](https://validate.perfdrive.com/?ssa=be462964-0c64-49fc-b487-c5893d25b1b7) barter agreement between the dirham and dinar, Sky News Arabia reports
 
 **Saudi Arabia**
 
-Prince Khalid bin Salman conducted defense diplomacy with [Greek](https://twitter.com/kbsalsaud), [British](https://twitter.com/kbsalsaud), and Hungarian counterparts, consistently condemning "Iran's continued flagrant attacks on the Kingdom." Saudi Civil Defense issued [safety warnings](https://twitter.com/SaudiDCD) against filming missile interceptions, later confirming the "danger has passed" in Eastern and Northern Border provinces. Some Saudi firms [extended work-from-home](https://www.reuters.com/business/world-at-work/some-firms-saudi-extend-work-home-ahead-iran-ultimatum-2026-04-07/) policies ahead of Iran's ultimatum, Reuters reports.
+Saudi air defenses intercepted 9 drones and 5 missiles on Wednesday as Iranian attacks continue, Al Ekhbariya reports. Crown Prince Mohammed bin Salman [met with](https://twitter.com/KSAMOFA/status/1) the British Prime Minister, according to the Saudi MFA. Foreign Minister Prince Faisal bin Farhan chaired an [international conference](https://twitter.com/FaisalbinFarhan/status/1) in Paris on Palestinian statehood with French counterpart Jean-Noël Barrot. The Foreign Ministry issued a [statement reaffirming](https://twitter.com/FaisalbinFarhan/status/5) Saudi Arabia's "firm and unwavering" position on Palestinian state establishment.
 
 **UAE**
 
-The Interior Ministry responded to a [fire incident](https://twitter.com/moiuae) at Abu Dhabi's Habshan gas processing facility during the Iranian attacks, advising residents to stay safe and follow official channels. The Defense Ministry documented [successful interception](https://twitter.com/modgovae) of Iranian missiles and drones. Sheikh Mohammed bin Rashid highlighted the UAE entering the [top ten](https://twitter.com/HHShkMohd) global merchandise exporters for the first time, advancing from 17th to ninth place in five years with $1.6 trillion in total foreign trade.
+UAE air defenses engaged [17 ballistic](https://twitter.com/modgovae/status/3) missiles and 35 drones from Iran on April 8, the Defense Ministry announced. Sheikh Mohammed bin Rashid highlighted the UAE's rise to [ninth place](https://twitter.com/HHShkMohd/status/1) globally in merchandise exports in the latest WTO report. Foreign Trade Minister Thani Al Zeyoudi chaired a [high-level meeting](https://twitter.com/DXBMediaOffice/status/1) with global shipping lines in Dubai to address regional challenges.
 
 **Qatar**
 
-Four people were [injured when](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/) shrapnel from intercepted Iranian missiles fell on a house, according to Reuters. Qatar's Government Communications Office emphasized the country's [readiness to](https://twitter.com/GCOQatar) confront the regional crisis through coordinated government response. Prime Minister Al Thani discussed [regional coordination](https://twitter.com/MBA_AlThani_) with UAE's Sheikh Mohammed bin Zayed and Saudi Crown Prince Mohammed bin Salman.
+Qatar welcomed the [US-Iran ceasefire](https://twitter.com/majedalansari/status/2) announcement as "an initial step towards reducing escalation," according to Foreign Ministry spokesman Majed Al Ansari. The Diamond League track meet was [postponed from](https://apnews.com/article/qatar-diamond-league-track-iran-6ae3c9622660d82a983f2abfc86b47e4) May to June due to ongoing regional uncertainty, AP reports.
 
-**Bahrain / Kuwait / Oman**
+**Bahrain**
 
-Bahrain activated air raid [sirens](https://twitter.com/moi_bahrain) and condemned Iranian attacks on Saudi infrastructure. Kuwait ordered residents to shelter indoors until Wednesday, according to [Arabic reports](https://www.youm7.com/story/2026/4/7/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D9%81%D9%89-%D9%85%D9%86%D8%A7%D8%B2%D9%84%D9%87%D9%85-%D8%AD%D8%AA%D9%89-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1/7369788). Oman's Foreign Minister Badr Albusaidi [received Kuwait's](https://twitter.com/badralbusaidi) new foreign minister to discuss "troubling situations in the region."
+Bahrain welcomed the [US ceasefire](https://twitter.com/bahdiplomatic/status/1) announcement and condemned Iranian [terrorist targeting](https://twitter.com/bahdiplomatic/status/4) of Saudi energy facilities, according to the Foreign Ministry.
+
+**Oman**
+
+Foreign Minister Badr Albusaidi called for [serious negotiations](https://twitter.com/badralbusaidi/status/1) for lasting peace, saying "the world has stepped back from disaster" but warning against complacency. Oman welcomed the ceasefire and [appreciated Pakistan's](https://twitter.com/badralbusaidi/status/2) mediation efforts.
 
 **Yemen**
 
-Saudi Ambassador Mohammed AlJabir announced plans to [visit Sana'a](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the truce and discuss prisoner exchanges, declaring "Al-Hudaydah is liberated" and "Yemen is breathing." IRG presidential advisor Abu Zaraa welcomed [Starlink satellite](https://twitter.com/AbuZar3a) internet activation as enhancing development. Houthi spokesperson Mohammed Abdulsalam defended Yemeni naval operations as [supporting Palestinians](https://twitter.com/abdusalamsalah), not challenging maritime security.
+Houthi spokesperson Mohammed Abdulsalam announced an [agreement with](https://twitter.com/abdusalamsalah/status/3) banks regarding recent decisions and increased Yemenia Airlines flights to Jordan. Saudi Yemen envoy Mohammed Al-Jabir posted "#Al-Hudaydah is liberated.....#Yemen is breathing" and announced plans to [visit Sanaa](https://twitter.com/mohdsalj/status/2) with an Omani delegation. IRG Foreign Minister Al-Eryani condemned attacks on [Kuwait's consulate](https://twitter.com/ERYANIM/status/2) in Basra, Iraq.
 
 **Official Signals**
 
-Saudi Foreign Ministry issued [strong condemnation](https://twitter.com/KSAMOFA) of attacks on Kuwait's consulate in Basra, Iraq, while Crown Prince Mohammed bin Salman received calls from Pakistan's prime minister discussing regional developments. Qatar's PM Al Thani [stressed coordination](https://twitter.com/MBA_AlThani_) with Gulf partners to "protect security of our countries," while UAE officials emphasized the country's [readiness and resilience](https://twitter.com/HHShkMohd) during the crisis.
+Prince Khalid bin Salman's meetings with Greek and British defense ministers focused heavily on condemning Iran's "continued flagrant attacks," signaling Saudi Arabia's diplomatic push to isolate Tehran. Qatar's restrained welcome of the ceasefire as merely an "initial step" suggests Gulf skepticism about the deal's durability.
 
 **Coverage Flags**
 
-International outlets are leading coverage of Iranian attacks during the supposed ceasefire, with limited immediate response from regional Arabic media beyond official statements. The gap between ceasefire announcements and continued Iranian military operations suggests deeper diplomatic complexities worth NYT examination.
+International outlets are providing more detailed coverage of the Iran pipeline strike than regional Arabic press. The disagreement between US and Iranian interpretations of Lebanon's ceasefire status warrants closer NYT examination.
 
 **Sources**
 
-• [Reuters - Iran attacks Saudi petrochemical complex](https://www.reuters.com/world/middle-east/iran-has-attacked-saudi-petrochemical-complex-jubail-fars-news-agency-says-2026-04-07/)
-• [Reuters - Qatar missile injuries](https://www.reuters.com/ar/world/6IP3FBVBHVJJTMIZ7DLZXAP7F4-2026-04-07/)
-• [Bloomberg - OPEC production fall](https://www.
+• [Reuters - Saudi pipeline strike](https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/)
+• [Times of Oman - US-Iran ceasefire disputes](https://timesofoman.com//article/170443-us-says-lebanon-not-part-of-ceasefire-deal-iran-says-it-is)
+• [Bloomberg - Limited pipeline damage](https://www.bloomberg.com/news/articles/2026-04-08/saudi-oil-pipeline-damage-said-to-be-limited-after-drone-strike)
+• [BBC - Lebanon casualties](https://www.bbc.com/news/articles/c0j6d538l6qo)
+• [AP News - Qatar Diamond League](https://apnews.com/article/qatar-diamond-league-track-iran-6ae3c9622660d82a983f2abfc86b47e4)
