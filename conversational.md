@@ -1,55 +1,24 @@
-**Top News**
+British Prime Minister Keir Starmer is visiting the Gulf today to shore up the fragile US-Iran ceasefire, [Al Jazeera reports](https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss), as attacks on Saudi oil facilities heighten fears the truce could collapse. [Reuters reports](https://www.reuters.com/business/energy/operational-activities-halted-several-energy-facilities-saudi-arabia-state-news-2026-04-09/) that strikes cut Saudi oil output capacity by 600,000 barrels per day and disrupted the East-West Pipeline, sending oil prices climbing. The Strait of Hormuz remains effectively closed despite the ceasefire, with shipping still at "a trickle," [Al Jazeera reports](https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss).
 
-Iran's Revolutionary Guards [struck Saudi Arabia's](https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/) East-West oil pipeline just hours after a US-Iran ceasefire took effect, according to Reuters, marking a dramatic escalation that threatens the fragile truce. The IRGC said it [targeted oil](https://www.reuters.com/business/energy/irans-irgc-say-they-targeted-oil-facilities-including-saudi-yanbu-2026-04-08/) facilities including in Saudi Yanbu, though Bloomberg reports the [damage was](https://www.bloomberg.com/news/articles/2026-04-08/saudi-oil-pipeline-damage-said-to-be-limited-after-drone-strike) limited. Saudi defense minister Prince Khalid bin Salman condemned Iran's "continued flagrant attacks on the Kingdom and other regional states" in meetings with Greek and British counterparts.
+Israeli attacks on Lebanon are threatening to unravel the US-Iran ceasefire talks entirely, [Al Jazeera reports](https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss), while Trump said Iran's handling of the Strait is "not the agreement we have," [the BBC reports](https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss). Kuwait's air defenses are currently dealing with hostile drone attacks, [Sky News Arabia reports](https://validate.perfdrive.com/?ssa=5b5ee3b7-dda2-4153-9185-fbaaeed7db97&ssb=91066286753&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1863403-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2581%25D8%25A7%25D8%25B9%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AC%25D9%2588%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25AA%25D8%25B9%25D8%25A7%25D9%2585%25D9%2584-%25D8%25AD%25D8%25A7%25D9%2584%25D9%258A%25D8%25A7-%25D9%2587%25D8%25AC%25D9%2585%25D8%25A7%25D8%25AA-%25D9%2585%25D8%25B9%25D8%25A7%25D8%25AF%25D9%258A%25D8%25A9-%25D8%25A8%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA&ssi=19b9e22d-cf43-458c-9c45-5c2d62826c1f&ssk=botmanager_support@radware.com&ssm=87158097208687486101847207029941&ssn=6c1b776551dd1a06422224078506201a7e1416c0ec65-20bb-4d51-8a5969&sso=0bee950f-7dd782b32f64f341df63d619713f0dc70d606aa7952f842d&ssp=89413452431775715585177571942982256&ssq=99315859647303820311896473565546108436696&ssr=NTIuMTUwLjMwLjEzMw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMDUzODc2NDc2LTg2N2ItNGU3Mi04ZTFiLWY1MGNkYTJhZDU5YTEtMTc3NTc5NjQ3MzYxNzAtY2FhMWMxMjA3ZTY2OWI4NjEwIiwiX191em1mIjoiN2Y5MDAwMTZjMGVjNjUtMjBiYi00ZDUxLTg1MGYtN2RkNzgyYjMyZjY0MS0xNzc1Nzk2NDczNjE3MC0wMDNiZWNlMzNiOWI0NGUxNzZhMTAifQ==).
 
-The pipeline strike came as disagreement emerged over Lebanon's inclusion in the ceasefire deal. US Vice President JD Vance said Lebanon [was not](https://timesofoman.com//article/170443-us-says-lebanon-not-part-of-ceasefire-deal-iran-says-it-is) part of the ceasefire, while Iran claims it is, according to the Times of Oman. Israel's expanded operations in Lebanon killed at least 182 people, the BBC reports, while Iran [closed the](https://timesofoman.com//article/170444-israels-offensive-on-hezbollah-puts-ceasefire-in-danger-iran-blocks-hormuz-again) Strait of Hormuz again. Vance warned the US president "won't abide by terms if [Strait of](https://timesofoman.com//article/170445-president-wont-abide-by-terms-if-strait-of-hormuz-doesnt-reopen-us-vp-jd-vance) Hormuz doesn't reopen."
+## Energy & Economy
 
-**Energy & Economy**
+• Oil prices extended gains after the attacks on Saudi facilities cut production capacity, with [Bloomberg reporting](https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10) oil rising after the biggest drop since 2020 as the Strait of Hormuz stays blocked.
 
-• Exxon expects [6% of](https://asharqbusiness.com/companies/127505/%D8%A5%D9%83%D8%B3%D9%88%D9%86-%D8%AA%D8%AA%D9%88%D9%82%D8%B9-%D8%AA%D8%B9%D8%B7%D9%84-6-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D9%85%D9%86-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A8%D8%A7%D9%84%D8%B1%D8%A8%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%84/) its global production to be disrupted in the first quarter during the Iran war, according to East Economy with Bloomberg
+• ADNOC CEO said the Strait of Hormuz "is shut" and "must reopen without conditions," [Reuters reports](https://www.reuters.com/world/middle-east/strait-hormuz-is-shut-must-reopen-without-conditions-uae-oil-giant-adnocs-ceo-2026-04-09/).
 
-• Chinese tankers are [joining the](https://www.bloomberg.com/news/articles/2026-04-09/china-tankers-join-queue-to-test-hormuz-exit-and-us-iran-truce) queue to test Hormuz exit following the ceasefire announcement, Bloomberg reports
+• A UAE asset freeze on Iran would be a "double-edged sword," [Reuters reports](https://www.reuters.com/commentary/breakingviews/uae-iran-asset-freeze-would-be-double-edged-sword-2026-04-09/) in a Breakingviews analysis.
 
-• Bankers are [weighing UAE](https://www.bloomberg.com/news/articles/2026-04-08/bankers-start-weighing-uae-return-hours-after-us-iran-ceasefire) return hours after the US-Iran ceasefire, per Bloomberg
+• Tourist spending in Saudi Arabia has reached a new record level, [Asharq Business reports](https://asharqbusiness.com/economics/127144/%D8%A5%D9%86%D9%81%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%B3%D8%AC%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF/).
 
-• The UAE and Bahrain [signed a](https://validate.perfdrive.com/?ssa=be462964-0c64-49fc-b487-c5893d25b1b7) barter agreement between the dirham and dinar, Sky News Arabia reports
+## Country Watch
 
 **Saudi Arabia**
-
-Saudi air defenses intercepted 9 drones and 5 missiles on Wednesday as Iranian attacks continue, Al Ekhbariya reports. Crown Prince Mohammed bin Salman [met with](https://twitter.com/KSAMOFA/status/1) the British Prime Minister, according to the Saudi MFA. Foreign Minister Prince Faisal bin Farhan chaired an [international conference](https://twitter.com/FaisalbinFarhan/status/1) in Paris on Palestinian statehood with French counterpart Jean-Noël Barrot. The Foreign Ministry issued a [statement reaffirming](https://twitter.com/FaisalbinFarhan/status/5) Saudi Arabia's "firm and unwavering" position on Palestinian state establishment.
+Prince Khalid bin Salman condemned Iran's "continued flagrant attacks on the Kingdom" in meetings with defense ministers from Greece, Britain, and Hungary, emphasizing their impact on global peace and security. The kingdom's energy minister held calls with counterparts from Spain, the US, and Pakistan, according to official Saudi MFA posts.
 
 **UAE**
+The Defense Ministry confirmed UAE airspace remained "free of any air threats" during recent hours, stating air defenses did not detect any Iranian missiles or drones on April 9. Sheikh Mohammed bin Rashid highlighted the UAE's entry into the world's top 10 for merchandise exports for the first time, advancing from 17th to 9th place globally in five years.
 
-UAE air defenses engaged [17 ballistic](https://twitter.com/modgovae/status/3) missiles and 35 drones from Iran on April 8, the Defense Ministry announced. Sheikh Mohammed bin Rashid highlighted the UAE's rise to [ninth place](https://twitter.com/HHShkMohd/status/1) globally in merchandise exports in the latest WTO report. Foreign Trade Minister Thani Al Zeyoudi chaired a [high-level meeting](https://twitter.com/DXBMediaOffice/status/1) with global shipping lines in Dubai to address regional challenges.
-
-**Qatar**
-
-Qatar welcomed the [US-Iran ceasefire](https://twitter.com/majedalansari/status/2) announcement as "an initial step towards reducing escalation," according to Foreign Ministry spokesman Majed Al Ansari. The Diamond League track meet was [postponed from](https://apnews.com/article/qatar-diamond-league-track-iran-6ae3c9622660d82a983f2abfc86b47e4) May to June due to ongoing regional uncertainty, AP reports.
-
-**Bahrain**
-
-Bahrain welcomed the [US ceasefire](https://twitter.com/bahdiplomatic/status/1) announcement and condemned Iranian [terrorist targeting](https://twitter.com/bahdiplomatic/status/4) of Saudi energy facilities, according to the Foreign Ministry.
-
-**Oman**
-
-Foreign Minister Badr Albusaidi called for [serious negotiations](https://twitter.com/badralbusaidi/status/1) for lasting peace, saying "the world has stepped back from disaster" but warning against complacency. Oman welcomed the ceasefire and [appreciated Pakistan's](https://twitter.com/badralbusaidi/status/2) mediation efforts.
-
-**Yemen**
-
-Houthi spokesperson Mohammed Abdulsalam announced an [agreement with](https://twitter.com/abdusalamsalah/status/3) banks regarding recent decisions and increased Yemenia Airlines flights to Jordan. Saudi Yemen envoy Mohammed Al-Jabir posted "#Al-Hudaydah is liberated.....#Yemen is breathing" and announced plans to [visit Sanaa](https://twitter.com/mohdsalj/status/2) with an Omani delegation. IRG Foreign Minister Al-Eryani condemned attacks on [Kuwait's consulate](https://twitter.com/ERYANIM/status/2) in Basra, Iraq.
-
-**Official Signals**
-
-Prince Khalid bin Salman's meetings with Greek and British defense ministers focused heavily on condemning Iran's "continued flagrant attacks," signaling Saudi Arabia's diplomatic push to isolate Tehran. Qatar's restrained welcome of the ceasefire as merely an "initial step" suggests Gulf skepticism about the deal's durability.
-
-**Coverage Flags**
-
-International outlets are providing more detailed coverage of the Iran pipeline strike than regional Arabic press. The disagreement between US and Iranian interpretations of Lebanon's ceasefire status warrants closer NYT examination.
-
-**Sources**
-
-• [Reuters - Saudi pipeline strike](https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/)
-• [Times of Oman - US-Iran ceasefire disputes](https://timesofoman.com//article/170443-us-says-lebanon-not-part-of-ceasefire-deal-iran-says-it-is)
-• [Bloomberg - Limited pipeline damage](https://www.bloomberg.com/news/articles/2026-04-08/saudi-oil-pipeline-damage-said-to-be-limited-after-drone-strike)
-• [BBC - Lebanon casualties](https://www.bbc.com/news/articles/c0j6d538l6qo)
-• [AP News - Qatar Diamond League](https://apnews.com/article/qatar-diamond-league-track-iran-6ae3c9622660d82a983f2abfc86b47e4)
+**Kuwait**
+Kuwait condemned Iran's targeting of Saudi energy facilities "in the strongest terms," [the National Media Authority reports](https://www.maspero.eg/arab-and-world/2026/04/10/944001/%D8%A7%D9%84%D9%83%D9%2088%D9%258A%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9), while [Al-Arabiya reports](https://www.alarabiya.net/aswaq/travel-and-tourism/2026/04/
