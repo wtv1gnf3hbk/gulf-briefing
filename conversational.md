@@ -1,24 +1,54 @@
-British Prime Minister Keir Starmer is visiting the Gulf today to shore up the fragile US-Iran ceasefire, [Al Jazeera reports](https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss), as attacks on Saudi oil facilities heighten fears the truce could collapse. [Reuters reports](https://www.reuters.com/business/energy/operational-activities-halted-several-energy-facilities-saudi-arabia-state-news-2026-04-09/) that strikes cut Saudi oil output capacity by 600,000 barrels per day and disrupted the East-West Pipeline, sending oil prices climbing. The Strait of Hormuz remains effectively closed despite the ceasefire, with shipping still at "a trickle," [Al Jazeera reports](https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss).
+President Trump announced the Strait of Hormuz will [reopen "soon"](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss) as US and Iranian negotiators head to Pakistan for ceasefire talks, [Al Jazeera reports](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss). Iranian Parliament Speaker Mohammad Bagher Qalibaf has [arrived in Islamabad](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us) for talks with US negotiators, the [Times of Oman reports](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us). The BBC describes these as "[historic Vance-Galibaf talks](https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss)" that must bridge deep distrust between Washington and Tehran.
 
-Israeli attacks on Lebanon are threatening to unravel the US-Iran ceasefire talks entirely, [Al Jazeera reports](https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss), while Trump said Iran's handling of the Strait is "not the agreement we have," [the BBC reports](https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss). Kuwait's air defenses are currently dealing with hostile drone attacks, [Sky News Arabia reports](https://validate.perfdrive.com/?ssa=5b5ee3b7-dda2-4153-9185-fbaaeed7db97&ssb=91066286753&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1863403-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2581%25D8%25A7%25D8%25B9%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AC%25D9%2588%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25AA%25D8%25B9%25D8%25A7%25D9%2585%25D9%2584-%25D8%25AD%25D8%25A7%25D9%2584%25D9%258A%25D8%25A7-%25D9%2587%25D8%25AC%25D9%2585%25D8%25A7%25D8%25AA-%25D9%2585%25D8%25B9%25D8%25A7%25D8%25AF%25D9%258A%25D8%25A9-%25D8%25A8%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA&ssi=19b9e22d-cf43-458c-9c45-5c2d62826c1f&ssk=botmanager_support@radware.com&ssm=87158097208687486101847207029941&ssn=6c1b776551dd1a06422224078506201a7e1416c0ec65-20bb-4d51-8a5969&sso=0bee950f-7dd782b32f64f341df63d619713f0dc70d606aa7952f842d&ssp=89413452431775715585177571942982256&ssq=99315859647303820311896473565546108436696&ssr=NTIuMTUwLjMwLjEzMw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMDUzODc2NDc2LTg2N2ItNGU3Mi04ZTFiLWY1MGNkYTJhZDU5YTEtMTc3NTc5NjQ3MzYxNzAtY2FhMWMxMjA3ZTY2OWI4NjEwIiwiX191em1mIjoiN2Y5MDAwMTZjMGVjNjUtMjBiYi00ZDUxLTg1MGYtN2RkNzgyYjMyZjY0MS0xNzc1Nzk2NDczNjE3MC0wMDNiZWNlMzNiOWI0NGUxNzZhMTAifQ==).
+The strait remains at [near standstill](https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/klvylmooypg/) following the ceasefire, according to Reuters graphics, with Middle East oil producers preparing for [export resumption](https://www.reuters.com/business/energy/middle-east-producers-prepare-oil-export-resumption-via-hormuz-sources-say-2026-04-10/) via the waterway. Japanese tankers are heading toward the strait as [more ships gather](https://www.bloomberg.com/news/articles/2026-04-10/japanese-tankers-head-toward-hormuz-strait-as-more-ships-gather), Bloomberg reports.
 
 ## Energy & Economy
 
-• Oil prices extended gains after the attacks on Saudi facilities cut production capacity, with [Bloomberg reporting](https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10) oil rising after the biggest drop since 2020 as the Strait of Hormuz stays blocked.
+• Oil markets held gains after attacks [reduced Saudi production](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-cut-600-000-barrels-a-day-in-attacks) capacity by 600,000 barrels per day, according to Bloomberg.
 
-• ADNOC CEO said the Strait of Hormuz "is shut" and "must reopen without conditions," [Reuters reports](https://www.reuters.com/world/middle-east/strait-hormuz-is-shut-must-reopen-without-conditions-uae-oil-giant-adnocs-ceo-2026-04-09/).
+• Saudi Arabia is maintaining oil exports from its [key Red Sea](https://www.bloomberg.com/news/articles/2026-04-10/saudi-maintains-oil-exports-from-key-red-sea-port-for-now) port for now, Bloomberg reports.
 
-• A UAE asset freeze on Iran would be a "double-edged sword," [Reuters reports](https://www.reuters.com/commentary/breakingviews/uae-iran-asset-freeze-would-be-double-edged-sword-2026-04-09/) in a Breakingviews analysis.
+• TotalEnergies reported that its SATORP refinery in Saudi Arabia was [damaged after incidents](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/), Reuters reports.
 
-• Tourist spending in Saudi Arabia has reached a new record level, [Asharq Business reports](https://asharqbusiness.com/economics/127144/%D8%A5%D9%86%D9%81%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%B3%D8%AC%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF/).
+• Emirates Global Aluminum declared [force majeure](https://asharqbusiness.com/amp/companies/127902/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A3%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF/) on some contracts, per Asharq Bloomberg.
 
 ## Country Watch
 
 **Saudi Arabia**
-Prince Khalid bin Salman condemned Iran's "continued flagrant attacks on the Kingdom" in meetings with defense ministers from Greece, Britain, and Hungary, emphasizing their impact on global peace and security. The kingdom's energy minister held calls with counterparts from Spain, the US, and Pakistan, according to official Saudi MFA posts.
+• Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and British Defense Minister John Healey, discussing Iran's "continued flagrant attacks on the Kingdom," according to his [official account](https://twitter.com/kbsalsaud).
 
-**UAE**
-The Defense Ministry confirmed UAE airspace remained "free of any air threats" during recent hours, stating air defenses did not detect any Iranian missiles or drones on April 9. Sheikh Mohammed bin Rashid highlighted the UAE's entry into the world's top 10 for merchandise exports for the first time, advancing from 17th to 9th place globally in five years.
+• Foreign Minister Prince Faisal bin Farhan spoke with US Secretary of State Marco Rubio, according to the [Saudi foreign ministry](https://twitter.com/KSAMOFA).
 
-**Kuwait**
-Kuwait condemned Iran's targeting of Saudi energy facilities "in the strongest terms," [the National Media Authority reports](https://www.maspero.eg/arab-and-world/2026/04/10/944001/%D8%A7%D9%84%D9%83%D9%2088%D9%258A%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9), while [Al-Arabiya reports](https://www.alarabiya.net/aswaq/travel-and-tourism/2026/04/
+**UAE** 
+• The UAE is [rearranging "circles of trust"](https://www.dw.com/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%AF%D9%88%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%A1-%D8%A8%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9/a-76736344), prioritizing security and economic resilience in partnerships, Deutsche Welle reports in Arabic.
+
+**Qatar**
+• Al Jazeera Arabic reported on exclusive footage showing [how Qatar confronted](https://www.aljazeera.net/news/2026/4/10/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%A7-%D8%AE%D9%81%D9%8A-%D8%A3%D8%B9%D8%B8%D9%85-%D9%8A%D9%83%D8%B4%D9%81-%D9%84%D9%82%D8%B7%D8%A7%D8%AA-%D8%AD%D8%B5%D8%B1%D9%8A%D8%A9-2) Iranian attacks, under the headline "What is hidden is greater."
+
+**Oman**
+• Foreign Minister Badr Albusaidi participated in the Indian Ocean Conference, emphasizing that the region [requires strong collective](https://timesofoman.com//article/170497-foreign-minister-joins-indian-ocean-conference-via-video-link) stewardship for security and stability.
+
+• Ukraine is in talks with Oman, Kuwait and Bahrain on [security cooperation](https://www.reuters.com/world/middle-east/ukraine-talks-with-oman-kuwait-bahrain-security-cooperation-zelenskiy-says-2026-04-10/), Ukrainian President Zelenskyy said, per Reuters.
+
+**Yemen**
+• Saudi ambassador Mohammed Al-Jaber announced plans to [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the ceasefire and support prisoner exchanges, according to his official Twitter account.
+
+• The Houthi negotiator Mohammed Abdulsalam outlined a [three-point agreement](https://twitter.com/abdusalamsalah) including canceling banking restrictions and resuming Yemenia Airlines flights between Sanaa and Jordan.
+
+## Official Signals
+
+Prince Faisal bin Farhan [reaffirmed](https://twitter.com/FaisalbinFarhan) Saudi Arabia's "firm and unwavering" position on Palestinian statehood at a Paris conference, stating this stance was "clearly and unequivocally" supported by Crown Prince Mohammed bin Salman.
+
+Qatar's Government Communications Office [emphasized](https://twitter.com/GCOQatar) the country's readiness to confront regional crises through coordination between government agencies, stating Qatar has proven its capability to ensure safety and service continuity.
+
+## Coverage Flags
+
+International outlets are ahead on Gulf states exploring Ukrainian interceptor drone technology following Iranian attacks draining missile stocks, with Reuters reporting significant [defense cooperation discussions](https://www.reuters.com/world/middle-east/gulf-states-eye-cheap-ukrainian-interceptor-drone-iranian-attacks-drain-missile-2026-04-08/).
+
+## Sources
+
+• [Al Jazeera](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss)
+• [Times of Oman](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us)
+• [BBC](https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss)
+• [Reuters](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/)
+• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-
