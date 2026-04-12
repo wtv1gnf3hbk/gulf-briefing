@@ -1,54 +1,46 @@
-President Trump announced the Strait of Hormuz will [reopen "soon"](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss) as US and Iranian negotiators head to Pakistan for ceasefire talks, [Al Jazeera reports](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss). Iranian Parliament Speaker Mohammad Bagher Qalibaf has [arrived in Islamabad](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us) for talks with US negotiators, the [Times of Oman reports](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us). The BBC describes these as "[historic Vance-Galibaf talks](https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss)" that must bridge deep distrust between Washington and Tehran.
+The collapse of US-Iran talks in Islamabad has left the Gulf in uncertainty after negotiations ended without agreement, with [Al Jazeera reports](https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss) that JD Vance's delegation departed Pakistan following failed discussions. The breakdown comes as tensions remain high over Iran's threatened toll collection in the Strait of Hormuz, with [Trump warning](https://timesofoman.com//article/170530-iran-better-not-impose-tolls-on-strait-of-hormuz-trump) Iran "better not" proceed with such plans. The failed diplomacy leaves Gulf states facing continued regional instability despite earlier hopes for a breakthrough.
 
-The strait remains at [near standstill](https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/klvylmooypg/) following the ceasefire, according to Reuters graphics, with Middle East oil producers preparing for [export resumption](https://www.reuters.com/business/energy/middle-east-producers-prepare-oil-export-resumption-via-hormuz-sources-say-2026-04-10/) via the waterway. Japanese tankers are heading toward the strait as [more ships gather](https://www.bloomberg.com/news/articles/2026-04-10/japanese-tankers-head-toward-hormuz-strait-as-more-ships-gather), Bloomberg reports.
+Meanwhile, Pakistan has begun deploying fighter jets to Saudi Arabia under their mutual defense pact, [Reuters reports](https://www.reuters.com/world/asia-pacific/saudi-arabia-says-pakistan-sends-fighter-jets-kingdom-under-defence-pact-2026-04-11/), marking a significant military cooperation development as regional security concerns mount. The deployment signals strengthening defense ties between the two countries following years of strategic partnership discussions.
 
 ## Energy & Economy
 
-• Oil markets held gains after attacks [reduced Saudi production](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-cut-600-000-barrels-a-day-in-attacks) capacity by 600,000 barrels per day, according to Bloomberg.
+• Oil tankers continue transiting the Strait of Hormuz as diplomatic talks proceeded, with [Bloomberg reporting](https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait) three supertankers making passage through the critical waterway despite ongoing tensions.
 
-• Saudi Arabia is maintaining oil exports from its [key Red Sea](https://www.bloomberg.com/news/articles/2026-04-10/saudi-maintains-oil-exports-from-key-red-sea-port-for-now) port for now, Bloomberg reports.
+• An Abu Dhabi royal firm is acquiring a stake in the Caring Hospitality Empire, [according to Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/abu-dhabi-royal-s-firm-to-buy-stake-in-caring-hospitality-empire), reflecting continued UAE investment diversification beyond energy sectors.
 
-• TotalEnergies reported that its SATORP refinery in Saudi Arabia was [damaged after incidents](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/), Reuters reports.
-
-• Emirates Global Aluminum declared [force majeure](https://asharqbusiness.com/amp/companies/127902/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A3%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF/) on some contracts, per Asharq Bloomberg.
+• Gold prices stabilized in the UAE as geopolitical risks moderated, [Youm7 reports](https://www.youm7.com/story/2026/4/12/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9/7374074), though regional tensions continue to influence precious metals markets.
 
 ## Country Watch
 
 **Saudi Arabia**
-• Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias and British Defense Minister John Healey, discussing Iran's "continued flagrant attacks on the Kingdom," according to his [official account](https://twitter.com/kbsalsaud).
+Crown Prince Mohammed bin Salman received a call from French President Macron discussing regional developments following the US-Iran ceasefire announcement, the [Saudi MFA confirmed](https://twitter.com/KSAMOFA). Defense Minister Prince Khalid bin Salman met with Greek and British defense ministers, condemning Iran's continued attacks on the Kingdom during discussions about regional security cooperation. The Kingdom's relief agency [distributed 26,580](https://twitter.com/rbalsaud) hot meals in Gaza as humanitarian operations continue.
 
-• Foreign Minister Prince Faisal bin Farhan spoke with US Secretary of State Marco Rubio, according to the [Saudi foreign ministry](https://twitter.com/KSAMOFA).
+**UAE**
+The UAE strongly condemned Israeli provocative statements toward Saudi Arabia, [according to Al Ghad](https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D8%B2%D8%A9-%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-560926), reflecting continued diplomatic coordination between the Gulf neighbors. Abu Dhabi Crown Prince Khalid bin Mohammed bin Zayed will begin an official visit to China on Sunday to advance bilateral cooperation, the [Abu Dhabi Media Office announced](https://twitter.com/ADMediaOffice).
 
-**UAE** 
-• The UAE is [rearranging "circles of trust"](https://www.dw.com/ar/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%AF%D9%88%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%A1-%D8%A8%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9/a-76736344), prioritizing security and economic resilience in partnerships, Deutsche Welle reports in Arabic.
-
-**Qatar**
-• Al Jazeera Arabic reported on exclusive footage showing [how Qatar confronted](https://www.aljazeera.net/news/2026/4/10/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%A7-%D8%AE%D9%81%D9%8A-%D8%A3%D8%B9%D8%B8%D9%85-%D9%8A%D9%83%D8%B4%D9%81-%D9%84%D9%82%D8%B7%D8%A7%D8%AA-%D8%AD%D8%B5%D8%B1%D9%8A%D8%A9-2) Iranian attacks, under the headline "What is hidden is greater."
+**Kuwait**
+Security forces arrested 24 citizens in connection with a terrorist financing plot, [Al-Sharq reports](https://asharq.com/politics/178998/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-24-%D9%85%D9%88%D8%A7%D8%B7%D9%86/), marking a significant counterterrorism operation. The UAE Foreign Ministry condemned the terrorist plans targeting Kuwait's security, demonstrating continued Gulf solidarity against security threats.
 
 **Oman**
-• Foreign Minister Badr Albusaidi participated in the Indian Ocean Conference, emphasizing that the region [requires strong collective](https://timesofoman.com//article/170497-foreign-minister-joins-indian-ocean-conference-via-video-link) stewardship for security and stability.
-
-• Ukraine is in talks with Oman, Kuwait and Bahrain on [security cooperation](https://www.reuters.com/world/middle-east/ukraine-talks-with-oman-kuwait-bahrain-security-cooperation-zelenskiy-says-2026-04-10/), Ukrainian President Zelenskyy said, per Reuters.
+The Foreign Ministry continues facilitating the safe return of Omani citizens, [Times of Oman reports](https://timesofoman.com//article/170529-foreign-ministry-continues-to-facilitate-safe-return-of-omani-citizens), as regional tensions affect travel. Foreign Minister Badr Albusaidi participated virtually in the ninth Indian Ocean Conference in Mauritius, emphasizing collective stewardship for maritime security.
 
 **Yemen**
-• Saudi ambassador Mohammed Al-Jaber announced plans to [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the ceasefire and support prisoner exchanges, according to his official Twitter account.
-
-• The Houthi negotiator Mohammed Abdulsalam outlined a [three-point agreement](https://twitter.com/abdusalamsalah) including canceling banking restrictions and resuming Yemenia Airlines flights between Sanaa and Jordan.
+IRG official Mohammed Al-Eryani declared that recent military confrontations revealed Iran's "Axis of Resistance" as a cross-border military structure rather than a traditional political alliance, signaling shifting analysis of Iranian regional strategy. Houthi spokesman Mohammed Abdulsalam outlined terms of a banking agreement including canceling recent decisions against banks and resuming Yemenia Airlines flights between Sanaa and Jordan. STC President Aidarous al-Zubaidi performed Umrah rituals in Saudi Arabia, showing continued religious and diplomatic engagement despite political tensions.
 
 ## Official Signals
 
-Prince Faisal bin Farhan [reaffirmed](https://twitter.com/FaisalbinFarhan) Saudi Arabia's "firm and unwavering" position on Palestinian statehood at a Paris conference, stating this stance was "clearly and unequivocally" supported by Crown Prince Mohammed bin Salman.
+Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference on Palestinian statehood implementation with French Foreign Minister Jean-Yves Le Drian, emphasizing the Kingdom's "firm and unwavering" position on establishing a Palestinian state. The joint French-Saudi initiative reflects coordinated diplomatic pressure for Palestinian recognition as regional tensions continue.
 
-Qatar's Government Communications Office [emphasized](https://twitter.com/GCOQatar) the country's readiness to confront regional crises through coordination between government agencies, stating Qatar has proven its capability to ensure safety and service continuity.
+Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani held separate calls with Saudi Crown Prince Mohammed bin Salman and UAE President Mohammed bin Zayed, discussing regional escalation and the need for coordinated responses. The conversations signal immediate diplomatic outreach by Qatar's leadership following the recent government reshuffle.
 
 ## Coverage Flags
 
-International outlets are ahead on Gulf states exploring Ukrainian interceptor drone technology following Iranian attacks draining missile stocks, with Reuters reporting significant [defense cooperation discussions](https://www.reuters.com/world/middle-east/gulf-states-eye-cheap-ukrainian-interceptor-drone-iranian-attacks-drain-missile-2026-04-08/).
+Arabic-language outlets are providing more detailed coverage of the Kuwait terrorism arrests and UAE condemnation of Israeli statements than international media, suggesting potential gaps in English-language regional security reporting. The Pakistan-Saudi defense pact implementation also warrants deeper coverage given its strategic implications for Gulf security architecture.
 
 ## Sources
 
-• [Al Jazeera](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss)
-• [Times of Oman](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us)
-• [BBC](https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss)
-• [Reuters](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/)
-• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-
+• [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss)
+• [Times of Oman](https://timesofoman.com//article/170530-iran-better-not-impose-tolls-on-strait-of-hormuz-trump)
+• [Reuters](https://www.reuters.com/world/asia-pacific/saudi-arabia-says-pakistan-sends-fighter-jets-kingdom-under-defence-pact-2026-04-11/)
+• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/abu-dhabi-royal-s-firm-to-buy-stake-in-caring-hospitality-empire)
+• [Al Ghad](https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8

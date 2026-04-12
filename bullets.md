@@ -1,56 +1,44 @@
 **Top News**
-
-- Iran and the US arrived at ceasefire talks in Pakistan following Trump's statement that the Strait of Hormuz will reopen "soon," according to [Al Jazeera](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss).
-- Saudi Arabia's SATORP refinery suffered damage after recent incidents, TotalEnergies reported, [Reuters said](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/).
-- Middle East oil producers prepared for export resumption via Hormuz as the strait remained at near standstill following the ceasefire, [Reuters reported](https://www.reuters.com/business/energy/middle-east-producers-prepare-oil-export-resumption-via-hormuz-sources-say-2026-04-10/).
-- Ukraine entered talks with Oman, Kuwait, and Bahrain on security cooperation, President Zelenskyy announced, [Reuters said](https://www.reuters.com/world/middle-east/ukraine-talks-with-oman-kuwait-bahrain-security-cooperation-zelenskiy-says-2026-04-10/).
-- Gulf states explored purchasing cheap Ukrainian interceptor drones as Iranian attacks drained missile stocks, [Reuters reported](https://www.reuters.com/world/middle-east/gulf-states-eye-cheap-ukrainian-interceptor-drone-iranian-attacks-drain-missile-2026-04-08/).
-- Japanese tankers headed toward the Hormuz Strait as more ships gathered for potential transit, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-10/japanese-tankers-head-toward-hormuz-strait-as-more-ships-gather).
+- Iran and the United States concluded negotiations in Pakistan without reaching an agreement, with US Vice President JD Vance's delegation departing Islamabad after talks collapsed, according to [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss).
+- Pakistan sent fighter jets to Saudi Arabia under their mutual defense pact, Saudi officials confirmed to [Reuters](https://www.reuters.com/world/asia-pacific/saudi-arabia-says-pakistan-sends-fighter-jets-kingdom-under-defence-pact-2026-04-11/).
+- Kuwait arrested 24 citizens in connection with a plot to finance terrorist entities, [Al-Sharq reported](https://asharq.com/politics/178998/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-24-%D9%85%D9%88%D8%A7%D8%B7%D9%86/).
+- Saudi Arabia's Foreign Ministry condemned Iran for attacks on Kuwait's vital installations, describing them as "sinful attacks that targeted a number of vital installations in the sisterly State of Kuwait, by Iran and its agents," the ministry said on [Twitter](https://twitter.com/KSAMOFA).
+- The UAE condemned provocative Israeli statements toward Saudi Arabia, [alghad.tv reported](https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D8%B2%D8%A9-%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-560926).
 
 **Energy & Economy**
-
-- Saudi Arabia maintained oil exports from its key Red Sea port for now despite regional tensions, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-10/saudi-maintains-oil-exports-from-key-red-sea-port-for-now).
-- Saudi oil output capacity dropped 600,000 barrels per day following recent attacks on pipeline infrastructure, [Bloomberg said](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-cut-600-000-barrels-a-day-in-attacks).
-- Emirates Global Aluminum declared force majeure on some contracts, [Asharq Business reported](https://asharqbusiness.com/amp/companies/127902/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A3%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF/).
+- Three oil supertankers moved through the Strait of Hormuz, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait).
+- Chinese oil tankers transited the Strait of Hormuz as US-Iran talks began, [Reuters reported](https://www.reuters.com/business/energy/chinese-oil-tankers-transit-strait-hormuz-data-shows-2026-04-11/).
+- Gold prices stabilized in the UAE as geopolitical risks declined, [Youm7 reported](https://www.youm7.com/story/2026/4/12/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9/7374074).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood and the two-state solution, [he said](https://twitter.com/FaisalbinFarhan) on X.
-- Prince Khalid bin Salman met with defense ministers from Greece, Britain, and Hungary to discuss Iran's attacks on the Kingdom, [he posted](https://twitter.com/kbsalsaud).
-- Saudi Ambassador to Yemen Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the ceasefire and support prisoner exchanges, [he said](https://twitter.com/mohdsalj).
+- Crown Prince Mohammed bin Salman received a phone call from French President Macron to discuss regional developments following the US-Iran ceasefire announcement, the Foreign Ministry [posted](https://twitter.com/KSAMOFA).
+- Prince Khalid bin Salman met with British Defense Minister John Healey to review their strategic defense partnership and condemned continued Iranian attacks on the Kingdom, he [said](https://twitter.com/kbsalsaud).
 
 **UAE**
-- UAE Defense Ministry confirmed that air defense systems detected no ballistic missiles, cruise missiles, or UAVs from Iran on April 9, the ministry [announced](https://twitter.com/modgovae).
-- Finance titans bet Middle East resilience will outweigh war fallout as regional markets stabilized, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-10/finance-titans-bet-mideast-resilience-will-outweigh-war-fallout).
+- An Abu Dhabi royal's firm agreed to buy a stake in the Caring Hospitality Empire, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-11/abu-dhabi-royal-s-firm-to-buy-stake-in-caring-hospitality-empire).
+- The UAE Defense Ministry confirmed UAE airspace remained free of air threats during recent hours, stating air defense systems detected no ballistic missiles from Iran, the ministry [announced](https://twitter.com/modgovae).
 
 **Oman**
-- Foreign Minister Badr Albusaidi joined the Indian Ocean Conference via video link, emphasizing collective stewardship for maritime security, [he said](https://twitter.com/badralbusaidi).
-- Albusaidi met with Ukraine's National Security Council Secretary Rustem Umerov, reaffirming that diplomacy remains the only path to peace, [he posted](https://twitter.com/badralbusaidi).
-
-**Qatar**
-- Qatar welcomed the US-Iran ceasefire announcement and considered it an initial step toward reducing escalation, spokesman Majed Al Ansari [stated](https://twitter.com/majedalansari).
-
-**Bahrain**
-- Bahrain welcomed the US-announced ceasefire with Iran and reopening of the Strait of Hormuz, the Foreign Ministry [said](https://twitter.com/bahdiplomatic).
+- Oman's Foreign Ministry continued facilitating the safe return of Omani citizens, according to [Times of Oman](https://timesofoman.com//article/170529-foreign-ministry-continues-to-facilitate-safe-return-of-omani-citizens).
 
 **Yemen**
-- IRG Information Minister Mohammed Al-Eryani celebrated the inauguration of the Interior Ministry headquarters as a sign the state was returning, [he posted](https://twitter.com/ERYANIM).
-- Houthi chief negotiator Mohammed Abdulsalam announced an agreement on banking decisions and Yemenia Airlines flights resumption, [he said](https://twitter.com/abdusalamsalah).
+- IRG Information Minister Mohammed Al-Eryani said developments in the Iran confrontation revealed the "Axis of Resistance" was a cross-border military structure built over decades as part of Iran's war strategy, he [posted](https://twitter.com/ERYANIM).
+- Houthi leader Mohammed Ali Al-Houthi called on Saudi Arabia to mobilize armies for Palestine rather than Yemen, saying "the first line of defense for Mecca and Medina" was removing Israel from Jerusalem, he [wrote](https://twitter.com/Moh_Alhouthi).
 
 **Official Signals**
-
-- Saudi Foreign Ministry reaffirmed the Kingdom's "firm and unwavering" position on Palestinian statehood following Crown Prince Mohammed bin Salman's clear stance, the ministry [stated](https://twitter.com/KSAMOFA).
-- Oman's Foreign Minister declared "the world has stepped back from disaster" but warned against complacency, calling for serious negotiations for lasting peace, [he said](https://twitter.com/badralbusaidi).
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired an international conference on Palestinian issues with his French counterpart, emphasizing Saudi Arabia's "firm and unwavering" position on establishing a Palestinian state, he [said](https://twitter.com/FaisalbinFarhan).
+- Qatar's Prime Minister Mohammed bin Abdulrahman Al-Thani discussed regional developments with UAE President Mohammed bin Zayed, stressing the need to "intensify joint coordination to protect the security of our countries," he [posted](https://twitter.com/MBA_AlThani_).
 
 **Coverage Flags**
-
-- Iranian Parliament Speaker Qalibaf arrived in Islamabad to lead talks with US negotiators, [Times of Oman reported](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us).
+- Iranian attempts to penetrate Qatar's airspace and disrupt its defenses were reported by [Al Jazeera Arabic](https://www.aljazeera.net/news/2026/4/11/%D8%B4%D8%A7%D9%87%D8%AF-%D9%83%D9%8A%D9%81-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%85%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1).
 
 **Sources**
-
-- [Al Jazeera](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss)
-- [Reuters](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-10/japanese-tankers-head-toward-hormuz-strait-as-more-ships-gather)
-- [Times of Oman](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us)
-- [BBC](https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss)
+- [Al Jazeera](https://www.aljazeera.com)
+- [Reuters](https://www.reuters.com)
+- [Bloomberg](https://www.bloomberg.com)
+- [Times of Oman](https://timesofoman.com)
+- [BBC](https://www.bbc.com)
+- [Al-Sharq](https://asharq.com)
+- [Youm7](https://www.youm7.com)

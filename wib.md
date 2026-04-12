@@ -1,28 +1,31 @@
-1. **US-Iran ceasefire talks.** Iranian Parliament Speaker Mohammad Qalibaf arrived in Islamabad today for negotiations with US representatives, according to Times of Oman, as President Trump said the Strait of Hormuz would reopen ["soon"](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss). Pakistan is serving as mediator between Washington and Tehran following recent regional tensions.
+**Gulf Brief: April 12, 2026**
 
-2. **Saudi oil infrastructure damaged.** TotalEnergies reported damage to the SATORP refinery in Saudi Arabia following recent incidents, Reuters said, while Bloomberg reported Saudi oil output capacity was cut by 600,000 barrels per day. The kingdom maintained exports from its key Red Sea port despite the disruptions.
+1. **US-Iran talks collapse.** Vice President JD Vance left Pakistan after [negotiations failed](https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss) to reach a deal with Iran, according to Al Jazeera. President Trump warned Iran it "better not" impose tolls on the Strait of Hormuz, per Times of Oman. The breakdown followed Iranian demands over nuclear rights and Strait of Hormuz transit fees, Al Ekhbariya TV reported.
 
-3. **Gulf states pursue Ukrainian drones.** Gulf nations are in talks to acquire cheap Ukrainian interceptor drones as Iranian attacks have depleted their expensive missile defense stocks, Reuters reported. The move reflects growing concern about Tehran's regional missile capabilities following recent strikes.
+2. **Pakistan deploys jets to Saudi Arabia.** Pakistan sent fighter aircraft to Saudi Arabia under their mutual defense pact, [Reuters reports](https://www.reuters.com/world/asia-pacific/saudi-arabia-says-pakistan-sends-fighter-jets-kingdom-under-defence-pact-2026-04-11/). Saudi Defense Minister Prince Khalid bin Salman discussed regional security with Greek, British, and Hungarian counterparts, condemning continued Iranian attacks on the Kingdom in separate meetings posted on his official account.
 
-4. **Hormuz shipping stalled.** The Strait of Hormuz remains at near standstill despite ceasefire announcements, with Japanese tankers heading toward the waterway as ships gather, according to Reuters graphics and Bloomberg. Middle East oil producers are preparing for export resumption through the critical chokepoint.
+3. **Saudi condemns Kuwait attacks.** The Saudi Foreign Ministry issued a statement condemning "sinful attacks that targeted vital installations in Kuwait by Iran and its agents," according to the ministry's official Twitter account. Kuwait authorities separately arrested 24 citizens in connection with a [terrorist financing plot](https://asharq.com/politics/178998/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-24-%D9%85%D9%88%D8%A7%D8%B7%D9%86/), per Al-Sharq newspaper.
 
-5. **Ukraine-Gulf security talks.** Ukrainian President Zelenskyy said his country was in talks with Oman, Kuwait and Bahrain on security cooperation, Reuters reported. The discussions come as Gulf states reassess defense partnerships following regional escalation with Iran.
+4. **Tankers transit Hormuz Strait.** Three oil supertankers moved through the Strait of Hormuz as talks began, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait). The US military confirmed two American naval vessels also crossed the waterway. Iranian media claimed reconnaissance operations continued in the Red Sea despite American warship responses, according to Houthi spokesman Mohammed Abdulsalam.
 
-6. **Saudi diplomatic outreach.** Saudi Foreign Minister Prince Faisal bin Farhan conducted phone calls with US Secretary of State Marco Rubio, Spanish Foreign Minister José Manuel Albarez, and Pakistani Deputy PM Muhammad Ishaq Dar, according to the kingdom's foreign ministry Twitter account. The conversations focused on regional developments.
+5. **UAE condemns Israeli statements.** The UAE Foreign Ministry condemned "provocative Israeli statements towards Saudi Arabia," according to Alghad TV coverage of Arabic-language reports. The condemnation followed Netanyahu's comments about regional operations, which were captured on video by Al Jazeera showing him next to a Middle East map.
 
-7. **Emirates aluminum force majeure.** Emirates Global Aluminum declared force majeure on some contracts, according to Arabic media reports. The move by the UAE's state-owned aluminum producer suggests supply chain disruptions linked to regional tensions.
+6. **Abu Dhabi royal invests in hospitality.** An Abu Dhabi royal's firm agreed to [buy a stake](https://www.bloomberg.com/news/articles/2026-04-11/abu-dhabi-royal-s-firm-to-buy-stake-in-caring-hospitality-empire) in Caring Hospitality Empire, Bloomberg reports. The investment reflects continued UAE diversification into international hospitality assets. Gold prices remained stable in UAE markets as geopolitical risks declined, Youm7 reported.
 
-8. **Oman joins Indian Ocean conference.** Omani Foreign Minister Badr Albusaidi participated via video link in the ninth Indian Ocean Conference in Mauritius, emphasizing the need for collective stewardship to ensure maritime security and freedom of navigation, according to his Twitter account.
+7. **Crown Prince receives Macron call.** Saudi Crown Prince Mohammed bin Salman spoke with French President Emmanuel Macron about regional ceasefire developments, the Saudi Foreign Ministry posted on its official account. Prince Faisal bin Farhan separately chaired an international conference on Palestinian statehood recognition with his French counterpart, his Twitter account confirmed.
 
-9. **Yemen government infrastructure.** The internationally recognized Yemeni government opened new Interior Ministry headquarters in what it called a symbol of state institution restoration, Information Minister Mohammed Al-Eryani said on Twitter. The IRG official described it as evidence the state was returning.
+8. **Qatar's PM discusses security.** Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani met with UAE President Mohammed bin Zayed and Saudi Crown Prince Mohammed bin Salman to coordinate regional security responses, according to his official Twitter posts. Al Thani stressed the importance of "peaceful paths aimed at containing escalation."
 
-10. **Artemis II mission returns.** NASA's Artemis II astronauts splashed down on Earth after completing their lunar mission, Al Jazeera reported. The crew was extracted from their spacecraft for medical evaluation following the historic moon flyby.
+9. **Yemen official visits Sanaa.** Saudi Yemen envoy Mohammed AlJabir announced he would visit Sanaa with an Omani delegation "to consolidate the truce and ceasefire," according to his Twitter account. The IRG's presidential council criticized unilateral decisions within their leadership structure, member Abu Zaraa posted, while Houthi leader Mohammed Ali Al Houthi thanked medical teams for Yemen's first heart valve procedure.
 
-**Sources**
-- [Al Jazeera](https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss)
-- [Times of Oman](https://timesofoman.com//article/170496-iranian-delegation-led-by-parliament-speaker-qalibaf-arrives-in-islamabad-for-talks-with-us)
-- [Reuters](https://www.reuters.com/business/energy/totalenergies-says-satorp-refinery-saudi-arabia-damaged-after-incidents-2026-04-10/)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-09/saudi-oil-output-capacity-cut-600-000-barrels-a-day-in-attacks)
-- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-- [Badr Albusaidi Twitter](https://twitter.com/badralbusaidi)
-- [Mohammed Al-Eryani Twitter](https://twitter.com/ERYANIM)
+10. **Oman facilitates citizen returns.** Oman's Foreign Ministry continued efforts to facilitate safe return of Omani citizens from unspecified locations, [Times of Oman reported](https://timesofoman.com//article/170529-foreign-ministry-continues-to-facilitate-safe-return-of-omani-citizens). Foreign Minister Badr Albusaidi met with Ukraine's National Security Council Secretary to discuss regional concerns and diplomatic solutions.
+
+**Sources:**
+- [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss)
+- [Reuters](https://www.reuters.com/world/asia-pacific/saudi-arabia-says-pakistan-sends-fighter-jets-kingdom-under-defence-pact-2026-04-11/)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait)
+- [Al-Sharq](https://asharq.com/politics/178998/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-24-%D9%85%D9%88%D8%A7%D8%B7%D9%86/)
+- [Times of Oman](https://timesofoman.com//article/170529-foreign-ministry-continues-to-facilitate-safe-return-of-omani-citizens)
+- Saudi Foreign Ministry [@KSAMOFA](https://twitter.com/KSAMOFA)
+- Prince Khalid bin Salman [@kbsalsaud](https://twitter.com/kbsalsaud)
+- Qatar PM [@MBA_AlThani_](https://twitter.com/MBA_AlThani_)
