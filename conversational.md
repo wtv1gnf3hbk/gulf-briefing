@@ -1,59 +1,48 @@
-**Trump's Iran Blockade Threat Dominates Gulf as Energy Crisis Deepens**
+**Top News**
 
-President Trump's announcement that US military forces have [blockaded Iranian](https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9) ports is reshaping the Gulf's strategic landscape as Tehran warns of "provocative US actions" following collapsed peace talks. The blockade threat, which Reuters reports represents [Trump returning to](https://www.reuters.com/markets/commodities/trump-returns-weary-failing-playbook-with-hormuz-blockade-threat-2026-04-13/) a "weary and failing playbook," has created what Bloomberg describes as a [tense new](https://www.reuters.com/markets/commodities/irans-hormuz-gamble-ushers-tense-new-normal-gulf-energy-2026-04-13/) normal for Gulf energy markets.
+US forces are enforcing a major blockade on Iranian ports as tensions escalate following the ongoing Iran-US conflict, with [CENTCOM reporting](https://timesofoman.com//article/170638-centcom-says-over-10000-troops-enforcing-blockade-on-ships-at-iranian-ports) over 10,000 troops involved in the operation. The [Times of Oman reports](https://timesofoman.com//article/170635-trump-says-war-with-iran-close-to-over-amid-reports-of-possible-second-of-talks) that President Trump declared the war with Iran is "close to over" while signaling possible second-round talks, following what VP Vance described as initial negotiations marked by "a lot of mistrust" but with room for optimism.
 
-The crisis is already devastating regional oil flows, with Bloomberg reporting Saudi oil sales to China will [halve as](https://www.bloomberg.com/news/articles/2026-04-13/saudi-oil-sales-to-china-to-halve-as-hormuz-crisis-lifts-prices) the Hormuz crisis lifts prices, while OPEC output suffered a [record plunge](https://www.bloomberg.com/news/articles/2026-04-13/opec-output-suffers-record-plunge-as-iran-war-throttles-exports) as Iranian exports face throttling. Al Jazeera reports the latest developments in its [Iran war](https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz) live blog as Trump claims Tehran wants a deal.
+The crisis is severely impacting Gulf economies, with the [IMF slashing](https://www.reuters.com/business/energy/imf-slashes-growth-forecast-middle-east-gulf-exporters-reel-impact-war-2026-04-14/) its growth forecast for the Middle East as Gulf oil exporters struggle with war's economic impact. [Bloomberg reports](https://www.bloomberg.com/news/newsletters/2026-04-14/lagarde-warns-the-iran-war-is-straining-the-global-economy) ECB President Lagarde warned the Iran war is straining the global economy, while [six ships](https://www.reuters.com/world/middle-east/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says-2026-04-14/) have been turned away as part of the Strait of Hormuz blockade according to Reuters.
 
 **Energy & Economy**
 
-• Kuwait raised May crude prices for Asia, according to a [pricing document](https://www.reuters.com/business/energy/kuwait-raises-may-crude-prices-asia-pricing-document-shows-2026-04-13/) that Reuters reports shows the kingdom responding to regional supply constraints
+• Oil markets remain volatile as [Reuters reports](https://www.reuters.com/business/energy/oil-tankers-transiting-strait-hormuz-since-start-iran-war-2026-04-14/) tankers continue transiting the Strait of Hormuz despite the conflict, while a [US-sanctioned tanker](https://www.bloomberg.com/news/articles/2026-04-14/us-sanctioned-tanker-tests-trump-blockade-with-hormuz-transit) tested the Trump blockade with a Hormuz transit according to Bloomberg.
 
-• Gulf markets traded mixed as [US-Iran peace](https://www.reuters.com/world/middle-east/uae-markets-retreat-us-iran-peace-talks-fail-2026-04-13/) talks failed, Reuters reports, with UAE markets retreating on the diplomatic breakdown
+• [China is filling](https://www.reuters.com/markets/commodities/how-china-is-plugging-energy-supply-gaps-left-by-us-iran-conflict-2026-04-14/) energy supply gaps left by the US-Iran conflict, per Reuters analysis of shifting trade patterns.
 
-• Morgan Stanley maintained oil price forecasts and [predicts slow](https://www.reuters.com/business/energy/morgan-stanley-maintains-oil-price-forecasts-predicts-slow-recovery-supply-2026-04-13/) recovery in supply, per Reuters, as the bank assesses long-term market impacts
+• Saudi Arabia's Public Investment Fund and Uber [committed another](https://www.bloomberg.com/news/articles/2026-04-14/lucid-names-ceo-as-saudi-pif-uber-commit-another-750-million) $750 million to electric vehicle maker Lucid as the company named a new CEO, Bloomberg reports.
 
-• Pakistan entered talks with Saudi Arabia and China [after UAE's](https://www.bloomberg.com/news/articles/2026-04-13/pakistan-in-talks-with-saudi-arabia-china-after-uae-s-loan-move) loan move, Bloomberg reports, highlighting shifting regional financial dynamics
+• Pakistan [secured $3 billion](https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves) in Saudi funding to bolster its foreign currency reserves, according to Bloomberg.
 
 **Saudi Arabia**
 
-Prince Khalid bin Salman conducted intensive defense diplomacy, meeting with Greece's Defense Minister Nikos Dendias to discuss "Iran's continued flagrant attacks on the Kingdom," according to his [official Twitter](https://x.com/kbsalsaud) account. The Deputy Defense Minister also met British Defense Secretary John Healey, condemning "the continuation of Iranian attacks targeting the Kingdom."
+Saudi Finance Minister Mohammed al-Jadaan said the Kingdom [has proven](https://www.alarabiya.net/amp/aswaq/economy/2026/04/15/%D8%A7%D9%84%D8%AC%D8%AF%D8%B9%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AB%D8%A8%D8%AA%D8%AA-%D9%82%D8%AF%D8%B1%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86) its ability to confront economic shocks and enhance investor confidence, per Al Arabiya. The Interior Ministry [announced fines](https://www.shorouknews.com/news/view.aspx?cdate=15042026&id=d4672b7e-099a-417e-a093-f43627e3821d) of up to $26,000 for Hajj regulation violators, Al-Shorouk reports.
 
-Foreign Minister Prince Faisal bin Farhan coordinated regional responses through calls with UAE, Qatar, and Kuwaiti counterparts, his ministry's [Twitter account](https://x.com/KSAMOFA) confirmed. The prince also chaired an international conference in partnership with France on Palestinian statehood, reaffirming that Saudi Arabia's position on establishing a Palestinian state [remains firm](https://x.com/FaisalbinFarhan).
+**Oman**
 
-**UAE**
+Renewable energy capacity [jumped 138%](https://attaqa.net/2026/04/15/%D9%82%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D9%82%D9%81/) over the past decade, according to Energy publication, reflecting the Sultanate's diversification efforts.
 
-The UAE announced plans for European Council President Charles Michel to begin a Gulf tour today that [includes the](https://www.maspero.eg/arab-and-world/2026/04/14/945104/) Emirates, Saudi Arabia, and Qatar, according to Egypt's National Media Authority. The visit comes as regional tensions escalate.
+**Bahrain**
 
-Sheikh Abdulla bin Zayed highlighted the UAE's educational achievements, noting the country [ranks first](https://x.com/ABZayed) globally in bachelor's degree attainment among those aged 25 and above, "a clear reflection of our commitment to education and progress."
-
-**Bahrain / Kuwait / Oman**
-
-Bahrain launched a permanent golden residency visa [to attract](https://www.alghad.tv/) investors and talented people, according to Al Ghad TV, as the kingdom seeks to diversify its economy. The British Ambassador to Kuwait confirmed his country's [firm commitment](https://www.youm7.com/story/2026/4/14/) to Kuwait's security, per Youm7.
-
-Oman's Foreign Minister Badr Albusaidi urged ceasefire extensions and continued talks, stating on [Twitter that](https://x.com/badralbusaidi) "success may require" patient diplomacy. The President of Botswana affirmed his country's intention to [open an](https://timesofoman.com//article/170602-president-of-botswana-affirms-his-countrys-intention-to-open-embassy-in-muscat) embassy in Muscat, Times of Oman reports.
+Bahrain [thanked the](https://www.youm7.com/story/2026/4/15/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%B4%D9%83%D8%B1-%D9%84%D9%84%D8%A3%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%89-%D8%B9%D9%84%D9%89-%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA) European Union for supporting a resolution regarding Iranian attacks, per Youm7.
 
 **Yemen**
 
-Saudi Ambassador to Yemen Mohammed AlJabir announced via [Twitter that](https://x.com/mohdsalj) he will visit Sanaa with an Omani delegation "with the aim of consolidating the truce and ceasefire" and supporting prisoner exchanges. AlJabir emphasized that nearly 2 million Yemenis work safely in Saudi Arabia, transferring over $4 billion annually to benefit approximately 15 million Yemenis.
-
-Houthi spokesman Mohammed Abdulsalam confirmed an [agreement to](https://x.com/abdusalamsalah) cancel recent banking decisions and resume Yemenia Airlines flights between Sanaa and Jordan, with three daily flights planned. The agreement also covers flights to Cairo and India.
+Saudi Yemen envoy Mohammed Al-Jabir announced he will [visit Sana'a](https://twitter.com/mohdsalj) with an Omani delegation "to consolidate the truce and ceasefire, supporting the prisoner exchange process, and discussing ways of dialogue between Yemeni components." Houthi negotiator Mohammed Abdulsalam released text of an [agreement covering](https://twitter.com/abdusalamsalah) bank decisions, Yemenia Airlines flights resumption, and future meetings between parties.
 
 **Official Signals**
 
-Foreign Minister Prince Faisal bin Farhan's statement that Saudi Arabia's position on Palestinian statehood "is firm and unwavering" signals continued regional pressure on Israel following Crown Prince Mohammed bin Salman's recent declarations. Qatar's PM Mohammed bin Abdulrahman Al Thani stressed the need to "coordinate efforts and enhance joint action" in discussions with both MBS and UAE President Mohammed bin Zayed, indicating Gulf unity despite Iran tensions.
+Prince Khalid bin Salman met with defense ministers from Greece, Britain, and Hungary, consistently [condemning Iran's](https://twitter.com/kbsalsaud) "continued flagrant attacks on the Kingdom and other regional states" and their impact on global security. Foreign Minister Prince Faisal bin Farhan [co-chaired](https://twitter.com/FaisalbinFarhan) an international conference in France on Palestinian statehood, declaring Saudi Arabia's position on establishing a Palestinian state as "firm and unwavering."
 
 **Coverage Flags**
 
-International outlets are significantly ahead on the Iran blockade story's economic implications, with Bloomberg providing comprehensive energy market analysis that regional press has not matched. The European Council President's Gulf tour appears underreported in English-language Gulf media despite its diplomatic significance.
+International outlets are providing extensive analysis of the Iran-US conflict's economic impact while regional press focuses more on diplomatic initiatives. The gap between English and Arabic coverage is notable on energy market disruptions versus regional diplomatic coordination efforts.
 
 **Sources**
-• [AP News](https://apnews.com/article/iran-us-israel-trump-lebanon-blockade-hormuz-april-13-2026-ed7a6cd4bc61dc47f317a2c82afcc1c9)
-• [Reuters](https://www.reuters.com/markets/commodities/trump-returns-weary-failing-playbook-with-hormuz-blockade-threat-2026-04-13/)
-• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-13/saudi-oil-sales-to-china-to-halve-as-hormuz-crisis-lifts-prices)
-• [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz)
-• [Saudi MFA Twitter](https://x.com/KSAMOFA)
-• [Prince Khalid bin Salman Twitter](https://x.com/kbsalsaud)
-• [Times of Oman](https://timesofoman.com//article/170602-president-of-botswana-affirms-his-countrys-intention-to-open-embassy-in-muscat)
-• [Al Ghad TV](https://www.alghad.tv/)
-• [Mohammed AlJabir Twitter](https://x.com/mohdsalj)
-• [Mohammed Abdulsalam Twitter](https://x.com/abdusalamsalah)
+
+• [Times of Oman - CENTCOM blockade](https://timesofoman.com//article/170638-centcom-says-over-10000-troops-enforcing-blockade-on-ships-at-iranian-ports)
+• [Times of Oman - Trump Iran talks](https://timesofoman.com//article/170635-trump-says-war-with-iran-close-to-over-amid-reports-of-possible-second-of-talks)
+• [Reuters - IMF growth forecast](https://www.reuters.com/business/energy/imf-slashes-growth-forecast-middle-east-gulf-exporters-reel-impact-war-2026-04-14/)
+• [Reuters - Hormuz tankers](https://www.reuters.com/business/energy/oil-tankers-transiting-strait-hormuz-since-start-iran-war-2026-04-14/)
+• [Reuters - Ships turned around](https://www.reuters.com/world/middle-east/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says-2026-04-14/)
+• [Bloomberg - Lagarde warning](https://www.bloomberg.com/news/newsletters/2026-04-14/lagarde-warns-the
