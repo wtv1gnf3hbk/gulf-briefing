@@ -1,48 +1,52 @@
-**Top News**
+Saudi Arabia's sovereign wealth fund is pivoting toward domestic investment as part of a new five-year strategy, while Pakistan secures fresh Saudi funding during high-level diplomatic visits. The Public Investment Fund [approved its](https://www.reuters.com/world/middle-east/pif-board-approves-2026-2030-strategy-saudi-sovereign-wealth-fund-2026-04-15/) 2026-2030 strategy under Crown Prince Mohammed bin Salman's chairmanship, Reuters reports, focusing the $925 billion fund on the domestic economy to drive Vision 2030 objectives. Bloomberg reports Pakistan [secured $3 billion](https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves) in Saudi funding to bolster its foreign reserves, as Prime Minister Shehbaz Sharif begins a regional tour that includes Saudi Arabia, Qatar and Turkey.
 
-US forces are enforcing a major blockade on Iranian ports as tensions escalate following the ongoing Iran-US conflict, with [CENTCOM reporting](https://timesofoman.com//article/170638-centcom-says-over-10000-troops-enforcing-blockade-on-ships-at-iranian-ports) over 10,000 troops involved in the operation. The [Times of Oman reports](https://timesofoman.com//article/170635-trump-says-war-with-iran-close-to-over-amid-reports-of-possible-second-of-talks) that President Trump declared the war with Iran is "close to over" while signaling possible second-round talks, following what VP Vance described as initial negotiations marked by "a lot of mistrust" but with room for optimism.
-
-The crisis is severely impacting Gulf economies, with the [IMF slashing](https://www.reuters.com/business/energy/imf-slashes-growth-forecast-middle-east-gulf-exporters-reel-impact-war-2026-04-14/) its growth forecast for the Middle East as Gulf oil exporters struggle with war's economic impact. [Bloomberg reports](https://www.bloomberg.com/news/newsletters/2026-04-14/lagarde-warns-the-iran-war-is-straining-the-global-economy) ECB President Lagarde warned the Iran war is straining the global economy, while [six ships](https://www.reuters.com/world/middle-east/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says-2026-04-14/) have been turned away as part of the Strait of Hormuz blockade according to Reuters.
+The diplomatic outreach comes as regional tensions continue following the Iran-US conflict, with Pakistani officials suggesting their country could play a mediating role. Al Jazeera reports hopes are growing for a [breakthrough in](https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss) US-Iran talks as Pakistan mediates, with officials expecting major developments tied to Iran's nuclear program.
 
 **Energy & Economy**
 
-• Oil markets remain volatile as [Reuters reports](https://www.reuters.com/business/energy/oil-tankers-transiting-strait-hormuz-since-start-iran-war-2026-04-14/) tankers continue transiting the Strait of Hormuz despite the conflict, while a [US-sanctioned tanker](https://www.bloomberg.com/news/articles/2026-04-14/us-sanctioned-tanker-tests-trump-blockade-with-hormuz-transit) tested the Trump blockade with a Hormuz transit according to Bloomberg.
+• Saudi Arabia's PIF [unveiled its](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-s-wealth-fund-unveils-new-strategy-to-boost-returns) new strategy to boost returns through domestic focus, Bloomberg reports, as the kingdom redirects the world's largest sovereign wealth fund toward local economic transformation projects.
 
-• [China is filling](https://www.reuters.com/markets/commodities/how-china-is-plugging-energy-supply-gaps-left-by-us-iran-conflict-2026-04-14/) energy supply gaps left by the US-Iran conflict, per Reuters analysis of shifting trade patterns.
+• South Korea [secured 273 million](https://www.reuters.com/business/energy/south-korea-says-secures-273-mln-barrels-crude-via-routes-outside-strait-hormuz-2026-04-15/) barrels of crude via routes outside the Strait of Hormuz, Reuters reports, highlighting continued concerns about the strategic waterway during regional tensions.
 
-• Saudi Arabia's Public Investment Fund and Uber [committed another](https://www.bloomberg.com/news/articles/2026-04-14/lucid-names-ceo-as-saudi-pif-uber-commit-another-750-million) $750 million to electric vehicle maker Lucid as the company named a new CEO, Bloomberg reports.
+• Reuters analysis suggests a [Hormuz pipeline](https://www.reuters.com/commentary/breakingviews/hormuz-pipeline-workaround-looks-worth-cost-2026-04-15/) workaround looks worth the cost as energy security concerns persist.
 
-• Pakistan [secured $3 billion](https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves) in Saudi funding to bolster its foreign currency reserves, according to Bloomberg.
+• Reports indicate Saudi PIF is [on the verge](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-on-verge-of-pulling-liv-golf-support-ft-reports) of cutting LIV Golf support, Bloomberg reports, though LIV officials say the show will go on despite funding uncertainty.
 
 **Saudi Arabia**
 
-Saudi Finance Minister Mohammed al-Jadaan said the Kingdom [has proven](https://www.alarabiya.net/amp/aswaq/economy/2026/04/15/%D8%A7%D9%84%D8%AC%D8%AF%D8%B9%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AB%D8%A8%D8%AA%D8%AA-%D9%82%D8%AF%D8%B1%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AB%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86) its ability to confront economic shocks and enhance investor confidence, per Al Arabiya. The Interior Ministry [announced fines](https://www.shorouknews.com/news/view.aspx?cdate=15042026&id=d4672b7e-099a-417e-a093-f43627e3821d) of up to $26,000 for Hajj regulation violators, Al-Shorouk reports.
+Crown Prince Mohammed bin Salman met with Pakistani Prime Minister Shehbaz Sharif as both countries strengthen their partnership. Defense Minister Prince Khalid bin Salman held separate meetings with defense ministers from Greece, the UK, and Hungary, consistently condemning Iran's attacks on the kingdom. The Crown Prince tweeted that the meetings focused on "Iran's continued flagrant attacks on the Kingdom and other regional states" and their impact on global security.
 
-**Oman**
+**UAE** 
 
-Renewable energy capacity [jumped 138%](https://attaqa.net/2026/04/15/%D9%82%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D9%82%D9%81/) over the past decade, according to Energy publication, reflecting the Sultanate's diversification efforts.
+A Stanford study suggests the UAE is [consolidating its position](https://www.snabusiness.com/article/1864469-%D8%B3%D8%AA%D8%A7%D9%86%D9%81%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D8%AE-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87%D8%A7-%D9%83%D9%85%D8%B1%D9%83%D8%B2-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A) as an international AI center, per Sky News Arabia. Sheikh Abdulla bin Zayed highlighted the UAE's global leadership in bachelor's degree attainment, tweeting that the Emirates "ranks first globally in bachelor's degree attainment among those aged 25+."
 
-**Bahrain**
+**Qatar**
 
-Bahrain [thanked the](https://www.youm7.com/story/2026/4/15/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%B4%D9%83%D8%B1-%D9%84%D9%84%D8%A3%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%89-%D8%B9%D9%84%D9%89-%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA) European Union for supporting a resolution regarding Iranian attacks, per Youm7.
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani discussed regional developments with UAE President Sheikh Mohammed bin Zayed, stressing the need for joint coordination. Qatar's government spokesman Majed Al Ansari emphasized that any regional solution must prioritize establishing a ceasefire, according to his official statements.
+
+**Bahrain / Kuwait / Oman**
+
+Bahrain and Kuwait [discussed regional](https://www.youm7.com/story/2026/4/16/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%A8%D8%B0%D9%88%D9%84%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86%D9%87%D8%A7/7379169) developments during bilateral meetings, per Youm7. Kuwait withdrew citizenship from broadcaster Nabil Al-Awadi and others of Egyptian origin, the BBC reports. Oman's Foreign Minister Badr Albusaidi met with UN envoy Jean Arnault, reaffirming support for ceasefire efforts and diplomatic solutions to regional conflicts.
 
 **Yemen**
 
-Saudi Yemen envoy Mohammed Al-Jabir announced he will [visit Sana'a](https://twitter.com/mohdsalj) with an Omani delegation "to consolidate the truce and ceasefire, supporting the prisoner exchange process, and discussing ways of dialogue between Yemeni components." Houthi negotiator Mohammed Abdulsalam released text of an [agreement covering](https://twitter.com/abdusalamsalah) bank decisions, Yemenia Airlines flights resumption, and future meetings between parties.
+Houthis and the internationally recognized government (IRG) appear to have reached some agreements on banking and air travel. Houthi spokesman Mohammed Abdulsalam posted details of an apparent agreement to cancel recent banking decisions, resume Yemenia Airlines flights, and hold future meetings. IRG officials, including Mohammed Al-Eryani, continue documenting Houthi recruitment of children for military training. Saudi Yemen envoy Mohammed Al-Jabir tweeted about ongoing mediation efforts, stating he will visit Sanaa with an Omani delegation to consolidate the truce.
 
 **Official Signals**
 
-Prince Khalid bin Salman met with defense ministers from Greece, Britain, and Hungary, consistently [condemning Iran's](https://twitter.com/kbsalsaud) "continued flagrant attacks on the Kingdom and other regional states" and their impact on global security. Foreign Minister Prince Faisal bin Farhan [co-chaired](https://twitter.com/FaisalbinFarhan) an international conference in France on Palestinian statehood, declaring Saudi Arabia's position on establishing a Palestinian state as "firm and unwavering."
+Crown Prince Mohammed bin Salman's meetings with Pakistani leadership signal deepening Saudi-Pakistan ties as both countries navigate regional tensions. Prince Khalid bin Salman's consistent messaging across meetings with European defense ministers emphasizes Iran as the primary regional threat, with his tweets directly condemning "Iran's continued flagrant attacks on the Kingdom."
+
+Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood, tweeting support for France's determination to recognize Palestine as part of implementing the two-state solution.
 
 **Coverage Flags**
 
-International outlets are providing extensive analysis of the Iran-US conflict's economic impact while regional press focuses more on diplomatic initiatives. The gap between English and Arabic coverage is notable on energy market disruptions versus regional diplomatic coordination efforts.
+International outlets are closely tracking PIF's strategic pivot and potential LIV Golf withdrawal, suggesting significant implications for Saudi Arabia's soft power investments. The Pakistan mediation story on US-Iran talks warrants monitoring as a potential diplomatic breakthrough.
 
 **Sources**
 
-• [Times of Oman - CENTCOM blockade](https://timesofoman.com//article/170638-centcom-says-over-10000-troops-enforcing-blockade-on-ships-at-iranian-ports)
-• [Times of Oman - Trump Iran talks](https://timesofoman.com//article/170635-trump-says-war-with-iran-close-to-over-amid-reports-of-possible-second-of-talks)
-• [Reuters - IMF growth forecast](https://www.reuters.com/business/energy/imf-slashes-growth-forecast-middle-east-gulf-exporters-reel-impact-war-2026-04-14/)
-• [Reuters - Hormuz tankers](https://www.reuters.com/business/energy/oil-tankers-transiting-strait-hormuz-since-start-iran-war-2026-04-14/)
-• [Reuters - Ships turned around](https://www.reuters.com/world/middle-east/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says-2026-04-14/)
-• [Bloomberg - Lagarde warning](https://www.bloomberg.com/news/newsletters/2026-04-14/lagarde-warns-the
+• [Reuters](https://www.reuters.com/world/middle-east/pif-board-approves-2026-2030-strategy-saudi-sovereign-wealth-fund-2026-04-15/)
+• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-s-wealth-fund-unveils-new-strategy-to-boost-returns)
+• [Al Jazeera](https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss)
+• [Sky News Arabia](https://www.snabusiness.com/article/1864469-%D8%B3%D8%AA%D8%A7%D9%86%D9%81%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D8%AE-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87%D8%A7-%D9%83%D9%85%D8%B1%D9%83%D8%B2-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A)
+• [BBC](https://www.bbc.com/arabic/articles/cvgll27zl2do)
+• [Youm7](https://www.youm7.com/story/2026/4/16/%D8%A7%D9
