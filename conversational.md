@@ -1,52 +1,53 @@
-Saudi Arabia's sovereign wealth fund is pivoting toward domestic investment as part of a new five-year strategy, while Pakistan secures fresh Saudi funding during high-level diplomatic visits. The Public Investment Fund [approved its](https://www.reuters.com/world/middle-east/pif-board-approves-2026-2030-strategy-saudi-sovereign-wealth-fund-2026-04-15/) 2026-2030 strategy under Crown Prince Mohammed bin Salman's chairmanship, Reuters reports, focusing the $925 billion fund on the domestic economy to drive Vision 2030 objectives. Bloomberg reports Pakistan [secured $3 billion](https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves) in Saudi funding to bolster its foreign reserves, as Prime Minister Shehbaz Sharif begins a regional tour that includes Saudi Arabia, Qatar and Turkey.
+Saudi Arabia's ambassador to Yemen Mohammed Al-Jabir [announced plans](https://twitter.com/mohdsalj) to visit Sanaa alongside an Omani delegation to "consolidate the truce and ceasefire" and discuss comprehensive political solutions. The visit represents the Kingdom's latest diplomatic push following its 2021 peace initiative, as Al-Jabir emphasized that nearly 2 million Yemenis work in Saudi Arabia and transfer over $4 billion annually to support 15 million family members back home.
 
-The diplomatic outreach comes as regional tensions continue following the Iran-US conflict, with Pakistani officials suggesting their country could play a mediating role. Al Jazeera reports hopes are growing for a [breakthrough in](https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss) US-Iran talks as Pakistan mediates, with officials expecting major developments tied to Iran's nuclear program.
+The diplomatic momentum comes as regional tensions remain elevated following the recent Iran conflict. The IMF [warned that](https://www.reuters.com/business/energy/imf-says-middle-east-states-face-uneven-fallout-iran-war-2026-04-16/) Middle East states face "uneven fallout" from the Iran war, per Reuters, while US forces remain ["locked and loaded"](https://www.reuters.com/world/middle-east/us-forces-ready-restart-combat-if-iran-doesnt-agree-deal-says-hegseth-2026-04-16/) to strike Iran's energy infrastructure if ordered, according to Reuters reporting on Pentagon chief Pete Hegseth's remarks.
 
 **Energy & Economy**
 
-• Saudi Arabia's PIF [unveiled its](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-s-wealth-fund-unveils-new-strategy-to-boost-returns) new strategy to boost returns through domestic focus, Bloomberg reports, as the kingdom redirects the world's largest sovereign wealth fund toward local economic transformation projects.
+• TotalEnergies [expects a](https://www.reuters.com/business/energy/totalenergies-expects-sharp-rise-first-quarter-earnings-despite-output-hit-iran-2026-04-16/) sharp earnings boost from strong trading and oil price spikes despite output disruptions from the Iran conflict, Reuters reports.
 
-• South Korea [secured 273 million](https://www.reuters.com/business/energy/south-korea-says-secures-273-mln-barrels-crude-via-routes-outside-strait-hormuz-2026-04-15/) barrels of crude via routes outside the Strait of Hormuz, Reuters reports, highlighting continued concerns about the strategic waterway during regional tensions.
+• Bloomberg reports that Saudi Arabia [now wants](https://www.bloomberg.com/news/articles/2026-04-16/saudis-now-want-sports-to-make-money-clouding-liv-golf-s-future) sports investments to generate profits, potentially clouding LIV Golf's future as the Kingdom shifts toward commercially viable sports ventures.
 
-• Reuters analysis suggests a [Hormuz pipeline](https://www.reuters.com/commentary/breakingviews/hormuz-pipeline-workaround-looks-worth-cost-2026-04-15/) workaround looks worth the cost as energy security concerns persist.
+• South Korea is [turning the](https://www.bloomberg.com/news/newsletters/2026-04-16/iran-war-south-korea-turns-gulf-crisis-into-opportunity) Gulf crisis into an economic opportunity, according to Bloomberg's Iran War newsletter.
 
-• Reports indicate Saudi PIF is [on the verge](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-on-verge-of-pulling-liv-golf-support-ft-reports) of cutting LIV Golf support, Bloomberg reports, though LIV officials say the show will go on despite funding uncertainty.
+• Iran-linked ships are [taking new](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzNnTGh1MjNCRjA0cDFZbE1BRmFzTGZDeVZEaGlyOTFuUk5sd3kxZ09OMnl2VkRSejJNVjd1a29keG1pU0pOTHdXZUZ4dDVEYUtha0l1RTllRHNVYWtJSUdTZWh3dnRaMERxeWpIeUxzSHhBTlY0QnRiUmQtSTNwLTZJOU5Zam10UGVacm1aeGZScUNQU01YTXpibVFLRGdrMGt2RTBJSC1mUE9qRUtzUkFwT3hwQQ?oc=5) routes to trickle into the Persian Gulf, per Bloomberg reporting.
+
+**Country Watch**
 
 **Saudi Arabia**
+Defense Minister Prince Khalid bin Salman conducted [multiple meetings](https://twitter.com/kbsalsaud) with counterparts from Greece, Britain, and Hungary, consistently condemning "Iran's continued flagrant attacks on the Kingdom and other regional states." Foreign Minister Prince Faisal bin Farhan [co-chaired an](https://twitter.com/FaisalbinFarhan) international conference in Paris on Palestinian statehood with his French counterpart, praising France's resolve to recognize Palestine. The Saudi Interior Ministry [announced penalties](https://twitter.com/MOISaudiArabia) for those performing Hajj without permits.
 
-Crown Prince Mohammed bin Salman met with Pakistani Prime Minister Shehbaz Sharif as both countries strengthen their partnership. Defense Minister Prince Khalid bin Salman held separate meetings with defense ministers from Greece, the UK, and Hungary, consistently condemning Iran's attacks on the kingdom. The Crown Prince tweeted that the meetings focused on "Iran's continued flagrant attacks on the Kingdom and other regional states" and their impact on global security.
-
-**UAE** 
-
-A Stanford study suggests the UAE is [consolidating its position](https://www.snabusiness.com/article/1864469-%D8%B3%D8%AA%D8%A7%D9%86%D9%81%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D8%AE-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87%D8%A7-%D9%83%D9%85%D8%B1%D9%83%D8%B2-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A) as an international AI center, per Sky News Arabia. Sheikh Abdulla bin Zayed highlighted the UAE's global leadership in bachelor's degree attainment, tweeting that the Emirates "ranks first globally in bachelor's degree attainment among those aged 25+."
+**UAE**
+Diplomatic advisor Anwar Gargash gave [extensive remarks](https://twitter.com/DXBMediaOffice) at Dubai Press Club defending the UAE's response to Iranian attacks, stating "We have been able to defend ourselves and our achievements honorably in the face of a comprehensive Iranian attack." He noted that Western countries offered the most support during the crisis. Sheikh Mohammed bin Rashid [celebrated the](https://twitter.com/HHShkMohd) UAE winning hosting rights for 2029 World Bank and IMF meetings in Abu Dhabi.
 
 **Qatar**
+Prime Minister Al Thani [discussed with](https://twitter.com/MBA_AlThani_) Omani Sultan Haitham ways to enhance cooperation "in light of current regional challenges" during his visit to Muscat. Foreign Ministry spokesman Majed Al Ansari was [appointed as](https://twitter.com/majedalansari) advisor to the PM and official ministry spokesman.
 
-Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani discussed regional developments with UAE President Sheikh Mohammed bin Zayed, stressing the need for joint coordination. Qatar's government spokesman Majed Al Ansari emphasized that any regional solution must prioritize establishing a ceasefire, according to his official statements.
+**Bahrain**
+The Foreign Ministry [welcomed](https://twitter.com/bahdiplomatic) President Trump's ceasefire announcement between Lebanon and Israel. According to Arabic-language sources, Bahrain and Morocco [discussed post-war](https://www.youm7.com/story/2026/4/17/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82/7380326) scenarios including reopening the Strait of Hormuz, per Youm7.
 
-**Bahrain / Kuwait / Oman**
+**Kuwait**
+BBC Arabic [reports international](https://www.bbc.com/arabic/articles/cy812v4l788o) calls for the release of journalist Ahmed Shihab El-Din in Kuwait.
 
-Bahrain and Kuwait [discussed regional](https://www.youm7.com/story/2026/4/16/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%A8%D8%B0%D9%88%D9%84%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86%D9%87%D8%A7/7379169) developments during bilateral meetings, per Youm7. Kuwait withdrew citizenship from broadcaster Nabil Al-Awadi and others of Egyptian origin, the BBC reports. Oman's Foreign Minister Badr Albusaidi met with UN envoy Jean Arnault, reaffirming support for ceasefire efforts and diplomatic solutions to regional conflicts.
+**Oman**
+Foreign Minister Badr Albusaidi [held talks](https://twitter.com/badralbusaidi) with Thailand's Deputy PM on strengthening bilateral ties and regional developments, emphasizing the need to "build on the current ceasefire for lasting and comprehensive peace."
 
 **Yemen**
-
-Houthis and the internationally recognized government (IRG) appear to have reached some agreements on banking and air travel. Houthi spokesman Mohammed Abdulsalam posted details of an apparent agreement to cancel recent banking decisions, resume Yemenia Airlines flights, and hold future meetings. IRG officials, including Mohammed Al-Eryani, continue documenting Houthi recruitment of children for military training. Saudi Yemen envoy Mohammed Al-Jabir tweeted about ongoing mediation efforts, stating he will visit Sanaa with an Omani delegation to consolidate the truce.
+Houthi spokesman Mohammed Abdulsalam [announced](https://twitter.com/abdusalamsalah) a prisoner exchange agreement including bank decision cancellations and increased Yemenia Airlines flights between Sanaa and Jordan. IRG Foreign Minister Al-Eryani [emphasized](https://twitter.com/ERYANIM) that threats to Bab al-Mandab constitute threats to international peace and security. STC leader Amr Bidh [addressed](https://twitter.com/AmrAlBidh) the European Council on Foreign Relations about southern Yemen's situation.
 
 **Official Signals**
 
-Crown Prince Mohammed bin Salman's meetings with Pakistani leadership signal deepening Saudi-Pakistan ties as both countries navigate regional tensions. Prince Khalid bin Salman's consistent messaging across meetings with European defense ministers emphasizes Iran as the primary regional threat, with his tweets directly condemning "Iran's continued flagrant attacks on the Kingdom."
-
-Foreign Minister Prince Faisal bin Farhan co-chaired an international conference in Paris on Palestinian statehood, tweeting support for France's determination to recognize Palestine as part of implementing the two-state solution.
+Saudi Arabia's Foreign Ministry [issued a](https://twitter.com/FaisalbinFarhan) strong statement reaffirming that "Saudi Arabia's position on the establishment of a Palestinian state is firm and unwavering," directly quoting Crown Prince Mohammed bin Salman's commitment. UAE advisor Gargash [condemned](https://twitter.com/AnwarGargash) the Turkish Defense Minister's "provocative statement" as representing "a new downfall for his country's diplomacy," rejecting what he called "colonial illusions."
 
 **Coverage Flags**
 
-International outlets are closely tracking PIF's strategic pivot and potential LIV Golf withdrawal, suggesting significant implications for Saudi Arabia's soft power investments. The Pakistan mediation story on US-Iran talks warrants monitoring as a potential diplomatic breakthrough.
+Arabic-language sources are providing more detailed coverage of Gulf diplomatic coordination on post-Iran conflict scenarios, particularly Bahrain-Morocco discussions on Hormuz reopening that haven't appeared in English-language international outlets.
 
 **Sources**
 
-• [Reuters](https://www.reuters.com/world/middle-east/pif-board-approves-2026-2030-strategy-saudi-sovereign-wealth-fund-2026-04-15/)
-• [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-15/saudi-arabia-s-wealth-fund-unveils-new-strategy-to-boost-returns)
-• [Al Jazeera](https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss)
-• [Sky News Arabia](https://www.snabusiness.com/article/1864469-%D8%B3%D8%AA%D8%A7%D9%86%D9%81%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D8%AE-%D9%85%D9%83%D8%A7%D9%86%D8%AA%D9%87%D8%A7-%D9%83%D9%85%D8%B1%D9%83%D8%B2-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A)
-• [BBC](https://www.bbc.com/arabic/articles/cvgll27zl2do)
-• [Youm7](https://www.youm7.com/story/2026/4/16/%D8%A7%D9
+• [Reuters - IMF Middle East fallout warning](https://www.reuters.com/business/energy/imf-says-middle-east-states-face-uneven-fallout-iran-war-2026-04-16/)
+• [Reuters - TotalEnergies earnings boost](https://www.reuters.com/business/energy/totalenergies-expects-sharp-rise-first-quarter-earnings-despite-output-hit-iran-2026-04-16/)
+• [Reuters - US forces "locked and loaded"](https://www.reuters.com/world/middle-east/us-forces-ready-restart-combat-if-iran-doesnt-agree-deal-says-hegseth-2026-04-16/)
+• [Bloomberg - Saudi sports profitability focus](https://www.bloomberg.com/news/articles/2026-04-16/saudis-now-want-sports-to-make-money-clouding-liv-golf-s-future)
+• [Youm7 - Bahrain-Morocco Hormuz discussions](https://www.youm7.com/story/2026/4/17/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82/7380326)
+• [BBC Arabic - Kuwait journalist case
