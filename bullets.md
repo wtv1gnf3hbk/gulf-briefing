@@ -1,74 +1,60 @@
 **Top News**
 
-- Lebanon began celebrating a 10-day ceasefire with Israel, according to [Al Jazeera](https://www.aljazeera.com/news/2026/4/17/celebrations-in-lebanon-as-10-day-ceasefire-with-israel-begins?traffic_source=rss).
-- Saudi Arabia welcomed President Trump's ceasefire announcement, praising Lebanese President Joseph Aoun's "great positive role," the Foreign Ministry [said on Twitter](screenshots/twitter_ksamofa.png).
-- Bahrain welcomed the US President's announcement of reaching a ceasefire between Lebanon and Israel, the Foreign Ministry [stated](screenshots/twitter_bahrain_mfa.png).
-- The IMF warned Middle East states face uneven fallout from the Iran war, [Reuters reported](https://www.reuters.com/business/energy/imf-says-middle-east-states-face-uneven-fallout-iran-war-2026-04-16/).
-- US military officials declared forces "locked and loaded" to strike Iran's power plants and energy industry if ordered, according to [Reuters](https://www.reuters.com/world/middle-east/us-forces-ready-restart-combat-if-iran-doesnt-agree-deal-says-hegseth-2026-04-16/).
-- Turkish officials urged "constructive" US-Iran talks to end the war, [Reuters reported](https://www.reuters.com/world/asia-pacific/turkey-urges-constructive-us-iran-talks-end-war-2026-04-16/).
+- President Trump thanked Gulf states for their "tremendous" support during recent tensions, according to [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss).
+- Saudi Arabia participated in a quadripartite foreign ministers meeting in Antalya alongside Turkey, Pakistan and Egypt to discuss Iranian developments and Pakistani mediation efforts between the US and Iran, the Saudi [MFA said](https://twitter.com/KSAMOFA/status/1/1).
+- The Iran war has cost $50 billion worth of oil output over 50 days, with energy recovery expected to take two years, [Reuters reported](https://www.reuters.com/business/energy/how-50-days-iran-war-led-loss-50-billion-worth-oil-2026-04-17/).
+- Iran claimed the Strait of Hormuz remains open as oil tankers made dash crossings while empty LNG tankers attempted passage into the Persian Gulf, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-17/oil-tankers-make-dash-toward-hormuz-as-iran-says-strait-is-open).
+- The US extended waivers allowing sale of sanctioned Russian oil due to energy market turmoil, [Times of Oman](https://timesofoman.com//article/170745-us-extends-waiver-allowing-sale-of-sanctioned-russian-oil-amid-energy-market-turmoil) reported.
 
 **Energy & Economy**
 
-- TotalEnergies flagged earnings boost from strong trading and oil price spike following Iran war developments, according to [Reuters](https://www.reuters.com/business/energy/totalenergies-expects-sharp-rise-first-quarter-earnings-despite-output-hit-iran-2026-04-16/).
-- Iran-linked ships took new paths to trickle into the Persian Gulf while avoiding sanctions, [Bloomberg reported](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzNnTGh1MjNCRjA0cDFZbE1BRmFzTGZDeVZEaGlyOTFuUk5sd3kxZ09OMnl2VkRSejJNVjd1a29keG1pU0pOTHdXZUZ4dDVEYUtha0l1RTllRHNVYWtJSUdTZWh3dnRaMERxeWpIeUxzSHhBTlY0QnRiUmQtSTNwLTZJOU5Zam10UGVacm1aeGZScUNQU01YTXpibVFLRGdrMGt2RTBJSC1mUE9qRUtzUkFwT3hwQQ?oc=5).
-- South Korea turned the Gulf crisis into economic opportunity through increased trade partnerships, per [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-04-16/iran-war-south-korea-turns-gulf-crisis-into-opportunity).
-- Turkey announced plans to improve transport networks as it eyes Europe-Gulf trade routes, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-16/turkey-to-improve-transport-network-as-it-eyes-europe-gulf-route).
+- Gold demand remained resilient ahead of Akshaya Tritiya celebrations, with UAE gold markets moving sideways due to calming market pressures, [Times of Oman](https://timesofoman.com//article/170749-gold-demand-set-to-remain-resilient-ahead-of-akshaya-tritiya) reported.
+- Pakistani oil tankers made rare entries and exits through Hormuz as shipping navigation continued despite regional tensions, [Bloomberg said](https://www.bloomberg.com/news/articles/2026-04-17/pakistan-oil-tanker-makes-rare-entry-and-exit-through-hormuz).
+- Wall Street rushed to price out war damage as stocks hit records following regional developments, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-17/wall-street-rushes-to-price-out-war-damage-as-stocks-hit-records).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Saudi Arabia now wants sports investments to make money, clouding LIV Golf's future funding, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-16/saudis-now-want-sports-to-make-money-clouding-liv-golf-s-future).
-- LIV Golf's leader said the tournament will continue despite reports of Saudi funding uncertainty, [AP reported](https://apnews.com/article/liv-golf-saudi-arabia-mexico-oneil-8fa932ade38658c54238aa563a4307d3).
-- Prince Khalid bin Salman met with Greek Defense Minister Nikos Dendias to discuss Iran's "continued flagrant attacks on the Kingdom," he [said on Twitter](screenshots/twitter_kbs.png).
-- Prince Faisal bin Farhan chaired an international conference on Palestinian statehood implementation with his French counterpart, he [announced on Twitter](screenshots/twitter_faisal.png).
-- Mohammed AlJabir, Saudi ambassador to Yemen, announced he will visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges, per his [Twitter account](screenshots/twitter_aljabir.png).
+- Saudi Foreign Minister Prince Faisal bin Farhan held phone calls with US Secretary of State Marco Rubio, according to the [Saudi MFA](https://twitter.com/KSAMOFA/status/1/4).
+- Prince Khalid bin Salman met with defense ministers from Greece, Britain and Hungary to discuss regional developments and condemn Iranian attacks on the Kingdom, he [said](https://twitter.com/kbsalsaud/status/1/1).
+- The Kingdom continued implementing the Makkah Road Initiative across 10 countries through 17 ports for the eighth consecutive year, the Interior [Ministry announced](https://twitter.com/MOISaudiArabia/status/1/2).
 
 **UAE**
-- UAE ranked first globally in bachelor's degree attainment among those aged 25+, Sheikh Abdulla bin Zayed [said on Twitter](screenshots/twitter_abzayed.png).
-- Anwar Gargash condemned Turkey's Defense Minister's statement as "a new downfall for his country's diplomacy," calling it colonial thinking, he [tweeted](screenshots/twitter_gargash.png).
-- UAE presented its 10th National Report on nuclear safety standards at the International Atomic Energy Agency review meeting, Abu Dhabi Media Office [reported](screenshots/twitter_ad_media.png).
+- Sheikh Mohammed bin Rashid announced the UAE won hosting rights for World Bank Group and IMF meetings in Abu Dhabi for 2029, he [said](https://twitter.com/HHShkMohd/status/1/1).
+- Dubai Police arrested an Irish fugitive within 48 hours for alleged involvement in international organized crime, [Dubai Media Office](https://twitter.com/DXBMediaOffice/status/1/1) reported.
+- The UAE entered the WTO's top 10 merchandise exporters for the first time, advancing from 17th to 9th place globally, Sheikh Mohammed [announced](https://twitter.com/HHShkMohd/status/1/3).
 
 **Qatar**
-- Qatar's Prime Minister Mohammed bin Abdullah Al Thani was appointed to his post by Emir Sheikh Tamim, he [announced on Twitter](screenshots/twitter_pm_qatar.png).
-- Qatar's PM met with Oman's Sultan Haitham bin Tariq to discuss regional cooperation and diplomatic solutions, he [said on Twitter](screenshots/twitter_pm_qatar.png).
-- Qatar launched the first session of the Rawda Award for Excellence in Social Work as the first national award of its kind, the PM [announced](screenshots/twitter_pm_qatar.png).
-
-**Bahrain**
-- Bahrain's Foreign Minister received a phone call from Morocco's Foreign Minister to discuss regional cooperation, according to the Foreign Ministry [website](screenshots/twitter_bahrain_mfa.png).
-- Bahrain offered condolences to Turkey over a school shooting incident, the Foreign Ministry [stated](screenshots/twitter_bahrain_mfa.png).
+- PM Sheikh Mohammed bin Abdulrahman Al Thani participated in the Antalya Diplomatic Forum and met with President Erdogan to enhance dialogue, he [said](https://twitter.com/MBA_AlThani_/status/1/4).
+- Qatar's PM visited Oman to discuss cooperation with Sultan Haitham bin Tariq on regional challenges and diplomatic solutions, he [announced](https://twitter.com/MBA_AlThani_/status/1/5).
 
 **Oman**
-- Oman's Foreign Minister Badr Albusaidi met with Thailand's Deputy PM to discuss strengthening trade and investment ties, he [said on Twitter](screenshots/twitter_albusaidi.png).
-- Albusaidi met with UK Deputy PM David Lammy to discuss bilateral cooperation and regional developments, focusing on maritime navigation security, he [tweeted](screenshots/twitter_albusaidi.png).
+- Foreign Minister Badr Albusaidi met with Thailand's Deputy PM to discuss strengthening trade and investment ties, he [said](https://twitter.com/badralbusaidi/status/1/3).
+- Albusaidi emphasized the need to build on current ceasefire efforts for lasting regional peace during his Thailand [talks](https://twitter.com/badralbusaidi/status/1/3).
 
-**Yemen - IRG**
-- Yemen's Presidential Leadership Council member Abu Zaraa activated Starlink satellite internet as an important step for development and communication, he [said on Twitter](screenshots/twitter_abuzaraa.png).
-- Mohammed Al-Eryani warned that threats to Bab al-Mandab or the Red Sea constitute threats to international peace and security, he [tweeted](screenshots/twitter_eryani.png).
-
-**Yemen - Houthis/Ansar Allah**
-- Houthi spokesman Mohammed Abdulsalam announced a text agreement covering bank decisions, Yemenia Airlines flights, and future meetings, he [posted on Twitter](screenshots/twitter_abdulsalam.png).
-- Mohammed Ali Al Houthi claimed Yemen succeeded in installing the first heart valve without surgical intervention, praising Yemeni cardiologists, he [tweeted](screenshots/twitter_mah.png).
-
-**Yemen - STC**
-- STC President Aidarous al-Zubaidi and his delegation performed Umrah rituals, his office [announced on Twitter](screenshots/twitter_zubaidi.png).
-- STC Deputy President Amr Bidh spoke at a European Council on Foreign Relations meeting about developments in southern Yemen, he [said on Twitter](screenshots/twitter_amr_bidh.png).
+**Yemen**
+- IRG Prime Minister Al-Eryani welcomed the Lebanon ceasefire announcement, he [said](https://twitter.com/ERYANIM/status/1/2).
+- Houthi negotiator Mohammed Abdulsalam announced an agreement on banking restrictions and Yemenia Airlines flights resumption, he [posted](https://twitter.com/abdusalamsalah/status/1/3).
+- STC President Aidarous Al-Zubaidi performed Umrah rituals in Saudi Arabia, he [said](https://twitter.com/AidrosAlzubidi/status/1/1).
 
 **Official Signals**
 
-- Saudi Foreign Ministry reaffirmed that the Kingdom's position on Palestinian statehood "is firm and unwavering," with Crown Prince Mohammed bin Salman having "clearly and unequivocally reaffirmed this stance," according to an official [statement on Twitter](screenshots/twitter_faisal.png).
-- Qatar's Government Communications Office confirmed the environmental situation remains "stable and safe" with advanced monitoring systems tracking air, water and radiation around the clock, it [announced](screenshots/twitter_gco_qatar.png).
+- Saudi Ambassador Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire efforts and support prisoner exchanges, he [said](https://twitter.com/mohdsalj/status/1/2).
+- UAE Minister Anwar Gargash condemned Turkish Defense Minister statements as representing "a new downfall" for Turkish diplomacy, he [tweeted](https://twitter.com/AnwarGargash/status/1/1).
 
 **Coverage Flags**
 
-- Turkey will host talks about Middle East security cooperation, [Bloomberg reported](https://www.bloomberg.com/news/articles/2026-04-16/turkey-to-host-talks-about-middle-east-security-cooperation).
-- International demands emerged for the release of journalist Ahmed Shihab El-Din in Kuwait, according to [BBC Arabic](https://www.bbc.com/arabic/articles/cy812v4l788o).
+- Next round of US-Iran talks likely scheduled for Pakistan on Monday, Iranian sources told [Times of Oman](https://timesofoman.com//article/170748-next-round-of-us-iran-talks-likely-to-be-held-in-pakistan-on-monday-iranian-sources).
 
 **Sources**
 
-- [Al Jazeera](https://www.aljazeera.com/)
-- [Reuters Gulf](https://www.reuters.com/)
-- [AP News](https://apnews.com/)
-- [BBC Middle East](https://www.bbc.com/news/)
-- [Bloomberg Gulf](https://www.bloomberg.com/)
-- [Official Twitter/X accounts](screenshots/)
-- [Arabic news sources](https://www.youm7.com/)
+- [Al Jazeera](https://www.aljazeera.com)
+- [Times of Oman](https://timesofoman.com)
+- [Reuters](https://www.reuters.com)
+- [Bloomberg](https://www.bloomberg.com)
+- [AP News](https://apnews.com)
+- [BBC](https://www.bbc.com)
+- Saudi MFA [@KSAMOFA](https://twitter.com/KSAMOFA)
+- Prince Khalid bin Salman [@kbsalsaud](https://twitter.com/kbsalsaud)
+- Sheikh Mohammed bin Rashid [@HHShkMohd](https://twitter.com/HHShkMohd)
+- Qatar PM [@MBA_AlThani_](https://twitter.com/MBA_AlThani_)
