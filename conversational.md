@@ -1,52 +1,58 @@
-**Iran has closed the Strait of Hormuz to commercial shipping following recent escalations, [BBC reports](https://www.bbc.com/news/articles/cx2631x6nelo), creating a major bottleneck for global energy supplies. [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-18/lng-tankers-make-u-turns-from-hormuz-as-iran-keeps-strait-shut) that LNG tankers are making U-turns before reaching the strait, while [Reuters reports](https://www.reuters.com/business/energy/five-loaded-qatari-lng-vessels-approach-strait-hormuz-ship-tracking-data-shows-2026-04-18/) that five loaded Qatari LNG vessels are approaching the waterway. Iran dismissed EU calls for "unconditional transit" as "fiction that sailed" after US-Israeli aggression, [according to Times of Oman](https://timesofoman.com//article/170780-unconditional-transit-in-hormuz-is-fiction-that-sailed-after-us-israeli-aggression-iran-slams-eu).**
+US forces [seized an Iranian](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes) cargo ship as part of the maritime blockade enforcing sanctions, according to Bloomberg, casting doubt on potential peace talks between Washington and Tehran. Pakistan has offered to host multi-day negotiations, but [Al Jazeera reports](https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss) Iran remains uncertain about participating following the vessel seizure.
 
-**Foreign ministers from Saudi Arabia, Qatar, Jordan and Egypt are meeting in Antalya to discuss Gaza ceasefire developments and reconstruction efforts, [Al Arabiya reports](https://www.alarabiya.net/amp/arab-and-world/gulf/2026/04/19/%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%2586-%D9%88%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D9%85%D8%B5%D8%B1-%D9%8A%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%88%D9%82%D9%81-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-). The meeting follows Egypt and Pakistan's efforts to develop a lasting US-Iran peace plan, [Reuters reports](https://www.reuters.com/world/asia-pacific/egypt-working-with-pakistan-lasting-us-iran-peace-plan-minister-says-2026-04-18/). Meanwhile, Oman joined 14 other nations in condemning Israel's move on Somaliland, [Times of Oman reports](https://timesofoman.com//article/170782-oman-14-nations-condemn-israel-move-on-somaliland-1).**
+The Strait of Hormuz crisis continues to strain global energy markets, with [oil prices jumping](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty) as uncertainty over potential US-Iran ceasefires weighs on trading, per Times of Oman. [Reuters data shows](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/) more than 20 vessels passed through the strait on Saturday, though Bloomberg reported earlier that [cruise ships seized](https://www.bloomberg.com/news/articles/2026-04-19/cruise-ships-seized-brief-hormuz-reopening-to-flee-persian-gulf) a brief reopening to escape the Persian Gulf.
 
-## Energy & Economy
+**Energy & Economy**
 
-• [Iraq says](https://www.reuters.com/business/energy/iraq-says-oil-exports-resume-all-fields-within-days-state-news-agency-2026-04-18/) oil exports will resume from all fields within days, per Reuters, as regional energy flows face disruption from the Hormuz closure.
+• UAE's foreign minister Sheikh Abdullah bin Zayed tweeted that 50 days of Hormuz closure has blocked [almost 600 million](https://twitter.com/ABZayed) barrels of oil, noting bills are rising for ordinary people everywhere as pressure mounts on LNG, jet fuel, and fertilizer supplies.
 
-• Turkey's Iran gas pipeline contract is nearing expiry with no extension talks yet, [Reuters reports](https://www.reuters.com/business/energy/turkey-says-iran-gas-pipeline-contract-nearing-expiry-no-talks-yet-extension-2026-04-18/), adding pressure to regional energy security.
+• The IEA head pitched an Iraq-Turkey pipeline to bypass Hormuz, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet), offering an alternative route for Middle Eastern oil exports.
 
-• [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-18/greek-indian-tankers-u-turn-before-hormuz-amid-reopening-doubt) Greek and Indian tankers made U-turns before Hormuz following doubts about strait reopening.
+• UAE real estate posted [record performance](https://validate.perfdrive.com/?ssa=cae188fa-4e36-40c0-97b0-0b2c0aabd7d3) in the first quarter that exceeded expectations, according to Sky News Arabia, as the economy continues strengthening its global position.
 
-• Egypt's Talaat Moustafa unveiled plans for a $27 billion new city, [according to Bloomberg](https://www.bloomberg.com/news/articles/2026-04-18/egypt-s-talaat-moustafa-unveils-plan-for-27-billion-new-city).
-
-## Country Watch
+• The Wall Street Journal reported that the [UAE requested](https://www.reuters.com/ar/business/2LD4QWFH4NPP3CDMJXEXSEJJW4-2026-04-19/) a financial support mechanism from America, per Reuters Arabic.
 
 **Saudi Arabia**
-Saudi Defense Minister Prince Khalid bin Salman held defense talks with Greek, British and Hungarian counterparts, repeatedly condemning Iran's "flagrant attacks on the Kingdom" in official posts. Foreign Minister Prince Faisal bin Farhan co-chaired an international Palestinian conference with France, emphasizing Saudi Arabia's "firm and unwavering" position on Palestinian statehood. The kingdom is receiving its first Pakistani pilgrims through the Mecca Road initiative, [Al Ekhbariya reports](https://twitter.com/alekhbariyatv).
+
+Defense Minister Prince Khalid bin Salman met with counterparts from Greece, Britain and Hungary, condemning Iran's "continued flagrant attacks on the Kingdom" in each discussion. He tweeted that these Iranian strikes impact "global peace and security," positioning Saudi Arabia as defending international stability.
+
+Foreign Minister Prince Faisal bin Farhan hosted Indian National Security Advisor Ajit Doval, with [Times of Oman reporting](https://timesofoman.com//article/170825-indian-nsa-ajit-doval-discusses-bilateral-regional-issues-with-saudi-ministers) they discussed bilateral and regional issues. The Saudi Foreign Ministry also announced a [joint statement](https://twitter.com/KSAMOFA) with nine other countries welcoming Libya's unified 2026 budget.
+
+Yemen special envoy Mohammed AlJabir tweeted he will visit Sanaa with an Omani delegation to "consolidate the truce and ceasefire" and discuss prisoner exchanges, continuing the Kingdom's 2021 peace initiative.
 
 **UAE**
-The UAE condemned attacks on UNIFIL forces in southern Lebanon, [Sky News Arabia reports](https://validate.perfdrive.com/...). Dubai announced 13 new mosques opening at a cost of 162 million dirhams, while Abu Dhabi landmarks lit up celebrating the 2029 World Bank-IMF meetings selection.
+
+Princess Reema highlighted that IMF projections show Saudi Arabia maintaining its position among the fastest-growing G20 economies in 2026, tweeting this demonstrates resilience despite regional tensions.
+
+The UAE won the bid to [host 2029](https://twitter.com/HHShkMohd) World Bank and IMF meetings in Abu Dhabi, with Sheikh Mohammed bin Rashid calling it "a global economic vote" reflecting international confidence in the UAE's financial position.
 
 **Qatar**
-Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani participated in the Antalya Diplomatic Forum, emphasizing Qatar's mediation experience and "unshakable conviction that crises are resolved at the dialogue table." He met with Turkey's Erdogan and other regional leaders.
 
-**Bahrain**
-Bahrain welcomed the International Maritime Organization's decision condemning Iran's Hormuz closure and condemned the terrorist attack on UNIFIL, [according to official statements](https://twitter.com/bahdiplomatic). Civil Defense evacuated a building in Hoora following an apartment fire.
+Prime Minister Mohammed bin Abdulrahman Al Thani emphasized Qatar's mediation experience at the Antalya Diplomatic Forum, tweeting that "crises are resolved at the dialogue table, not in the fields of confrontation." He met with Turkish President Erdogan and other leaders discussing regional tensions.
+
+The government communications office reported stable environmental conditions despite weather fluctuations, with the Environment Ministry monitoring air, water and radiation quality around the clock.
 
 **Yemen**
-Houthi spokesman Mohammed Abdulsalam announced a text agreement covering bank decisions, Yemenia Airlines flights, and future meetings. The Iran-backed group continues justifying naval operations as support for Palestinians while claiming commitment to maritime security. IRG Minister of Information Mohammed Al-Eryani criticized systematic Houthi replacement policies in Ibb Governorate.
 
-## Official Signals
+IRG Information Minister Mohammed Al-Eryani warned of "systematic replacement policy" by Houthis in Ibb Governorate, installing militia elements from outside the province in key positions. Presidential Leadership Council member Abu Zaraa criticized unilateral decision-making within the council, calling for institutional coordination.
 
-Foreign Minister Prince Faisal bin Farhan posted that Saudi Arabia's Palestinian state position is "firm and unwavering," directly quoting Crown Prince Mohammed bin Salman's clear reaffirmation. Qatar's Prime Minister emphasized the country's mediation role at Antalya, stating crises "are resolved at the dialogue table, not in the fields of confrontation."
+Houthi negotiator Mohammed Abdulsalam announced an agreement covering banking restrictions and Yemenia Airlines operations, tweeting that flights between Sanaa and Jordan will resume with three daily services. However, he also defended naval operations as supporting Palestinians, not challenging maritime powers.
 
-Saudi Defense Minister Prince Khalid bin Salman repeatedly referenced Iran's "continued flagrant attacks on the Kingdom" across multiple bilateral defense meetings, signaling sustained Saudi concern about Iranian activities.
+**Official Signals**
 
-## Coverage Flags
+Iran's hardliners now control military and diplomatic decisions with moderates sidelined, [Times of Oman reports](https://timesofoman.com//article/170824-irgc-hardliners-in-control-of-irans-military-and-diplomacy-moderates-sidelined-report), indicating reduced prospects for compromise. A senior Iranian politician told the BBC that Tehran [will never cede](https://www.bbc.com/news/articles/cvg4jnn131qo) control of the Strait of Hormuz.
 
-International outlets are providing more detailed shipping data on Hormuz disruptions than regional press. The Egypt-Pakistan peace plan initiative appears underreported in Gulf media compared to international coverage.
+Egypt and Kuwait held political consultations in Cairo with their foreign ministers confirming "depth of fraternal relations," according to the Egyptian Foreign Ministry website.
 
-## Sources
+**Coverage Flags**
 
-• [BBC - Strait of Hormuz closed again, Iran says](https://www.bbc.com/news/articles/cx2631x6nelo)
-• [Bloomberg - LNG Tankers Make U-Turns From Hormuz](https://www.bloomberg.com/news/articles/2026-04-18/lng-tankers-make-u-turns-from-hormuz-as-iran-keeps-strait-shut)
-• [Reuters - Five loaded Qatari LNG vessels approach Hormuz](https://www.reuters.com/business/energy/five-loaded-qatari-lng-vessels-approach-strait-hormuz-ship-tracking-data-shows-2026-04-18/)
-• [Times of Oman - Hormuz transit is 'fiction'](https://timesofoman.com//article/170780-unconditional-transit-in-hormuz-is-fiction-that-sailed-after-us-israeli-aggression-iran-slams-eu)
-• [Al Arabiya - Foreign ministers discuss Gaza ceasefire](https://www.alarabiya.net/amp/arab-and-world/gulf/2026/04/19/%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D9%88%D9%85%D8%B5%D8%B1-%D9%8A%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%88%D9%82%D9%81-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-)
-• [Reuters - Egypt working with Pakistan on peace plan](https://www.reuters.com/world/asia-pacific/egypt-working-with-pakistan-lasting-us-iran-peace-plan-minister-says-2026-04-18/)
-• [Twitter - Saudi MFA](https://twitter.com/KSAMOFA)
-• [Twitter - Prince Faisal bin Farhan](https://twitter.com/FaisalbinFarhan)
-• [Twitter - Qatar PM Al Thani](https://twitter.com/MBA_AlThani_)
+Bloomberg's detailed Hormuz shipping coverage appears ahead of regional outlets on specific vessel movements and operational details. The disconnect between optimistic Gulf economic reporting and the energy crisis impact warrants closer examination of how regional governments are managing economic messaging during the strait closure.
+
+**Sources**
+
+• [Al Jazeera - Pakistan ready for US-Iran talks](https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss)
+• [Bloomberg - US seizes Iranian ship](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes)
+• [Times of Oman - Oil prices jump](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty)
+• [Reuters - Vessels pass Hormuz](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/)
+• [BBC - Iran on Hormuz control](https://www.bbc.com/news/articles/cvg4jnn131qo)
+• [Bloomberg - IEA pipeline proposal](https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet)
