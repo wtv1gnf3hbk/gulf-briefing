@@ -14,6 +14,12 @@ on:
 permissions:
   contents: write
 
+# Serialize with the feed.yml workflow via a repo-wide write group.
+# Prevents race conditions where both try to push to main simultaneously.
+concurrency:
+  group: write-main
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -62,6 +68,15 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+
+          # Fetch latest remote state before committing.
+          # Prevents "fetch first" rejections when feed.yml pushes mid-run.
+          # Safe because all our outputs are full-file replacements (idempotent).
+          git fetch origin main
+          git reset --soft origin/main
+
           git add briefing.json conversational.md conversational.html index.html bullets.md bullets.html wib.md wib.html screenshots/
-          git diff --staged --quiet || git commit -m "Update Gulf briefing $(TZ=Asia/Dubai date +%Y-%m-%d)"
-          git push
+          git diff --staged --quiet || {
+            git commit -m "Update Gulf briefing $(TZ=Asia/Dubai date +%Y-%m-%d)"
+            git push origin main
+          }
