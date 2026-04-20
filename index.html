@@ -3,950 +3,443 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gulf Briefing</title>
+  <title>Gulf Wire</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
     body {
-      font-family: Georgia, 'Times New Roman', serif;
-      line-height: 1.7;
-      max-width: 680px;
-      margin: 0 auto;
-      padding: 32px 16px;
-      background: #fafafa;
-      color: #1a1a1a;
+      background: #0a0a0a;
+      color: #d4d4d4;
+      font-family: 'SF Mono', 'Menlo', 'Monaco', 'Consolas', monospace;
+      font-size: 13px;
+      line-height: 1.5;
     }
+
     .header {
-      margin-bottom: 24px;
-      padding-bottom: 16px;
-      border-bottom: 1px solid #e0e0e0;
+      padding: 16px 20px 12px;
+      border-bottom: 1px solid #222;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
     }
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 1.5rem;
-      font-weight: 700;
-      margin-bottom: 8px;
-    }
-    .timestamp {
-      font-size: 0.85rem;
-      color: #666;
-    }
-    .refresh-link {
-      color: #666;
-      text-decoration: underline;
-      cursor: pointer;
-    }
-    h1, h2, strong {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    }
-    p { margin-bottom: 16px; }
-    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
-    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
-    li::before { content: "•"; position: absolute; left: 0; color: #999; }
-    a {
-      color: #1a1a1a;
-      text-decoration: underline;
-      text-decoration-color: #999;
-      text-underline-offset: 2px;
-    }
-    a:hover { text-decoration-color: #333; }
-    strong { font-weight: 600; }
-    .section-header { margin-top: 24px; margin-bottom: 12px; }
-    .screenshots-section {
-      margin-top: 40px;
-      padding-top: 24px;
-      border-top: 1px solid #e0e0e0;
-    }
-    .screenshots-header {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 1.1rem;
+
+    .header h1 {
+      font-size: 14px;
       font-weight: 600;
-      margin-bottom: 16px;
+      color: #e5a100;
+      letter-spacing: 1px;
+      text-transform: uppercase;
     }
-    .screenshots-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+
+    .header .meta {
+      font-size: 11px;
+      color: #666;
+    }
+
+    .header .meta .live {
+      color: #22c55e;
+      font-weight: 600;
+    }
+
+    /* Nav bar linking back to briefing */
+    .nav {
+      padding: 6px 20px;
+      border-bottom: 1px solid #1a1a1a;
+      font-size: 11px;
+      display: flex;
       gap: 16px;
     }
-    .screenshot-card {
-      border: 1px solid #e0e0e0;
-      border-radius: 8px;
-      overflow: hidden;
-      background: white;
-    }
-    .screenshot-card img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-    .screenshot-card .label {
-      padding: 8px 12px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 0.85rem;
-      background: #f5f5f5;
-      border-top: 1px solid #e0e0e0;
-    }
-    .screenshot-card .label a {
+
+    .nav a {
       color: #666;
       text-decoration: none;
     }
-    .screenshot-card .label a:hover {
+
+    .nav a:hover { color: #999; }
+    .nav a.active { color: #e5a100; font-weight: 600; }
+
+    /* Controls bar */
+    .controls {
+      padding: 10px 20px;
+      border-bottom: 1px solid #222;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .chip {
+      padding: 3px 10px;
+      border: 1px solid #333;
+      border-radius: 3px;
+      font-size: 11px;
+      cursor: pointer;
+      background: transparent;
+      color: #888;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+
+    .chip:hover { border-color: #555; color: #bbb; }
+    .chip.active { border-color: #e5a100; color: #e5a100; background: #1a1500; }
+
+    .separator {
+      width: 1px;
+      height: 20px;
+      background: #333;
+      margin: 0 4px;
+    }
+
+    .keyword-input {
+      background: #111;
+      border: 1px solid #333;
+      border-radius: 3px;
+      color: #d4d4d4;
+      font-family: inherit;
+      font-size: 11px;
+      padding: 3px 10px;
+      width: 180px;
+      outline: none;
+    }
+
+    .keyword-input:focus { border-color: #e5a100; }
+    .keyword-input::placeholder { color: #555; }
+
+    /* Feed items */
+    .feed {
+      padding: 0;
+    }
+
+    .time-group {
+      padding: 6px 20px;
+      font-size: 10px;
+      font-weight: 600;
+      color: #555;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      border-bottom: 1px solid #1a1a1a;
+      background: #0d0d0d;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .item {
+      padding: 5px 20px;
+      border-bottom: 1px solid #111;
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      transition: background 0.1s;
+    }
+
+    .item:hover { background: #111; }
+
+    .item .time {
+      color: #555;
+      font-size: 11px;
+      min-width: 48px;
+      flex-shrink: 0;
+    }
+
+    .item .country-badge {
+      font-size: 10px;
+      padding: 1px 6px;
+      border-radius: 2px;
+      font-weight: 600;
+      min-width: 28px;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    /* Country color coding */
+    .country-saudi { background: #1a2800; color: #6fbf00; }
+    .country-uae { background: #1a0028; color: #bf6fff; }
+    .country-qatar { background: #002828; color: #00bfbf; }
+    .country-kuwait { background: #281a00; color: #bf8f00; }
+    .country-bahrain { background: #280000; color: #bf4040; }
+    .country-oman { background: #001a28; color: #4090bf; }
+    .country-yemen { background: #281400; color: #bf7030; }
+    .country-wire { background: #1a1a1a; color: #888; }
+    .country-regional { background: #1a1a00; color: #8f8f00; }
+    .country-other { background: #1a1a1a; color: #666; }
+
+    .item .source-tag {
+      color: #666;
+      font-size: 11px;
+      min-width: 100px;
+      flex-shrink: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .item .headline {
+      color: #d4d4d4;
+      flex: 1;
+    }
+
+    .item .headline a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .item .headline a:hover {
+      color: #fff;
       text-decoration: underline;
     }
-    /* Feedback section */
-    .feedback-section {
-      margin-top: 40px;
-      padding-top: 24px;
-      border-top: 1px solid #e0e0e0;
+
+    /* Keyword highlight */
+    .highlight {
+      background: #665500;
+      color: #ffdd00;
+      padding: 0 2px;
+      border-radius: 1px;
+    }
+
+    /* Arabic original tooltip */
+    .item .headline[title] {
+      cursor: help;
+    }
+
+    .empty-state {
+      padding: 40px 20px;
       text-align: center;
+      color: #555;
     }
-    .feedback-prompt {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 0.85rem;
-      color: #666;
-      margin-bottom: 12px;
-    }
-    .feedback-buttons {
-      display: flex;
-      justify-content: center;
-      gap: 12px;
-      margin-bottom: 12px;
-    }
-    .feedback-btn {
-      font-size: 1.4rem;
-      padding: 8px 16px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      background: transparent;
-      cursor: pointer;
-      transition: background 0.15s;
-    }
-    .feedback-btn:hover { background: #f0f0f0; }
-    .feedback-btn.selected { background: #e8e8e8; border-color: #999; }
-    .feedback-textarea {
-      display: block;
-      width: 100%;
-      max-width: 480px;
-      margin: 12px auto;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 0.9rem;
-      resize: vertical;
-    }
-    .feedback-submit {
-      display: block;
-      margin: 8px auto;
+
+    .stats-bar {
       padding: 6px 20px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 0.85rem;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      background: #f5f5f5;
-      cursor: pointer;
+      font-size: 10px;
+      color: #444;
+      border-top: 1px solid #1a1a1a;
+      display: flex;
+      gap: 16px;
     }
-    .feedback-submit:hover { background: #e8e8e8; }
-    .feedback-thanks {
-      display: none;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 0.85rem;
-      color: #666;
-      margin-top: 8px;
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .item .source-tag { display: none; }
+      .item .time { min-width: 40px; font-size: 10px; }
+      .keyword-input { width: 120px; }
     }
   </style>
 </head>
 <body>
+
   <div class="header">
-    <div class="title">Gulf Briefing</div>
-    <div class="timestamp">
-      Generated Monday, April 20, 2026 at 11:11 AM GMT+4
-      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
-    </div>
-  
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-              font-size: 0.8rem; margin-bottom: 16px; padding: 8px 0;
-              border-bottom: 1px solid #e0e0e0; display: flex; gap: 16px;">
-    <a href="index.html" style="color: #666; text-decoration: none;"; font-weight: 600; color: #1a1a1a">Conversational</a>
-    <a href="bullets.html" style="color: #666; text-decoration: none;">Bullets</a>
-    <a href="wib.html" style="color: #666; text-decoration: none;">World in Brief</a>
-    <a href="feed.html" style="color: #666; text-decoration: none;">Feed</a>
-  </div>
-</div>
-
-  <script>
-    const WORKER_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev';
-
-    async function refreshBriefing() {
-      const link = event.target;
-      const originalText = link.textContent;
-
-      try {
-        // Step 1: Trigger the workflow
-        link.textContent = 'Triggering...';
-        const triggerRes = await fetch(`${WORKER_URL}/trigger`, { method: 'POST' });
-        if (!triggerRes.ok) throw new Error('Failed to trigger');
-
-        // Step 2: Wait for run to be created
-        link.textContent = 'Starting...';
-        await new Promise(r => setTimeout(r, 3000));
-
-        // Step 3: Get the run ID
-        link.textContent = 'Finding run...';
-        const runsRes = await fetch(`${WORKER_URL}/runs`);
-        const runsData = await runsRes.json();
-        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
-
-        const runId = runsData.workflow_runs[0].id;
-        const runUrl = runsData.workflow_runs[0].html_url;
-
-        // Step 4: Poll for completion
-        let attempts = 0;
-        while (attempts < 60) {
-          const statusRes = await fetch(`${WORKER_URL}/status/${runId}`);
-          const statusData = await statusRes.json();
-
-          if (statusData.status === 'completed') {
-            if (statusData.conclusion === 'success') {
-              link.textContent = 'Done! Reloading...';
-              await new Promise(r => setTimeout(r, 5000));
-              location.reload(true);
-              return;
-            } else {
-              link.innerHTML = `Failed (<a href="${runUrl}" target="_blank">logs</a>)`;
-              return;
-            }
-          }
-
-          link.textContent = `Running... ${attempts * 5}s`;
-          await new Promise(r => setTimeout(r, 5000));
-          attempts++;
-        }
-
-        link.innerHTML = `Timeout (<a href="${runUrl}" target="_blank">check</a>)`;
-      } catch (error) {
-        console.error('Refresh error:', error);
-        link.textContent = 'Error';
-        setTimeout(() => { link.textContent = originalText; }, 3000);
-      }
-    }
-  </script>
-
-  <div id="content">
-<p>US forces <a href="https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes" target="_blank">seized an Iranian</a> cargo ship as part of the maritime blockade enforcing sanctions, according to Bloomberg, casting doubt on potential peace talks between Washington and Tehran. Pakistan has offered to host multi-day negotiations, but <a href="https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss" target="_blank">Al Jazeera reports</a> Iran remains uncertain about participating following the vessel seizure.</p>
-
-<p>The Strait of Hormuz crisis continues to strain global energy markets, with <a href="https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty" target="_blank">oil prices jumping</a> as uncertainty over potential US-Iran ceasefires weighs on trading, per Times of Oman. <a href="https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/" target="_blank">Reuters data shows</a> more than 20 vessels passed through the strait on Saturday, though Bloomberg reported earlier that <a href="https://www.bloomberg.com/news/articles/2026-04-19/cruise-ships-seized-brief-hormuz-reopening-to-flee-persian-gulf" target="_blank">cruise ships seized</a> a brief reopening to escape the Persian Gulf.</p>
-
-<p class="section-header"><strong>Energy & Economy</strong></p>
-
-<p>• UAE's foreign minister Sheikh Abdullah bin Zayed tweeted that 50 days of Hormuz closure has blocked <a href="https://twitter.com/ABZayed" target="_blank">almost 600 million</a> barrels of oil, noting bills are rising for ordinary people everywhere as pressure mounts on LNG, jet fuel, and fertilizer supplies.</p>
-
-<p>• The IEA head pitched an Iraq-Turkey pipeline to bypass Hormuz, <a href="https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet" target="_blank">Bloomberg reports</a>, offering an alternative route for Middle Eastern oil exports.</p>
-
-<p>• UAE real estate posted <a href="https://validate.perfdrive.com/?ssa=cae188fa-4e36-40c0-97b0-0b2c0aabd7d3" target="_blank">record performance</a> in the first quarter that exceeded expectations, according to Sky News Arabia, as the economy continues strengthening its global position.</p>
-
-<p>• The Wall Street Journal reported that the <a href="https://www.reuters.com/ar/business/2LD4QWFH4NPP3CDMJXEXSEJJW4-2026-04-19/" target="_blank">UAE requested</a> a financial support mechanism from America, per Reuters Arabic.</p>
-
-<p class="section-header"><strong>Saudi Arabia</strong></p>
-
-<p>Defense Minister Prince Khalid bin Salman met with counterparts from Greece, Britain and Hungary, condemning Iran's "continued flagrant attacks on the Kingdom" in each discussion. He tweeted that these Iranian strikes impact "global peace and security," positioning Saudi Arabia as defending international stability.</p>
-
-<p>Foreign Minister Prince Faisal bin Farhan hosted Indian National Security Advisor Ajit Doval, with <a href="https://timesofoman.com//article/170825-indian-nsa-ajit-doval-discusses-bilateral-regional-issues-with-saudi-ministers" target="_blank">Times of Oman reporting</a> they discussed bilateral and regional issues. The Saudi Foreign Ministry also announced a <a href="https://twitter.com/KSAMOFA" target="_blank">joint statement</a> with nine other countries welcoming Libya's unified 2026 budget.</p>
-
-<p>Yemen special envoy Mohammed AlJabir tweeted he will visit Sanaa with an Omani delegation to "consolidate the truce and ceasefire" and discuss prisoner exchanges, continuing the Kingdom's 2021 peace initiative.</p>
-
-<p class="section-header"><strong>UAE</strong></p>
-
-<p>Princess Reema highlighted that IMF projections show Saudi Arabia maintaining its position among the fastest-growing G20 economies in 2026, tweeting this demonstrates resilience despite regional tensions.</p>
-
-<p>The UAE won the bid to <a href="https://twitter.com/HHShkMohd" target="_blank">host 2029</a> World Bank and IMF meetings in Abu Dhabi, with Sheikh Mohammed bin Rashid calling it "a global economic vote" reflecting international confidence in the UAE's financial position.</p>
-
-<p class="section-header"><strong>Qatar</strong></p>
-
-<p>Prime Minister Mohammed bin Abdulrahman Al Thani emphasized Qatar's mediation experience at the Antalya Diplomatic Forum, tweeting that "crises are resolved at the dialogue table, not in the fields of confrontation." He met with Turkish President Erdogan and other leaders discussing regional tensions.</p>
-
-<p>The government communications office reported stable environmental conditions despite weather fluctuations, with the Environment Ministry monitoring air, water and radiation quality around the clock.</p>
-
-<p class="section-header"><strong>Yemen</strong></p>
-
-<p>IRG Information Minister Mohammed Al-Eryani warned of "systematic replacement policy" by Houthis in Ibb Governorate, installing militia elements from outside the province in key positions. Presidential Leadership Council member Abu Zaraa criticized unilateral decision-making within the council, calling for institutional coordination.</p>
-
-<p>Houthi negotiator Mohammed Abdulsalam announced an agreement covering banking restrictions and Yemenia Airlines operations, tweeting that flights between Sanaa and Jordan will resume with three daily services. However, he also defended naval operations as supporting Palestinians, not challenging maritime powers.</p>
-
-<p class="section-header"><strong>Official Signals</strong></p>
-
-<p>Iran's hardliners now control military and diplomatic decisions with moderates sidelined, <a href="https://timesofoman.com//article/170824-irgc-hardliners-in-control-of-irans-military-and-diplomacy-moderates-sidelined-report" target="_blank">Times of Oman reports</a>, indicating reduced prospects for compromise. A senior Iranian politician told the BBC that Tehran <a href="https://www.bbc.com/news/articles/cvg4jnn131qo" target="_blank">will never cede</a> control of the Strait of Hormuz.</p>
-
-<p>Egypt and Kuwait held political consultations in Cairo with their foreign ministers confirming "depth of fraternal relations," according to the Egyptian Foreign Ministry website.</p>
-
-<p class="section-header"><strong>Coverage Flags</strong></p>
-
-<p>Bloomberg's detailed Hormuz shipping coverage appears ahead of regional outlets on specific vessel movements and operational details. The disconnect between optimistic Gulf economic reporting and the energy crisis impact warrants closer examination of how regional governments are managing economic messaging during the strait closure.</p>
-
-<p class="section-header"><strong>Sources</strong></p>
-
-<p>• <a href="https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss" target="_blank">Al Jazeera - Pakistan ready for US-Iran talks</a></p>
-<p>• <a href="https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes" target="_blank">Bloomberg - US seizes Iranian ship</a></p>
-<p>• <a href="https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty" target="_blank">Times of Oman - Oil prices jump</a></p>
-<p>• <a href="https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/" target="_blank">Reuters - Vessels pass Hormuz</a></p>
-<p>• <a href="https://www.bbc.com/news/articles/cvg4jnn131qo" target="_blank">BBC - Iran on Hormuz control</a></p>
-<p>• <a href="https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet" target="_blank">Bloomberg - IEA pipeline proposal</a></p>
-  </div>
-
-  
-  <div class="screenshots-section">
-    <div class="screenshots-header">📸 Homepage Screenshots</div>
-    <div class="screenshots-grid">
-      
-      <div class="screenshot-card">
-        <a href="https://www.spa.gov.sa/" target="_blank">
-          <img src="screenshots/saudi_press_agency.png" alt="Saudi Press Agency" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.spa.gov.sa/" target="_blank">Saudi Press Agency</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://aawsat.com/" target="_blank">
-          <img src="screenshots/asharq_al_awsat.png" alt="Asharq al-Awsat" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://aawsat.com/" target="_blank">Asharq al-Awsat</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://asharq.com/" target="_blank">
-          <img src="screenshots/asharq_news.png" alt="Asharq News (Asharq Bloomberg)" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://asharq.com/" target="_blank">Asharq News (Asharq Bloomberg)</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.okaz.com.sa/" target="_blank">
-          <img src="screenshots/okaz.png" alt="Okaz" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.okaz.com.sa/" target="_blank">Okaz</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.alriyadh.com/" target="_blank">
-          <img src="screenshots/alriyadh.png" alt="Alriyadh" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.alriyadh.com/" target="_blank">Alriyadh</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.alekhbariya.net/ar" target="_blank">
-          <img src="screenshots/alekhbariya.png" alt="Al Ekhbariya" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.alekhbariya.net/ar" target="_blank">Al Ekhbariya</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/KSAMOFA" target="_blank">
-          <img src="screenshots/twitter_ksamofa.png" alt="Saudi MFA" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/KSAMOFA" target="_blank">Saudi MFA</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/kbsalsaud" target="_blank">
-          <img src="screenshots/twitter_kbs.png" alt="Prince Khalid bin Salman" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/kbsalsaud" target="_blank">Prince Khalid bin Salman</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/FaisalbinFarhan" target="_blank">
-          <img src="screenshots/twitter_faisal.png" alt="Prince Faisal bin Farhan" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/FaisalbinFarhan" target="_blank">Prince Faisal bin Farhan</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/rbalsaud" target="_blank">
-          <img src="screenshots/twitter_reema.png" alt="Princess Reema" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/rbalsaud" target="_blank">Princess Reema</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/mohdsalj" target="_blank">
-          <img src="screenshots/twitter_aljabir.png" alt="Mohammed AlJabir" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/mohdsalj" target="_blank">Mohammed AlJabir</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/MOISaudiArabia" target="_blank">
-          <img src="screenshots/twitter_moi_saudi.png" alt="Saudi Interior Ministry" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/MOISaudiArabia" target="_blank">Saudi Interior Ministry</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/alekhbariyatv" target="_blank">
-          <img src="screenshots/twitter_alekhbariya.png" alt="Al Ekhbariya TV" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/alekhbariyatv" target="_blank">Al Ekhbariya TV</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/SaudiDCD" target="_blank">
-          <img src="screenshots/twitter_saudi_civil_defense.png" alt="Saudi Civil Defense" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/SaudiDCD" target="_blank">Saudi Civil Defense</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.wam.ae/ar/home/main" target="_blank">
-          <img src="screenshots/wam.png" alt="Emirates News Agency (WAM)" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.wam.ae/ar/home/main" target="_blank">Emirates News Agency (WAM)</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.mofa.gov.ae/MediaHub/News/" target="_blank">
-          <img src="screenshots/uae_mofa.png" alt="UAE MFA News" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.mofa.gov.ae/MediaHub/News/" target="_blank">UAE MFA News</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.aletihad.ae/" target="_blank">
-          <img src="screenshots/al_etihad.png" alt="Al-Etihad" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.aletihad.ae/" target="_blank">Al-Etihad</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/UAEmediaoffice" target="_blank">
-          <img src="screenshots/twitter_uae_media.png" alt="UAE Gov Media Office" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/UAEmediaoffice" target="_blank">UAE Gov Media Office</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/ABZayed" target="_blank">
-          <img src="screenshots/twitter_abzayed.png" alt="Sheikh Abdulla bin Zayed" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/ABZayed" target="_blank">Sheikh Abdulla bin Zayed</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/HHShkMohd" target="_blank">
-          <img src="screenshots/twitter_mbr.png" alt="Sheikh Mohammed bin Rashid" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/HHShkMohd" target="_blank">Sheikh Mohammed bin Rashid</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/AnwarGargash" target="_blank">
-          <img src="screenshots/twitter_gargash.png" alt="Anwar Gargash" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/AnwarGargash" target="_blank">Anwar Gargash</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/hhtbzayed" target="_blank">
-          <img src="screenshots/twitter_tbz.png" alt="Tahnoon bin Zayed" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/hhtbzayed" target="_blank">Tahnoon bin Zayed</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/modgovae" target="_blank">
-          <img src="screenshots/twitter_mod_uae.png" alt="UAE Defense Ministry" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/modgovae" target="_blank">UAE Defense Ministry</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/AfraMalHameli" target="_blank">
-          <img src="screenshots/twitter_afra.png" alt="Afra al-Hameli" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/AfraMalHameli" target="_blank">Afra al-Hameli</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/moiuae" target="_blank">
-          <img src="screenshots/twitter_moi_uae.png" alt="UAE Interior Ministry" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/moiuae" target="_blank">UAE Interior Ministry</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/DXBMediaOffice" target="_blank">
-          <img src="screenshots/twitter_dxb_media.png" alt="Dubai Media Office" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/DXBMediaOffice" target="_blank">Dubai Media Office</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/ADMediaOffice" target="_blank">
-          <img src="screenshots/twitter_ad_media.png" alt="Abu Dhabi Media Office" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/ADMediaOffice" target="_blank">Abu Dhabi Media Office</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.qna.org.qa/ar-QA/qatar" target="_blank">
-          <img src="screenshots/qatar_news_agency.png" alt="Qatar News Agency" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.qna.org.qa/ar-QA/qatar" target="_blank">Qatar News Agency</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://al-sharq.com/" target="_blank">
-          <img src="screenshots/al_sharq.png" alt="Al Sharq Newspaper" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://al-sharq.com/" target="_blank">Al Sharq Newspaper</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.aljazeera.net/" target="_blank">
-          <img src="screenshots/aljazeera_arabic.png" alt="Al Jazeera Arabic" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.aljazeera.net/" target="_blank">Al Jazeera Arabic</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/MBA_AlThani_" target="_blank">
-          <img src="screenshots/twitter_pm_qatar.png" alt="PM Al Thani" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/MBA_AlThani_" target="_blank">PM Al Thani</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/GCOQatar" target="_blank">
-          <img src="screenshots/twitter_gco_qatar.png" alt="Qatar GCO" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/GCOQatar" target="_blank">Qatar GCO</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/majedalansari" target="_blank">
-          <img src="screenshots/twitter_majed.png" alt="Majed Al Ansari" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/majedalansari" target="_blank">Majed Al Ansari</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.bna.bh/LatestNews.aspx" target="_blank">
-          <img src="screenshots/bahrain_news_agency.png" alt="Bahrain News Agency" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.bna.bh/LatestNews.aspx" target="_blank">Bahrain News Agency</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.alayam.com/online/local" target="_blank">
-          <img src="screenshots/al_ayam.png" alt="Al Ayam" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.alayam.com/online/local" target="_blank">Al Ayam</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://akhbar-alkhaleej.com/news/section/BNEW" target="_blank">
-          <img src="screenshots/akhbar_al_khaleej.png" alt="Akhbar Al Khaleej" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://akhbar-alkhaleej.com/news/section/BNEW" target="_blank">Akhbar Al Khaleej</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/bahdiplomatic" target="_blank">
-          <img src="screenshots/twitter_bahrain_mfa.png" alt="Bahrain MFA" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/bahdiplomatic" target="_blank">Bahrain MFA</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/moi_bahrain" target="_blank">
-          <img src="screenshots/twitter_bahrain_moi.png" alt="Bahrain Interior Ministry" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/moi_bahrain" target="_blank">Bahrain Interior Ministry</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.alanba.com.kw/" target="_blank">
-          <img src="screenshots/al_anba.png" alt="Al Anba" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.alanba.com.kw/" target="_blank">Al Anba</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.alqabas.com/" target="_blank">
-          <img src="screenshots/al_qabas.png" alt="Al Qabas" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.alqabas.com/" target="_blank">Al Qabas</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://omannews.gov.om/" target="_blank">
-          <img src="screenshots/oman_news_agency.png" alt="Oman News Agency" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://omannews.gov.om/" target="_blank">Oman News Agency</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://alroya.om/" target="_blank">
-          <img src="screenshots/al_roya.png" alt="Al Roya" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://alroya.om/" target="_blank">Al Roya</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/badralbusaidi" target="_blank">
-          <img src="screenshots/twitter_albusaidi.png" alt="Badr Albusaidi" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/badralbusaidi" target="_blank">Badr Albusaidi</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.sabanew.net/home/ar" target="_blank">
-          <img src="screenshots/saba_aden.png" alt="Saba News Agency (Aden/IRG)" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.sabanew.net/home/ar" target="_blank">Saba News Agency (Aden/IRG)</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/ERYANIM" target="_blank">
-          <img src="screenshots/twitter_eryani.png" alt="Mohammed Al-Eryani" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/ERYANIM" target="_blank">Mohammed Al-Eryani</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/AbuZar3a" target="_blank">
-          <img src="screenshots/twitter_abuzaraa.png" alt="Abu Zaraa" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/AbuZar3a" target="_blank">Abu Zaraa</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/tarikyemen" target="_blank">
-          <img src="screenshots/twitter_tarik_saleh.png" alt="Tarik Saleh" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/tarikyemen" target="_blank">Tarik Saleh</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.saba.ye/ar" target="_blank">
-          <img src="screenshots/saba_houthi.png" alt="Saba News Agency (Houthi)" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.saba.ye/ar" target="_blank">Saba News Agency (Houthi)</a>
-          <span style="color:#999">(ar)</span>
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/abdusalamsalah" target="_blank">
-          <img src="screenshots/twitter_abdulsalam.png" alt="Mohammed Abdulsalam" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/abdusalamsalah" target="_blank">Mohammed Abdulsalam</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/Moh_Alhouthi" target="_blank">
-          <img src="screenshots/twitter_mah.png" alt="Mohammed Ali Al Houthi" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/Moh_Alhouthi" target="_blank">Mohammed Ali Al Houthi</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/Nasr_Amer1" target="_blank">
-          <img src="screenshots/twitter_nasruddin.png" alt="Nasruddin Amer" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/Nasr_Amer1" target="_blank">Nasruddin Amer</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://stcaden.com/" target="_blank">
-          <img src="screenshots/stc_aden.png" alt="Southern Transitional Council" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://stcaden.com/" target="_blank">Southern Transitional Council</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/AmrAlBidh" target="_blank">
-          <img src="screenshots/twitter_amr_bidh.png" alt="Amr Bidh" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/AmrAlBidh" target="_blank">Amr Bidh</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/N_BinLasem" target="_blank">
-          <img src="screenshots/twitter_binlasem.png" alt="Nabeel Bin-Lasem" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/N_BinLasem" target="_blank">Nabeel Bin-Lasem</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://x.com/AidrosAlzubidi" target="_blank">
-          <img src="screenshots/twitter_zubaidi.png" alt="Aidarous al-Zubaidi" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://x.com/AidrosAlzubidi" target="_blank">Aidarous al-Zubaidi</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.ft.com/world/mideast" target="_blank">
-          <img src="screenshots/ft_mideast.png" alt="Financial Times" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.ft.com/world/mideast" target="_blank">Financial Times</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.wsj.com/news/types/middle-east-news" target="_blank">
-          <img src="screenshots/wsj_mideast.png" alt="Wall Street Journal" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.wsj.com/news/types/middle-east-news" target="_blank">Wall Street Journal</a>
-          
-        </div>
-      </div>
-      
-      <div class="screenshot-card">
-        <a href="https://www.economist.com/middle-east-and-africa" target="_blank">
-          <img src="screenshots/economist_mideast.png" alt="Economist Middle East" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="https://www.economist.com/middle-east-and-africa" target="_blank">Economist Middle East</a>
-          
-        </div>
-      </div>
-      
+    <h1>Gulf Wire</h1>
+    <div class="meta">
+      <span class="live">LIVE</span>
+      &middot; Updated <span id="updated">--</span>
+      &middot; <span id="item-count">0</span> items
     </div>
   </div>
-  
 
-  <div class="feedback-section" id="feedback-section" data-date="2026-04-20">
-    <div class="feedback-prompt">How was today's briefing?</div>
-    <div class="feedback-buttons" id="feedback-buttons">
-      <button class="feedback-btn" data-reaction="thumbsup" onclick="selectReaction(this)">&#x1F44D;</button>
-      <button class="feedback-btn" data-reaction="thumbsdown" onclick="selectReaction(this)">&#x1F44E;</button>
-    </div>
-    <textarea class="feedback-textarea" id="feedback-comment" placeholder="Optional: tell us more..." rows="3"></textarea>
-    <button class="feedback-submit" id="feedback-submit" onclick="submitFeedback()">Send</button>
-    <div class="feedback-thanks" id="feedback-thanks">Thanks for the feedback!</div>
+  <div class="controls">
+    <button class="chip active" data-country="all">All</button>
+    <button class="chip" data-country="Saudi Arabia">SA</button>
+    <button class="chip" data-country="UAE">UAE</button>
+    <button class="chip" data-country="Qatar">QA</button>
+    <button class="chip" data-country="Kuwait">KW</button>
+    <button class="chip" data-country="Bahrain">BH</button>
+    <button class="chip" data-country="Oman">OM</button>
+    <button class="chip" data-country="Yemen">YE</button>
+    <div class="separator"></div>
+    <button class="chip" data-country="Wire">Wire</button>
+    <button class="chip" data-country="Regional">Regional</button>
+    <div class="separator"></div>
+    <button class="chip active" data-type="all">All sources</button>
+    <button class="chip" data-type="news">News</button>
+    <button class="chip" data-type="twitter">X</button>
+    <div class="separator"></div>
+    <input type="text" class="keyword-input" id="keyword" placeholder="Keyword highlight...">
   </div>
 
-  <script>
-    // --- Feedback ---
-    var FEEDBACK_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev/feedback';
-    var selectedReaction = null;
+  <div class="feed" id="feed"></div>
+  <div class="stats-bar" id="stats"></div>
 
-    // Check if already submitted for this briefing date
-    (function() {
-      var dateKey = document.getElementById('feedback-section').dataset.date;
-      if (localStorage.getItem('feedback-sent-' + dateKey)) {
-        document.getElementById('feedback-buttons').style.display = 'none';
-        document.getElementById('feedback-prompt').style.display = 'none';
-        document.getElementById('feedback-thanks').style.display = 'block';
-        document.getElementById('feedback-thanks').textContent = 'Feedback sent — thank you!';
-      }
-    })();
+<script>
+  // ============================================
+  // STATE
+  // ============================================
 
-    function selectReaction(btn) {
-      document.querySelectorAll('.feedback-btn').forEach(function(b) { b.classList.remove('selected'); });
-      btn.classList.add('selected');
-      selectedReaction = btn.dataset.reaction;
+  let feedData = null;
+  let activeCountry = 'all';
+  let activeType = 'all';   // 'all' | 'news' | 'twitter'
+  let keyword = '';
+
+  // ============================================
+  // FETCH + RENDER
+  // ============================================
+
+  async function loadFeed() {
+    try {
+      const res = await window.fetch('feed.json?t=' + Date.now());
+      if (!res.ok) throw new Error('Feed not found');
+      feedData = await res.json();
+      document.getElementById('updated').textContent = timeAgo(new Date(feedData.updated));
+      document.getElementById('item-count').textContent = feedData.items.length;
+      render();
+    } catch (e) {
+      document.getElementById('feed').innerHTML =
+        '<div class="empty-state">No feed data yet. Run <code>node scrape-feed.js</code> to generate.</div>';
+    }
+  }
+
+  function render() {
+    if (!feedData || !feedData.items) return;
+
+    // Filter by country + source type (news vs twitter)
+    let items = feedData.items;
+    if (activeCountry !== 'all') {
+      items = items.filter(i => i.country === activeCountry);
+    }
+    if (activeType === 'twitter') {
+      items = items.filter(i => (i.category || '').includes('twitter'));
+    } else if (activeType === 'news') {
+      items = items.filter(i => !(i.category || '').includes('twitter'));
     }
 
-    async function submitFeedback() {
-      // Need either a reaction or a comment (or both)
-      var comment = document.getElementById('feedback-comment').value.trim();
-      if (!selectedReaction && !comment) return;
-      var dateKey = document.getElementById('feedback-section').dataset.date;
-      var submitBtn = document.getElementById('feedback-submit');
-      submitBtn.textContent = 'Sending...';
-      submitBtn.disabled = true;
+    // Group by time bucket
+    const now = Date.now();
+    const ONE_HOUR = 3600000;
+    const SIX_HOURS = 6 * ONE_HOUR;
 
-      try {
-        var res = await fetch(FEEDBACK_URL, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            reaction: selectedReaction || 'comment',
-            comment: comment || '',
-            briefingDate: dateKey
-          })
-        });
-        if (!res.ok) throw new Error('Server error');
+    const groups = [
+      { label: 'Last hour', items: [] },
+      { label: 'Last 6 hours', items: [] },
+      { label: 'Earlier', items: [] }
+    ];
 
-        // Success — hide form, show thanks, remember in localStorage
-        document.getElementById('feedback-buttons').style.display = 'none';
-        document.getElementById('feedback-comment').style.display = 'none';
-        document.getElementById('feedback-submit').style.display = 'none';
-        document.querySelector('.feedback-prompt').style.display = 'none';
-        document.getElementById('feedback-thanks').style.display = 'block';
-        localStorage.setItem('feedback-sent-' + dateKey, '1');
-      } catch (e) {
-        submitBtn.textContent = 'Error — try again';
-        submitBtn.disabled = false;
+    for (const item of items) {
+      const age = now - new Date(item.date).getTime();
+      if (age < ONE_HOUR) groups[0].items.push(item);
+      else if (age < SIX_HOURS) groups[1].items.push(item);
+      else groups[2].items.push(item);
+    }
+
+    let html = '';
+    for (const group of groups) {
+      if (group.items.length === 0) continue;
+      html += `<div class="time-group">${group.label} (${group.items.length})</div>`;
+      for (const item of group.items) {
+        html += renderItem(item);
       }
     }
-  </script>
+
+    if (html === '') {
+      html = '<div class="empty-state">No items match your filters.</div>';
+    }
+
+    document.getElementById('feed').innerHTML = html;
+
+    // Stats
+    const countries = {};
+    for (const item of feedData.items) {
+      countries[item.country] = (countries[item.country] || 0) + 1;
+    }
+    const statsText = Object.entries(countries)
+      .sort((a, b) => b[1] - a[1])
+      .map(([k, v]) => `${k}: ${v}`)
+      .join('  |  ');
+    document.getElementById('stats').textContent = statsText;
+  }
+
+  function renderItem(item) {
+    const d = new Date(item.date);
+    const time = d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false });
+
+    const countryClass = 'country-' + (item.country || 'other').toLowerCase().replace(/\s+/g, '-');
+    const countryLabel = item.country || '?';
+
+    // Keyword highlighting
+    let headline = escapeHtml(item.headline);
+    if (keyword) {
+      const re = new RegExp('(' + escapeRegex(keyword) + ')', 'gi');
+      headline = headline.replace(re, '<span class="highlight">$1</span>');
+    }
+
+    // Title attribute shows original Arabic if translated
+    const titleAttr = item.originalHeadline ? ` title="${escapeAttr(item.originalHeadline)}"` : '';
+
+    // Mark Twitter items with a small "𝕏" prefix so readers can tell at a glance.
+    const isTwitter = (item.category || '').includes('twitter');
+    const sourcePrefix = isTwitter ? '𝕏 ' : '';
+
+    return `<div class="item">
+      <span class="time">${time}</span>
+      <span class="country-badge ${countryClass}">${escapeHtml(countryLabel)}</span>
+      <span class="source-tag">${sourcePrefix}${escapeHtml(item.source)}</span>
+      <span class="headline"${titleAttr}><a href="${escapeAttr(item.url)}" target="_blank" rel="noopener">${headline}</a></span>
+    </div>`;
+  }
+
+  // ============================================
+  // UTILS
+  // ============================================
+
+  function timeAgo(date) {
+    const secs = Math.floor((Date.now() - date.getTime()) / 1000);
+    if (secs < 60) return 'just now';
+    if (secs < 3600) return Math.floor(secs / 60) + 'm ago';
+    if (secs < 86400) return Math.floor(secs / 3600) + 'h ago';
+    return Math.floor(secs / 86400) + 'd ago';
+  }
+
+  function escapeHtml(s) {
+    if (!s) return '';
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function escapeAttr(s) {
+    if (!s) return '';
+    return s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function escapeRegex(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  // ============================================
+  // EVENT HANDLERS
+  // ============================================
+
+  // Country filter chips
+  document.querySelectorAll('.chip[data-country]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.chip[data-country]').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      activeCountry = chip.dataset.country;
+      render();
+    });
+  });
+
+  // Source-type filter chips (All / News / X)
+  document.querySelectorAll('.chip[data-type]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.chip[data-type]').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      activeType = chip.dataset.type;
+      render();
+    });
+  });
+
+  // Keyword highlight
+  document.getElementById('keyword').addEventListener('input', (e) => {
+    keyword = e.target.value.trim();
+    render();
+  });
+
+  // ============================================
+  // INIT + AUTO-REFRESH
+  // ============================================
+
+  loadFeed();
+  setInterval(loadFeed, 60000); // Refresh every 60s
+</script>
+
 </body>
 </html>

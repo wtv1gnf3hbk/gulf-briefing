@@ -1,14 +1,12 @@
-# Generate Gulf Briefing daily at 6am GST (Gulf Standard Time)
-# Also runs on manual trigger for testing
+# Generate Gulf Briefing — manual-only since 2026-04-20 refactor.
+# The live site is now the Wire (index.html → feed.json); this workflow
+# produces the legacy conversational / bullets / WIB formats on demand.
+# See plan file: harmonic-leaping-trinket.md
 
 name: Generate Gulf Briefing
 
 on:
-  schedule:
-    # 6am GST = 02:00 UTC (GST is UTC+4)
-    - cron: '0 2 * * *'
-
-  # Manual trigger for testing
+  # Manual trigger only — no cron.
   workflow_dispatch:
 
 permissions:
@@ -46,23 +44,22 @@ jobs:
         run: node generate-briefing.js
 
       - name: Write all three styles
+        # write-briefing.js produces briefing.md + briefing.html each run.
+        # index.html is the live Wire — intentionally never touched here.
+        # add-nav.js is deprecated (it linked the three briefing pages together;
+        # no longer wired up from the live Wire) and is skipped.
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node write-briefing.js
           cp briefing.md conversational.md
-          cp index.html conversational.html
+          cp briefing.html conversational.html
           node write-briefing.js --style=bullets
           mv briefing.md bullets.md
-          mv index.html bullets.html
+          mv briefing.html bullets.html
           node write-briefing.js --style=wib
           mv briefing.md wib.md
-          mv index.html wib.html
-          cp conversational.md briefing.md
-          cp conversational.html index.html
-
-      - name: Add navigation bar to all styles
-        run: node add-nav.js
+          mv briefing.html wib.html
 
       - name: Commit and push
         run: |
@@ -75,7 +72,10 @@ jobs:
           git fetch origin main
           git reset --soft origin/main
 
-          git add briefing.json conversational.md conversational.html index.html bullets.md bullets.html wib.md wib.html screenshots/
+          # NOTE: index.html is the live Wire — do NOT re-commit it from here.
+          # Briefing outputs live in conversational.* / bullets.* / wib.* only.
+          # screenshots/ intentionally omitted (Vivian: not useful).
+          git add briefing.json conversational.md conversational.html bullets.md bullets.html wib.md wib.html
           git diff --staged --quiet || {
             git commit -m "Update Gulf briefing $(TZ=Asia/Dubai date +%Y-%m-%d)"
             git push origin main

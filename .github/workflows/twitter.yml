@@ -1,0 +1,57 @@
+name: Scrape Twitter
+
+# Playwright-based Twitter scraper for the live Wire.
+# Runs every 3 hours (vs. feed.yml's 15 min) because each run takes ~30 min
+# wall-clock for 33 handles and X rate-limits / blocks headless more aggressively
+# than RSS sources. Tweets merge into feed.json using URL-based dedup, same as
+# RSS items.
+#
+# See: generate-briefing.js --twitter-only mode, plan harmonic-leaping-trinket.md
+
+on:
+  schedule:
+    # Every 3 hours, offset 15 min so it doesn't collide with feed.yml (:00)
+    - cron: '15 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Share the write-main concurrency group with feed.yml + briefing.yml so only
+# one workflow pushes to origin/main at a time.
+concurrency:
+  group: write-main
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
+      - name: Scrape tweets into feed.json
+        run: node generate-briefing.js --twitter-only
+
+      - name: Commit feed.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Rebase onto latest remote before committing (feed.json is a full replacement)
+          git fetch origin main
+          git reset --soft origin/main
+
+          git add feed.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update tweets $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin main
