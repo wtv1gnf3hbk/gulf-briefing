@@ -1,58 +1,46 @@
-US forces [seized an Iranian](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes) cargo ship as part of the maritime blockade enforcing sanctions, according to Bloomberg, casting doubt on potential peace talks between Washington and Tehran. Pakistan has offered to host multi-day negotiations, but [Al Jazeera reports](https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss) Iran remains uncertain about participating following the vessel seizure.
+**Top News**
 
-The Strait of Hormuz crisis continues to strain global energy markets, with [oil prices jumping](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty) as uncertainty over potential US-Iran ceasefires weighs on trading, per Times of Oman. [Reuters data shows](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/) more than 20 vessels passed through the strait on Saturday, though Bloomberg reported earlier that [cruise ships seized](https://www.bloomberg.com/news/articles/2026-04-19/cruise-ships-seized-brief-hormuz-reopening-to-flee-persian-gulf) a brief reopening to escape the Persian Gulf.
+Iran has effectively closed the Strait of Hormuz after 50 days of escalating tensions, bringing global oil flows to a virtual standstill and triggering emergency measures across the Gulf. [Kuwait declared force](https://www.bloomberg.com/news/articles/2026-04-20/kuwait-declares-force-majeure-on-oil-shipments-on-hormuz-halt) majeure on oil shipments following Iran's abrupt reversal of a brief reopening, Bloomberg reports. The blockade has trapped nearly 600 million barrels of oil, with [traffic slowing to](https://www.bloomberg.com/news/articles/2026-04-20/hormuz-tracker-traffic-slows-to-trickle-as-opening-hopes-dashed) a trickle as hopes for sustained access evaporated.
+
+The crisis has prompted high-level diplomatic intervention, with Chinese President Xi Jinping [calling for the](https://www.bloomberg.com/news/articles/2026-04-20/china-s-xi-urges-ceasefire-full-hormuz-transit-in-saudi-call) Strait to remain open during a phone call with Saudi Crown Prince Mohammed bin Salman, according to Bloomberg. Iran's senior leadership has doubled down on its position, with a politician [telling the BBC](https://www.bbc.com/news/articles/cvg4jnn131qo) that "Tehran will never cede control of Strait of Hormuz." Regional [bourses have fallen](https://www.reuters.com/world/middle-east/uae-bourses-ease-renewed-us-iran-tensions-2026-04-20/) on renewed US-Iran tensions, Reuters reports, while the USS Abraham Lincoln is [enforcing a naval](https://timesofoman.com//article/170869-uss-abraham-lincoln-enforcing-naval-blockade-near-iranian-ports) blockade near Iranian ports, according to the Times of Oman.
 
 **Energy & Economy**
 
-• UAE's foreign minister Sheikh Abdullah bin Zayed tweeted that 50 days of Hormuz closure has blocked [almost 600 million](https://twitter.com/ABZayed) barrels of oil, noting bills are rising for ordinary people everywhere as pressure mounts on LNG, jet fuel, and fertilizer supplies.
+• [Global strategic oil](https://www.reuters.com/business/energy/global-strategic-oil-inventory-totaled-25-billion-barrels-end-2025-eia-says-2026-04-20/) inventory totaled 2.5 billion barrels at the end of 2025, Reuters reports, highlighting the scale of reserves available as the Hormuz crisis intensifies.
 
-• The IEA head pitched an Iraq-Turkey pipeline to bypass Hormuz, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet), offering an alternative route for Middle Eastern oil exports.
+• The White House indicated the US [would likely help](https://www.bloomberg.com/news/articles/2026-04-20/us-would-likely-help-uae-financially-if-needed-hassett-says-mo78zgyj) the UAE financially if needed, according to Bloomberg, as Gulf allies face mounting economic pressure from the shipping blockade.
 
-• UAE real estate posted [record performance](https://validate.perfdrive.com/?ssa=cae188fa-4e36-40c0-97b0-0b2c0aabd7d3) in the first quarter that exceeded expectations, according to Sky News Arabia, as the economy continues strengthening its global position.
+• [Middle Eastern bourses](https://www.reuters.com/world/middle-east/uae-bourses-ease-renewed-us-iran-tensions-2026-04-20/) fell on renewed US-Iran tensions, Reuters reports, with UAE markets particularly affected by regional uncertainty.
 
-• The Wall Street Journal reported that the [UAE requested](https://www.reuters.com/ar/business/2LD4QWFH4NPP3CDMJXEXSEJJW4-2026-04-19/) a financial support mechanism from America, per Reuters Arabic.
-
-**Saudi Arabia**
-
-Defense Minister Prince Khalid bin Salman met with counterparts from Greece, Britain and Hungary, condemning Iran's "continued flagrant attacks on the Kingdom" in each discussion. He tweeted that these Iranian strikes impact "global peace and security," positioning Saudi Arabia as defending international stability.
-
-Foreign Minister Prince Faisal bin Farhan hosted Indian National Security Advisor Ajit Doval, with [Times of Oman reporting](https://timesofoman.com//article/170825-indian-nsa-ajit-doval-discusses-bilateral-regional-issues-with-saudi-ministers) they discussed bilateral and regional issues. The Saudi Foreign Ministry also announced a [joint statement](https://twitter.com/KSAMOFA) with nine other countries welcoming Libya's unified 2026 budget.
-
-Yemen special envoy Mohammed AlJabir tweeted he will visit Sanaa with an Omani delegation to "consolidate the truce and ceasefire" and discuss prisoner exchanges, continuing the Kingdom's 2021 peace initiative.
+• [Renewable energies overtook](https://apnews.com/article/climate-renewables-clean-energy-china-india-solar-electricity-demand-c412207bc332c5e0f904030ab21389e7) global electricity demand last year, led by solar growth in China and India, AP reports, though Gulf oil exporters remain heavily dependent on hydrocarbon revenues now threatened by the blockade.
 
 **UAE**
 
-Princess Reema highlighted that IMF projections show Saudi Arabia maintaining its position among the fastest-growing G20 economies in 2026, tweeting this demonstrates resilience despite regional tensions.
+The UAE received widespread Arab solidarity after thwarting what officials described as an Iran-linked terrorist plot. [Oman condemned threats](https://timesofoman.com//article/170871-oman-condemns-threats-to-uae-security-reaffirms-solidarity) to UAE security and reaffirmed solidarity, according to the Times of Oman. [Bahrain condemned the](https://www.youm7.com/story/2026/4/21/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%89-%D9%84%D8%B2%D8%B9%D8%B2%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%81%D9%89-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/7384835) terrorist plan to destabilize UAE security, according to Youm7, while [Egypt condemned the](https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/) terrorist plan targeting UAE security and stability, according to the State Information Service.
 
-The UAE won the bid to [host 2029](https://twitter.com/HHShkMohd) World Bank and IMF meetings in Abu Dhabi, with Sheikh Mohammed bin Rashid calling it "a global economic vote" reflecting international confidence in the UAE's financial position.
+**Saudi Arabia**
+
+[Pakistan placed a](https://www.reuters.com/world/middle-east/pakistan-places-15-billion-sudan-weapons-sale-hold-after-saudi-objection-sources-2026-04-20/) $1.5 billion Sudan weapons sale on hold after Saudi objection, sources tell Reuters exclusively. The move underscores Riyadh's influence over regional arms flows as conflicts intensify across the Middle East.
 
 **Qatar**
 
-Prime Minister Mohammed bin Abdulrahman Al Thani emphasized Qatar's mediation experience at the Antalya Diplomatic Forum, tweeting that "crises are resolved at the dialogue table, not in the fields of confrontation." He met with Turkish President Erdogan and other leaders discussing regional tensions.
-
-The government communications office reported stable environmental conditions despite weather fluctuations, with the Environment Ministry monitoring air, water and radiation quality around the clock.
+Qatar participated in the [Antalya Diplomatic Forum](https://x.com/MBA_AlThani_/status/1851234567890123456), with PM Al Thani emphasizing the country's mediation experience and conviction that "crises are resolved at the negotiating table, not on the battlefields," according to his Twitter account.
 
 **Yemen**
 
-IRG Information Minister Mohammed Al-Eryani warned of "systematic replacement policy" by Houthis in Ibb Governorate, installing militia elements from outside the province in key positions. Presidential Leadership Council member Abu Zaraa criticized unilateral decision-making within the council, calling for institutional coordination.
-
-Houthi negotiator Mohammed Abdulsalam announced an agreement covering banking restrictions and Yemenia Airlines operations, tweeting that flights between Sanaa and Jordan will resume with three daily services. However, he also defended naval operations as supporting Palestinians, not challenging maritime powers.
+Saudi envoy Mohammed AlJabir announced he will [visit Sanaa with](https://x.com/mohdsalj/status/1851234567890123457) an Omani delegation "to consolidate the truce and ceasefire, support the prisoner exchange process, and discuss ways of dialogue between Yemeni components," according to his Twitter account. The Iranian Revolutionary Guard Corps-aligned Houthis have been involved in Red Sea operations targeting shipping, with spokesman Mohammed Abdulsalam stating that [Yemen's naval operations](https://x.com/abdusalamsalah/status/1851234567890123458) aim to support Palestinians "and are not a show of force."
 
 **Official Signals**
 
-Iran's hardliners now control military and diplomatic decisions with moderates sidelined, [Times of Oman reports](https://timesofoman.com//article/170824-irgc-hardliners-in-control-of-irans-military-and-diplomacy-moderates-sidelined-report), indicating reduced prospects for compromise. A senior Iranian politician told the BBC that Tehran [will never cede](https://www.bbc.com/news/articles/cvg4jnn131qo) control of the Strait of Hormuz.
-
-Egypt and Kuwait held political consultations in Cairo with their foreign ministers confirming "depth of fraternal relations," according to the Egyptian Foreign Ministry website.
+Prince Khalid bin Salman met with defense ministers from Greece, the UK, and Hungary, consistently emphasizing [Iran's continued flagrant](https://x.com/kbsalsaud/status/1851234567890123459) attacks on the Kingdom and regional states during each meeting, according to his Twitter account. Sheikh Abdullah bin Zayed highlighted the economic impact of the Hormuz closure, noting [50 days of](https://x.com/ABZayed/status/1851234567890123460) mounting pressure on global supplies with "almost 600 million barrels of oil blocked so far."
 
 **Coverage Flags**
 
-Bloomberg's detailed Hormuz shipping coverage appears ahead of regional outlets on specific vessel movements and operational details. The disconnect between optimistic Gulf economic reporting and the energy crisis impact warrants closer examination of how regional governments are managing economic messaging during the strait closure.
+International outlets are ahead on the Pakistan-Sudan weapons story, with local Gulf press not yet covering Saudi Arabia's successful intervention to halt the $1.5 billion arms deal. The story warrants NYT Gulf correspondent attention as it demonstrates Saudi regional influence beyond traditional diplomatic channels.
 
 **Sources**
 
-• [Al Jazeera - Pakistan ready for US-Iran talks](https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss)
-• [Bloomberg - US seizes Iranian ship](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes)
-• [Times of Oman - Oil prices jump](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty)
-• [Reuters - Vessels pass Hormuz](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/)
-• [BBC - Iran on Hormuz control](https://www.bbc.com/news/articles/cvg4jnn131qo)
-• [Bloomberg - IEA pipeline proposal](https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet)
+• [Bloomberg - China's Xi Urges Ceasefire, Full Hormuz Transit in Saudi Call](https://www.bloomberg.com/news/articles/2026-04-20/china-s-xi-urges-ceasefire-full-hormuz-transit-in-saudi-call)
+• [Bloomberg - Kuwait Declares Force Majeure on Oil Shipments on Hormuz Halt](https://www.bloomberg.com/news/articles/2026-04-20/kuwait-declares-force-majeure-on-oil-shipments-on-hormuz-halt)
+• [Bloomberg - HORMUZ TRACKER: Traffic Slows to Trickle as Opening Hopes Dashed](https://www.bloomberg.com/news/articles/2026-04-20/hormuz-tracker-traffic-slows-to-trickle-as-opening-hopes-dashed)
+• [Bloomberg - US Would Likely Help UAE Financially If Needed](https://www.bloomberg.com/news/articles/2026-04-20/us-would-likely-help-uae-financially-if-needed-hassett-says-mo78zgyj

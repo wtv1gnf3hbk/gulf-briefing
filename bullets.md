@@ -1,55 +1,47 @@
 **Top News**
 
-- US forces seized an Iranian cargo ship in the Arabian Gulf, casting doubt on potential peace talks between Washington and Tehran, Bloomberg [reports](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes).
-
-- Iran's IRGC hardliners took control of the country's military and diplomacy operations, sidelining moderates, according to Times [of Oman](https://timesofoman.com//article/170824-irgc-hardliners-in-control-of-irans-military-and-diplomacy-moderates-sidelined-report).
-
-- More than 20 vessels passed through the Strait of Hormuz on Saturday, Kpler data [shows](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/), according to Reuters.
-
-- Cruise ships seized a brief window of Hormuz reopening to flee the Persian Gulf, Bloomberg [reports](https://www.bloomberg.com/news/articles/2026-04-19/cruise-ships-seized-brief-hormuz-reopening-to-flee-persian-gulf).
-
-- Pakistan's Prime Minister spoke with Iran's President about multi-day US-Iran talks, though Tehran remained uncertain about joining, according to [Reuters](https://www.reuters.com/world/asia-pacific/pakistan-prime-minister-speaks-with-irans-president-2026-04-19/).
-
-- A senior Iranian politician told the BBC that Tehran will never cede control of the Strait of [Hormuz](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss).
+- Iran retaliated against US naval blockade enforcement by shutting down the Strait of Hormuz completely, halting all maritime traffic, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk).
+- Kuwait declared force majeure on oil shipments as the Hormuz closure enters its 50th day, with almost 600 million barrels blocked, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-20/kuwait-declares-force-majeure-on-oil-shipments-on-hormuz-halt).
+- China's Xi Jinping called Crown Prince Mohammed bin Salman urging the Strait of Hormuz remain open and pushing for regional ceasefires, [Reuters reports](https://www.reuters.com/world/china/chinas-xi-call-with-saudi-crown-prince-calls-strait-hormuz-remain-open-2026-04-20/).
+- Pakistan placed a $1.5 billion weapons sale to Sudan on hold after Saudi Arabia objected to the deal, [Reuters reports](https://www.reuters.com/world/middle-east/pakistan-places-15-billion-sudan-weapons-sale-hold-after-saudi-objection-sources-2026-04-20/).
+- Iran's senior politician told the BBC that Tehran will never cede control of the Strait of Hormuz, [according to the BBC](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss).
+- Multiple Gulf states condemned an alleged Iranian-linked terrorist plot against the UAE, with Arab solidarity statements issued across the region, [Sky News Arabia reports](https://validate.perfdrive.com/?ssa=1ff54679-fe3f-4f25-800d-b82566580675&ssb=34395298365&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fmiddle-east%2F1865256-%25D8%25AA%25D8%25B6%25D8%25A7%25D9%2585%25D9%2586-%25D8%25B9%25D8%25B1%25D8%25A8%25D9%258A-%25D8%25A7%25D9%2584%25D8%25A5%25D9%2585%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A5%25D8%25AD%25D8%25A8%25D8%25A7%25D8%25B7-%25D9%2585%25D8%25AE%25D8%25B7%25D8%25B7-%25D8%25A5%25D8%25B1%25D9%2587%25D8%25A7%25D8%25A8%25D9%258A-%25D8%25B5%25D9%2584%25D8%25A9-%25D8%25A8%25D8%25A5%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586&ssi=e7f113b6-cf43-45bc-9bfd-9e876c548fb0&ssk=botmanager_support@radware.com&ssm=28981060465204483109416611060565&ssn=55a2822330199ad7b91ae9b1507f115994d80a8150f1-5f8c-4ca0-804ad8&sso=9453e4a3-ba687c5f4259cdd7567689087fe921e8136b51426d493abf&ssp=23072897711776768529177674431287911&ssq=13543434700407542218947004463943443690325&ssr=MjAuNjIuMjA3LjI0NA==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMDMyMDY3ODg1LTNiZTgtNGUwYi1iMDA2LWFlNTFkZmY3NmQ2YTEtMTc3Njc0NzAwNDIyOTAtOGUzN2Q4OTY2M2E1Y2UwNTEwIiwiX191em1mIjoiN2Y5MDAwMGE4MTUwZjEtNWY4Yy00Y2EwLTg0YTMtYmE2ODdjNWY0MjU5MS0xNzc2NzQ3MDA0MjI5MC0wMDNjNzE5ZDQzNWE2ZDY1MjJkMTAifQ==).
 
 **Energy & Economy**
 
-- Oil prices jumped as markets shook following uncertainty about a US-Iran ceasefire, Times of Oman [reports](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty).
-
-- The International Energy Agency pitched an Iraq-Turkey pipeline to bypass Hormuz, according to Turkish newspaper [Hürriyet](https://www.bloomberg.com/news/articles/2026-04-19/iea-head-pitches-iraq-turkey-pipeline-to-bypass-hormuz-hurriyet), Bloomberg reports.
-
-- UAE real estate recorded performance that broke expectations in the first quarter, Sky News Arabia [reports](https://validate.perfdrive.com/?ssa=cae188fa-4e36-40c0-97b0-0b2c0aabd7d3&ssb=07880239143&ssc=https%3A%2F%2Fwww.snabusiness.com%2Farticle%2F1865103-%25D8%25B9%25D9%2582%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D9%2585%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A3%25D8%25AF%25D8%25A7%25D8%25A1-%25D9%2582%25D9%258A%25D8%25A7%25D8%25B3%25D9%258A-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A8%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A3%25D9%2588%25D9%2584-%25D9%258A%25D9%2583%25D8%25B3%25D8%25B1-%25D8%25AD%25D8%25A7%25D8%25AC%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25AA%25D9%2588%25D9%2582%25D8%25B9%25D8%25A7%25D8%25AA&ssi=45dd4bc5-ceyj-46e5-b687-bfbe8e97b9fe&ssk=botmanager_support@radware.com&ssm=96432082251099927106389886452484&ssn=620ccd18fd4b5d436e6fa624012c99ccfaf90cd5a6d3-49e0-44b3-800943&sso=7981d00b-4a8838b2bda78301e31169765597803edc02af60997c7415&ssp=78907353931776650623177669167963745&ssq=46801266905533387365569055217976798423962&ssr=MTMyLjE5Ni45NC4zMw==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/147.0.7727.15%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNuYWJ1c2luZXNzLmNvbSIsIl9fdXptZiI6IjdmOTAwMDBjZDVhNmQzLTQ5ZTAtNDRiMy04MDBiLTRhODgzOGIyYmRhNzEtMTc3NjY2OTA1NTE1MjAtMDAzNjJjMDQ1YjQ0YWQ5YTE1YTEwIiwidXpteCI6IjdmOTAwMDBmOTJjN2EwLTAxNjQtNDhkNi05OTZhLTk1NjNkMDY1OWM5ODEtMTc3NjY2OTA1NTE1MjAtY2YyMGQ3NGVmOTNhY2ZlMTEwIn0=).
+- Middle Eastern stock markets fell following renewed US-Iran tensions over Hormuz, [Reuters reports](https://www.reuters.com/world/middle-east/uae-bourses-ease-renewed-us-iran-tensions-2026-04-20/).
+- Global strategic oil inventory totaled 2.5 billion barrels at the end of 2025, [according to the EIA](https://www.reuters.com/business/energy/global-strategic-oil-inventory-totaled-25-billion-barrels-end-2025-eia-says-2026-04-20/).
+- Renewable energy sources overtook global electricity demand last year, led by solar growth in China and India, [AP reports](https://apnews.com/article/climate-renewables-clean-energy-china-india-solar-electricity-demand-c412207bc332c5e0f904030ab21389e7).
+- USS Abraham Lincoln enforced naval blockade near Iranian ports as Hormuz crisis escalated, [Times of Oman reports](https://timesofoman.com//article/170869-uss-abraham-lincoln-enforcing-naval-blockade-near-iranian-ports).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Indian National Security Advisor Ajit Doval held discussions with Saudi ministers about bilateral and regional issues, Times of Oman [reports](https://timesofoman.com//article/170825-indian-nsa-ajit-doval-discusses-bilateral-regional-issues-with-saudi-ministers).
+- Prince Khalid bin Salman condemned continued Iranian attacks on the Kingdom during meetings with Greek and British defense ministers, [according to his Twitter](https://twitter.com/kbsalsaud).
+- Foreign Minister Prince Faisal bin Farhan chaired an international conference in partnership with France on Palestinian statehood and the two-state solution, [he tweeted](https://twitter.com/FaisalbinFarhan).
+- Saudi Ambassador to Yemen Mohammed AlJabir announced he would visit Sanaa with an Omani delegation to consolidate ceasefire efforts, [he tweeted](https://twitter.com/mohdsalj).
 
 **UAE**
-- The UAE requested a financial support mechanism from America, the Wall Street Journal reports, according to [Reuters](https://www.reuters.com/ar/business/2LD4QWFH4NPP3CDMJXEXSEJJW4-2026-04-19/).
+- UAE Minister of State Anwar Gargash said the Emirates is "busy with the future" following regional threats, [he tweeted](https://twitter.com/AnwarGargash).
+- The US would likely provide financial assistance to the UAE if needed, White House economic advisor Kevin Hassett said, [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-04-20/us-would-likely-help-uae-financially-if-needed-hassett-says-mo78zgyj).
 
-**Kuwait**  
-- Kuwait and Egypt held political consultations in Cairo, confirming the depth of fraternal relations between the two countries, Egypt's Foreign Ministry [said](https://www.mfa.gov.eg/ar/Ministers/Details/MinisterActivities/4911).
+**Qatar**
+- Qatari Prime Minister Mohammed bin Abdulrahman Al Thani participated in the Antalya Diplomatic Forum emphasizing Qatar's mediation experience, [he tweeted](https://twitter.com/MBA_AlThani_).
+- The PM met with Sultan Haitham of Oman to discuss regional cooperation and diplomatic solutions, [he tweeted](https://twitter.com/MBA_AlThani_).
+
+**Bahrain**
+- Bahrain condemned the terrorist plot targeting UAE security and stability, its Foreign Ministry announced, [according to its Twitter](https://twitter.com/bahdiplomatic).
+
+**Oman**
+- Oman condemned threats to UAE security and reaffirmed solidarity with the Emirates, [Times of Oman reports](https://timesofoman.com//article/170871-oman-condemns-threats-to-uae-security-reaffirms-solidarity).
+- Foreign Minister Badr Albusaidi met with UK Deputy PM David Lammy to discuss regional developments and maritime security, [he tweeted](https://twitter.com/badralbusaidi).
 
 **Yemen**
-- Houthi forces announced an agreement covering bank decisions, Yemenia Airlines flights, and prisoner exchanges, Mohammed Abdulsalam [posted](https://twitter.com/abdusalamsalah).
-- The IRG warned against individual decisions within the Presidential Leadership Council, deputy Abu Zaraa [said](https://twitter.com/AbuZar3a).
+- IRG forces: Mohammed Al-Eryani announced completion of third batch pension disbursements for civil service employees, [he tweeted](https://twitter.com/ERYANIM).
+- Houthi/Ansar Allah: Mohammed Abdulsalam confirmed text of agreement on banking decisions and Yemenia Airlines resumption of flights, [he tweeted](https://twitter.com/abdusalamsalah).
+- Iraqi tanker captain continued sailing through regional war zones despite attack threats, [AP reports](https://apnews.com/article/oil-tanker-iraq-hormuz-a010fadac0a724b82b4994c896e2df62).
 
 **Official Signals**
 
-- Saudi Defense Minister Prince Khalid bin Salman met with defense ministers from Greece, Britain, and Hungary to discuss Iran's "flagrant attacks" on the Kingdom, he [posted](https://twitter.com/kbsalsaud).
-
-- UAE presidential adviser Sheikh Abdullah bin Zayed highlighted 50 days of Hormuz closure blocking 600 million barrels of oil, he [tweeted](https://twitter.com/ABZayed).
-
-**Coverage Flags**
-
-- Multiple Gulf outlets are following the Hormuz situation closely with real-time vessel tracking data becoming a key metric.
-
-**Sources**
-
-- [Bloomberg Gulf coverage](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes)
-- [Reuters Gulf reporting](https://www.reuters.com/world/china/more-than-20-vessels-pass-strait-hormuz-saturday-kpler-data-shows-2026-04-20/)
-- [Times of Oman regional coverage](https://timesofoman.com//article/170828-oil-prices-jump-markets-shake-amid-us-iran-ceasefire-uncertainty)
-- [BBC Middle East](https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss)
-- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-- [Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud)
+- Egypt's Foreign Ministry confirmed telephone consultations with counterparts in Oman, Pakistan and Turkey on regional developments and US-Iranian negotiations, [according to its website](https://www.mfa.gov.eg/ar/Ministers/Details/MinisterActivities/4920).
+- Multiple Arab states issued coordinated condemnations of the alleged Iranian terrorist plot against UAE, showing regional alignment against Tehran, [Youm7 reports](https://www.youm7.com/story/2026/4/21/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AF%D9%8A%D
