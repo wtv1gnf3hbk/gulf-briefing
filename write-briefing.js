@@ -4,7 +4,11 @@
  *
  * Reads briefing.json (scraped data) and calls Claude to produce:
  *   - briefing.md (markdown)
- *   - index.html (styled page with screenshots, refresh button, feedback)
+ *   - briefing.html (styled page with screenshots, refresh button, feedback)
+ *
+ * NOTE: Output is briefing.html, NOT index.html. index.html is the live Wire
+ * (Vivian 2026-04-20 refactor). briefing.yml renames briefing.html into
+ * conversational.html / bullets.html / wib.html per run.
  *
  * Supports 3 output styles via --style flag:
  *   conversational (default), bullets, wib
@@ -649,7 +653,7 @@ ${screenshots.map(s => `- ${s.name} (${s.language || 'en'}): screenshots/${s.fil
 TWITTER/X FEED CONTENT (translated where available):
 ${screenshots
   .filter(s => s.category?.includes('twitter') && s.tweets && s.tweets.length > 0)
-  .map(s => `**${s.name}** (@${s.url.split('/').pop()}):\n${s.tweets.map((t, i) => `  ${i + 1}. ${t}`).join('\n')}`)
+  .map(s => `**${s.name}** (@${s.url.split('/').pop()}):\n${s.tweets.map((t, i) => `  ${i + 1}. ${typeof t === 'string' ? t : t.text}`).join('\n')}`)
   .join('\n\n') || 'No tweet content extracted'}
 
 IMPORTANT: If a tweet from a minister, royal, or official account relates to a top story, cite it directly. These are primary sources, not social media commentary.
@@ -692,10 +696,10 @@ async function main() {
     fs.writeFileSync('briefing.md', briefingText);
     console.log('Saved briefing.md');
 
-    // Save HTML
+    // Save HTML — writes briefing.html (NOT index.html; index.html is the live Wire)
     const htmlContent = generateHTML(briefingText, briefing);
-    fs.writeFileSync('index.html', htmlContent);
-    console.log('Saved index.html');
+    fs.writeFileSync('briefing.html', htmlContent);
+    console.log('Saved briefing.html');
 
     console.log('');
     console.log('✅ Briefing written successfully');

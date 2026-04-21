@@ -6,8 +6,11 @@
  * Supports: rss, screenshot, twitter
  * Translates Arabic content to English via Google Translate API.
  *
- * Run: node generate-briefing.js
- * Output: briefing.json + screenshots/ folder
+ * Modes:
+ *   node generate-briefing.js                  Full daily briefing → briefing.json + screenshots/
+ *   node generate-briefing.js --twitter-only   Tweets-only, merge into feed.json (no briefing.json, no screenshots)
+ *
+ * The --twitter-only mode powers the live Wire via .github/workflows/twitter.yml.
  */
 
 const https = require('https');
@@ -21,6 +24,36 @@ const path = require('path');
 
 const CONFIG_PATH = './sources.json';
 const SCREENSHOTS_DIR = './screenshots';
+const FEED_PATH = './feed.json';
+const MAX_FEED_ITEMS = 300;  // bumped from scrape-feed.js:26 (200) to make room for tweets
+
+// CLI flag
+const TWITTER_ONLY = process.argv.slice(2).includes('--twitter-only');
+
+// Category → country label, mirrors scrape-feed.js:33-54. Duplicated rather than
+// factored out because both scripts are standalone entry points.
+const COUNTRY_MAP = {
+  saudi: 'Saudi Arabia',
+  saudi_twitter: 'Saudi Arabia',
+  uae: 'UAE',
+  uae_twitter: 'UAE',
+  qatar: 'Qatar',
+  qatar_twitter: 'Qatar',
+  bahrain: 'Bahrain',
+  bahrain_twitter: 'Bahrain',
+  kuwait: 'Kuwait',
+  oman: 'Oman',
+  oman_twitter: 'Oman',
+  yemen_irg: 'Yemen',
+  yemen_irg_twitter: 'Yemen',
+  yemen_houthi: 'Yemen',
+  yemen_houthi_twitter: 'Yemen',
+  yemen_stc: 'Yemen',
+  yemen_stc_twitter: 'Yemen',
+  wire: 'Wire',
+  competitors: 'Wire',
+  arabic_aggregate: 'Regional',
+};
 
 function loadConfig() {
   if (!fs.existsSync(CONFIG_PATH)) {
@@ -86,13 +119,14 @@ async function translateText(text, targetLang = 'en') {
 async function translateTweets(tweets) {
   if (!tweets || tweets.length === 0) return tweets;
 
+  // Input is an array of tweet objects: { text, timestamp, permalink }.
+  // We translate .text in place and stash the pre-translation text in .originalText.
   const translated = [];
   for (const tweet of tweets) {
-    // Check if tweet contains Arabic characters
-    const hasArabic = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/.test(tweet);
+    const hasArabic = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/.test(tweet.text);
     if (hasArabic) {
-      const translatedText = await translateText(tweet);
-      translated.push(translatedText);
+      const translatedText = await translateText(tweet.text);
+      translated.push({ ...tweet, text: translatedText, originalText: tweet.text });
     } else {
       translated.push(tweet);
     }
@@ -337,20 +371,33 @@ async function takeTwitterScreenshot(source) {
         await page.waitForTimeout(2000);
       }
 
-      // Extract tweet text
+      // Extract tweet text, timestamp, and permalink per article.
+      // Selectors verified against current X DOM (see smoke-test-selectors.js).
+      // - article[data-testid="tweet"]: one per tweet on the profile timeline
+      // - time[datetime]: ISO timestamp string
+      // - timeEl.closest('a[href*="/status/"]'): canonical permalink (the link
+      //   wrapping the timestamp), more reliable than a first-status-link match
+      //   which sometimes points at /photo/N or /analytics variants.
       tweets = await page.evaluate(() => {
-        const tweetElements = document.querySelectorAll('[data-testid="tweetText"]');
+        const articles = document.querySelectorAll('article[data-testid="tweet"]');
         const results = [];
-        tweetElements.forEach((el, i) => {
-          if (i < 5) {
-            const text = el.innerText?.trim();
-            if (text) results.push(text);
-          }
+        articles.forEach((art, i) => {
+          if (i >= 5) return;
+          const textEl = art.querySelector('[data-testid="tweetText"]');
+          const timeEl = art.querySelector('time[datetime]');
+          const linkEl = timeEl ? timeEl.closest('a[href*="/status/"]') : art.querySelector('a[href*="/status/"]');
+          const text = textEl?.innerText?.trim() || '';
+          const timestamp = timeEl?.getAttribute('datetime') || null;
+          const href = linkEl?.getAttribute('href') || '';
+          // Canonicalize permalink: strip /photo/N, /analytics, etc.
+          const match = href.match(/^\/[^/]+\/status\/\d+/);
+          const permalink = match ? `https://x.com${match[0]}` : null;
+          if (text) results.push({ text, timestamp, permalink });
         });
         return results;
       });
 
-      // Translate Arabic tweets
+      // Translate Arabic tweets (operates on objects; preserves .timestamp/.permalink)
       if (tweets.length > 0) {
         tweets = await translateTweets(tweets);
       }
@@ -533,6 +580,91 @@ async function scrapeAll(config) {
 }
 
 // ============================================
+// TWITTER-ONLY MODE
+// Scrape only Twitter sources and merge tweets into feed.json. Used by
+// .github/workflows/twitter.yml; keeps the live Wire fresh with ministry/royal
+// tweets without running the (expensive, infrequent) full daily briefing.
+// ============================================
+
+async function scrapeTwitterOnly(config) {
+  const sources = config.sources.filter(s => !s._comment && s.type === 'twitter');
+  console.log(`Scraping ${sources.length} Twitter sources...\n`);
+
+  const results = [];
+  for (const source of sources) {
+    const r = await takeTwitterScreenshot(source);
+    results.push(r);
+    const tweetCount = (r.tweets || []).length;
+    if (r.error) {
+      console.log(`  X ${source.name}: ${r.error}`);
+    } else {
+      console.log(`  OK ${source.name} (${tweetCount} tweets)`);
+    }
+  }
+  await closeBrowser();
+  return results;
+}
+
+// Convert Twitter-source results into feed.json item shape.
+// Same fields as scrape-feed.js items (headline/url/source/sourceId/category/
+// country/language/date/originalHeadline) so they render identically in the Wire.
+// Tweets without permalink+text are skipped — we'd rather drop them than pollute
+// feed.json with profile-URL duplicates that break URL-based dedup.
+function tweetsToFeedItems(results) {
+  const items = [];
+  for (const source of results) {
+    if (source.error || !source.tweets) continue;
+    for (const tweet of source.tweets) {
+      if (!tweet.permalink || !tweet.text) continue;
+      items.push({
+        headline: tweet.text.slice(0, 280),
+        url: tweet.permalink,
+        source: source.name,
+        sourceId: source.id,
+        category: source.category,
+        country: COUNTRY_MAP[source.category] || null,
+        language: source.language || 'en',
+        date: tweet.timestamp || new Date().toISOString(),
+        ...(tweet.originalText ? { originalHeadline: tweet.originalText.slice(0, 280) } : {}),
+      });
+    }
+  }
+  return items;
+}
+
+// Merge new tweet items into feed.json. Mirrors scrape-feed.js:428-459 —
+// URL-dedup, newest-first sort, cap at MAX_FEED_ITEMS.
+function mergeTweetsIntoFeed(newItems) {
+  let existing = [];
+  if (fs.existsSync(FEED_PATH)) {
+    try {
+      const prev = JSON.parse(fs.readFileSync(FEED_PATH, 'utf8'));
+      existing = prev.items || [];
+    } catch (e) { /* corrupted, start fresh */ }
+  }
+
+  const seen = new Set();
+  const merged = [];
+  for (const item of [...newItems, ...existing]) {
+    if (!seen.has(item.url)) {
+      seen.add(item.url);
+      merged.push(item);
+    }
+  }
+
+  merged.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const final = merged.slice(0, MAX_FEED_ITEMS);
+
+  const feed = {
+    updated: new Date().toISOString(),
+    itemCount: final.length,
+    items: final,
+  };
+  fs.writeFileSync(FEED_PATH, JSON.stringify(feed, null, 2));
+  return { added: newItems.length, total: final.length };
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -540,13 +672,26 @@ async function main() {
   const config = loadConfig();
 
   console.log('='.repeat(50));
-  console.log(`${config.metadata?.name || 'Gulf Briefing'}`);
+  console.log(`${config.metadata?.name || 'Gulf Briefing'}${TWITTER_ONLY ? ' (twitter-only)' : ''}`);
   console.log(`Owner: ${config.metadata?.owner || 'Unknown'}`);
   console.log(new Date().toISOString());
   console.log('='.repeat(50));
   console.log('');
 
   const startTime = Date.now();
+
+  // Twitter-only mode: scrape tweets, merge into feed.json, exit.
+  if (TWITTER_ONLY) {
+    const results = await scrapeTwitterOnly(config);
+    const items = tweetsToFeedItems(results);
+    const { added, total } = mergeTweetsIntoFeed(items);
+    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+    console.log(`\nAdded ${added} tweet items; feed.json now has ${total} items`);
+    console.log(`Time: ${elapsed}s`);
+    console.log('SUCCESS');
+    return;
+  }
+
   const results = await scrapeAll(config);
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
