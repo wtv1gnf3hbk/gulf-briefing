@@ -255,6 +255,8 @@
     <button class="chip" data-type="news">News</button>
     <button class="chip" data-type="twitter">X</button>
     <div class="separator"></div>
+    <button class="chip" data-state="only" title="Only state news agencies + official ministry accounts">State only</button>
+    <div class="separator"></div>
     <input type="text" class="keyword-input" id="keyword" placeholder="Keyword highlight...">
   </div>
 
@@ -269,7 +271,34 @@
   let feedData = null;
   let activeCountry = 'all';
   let activeType = 'all';   // 'all' | 'news' | 'twitter'
+  let activeState = false;  // when true, restrict to state news agencies + official ministry/gov accounts
   let keyword = '';
+
+  // Sources considered "state" — official press agencies and government / ministry
+  // channels. Excludes individual royals/ministers, state-funded-but-editorial
+  // outlets (Al Jazeera, Al Arabiya), and gray-area partnerships (Asharq News).
+  // Edit this list to tune the filter.
+  const STATE_SOURCE_IDS = new Set([
+    // Official press agencies (most are screenshot-only today; added for forward
+    // compatibility if RSS feeds get wired in).
+    'saudi_press_agency', 'wam', 'qatar_news_agency', 'bahrain_news_agency',
+    'kuna', 'oman_news_agency', 'saba_aden', 'saba_houthi',
+    'uae_mofa', 'alekhbariya',
+    // Ministry / government Twitter accounts
+    'twitter_ksamofa',            // Saudi MFA
+    'twitter_moi_saudi',          // Saudi Interior
+    'twitter_saudi_civil_defense',
+    'twitter_alekhbariya',        // Saudi state TV
+    'twitter_uae_media',          // UAE Gov Media Office
+    'twitter_mod_uae',            // UAE Defense
+    'twitter_moi_uae',            // UAE Interior
+    'twitter_dxb_media',          // Dubai Media Office
+    'twitter_ad_media',           // Abu Dhabi Media Office
+    'twitter_pm_qatar',
+    'twitter_gco_qatar',          // Qatar Gov Comms Office
+    'twitter_bahrain_mfa',
+    'twitter_bahrain_moi',
+  ]);
 
   // ============================================
   // FETCH + RENDER
@@ -292,7 +321,9 @@
   function render() {
     if (!feedData || !feedData.items) return;
 
-    // Filter by country + source type (news vs twitter)
+    // Filter by country + source type (news vs twitter) + state toggle.
+    // All three filters AND together so e.g. "SA + X + State only" narrows to
+    // Saudi ministry/royal tweets.
     let items = feedData.items;
     if (activeCountry !== 'all') {
       items = items.filter(i => i.country === activeCountry);
@@ -301,6 +332,9 @@
       items = items.filter(i => (i.category || '').includes('twitter'));
     } else if (activeType === 'news') {
       items = items.filter(i => !(i.category || '').includes('twitter'));
+    }
+    if (activeState) {
+      items = items.filter(i => STATE_SOURCE_IDS.has(i.sourceId));
     }
 
     // Group by time bucket
@@ -423,6 +457,15 @@
       document.querySelectorAll('.chip[data-type]').forEach(c => c.classList.remove('active'));
       chip.classList.add('active');
       activeType = chip.dataset.type;
+      render();
+    });
+  });
+
+  // State-only toggle chip — independent of the others; ANDs with existing filters.
+  document.querySelectorAll('.chip[data-state]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      activeState = !activeState;
+      chip.classList.toggle('active', activeState);
       render();
     });
   });
