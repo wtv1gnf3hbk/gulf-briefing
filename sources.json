@@ -150,6 +150,15 @@
       "notes": "Official Civil Defense authority"
     },
     {
+      "id": "twitter_spa_eng",
+      "name": "Saudi Press Agency",
+      "type": "twitter",
+      "url": "https://x.com/Spa_Eng",
+      "priority": "primary",
+      "category": "saudi_twitter",
+      "notes": "Official SPA English wire — state agency proxy (no working RSS)"
+    },
+    {
       "_comment": "=== UAE ==="
     },
     {
@@ -266,6 +275,15 @@
       "notes": "Official Dubai government media office"
     },
     {
+      "id": "twitter_wam_eng",
+      "name": "WAM (Emirates News Agency)",
+      "type": "twitter",
+      "url": "https://x.com/WAMNEWS_ENG",
+      "priority": "primary",
+      "category": "uae_twitter",
+      "notes": "Official WAM English wire — state agency proxy (no working RSS)"
+    },
+    {
       "id": "twitter_ad_media",
       "name": "Abu Dhabi Media Office",
       "type": "twitter",
@@ -333,6 +351,15 @@
       "notes": "Government Communications Office"
     },
     {
+      "id": "twitter_qna_eng",
+      "name": "Qatar News Agency",
+      "type": "twitter",
+      "url": "https://x.com/QNAEnglish",
+      "priority": "primary",
+      "category": "qatar_twitter",
+      "notes": "Official QNA English wire — state agency proxy (no working RSS)"
+    },
+    {
       "id": "twitter_majed",
       "name": "Majed Al Ansari",
       "type": "twitter",
@@ -377,6 +404,15 @@
       "url": "https://x.com/bahdiplomatic",
       "priority": "secondary",
       "category": "bahrain_twitter"
+    },
+    {
+      "id": "twitter_bna_en",
+      "name": "Bahrain News Agency",
+      "type": "twitter",
+      "url": "https://x.com/bna_en",
+      "priority": "primary",
+      "category": "bahrain_twitter",
+      "notes": "Official BNA English wire — state agency proxy (no working RSS)"
     },
     {
       "id": "twitter_bahrain_moi",
@@ -426,6 +462,15 @@
       "notes": "English-language Kuwaiti daily"
     },
     {
+      "id": "twitter_kuna_en",
+      "name": "Kuwait News Agency (KUNA)",
+      "type": "twitter",
+      "url": "https://x.com/kuna_en",
+      "priority": "primary",
+      "category": "kuwait_twitter",
+      "notes": "Official KUNA English wire — state agency proxy (no working RSS)"
+    },
+    {
       "_comment": "=== OMAN ==="
     },
     {
@@ -455,6 +500,15 @@
       "notes": "English-language Omani daily"
     },
     {
+      "id": "twitter_ona_eng",
+      "name": "Oman News Agency",
+      "type": "twitter",
+      "url": "https://x.com/ONA_eng",
+      "priority": "primary",
+      "category": "oman_twitter",
+      "notes": "Official ONA English wire — state agency proxy (no working RSS)"
+    },
+    {
       "id": "twitter_albusaidi",
       "name": "Badr Albusaidi",
       "type": "twitter",
@@ -475,6 +529,16 @@
       "category": "yemen_irg",
       "language": "ar",
       "notes": "Government-run from Aden"
+    },
+    {
+      "id": "twitter_saba_irg",
+      "name": "Saba News Agency (IRG)",
+      "type": "twitter",
+      "url": "https://x.com/sabanew_",
+      "priority": "primary",
+      "category": "yemen_irg_twitter",
+      "language": "ar",
+      "notes": "Official Saba (Aden/IRG) Twitter — state agency proxy (no working RSS)"
     },
     {
       "id": "twitter_eryani",

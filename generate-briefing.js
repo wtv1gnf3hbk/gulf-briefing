@@ -42,6 +42,7 @@ const COUNTRY_MAP = {
   bahrain: 'Bahrain',
   bahrain_twitter: 'Bahrain',
   kuwait: 'Kuwait',
+  kuwait_twitter: 'Kuwait',
   oman: 'Oman',
   oman_twitter: 'Oman',
   yemen_irg: 'Yemen',

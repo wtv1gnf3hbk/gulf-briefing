@@ -279,11 +279,19 @@
   // outlets (Al Jazeera, Al Arabiya), and gray-area partnerships (Asharq News).
   // Edit this list to tune the filter.
   const STATE_SOURCE_IDS = new Set([
-    // Official press agencies (most are screenshot-only today; added for forward
-    // compatibility if RSS feeds get wired in).
+    // Official press agencies — screenshot sources (don't generate feed items today,
+    // listed for forward compat) plus their Twitter proxies (state agencies have
+    // no working RSS, so we use their official English Twitter feeds).
     'saudi_press_agency', 'wam', 'qatar_news_agency', 'bahrain_news_agency',
     'kuna', 'oman_news_agency', 'saba_aden', 'saba_houthi',
     'uae_mofa', 'alekhbariya',
+    'twitter_spa_eng',            // Saudi Press Agency (English)
+    'twitter_wam_eng',            // WAM Emirates
+    'twitter_qna_eng',            // Qatar News Agency
+    'twitter_bna_en',             // Bahrain News Agency
+    'twitter_kuna_en',            // Kuwait News Agency
+    'twitter_ona_eng',            // Oman News Agency
+    'twitter_saba_irg',           // Saba (IRG) Yemen
     // Ministry / government Twitter accounts
     'twitter_ksamofa',            // Saudi MFA
     'twitter_moi_saudi',          // Saudi Interior
