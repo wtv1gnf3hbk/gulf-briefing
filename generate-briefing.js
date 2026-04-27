@@ -357,27 +357,21 @@ async function takeTwitterScreenshot(source) {
     // Wait for tweets to render
     await page.waitForTimeout(5000);
 
-    // Try to click translate buttons for Arabic tweets
+    // Extract tweet text, timestamp, and permalink per article.
+    // Selectors verified against current X DOM:
+    // - article[data-testid="tweet"]: one per tweet on the profile timeline
+    // - time[datetime]: ISO timestamp string
+    // - timeEl.closest('a[href*="/status/"]'): canonical permalink (the link
+    //   wrapping the timestamp), more reliable than a first-status-link match
+    //   which sometimes points at /photo/N or /analytics variants.
+    //
+    // IMPORTANT: do NOT click X's native "Translate post" button before this
+    // step. Doing so re-renders the article and pulls <time> out of its parent
+    // <a> link, which makes timeEl.closest() return null and silently drops
+    // the permalink — which then drops the tweet entirely in tweetsToFeedItems.
+    // Translation happens via Google Translate API in translateTweets() below.
     let tweets = [];
     try {
-      const translateButtons = await page.locator('button:has-text("Translate"), span:has-text("Translate post")').all();
-      for (const btn of translateButtons.slice(0, 5)) {
-        try {
-          await btn.click({ timeout: 2000 });
-        } catch (e) { /* continue */ }
-      }
-
-      if (translateButtons.length > 0) {
-        await page.waitForTimeout(2000);
-      }
-
-      // Extract tweet text, timestamp, and permalink per article.
-      // Selectors verified against current X DOM (see smoke-test-selectors.js).
-      // - article[data-testid="tweet"]: one per tweet on the profile timeline
-      // - time[datetime]: ISO timestamp string
-      // - timeEl.closest('a[href*="/status/"]'): canonical permalink (the link
-      //   wrapping the timestamp), more reliable than a first-status-link match
-      //   which sometimes points at /photo/N or /analytics variants.
       tweets = await page.evaluate(() => {
         const articles = document.querySelectorAll('article[data-testid="tweet"]');
         const results = [];
@@ -389,9 +383,10 @@ async function takeTwitterScreenshot(source) {
           const text = textEl?.innerText?.trim() || '';
           const timestamp = timeEl?.getAttribute('datetime') || null;
           const href = linkEl?.getAttribute('href') || '';
-          // Canonicalize permalink: strip /photo/N, /analytics, etc.
-          const match = href.match(/^\/[^/]+\/status\/\d+/);
-          const permalink = match ? `https://x.com${match[0]}` : null;
+          // Match relative ("/handle/status/123") OR absolute ("https://x.com/handle/status/123")
+          // and canonicalize: strip /photo/N, /analytics, etc.
+          const match = href.match(/(?:https?:\/\/x\.com)?(\/[^/]+\/status\/\d+)/);
+          const permalink = match ? `https://x.com${match[1]}` : null;
           if (text) results.push({ text, timestamp, permalink });
         });
         return results;
