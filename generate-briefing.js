@@ -608,8 +608,14 @@ async function scrapeTwitterOnly(config) {
 // feed.json with profile-URL duplicates that break URL-based dedup.
 function tweetsToFeedItems(results) {
   const items = [];
+  // Sanity check: track per-source drops. Catches the bug class where extraction
+  // succeeds (workflow log says "OK 5 tweets") but every tweet gets filtered
+  // out for missing permalink/text — which is what the 2026-04-27 outage was.
+  const drops = [];
   for (const source of results) {
     if (source.error || !source.tweets) continue;
+    const extracted = source.tweets.length;
+    const before = items.length;
     for (const tweet of source.tweets) {
       if (!tweet.permalink || !tweet.text) continue;
       items.push({
@@ -624,6 +630,14 @@ function tweetsToFeedItems(results) {
         ...(tweet.originalText ? { originalHeadline: tweet.originalText.slice(0, 280) } : {}),
       });
     }
+    const merged = items.length - before;
+    if (extracted > 0 && merged === 0) {
+      drops.push(`${source.name} (${source.id}): extracted ${extracted}, merged 0 — likely missing permalinks`);
+    }
+  }
+  if (drops.length > 0) {
+    console.log(`\n!! WARNING: ${drops.length} source(s) had all tweets dropped:`);
+    for (const d of drops) console.log(`     ${d}`);
   }
   return items;
 }
@@ -682,7 +696,17 @@ async function main() {
     const items = tweetsToFeedItems(results);
     const { added, total } = mergeTweetsIntoFeed(items);
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+
+    // Coverage sanity check: how many handles successfully produced feed items?
+    const attempted = results.filter(r => !r.error).length;
+    const producing = new Set(items.map(i => i.sourceId)).size;
+    const ratio = attempted > 0 ? producing / attempted : 0;
     console.log(`\nAdded ${added} tweet items; feed.json now has ${total} items`);
+    console.log(`Coverage: ${producing}/${attempted} handles produced items (${(ratio*100).toFixed(0)}%)`);
+    if (attempted >= 10 && ratio < 0.5) {
+      console.log(`!! WARNING: less than half of attempted handles produced feed items.`);
+      console.log(`   Likely causes: X selector regression, login wall, or rate limiting.`);
+    }
     console.log(`Time: ${elapsed}s`);
     console.log('SUCCESS');
     return;
