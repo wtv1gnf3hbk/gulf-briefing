@@ -18,6 +18,11 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
+// Shared briefing-toolkit twitter scraper. Centralizes the X.com scraping
+// logic so bug fixes (e.g. the 2026-04-27 translate-click outage) apply
+// everywhere we use it. See lib/scrape-twitter.js header for the full API.
+const { runTwitterOnly } = require('./lib/scrape-twitter');
+
 // ============================================
 // CONFIGURATION
 // ============================================
@@ -577,102 +582,11 @@ async function scrapeAll(config) {
 
 // ============================================
 // TWITTER-ONLY MODE
-// Scrape only Twitter sources and merge tweets into feed.json. Used by
-// .github/workflows/twitter.yml; keeps the live Wire fresh with ministry/royal
-// tweets without running the (expensive, infrequent) full daily briefing.
+// Twitter scraping is delegated to lib/scrape-twitter.js (shared briefing
+// toolkit). The TWITTER_ONLY branch in main() calls runTwitterOnly() with
+// this briefing's COUNTRY_MAP + feed config. See lib/scrape-twitter.js
+// header for the full API and hard-won lessons.
 // ============================================
-
-async function scrapeTwitterOnly(config) {
-  const sources = config.sources.filter(s => !s._comment && s.type === 'twitter');
-  console.log(`Scraping ${sources.length} Twitter sources...\n`);
-
-  const results = [];
-  for (const source of sources) {
-    const r = await takeTwitterScreenshot(source);
-    results.push(r);
-    const tweetCount = (r.tweets || []).length;
-    if (r.error) {
-      console.log(`  X ${source.name}: ${r.error}`);
-    } else {
-      console.log(`  OK ${source.name} (${tweetCount} tweets)`);
-    }
-  }
-  await closeBrowser();
-  return results;
-}
-
-// Convert Twitter-source results into feed.json item shape.
-// Same fields as scrape-feed.js items (headline/url/source/sourceId/category/
-// country/language/date/originalHeadline) so they render identically in the Wire.
-// Tweets without permalink+text are skipped — we'd rather drop them than pollute
-// feed.json with profile-URL duplicates that break URL-based dedup.
-function tweetsToFeedItems(results) {
-  const items = [];
-  // Sanity check: track per-source drops. Catches the bug class where extraction
-  // succeeds (workflow log says "OK 5 tweets") but every tweet gets filtered
-  // out for missing permalink/text — which is what the 2026-04-27 outage was.
-  const drops = [];
-  for (const source of results) {
-    if (source.error || !source.tweets) continue;
-    const extracted = source.tweets.length;
-    const before = items.length;
-    for (const tweet of source.tweets) {
-      if (!tweet.permalink || !tweet.text) continue;
-      items.push({
-        headline: tweet.text.slice(0, 280),
-        url: tweet.permalink,
-        source: source.name,
-        sourceId: source.id,
-        category: source.category,
-        country: COUNTRY_MAP[source.category] || null,
-        language: source.language || 'en',
-        date: tweet.timestamp || new Date().toISOString(),
-        ...(tweet.originalText ? { originalHeadline: tweet.originalText.slice(0, 280) } : {}),
-      });
-    }
-    const merged = items.length - before;
-    if (extracted > 0 && merged === 0) {
-      drops.push(`${source.name} (${source.id}): extracted ${extracted}, merged 0 — likely missing permalinks`);
-    }
-  }
-  if (drops.length > 0) {
-    console.log(`\n!! WARNING: ${drops.length} source(s) had all tweets dropped:`);
-    for (const d of drops) console.log(`     ${d}`);
-  }
-  return items;
-}
-
-// Merge new tweet items into feed.json. Mirrors scrape-feed.js:428-459 —
-// URL-dedup, newest-first sort, cap at MAX_FEED_ITEMS.
-function mergeTweetsIntoFeed(newItems) {
-  let existing = [];
-  if (fs.existsSync(FEED_PATH)) {
-    try {
-      const prev = JSON.parse(fs.readFileSync(FEED_PATH, 'utf8'));
-      existing = prev.items || [];
-    } catch (e) { /* corrupted, start fresh */ }
-  }
-
-  const seen = new Set();
-  const merged = [];
-  for (const item of [...newItems, ...existing]) {
-    if (!seen.has(item.url)) {
-      seen.add(item.url);
-      merged.push(item);
-    }
-  }
-
-  merged.sort((a, b) => new Date(b.date) - new Date(a.date));
-  const final = merged.slice(0, MAX_FEED_ITEMS);
-
-  const feed = {
-    updated: new Date().toISOString(),
-    itemCount: final.length,
-    items: final,
-  };
-  fs.writeFileSync(FEED_PATH, JSON.stringify(feed, null, 2));
-  return { added: newItems.length, total: final.length };
-}
 
 // ============================================
 // MAIN
@@ -690,24 +604,18 @@ async function main() {
 
   const startTime = Date.now();
 
-  // Twitter-only mode: scrape tweets, merge into feed.json, exit.
+  // Twitter-only mode: delegate to the shared briefing-toolkit module.
+  // Scrapes only twitter sources, merges into feed.json, exits. All scraping
+  // mechanics (login wall, syndication fallback, pinned skip, translation,
+  // sanity warnings) live in lib/scrape-twitter.js.
   if (TWITTER_ONLY) {
-    const results = await scrapeTwitterOnly(config);
-    const items = tweetsToFeedItems(results);
-    const { added, total } = mergeTweetsIntoFeed(items);
-    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-
-    // Coverage sanity check: how many handles successfully produced feed items?
-    const attempted = results.filter(r => !r.error).length;
-    const producing = new Set(items.map(i => i.sourceId)).size;
-    const ratio = attempted > 0 ? producing / attempted : 0;
-    console.log(`\nAdded ${added} tweet items; feed.json now has ${total} items`);
-    console.log(`Coverage: ${producing}/${attempted} handles produced items (${(ratio*100).toFixed(0)}%)`);
-    if (attempted >= 10 && ratio < 0.5) {
-      console.log(`!! WARNING: less than half of attempted handles produced feed items.`);
-      console.log(`   Likely causes: X selector regression, login wall, or rate limiting.`);
-    }
-    console.log(`Time: ${elapsed}s`);
+    const sources = config.sources.filter(s => !s._comment && s.type === 'twitter');
+    await runTwitterOnly({
+      sources,
+      countryMap: COUNTRY_MAP,
+      feedPath: FEED_PATH,
+      maxItems: MAX_FEED_ITEMS,
+    });
     console.log('SUCCESS');
     return;
   }
