@@ -24,7 +24,7 @@ describe('sources.json', () => {
       assert.ok(source.id, `Source missing id: ${JSON.stringify(source)}`);
       assert.ok(source.name, `Source ${source.id} missing name`);
       assert.ok(source.type, `Source ${source.id} missing type`);
-      assert.ok(['rss', 'screenshot', 'twitter'].includes(source.type),
+      assert.ok(['rss', 'screenshot', 'twitter', 'spa_api'].includes(source.type),
         `Source ${source.id} has invalid type: ${source.type}`);
       assert.ok(source.url, `Source ${source.id} missing url`);
       assert.ok(source.priority, `Source ${source.id} missing priority`);

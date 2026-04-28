@@ -392,6 +392,48 @@ async function fetchGdelt() {
 }
 
 // ============================================
+// SPA JSON API (Saudi Press Agency)
+// SPA's site has no working RSS, but its frontend hits a public JSON API at
+// portalapi.spa.gov.sa. Each item has title/sharable_link/published_at and we
+// shape those into feed.json items. Pulls Arabic content (more complete than
+// English); translation happens in the main loop's existing translateText pass.
+//
+// Per-source config: source.categories = [1, 2, 3, 17] etc. — see
+// /api/v1/categories?l=en for the full list.
+// ============================================
+
+async function fetchSpaApi(source) {
+  const items = [];
+  const categories = source.categories || [1];
+  for (const catId of categories) {
+    const apiUrl = `${source.url}?per_page=10&category_id=${catId}&l=ar`;
+    try {
+      const res = await fetch(apiUrl, { headers: { 'Accept': 'application/json' } });
+      const data = JSON.parse(res);
+      for (const apiItem of (data.data || [])) {
+        // sharable_link comes back without protocol, e.g. "www.spa.gov.sa/N123?..."
+        let url = apiItem.sharable_link || '';
+        if (!url) continue;
+        if (!url.startsWith('http')) url = `https://${url}`;
+        items.push({
+          headline: (apiItem.title || '').trim(),
+          url,
+          source: source.name,
+          sourceId: source.id,
+          category: source.category || 'saudi',
+          country: COUNTRY_MAP[source.category] || 'Saudi Arabia',
+          language: source.language || 'ar',
+          date: apiItem.published_at ? new Date(apiItem.published_at * 1000).toISOString() : new Date().toISOString(),
+        });
+      }
+    } catch (e) {
+      console.log(`  X  ${source.name} cat=${catId}: ${e.message}`);
+    }
+  }
+  return items;
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -426,6 +468,20 @@ async function main() {
   const gdeltItems = await fetchGdelt();
   allItems.push(...gdeltItems);
   console.log(`GDELT items: ${gdeltItems.length}`);
+
+  // ---- Tier 3: SPA JSON API ----
+  // State news agency direct API. Currently only SPA; pattern can extend to
+  // other agencies if/when their APIs are discovered.
+  const spaSources = config.sources.filter(s => s.type === 'spa_api' && !s._comment);
+  if (spaSources.length > 0) {
+    console.log('\nFetching SPA API...');
+    for (const source of spaSources) {
+      const items = await fetchSpaApi(source);
+      console.log(`  OK ${source.name}: ${items.length} items across ${(source.categories || [1]).length} categories`);
+      allItems.push(...items);
+    }
+  }
+
   console.log(`Total raw items: ${allItems.length}`);
 
   // ---- Translate Arabic headlines ----

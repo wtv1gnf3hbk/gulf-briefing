@@ -19,6 +19,17 @@
       "language": "ar"
     },
     {
+      "id": "spa_api",
+      "name": "Saudi Press Agency",
+      "type": "spa_api",
+      "url": "https://portalapi.spa.gov.sa/api/v1/news",
+      "priority": "primary",
+      "category": "saudi",
+      "language": "ar",
+      "categories": [1, 2, 3, 17],
+      "notes": "Public JSON API (categories: General, Political, Economic, Environment). More complete than @Spa_Eng Twitter, posts content not on Twitter."
+    },
+    {
       "id": "alarabiya",
       "name": "Al Arabiya",
       "type": "rss",
@@ -150,13 +161,24 @@
       "notes": "Official Civil Defense authority"
     },
     {
-      "id": "twitter_spa_eng",
-      "name": "Saudi Press Agency",
+      "id": "twitter_spagov",
+      "name": "Saudi Press Agency (Arabic)",
       "type": "twitter",
-      "url": "https://x.com/Spa_Eng",
+      "url": "https://x.com/spagov",
       "priority": "primary",
       "category": "saudi_twitter",
-      "notes": "Official SPA English wire — state agency proxy (no working RSS)"
+      "language": "ar",
+      "notes": "SPA's main Arabic Twitter. More complete + faster than @Spa_Eng (which lags by hours)."
+    },
+    {
+      "id": "twitter_spa_regions",
+      "name": "Saudi Press Agency (Regions)",
+      "type": "twitter",
+      "url": "https://x.com/SPAregions",
+      "priority": "secondary",
+      "category": "saudi_twitter",
+      "language": "ar",
+      "notes": "SPA regional bureaus — posts content not on @spagov main account."
     },
     {
       "_comment": "=== UAE ==="
