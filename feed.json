@@ -1,7 +1,433 @@
 {
-  "updated": "2026-04-28T13:09:38.089Z",
+  "updated": "2026-04-28T15:37:31.125Z",
   "itemCount": 200,
   "items": [
+    {
+      "headline": "United Arab Emirates to quit oil cartel Opec",
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T15:25:17.000Z"
+    },
+    {
+      "headline": "SAMA Licenses 'Tak Mal for Financing' Company to Engage in Consumer Microfinance Activity",
+      "url": "https://www.spa.gov.sa/en/N2573342?type=news&uuid=N2573342",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T15:16:58.000Z"
+    },
+    {
+      "headline": "Belarus eyes Western ties as it frees journalist Andrzej Poczobut",
+      "url": "https://www.aljazeera.com/news/2026/4/28/belarus-eyes-western-ties-as-it-frees-journalist-andrzej-poczobut?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T15:03:29.000Z"
+    },
+    {
+      "headline": "UAE leaves OPEC in major blow to global oil producers' group - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWEyNjA0NWVRbFNPSGE2Vzd2NGlWcXlvcU44RTdmOVBiMlQwR09xVC1ibkdCREI1QkVORmNaR2Y3VEZOanB4ZjA5TWhCMmpnaUg5UmRwMU1KLXRJTVNoN3ZuQW13aUpiUGdEVzRUbkgwRXRFNEtDMHltS0VoQk56VWFsbTB1V0FROHhDNG11WmtfSjZyekg3WA?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T15:00:04.000Z"
+    },
+    {
+      "headline": "IMFC Deputy Chair Participates in 2026 ECOSOC Forum on Financing for Development",
+      "url": "https://www.spa.gov.sa/en/N2573330?type=news&uuid=N2573330",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T14:58:16.000Z"
+    },
+    {
+      "headline": "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T14:55:47.000Z"
+    },
+    {
+      "headline": "Is Egypt threatening Israel through its military exercises on the border?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T14:50:54.000Z"
+    },
+    {
+      "headline": "stc Group Achieves 12% Net Profit Growth in Q1 2026",
+      "url": "https://www.spa.gov.sa/en/N2573323?type=news&uuid=N2573323",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T14:50:41.000Z"
+    },
+    {
+      "headline": "United Arab Emirates says it will leave OPEC in a blow to the oil cartel - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkRnVTlZMUhRaEl2QnlWWDU0eW4xYzFteWdmRVJlaFNweTRkSElodlp1QlJmMzZncXRKQkFnSnUtSTQ5RVVfRXdqT09rQjE5dEluTUpjc0hZMUNPall0T212U1ItMUhpTk5oOU9PWDV5R0p3aEN3bDJKNlhxLUZ3aFB4YW9EMzE2NzkzYURxbkRyUGp2dVVWWlFqalVJYTFIdUE?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T14:50:00.000Z"
+    },
+    {
+      "headline": "After 6 decades...the UAE withdraws from OPEC - East Economy with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQcE9ZVU9HbU8tOFo5MVZWR09WMVVVdDVmRlBGX0xTVl9DRE4taXVZZlZfX2h0ajZhS3MxYjg5RTk1azdEcEM2NVNKNXNHN1NBTWpULWc1WEZzRnlLak9ESmE0d0o2VmcteXFQMHBGcUlENWtjNnR5My1pZGRDYm56MzZaMEhVMjM3NGozakNQZVVmcExLQmxYTVFNOGpBWk92OVVvWWRWZ2JuTjk1QllLbjVoTG05bHNvX2xxTjBJNk1GaG5Wcm9USnBYX2Q4SVRVOTg4LU5lYVphemFEUW5RcWJUekdaNWhjck5Rc1JQYnUySUdlVlAzeW00aFFEdEZUVFliUkJpSkxpRDJKaVJTdndPY3k3aTJfa25wTUNKQW12QXdNMWdrYlpHd1o?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T14:41:24.000Z",
+      "originalHeadline": "بعد 6 عقود.. الإمارات تنسحب من \"أوبك\" - اقتصاد الشرق مع بلومبرغ"
+    },
+    {
+      "headline": "What is the Azawad Liberation Front, part of the Mali attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/what-is-the-azawad-liberation-front-part-of-the-mali-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T14:40:06.000Z"
+    },
+    {
+      "headline": "The Divide in US-Iran Diplomacy Then and Now - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd05uUDQ2QlNYckdZRlNKZ1FYUy1Md0Q2WmJ2RzZQcGcweTR4NEVhZ1VjWktqV3QycER2WkY5Ti1PbjFmSFpYQlp3YVItN3pJRV85Z2FhU3VtQk1RMFRhal9INXRBd2NRYkplNmhQcjgxeEdQZ1VvTExLUUl5WS1lTGVITGpoTUEwWlJybkVhalZkSjEzbEhIbS1PdkN2S2xGZU9VLVBsQXg?oc=5",
+      "source": "Bloomberg Gulf",
+      "sourceId": "bloomberg_gulf",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T14:33:14.000Z"
+    },
+    {
+      "headline": "The cost of 76 years of US wars, from Korea to Iran",
+      "url": "https://www.aljazeera.com/news/2026/4/28/the-cost-of-76-years-of-us-wars-from-korea-to-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T14:30:27.000Z"
+    },
+    {
+      "headline": "Urgent: The UAE announces its withdrawal from OPEC - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ta3VzUWNINFVvTWdvOXF0V0tLWUd1WUFHaWs3YW5rREZ2MnNuaWN1SEh1VkExcWxYYkNiVlNZV2p5OHZILVVSbHFrMGdwQzFFbkdMVWdOaTh5bU1Q0gFiQVVfeXFMTVhIQ2dYZW53VGdSalhvR3VWWC1oYkVBZ3hxVElINDRXMkIzY1RHUGx5WGVNbHVHeWVvdk1fOEJWZkRRWHpoVllaTG15VWk5VnZvdU5neFRWX0o2MENPMmwwN3c?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T14:26:15.000Z",
+      "originalHeadline": "عاجل: الإمارات تعلن انسحابها من منظمة أوبك - BBC"
+    },
+    {
+      "headline": "Do conspiracy theories hold value?",
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/4/28/do-conspiracy-theories-hold-value?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T14:16:53.000Z"
+    },
+    {
+      "headline": "Trump claims Iran in 'State of Collapse', says Tehran wants US to 'Open the Hormuz Strait'",
+      "url": "https://timesofoman.com//article/171213-trump-claims-iran-in-state-of-collapse-says-tehran-wants-us-to-open-the-hormuz-strait",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-04-28T14:16:44.000Z"
+    },
+    {
+      "headline": "The UAE withdraws from OPEC and OPEC Plus - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQUkdzeVV4b3RDdE9qT0E4dWJBZ3dRanR4VFhoZWg3RjA0c1pRM0FMR0EzdUN6cldXY0NPYW43MElRVUZSSE9udHczRm15U1BxbERELVEwd1JNeFRBMHhkY1N3czZmQUpWVnNuUHZlY1FyR0ZUUFFtd0Q0VWN3OHdIQzRjNkFzM0hTYkwteXNGaXU1TENQdDliNnd5VUNHSnNfbTd1YWdWRV83QTVUaGlMcEZwZDU5SjVfUUg2d0lkTjFtcUZtTGdjby1UVkdGamFiN2MwNE1mVFBmYS1xbzc2VUhadzFjOXdOQkhEUi15S2ItSHdTb0pjY2lRT0d5NmRWUHBETW1zVWhxQW51LVllWExCcUprdjYyZkhrbS1wUUE5bHkycnNmR1ZGZkhLb0Q3dVZ4R0pLR1Y4ZUpxUzJDLVRpSGRsMFIyMXhMYkhLdVpESzhPM2ZnTkd30gHfAkFVX3lxTE4tandZei1ud25ycW14REYyV3ZCYnBXNWZibW5FbEFFdHJ5b29ZbXE5eV84Z29xbDc0Z1hXSkNGNXF5emRrM1RWRktwbUQ0UkRjY3lleFA3MVotQ0taUHo1Q3dmczlOejA4bjZvZ0p2Z19nbG9OSnNaenBJalNtSHNNbVA5d0dIRDdtT1dfaTNISzk3YWhsc3d2dGRwcnVaUEc0MVg4ZWxZWDJhNDBMVmhxVTItV1FNUWpMRndtOWlMQVNULTJQcmYzbE5LQ3ltTUhRYl9MYW9KOXlEZmFuNVJWdXFOYk1JYlhrNXJyMlFKeC1IanM0c01ta2pPc29UVTdlMHk5U1RyYUdpbGI4UjFYbVJ5YkNjb0ZGNHp6MC1MWjVJeXU4QXVrcTBMelpYQno0aEplZUtPams5U3FlTUNjNUlfUmRsR2w0V19pY2tUSnctYnA4SmdYdkNoNFFsWQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T14:15:00.000Z",
+      "originalHeadline": "الإمار��ت تنسحب من \"أوبك\" و\"أوبك بلس\" - الجزيرة نت"
+    },
+    {
+      "headline": "Spotify Reaches 761 Mn Active Users",
+      "url": "https://english.aawsat.com/entertainment/5267338-spotify-reaches-761-mn-active-users",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-04-28T14:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Shura Council Delegation Reviews Services at King Abdulaziz Airport, Haramain High-Speed Railway",
+      "url": "https://www.spa.gov.sa/en/N2573288?type=news&uuid=N2573288",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T14:01:33.000Z"
+    },
+    {
+      "headline": "Under the bombing in Tehran.. How was the People of Iran series born from the heart of destruction? | art",
+      "url": "https://www.aljazeera.net/arts/2026/4/28/%D8%A3%D9%87%D9%84-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D9%88%D8%B1-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-04-28T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تحت القصف في طهران .. كيف ولد مسلسل أهل إيران من قلب الدمار ؟ | فن"
+    },
+    {
+      "headline": "Your car is in danger... when choosing the wrong protection film can be disastrous Cars",
+      "url": "https://www.aljazeera.net/motors/2026/4/28/%D8%B3%D9%8A%D8%A7%D8%B1%D8%AA%D9%83-%D9%81%D9%8A-%D8%AE%D8%B7%D8%B1-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D9%83%D9%88%D9%86-%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D9%81%D9%8A%D9%84%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-04-28T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سيارتك في خطر .. عندما يكون اختيار فيلم الحماية الخاطئ كارثيا | سيارات"
+    },
+    {
+      "headline": "The alliance of Nusrat al-Islam and the Front for the Liberation of Azawad: a marriage of convenience or a strategic transformation?",
+      "url": "https://www.aljazeera.net/news/2026/4/28/%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%86%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AC%D8%A8%D9%87%D8%A9-%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A3%D8%B2%D9%88%D8%A7%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-04-28T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تحالف نصرة الإسلام و جبهة تحرير أزواد .. زواج مصلحة أم تحوّل إستراتيجي ؟"
+    },
+    {
+      "headline": "VIEW UAE to leave OPEC and OPEC+ oil producer groups - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGJtajMzamZfVHAwX2RMcDNvZF9fbzhZS1IzZ1ZVRGk3RnF1MFl3ZVFObTdXRW1CTnQ0OFpDSWJYWDZVN2I1czRYWndZNzdxdlZQWU5XRlgyLWxUdnBwZHMwQlN0ZEMzMjJ6dW10UVQ0MUtlU2NyUzhtSF9ORFo1TUNJdDlfODJiblU5aXFaMTBaNnM2SG01d21lWE0?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T13:56:43.000Z"
+    },
+    {
+      "headline": "Exhibition showcases over 200 historical documents in Sur",
+      "url": "https://timesofoman.com//article/171212-exhibition-showcases-over-200-historical-documents-in-sur",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-04-28T13:53:59.000Z"
+    },
+    {
+      "headline": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T13:51:51.000Z"
+    },
+    {
+      "headline": "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/who-is-ali-al-zaidi-the-businessman-named-as-iraqs-pm-designate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T13:51:16.000Z"
+    },
+    {
+      "headline": "How Massie’s Kentucky primary may test Trump’s hold on the Republican Party",
+      "url": "https://www.aljazeera.com/news/longform/2026/4/28/how-massies-kentucky-primary-may-test-trumps-hold-on-the-republican-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T13:51:16.000Z"
+    },
+    {
+      "headline": "Indonesian Hajj Minister Visits Makkah Route Initiative Terminal at Juanda International Airport",
+      "url": "https://www.spa.gov.sa/en/N2573274?type=news&uuid=N2573274",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:50:37.000Z"
+    },
+    {
+      "headline": "GASTAT Issues Results of 2025 Health, Safety at Workplace Statistics Bulletin",
+      "url": "https://www.spa.gov.sa/en/N2573271?type=news&uuid=N2573271",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:48:10.000Z"
+    },
+    {
+      "headline": "HRH the Crown Prince Chairs Cabinet Session in Jeddah",
+      "url": "https://www.spa.gov.sa/en/N2573268?type=news&uuid=N2573268",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:46:53.000Z"
+    },
+    {
+      "headline": "Hajj Security Forces Detain Six Residents for Violating Hajj Regulations",
+      "url": "https://www.spa.gov.sa/en/N2573265?type=news&uuid=N2573265",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:42:57.000Z"
+    },
+    {
+      "headline": "The UAE announces its exit from OPEC and OPEC+ as of May 1 - Al Sharq",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQVlvTDR4bGxqbFV4eERSNWRWWHpOUThWRWNjM2Rnb0VTZTdRUHptMlFHRWdtQ0xOclFJN2hhQXJXbXdHNWk3Y2FQX1RuTEs0Qjd5QzZ3UUV0bVNHUzhmYU5yekZYWnJJaTRFcERFVDk2Q0I1NFZBX1hhNHotM2E5bklONDluUnp4bEE5ZGRaRThyQ2NDcEVaSlF5NU5PQ2RkSkRxdExCX21JLW4za0hadlcwUkF0Z2gyZE5mRklRMC1ZeDU2V0NHcmJzQlc5YUJjLU5nOVlPdEVxSlV3SkczOTJvdnBsbTJ4WHlyMUxhUWtYQ0tNakktbldsZGZ6WUFoTlg2OTNidTJvMGFDM2o2RktWYm82ZHJRb2ZxQ19sT1Z2cFpBdGUycVlCS2ZRM2ZHUklKSHFFWm5TU1U?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:41:15.000Z",
+      "originalHeadline": "الإمارات تعلن الخروج من \"أوبك\" و\"أوبك+\" اعتباراً من أول مايو - الشرق"
+    },
+    {
+      "headline": "Saudi Stock Exchange Ends Trading Higher",
+      "url": "https://www.spa.gov.sa/en/N2573262?type=news&uuid=N2573262",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:40:39.000Z"
+    },
+    {
+      "headline": "EU-backed migrant crackdowns in Mauritania fuel fear and deportations",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/eu-backed-migrant-crackdowns-in-mauritania-fuel-fear-and-deportations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T13:38:59.000Z"
+    },
+    {
+      "headline": "The Israeli army issues a warning to evacuate 12 Lebanese villages",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/04/28/israeli-army-send-evacuation-orders-12-lebanese-villages",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الجيش الإسرائيلي يصدر إنذارًا بإخلاء 12 قرية لبنانية"
+    },
+    {
+      "headline": "The first liquefied gas tanker to cross the Strait of Hormuz since the start of the Iran war",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/04/28/gas-hurmuz-ship-passing-first-time-after-iran-war",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أول ناقلة غاز مسال تعبر مضيق هرمز منذ بدء حرب إيران"
+    },
+    {
+      "headline": "Omani-Pakistani Business meeting explores avenues to enhance economic, trade cooperation",
+      "url": "https://timesofoman.com//article/171211-omani-pakistani-business-meeting-explores-avenues-to-enhance-economic-trade-cooperation",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-04-28T13:27:43.000Z"
+    },
+    {
+      "headline": "Man pleads guilty to plotting attack on a Taylor Swift concert in Vienna - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVkzdFROdTBhZEV5eWRENmlhT3VvakRMS3VGenFzNWlZUkpPUGJSMUFRdXh4TndFZjNRUVhlWEJKa0VaUWVyY19PamtIUzlfRm9vQ0c3eE5VY0J2N2Q5dHNWV2dtMVJmYlJXeERFal9qUVBPcHotRDFIYi1UX01KeVU4MVdCcndldXJtcTUxc3hOOWVrZkFSaFczdVRUVlFRcmVtMm5oeHlYcnBPdXZrNjl5ZEJOWWUyZFRyYWZ4Z1E?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T13:26:00.000Z"
+    },
+    {
+      "headline": "Saudi Delegation Participates in ITU’s Council 2026",
+      "url": "https://www.spa.gov.sa/en/N2573227?type=news&uuid=N2573227",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-04-28T13:18:37.000Z"
+    },
+    {
+      "headline": "TALES AZZONI - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMlNVU29icml3ZEo0SVRvVXVzSjZieGFyTEt0WS1oQUxvTUkxYW1oLUlnY0FuYVMyNzlwUE5vaFBCc2g0TTdCaS1JbEhwTkk?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T13:14:59.000Z"
+    },
+    {
+      "headline": "The UAE decides to withdraw from “OPEC” and “OPEC Plus” - Al-Masdar",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CZ2pzUnc5R3l2bWpBd1pEUkIybm1xeEwzYnpzZWQ4VWJ5dWZVTm1SMENFMjE1bDBQQ0M0LUd1RkVPeTU3QVE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:10:38.000Z",
+      "originalHeadline": "الإمارات تقرر الانسحاب من «أوبك» و«أوبك ��لس» - المصدر"
+    },
     {
       "headline": "North Al Sharqiyah governorate sees rapid growth under HM's leadership",
       "url": "https://timesofoman.com//article/171210-north-al-sharqiyah-governorate-sees-rapid-growth-under-hms-leadership",
@@ -11,6 +437,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-04-28T13:07:54.000Z"
+    },
+    {
+      "headline": "What does the UAE’s exit from OPEC mean? An expert answers - Youm7",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOM0FNOTIyT0RLSVdxQXFJUU1QNUpDN20telNaWlFkemdJRlNlZmgzb3VmUTRTNUpRam9kUXNYcElYZzNEVVhfVXRobXN0ejV4VEVfSFdUQURlZnd5M1hDYldkVURMZGVGZXluazVOVHRCd1Q0Yk4zemtWR19POGxTamZVSDFLbTV1S2FjVUFZelhaMGc4SFNCY05JMksxQk1zTTViNDk0S0JtekdmOUhhaTU5azlTbm80LURaNVU5WGhpaUF3S2ZCeVhqTXdTQWF3U0J0MHFOVTNtQnE2MHdlSDFtd1IzNURRN3dxSENKZGRzTzNXUGpTbmlBSkZHMFVpcTcwYkZQVFozZFBKV004ZmFINE9ZOWNici1XOHFBVEVCaGFYQ1phdGJZR3ZJV0xZVWhwdnVDU25mM2Y3OTNRMUxtUGh2ZDVPX2o1dUdDX2ZIN3VzZ1VBUmJSM2Z5Ym9GUkUta1dicFRJYU1oSUc2TGZIcnYteXMzUDMyTWl3dWRXd2kyaXFtbUlGRnE2Qi1OU09ENkxUanlyZUZG0gGXA0FVX3lxTE1wVWVLYWg0RDV1Wm5Bc1JnbGFWTXQ3MS1VMF91enpYdk9tdmttLTloTllVTV85RHN3SzhmN2xlSFRHWlk3U2tUNzQ1SmpJU3dnTmdQcjJvV1h3N3U0MnJTRDRYczNwZDRWcWtycHpSRk1vTXphenUzdFhHMXdOczdaWGt2YTlqdWwtM0o5UEJHVFZqbWoxdHlTSlRPU0lpZjlBYlB1VzEzaG91N1U3ekN1blJjbVQ5eTlEYjFZeDJlelpNZTBNbmhzc2E2OEZFNzBweHZKNnpnQnBveVVtcFJhM0toaFpOaUx0ME9oWWp5d05MajN1Nm40cHlNUk9LT096VXh5SXFDVUFCbWpmZWdFWVhFN1Z0amdzSGFlYzcyaVRhbE92ajB2ZzZVN2xsc3VCLTVkckJaQVlVOHU1UTZxUTNBejBVZEJvekROdk9aeWwtOEdISnFvNFAzSnloaVhRamlTRkNQOUtfRGFucmJRWm84dUVwbVA1SE1mTXM1bjBCUjEwYXBKTENoQlltSlowMHRBMTNV?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:07:00.000Z",
+      "originalHeadline": "ماذا يعنى خروج الإمارات من منظمة أوبك؟.. خبير يجيب - اليوم السابع"
     },
     {
       "headline": "UAE announces decision to exit OPEC & OPEC+",
@@ -23,14 +460,15 @@
       "date": "2026-04-28T13:03:53.000Z"
     },
     {
-      "headline": "The Divide in US-Iran Diplomacy Then and Now - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd05uUDQ2QlNYckdZRlNKZ1FYUy1Md0Q2WmJ2RzZQcGcweTR4NEVhZ1VjWktqV3QycER2WkY5Ti1PbjFmSFpYQlp3YVItN3pJRV85Z2FhU3VtQk1RMFRhal9INXRBd2NRYkplNmhQcjgxeEdQZ1VvTExLUUl5WS1lTGVITGpoTUEwWlJybkVhalZkSjEzbEhIbS1PdkN2S2xGZU9VLVBsQXg?oc=5",
-      "source": "Bloomberg Gulf",
-      "sourceId": "bloomberg_gulf",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T13:03:14.000Z"
+      "headline": "The UAE withdraws from OPEC: a new historical break - annahar.com",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNcHJOV1ZUaU11R1U5eVIxZHFMVGJhM05SMG1QNzQ3QV9pdWwxLUg1YUlGZS1McE9vd2NOQU91UzlkVWl5V3BGa0xfVjBLaWhzbVdISmo3REJhRDBjMDJiejVteXdweGJaTFhvZGJoSVpMOGNFMHpWODRqMERMRWR6bmxvUW9oRkEzVThwd3hoTzlGeDk2eExMdWhSelhoYk56N1EySGZ5ZWZsRHA5Y1loSnRUU21EUWN6RHhvdy1Dd2VDOUUxQkVNV1oyenRjNllhUFdvZ3loOEVuU1hYRU41aHdHdDV1ZVFMcS1HMTRlWURIUDhsLU91WFVnZzR3YUVab2ZDTnBUcmVpZ280YWF4SjliNmtRNzN6VW9iZEhyZHhxajRPaVdheExheXpIcUhSaEMtWm03NTI1OG1obFZSTzdlcjc2N2U3Z0RJMjNjTVphSVlYLXJiWnkwZnBqWTdjR0ZqWEJCbXpRa2pDWVd4b2xqSTJUakFSV2hKTXlUYndoV3Vuejhadmh3Wlk5ZlNHcWVyRmtucDhnbnRtQ1gweGxwSC0?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T13:02:00.000Z",
+      "originalHeadline": "الإمارات تنسحب من أوبك: قطيعة تاريخية جديدة - annahar.com"
     },
     {
       "headline": "UAE Deputy Prime Minister Departs Jeddah After GCC Consultative Summit",
@@ -43,6 +481,16 @@
       "date": "2026-04-28T13:00:54.000Z"
     },
     {
+      "headline": "Bangladesh begins fuel loading at Rooppur Nuclear Power Plant",
+      "url": "https://timesofoman.com//article/171208-bangladesh-begins-fuel-loading-at-rooppur-nuclear-power-plant",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-04-28T13:00:21.000Z"
+    },
+    {
       "headline": "Makkah Tour Guides Enrich Pilgrims’ Cultural and Historical Experience",
       "url": "https://www.spa.gov.sa/en/N2573204?type=news&uuid=N2573204",
       "source": "Saudi Press Agency",
@@ -51,6 +499,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-04-28T12:57:28.000Z"
+    },
+    {
+      "headline": "What’s in Iran’s latest proposal – and how has the US responded?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T12:56:40.000Z"
     },
     {
       "headline": "Saudi Arabia to Host 24th Annual Conference of Energy Regulators Regional Association in February 2027",
@@ -81,6 +539,27 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-04-28T12:49:58.000Z"
+    },
+    {
+      "headline": "‘War crime’: Afghan-Pakistan truce under strain after university strike",
+      "url": "https://www.aljazeera.com/news/2026/4/28/war-crime-afghan-pakistan-truce-under-strain-after-university-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T12:48:47.000Z"
+    },
+    {
+      "headline": "The UAE withdraws from OPEC in a strong blow to the alliance of oil producers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTTFBSDFCWkt2a1NBV0wyMEFDMnVyMS0xSWg5dDI4dUxvaDBVSUFRUUxVekNRUjdnS19FRkJxZVhsbE1meDJ6X0l2UWdEenNUbXYwTkZhdHdrOU9ralIxQ3Z0VjFHMTBqdGtLVk9WeGkzSEtEbUhZRVhsUWlwMFk?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T12:45:56.000Z",
+      "originalHeadline": "الإمارات تنسحب من أوبك في ضربة قوية لتحالف منتجي النفط - Reuters"
     },
     {
       "headline": "The UAE announces its withdrawal from OPEC and the OPEC+ alliance - DW.com",
@@ -115,6 +594,16 @@
       "date": "2026-04-28T12:44:29.000Z"
     },
     {
+      "headline": "Kandice in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/on-the-ground/2026/4/28/kandice-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T12:43:56.000Z"
+    },
+    {
       "headline": "Rescuers recover last victims from Indonesia train wreck that killed 15 and injured dozens - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUY5N0djSV93Y05IMHJrd3FZU0RINk12RDJNdEZVakdpUHg1ck9ZTUlBRktXUHVJb1FnSHo5NmxfSXA4QzhtVHYzb0RsYWdEdzRmeUwwWVFMdzVMOG5TT1VSSThFTFQxdk9sUHRRam9jUGpmYV9fM2lrcUFQSG5tT0hRVVNxSWZ1MDVRTG1scU04dHNGanJ4eXhTRkptSElVcmN3cmlqcmJXdw?oc=5",
       "source": "AP Gulf",
@@ -145,17 +634,6 @@
       "language": "ar",
       "date": "2026-04-28T12:41:21.000Z",
       "originalHeadline": "الإمارات تعلن انسحابها من «أوبك» و«أوبك+» - الشرق الأوسط"
-    },
-    {
-      "headline": "Urgent.. WAM: The UAE’s decision to exit OPEC and OPEC Plus is in line with the long-term strategic and economic vision of... - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQUkdzeVV4b3RDdE9qT0E4dWJBZ3dRanR4VFhoZWg3RjA0c1pRM0FMR0EzdUN6cldXY0NPYW43MElRVUZSSE9udHczRm15U1BxbERELVEwd1JNeFRBMHhkY1N3czZmQUpWVnNuUHZlY1FyR0ZUUFFtd0Q0VWN3OHdIQzRjNkFzM0hTYkwteXNGaXU1TENQdDliNnd5VUNHSnNfbTd1YWdWRV83QTVUaGlMcEZwZDU5SjVfUUg2d0lkTjFtcUZtTGdjby1UVkdGamFiN2MwNE1mVFBmYS1xbzc2VUhadzFjOXdOQkhEUi15S2ItSHdTb0pjY2lRT0d5NmRWUHBETW1zVWhxQW51LVllWExCcUprdjYyZkhrbS1wUUE5bHkycnNmR1ZGZkhLb0Q3dVZ4R0pLR1Y4ZUpxUzJDLVRpSGRsMFIyMXhMYkhLdVpESzhPM2ZnTkd30gHfAkFVX3lxTE4tandZei1ud25ycW14REYyV3ZCYnBXNWZibW5FbEFFdHJ5b29ZbXE5eV84Z29xbDc0Z1hXSkNGNXF5emRrM1RWRktwbUQ0UkRjY3lleFA3MVotQ0taUHo1Q3dmczlOejA4bjZvZ0p2Z19nbG9OSnNaenBJalNtSHNNbVA5d0dIRDdtT1dfaTNISzk3YWhsc3d2dGRwcnVaUEc0MVg4ZWxZWDJhNDBMVmhxVTItV1FNUWpMRndtOWlMQVNULTJQcmYzbE5LQ3ltTUhRYl9MYW9KOXlEZmFuNVJWdXFOYk1JYlhrNXJyMlFKeC1IanM0c01ta2pPc29UVTdlMHk5U1RyYUdpbGI4UjFYbVJ5YkNjb0ZGNHp6MC1MWjVJeXU4QXVrcTBMelpYQno0aEplZUtPams5U3FlTUNjNUlfUmRsR2w0V19pY2tUSnctYnA4SmdYdkNoNFFsWQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T12:41:01.000Z",
-      "originalHeadline": "عاجل.. وام: قرار الإمارات الخروج من أوبك وأوبك بلس يتماشى مع الرؤية الاستراتيجية والاقتصادية طويلة الأمد لل... - الجزيرة نت"
     },
     {
       "headline": "Qatari Amir Leaves Jeddah After GCC Consultative Summit",
@@ -189,6 +667,27 @@
       "originalHeadline": "الإمارات تعلن خروجها من \"أوبك\" و\"أوبك بلس\" - CNN Arabic"
     },
     {
+      "headline": "The UAE announces its withdrawal from OPEC and the OPEC+ alliance - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQR3ZlT3lOR3JkZVAxd1dadWRtZUFkbFE2TEhCb2JwY09nTUxabk5PRlh4cGtnT2hBX1NZNEZfLVpyMTVKYzlQbC01M3JKWi1kVU9Ma0dpbngtQTlCMU9QTFVyX1JmdkJVTFlScTRCaVc3eHNqR29TRXFWYzJjVTg4YTJOZ3ZWekhIM1JyYzg5Nk0ycnh3Q2tuMEFKdGdxanNCM1FwbUJjNk00V0hWQjlQdW56YnFqcHQ0c2FiU1hJRkxucTRBTzVwODRsOVFqVEV5SW5Vd0NITmREZ0o2M0tFWnRqcWVoSXNScVlrQms4U1l0S0ZXcWZWR24xYXdTUEZRa25LNDZqZUtqc2IyVzJyMVAyT1FvWkJDMEJ6UGVjd3U5QnNkNlhGb2ZCbUZHeTJ5TXJ5TEhWWXF3RnNaNTgzVEw2cWJKakVTclRhVkF6WU5sWWMzV1Ntekp0czFldkZMdzhKakp0bF9RTFRYdkk0UUg0T3FMUnUxN0NDWDdWMDROT29VUGloNEZIa1hXQWVWMHRES3Vmbl9HaEFsXzRBYURFdlh1Xzdua1h4THlRZ3RmYjJ3dzZrX3UteFdFZU9qZTEtakx0Y0EwNWNQNG5ENVdWbUxESUluZ3pOSHdfRzFDR1ZCa0c4Q2tFZVdXcy1FSUVXLXdqaUV3QQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T12:33:36.000Z",
+      "originalHeadline": "الإمارات تعلن انسحابها من منظمة أو��ك وتحالف أوبك+ - France 24"
+    },
+    {
+      "headline": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
+      "url": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-04-28T12:33:10.000Z"
+    },
+    {
       "headline": "All Indian Seafarers in Arabian Gulf safe, vessels under monitoring: Shipping Ministry",
       "url": "https://timesofoman.com//article/171205-all-indian-seafarers-in-arabian-gulf-safe-vessels-under-monitoring-shipping-ministry",
       "source": "Times of Oman",
@@ -199,15 +698,14 @@
       "date": "2026-04-28T12:32:48.000Z"
     },
     {
-      "headline": "The UAE withdraws from OPEC and OPEC+ in a strong blow to the alliance of oil producers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTTFBSDFCWkt2a1NBV0wyMEFDMnVyMS0xSWg5dDI4dUxvaDBVSUFRUUxVekNRUjdnS19FRkJxZVhsbE1meDJ6X0l2UWdEenNUbXYwTkZhdHdrOU9ralIxQ3Z0VjFHMTBqdGtLVk9WeGkzSEtEbUhZRVhsUWlwMFk?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T12:32:05.000Z",
-      "originalHeadline": "الإمارات تنسحب من أوبك وأوبك+ في ضربة قوية لتحالف منتجي النفط - Reuters"
+      "headline": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejh6RXU4Vjk3dkl0V0hnNGRPbS1CdnZlWmJBZ0x1dG9XcE8wUTJTaDBMaTRVT2hQWUIxeDBpZUN6a1BBd082Q05KMHk2SDJHbnJjbmN3TDRRUkp3M2h5X1RoQkNHX0IxdllTZXQ3MmxneHg5ZE1Sc0JJVzJTWDBZdFhKdUtuc2tqTHRuZTVWY21rMEtlZmlobUZ3Mk1OeThOX3NSd0RzNWUxaWxQWnJfMTRHSDZLMVduaVpmOXFjdEc1ZVE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T12:31:35.000Z"
     },
     {
       "headline": "The UAE withdraws from OPEC and OPEC+ in a strong blow to the alliance of oil producers - SWI swissinfo.ch",
@@ -267,6 +765,16 @@
       "originalHeadline": "جيش اللصوص .. إسرائيل بين النهب وانهيار الانضباط العسكري"
     },
     {
+      "headline": "UAE to Leave OPEC in May as Iran War Reshapes Oil Market - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFFObGYzUnJ0c0h3M3MxRzB6Vk1EcVF2Y1Y1YXZoaGdYRXc4XzhsZ1RlWEVNamp0dkpMVjF5MWFzbGpSc3RPeDlhTnQ5QXMwRW5UZlNId3hmcjBSeWJlQ0NaVTNCZzlmQ1FUTmtsMVgxYkVISzBSMk9JUVdTdHJHNy1Qbjc1YzVfcUtLV0R4dTg1ZUV0Wl81RTNCaGRzaElySVJBenVSU25JR093SzVtNw?oc=5",
+      "source": "Bloomberg Gulf",
+      "sourceId": "bloomberg_gulf",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T12:29:02.000Z"
+    },
+    {
       "headline": "The UAE withdraws from OPEC and OPEC+ as of May 1 - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14bU1KSmxUUmhUSG1UMWJDUEtQVk1taVp6RURIZVc4RjlJUDZqdW5CU2JyNWV3bEpKNHRyb2ZUWDNKSjRRMU5VZWZZVXBtNmFuZl9VQ3dVZV9hYkxaR3h0YUdwVGZjaC12WlE?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -288,7 +796,7 @@
       "date": "2026-04-28T12:27:56.000Z"
     },
     {
-      "headline": "The UAE announces the decision to exit OPEC and OPEC + - Economy Sky News Arabia",
+      "headline": "The UAE announces the decision to exit “OPEC” and “OPEC +” - Economy Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNNjBBd2hQSE9JLVlBMlRsZWJtT1pZN2pXcUZ2S3JxbGs4NHZFRG15NWRwOWZldmtLTU9pWU5ubVdrWUZPRnBxMEUxaG5ZRmY0OE5BbFdQUnI2UmtHSnZPYzZKOTNyX2M0SGZDMGN5S3F5djlaU1NoMEt6YWREQUhwR0ZzMkc0NFRWUHdWWmdoX2t6YlgxWFhfclJLdDI0NUVlWWl1c0NDN3FMVEV4c2NFUkVPMVNDOVlFb0JNY283ajNKQmxGVWp0TWhCamhab3pJaklSZ1lBeHhnZkNBT3RCSTlDRzVKU1o5NWxvNTBQNWZIQi02WnJuZ2dSQlJDblJnVmhHTzdCTllxSjFCVnozUFJCWVNGQ0FpNXVHc3VCcUF6STBMbFlxQzZscDdieVNKdURjM0o1VVpad05zTnBSc3lNUkwzeGQ0clJMYWtUMG0xdklwQUlJ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -310,6 +818,17 @@
       "originalHeadline": "البحرين تصدر أحكامًا بالمؤبد بتهمة التخابر مع إيران - alghad.tv"
     },
     {
+      "headline": "The UAE decides to withdraw from OPEC and OPEC Plus as of May - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPMklDZGZmZnk1QnNWN0pHMWhLVHBra3Z2UW5BNDUwcDJiM01PUzBGS1VTNFVoODVlaWtNRURxazNSNU5WcVZDWGQwZEN2dDFVMlNDRmFkRzZFTkJpTnhpLUxXU1U4QWNGRTgteXVERlBEV3NNTkJrSmNwYno1bmxodXNyaGpkYXVQenBGM1R3Z1dXSkRfX1JtOHBBRnZlbE5INV9LS0RJbVdpVzdXdVhGamdWZ3VrYWtoYVU1X0hQRU9HQnFUYXdkREY4LURsNnhYTlNJcENFMTFBb0ZaV3FMTWNLQlZnd0hlWHNhY0ZjT3pUdUJ0MWczZ3ZKQnVDX2tTNWpsOF9tSzA1anlOcXBWWXA5SG83OWlHRC1iaE1EVHhjVVc0YTZkVkNhbGhDRGhpYXA3M0xmQlJEV19fZUZBX3dqTkJxOVYwZ09JUE9OVmZtZi0tR0dreHhjUW9hMnFJRDE0MDZ1MHBuQ09yU0FSRTNxcTBXdVYwenFyb3oyR25mU0VlUlHSAYsDQVVfeXFMTTNuaGs3ZkMzWmp5ZHFsMFhLMDJKbkQxbTVDU052OVh5YkxFWWhuUzZkNkZOcmo0dHN6eDdQOHJlV3kxdTZWVlpCTjFVU3FWRnI2dTdobnotUHJWaHJBY21VVk5PQmREcnU1X0xDT2RBdFlCOUU5OUJScDNmdThFWVFmQmZPVml6YWhBRmlIQUI5MUlUUTBGZlpYYnZralBIRzAyallYMEU1d295YzEzU05KUkt4Y0pqdTkxa1ZPNWNjRzhTQkdYV1dvRTFNeHpIbkUwVWp1bjJveWRwaGJ2NTRXSl9FQVY5Wm9SLWotRXN5dGxFV0NDMWdlM1lCZGl6LWZXRlA4cVlNNm1sZEFtSERFd3NHU3F1cGREUHA3WlFpNXRmX2JHVXdNMmxBeWV0a1kxVzBhRUY2RlB6NEhMSWk4LVAxRnBnWGNVWTI2TjVYbU82RHpWWERHSDZnMXdFLUpQWVBYSHVfOFNjajRtSnNFMVBqRFFDLXRuRFJ3aVVvTTA0NWRuTmRzeDA?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-04-28T12:24:00.000Z",
+      "originalHeadline": "الإمارات تقرر الانسحاب من \"أوبك\" و\"أوبك بلس\" اعتبارا من مايو - العربية"
+    },
+    {
       "headline": "Urgent: The UAE decides to withdraw from OPEC and OPEC Plus as of May 1 - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPMklDZGZmZnk1QnNWN0pHMWhLVHBra3Z2UW5BNDUwcDJiM01PUzBGS1VTNFVoODVlaWtNRURxazNSNU5WcVZDWGQwZEN2dDFVMlNDRmFkRzZFTkJpTnhpLUxXU1U4QWNGRTgteXVERlBEV3NNTkJrSmNwYno1bmxodXNyaGpkYXVQenBGM1R3Z1dXSkRfX1JtOHBBRnZlbE5INV9LS0RJbVdpVzdXdVhGamdWZ3VrYWtoYVU1X0hQRU9HQnFUYXdkREY4LURsNnhYTlNJcENFMTFBb0ZaV3FMTWNLQlZnd0hlWHNhY0ZjT3pUdUJ0MWczZ3ZKQnVDX2tTNWpsOF9tSzA1anlOcXBWWXA5SG83OWlHRC1iaE1EVHhjVVc0YTZkVkNhbGhDRGhpYXA3M0xmQlJEV19fZUZBX3dqTkJxOVYwZ09JUE9OVmZtZi0tR0dreHhjUW9hMnFJRDE0MDZ1MHBuQ09yU0FSRTNxcTBXdVYwenFyb3oyR25mU0VlUlE?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -319,6 +838,16 @@
       "language": "ar",
       "date": "2026-04-28T12:24:00.000Z",
       "originalHeadline": "عاجل: الإمارات تقرر الانسحاب من \"أوبك\" و\"أوبك بلس\" اعتبارا من الأول من مايو - العربية"
+    },
+    {
+      "headline": "Gulf leaders meet in Saudi Arabia to discuss response to Iranian strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenJjLWZNSk5NYU15THlCazY0NUU1Q0NYZXhnUTFWUDhzME1pVzNwa1ZaZWpqb0NRVGppeHdhX3ZYMnVhOGlKRDdHZzVjOFQ0TG5Bem9GcXRvdFlBRC1JUTZWWWlHVjV4SjA0VGFIYl8wNUM5WnhKSS04TmN2VzhBQ2xVQmtKMDVkaVg2NzV6eHRwMURTVEI0SjRObWwwUEUwNVlxZUdud044TE5IT09WejdjMkJaSXly?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T12:23:14.000Z"
     },
     {
       "headline": "HH the Amir Joins GCC Consultative Summit in #Jeddah\n#QNA #Qatar\n\nhttps://\nbit.ly/421lmCz",
@@ -350,16 +879,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-04-28T12:18:22.000Z"
-    },
-    {
-      "headline": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
-      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T12:18:18.000Z"
     },
     {
       "headline": "Australia’s top diplomat visits China to talk energy security",
@@ -443,6 +962,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-04-28T12:10:37.000Z"
+    },
+    {
+      "headline": "STEVE DOUGLAS - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-04-28T12:10:06.000Z"
     },
     {
       "headline": "The Minister of Hajj and Umrah of the Republic of Indonesia visits the #Mecca_Road_Initiative lounge at Juanda International Airport.\n\nhttps://\nspa.gov.sa/N2573114\n#Sass_Haj47",
@@ -755,16 +1284,6 @@
       "date": "2026-04-28T11:54:18.000Z"
     },
     {
-      "headline": "Gulf leaders to meet in Saudi Arabia to discuss response to Iranian strikes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenJjLWZNSk5NYU15THlCazY0NUU1Q0NYZXhnUTFWUDhzME1pVzNwa1ZaZWpqb0NRVGppeHdhX3ZYMnVhOGlKRDdHZzVjOFQ0TG5Bem9GcXRvdFlBRC1JUTZWWWlHVjV4SjA0VGFIYl8wNUM5WnhKSS04TmN2VzhBQ2xVQmtKMDVkaVg2NzV6eHRwMURTVEI0SjRObWwwUEUwNVlxZUdud044TE5IT09WejdjMkJaSXly?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T11:54:09.000Z"
-    },
-    {
       "headline": "Mohammed bin Rashid renames the Ministerial Development Council as the \"Ministerial Council for Artificial Intelligence and Development\" chaired by Mansour bin Zayed",
       "url": "https://x.com/UAEmediaoffice/status/2049093957251129555",
       "source": "UAE Gov Media Office",
@@ -784,16 +1303,6 @@
       "language": "en",
       "date": "2026-04-28T11:50:43.000Z",
       "originalHeadline": "محمد بن راشد يوجه بتعديل مسمى \"المجلس الوزاري للتنمية\" ليكون \"المجلس الوزاري للذكاء الاصطناعي والتنمية\" برئاسة سمو الشيخ منصور بن زايد آل نهيان"
-    },
-    {
-      "headline": "Man pleads guilty to plotting attack on a Taylor Swift concert in Vienna - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVkzdFROdTBhZEV5eWRENmlhT3VvakRMS3VGenFzNWlZUkpPUGJSMUFRdXh4TndFZjNRUVhlWEJKa0VaUWVyY19PamtIUzlfRm9vQ0c3eE5VY0J2N2Q5dHNWV2dtMVJmYlJXeERFal9qUVBPcHotRDFIYi1UX01KeVU4MVdCcndldXJtcTUxc3hOOWVrZkFSaFczdVRUVlFRcmVtMm5oeHlYcnBPdXZrNjl5ZEJOWWUyZFRyYWZ4Z1E?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T11:50:11.000Z"
     },
     {
       "headline": "Kuwait Bourse Closes Lower\n #QNA #Economy \n\nhttps://\nbit.ly/4mVCtiE",
@@ -1087,7 +1596,7 @@
       "language": "ar",
       "date": "2026-04-28T11:00:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "هل نقول وداعًا للعطلة الصيفية ؟ هكذا سيؤثر الصراع في الشرق الأوسط على خطط سفرك"
+      "originalHeadline": "هل نقول وداعًا للعطلة الصيفية ؟ هكذا سيؤثر الصراع في الشرق الأ��سط على خطط سفرك"
     },
     {
       "headline": "Is capitalism fuelling today’s wars? Varsha Gandikota &amp; Jason Hickel",
@@ -1192,16 +1701,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-04-28T10:47:17.000Z"
-    },
-    {
-      "headline": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejh6RXU4Vjk3dkl0V0hnNGRPbS1CdnZlWmJBZ0x1dG9XcE8wUTJTaDBMaTRVT2hQWUIxeDBpZUN6a1BBd082Q05KMHk2SDJHbnJjbmN3TDRRUkp3M2h5X1RoQkNHX0IxdllTZXQ3MmxneHg5ZE1Sc0JJVzJTWDBZdFhKdUtuc2tqTHRuZTVWY21rMEtlZmlobUZ3Mk1OeThOX3NSd0RzNWUxaWxQWnJfMTRHSDZLMVduaVpmOXFjdEc1ZVE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T10:46:31.000Z"
     },
     {
       "headline": "The Gulf states discuss developments in the crisis in the region and ways to enhance joint coordination - Al-Sharq with Bloomberg",
@@ -1441,16 +1940,6 @@
       "originalHeadline": "إقرار خليجي.. الدكتور أنور قرقاش المستشار الدبلوماسي لرئيس الإمارات: مصر كان لها موقف إيجابي مع الإمارات خلال العدوان الإيراني #خمسينة_اقتصاد #مصر #السيسي - facebook.com"
     },
     {
-      "headline": "TALES AZZONI - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMlNVU29icml3ZEo0SVRvVXVzSjZieGFyTEt0WS1oQUxvTUkxYW1oLUlnY0FuYVMyNzlwUE5vaFBCc2g0TTdCaS1JbEhwTkk?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T10:07:42.000Z"
-    },
-    {
       "headline": "#Oman's Minister of Foreign Affairs Discusses Regional Developments with #UK Official\n#QNA  \n\nhttps://\nbit.ly/4cRL6pU",
       "url": "https://x.com/QNAEnglish/status/2049067218613207134",
       "source": "Qatar News Agency",
@@ -1489,16 +1978,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-04-28T10:00:00.000Z"
-    },
-    {
-      "headline": "STEVE DOUGLAS - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T09:55:37.000Z"
     },
     {
       "headline": "Makkah Chamber, MWAN Organize Workshop to Enhance Environmental Compliance, Adopt Circular Economy During Hajj",
@@ -1644,493 +2123,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-04-28T09:22:48.000Z"
-    },
-    {
-      "headline": "How Iran has changed, and how it hasn’t, in two months of war",
-      "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T09:15:24.000Z"
-    },
-    {
-      "headline": "30 Projects Open for Feedback Through Istitlaa Platform",
-      "url": "https://www.spa.gov.sa/en/N2572978?type=news&uuid=N2572978",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-04-28T09:11:00.000Z"
-    },
-    {
-      "headline": "UAE asks some oil buyers to receive Gulf supplies outside the Strait of Hormuz - East with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNalVQVnNqWE9ocF9VaVdqRExWNkY3ZmQxMlo3S1YzNUlqVndBamdSYU84NGg5a1diQkV0V0tHVm1LR1ZHRW1mNHc2blRiMXNzdXh6TXBORjg3M25RSTNlZ0E0MEpCemp4V3VDLTZvUzFQRExyTnVpdkZvbm9BRXBUSGNYOTFhZ3NVdkN3RkVXX2RZenB6Sk1UbjNkeEVNSFcxY1NUS0VzQjVfZ0dPTDdmeTVzMW1PMmY4WEtEbEFKVE1GVHh2SmxuOFh0QUN2aGZOSEtMcWNOeGJGR0M5bU9CY0x5UHByQlYyMEVIX3JNcEFzbnNuaWs1blFlbjZSM3VNWFFjZ05FZHhOLVVRdXVjX0dFcENDVDJPX21LX2lRSm5qY0NhR3J3US1laFpPVTZaX2EzMWduQ3BYTVFMVGUwTS1aRTlETFBfLXJyZnE0N2ExTkhtTlBOanJnd25ya091amJNcDIyRUhLQ3k5NUxVdE5jLS1aQUFDSndVTnBISzlOemp2QWlOSmJIci1GSFlMcG5pSU05U0wxdTFCYTJmcWM2WXNnbThQTll1ekFzZUQ0RVBCbHFvUW1ZR2g4NW4zbGQ4UWVZZkNjMFo4cFIyNWlTZDUtM2dnU2RTTUo2VlJpMWtrTmk3M2t4R1M1Zw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T09:08:10.000Z",
-      "originalHeadline": "الإمارات تطلب من بعض مشتري النفط استلام إمدادات الخليج خارج مضيق هرمز - الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "Oman and UK seek to enhance cooperation in maritime and security fields",
-      "url": "https://timesofoman.com//article/171191-oman-and-uk-seek-to-enhance-cooperation-in-maritime-and-security-fields",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-04-28T09:04:56.000Z"
-    },
-    {
-      "headline": "Read more:",
-      "url": "https://x.com/ADMediaOffice/status/2049051314546774190",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T09:01:17.000Z"
-    },
-    {
-      "headline": "Japanese Crude Supertanker Attempts Hormuz Exit in War’s First - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFpxdkozN05uM3hhUFQ2YXUwY1c0YlRNSkwwcmtOQ0VNamNsRnFuSThZNUx1Z0NrdlVpOE9JWElvVWphSlJOcWVvcEtGRl9uNXl4a21kbVU3aVBaenp0TGNmcDFPbVFyZUJxZWhmbThGMmZNMUc0alRSdFI3WWJWallJUHg1Y3dkWFktenZHWFZfLWJ0ZnBuNnI1TUVNSjJqTG9fLUZZU3BFaDVRSXgyLXI5Z0NTMzZjUUN6WEhqR3YyeFlNZ3lvS0REMA?oc=5",
-      "source": "Bloomberg Gulf",
-      "sourceId": "bloomberg_gulf",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T09:01:16.000Z"
-    },
-    {
-      "headline": ".\n@PureHealthae\n has received full accreditation from the Association for the Accreditation of Human Research Protection Programs for its SEHA and Sheikh Shakhbout Medical City research divisions, recognising the strength of the group’s clinical research capabilities.",
-      "url": "https://x.com/ADMediaOffice/status/2049051310247608387",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T09:01:16.000Z"
-    },
-    {
-      "headline": "Omani delegation visits China to explore high tech pharmaceutical and medical ventures",
-      "url": "https://timesofoman.com//article/171190-omani-delegation-visits-china-to-explore-high-tech-pharmaceutical-and-medical-ventures",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-04-28T09:01:14.000Z"
-    },
-    {
-      "headline": "To read more:",
-      "url": "https://x.com/ADMediaOffice/status/2049051070828364150",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T09:00:19.000Z",
-      "originalHeadline": "لقراءة المزيد:"
-    },
-    {
-      "headline": "PureHealth Group receives full accreditation from the Human Research Protection Program Accreditation Association for its research departments in SEHA and Sheikh Shakhbout Medical City, which reflects the group’s advanced capabilities in the field of clinical research.",
-      "url": "https://x.com/ADMediaOffice/status/2049051066000621725",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T09:00:18.000Z",
-      "originalHeadline": "مجموعة \"بيورهيلث\" تحصل على اعتماد كامل من جمعية اعتماد برنامج حماية الأبحاث البشرية عن قسمَي الأبحاث في \"صحة\" و\"مدينة الشيخ شخبوط الطبية\" التابعَين لها، ما يعكس القدرات المتقدمة للمجموعة في مجال البحث السريري."
-    },
-    {
-      "headline": "South Korea appeals court sentences Ex-First Lady Kim Keon Hee to 4 years in jail - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTJ5Ul8yR0l5TFROXzBKZGlnX0JmLTRxWTFjYlB2QlNWT213bjBqcUpDaFlWZmJZSGs1d0dSUGVZazRpTDNqS0xic1hud1RQQVZhMkl6RHdqbm5wc0hUcmZ5bVI0aDh0TE5oZUpiRVNZNzVBYTB2VGdVSmxnalpsbW02Snc5TVhOd1QxREJrbHBEOUc4MGhnWGNYaERIYk40M3Q3b2FEUjJ2LWpyMmlGTm1jREJzd25NWmRSTTZzb0pHTEF4TjBrTw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T08:50:51.000Z"
-    },
-    {
-      "headline": "Moody's confirms the rating of the Bank of Bahrain and Kuwait with a negative outlook - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNSG0xZERTSGFjS2pJODM2cE1nMUJ3VHY3UzI5OFFsVkUwajhCdVIxcm80c0w5QXZObTlNdlUxOXZKc2tlNFZuS3dTZkZYNnJ5a0pzeTZUVTFaTGpEZlc5TER1dm5sLW0ycUxKTGVuSjU5dXBGV3BETmI0WGo3eWZMQ193NjFwa1hnTG5UclVnVzdSUVgwT2NaOXROVmVNdnhNaUNUcGNqTGo1QTFtMEl2bDQ5MmRNRkt3cFpPRFg2Rm1ZZWtET21nZ2Q3ZHlNZGI1T25fczBYcHZaWTJ5OGJFcEtkZU5nWlFrdlZxdEtoNGlReVlqcmtscXN0UVZhOVl0NEIxRmlxd0htNThzMTQtNnozMzRpTTYxMWJtT05sQzc4Y1dvSVQyYUhyaUJxN1Vva2dfTUtNZUpUNlhqSjZCb2ttZldLUlp1SVN1TmFSWWxta0EyTmo5dk5fRnBZU1dwLXJpdXpDVy1UYlh4WEZDVXJNSDVucFl0YVJJTGtUMXkyal9WU2tsRjFRRlMzaFhRZHJKcEhHOWlCN1lRLThjLTF4TFhYSjBMQ1kyaUhyaW5Wc2U1WGd0M1lZc0REWXJHdExEZ1F5SmdCZlFkMFlUeFBHRHEzdjh1UkRsaXBrVHI5R2tycURmU2VmMkdzMm8?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T08:49:35.000Z",
-      "originalHeadline": "\"موديز\" تؤكد تصنيف بنك البحرين والكويت مع نظرة مستقبلية سلبية - معلومات مباشر"
-    },
-    {
-      "headline": "Before the Saudi summit.. Sources: The Gulf states have lost confidence in Iran’s leaders - Masrawy",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOenlHdTJ1N1R0THdDakRiTlRsVFVIOXpkc203Mzlma0VRNUFiSzB1eEFNckpRd2dJZlNZcncxTUUxcm55WS1HZDM5SjdXZy1lV1NOdHEtdkRMVmtkU3p2cjdpc29MQTZxV0lkOVIwVkVpeWVxVE1LU1VmR2dyN09OeUt2dVB6azM5SmVnaU40SzIxVHpxa0t6MHZTLVRwTEpuSUZtWDNya1NSVktvVlBMR0ZUSXduaUJEdV9GZnhraWJTaW1iX2U0VlQ0MVJQNVJzbEQwNHpzQW5uQXhCTzhpNDR6MmRTMFJBRkRMLU02Z0w4VmczMmZoOE8zcERfQm5VWjE1ZXBYbUhXay1ZcElPWHE4UGlNQkdITzZCNTZ5b0huRWR5c3ZoeTlHcVhKV1NlZGdIdU9yR2hKWXprdlpsN2Q4aE04R1BwazBWYVFVMmIybDVKV3pzUjFIbjI2cmRjZDV4Y2lLcW1OVUdwdHU1QTJHRTlNN3RXS3pWVEktajZKYmtUbEU5V3ZlVmdBMnJ5U2lkMC1rMHEyWHhOV3FfcU9DREVyNlFacDdyMW8td1JPb3Z5ck5zZFVyM25DaVNZSTZMRjF1Y0tSbEt2OVowQjRVbVVLcm5BMHpSUkJzdlFhQk9wSXFnbVVCM3QtOXBNNWw3WVRVVmh1YzZiUElsVFM0ekZIM1o4VDFtM3p30gGTBEFVX3lxTE1nTFA5c3N2V3RKdjVfM3ZOWmIwOXVsTTA0aDRNeVRxRXB1VDI4TXU4N1VGTlEwMk1TUnhhcFN5UHMtTzZvbGNYMGRMUG9UR05YQUpTbE9VXzJPeThkME5ad1VnMHpxSVZKbmxEdy1LNjRTLWM4Z2hXZFdGQ2kwbWkzRkMzaHMyaHFkX2ZjdlZSZzRNTXd6V3dGbnFrMTNEelBlX2JRTUJFcThQMG56ZXR2Rlo4OUQyS1Z6NmxYNWxwckEtanpKRFRyR09kU2JTOXBfNHVsbUxfOTZKRkphY2pkZS1CNFVxel82d18zRzByTW95dDl2YXR0RW5LMDBIUW5qUzNyUHljT295T0Y2ZThlcFdCXzh6V0hCY0s3Vi1QMl9YdTNwQlREa0taTU11UGNQUzdsaVo1bGQ2SW1vS0Nwa3Z1RFk1S1dzOUZUVHc0TFAwTnF5VnVCdkgwQTJncFBGQnFQUHVKVklPbzg1elRoVVNoS3lmUEY3dUQ2XzNTbE84OE82UTAtd2F2ZXZsMi13WFZSTFhIS0tZNlZkamZTeG91YlpoWERqZXVvTmtHNmVjQUxvOFlFeVQzMzVxNzVBMGJXOXl3cWVwMnEyNXR0S242U29TZkFMMndyQ2FWbDRzMWdNcVAtNUJXdENXc3BUcHkzVnR2a2p0UWhzREpuVzI5aTdBV1lqb195Q2VSbE1SYw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T08:49:00.000Z",
-      "originalHeadline": "قبل قمة السعودية.. مصادر: دول الخليج فقدت الثقة في قادة إيران - Masrawy"
-    },
-    {
-      "headline": "Kuwaiti oil falls by more than $3 per barrel - Qatar Mersal",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV3N2alZsS2JkM3dDMjkwdWMtWmVISGRERTBOb2F3SE02LUMzaUhCN2VDY1I5eXB0YjI3R1A5TWtfMXBrdHQwN3FzN0pOV25SVzJ6ejIzc0tFRkUxcHowWXMzYWI3WTZfZDUxMnFPNm1vS2h5c3VORkljWk53YXFzYVdJcUNBTWI4T2xLTm5IMXc4M3dwWk5NX1NrRjVoMFl1NktwZnZ3bjBGaEw1RHpjcUlQR3J6TUpZTHVWV1Nwdl9LYkZRRFgxbURjYzhvNE1HS2N4UUE1UHhROHZwdnVFRVVfV25ZV3FvVTVNWElxLUVzLXpzeEZwUURIVVZ6aGdkY09EQVJZQnJYSml1NDZCR2V3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T08:47:00.000Z",
-      "originalHeadline": "النفط الكويتي ينخفض بأكثر من 3 دولارات للبرميل - مرسال قطر"
-    },
-    {
-      "headline": "Israeli Occupation Murders Over 72,594 Palestinians Since Beginning of Genocide on #Gaza\n#QNA  #Palestine \n\nhttps://\nbit.ly/4sYiKjS",
-      "url": "https://x.com/QNAEnglish/status/2049046404367016198",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:41:46.000Z"
-    },
-    {
-      "headline": "European Stocks Decline\n#QNA  #Economy\n\nhttps://\nbit.ly/4sZOG7y",
-      "url": "https://x.com/QNAEnglish/status/2049046121444528492",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:40:39.000Z"
-    },
-    {
-      "headline": "Riyadh to Host Joshua vs. Prenga Showdown in July.\n\nhttps://\nspa.gov.sa/en/N2572921\n#SPAGOV",
-      "url": "https://x.com/Spa_Eng/status/2049043552475201935",
-      "source": "Saudi Press Agency",
-      "sourceId": "twitter_spa_eng",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T08:30:26.000Z"
-    },
-    {
-      "headline": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
-      "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:24:45.000Z"
-    },
-    {
-      "headline": "Palestinian Woman Shot by Israeli Occupation in Northern #Gaza\n#QNA  #Palestine \n\nhttps://\nbit.ly/4cCZPq6",
-      "url": "https://x.com/QNAEnglish/status/2049041868424421382",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:23:45.000Z"
-    },
-    {
-      "headline": "Dubai Civil Aviation Authority launches the Aviation Consumer Welfare Directive of the Emirate of Dubai and its related service.The Directive serves as a clear regulatory reference outlining passenger rights and the obligations of airlines and travel agents, while introducing a",
-      "url": "https://x.com/DXBMediaOffice/status/2049041580884209721",
-      "source": "Dubai Media Office",
-      "sourceId": "twitter_dxb_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T08:22:36.000Z"
-    },
-    {
-      "headline": "#Dollar Index Rises Against Other Currencies\n#QNA #Economy\n\nhttps://\nbit.ly/4t30E0h",
-      "url": "https://x.com/QNAEnglish/status/2049041475292286987",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:22:11.000Z"
-    },
-    {
-      "headline": "The Dubai Civil Aviation Authority launches a guide and service to take care of consumers of the aviation sector in the Emirate of Dubai. The guide constitutes a clear regulatory reference that defines the rights of travelers and the obligations of airlines and travel agents, in ",
-      "url": "https://x.com/DXBMediaOffice/status/2049041413690871947",
-      "source": "Dubai Media Office",
-      "sourceId": "twitter_dxb_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T08:21:57.000Z",
-      "originalHeadline": "هيئة دبي للطيران المدني تطلق دليل وخدمة رعاية مستهلكي قطاع الطيران في إمارة دبي، ويشكّل الدليل مرجعية تنظيمية واضحة تحدد حقوق المسافرين والتزامات شركات الطيران ووكلاء السفر، إلى جانب وضع آلية متكاملة لمعالجة الشكاوى من خلال دور الهيئة كجهة تنظيمية ووسيطة. \n\nللاطلاع على دليل رعاية"
-    },
-    {
-      "headline": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
-      "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:20:45.000Z"
-    },
-    {
-      "headline": "Saudi Arabia may lower June oil prices to Asia from record levels - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWg0MUdteVlfV1RjWHBvRmtRU2NfdG9mbnI0WlN5VkFjTHRhcUZXelBqcjc1NkFHTzN5OFlBSDlDREhDdTQ0WEQ0YWVZT3dzVVdxQWlzR09VdnF0SVhFT2NKZTY0T3NPN0I4WTdLQ2hfZUxqdHNMY1FKSU1rT3FvbTUtQjkzcnNZMmNmYlJJSTRPUjVXZnRQZVJvS0tUTkJSTWxJYjI2Qm9TTWdoTUE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-04-28T08:20:34.000Z"
-    },
-    {
-      "headline": "#Qatar Affirms Freedom of Navigation in International Waterways is a Fundamental Principle of International Law\n#QNA  \n\nhttps://\nbit.ly/4t6DdmJ",
-      "url": "https://x.com/QNAEnglish/status/2049040765255307321",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:19:22.000Z"
-    },
-    {
-      "headline": "Saudi Arabia is polling opinions on 30 projects related to economic and development affairs - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxPZFVpX0ZmSFhVNUV2S1hrblNpakFFakFqMXBDLUtmYkg4Z0l4dkZyQjR1cHFvcnYyT2Q0T3B0WXdTYWJ0cEY3SjhUX3pjV0FjUTJUa0lRdDdiUTVDdGQ4aFA0LW5ZbkZtRmI3TXZSOHNUbmkwVVBlblY3WklOUnk2czhsckkzTERKblF3WHdMRWJSZGM1a0FoRXZVWnpqU19YaFlTeWtUZHloNUpnZHBZVjJiWnVGeEFwaXo4SVp4UjlEUmtJU1V3aEZqNjlpekY4VlRKR1FfWnJpRElmeW0tV1VxTThfVkxiS1Y3b0ZLak54d2hoeFFidDdIZF93anlCZTIwdDBLY05jMUZsNGlodFVwS2pqTDlnRlFNWFpGS2hWVkZmbk8zMzRjVE9zZFFzRi1rcnM2SU9kcWJOb21DOFZBUXBjLXpMUnNRa0dSZG5yeDhMNzBKMVQ3WlJ1NTYxVjFtUklubV8wbGFDN0I4cFpKYjY5aXdKVHdnejN3N3kzV0RiMUNGQXZ2WTNrS3FtU2hxdUUteDJVLUtYbXNGazMzVGlZUThjLS1qNVg4M0RpR0RyeE9YRWo5SXE2VE1NZ1ZwV2ltMnZfODdBa3NPS2J0d2VGUGR5VThkNWNrQW5xR1dTMlRkZ2hIczJFN3YtS2ozczNTWTdTazNlTUhoZ1hhb0xEdmxnWHVwVFQ4LUJ2NVR4SlJENUpBVk1SUFpqdlltVGVDQmtxc29XNUNKTmx1Z1MydW51bU5GUjVwREVjS3NM0gHEBEFVX3lxTE9kVWlfRmZIWFU1RXZLWGtuU2lqQUVqQWoxcEMtS2ZiSDhnSXh2RnJCNHVwcW9ydjJPZDRPcHRZd1NhYnRwRjdKOFRfemNXQWNRMlRrSVF0N2JRNUN0ZDhoUDQtblluRm1GYjdNdlI4c1RuaTBVUGVuVjdaSU5SeTZzOGxySTNMREpuUXdYd0xFYlJkYzVrQWhFdlVaempTX1hoWVN5a1RkeWg1SmdkcFlWMmJadUZ4QXBpejhJWnhSOURSa0lTVXdoRmo2OWl6RjhWVEpHUV9acmlESWZ5bS1XVXFNOF9WTGJLVjdvRktqTnh3aGh4UWJ0N0hkX3dqeUJlMjB0MEtjTmMxRmw0aWh0VXBLampMOWdGUU1YWkZLaFZWRmZuTzMzNGNUT3NkUXNGLWtyczZJT2RxYk5vbUM4VkFRcGMtekxSc1FrR1JkbnJ4OEw3MEoxVDdaUnU1NjFWMW1SSW5tXzBsYUM3QjhwWkpiNjlpd0pUd2d6M3c3eTNXRGIxQ0ZBdnZZM2tLcW1TaHF1RS14MlUtS1htc0ZrMzNUaVlROGMtLWo1WDgzRGlHRHJ4T1hFajlJcTZUTU1nVnBXaW0ydl84N0Frc09LYnR3ZUZQZHlVOGQ1Y2tBbnFHV1MyVGRnaEhzMkU3di1LajNzM1NZN1NrM2VNSGhnWGFvTER2bGdYdXBUVDgtQnY1VHhKUkQ1SkFWTVJQWmp2WW1UZUNCa3Fzb1c1Q0pObHVnUzJ1bnVtTkZSNXBERWNLc0w?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T08:19:00.000Z",
-      "originalHeadline": "السعودية تستطلع الآراء حول 30 مشروعاً متعلقاً بالشأن الاقتصادي والتنموي - العربية"
-    },
-    {
-      "headline": "‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked",
-      "url": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T08:06:29.000Z"
-    },
-    {
-      "headline": "The Islamic Affairs and Charitable Activities Department records 4,900 training hours and more than 2,830 academic lessons, in addition to implementing 104 Quranic circles in Q1 2026.",
-      "url": "https://x.com/DXBMediaOffice/status/2049036748995666176",
-      "source": "Dubai Media Office",
-      "sourceId": "twitter_dxb_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-04-28T08:03:24.000Z"
-    },
-    {
-      "headline": "“We emerge stronger”...the slogan of the fifth edition of Make in the UAE 2026 - Economy Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZEFwWmZUNzhIU2s5dGozOFY1Wm1pS3pvRXV2TDdRZThIYWtZbkxBRkxwREV5UEQzNjVPTG9JRTJQTU1QQXk4ZmZsYk1FQ18wZ3hhcXM5NDlBbDJEeUx6VF9iemtFSGtiQUtlUUlCUGlRd2pWaEhudnJPMmliZ1FBYUxoaVhxQjFiUkFiZHRCUXh6YWRPTENsb3Fld2hpRk9idDJPZlo3QXlzY1MxQU5qRjRXMlpyNlVaRkwyWHBWNUU1eVYtQnhPLUY2MWFLcU1GY3Jualk0OVVjbUJEamN4RGRlT1hGNVB0aHBnbWp1TkNBcWpMN3NkeEFodE1TNk9Idll5Q2lGNndCT2ZGZ1J2YW13N1JiOF83Vzhmc0hEOTBpTmVKWllJdzZaY1ZXeUU0UWRSV1VNTnlmZXVhVEJRaHVQRWdOMFdVV2MzbVNxZnN1M25iSFE0ajBqN2wycFIwYkFTb1NIeUx5U3pXVEJRSkRJY29BczF6R2UzVUlCclNjSXpKMExoODU1RzVDRzg1MGFaVW5R?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-04-28T08:02:54.000Z",
-      "originalHeadline": "\"بنظهر أقوى\".. شعار النسخة الخامسة من اصنع في الإمارات 2026 - اقتصاد سكاي نيوز عربية"
-    },
-    {
-      "headline": "Saudi Arabia Calls for Freedom of Navigation and Condemnation of Iranian Attacks at UN Security Council",
-      "url": "https://www.spa.gov.sa/en/N2572937?type=news&uuid=N2572937",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-04-28T08:02:29.000Z"
-    },
-    {
-      "headline": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-04-28T07:55:25.000Z"
-    },
-    {
-      "headline": "The Minister of Foreign Affairs receives a phone call from the Minister of Foreign Relations of the Republic of Panama\n\nhttps://\nrb.gy/sey9vh",
-      "url": "https://x.com/bahdiplomatic/status/2049033147447234640",
-      "source": "Bahrain MFA",
-      "sourceId": "twitter_bahrain_mfa",
-      "category": "bahrain_twitter",
-      "country": "Bahrain",
-      "language": "en",
-      "date": "2026-04-28T07:49:06.000Z",
-      "originalHeadline": "وزير الخارجية يتلقى اتصالًا هاتفيًا من وزير العلاقات الخارجية في جمهورية بنما\n\nhttps://\nrb.gy/sey9vh"
-    },
-    {
-      "headline": "Oil Prices Rise 1 % as No End to Iran War Stand - off Seems in Sight",
-      "url": "https://english.aawsat.com/business/5267242-oil-prices-rise-1-no-end-iran-war-stand-seems-sight",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Lebanon : Faced with the Israeli Project and Its Regional Cost",
-      "url": "https://english.aawsat.com/opinion/5267245-lebanon-faced-israeli-project-and-its-regional-cost",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "North Korea Sharply Increased Executions During Pandemic Lockdown , Rights Group Says",
-      "url": "https://english.aawsat.com/world/5267224-north-korea-sharply-increased-executions-during-pandemic-lockdown-rights-group-says",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "American-Iranian tension over Tehran's selection at the Nuclear Non-Proliferation Conference",
-      "url": "https://www.aljazeera.net/news/2026/4/28/%D8%AA%D9%88%D8%AA%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "توتر أمريكي إيراني بسبب اختيار طهران في مؤتمر عدم الانتشار النووي"
-    },
-    {
-      "headline": "Israel Using Water Access as Weapon in Gaza , Says MSF",
-      "url": "https://english.aawsat.com/arab-world/5267248-israel-using-water-access-%E2%80%98weapon%E2%80%99-gaza-says-msf",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "An Israeli poll suggests that the Lapid-Bennett coalition will win over Likud",
-      "url": "https://www.aljazeera.net/news/2026/4/28/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%B1%D8%A3%D9%8A-%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%85%D8%B9%D8%A7-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D9%86%D9%88%D8%A7%D9%8A%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "استطلاع إسرائيلي يرجّح فوز تحالف لبيد وبينيت على الليكود"
-    },
-    {
-      "headline": "US Says Examining Latest Iran Proposal",
-      "url": "https://english.aawsat.com/world/5267238-us-says-examining-latest-iran-proposal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Heavy Flooding in Southern China Forces Evacuations and Leaves Vehicles Submerged",
-      "url": "https://english.aawsat.com/world/5267221-heavy-flooding-southern-china-forces-evacuations-and-leaves-vehicles-submerged",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Camera Shows Sumatra Orangutan Using a Canopy Bridge to Cross a Road in Indonesia",
-      "url": "https://english.aawsat.com/varieties/5267251-camera-shows-sumatra-orangutan-using-canopy-bridge-cross-road-indonesia",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Ukrainian Strikes Kill 3 in Russian Border Region",
-      "url": "https://english.aawsat.com/world/5267252-ukrainian-strikes-kill-3-russian-border-region",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Mladenov Expected in Cairo , Israel to Discuss Gaza Ceasefire",
-      "url": "https://english.aawsat.com/arab-world/5267223-mladenov-expected-cairo-israel-discuss-gaza-ceasefire",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Turkish Cyprus warns against the deployment of French forces south of the island",
-      "url": "https://www.aljazeera.net/news/2026/4/28/%D9%82%D8%A8%D8%B1%D8%B5-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%86%D8%B4%D8%B1-%D9%82%D9%88%D8%A7%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "قبرص التركية تحذر من نشر قوات فرنسية جنوبي الجزيرة"
-    },
-    {
-      "headline": "Iran Economy Has Been Battered . Its Leaders Still Think Trump Will Blink First",
-      "url": "https://english.aawsat.com/business/5267233-iran%E2%80%99s-economy-has-been-battered-its-leaders-still-think-trump-will-blink-first",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Shell to Acquire Canada ARC In Output - Boosting $16 . 4 Billion Deal",
-      "url": "https://english.aawsat.com/business/5267217-shell-acquire-canadas-arc-output-boosting-164-billion-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-04-28T07:45:00.000Z",
-      "tier": "gdelt"
     }
   ]
 }
