@@ -193,6 +193,17 @@
       "language": "ar"
     },
     {
+      "id": "wam_api",
+      "name": "Emirates News Agency (WAM)",
+      "type": "wam_api",
+      "url": "https://www.wam.ae/api/app/views/GetViewByUrl",
+      "viewPath": "en/home/main",
+      "priority": "primary",
+      "category": "uae",
+      "language": "en",
+      "notes": "Public JSON API. Returns 11 home sections; we dedupe by article id, skip videos/sports/culture/most-read duplicates."
+    },
+    {
       "id": "arn_news",
       "name": "ARN News Center",
       "type": "rss",

@@ -23,7 +23,9 @@ const fs = require('fs');
 
 const CONFIG_PATH = './sources.json';
 const FEED_PATH = './feed.json';
-const MAX_ITEMS = 200;
+// Match lib/scrape-twitter.js's default (300). Otherwise the 15-min RSS cron
+// caps to 200 and drops ~100 tweets that the 3h twitter cron just merged in.
+const MAX_ITEMS = 300;
 
 // ============================================
 // COUNTRY LABEL MAPPING
@@ -60,7 +62,11 @@ const COUNTRY_MAP = {
 function fetch(url, options = {}) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
+    // insecureHTTPParser tolerates sloppy server headers (WAM's API sends
+    // malformed CR-after-header-value that strict parsing rejects). Safe for
+    // read-only fetches; we're not in a security-critical context.
     const req = client.get(url, {
+      insecureHTTPParser: true,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
         'Accept': 'text/html, application/rss+xml, application/xml, text/xml',
@@ -434,6 +440,54 @@ async function fetchSpaApi(source) {
 }
 
 // ============================================
+// WAM JSON API (Emirates News Agency)
+// WAM exposes a structured "view" API: GetViewByUrl?url=en/home/main returns
+// 11 sections each with articlesResult.items. We dedupe by article id across
+// sections and shape into feed items. URLs are constructed from urlSlug.
+// ============================================
+
+async function fetchWamApi(source) {
+  const items = [];
+  const seen = new Set();
+  // The API path; can be overridden in sources.json via source.viewPath.
+  const viewPath = source.viewPath || 'en/home/main';
+  const apiUrl = `${source.url}?url=${viewPath}`;
+  try {
+    const res = await fetch(apiUrl, { headers: { 'Accept': 'application/json' } });
+    const data = JSON.parse(res);
+    const sections = data.sections || [];
+    for (const section of sections) {
+      const sectionTitle = (section.displayTitle || '').toLowerCase();
+      // Skip "most read" / "most widely traded" — they duplicate other sections.
+      // Skip pure media (videos) and sports/culture; lower-priority categories
+      // can be enabled later by tweaking source.skipSections.
+      if (/most read|most widely|video|sports|culture/i.test(sectionTitle)) continue;
+      const sectionItems = section.articlesResult?.items || [];
+      for (const it of sectionItems) {
+        if (!it.id || seen.has(it.id)) continue;
+        seen.add(it.id);
+        const slug = it.urlSlug || it.shortCode || '';
+        if (!slug) continue;
+        const url = `https://www.wam.ae/${viewPath.startsWith('ar') ? 'ar' : 'en'}/details/${slug}`;
+        items.push({
+          headline: (it.title || '').trim(),
+          url,
+          source: source.name,
+          sourceId: source.id,
+          category: source.category || 'uae',
+          country: COUNTRY_MAP[source.category] || 'UAE',
+          language: source.language || 'en',
+          date: it.articleDate ? new Date(it.articleDate).toISOString() : new Date().toISOString(),
+        });
+      }
+    }
+  } catch (e) {
+    console.log(`  X  ${source.name}: ${e.message}`);
+  }
+  return items;
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -469,15 +523,26 @@ async function main() {
   allItems.push(...gdeltItems);
   console.log(`GDELT items: ${gdeltItems.length}`);
 
-  // ---- Tier 3: SPA JSON API ----
-  // State news agency direct API. Currently only SPA; pattern can extend to
-  // other agencies if/when their APIs are discovered.
+  // ---- Tier 3: State news agency JSON APIs ----
+  // Each agency has its own response shape, hence per-agency adapters.
+  // Pattern: discover the JSON endpoint from the live site (probe-agencies.js
+  // is a good template), then add an adapter here.
   const spaSources = config.sources.filter(s => s.type === 'spa_api' && !s._comment);
   if (spaSources.length > 0) {
     console.log('\nFetching SPA API...');
     for (const source of spaSources) {
       const items = await fetchSpaApi(source);
       console.log(`  OK ${source.name}: ${items.length} items across ${(source.categories || [1]).length} categories`);
+      allItems.push(...items);
+    }
+  }
+
+  const wamSources = config.sources.filter(s => s.type === 'wam_api' && !s._comment);
+  if (wamSources.length > 0) {
+    console.log('\nFetching WAM API...');
+    for (const source of wamSources) {
+      const items = await fetchWamApi(source);
+      console.log(`  OK ${source.name}: ${items.length} items`);
       allItems.push(...items);
     }
   }
