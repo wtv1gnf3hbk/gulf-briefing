@@ -392,24 +392,10 @@ ${briefingText
   .join('\n')}
   </div>
 
-  ${screenshots.length > 0 ? `
-  <div class="screenshots-section">
-    <div class="screenshots-header">📸 Homepage Screenshots</div>
-    <div class="screenshots-grid">
-      ${screenshots.map(s => `
-      <div class="screenshot-card">
-        <a href="${s.url}" target="_blank">
-          <img src="screenshots/${s.filename}" alt="${s.name}" loading="lazy">
-        </a>
-        <div class="label">
-          <a href="${s.url}" target="_blank">${s.name}</a>
-          ${s.language && s.language !== 'en' ? `<span style="color:#999">(${s.language})</span>` : ''}
-        </div>
-      </div>
-      `).join('')}
-    </div>
-  </div>
-  ` : ''}
+  <!-- Homepage screenshots removed 2026-05-04 per legal guidance: screenshots
+       contain embedded copyrighted photos. Capture is retained internally for
+       headline extraction; display is suppressed. -->
+  ${''}
 
   <div class="feedback-section" id="feedback-section" data-date="${timestamp.isoDate}">
     <div class="feedback-prompt">How was today's briefing?</div>
