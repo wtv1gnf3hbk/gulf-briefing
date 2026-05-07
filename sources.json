@@ -26,7 +26,12 @@
       "priority": "primary",
       "category": "saudi",
       "language": "ar",
-      "categories": [1, 2, 3, 17],
+      "categories": [
+        1,
+        2,
+        3,
+        17
+      ],
       "notes": "Public JSON API (categories: General, Political, Economic, Environment). More complete than @Spa_Eng Twitter, posts content not on Twitter."
     },
     {
@@ -345,15 +350,6 @@
       "priority": "secondary",
       "category": "qatar",
       "language": "ar"
-    },
-    {
-      "id": "aljazeera",
-      "name": "Al Jazeera",
-      "type": "rss",
-      "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "priority": "primary",
-      "category": "qatar",
-      "notes": "Al Jazeera English RSS — Qatar-funded but broad international coverage"
     },
     {
       "id": "aljazeera_arabic",
@@ -713,14 +709,6 @@
       "name": "Wall Street Journal",
       "type": "screenshot",
       "url": "https://www.wsj.com/news/types/middle-east-news",
-      "priority": "secondary",
-      "category": "competitors"
-    },
-    {
-      "id": "bloomberg_gulf",
-      "name": "Bloomberg Gulf",
-      "type": "rss",
-      "url": "https://news.google.com/rss/search?q=when:24h+(Saudi+Arabia+OR+UAE+OR+Qatar+OR+Gulf)+site:bloomberg.com&ceid=US:en&hl=en-US&gl=US",
       "priority": "secondary",
       "category": "competitors"
     },
