@@ -1,7 +1,688 @@
 {
-  "updated": "2026-05-07T11:25:10.204Z",
+  "updated": "2026-05-07T13:14:42.065Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Dubai Customs discusses proactive solutions with partners through interactive workshop",
+      "url": "https://www.wam.ae/en/details/c03cr0k-dubai-customs-discusses-proactive-solutions-with",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T13:01:22.711Z"
+    },
+    {
+      "headline": "Federal Tax Authority receives two international accreditations",
+      "url": "https://www.wam.ae/en/details/c03cqxr-federal-tax-authority-receives-two-international",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:59:58.321Z"
+    },
+    {
+      "headline": "DP World launches end-to-end cargo war risk insurance for Middle East trade",
+      "url": "https://www.wam.ae/en/details/c03cqxq-world-launches-end-to-end-cargo-war-risk-insurance",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:49:10.259Z"
+    },
+    {
+      "headline": "Jeddah Municipality Completes Preparations for Hajj Season 1447 AH",
+      "url": "https://www.spa.gov.sa/en/N2580087?type=news&uuid=N2580087",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:48:35.000Z"
+    },
+    {
+      "headline": "Trump's hopes for a peace agreement with Iran are accompanied by some ifs",
+      "url": "https://www.bbc.com/persian/articles/c5ye0873k49o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-07T12:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "امیدهای ترامپ برای توافق صلح با ایران با اما و اگرهایی همراه است"
+    },
+    {
+      "headline": "Al-Baha Region Strengthens Food Security with Diverse Crop Production",
+      "url": "https://www.spa.gov.sa/en/N2580080?type=news&uuid=N2580080",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:40:05.000Z"
+    },
+    {
+      "headline": "ADX launches new integrated trading services to accelerate investor access, market efficiency",
+      "url": "https://www.wam.ae/en/details/c03cqxp-adx-launches-new-integrated-trading-services",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:34:21.762Z"
+    },
+    {
+      "headline": "UK voters head to the polls in local elections",
+      "url": "https://www.aljazeera.com/news/2026/5/7/uk-voters-head-to-the-polls-in-local-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T12:34:05.000Z"
+    },
+    {
+      "headline": "UAEREP highlights research contributions at 2026 Weather Modification Association Annual Meeting",
+      "url": "https://www.wam.ae/en/details/c03cqxo-uaerep-highlights-research-contributions-2026",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:31:31.239Z"
+    },
+    {
+      "headline": "First Makkah Route Initiative Flight from Côte d’Ivoire Arrives in Madinah",
+      "url": "https://www.spa.gov.sa/en/N2580074?type=news&uuid=N2580074",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:31:08.000Z"
+    },
+    {
+      "headline": "Between arrogance and saving face... Iran's war is looking for a way out",
+      "url": "https://www.aljazeera.net/politics/2026/5/7/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%BA%D8%B1%D9%88%D8%B1-%D9%88%D8%AD%D9%81%D8%B8-%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T12:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بين الغرور وحفظ ماء الوجه .. حرب إيران تبحث عن مخرج"
+    },
+    {
+      "headline": "A wide popular welcome in the Emirates for President Sisi’s visit Video - Al-Ahram Gate",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OMzYyZXVwd3lSWXE5dkpZSFB6RVJ2RmNrcUZGTWJhaDFfUUY2ejEzbjluQXg5NW9qSWp1b0xWTTlLdGltOFlnVEtmbGZDeGtMNTRqa3pR?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T12:28:00.000Z",
+      "originalHeadline": "ترحيب شعبي واسع في الإمارات بزيارة الرئيس السيسي| فيديو - بوابة الأهرام"
+    },
+    {
+      "headline": "Mubadala partners with WHOOP to strengthen preventative health, research capabilities in UAE",
+      "url": "https://www.wam.ae/en/details/c03cqxn-mubadala-partners-with-whoop-strengthen",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:26:59.043Z"
+    },
+    {
+      "headline": "MSF accuses Israel of manufacturing a malnutrition crisis in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/5/7/msf-accuses-israel-of-manufacturing-a-malnutrition-crisis-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T12:21:54.000Z"
+    },
+    {
+      "headline": "ADGM Courts, Mediation Hub MENA sign strategic MoU to advance mediation in UAE",
+      "url": "https://www.wam.ae/en/details/c03cqxm-adgm-courts-mediation-hub-mena-sign-strategic-mou",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:19:25.939Z"
+    },
+    {
+      "headline": "Unified Number 1966 Provides Round-the-Clock Multilingual Support for Pilgrims",
+      "url": "https://www.spa.gov.sa/en/N2580058?type=news&uuid=N2580058",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:16:36.000Z"
+    },
+    {
+      "headline": "Sharjah Innovation Park joins hands with EU to boost cooperation on circular economy",
+      "url": "https://www.wam.ae/en/details/c03cqxl-sharjah-innovation-park-joins-hands-with-boost",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:16:22.486Z"
+    },
+    {
+      "headline": "Bahrain Revokes Membership of Three Lawmakers",
+      "url": "https://english.aawsat.com/gulf/5270573-bahrain-revokes-membership-three-lawmakers",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel Strikes across Southern Lebanon despite Truce",
+      "url": "https://english.aawsat.com/arab-world/5270586-israel-strikes-across-southern-lebanon-despite-truce",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Pezeshkian Says he Recently Met with the Supreme Leader",
+      "url": "https://english.aawsat.com/world/5270589-pezeshkian-says-he-recently-met-supreme-leader",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US and Iran Inch towards Short - term Deal to End Fighting",
+      "url": "https://english.aawsat.com/world/5270588-us-and-iran-inch-towards-short-term-deal-end-fighting",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Iraq Historic Marshes Revive as Water Returns after Years of Drought",
+      "url": "https://english.aawsat.com/varieties/5270585-iraqs-historic-marshes-revive-water-returns-after-years-drought",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Ethiopia and Sudan … From a Shadow War to the Brink of Confrontation",
+      "url": "https://english.aawsat.com/opinion/5270601-ethiopia-and-sudan%E2%80%A6-shadow-war-brink-confrontation",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Donald Trump's strange 24 hours and escalating concern over the color of his hands - in the newspaper round",
+      "url": "https://www.bbc.com/arabic/articles/c3e24d284jjo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T12:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "24 ساعة غريبة لدونالد ترامب وتصاعد القلق بشأن لون يديه – في جولة الصحف"
+    },
+    {
+      "headline": "Special Forces for Environmental Security Launches Tree Planting Initiative During Saudi Environment Week",
+      "url": "https://www.spa.gov.sa/en/N2580057?type=news&uuid=N2580057",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:14:27.000Z"
+    },
+    {
+      "headline": "UAE establishes national committee to document aggression, international crimes",
+      "url": "https://www.wam.ae/en/details/c03cqxk-uae-establishes-national-committee-document",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:12:36.825Z"
+    },
+    {
+      "headline": "HM The Sultan issues Royal Decree",
+      "url": "https://timesofoman.com//article/171542-hm-the-sultan-issues-royal-decree-35",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-05-07T12:07:09.000Z"
+    },
+    {
+      "headline": "SFDA CEO Visits Makkah Route Initiative Hall at King Abdulaziz Airport",
+      "url": "https://www.spa.gov.sa/en/N2580050?type=news&uuid=N2580050",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:04:19.000Z"
+    },
+    {
+      "headline": "Greater Muscat Structure Plan: A pivotal milestone in integrated urban development",
+      "url": "https://timesofoman.com//article/171541-greater-muscat-structure-plan-a-pivotal-milestone-in-integrated-urban-development",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-05-07T12:03:53.000Z"
+    },
+    {
+      "headline": "Oman achieves current account surplus, supported by growth in non-oil exports: WB",
+      "url": "https://timesofoman.com//article/171540-oman-achieves-current-account-surplus-supported-by-growth-in-non-oil-exports-wb",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-05-07T12:02:19.000Z"
+    },
+    {
+      "headline": "Emirates Drug Establishment brings together industrial innovation and humanitarian empowerment at \"Make it in the Emirates 2026\"",
+      "url": "https://www.wam.ae/en/details/c03cqxj-emirates-drug-establishment-brings-together",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T12:00:57.041Z"
+    },
+    {
+      "headline": "IsDB Public-Private Partnership Forum Expands Investment, Economic Integration Horizons for Member States",
+      "url": "https://www.spa.gov.sa/en/N2580047?type=news&uuid=N2580047",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T12:00:41.000Z"
+    },
+    {
+      "headline": "The Carnegie Foundation...a reservoir of ideas devoted to research and policy making",
+      "url": "https://www.aljazeera.net/encyclopedia/2026/5/7/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D9%83%D8%A7%D8%B1%D9%86%D9%8A%D8%BA%D9%8A-%D8%AE%D8%B2%D8%A7%D9%86-%D8%A3%D9%81%D9%83%D8%A7%D8%B1-%D9%85%D9%88%D9%82%D9%88%D9%81-%D8%B9%D9%84%D9%89",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مؤسسة كارنيغي .. خزان أفكار موقوف على البحث وصناعة السياسات"
+    },
+    {
+      "headline": "We will not be intimidated by the killing of sons.. Khalil Al-Hayya bids farewell to his fourth son as a martyr news",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D9%84%D9%86-%D9%8A%D8%B1%D9%87%D8%A8%D9%86%D8%A7-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لن يرهبنا قتل الأبناء .. خليل الحية يودّع رابع أبنائه شهيدا | أخبار"
+    },
+    {
+      "headline": "Airlines still have to pay compensation if flights cancelled due to fuel crisis , EU says",
+      "url": "https://www.theguardian.com/business/2026/may/07/airlines-still-have-to-pay-compensation-if-flights-cancelled-due-to-fuel-crisis-eu-says",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-07T12:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Sixth GCC \"Takatuf\" exhibition kicks off",
+      "url": "https://timesofoman.com//article/171539-sixth-gcc-takatuf-exhibition-kicks-off",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-05-07T11:59:20.000Z"
+    },
+    {
+      "headline": "National Strategy for Vector Surveillance & 'Rased'” programme launched",
+      "url": "https://timesofoman.com//article/171538-national-strategy-for-vector-surveillance-rased-programme-launched",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-05-07T11:57:58.000Z"
+    },
+    {
+      "headline": "RAKEZ signs two strategic agreements to reinforce Ras Al Khaimah’s position as competitive industrial hub, attract investments",
+      "url": "https://www.wam.ae/en/details/c03cqup-rakez-signs-two-strategic-agreements-reinforce-ras",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T11:53:19.882Z"
+    },
+    {
+      "headline": "‘Empowering Future Leaders’ programme launches 2nd cohort",
+      "url": "https://www.wam.ae/en/details/c03cquo-‘empowering-future-leaders’-programme-launches-2nd",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T11:47:12.007Z"
+    },
+    {
+      "headline": "Analysis: Trump trapped Iran between two traps using the silver bullet strategy",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/05/07/trump-is-trapped-by-his-own-strategy-as-he-grapples-for-an-exit-in-iran",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تحليل .. ترامب علق بإيران بين فخين باستخدام استراتيجية الرصاصة الفضية"
+    },
+    {
+      "headline": "Smart tracking devices.. Do they really protect your things or give you false reassurance?",
+      "url": "https://www.aljazeera.net/tech/2026/5/7/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D9%8A-%D9%87%D9%84-%D8%AA%D8%AD%D9%85%D9%8A-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A1%D9%83-%D8%AD%D9%82%D8%A7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أجهزة التتبع الذكي .. هل تحمي أشياءك حقا أم تمنحك طمأنينة زائفة ؟"
+    },
+    {
+      "headline": "Has the privacy of our dreams ended? How did artificial intelligence succeed in eavesdropping on what we see at night?",
+      "url": "https://www.aljazeera.net/lifestyle/2026/5/7/%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D8%AA-%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9-%D8%A3%D8%AD%D9%84%D8%A7%D9%85%D9%86%D8%A7-%D9%83%D9%8A%D9%81-%D9%86%D8%AC%D8%AD",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل انتهت خصوصية أحلامنا ؟.. كيف نجح الذكاء الاصطناعي في التلصص على ما نراه ليلا ؟"
+    },
+    {
+      "headline": "Japan and the UAE discuss oil supplies and joint stocks",
+      "url": "https://www.aljazeera.net/ebusiness/2026/5/7/%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "اليابان والإمارات تناقشان إمدادات النفط والمخزونات المشتركة"
+    },
+    {
+      "headline": "An Israeli army spokesman announces the killing of the commander of Hezbollah's Radwan Force in a raid on Beirut",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/05/07/idf-killing-of-the-commander-of-hezbollahs-radwan-force",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "متحدث الجيش الإسرائيلي يعلن مقتل قائد قوة الرضوان بحزب الله بغارة على بيروت"
+    },
+    {
+      "headline": "An Indian model's appearance in blue jeans-like pants sparks controversy at the Met Gala",
+      "url": "https://arabic.cnn.com/style/article/2026/05/07/blue-trousers-at-met-gala-2026",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إطلالة عارضة هندية بسروال أزرق يُشبه الجينز تثير الجدل في ميت غالا"
+    },
+    {
+      "headline": "Iran responds to allegations that it attacked a South Korean ship in the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/05/07/iran-denies-claims-of-attack-on-south-korean-vessel",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إيران ترد على مزاعم مهاجمتها سفينة كورية جنوبية في مضيق هرمز"
+    },
+    {
+      "headline": "A street seller of firearms in the streets of Sanaa raises the eyebrows of tweeters",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%A8%D8%A7%D8%A6%D8%B9-%D9%85%D8%AA%D8%AC%D9%88%D9%84-%D9%84%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بائع متجول للأسلحة النارية في شوارع صنعاء يثير استغراب المغردين"
+    },
+    {
+      "headline": "Bloomberg Businessweek - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5",
+      "source": "Bloomberg Gulf",
+      "sourceId": "bloomberg_gulf",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T11:42:14.000Z"
+    },
+    {
+      "headline": "Irish footballers and celebrities urge boycott of Israel matches",
+      "url": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T11:42:03.000Z"
+    },
+    {
+      "headline": "Turkiye unveils its first intercontinental ballistic missile: What we know",
+      "url": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T11:40:38.000Z"
+    },
+    {
+      "headline": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjNQVDRxamlZMDlncVBKeDc1WXpxMERnZHcwb2FPOWxyU3dIb0RUaGk4c1RXczQxeS1HQ1RMbGwybkpNckFTT0ZsNGdOdUR5bFRnVFlzcEZiQUpOWWVOR0hYLW1FWlJtMEZVbW9zOTRfX3puVzY5bVhjWnA3cEI0WVI0bkNZWERuZ3lWOWFqX2ZwRGxxc242d2RjUEFtZ2dJcVdJc3cycDdEaHJxYlQybkVJSDI?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T11:40:31.000Z"
+    },
+    {
+      "headline": "ADNOC.. a major driver of industry in the Emirates - Economy Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPd0IwSXl6ZVJFbV9xdm1yOXVGTklEeWFySWJqdEUyNUcxRGF4b1liVlFMU3VUd190dWJKc0FaSWhFbUNzNXoxMWNvY1pFY3ltM1QxY1VjZVJjN2tnQXJxRmJVZ29hSHp1WlhnZnEyNS1rLUxaOHVvZjIzbFl3a0U4ckpmdVNXRlNaS19HZmx4SDVuMUdUeXZlMm9mY2pVejlHQ0dSak1wLW9BUVR2a3ZIdFNKMnBuc3prekRLaDBsLVY5QTVHQ1dNT1pqMFRWSGRCcUlDNmwxLS1WbWlvSkNqbGNydUdTMlVaclZQSDA5VldZcGZ4QVZocXZQd2NQNGRwS21WWDUyUU45RVF0X0hHUzRUd3A0Xzhaemw5MWctc2wwa2FOMHBHTkM2b3AyMTJ4Ty1wT25PT01PTm9FNmk0aWxB?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:39:30.000Z",
+      "originalHeadline": "أدنوك.. محرك رئيسي للصناعة في الإمارات - اقتصاد سكاي نيوز عربية"
+    },
+    {
+      "headline": "Saudi Environment Week Captures the Kingdom’s Biodiversity",
+      "url": "https://www.spa.gov.sa/en/N2580015?type=news&uuid=N2580015",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T11:38:31.000Z"
+    },
+    {
+      "headline": "ECI collaborates with DEDC to provide export credit insurance, risk mitigation services to Dubai-based manufacturers",
+      "url": "https://www.wam.ae/en/details/c03cqum-eci-collaborates-with-dedc-provide-export-credit",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T11:36:37.488Z"
+    },
+    {
+      "headline": "Can Asian economies cope with the fallout from the Iran war?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T11:35:57.000Z"
+    },
+    {
+      "headline": "NCM Forecasts Light Rain Showers Over Makkah City",
+      "url": "https://www.spa.gov.sa/en/N2580009?type=news&uuid=N2580009",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T11:34:38.000Z"
+    },
+    {
+      "headline": "“Whatever affects the UAE affects Egypt.” Al-Sisi meets Mohammed bin Zayed in Abu Dhabi - alghad.tv",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPQXZyaF9XS2lRR01GZVZ4aDhiV3lRQmRlQUU0SHhab3VHbzIxUG5aeEtLcG41NTB1QWR0d0ZieENYOEI1RFZ2MkVmNEd2aTJHaXpTZjQ2WXpMal81QUxFcEF4c19IeWNtcl9WbkczbXctLWY1QWNoangwbTNkbl9sZUJzUEdNSlhucGphR3c4Zlcyd1kxLTNkTk5CRDFoeW4xNEtudEdlbDVBZ095eDZHNkdPX2t3Um92VVAtWEo4YkZwLXg1SE1ZSmFwTGVtamR3UkQ5dHhXNXk0dDMzTGRCLTRXaV9wWDI1SzJaT2NFZW5hZm8zemxhZVFySGhONEsyOE9nR21OakVBdFpKTXV0d3Y1UUV3NnVjaENMUWwxX2p4SDF6YVA0Rk84NnYyNktUZjZWUzJxbjhxM1JmSUlJekQtQ1RxdFdkZlF0aFVjZDd4Y1JaMVNBeTBn?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:32:12.000Z",
+      "originalHeadline": "«ما يمس الإمارات يمس مصر».. السيسي يلتقي محمد بن زايد في أبوظبي - alghad.tv"
+    },
+    {
+      "headline": "Will the Iran war put an end to the decades-long Gulf-American alliance?",
+      "url": "https://www.bbc.com/arabic/articles/c04xg7weyqqo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل تضع حرب إيران نهاية لعقود من التحالف الخليجي - الأمريكي ؟"
+    },
+    {
+      "headline": "Africa sees winners and losers as Iran war pushes up oil prices",
+      "url": "https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "qatar",
+      "country": "Qatar",
+      "language": "en",
+      "date": "2026-05-07T11:29:43.000Z"
+    },
+    {
+      "headline": "ADIB expands global market access as first UAE bank on ADX’s Tabadul Platform",
+      "url": "https://www.wam.ae/en/details/c03cqul-adib-expands-global-market-access-first-uae-bank",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T11:29:41.757Z"
+    },
+    {
+      "headline": "The Saudi market index regains the level of 11 thousand points, rising 3% - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQY0pObk9yb045MGljRXRrLU1qR19qWFRHUDkxWTlNVk1SUmNGLXNiWVQ3em40SzhmeWJXMHpRMGN5XzFYV3p5b2NiQkNhQmpaV0NMNjlVNk9KcXZnWk14bTJRWFQwc2ZTWktTUzRsUkRpcy1kaGRnNHd5N1p5Ry1fUkRsUVJ4M25jUHlhaTFaOVVFSHk4Z09BckEwWWVmYVc5WXhtSUF1eTBLQ3c0RG5ULVZzVDNwVEtqZDlOd2x5U01TVER4MWZMM0tGajhSdjUybjdlWG5EMkxlOVNwbnloLXBUOGVseGVLNUZxLUs5LXNYY3FoNlVrUnN1VlEwLVlVRkhtWk5HTGhZS18zdFZER2JPNS00OUo1UTRPOUFQUDJ6cTBWSTF1QVJfMHhLeHI1MTBQZEI1LXluQ3g3dUx4X0dvdHNuTnFKd0VUa0k2Q1BCVHhXUEJfSlNEY3NqcjY1dm45MVhGTG0ycThWRDQ5U19zb2JELXFYU0dCLXZ6NGJMc1VJQXBlTzB5TlFKd0lWQmZsV1RQUWZleVRRTExJdi1seGNyOWRzaVlBOUNEZEkyUGwwd3NDTk53UVJSdWdqXzBnbjdXVlNRUTjSAcsDQVVfeXFMUGNKTm5Pcm9OOTBpY0V0ay1NakdfalhUR1A5MVk5TVZNUlJjRi1zYllUN3puNEs4ZnliVzB6UTBjeV8xWFd6eW9jYkJDYUJqWldDTDY5VTZPSnF2Z1pNeG0yUVhUMHNmU1pLU1M0bFJEaXMtZGhkZzR3eTdaeUctX1JEbFFSeDNuY1B5YWkxWjlVRUh5OGdPQXJBMFllZmFXOVl4bUlBdXkwS0N3NERuVC1Wc1QzcFRLamQ5TndseVNNU1REeDFmTDNLRmo4UnY1Mm43ZVhuRDJMZTlTcG55aC1wVDhlbHhlSzVGcS1LOS1zWGNxaDZVa1JzdVZRMC1ZVUZIbVpOR0xoWUtfM3RWREdiTzUtNDlKNVE0TzlBUFAyenEwVkkxdUFSXzB4S3hyNTEwUGRCNS15bkN4N3VMeF9Hb3Rzbk5xSndFVGtJNkNQQlR4V1BCX0pTRGNzanI2NXZuOTFYRkxtMnE4VkQ0OVNfc29iRC1xWFNHQi12ejRiTHNVSUFwZU8weU5RSndJVkJmbFdUUFFmZXlUUUxMSXYtbHhjcjlkc2lZQTlDRGRJMlBsMHdzQ05Od1FSUnVnal8wZ243V1ZTUVE4?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:29:00.000Z",
+      "originalHeadline": "مؤشر السوق السعودية يستعيد مستوى 11 ألف نقطة مرتفعا 3% - العربية"
+    },
+    {
+      "headline": "Al-Sisi affirms Egypt's solidarity with the UAE in the face of Iran's attacks - Al-Sharq",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQQnB4a0lSaEpPelE3T2tuOEpJTGhRNmhkdWM0SEpRdUg4R3Z5YVU0TkhjaTFRSlpjcnNiaHBDVzBmNEh1aWFBTVV3c1J6ZW5yNzhEZkZqSmN4QWdIQi05WWswMzBFVHhyRTdJU3VYWnRTaEw5TElyMjJyT3NoVk9jQzBBYTlRQ3dFM0F3bE9qU1diaHQzbWtyWGlKUkhkcGdYNHA4LXNTQ3Bxc01XNldmN1ZzY2EyZms3OHNpQkJYUzZnSmlXS2NmX2N5dXExLW9UenEtWFFseksyODBXclB2RGlqMHNaUjFYNGxtYno1UktIX29ZczVCZGR5ZzhUSGpHVjRUX0ZwSVMwVVpPOFpfTWR4ekVHQWJSVnVFTkxuckZyWF9kQ3pncFFJMlAydklzdEJ2V0xIbzNiczNhZXZzRjZnaUtpUnNTYlMzdjJjR2pWVkE1UEtXb1ZqbC1tWmZXRHM2clkxSnBLRC1ubC1OZXAwek1GWXZia0w1RGIwUEpqSUt2T2VZZk1WWEJ3SE12VU93SzgtVDhFRTFvQi1DOFNBSVZlSkU3aDlFWTNwR3paU0F6TGhsNm1xZFlmaHdoSFJjaDdfUWpFbjhBbHhSTUtJc3JCYWlfSm5n?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:26:50.000Z",
+      "originalHeadline": "السيسي يؤكد تضامن مصر مع الإمارات في مواجهة اعتداءات إيران - الشرق"
+    },
+    {
+      "headline": "Abu Dhabi Entertainment Company, 9Yards Communications announce strategic partnership to enhance integrated events, communications capabilities",
+      "url": "https://www.wam.ae/en/details/c03cquk-abu-dhabi-entertainment-company-9yards",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-07T11:25:45.081Z"
+    },
+    {
+      "headline": "President Sisi is on a fraternal visit to the Emirates and confirms that “whatever affects the Emirates affects Egypt” - Nile News Channel",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTXVKZms2VWdvMEFKb0o5a0VlNy1qQVhaaDVQSm1wRm93c3IwZEJRS1lGSlJidzJNT3pkbUM4bjRjUzF2WHlNUzV6YUJxNXE4cUNvcEFCU3JVOTJHcDBGODNCeUR0eFJhWEtiNWd0RFZjdXR4Rll2SVEzbGRNVUZhREdldDNwMUdlWC1XakNTQ1BaMWRXcXdaQTRvci0yOUo2VVAxSUg4QzNTTnNaSWhMVlhuSE5hWEZhZFBZQS1nSGE4Zzg5Y3VNVzRXeXNqcHRVYXFBUF80cDFTdnJ6aGVMb1VGczFnc2Y2dENSbU84aW9aWGYyZ2ZqNDZQZllORTN0SGlZWmdvaTloQ2gyeXBzS2lpb0VpTFdGbkMxMVBBaDFUWjRKVFd4cVBQcnVPZWxwU3lkbU1lWEdyb0Q0Slo4?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T11:25:28.000Z",
+      "originalHeadline": "الرئيس السيسى فى زيارة أخوية إلى الإمارات ويؤكد “ما يمس الإمارات يمس مصر” - قناة النيل للأخبار"
+    },
     {
       "headline": "Mohamed Elneny.. Al Jazeera surprises his fans with a gift in the final of the UAE President’s Cup - Youm7",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNRng3VkNyeWxMMU1qVlNIZnFpRUVWc3lFaUIxVmtHTWR6TkFROW9paUtZaFBrT2piZkJOQ2VEejVYclhDY0xZY09YLU5OR1ZYR0lwT0gtWTFwbFk1V0tTT1g4a1hrenVKLTR0SWllT1VvbldJT2Rrci0xUHhNSnJFTjJUcDlKOE5GaDlycHVQZnQyVjFPcWlnQnJSSkpaRmx2aTdxa201N3ZwVDZwbWxWdVZTc0NJVXNPcDhhTTVYUGtmcVN5NXIwMTRYOW56YlQxd0dwRlgzcURuM1JyZE4zbmpnamVyUk43MHc2czZUejAyMW9JV3lqNlNILXdhYWgtUWJjcXBVY2M4LTJOQUpEdXQ1SUhNSE1ZdTVOWDR0d1ZuR21xUkdyRzZITVlWT1B2RzNySkdHVmlLRXBEQ2M4MEYtZzZfdXVxODh6RmhlOW5rTkQ1Q185NlpLVUFLdEVlN0R5WFpyQVpPU0luVFNOM0pwRE9uWWhhM2JiSWhVRmFXZ1E3RDBKLVBqZ2lGMmNjWm5hZ3FlQk1SenVaUWxmM3ZHVG9rT0pidDV2V1libEg2UEk5T3VEc1p0VldvbVRfWldLZVcwSW1EUll3NTlYN0JzcnnSAc8DQVVfeXFMUHBrQ2lnM3dPVHJLcC16R1VaRFFjNmxPWngzem5tMzd1T0U3LVlJN2MxeW1hbkhlUUVibjJmWXY3dzl5Znp1SkxuRG1pczVGRDlRMGQxeFNmWWkwY011MTc4aGlCRk45YTFzenpNMW1Gd1BKeFdRbmtORmdxdzE1X1IyYmZyRFB3NGVUbGtDTzJneEFmY1V1RHZXX3JzMU5yVEZKcEppSUt3dXd0TGp0WnNyNzZTdFNBLThhV21uV3FWSUpOOFl2TWpMeWZOZkpEUmUyVFVfWF9RVVp5NGwwNDlNS2JkLVhVZ2xuRVY3Z0VzRlVRenUyUjNVQlVwbHhCRkpWOTAtd1FadzJGNmY2Smhoem1WZ2NKTk9FdkhNRjdudjVZQ0JlbDZGdTc0ZGF1SGZCakNuQm5YVkxHTlJxVWQ0NzZnWER5NWJEbFR4N1VheWZONUxWUm9wZnFxT1NJSmZpLWNuSFpMX0t1M2NVT2I2Vzdmbk1VX281bGtteGREUXRLZlRza3k0QnduMkoycW50UjFBeHVMSEgxUlhZYVJsdHJzYUszaVZiR1hVS3JZa3cwRExuTi14MEZQOWVTbTM0YWtoNzNmNVUxQ3RnTQ?oc=5",
@@ -44,6 +725,17 @@
       "date": "2026-05-07T11:16:58.000Z"
     },
     {
+      "headline": "Kwanini uhusiano kati ya UAE na mataifa ya Kiarabu umezorota ?",
+      "url": "https://www.bbc.com/swahili/articles/c7v9zmy4eydo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-07T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Emirates Airlines records record profits despite the repercussions of the Iran war - Al Borsa newspaper",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT0RMcVlnMjdhWnl4ZTEwb19BczJCM2FnZTZsb3N1QWFIZnZWTlEtazVwUHVBRnZyeEhzN1RCRmdlN0JrSXJvbGhYQ29OeWhvTXUzSmxXc3lfY2c?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -55,7 +747,7 @@
       "originalHeadline": "\"طيران الإمارات\" تسجل أرباحاً قياسية رغم تداعيات حرب إيران - جريدة البورصة"
     },
     {
-      "headline": "The Kuwait Stock Exchange closes weekend trading despite mixed indicators - Al-Borsa Newspaper",
+      "headline": "بورص�� الكويت تُغلق تعاملات نهاية الأسبوع على تباين مؤشراتها - جريدة البورصة",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FYTk0VGk1MWg0VmJ4dWlvRUJMYVZiS3dsUnRFa1dQeWlYZHFub1RLQ3FRXzEyVDZOeVMxTGxpTEpwX3pWUVpPV1hKQ2JTOTZZTkE3LUlDRFdTMnc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -63,7 +755,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-07T11:14:23.000Z",
-      "originalHeadline": "بورصة الكويت تُغلق تعاملات نهاية الأسبوع على تباين مؤشراتها - جريدة البورصة"
+      "originalHeadline": "بورص�� الكويت تُغلق تعاملات نهاية الأسبوع على تباين مؤشراتها - جريدة البورصة"
     },
     {
       "headline": "Abu Dhabi Police implements 'AI READY' initiative",
@@ -106,16 +798,6 @@
       "language": "ar",
       "date": "2026-05-07T11:05:31.000Z",
       "originalHeadline": "الرئيس السيسي يؤكد مساندة مصر لأمن واستقرار الإمارات ورفض الاعتداءات الإيرانية - المصدر"
-    },
-    {
-      "headline": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjNQVDRxamlZMDlncVBKeDc1WXpxMERnZHcwb2FPOWxyU3dIb0RUaGk4c1RXczQxeS1HQ1RMbGwybkpNckFTT0ZsNGdOdUR5bFRnVFlzcEZiQUpOWWVOR0hYLW1FWlJtMEZVbW9zOTRfX3puVzY5bVhjWnA3cEI0WVI0bkNZWERuZ3lWOWFqX2ZwRGxxc242d2RjUEFtZ2dJcVdJc3cycDdEaHJxYlQybkVJSDI?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-07T11:04:02.000Z"
     },
     {
       "headline": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon",
@@ -231,6 +913,26 @@
       "originalHeadline": "لماذا خرجت الإمارات من منظمة أوبك؟ - اقتصاد سكاي نيوز عربية"
     },
     {
+      "headline": "Oil Steadies as the US and Iran Weigh Fresh Proposal to End War - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzh1cUY4bkt1Sy0wbG8yM0RzTVNGM3JSUmNZenFTVDJFMWRzaWNaalUxb0pnMllpMXZ5MlhXTkl2V2ZfMFJMeWkxMVJXaU9UWnozSUZGam1qbVF0bG5ZaHFlOVRacURhNWVRdlRSdDVKUGpZR3Y3bzh5bFhqRElzNi1iMmhIYXlGWmtrUkpDWl9zN1ZKR0xMellkeUc?oc=5",
+      "source": "Bloomberg Gulf",
+      "sourceId": "bloomberg_gulf",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T10:35:49.000Z"
+    },
+    {
+      "headline": "Saudi Arabia Sees $10 Billion Lift From Joining Bond Indexes - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGN2SzRJRmlFcVVwbUVJaDBtbGcxQTRRTlV2MC0zYTRnRlBSRkQ3RmVVUUNCNkY1RFQ2TWVqbXdPRWs4dlZJR2h4RHBwZXRuOGJMVEZFQndRekdCWHEtQ2p1cHQtbnlJeWpkbms0anN2c1hKU21YNEV0MEhFRF92R1haSmlCOHBXd2tBTDF3Zkx4SGZUOGc1cmVMRHR6WHRteGt4akVjWlZKNEhMak5Z?oc=5",
+      "source": "Bloomberg Gulf",
+      "sourceId": "bloomberg_gulf",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T10:31:09.000Z"
+    },
+    {
       "headline": "Sultan bin Ahmed forms UoS Board of Trustees",
       "url": "https://www.wam.ae/en/details/c03cqrk-sultan-bin-ahmed-forms-uos-board-trustees",
       "source": "Emirates News Agency (WAM)",
@@ -259,6 +961,39 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-05-07T10:16:47.021Z"
+    },
+    {
+      "headline": "An upcoming meeting between Rubio and the Pope of the Vatican amid escalating tension due to the Iran war",
+      "url": "https://www.okaz.com.sa/politics/na/2247508",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-07T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لقاء مرتقب بين روبيو وبابا الفاتيكان وسط توتر متصاعد بسبب حرب إيران"
+    },
+    {
+      "headline": "Taiwan Carries Out First Torpedo Test Fire for Domestically Made Submarine",
+      "url": "https://english.aawsat.com/world/5270522-taiwan-carries-out-first-torpedo-test-fire-domestically-made-submarine",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T10:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T10:10:02.000Z"
     },
     {
       "headline": "UAE: The Security Council must take action against Iran’s violations - Sky News Arabia",
@@ -300,6 +1035,150 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-05-07T10:04:22.643Z"
+    },
+    {
+      "headline": "From Nasrallah to Ballut...the most prominent Israeli assassinations of Hezbollah leaders",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D8%A7%D8%AA-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "من نصر الله إلى بلوط .. أبرز الاغتيالات الإسرائيلية لقادة حزب الله"
+    },
+    {
+      "headline": "An embarrassing question for the Russian General Staff: Were orders given to the generals to fight at half strength?",
+      "url": "https://www.aljazeera.net/politics/2026/5/7/%D8%B3%D8%A4%D8%A7%D9%84-%D9%85%D8%AD%D8%B1%D8%AC-%D9%84%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%87%D9%84-%D8%B5%D8%AF%D8%B1%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سؤال محرج للأركان الروسية .. هل صدرت الأوامر للجنرالات بالقتال بنصف القوة ؟"
+    },
+    {
+      "headline": "A journey through checkpoints and walls... Al Jazeera Net keeps pace with the travel of 1948 Palestinians to the West Bank",
+      "url": "https://www.aljazeera.net/politics/2026/5/7/%D8%AD%D8%B5%D8%A7%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A48-%D9%82%D9%8A%D9%88%D8%AF-%D9%85%D8%B4%D8%AF%D8%AF%D8%A9-%D8%AA%D8%B9%D9%85%D9%82-%D8%B6%D9%81%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رحلة عبر الحواجز والجدران .. الجزيرة نت تواكب سفر فلسطينيي 48 إلى الضفة"
+    },
+    {
+      "headline": "Gold rises and oil fluctuates amid anticipation of an agreement between America and Iran",
+      "url": "https://www.aljazeera.net/ebusiness/2026/5/7/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%88%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%A3%D8%B1%D8%AC%D8%AD-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الذهب يرتفع والنفط يتأرجح وسط ترقب اتفاق بين أمريكا وإيران"
+    },
+    {
+      "headline": "Where is China in the war on Iran?",
+      "url": "https://www.aljazeera.net/politics/2026/5/7/%D8%A3%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أين الصين من الحرب على إيران ؟"
+    },
+    {
+      "headline": "Mysterious stains and traces of makeup on Trump's hand raise questions again",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%A8%D9%82%D8%B9-%D8%BA%D8%A7%D9%85%D8%B6%D8%A9-%D9%88%D9%85%D9%83%D9%8A%D8%A7%D8%AC-%D8%B9%D9%84%D9%89-%D9%8A%D8%AF-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A3%D8%AB%D8%A7%D8%B1%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بقع غامضة وآثار مكياج على يد ترمب تثير التساؤلات من جديد"
+    },
+    {
+      "headline": "Israel stops an emergency system for fear of leaking sensitive data to Iran",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%AA%D8%B9%D8%B7%D9%8A%D9%84-%D9%86%D8%B8%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D9%84%D8%AC%D8%A8%D9%87%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسرائيل توقف نظام طوارئ خشية تسرب بيانات حساسة لإيران"
+    },
+    {
+      "headline": "An initiative to transfer Naguib Mahfouz’s novels to the world of comics.. Will it attract the new generation?",
+      "url": "https://www.aljazeera.net/culture/2026/5/7/%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D9%86%D9%82%D9%84-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%86%D8%AC%D9%8A%D8%A8-%D9%85%D8%AD%D9%81%D9%88%D8%B8-%D8%A5%D9%84%D9%89-%D8%B9%D8%A7%D9%84%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مبادرة تنقل روايات نجيب محفوظ إلى عالم الكوميكس .. فهل تجذب الجيل الجديد ؟"
+    },
+    {
+      "headline": "The longest and most crowded straits.. Will the militarization of the passages move to the Strait of Malaga?",
+      "url": "https://www.aljazeera.net/ebusiness/2026/5/7/%D9%85%D8%B6%D9%8A%D9%82-%D9%85%D9%84%D9%82%D8%A7-%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%B5%D8%B9%D8%A8%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أطول المضائق وأكثرها ازدحاما .. هل تنتقل عسكرة الممرات إلى مضيق مالقا ؟"
+    },
+    {
+      "headline": "Israel announces the assassination of the commander of Hezbollah's Radwan unit",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%85%D9%83%D9%86%D8%A7-%D9%85%D9%86-%D8%AA%D8%B5%D9%81%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسرائيل تعلن اغتيال قائد وحدة الرضوان بحزب الله"
+    },
+    {
+      "headline": "Israel intensifies its strikes in southern Lebanon, and Hezbollah injures 7 soldiers with attack drones",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%AB%D9%81-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA%D9%87%D8%A7-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%AD%D8%B2%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسرائيل تكثف ضرباتها جنوب لبنان وحزب الله يصيب 7 جنود بمسيّرات انقضاضية"
+    },
+    {
+      "headline": "After the occupation targeted him yesterday, the funeral of Khalil Al-Hayya’s son took place in Gaza",
+      "url": "https://www.aljazeera.net/news/2026/5/7/%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D8%B5%D8%AF%D8%B1-%D8%A8%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B9%D8%B2%D8%A7%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-07T10:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد استهداف الاحتلال له أمس .. تشييع جثمان نجل خليل الحية في غزة"
     },
     {
       "headline": "Iran Takes Its Time on a Response to Trump on US Peace Proposal - Bloomberg.com",
@@ -352,6 +1231,54 @@
       "date": "2026-05-07T09:50:50.000Z"
     },
     {
+      "headline": "Widespread devastation as a result of two violent hurricanes that struck the state of Mississippi, America",
+      "url": "https://arabic.cnn.com/world/article/2026/05/07/multiple-homes-destroyed-injuries-two-tornadoes-southern-mississippi",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دمار واسع جراء إعصارين عنيفين ضربا ولاية ميسيسيبي بأمريكا"
+    },
+    {
+      "headline": "What is the Iranian mosquito fleet? Why is it so effective?",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/05/07/what-is-irans-mosquito-fleet",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ما هو أسطول البعوض الإيراني ؟ وما سبب فعاليته الكبيرة ؟"
+    },
+    {
+      "headline": "An alleged suicide note by Epstein...new details revealed years later",
+      "url": "https://arabic.cnn.com/world/article/2026/05/07/epstein-purported-suicide-note",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رسالة انتحار مزعومة لإبستين .. تفاصيل جديدة تُكشف بعد سنوات"
+    },
+    {
+      "headline": "Mental illnesses.. What are the most common and most dangerous types?",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/05/07/what-are-the-most-common-and-most-dangerous-types-of-mental-illnesses",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الأمراض النفسية .. ما هي أنواعها الأكثر شيوعًا وأخطرها ؟"
+    },
+    {
       "headline": "Jeddah Airport Welcomes First Tajik Pilgrim Flight for Hajj",
       "url": "https://www.spa.gov.sa/en/N2579906?type=news&uuid=N2579906",
       "source": "Saudi Press Agency",
@@ -370,6 +1297,16 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-05-07T09:37:04.000Z"
+    },
+    {
+      "headline": "IMF's Rajan: More needed on global imbalances - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHdScnVpZXE0NnVnVmUwbGVva1NkSlhwQUUzNEY1TU1ONkhaLVF3cUU5QXNDd2N6VlZWbVFEZ3FIbjhaQTBPMlBKbVQ2NWhGX213ZjNjSlhuVWo5WEZ1TmEycmJqZ1ZoMEZDYi16VjZTeTNTa1dkajBqR05WZ0lKSDZ0cVk5eGJQSER0X0Q0UVdvazF4Vy15SUhVZzI?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T09:34:44.000Z"
     },
     {
       "headline": "Saudi urges U.S. not to leave Iraq quickly - Reuters",
@@ -543,6 +1480,114 @@
       "date": "2026-05-07T08:46:19.000Z"
     },
     {
+      "headline": "Al-Riyadh newspaper | 347 Ukrainian drones destroyed since yesterday evening",
+      "url": "https://www.alriyadh.com/2187608",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تدمير 347 مسيّرة أوكرانية منذ مساء امس"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Two planes coming from Russia crashed in Latvia",
+      "url": "https://www.alriyadh.com/2187607",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تحطم مسيرتين قادمتين من روسيا في لاتفيا"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The process of separating Tanzanian conjoined twins Nancy and Nice begins",
+      "url": "https://www.alriyadh.com/2187606",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | بدء عملية فصل التوأم الملتصق التنزاني نانسي و نايس"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The growth of the size of the real estate development sector to one trillion riyals by 2030, and the value of real estate transactions through the brokerage system 1. 2 trillion riyals for two years",
+      "url": "https://www.alriyadh.com/2187613",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | نمو حجم قطاع التطوير العقاري الى تريليون ريال بحلول 2030 ، وقيمة الصفقات العقارية عبر نظام الوساطة 1 . 2 تريليون ريال لسنتين"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Ports reduce the exemption period for storage fees for container transit goods",
+      "url": "https://www.alriyadh.com/2187612",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | موانئ تقليص فترة الإعفاء لأجور التخزين لبضائع الترانزيت للحاويات"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | (3) Ethiopians were arrested for violating the border security system",
+      "url": "https://www.alriyadh.com/2187610",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القبض على ( 3 ) إثيوبيين مخالفين لنظام أمن الحدود"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Tabuk Conference participates in the Environment Week activities exhibition",
+      "url": "https://www.alriyadh.com/2187609",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | وقاء تبوك يشارك في معرض فعاليات أسبوع البيئة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | North Korea: We are not bound by the Nuclear Non-Proliferation Treaty",
+      "url": "https://www.alriyadh.com/2187603",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | كوريا الشمالية : لسنا ملزمين بمعاهدة عدم الانتشار النووي"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Public attendance in Yanbu Industrial City",
+      "url": "https://www.alriyadh.com/2187614",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | حضور جماهيري تشهده ينبع الصناعية"
+    },
+    {
       "headline": "A peace deal with Iran, Trump's hopes and contradictions",
       "url": "https://www.bbc.com/urdu/articles/cg7p0dg87k2o",
       "source": "BBC",
@@ -616,7 +1661,7 @@
       "date": "2026-05-07T08:36:23.091Z"
     },
     {
-      "headline": "French warship moves towards Hormuz for possible defensive mission",
+      "headline": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
       "url": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
       "source": "Al Jazeera",
       "sourceId": "aljazeera",
@@ -624,6 +1669,17 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-05-07T08:36:21.000Z"
+    },
+    {
+      "headline": "Emirates Airlines records record profits despite the repercussions of the Iran-Economy war with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNblF5MWhkaVR1eXByWE9YQ2Rnem9KNDFjekdHZ0xIcGFqdkJzVHdzamlxNW1GOTRLLTFYV09vM200YThzMGx1RjhuMmxra0I4STBPR29aSUpISVBLZ3Z3anRuRy1kblpXSmtXVU1DSjBPbWVLYm0yQVNSRzdtR28zWDRGelI3YzdhV1RhRTF6U0tjODBnT0lKbXAwSzlGVzg0LXlmT2FEd0hnUXp5UmV1a3oxY0E1UU9SSWx4RkoxYXdmOHNPRjQyajFENjgtQktVWkxFNi1ZQ0ZmeXNtQUxNRlFwQTc4VTU4MWZFZ1NKOTY5VFJkYnBucHg1TXNBOUZHSWR5aEVfaXA1Ymx0cVZqcXIwM3BiQ2lNUDNOb19HcjZBMkR4b3F0RFkxaURYUGZBTnRrOElkOWgxNV95TlBCalJwVmw3X2IzR1U2Y0FBNzdTNmVoSFVHdHRFcmVLbWQyTEZWVTdGd3V6TE9aT1I0SUcxaS01Sl8zSTkzajBfMG5fNmlfc3NnNHJtRHhfN2pBM1RaYWtkMmFhbkNYOVhXY05FeDloMjZ6NUtSY3hyX0NHN2gzTDFrLVBRd1FzaWdPenM4RnIzNmVKT1EwdUc5RThvY1hYa2EzOU9r?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-07T08:34:17.000Z",
+      "originalHeadline": "\"طيران الإمارات\" تسجل أرباحاً قياسية رغم تداعيات حرب إيران - اقتصاد الشرق مع بلومبرغ"
     },
     {
       "headline": "Before the separation of the twins, “Nancy and Nice”...\n\nHead of the medical team, Dr. Abdullah Al-Rabiah reassures their mother that the operation was successful\n\nVia Al-Akhbariya correspondent Mansour Al-Amir",
@@ -637,14 +1693,14 @@
       "originalHeadline": "قبيل فصل التوأم \"نانسي ونايس\"..\n\nرئيس الفريق الطبي د. عبد الله الربيعة يطمئن والدتهما بنجاح العملية\n\nعبر مراسل الإخبارية منصور الأمير"
     },
     {
-      "headline": "Oil Steadies as the US and Iran Weigh Fresh Proposal to End War - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTzh1cUY4bkt1Sy0wbG8yM0RzTVNGM3JSUmNZenFTVDJFMWRzaWNaalUxb0pnMllpMXZ5MlhXTkl2V2ZfMFJMeWkxMVJXaU9UWnozSUZGam1qbVF0bG5ZaHFlOVRacURhNWVRdlRSdDVKUGpZR3Y3bzh5bFhqRElzNi1iMmhIYXlGWmtrUkpDWl9zN1ZKR0xMellkeUc?oc=5",
-      "source": "Bloomberg Gulf",
-      "sourceId": "bloomberg_gulf",
-      "category": "competitors",
+      "headline": "Manchester City FC - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jNjZycVJ2VDhZX3lYTnY5Y3RXSlVxdnZKbExUTzhLQkRCdnRyVjlQWXNtVTl3VWsxY2psS252Yms3SkRfd2pMb0p4SXlDNVZ2X0xj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-05-07T08:31:21.000Z"
+      "date": "2026-05-07T08:33:20.000Z"
     },
     {
       "headline": "The Center for International Defense Strategic Studies announces a comprehensive institutional transformation, which includes the adoption of a new name that reflects the international dimension of its activities, and a comprehensive organizational restructuring aimed at transfor",
@@ -699,7 +1755,7 @@
       "date": "2026-05-07T08:22:20.000Z"
     },
     {
-      "headline": "Saudi Wealth Fund to Sell First Dollar Bonds Since Iran War - Bloomberg",
+      "headline": "Saudi Wealth Fund to Sell First Dollar Bonds Since Iran War - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUxtN0dPTG0wWTZjb0p5ampJZDlpTEVlMjdTUkoyRFQ3MHE2c24wQ1puMXZtYW9hY3pHUDFzNEFIdzZQYVR4cTdjcndZQ1BObW93NlhsZHo5NHFhRF9lRFB4RXE5RzlyUy13aHl5N3EtckY0YjRhLVRJMEZRX2NCb0lXb3ZFZXBmNXhPU0c1UmVKM1l6Ni1HYklHWE8weDdVMjA4cmVtYnNxeEU0Q0JBeXNqVF9zUlVEeFdIVGZqa3pqamJ3dGxmY0U2aDNXdw?oc=5",
       "source": "Bloomberg Gulf",
       "sourceId": "bloomberg_gulf",
@@ -729,17 +1785,6 @@
       "language": "ar",
       "date": "2026-05-07T08:20:53.000Z",
       "originalHeadline": "نائب أمير نجران يطّلع على التقرير السنوي لفرع المركز الوطني لتنمية الغطاء النباتي بالمنطقة.\n\nhttp://\nspa.gov.sa/ar/w2579834\n#واس"
-    },
-    {
-      "headline": "Emirates Airlines records record profits despite the repercussions of the Iran-Economy war with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNblF5MWhkaVR1eXByWE9YQ2Rnem9KNDFjekdHZ0xIcGFqdkJzVHdzamlxNW1GOTRLLTFYV09vM200YThzMGx1RjhuMmxra0I4STBPR29aSUpISVBLZ3Z3anRuRy1kblpXSmtXVU1DSjBPbWVLYm0yQVNSRzdtR28zWDRGelI3YzdhV1RhRTF6U0tjODBnT0lKbXAwSzlGVzg0LXlmT2FEd0hnUXp5UmV1a3oxY0E1UU9SSWx4RkoxYXdmOHNPRjQyajFENjgtQktVWkxFNi1ZQ0ZmeXNtQUxNRlFwQTc4VTU4MWZFZ1NKOTY5VFJkYnBucHg1TXNBOUZHSWR5aEVfaXA1Ymx0cVZqcXIwM3BiQ2lNUDNOb19HcjZBMkR4b3F0RFkxaURYUGZBTnRrOElkOWgxNV95TlBCalJwVmw3X2IzR1U2Y0FBNzdTNmVoSFVHdHRFcmVLbWQyTEZWVTdGd3V6TE9aT1I0SUcxaS01Sl8zSTkzajBfMG5fNmlfc3NnNHJtRHhfN2pBM1RaYWtkMmFhbkNYOVhXY05FeDloMjZ6NUtSY3hyX0NHN2gzTDFrLVBRd1FzaWdPenM4RnIzNmVKT1EwdUc5RThvY1hYa2EzOU9r?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-07T08:14:33.000Z",
-      "originalHeadline": "\"طيران الإمارات\" تسجل أرباحاً قياسية رغم تداعيات حرب إيران - اقتصاد الشرق مع بلومبرغ"
     },
     {
       "headline": "'Ras Al Khaimah Chamber' showcases investment advantages during Make it in the Emirates",
@@ -823,8 +1868,63 @@
       "date": "2026-05-07T08:00:49.000Z"
     },
     {
+      "headline": "Japan Fires Missiles during Drills , Drawing China Rebuke",
+      "url": "https://english.aawsat.com/world/5270494-japan-fires-missiles-during-drills-drawing-china-rebuke",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump to Host Lula in Test of Fitful Relationship",
+      "url": "https://english.aawsat.com/world/5270507-trump-host-lula-test-fitful-relationship",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Rubio Seeks to Ease Tensions with US Pope",
+      "url": "https://english.aawsat.com/world/5270485-rubio-seeks-ease-tensions-us-pope",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Australia to Force Gas Giants to Reserve Fuel for Domestic Use",
       "url": "https://english.aawsat.com/business/5270514-australia-force-gas-giants-reserve-fuel-domestic-use",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Judge : Alaska wildlife Agents Can Kill Bears from Helicopters in Effort to Protect Caribou",
+      "url": "https://english.aawsat.com/varieties/5270496-judge-alaska-wildlife-agents-can-kill-bears-helicopters-effort-protect-caribou",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "French Utility Engie Not Changing Middle East Strategy Despite Disruptions",
+      "url": "https://english.aawsat.com/business/5270511-french-utility-engie-not-changing-middle-east-strategy-despite-disruptions",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -993,16 +2093,6 @@
       "originalHeadline": "أعلنت وزارة الدفاع عن إطلاق برنامج تدريبي متخصص في مجال الذكاء الاصطناعي والحلول الرقمية المتقدمة يستهدف منتسبي القوات المسلحة، ويُنفّذ تحت إشراف مكتب مساعد وزير الدولة للتحول الرقمي والتكنولوجيا والذكاء الاصطناعي وبالتعاون مع الإدارة التنفيذية للتعليم والتدريب، وذلك في إطار"
     },
     {
-      "headline": "Manchester City FC - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jNjZycVJ2VDhZX3lYTnY5Y3RXSlVxdnZKbExUTzhLQkRCdnRyVjlQWXNtVTl3VWsxY2psS252Yms3SkRfd2pMb0p4SXlDNVZ2X0xj?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-07T07:34:20.000Z"
-    },
-    {
       "headline": "EDB, Zelo launch AED350 million programme to strengthen SME liquidity, industrial supply chains",
       "url": "https://www.wam.ae/en/details/c03cqir-edb-zelo-launch-aed350-million-programme",
       "source": "Emirates News Agency (WAM)",
@@ -1115,6 +2205,16 @@
       "language": "en",
       "date": "2026-05-07T07:08:55.000Z",
       "originalHeadline": "لحظة وصول التوأم الملتصق التنزاني \"نانسي ونايس\" إلى الرياض في 27 يناير 2026\n\nعبر مراسل الإخبارية سليمان الجبر"
+    },
+    {
+      "headline": "India plans to bolster key export scheme as Iran war sours trade outlook - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzNvaS11Rk9rX0F6alc4LWIwazB5ZVpkTFVlUEJieERScVB3ekFta1gyX3BnSDk1ZXFUUmlTTGI2MEI3UWk4T05rWEdtRnp3UDRaWEIxejFFdVA0aTlkTFBpTEdydzFfaU9VTmE1UmpmY21uMERzemtzeXVCeE9XRFZJX3oyZGFaNGV0bkJDX0VXMGxYOGRXODlkRmxIMi0wZmh3cFFNSzFSMXNNVkVrS2k5RGk?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-07T06:59:18.000Z"
     },
     {
       "headline": "ADRA announces initiatives to support industrial sector’s strong growth",
@@ -1549,6 +2649,17 @@
       "date": "2026-05-07T05:16:11.490Z"
     },
     {
+      "headline": "IBM CEO to Asharq Al - Awsat : Saudi Arabia Enters AI Implementation Phase",
+      "url": "https://english.aawsat.com/business/5270474-ibm-ceo-asharq-al-awsat-saudi-arabia-enters-ai-implementation-phase",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-07T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Egypt Steps Up Regional De - escalation Contacts",
       "url": "https://english.aawsat.com/arab-world/5270481-egypt-steps-regional-de-escalation-contacts",
       "source": "Asharq al-Awsat (EN)",
@@ -1562,17 +2673,6 @@
     {
       "headline": "Saudi Arabia , Türkiye Agree on Visa Exemption for Diplomatic and Special Passports",
       "url": "https://english.aawsat.com/gulf/5270483-saudi-arabia-t%C3%BCrkiye-agree-visa-exemption-diplomatic-and-special-passports",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-07T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "IBM CEO to Asharq Al - Awsat : Saudi Arabia Enters AI Implementation Phase",
-      "url": "https://english.aawsat.com/business/5270474-ibm-ceo-asharq-al-awsat-saudi-arabia-enters-ai-implementation-phase",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1682,7 +2782,7 @@
       "category": "competitors",
       "country": "Wire",
       "language": "en",
-      "date": "2026-05-07T04:44:35.000Z"
+      "date": "2026-05-07T04:43:48.000Z"
     },
     {
       "headline": "Ajman Free Zones Authority strengthens support for licensed companies with two MoUs at ‘Make in the Emirates’",
@@ -2079,1075 +3179,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-05-07T00:38:36.000Z"
-    },
-    {
-      "headline": "On behalf of His Highness the Minister of Defense... His Highness the Deputy Minister of Defense sponsors the graduation ceremony of the 23rd batch of students from the King Abdullah Air Defense College.\n\nhttps://\nspa.gov.sa/N2579635\n#SPA",
-      "url": "https://x.com/SPAregions/status/2052184562063573366",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-07T00:31:41.000Z",
-      "originalHeadline": "نيابة عن سمو وزير الدفاع.. سمو نائب وزير الدفاع يرعى حفل تخريج الدفعة (23) من طلبة كلية الملك عبدالله للدفاع الجوي.\n\nhttps://\nspa.gov.sa/N2579635\n#واس"
-    },
-    {
-      "headline": "Hajj and Umrah warns against dealing with fake campaigns and advertisements for this year’s Hajj season",
-      "url": "https://x.com/alekhbariyatv/status/2052181309586333713",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-07T00:18:46.000Z",
-      "originalHeadline": "الحج والعمرة تحذر من التعامل مع الحملات والإعلانات الوهمية لموسم حج هذا العام"
-    },
-    {
-      "headline": "Police arrest protester after five-days atop Washington bridge",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-07T00:13:20.000Z"
-    },
-    {
-      "headline": "Qatar condemns targeting the UAE with Iranian missiles - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNY083TndXUGVwZW1UbXU5VVdvVmdmZV9mdE43a05tbGUzODltdVg0clE4eWsxaC1rbnpCQ0puTU5jbE5vSzB3clR6cW1pUmFaN2thdjhSdXd1bHVUZXpGNnZlb2ltTXN4TVFKQXg1RS0wM1pRS3NGY0ZNQ042cGp3SkYyQVFYTzZxb2FNajR6cFVNYzJXb04wbWdFTVJTOEdZaHBId2ZpMW1NYzltV05UcnEyZWN0NWJoOEFNN2dVMFN2MDN5UWdxOU5rakJXSTl3Xzk3VVV1MGxkR1F4QlBCaWhqYzZtOVY1a3FjWXAtcUZLaWJpNVdnbVBVc1ZNTkNuYTNBTUZDSWtKTnNoUFdNTEFiQVczTFRIUzRZRWVPVml1NVNEUVpJQXRaZHFJX3NpNjB0SlNYeV9WVi1mWFdV0gHEAkFVX3lxTE1MT1JDN0tZdGlwOGN5aTZGSEQ0LU13TlFfWDY4VE9Sa1VwSXJSbWFqU3FuTTZEN3dSZi0zdE81OVI3OXdacGEyZ0pxX1MzblUyMWdaclhKMWVTR3N3Vjhjd0s4RXdPYjQ4SllKN1RFMVB4MlpVMTRVUkpLVnZST1hhUndmVFpiNzVvVGRDMEJGd1NCa3VqLVBSMnFxQVlVQkgyZnpFeklBNngwREk2RmptSzF1Ty00Y3N1dmt1ZGVzcUhTR1dQdkx5UlZQbjRDLXhkQmlvdEFsYjVtQVJ4UU83M0x6NTRfc2VDZmh1SUwzakZhampxZGNCSTU3NEN2SFVaRzI2SmJIem12bDczRDRpUFhfM1M2R1dZYmdaenBEWXQ1cFhRRUs1dWVfek42cjh0U2JwejBCVjYtcGRUX2ViYlBsZA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-07T00:09:03.000Z",
-      "originalHeadline": "قطر تدين استهداف الإمارات بصواريخ إيرانية - الجزيرة نت"
-    },
-    {
-      "headline": "US stock indices rise",
-      "url": "https://www.wam.ae/en/details/177j9st-stock-indices-rise",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-07T00:01:40.611Z"
-    },
-    {
-      "headline": "Argentina investigates source of deadly hantavirus outbreak",
-      "url": "https://www.wam.ae/en/details/177j9sr-argentina-investigates-source-deadly-hantavirus",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-07T00:01:18.932Z"
-    },
-    {
-      "headline": "Watch US and Iran Weigh Potential Deal to End the War - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG9wMlcwM1BCWUU4NzNfQmQzeTZYWENHVm9lOEhKNEJpVHpoVzBtY0MtQzBZM1BVUm1vTHJHZDNYLVRUMmhsZGtGcVJjZWhrdXdLQXhlVFc0UXk3OWpNSFl4RFExWGJDUUhjcUZXU3RRZ2ZYVXZnLXhtZWhmUFBlWU1qSHA2YU94VEVKdEwxWWs3MXhlU1JNZUVzMnFqdHJQOUtVYw?oc=5",
-      "source": "Bloomberg Gulf",
-      "sourceId": "bloomberg_gulf",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-07T00:00:00.000Z"
-    },
-    {
-      "headline": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-07T00:00:00.000Z"
-    },
-    {
-      "headline": "Tehran - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5NDlDVTVaLUZKeDN2VXY5Qm9QZmg4bUUwQThRQ005NUxHU2dtTlY2WlM0a2xaYkV0V3JIcTRIZ1JwaE0?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T23:47:51.000Z"
-    },
-    {
-      "headline": "Bloomberg Businessweek - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5",
-      "source": "Bloomberg Gulf",
-      "sourceId": "bloomberg_gulf",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T23:45:36.000Z"
-    },
-    {
-      "headline": "On behalf of the Emir of Makkah Al-Mukarramah Region.. Prince Saud bin Mishal witnesses the launch ceremony of the Prince Khalid bin Faisal Cultural Foundation.\n\nhttps://\nspa.gov.sa/N2579687\n#SPA",
-      "url": "https://x.com/SPAregions/status/2052172547781742698",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T23:43:57.000Z",
-      "originalHeadline": "نيابة عن أمير منطقة مكة المكرمة.. الأمير سعود بن مشعل يشهد حفل إطلاق مؤسسة الأمير خالد بن فيصل الثقافية.\n\nhttps://\nspa.gov.sa/N2579687\n#واس"
-    },
-    {
-      "headline": "What are China’s surprise gains in the war on Iran?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T23:43:00.000Z"
-    },
-    {
-      "headline": "Bahrain affirms its solidarity with the UAE and its support for preserving its sovereignty - alghad.tv",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNdEZXMkhpQ2VERGlGaXdYdFk5bkhqV0huM1Vfd1ZpV0V6eEdlanhGRXBUYzNqMDZXeGNOMTZQQ3RTeXYtUjQtRDlXV3RKSEszX0l4QUh5VWFvT3BMbVQzMExHUDdLUUNLMUpxNWE2N1FaR05tM2xTUzFreXhNSnNBSWc2RlhTY0oxWkx0QnF4REVlY2JtTXdBTmR2cEU5aEdwUjVZcmc5bUowYzhZTXBRWmViaTlCWmdnU0RITHFIekI4OU1aWnF4aHpJbGoxZnRBU25telFqbkdVMkRrSnJVdzIwdVMtY05CYXM4ZTRMOWlkeVBpRjZoeWlwUDY3X3JjMzU0QzVjRHROUFlFQldtOXRSUVY5Xy1XVlRxLWJCUWNzSzZidVRtbngtWVJtLXdGYkpTXzE0dWZFRTZkRHBNczFMeGZjY211ZTJkM1FlNXRTOUtSYWxzU1o2WG40S2t3eUdSUEpjTXNnSVlIbTluTXFjdXhfTmtfd3dhOVMzOWVsc1BZeFFndS1LczY3SEk5TGVZTjNXMjFFclNoVDZ2RmRDZ0JUUUdrVEdwTGlXaF9wTDZFclJ0TGtDSGxMVFF5aTdpRTZqeWJsV1VhRzZmWEZydkgwLWE2Y3pWVWQza2k3dWpNNHk5eE9HXzRjUHEzYy1GMXhISHY0Smty?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T23:30:11.000Z",
-      "originalHeadline": "البحرين تؤكد تضامنها مع الإمارات ودعمها لصون سيادتها - alghad.tv"
-    },
-    {
-      "headline": "The first flights of pilgrims from Niger and Burkina Faso arrive at Prince Mohammed bin Abdulaziz Airport in Medina",
-      "url": "https://x.com/alekhbariyatv/status/2052167525618635226",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-06T23:24:00.000Z",
-      "originalHeadline": "وصول أولى رحلات حجاج النيجر وبوركينا فاسو إلى مطار الأمير محمد بن عبدالعزيز في المدينة المنورة"
-    },
-    {
-      "headline": "President of the Qatar Basketball Federation: Amir Cup a Sports Festival That Crowns the Season. #QNA\n\nhttps://\nbit.ly/4tuR7PW",
-      "url": "https://x.com/QNAEnglish/status/2052166877896425752",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T23:21:25.000Z"
-    },
-    {
-      "headline": "Israeli strikes kill five Palestinians across Gaza in one day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T23:20:32.000Z"
-    },
-    {
-      "headline": "Makkah Route Initiative: SDAIA Streamlines Brunei Hajj Pilgrims’ Journey with Integrated Digital System",
-      "url": "https://www.spa.gov.sa/en/N2579686?type=news&uuid=N2579686",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T23:14:57.000Z"
-    },
-    {
-      "headline": "“Kadana” activates a smart operating system in the Holy Sites to enhance the efficiency of services and increase the speed of response.\n\nhttps://\nspa.gov.sa/N2579675\n#God bless you #Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2052163207750418856",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T23:06:50.000Z",
-      "originalHeadline": "\"كدانة\" تُفعّل منظومة تشغيل ذكية بالمشاعر المقدسة لتعزيز كفاءة الخدمات ورفع سرعة الاستجابة.\n\nhttps://\nspa.gov.sa/N2579675\n#حياكم_الله | #واس_حج47"
-    },
-    {
-      "headline": "Gulf economies face long-term hit from Iran conflict",
-      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T23:06:17.000Z"
-    },
-    {
-      "headline": "Oil falls below $100 a barrel on Middle East peace deal hopes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzhHLVJGNWlkNWFuNXdTZGE5R0pPMXJoeWF4S1RubVgxVlJic3lOWl96TDh0RElhZHc0V3oyZEhRSHdydHo0SHo2a2oyaXQ1QUFqbk85S3VsR25IUlMyZ1pEbDZVVHQ3eVJSdzNiQVJ2aWF2Y0lfN2ZiYXktNHd0ZGZWOFRsR1ctaTRLQXhKWnUxVzNZVlZLYWJOcFpSN3dUOGl3eFpfU2RsLUtTMFRGcjNFSW1US3RPRjNhWWV6NXY?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T22:41:00.000Z"
-    },
-    {
-      "headline": "Reuters: America intends to deploy the plane donated by Qatar on July 4 - alghad.tv",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxONjNmZEUzUkUzTzl6TGJMYm0yVUxfaHJrSDJsdl9JaldVY2hVV3RzclI4Vlk0bWtCNGRidmRTSDV4cUl2eEZxa3lpYmMzUVhQT0dVeU9rRDkxbk1QZHg0NlNTNFFudHpVNW1vckt3M0xVMm9NZFp6LVVSMDl4SjhrM093SXdxajBPV184cERfbW56aWxCUXpGRGR4RXduMVZOZlpISUUtLTdzQmxUdmM1RElCMU9Rem1BeGhHUXBVZ2dHNXBDSnd4R2F5TEM2X3pPM2ozcVFmem1WNGdCVFgtNzU3Uk5qTXNrQWM0Mm5aRi1XNWxuemZIRGt2WjF1eFdmR2pLb21oaWwxbVZtVjdTZEdiMzFtU0xhcFFRRHZ4dEJrbURWdFhZT1dSNDNTZXFuM2tWUVhtQW43b1ZpTVlFZEI0NmFwaXJSVkZVZVloZW44ZVllOFN6c0ZPQnJKYTZ5X3VaakdHc1VaUllGamtGeDBnQ3cyVEo4R0NQejVZVEV5WURad3ZjcURJWUYxZzNYTE0tZ2lJS2htRnFHeTlTR1ZtOUpRSW15dmxzY083eFZPOHY5eF90NjJYT2NENkNoMVRBUUlBMldjYnVnem8yNk04R3YyRG5GYVdwMnZLaWZZQlg2am9XUnQ4NlN4TUtFd3BBOElFZEtQblZRVHJycGNKTHNtOXdrUmc?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T22:30:27.000Z",
-      "originalHeadline": "رويترز: أميركا تعتزم نشر الطائرة المهداة من قطر في 4 يوليو - alghad.tv"
-    },
-    {
-      "headline": "issue17327",
-      "url": "https://aawsat.com/files/pdf/issue17327/",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T22:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "HE Prime Minister and Minister of Foreign Affairs Receives Phone Call from #Egypt's Foreign Minister. #QNA\n#Qatar\n\nhttps://\now.ly/fIZx50YVQK3",
-      "url": "https://x.com/QNAEnglish/status/2052151772483858852",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T22:21:24.000Z"
-    },
-    {
-      "headline": "Global debt hits record of near $353 trillion, with signs of move away from US - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEdZMWZaaUc0OTRVZ2pwM3JpLUFqdWNnaEZRaGJEdHNZb2tTMUNnbEZyNXM4eEJDOXpqSEJDb3NpcHd5Y1BPMnN4S2tWZVk4bHdmRUhRdFU1dG5iM2tVLVE3SFlXaVB4VUp6YjNyc1EtN3dsWlR2LTVZcjRRakRYLW9QZlMtVl85d0tVY1cxRFlSMl92VGJyZmI3bVlmZk9kWjBFQzdFMGpicHRGZDBiQ05FRQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T22:13:14.000Z"
-    },
-    {
-      "headline": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
-      "url": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T22:12:05.000Z"
-    },
-    {
-      "headline": "Baladna, #UAE's Al Dahra Sign Agricultural, Feed Supply Cooperation Deal. #QNA\n#Qatar\n\nhttps://\now.ly/HSKo50YVQvL",
-      "url": "https://x.com/QNAEnglish/status/2052148000978272526",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T22:06:25.000Z"
-    },
-    {
-      "headline": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T22:05:28.000Z"
-    },
-    {
-      "headline": "Paris Saint-Germain draw with Bayern Munich to reach Champions League final",
-      "url": "https://www.wam.ae/en/details/177j9s6-paris-saint-germain-draw-with-bayern-munich-reach",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T22:05:10.581Z"
-    },
-    {
-      "headline": "Dubai Basketball defeat Spartak in Adriatic League quarter-final",
-      "url": "https://www.wam.ae/en/details/177j9s5-dubai-basketball-defeat-spartak-adriatic-league",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T22:05:00.791Z"
-    },
-    {
-      "headline": "The Gulf Cooperation Council rejects Iranian statements regarding the UAE - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQM2FsNXd2SDBUMUtyTzlLR3EwanlKa2RzeThQOWtfS1p2TXhISnNDc1Q4MmhlOXBHUHpPSGZiMGRpaWs3R2NkcHZLYWIxaXJ3dFZqSjJLZWxZXzlrQkI2bVFnWmpGQUpocU02RlN3QnpGUDhmUkpQZ2I2bXBOdG1MQkx2WXhiRUJvV2dNdGFzXzZCMmRzLWV4NFJranRudXl2QncxX0tqR2d6X1JEVkZ0eXMyQXRwQmczbDBHMVFNYzZUaVc1TkFhOXV0U2ptbVAySlJvVTYyMzl5TjdDczZxM093a3FHV3U2Z0pIMEdUdUVTMmFtZll6cFU5U2EwZW9DRHh1NldXZkpySGdLYVAyaGVycVVrN3pqNmpPak16R1lTZjg0U2w0dEtlZ1AzeHJERHZaR0ZTeVRqT19XMmhqSnctM3FuWkNuSldhb3hTNHVyXzRTWlcySUxOS29nVlB4Q1VEcnR6SzZ0ZXRfZ2tpSXVPX0pLNFItV1lPbVl6YWdsT0dFeXJGa3h6QTdRRkxfRjBMVnhIV1RFTTVsZlpydXoyR18zektxRGdDbE9JbU9zbG5Zd1d1OUJncm9wQlNZc3Z3RGtBRjdoNnZxOFJTZDJFTkZHclpPNE5SU1p3MmVVVDRmTzlDS1ExZWdDYmliWndMM2NNM2hGOW94cWwtbVdn0gH8A0FVX3lxTE5CaEVZSGJuTWcwVVF2UkpyYW1STGVFMFFNUVhnc3hycGtqUUZTRkQ3Xzg1ZEJrSm1HcE9GdUp0OGxTYzRWZHJYZGZnVDhlVTVHTzBKYkJnbGQ2LTdlazc2YjhIeWd0ZVdPbFZBenhfMVRwRjd2SmEwQ2RJemdoanJhR2Q2SXU5N24wN3lOSWE5NmxMNkF5cGRfMTJoUUVjQWlwRmo1V1Fyc2YyY1R3WUZNZTRfVjN1REQ4TU85aDJPcllwTG81MW1uSEhTc29NeWtqQ0dzOEF6cXBlZ0VNemVzWk9JWUdHNXc1eUU1M3VIMG5xQlBPbERlQjFzeEJDQl9oU0FwdkVMd3ZNSlpQV0Fkb2tlUkROMjFPb2ozMzllOHUwR2FreGtfd2NMM0FfaXVvVTBJSmtIbW1DUHRIWEZYdnh4TGhqc3FRcW1STGNJbk5vejdfaXlUNUlMRDdtWU9hai1BSmtaRHU0YXZvTVJ2SDJwQ3BTa0JFRnBXRzdEMk5uSkpuRVF0SU91VFRzd3E1eV80TFl0SWxvUkZyOW1fa3d5V21uY2tkaHhHanE0UElFT1g3eHc4N2RnMl9HdUhUdGQ4dWxmd1FqQUNCaVZBUUZMODRUVkZLMXNsVlR4ZHR1bUFNazV1LTk5VHFLVXpHa2NiYTlZUC1Vck4?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T22:00:00.000Z",
-      "originalHeadline": "مجلس التعاون الخليجي يرفض التصريحات الإيرانية بشأن الإمارات - اليوم السابع"
-    },
-    {
-      "headline": "Scenarios and messages with fire... 5 questions explaining the dimensions of targeting Commander Al-Radwan in Beirut",
-      "url": "https://www.aljazeera.net/news/2026/5/6/%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%B1%D8%B6%D9%88%D8%A7%D9%86-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%A7%D9%84%D9%83-%D8%A8%D9%84%D9%88%D8%B7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سيناريوهات ورسائل بالنار .. 5 أسئلة تشرح أبعاد استهداف قائد الرضوان ببيروت"
-    },
-    {
-      "headline": "Has the “open spending” phase in Saudi sports ended? - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNaVl5OEpNd3V4dE54SkJNaEJWMnNnNVpqY1QwQkliNVQ5eW15clpUeW5ObzZwNEMyWjBJWTNJVHVLLTdEenFiU1gtMUVJZVdJbVNtei10d3hCMVJXWGJJMzMzUGRDMjlMWlotV2o2SVlsV0tHUTNwNG9aYjB0NkkxVnk2cTREZ1NSNVppM3ZYVG9IanUyaVdhVkdPaWFNOS1FYzhPUTFUX2VkQlhLakxTeDhHNFRKZ0szNXpvUFV0TDVSN1FhcHVFY0xMeXlJRFNBNzU0RGpmbzFieGREQ204Y3JDNzRRck1JTTZqcDV3NFZNdkpGN0JCd1RMNEZaT0tsamZXMHNRVjZwSlRJR3dJRUFObXI2NWIwQUpWNmo4Mnk3NncxUHQ4M1Y2eHhQMDc5dUM0NVllcF8xNUh6Q0hudU56OVVwZzljU25kQWdEMkxJSGdUc1ZfWl9YSVJSN1RZZWkyRE1iZFk1c20wY3lrWlNyQU5BUU9IOE03eHJoZFFiaGhoMlEzVEtndnJ3MkZkNnJQUXYxWFp5WDl1V1hPcFd6WlM5d0hsVkHSAaoDQVVfeXFMTm5hbVg0NzlMT29FNUpVYlJTMEU3VnR3TExtWVprdDBaYjZORU5icU5LTWZzTm9QdW5kZ3dwUElid2ZhN0N5LUIwNHhpWjFwUU81NVpvTlhyNktJenhMaWc2Zlhia3J4RFg1WGN0Qy1pYWExQnVFMHZDakFoUGhwemFNQ0x2bjROMGhDaFZkYU1udHJ0a3FoRFdXZGdjaV9BaWVkaDVWZ1FTa3E4Zy1XNUlOUnNjUHl6UXh4eldJTEZkVFlkRHB2RmU0Y3hUVlFMRE9vRjNrWHE1ai1NUUhhZl9rbXFfTzlZQmowczB2QkhIT0VsTzZFemVnN1UyWTFscjNNYmw3bVNTa0xKQjFDWUV4RXhwSTYxZE9MOGZlZzVGdEVGSk1MTUhVZmxxeExkcm5GWElMSnVjLS1aOHNvV0tHWWk5cndlREtCS2J3V0dmaU82YnNGeDBYU2pEUTNPdDVHdThkUGdldnFfYnZIc3g3WlkxeU1kWDNxeWJYMmYyb01KVjZnMHlUZTZzQk05NVpjaUN5dzRwV2JUNDgwRFhINGd6Z2RyZllR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T21:57:07.000Z",
-      "originalHeadline": "هل انتهت مرحلة \"الإنفاق المفتوح\" في الرياضة السعودية؟ - DW.com"
-    },
-    {
-      "headline": "The Deputy Emir of Al-Jawf Region visits the city of pilgrims and Umrah pilgrims in Al-Shaqiq.\n\nhttps://\nspa.gov.sa/N2579626\n#God bless you #Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2052145076734742667",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T21:54:47.000Z",
-      "originalHeadline": "نائب أمير منطقة الجوف يزور مدينة الحجاج والمعتمرين بالشقيق.\n\nhttps://\nspa.gov.sa/N2579626\n#حياكم_الله | #واس_حج47"
-    },
-    {
-      "headline": "HE Prime Minister and Minister of Foreign Affairs Receives Phone Call from Jordanian Deputy Prime Minister and Foreign Minister. #QNA\n#Qatar #Jordan\n\nhttps://\now.ly/6ebs50YVQjV",
-      "url": "https://x.com/QNAEnglish/status/2052144711238877285",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:53:20.000Z"
-    },
-    {
-      "headline": "Hazza bin Zayed congratulates UAE President on Al Ain’s ADNOC Pro League triumph",
-      "url": "https://www.wam.ae/en/details/177j9rw-hazza-bin-zayed-congratulates-uae-president-ain’s",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T21:53:04.748Z"
-    },
-    {
-      "headline": "Al Ain defeat Sharjah, clinch ADNOC Pro League title",
-      "url": "https://www.wam.ae/en/details/177j9rv-ain-defeat-sharjah-clinch-adnoc-pro-league-title",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T21:45:57.216Z"
-    },
-    {
-      "headline": "Kidana Enhances Quality of Life in the Holy Sites with 6,000 Mist Columns and 25,000 Drinking-Water Taps",
-      "url": "https://www.spa.gov.sa/en/N2579642?type=news&uuid=N2579642",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T21:44:11.000Z"
-    },
-    {
-      "headline": "The Gulf Cooperation Council strongly rejects the Iranian allegations against the UAE and confirms that they are invalid and rejected",
-      "url": "https://x.com/alekhbariyatv/status/2052142238608527368",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-06T21:43:31.000Z",
-      "originalHeadline": "مجلس التعاون يرفض بشدة الادعاءات الإيرانية تجاه الإمارات ويؤكد أنها باطلة ومرفوضة"
-    },
-    {
-      "headline": "#Qatar_Museums Chairperson Inaugurates \"a gathering of remarkable people\" Exhibition at #Qatar National Pavilion in La Biennale di Venezia. #QNA\n\nhttps://\now.ly/j6Xo50YVQ6v",
-      "url": "https://x.com/QNAEnglish/status/2052141282420531395",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:39:43.000Z"
-    },
-    {
-      "headline": "HE Prime Minister and Minister of Foreign Affairs Meets Abu Dhabi Crown Prince, #UAE National Security Adviser. #QNA\n#Qatar\n\nhttps://\now.ly/uO7j50YVQ5f",
-      "url": "https://x.com/QNAEnglish/status/2052140955000569989",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:38:25.000Z"
-    },
-    {
-      "headline": "#UAE President Meets HE Prime Minister and Minister of Foreign Affairs. #QNA\n#Qatar\n\nhttps://\now.ly/3uRy50YVQ4g",
-      "url": "https://x.com/QNAEnglish/status/2052140604469960780",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:37:01.000Z"
-    },
-    {
-      "headline": "Diplomacy - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zcVg0T25PUloxTVQ3cWV3bUtEQThNeVlKREh6NmVUdnNxaEVPbWdWTXowSHRrWmRrRVliZ0tzalZWUmZmTEVz?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T21:34:23.000Z"
-    },
-    {
-      "headline": "World news on Wednesday, May 6",
-      "url": "https://x.com/alekhbariyatv/status/2052139257125277702",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-06T21:31:40.000Z",
-      "originalHeadline": "أخبار العالم في يوم الأربعاء الـ 6 مايو"
-    },
-    {
-      "headline": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
-      "url": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:30:05.000Z"
-    },
-    {
-      "headline": "#SPA",
-      "url": "https://x.com/SPAregions/status/2052138328275734710",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T21:27:59.000Z",
-      "originalHeadline": "#واس"
-    },
-    {
-      "headline": "Acting SPA President Meets Trainees at Graduate Empowerment Program for Media Careers",
-      "url": "https://www.spa.gov.sa/en/N2579634?type=news&uuid=N2579634",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T21:26:36.000Z"
-    },
-    {
-      "headline": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
-      "url": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:26:12.000Z"
-    },
-    {
-      "headline": "America intends to deploy the presidential plane donated by Qatar on July 4 - Asharq",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQcmdfZVgyNFRHVWRNczhaLUNtdXgwekZSUTFoc2FoenJGTzlIMF9VSEM4ZGV3am51ZFFFb3hNaXJpMjM0VkoxcGdYaUtGdjBHWGJGZnBncGkzcGV0eVNWeWhjZXgtRVFoc1E0TFNQbGJpeGh3V0N6bkQ2S2NHTHlvUEZsVnpnQUhtT3FFQkZWUmVtakxLdEhLOXNjQTlrUkJDaVVEd0VkN3Nadnlnby1GRjhsSEN6cU1PR1F1dDI4ZEFpbjNkWGNRakxTR2JiMEM4UU1KVVNYSVc5RkJNQlB1U0l4dkVPVzZ5ZEZLRUdVelo5VHhvcDJNQnctVDNsTGI0eXM2RjI2NUEzdnluUjAxaFp5OUoxQjNaZjZnc0YtV28xckJ0VTZYWFJROWZaOFVzQU5BdmtuRkZDU3NVbWY0WmxBMUIwVnNBRnVXRGZlQ0JiNUxzeFYyZlR6WXZjQ0MxTFp6VzhIT3phenk4N3hra1p0ckJmajlYOUJCQjZXZUs1eTZJQXd1UldrMTVNZE9hUndGX2hxYXVDN1VPTXBKREZiQXJwS1R1elAyZG85NVhMR040MUN6RjJ3WG90MDJIWHc?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T21:21:36.000Z",
-      "originalHeadline": "أميركا تعتزم نشر طائرة الرئاسة المهداة من قطر في 4 يوليو - ا��شرق"
-    },
-    {
-      "headline": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal",
-      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:17:47.000Z"
-    },
-    {
-      "headline": "Interior: A fine of 50 thousand riyals and 6 months imprisonment for violators of transporting pilgrims without a permit\n\n#No_Hajj_without_a permit",
-      "url": "https://x.com/alekhbariyatv/status/2052135491311411378",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-06T21:16:42.000Z",
-      "originalHeadline": "الداخلية: غرامة 50 ألف ريال وسجن 6 أشهر لمخالفي نقل الحجاج بلا تصريح\n\n#لا_حج_بلا_تصريح"
-    },
-    {
-      "headline": "What’s behind the secessionist movement in the Canadian province Alberta?",
-      "url": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:05:29.000Z"
-    },
-    {
-      "headline": "Israel bombs Beirut’s southern suburbs",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T21:01:40.000Z"
-    },
-    {
-      "headline": "Mohamed Al-Hammadi: President Sisi stressed that Egypt always stands by the UAE - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQcU00cWNUbmhXQ0x6YTRDaXBNTF9YaEdwYW9PUEZUd0c2RkNCdWQ2WG1KNFVKR00wbG1RQWE1UkdiNzFsblJUdmJETzJBeHFhcjllQU9RSG1hXzhHaTB6QU80XzNIUEdneFJqVU5hSzNvejFFaV9nbVhFMjNRbG1keWdyRVdIVmR1SXR1MUF0YVUyODhXNllSVzFIOF80NjJRZFVQVW0zSTdjNFVvakJwbWRQajRGWUVDYlBxQTJZNmttWXlrVG44NTNPa2VrY1hUUDJFOGQ3aWZkNVhMc0RYVExBMmh1Sl9Yc1RXV0s5Z0FGdGYtNWk5TGFsNWlSNy1tLTNiYmE5d2o5WlFLVm9VYkNHTHc1V1N2bmhCcHhKVm03UFJKQlhEZEplNnVva3Fpb3pWSFFzRGdIY0M2V3kwcU5hdm55eEUwTWhfUGF5NzU3NFZERWJ3MUZac29WVEVteHhwc2VsQUdGY19qS2VCaDhVR0ZweG1aRDFNalZ0MS1zYnhsbHV4Z3h1VEZTdllJVVUtWlh0UU5aTGFqeldVRk1vclNYeS1oTHR0WUNfUTlsQVRRSFdSd3BoYVR5REVRQ0hicHNuOHl1V1930gHHA0FVX3lxTE85aUJuX3NsUWRlRk50UUFDT1BvTUtDSWkyVGl2UWtPblRENjNQMzlmejBWYXV4bHNMQjhZb2tjZkZfcUtIQ1ZNeUgteEVNQ0otY0pxRHlOZzF2SmJNSGViTG4xNXRuVWx1dU5BT21XT1d4bWtnZHpNd3hrOWprSnhxWjlmOTB0MTRFTUl5Z0ZPU19KeVdGdXJpZ0RVblVBM3MwOG9sM09sODE1QkpwX2FTYjRTQWJXUV9HNG5OVlBrek1uNUV5Zkw4U090dmYzZlVnSlRJYWhLcUhJWVhUYnN5V2o1dmlBZ0YwRkxNYWtodFNER0dfaVVhbHNvZ3FGTVhqQzZmNjBDVWYzQjJqRjE0dVk2YmVBNFhUaWl5STdBMk9EMDZsTmNBYXhBMHp4dVE2R1B6TGpxS3l5QU1tMUpMYTB5dUNxQ1g5NnAyWVdaMGZNbHJ2V0NhQUxXOVdTV19Vc0NSZ2t6R1lkNmRZV0pLYWcxbF8zYVpwenRwczZzcVhGeUJCcHNWbVh4cS10b05Tb1Z5Y1otVUFMMjltZkxCMjZqS3dncDEtWVllUEVnb1NHNU1VbFZxalNEdzZlQVJhOWJfaWxN?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T21:00:00.000Z",
-      "originalHeadline": "محمد الحمادي: الرئيس السيسي أكد أن مصر دائمًا تقف بجانب الإمارات - اليوم السابع"
-    },
-    {
-      "headline": "Transporting People Without Hajj Permits Carries up to SAR50,000 Fine, Six Months in Prison",
-      "url": "https://www.spa.gov.sa/en/N2579628?type=news&uuid=N2579628",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:55:27.000Z"
-    },
-    {
-      "headline": "The experience of a decade of guiding reveals the qualitative transformation in the pilgrims’ journey.\n\nhttps://\nspa.gov.sa/N2579126\n#Mecca_Road_Initiative | #God bless you \n#Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2052129149695738156",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:51:30.000Z",
-      "originalHeadline": "خبرة عقدٍ من الإرشاد تكشف التحول النوعي في رحلة الحجاج.\n\nhttps://\nspa.gov.sa/N2579126\n#مبادرة_طريق_مكة | #حياكم_الله \n#واس_حج47"
-    },
-    {
-      "headline": "Search operations continue for two American soldiers who went missing in Morocco",
-      "url": "https://www.aljazeera.net/news/2026/5/6/%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%AC%D9%86%D8%AF%D9%8A%D9%8A%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T20:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "استمرار عمليات البحث عن جنديين أمريكيين فُقدا في المغرب"
-    },
-    {
-      "headline": "From the Kingdom of Charity... Relief efforts continue to support the brotherly Palestinian people.\n#SPA",
-      "url": "https://x.com/SPAregions/status/2052127348426768714",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:44:21.000Z",
-      "originalHeadline": "من مملكة الخير.. تستمر الجهود الإغاثية لدعم الشعب الفلسطيني الشقيق.\n#واس"
-    },
-    {
-      "headline": "KSrelief Rehabilitates Central Fish, Vegetable, and Fruit Market in Al-Mukalla",
-      "url": "https://www.spa.gov.sa/en/N2579623?type=news&uuid=N2579623",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:42:21.000Z"
-    },
-    {
-      "headline": "Axios: A one-page memo.\nAnd 14 items bring Washington and Tehran closer to an agreement to end the war\n\nWhat are the most important features of the new proposal?",
-      "url": "https://x.com/AlriyadhHere/status/2052126085811192300",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-06T20:39:20.000Z",
-      "originalHeadline": "أكسيوس: مذكرة من صفحة واحدة..\nو14 بندا تقرب واشنطن وطهران من اتفاق لإنهاء الحرب\n\nما أبرز ما يتضمنه المقترح الجديد؟"
-    },
-    {
-      "headline": "Disney earnings beat estimates as new CEO outlines growth strategy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0hyWVVHWlZDRGt3WjhfY3lVV056Vm1Db0MzTy1Nem1RdElxeDhwRTMyUUk0LXBrb0VKX1dxR2h4WDJDTFVDQ2hFOWxGVjAzc3dvNnI5OF9KLWNVR2VyV0xrVGNqazljb1ZqZTVjay0xRExJRHNKQVhMQUdYU3RlMmtGNmlaclJYV2VJUC1NZ0tLcmh3VDItUjlfalVzRm9Nd05DRnJ3bGZXV1EtQTUtSkF2WkJpUzg0LVBkZXYzYw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T20:38:37.000Z"
-    },
-    {
-      "headline": "The Gulf Cooperation Council condemns Iranian allegations against the UAE - Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQYmFVVmh2eENtNndYVzdDbTB6WGhJOTJoSVEwcHlPQ0FxRjBGYThSekVFWGJPM25SRjBrNnRJd2ZZWXZPLUZqU1ZDZkROS09rZzMzX1M0ZmtYWG1JOV93Szh6ai1wVTlCU1VZdUVkZ00wVHVTSHptRkplUWkyb2pjTVBaOXVOVGIzZ1R1TlNvc0Vnc1ZEMWl4WkRmeHQ5ajRqd0hydmZZMktacTdRN29yZTBjek5oSEllYUtLU3FzWE5LTWhOU3VTenhaUE9VdnI3Z2Nqbnk0cWw0ZXJ1UXNGWGtaUG01WjFLR216SnRIdUF2WWZ0Y2JpNjExTFpXam5VckdmOTZpel9UVnZPUE9va282R0Z4a2RKeFNmN2JhemdZeE5ISnF4cjF5ZWxEWk94NWQ1NVBwMy1FS09mS2NzUU1qci1jS2pPd09tYTFIWUtJdHZWNk1MQW1aVVhfWkM1RkVPbkxiMFNzLWtqbG03TFdJN1lRMnNkZnBGeEhWQjBFWDYxU1Z4QlRsaHZobkxJbUJ3dkVLNF9iN1VwaEpZc2VmMG1sSVdlOWJnRUJkVkgyR3puaEc3NW9LRnQwSm9jSmlYRzdtVnBuTEJDeGNwRzRtemROdGh4UVNrM2FvbmlVelBMYkw40gHsA0FVX3lxTE5pUmd4d3NMS0ZqSjZLNVJFVVdzekpoV29CV1p1clEyc3dfT0RSeV96ZDg1U3NqR1RscGNRYW1CS3ZxUnFkN2N6OG44T1hFYTAwdnpzU1p2TWN2cDBEbHhLS1BubnVQSl83YUFYM2V1YWVWaVBwX1BHSTNRNUk2d1F2Y2xRR0VvUml0Mmh0R1Voalo0amxndkJzUkVBTUt5UXNJSVJKMHRSaDV2bmlJS3FMX0Ffc2wtUDR5M09pNkZjSTkwWjJ4RDJ5WWFpTEhTTEZGSVduWFQwNnpRTHBsOUxGb3VmVzlyeFg0ZDNSbUhCRUk5QUttNXVKMDd0U3FhNF95djBzTWFPLXVobENQT09uR0ZOT3A5Z044S29KSXBreVdoV2h1XzBXZ2k3bTFQRWtXbW9VVWc4cGdvQWd2U3FhczV1UGpILTFBRjJsTXBmeGRxaHh5ekhfQUxGMUlRdG9mX25jeTZKN3p0VWtFZFVIQ1ZQbmZrNVRTd2pneVpobHZ1S0p5eGI2X0pTemJaZGF5MWFSRWZEbjR3ZnJHeWZUdmh5NWduaVJfSF9KRGs2MUIzOVN1NExKd3BBbklXc0hwaTB0bENxWnZOcVRkU3hYQWFibFZNb01xR2ZzMGoyT3U0TUU5c2lfVmtmUg?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:35:39.000Z",
-      "originalHeadline": "مجلس التعاون الخليجي يدين الادعاءات الإيرانية تجاه الإمارات - سكاي نيوز عربية"
-    },
-    {
-      "headline": "The Governor of Al-Ahsa sponsors the graduation ceremony of the 47th batch of King Faisal University, which includes more than 10,000 graduates, male and female.\n\nhttps://\nspa.gov.sa/N2579578\n#SPA",
-      "url": "https://x.com/SPAregions/status/2052124193316094164",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:31:48.000Z",
-      "originalHeadline": "محافظ الأحساء يرعى حفل تخريج الدفعة الـ 47 من جامعة الملك فيصل تضم أكثر من 10 آلاف خريج وخريجة.\n\nhttps://\nspa.gov.sa/N2579578\n#واس"
-    },
-    {
-      "headline": "UAE Pavilion promotes national defence entities on day two of SAHA 2026",
-      "url": "https://www.wam.ae/en/details/177j9rn-uae-pavilion-promotes-national-defence-entities",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T20:31:40.732Z"
-    },
-    {
-      "headline": "Israel announces the targeting of the commander of the Radwan Force in Hezbollah",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/05/06/israel-targets-top-hezbollah-commander-in-first-strike-in-beirut-since-ceasefire",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إسرائيل تعلن استهداف قائد قوة الرضوان في حزب الله"
-    },
-    {
-      "headline": "Trump clarifies the fate of enriched uranium in the potential agreement with Iran",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/05/06/deal-with-iran-would-require-tehran-send-enriched-uranium-stockpile-us-trump",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ترامب يوضح مصير اليورانيوم المُخصب في الاتفاق المحتمل مع إيران"
-    },
-    {
-      "headline": "Jordan is pumping $9 billion into strategic projects, most notably the Aqaba Railway",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/05/06/jordan-9-billion-injected-into-strategic-projects-most-notably-the-aqaba-railway",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الأردن يضخ 9 مليارات دولار لمشاريع استراتيجية أبرزها سكة العقبة"
-    },
-    {
-      "headline": "How much have you been missing... Haifa Wehbe giving a concert in Egypt after an absence",
-      "url": "https://arabic.cnn.com/entertainment/article/2026/05/06/haifa-wehbe-performs-a-concert-in-egypt-after-a-long-absence",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "قد إيه كنت مشتاقة .. هيفاء وهبي تحيي حفلا في مصر بعد غياب"
-    },
-    {
-      "headline": "Hanta is approaching the Canary Islands.. What happens inside the infected ship before it arrives?",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/05/06/cruise-ship-hantavirus-who-intl",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هانتا يقترب من جزر الكناري .. ماذا يحدث داخل السفينة الموبوءة قبل وصولها ؟"
-    },
-    {
-      "headline": "A new teaser...the movie 7DOGS will be shown on this date",
-      "url": "https://arabic.cnn.com/entertainment/article/2026/05/06/new-teaser-trailer-7-dogs-movie-to-be-released-on-this-date",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إعلان تشويقي جديد .. فيلم 7DOGS يعرض في هذا الموعد"
-    },
-    {
-      "headline": "An image shows an Israeli soldier desecrating a statue of Mary in Lebanon",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/05/06/photo-shows-israeli-soldier-desecrating-statue-of-mary-in-lebanon",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "صورة تُظهر جنديًا إسرائيليًا يُدنس تمثالًا للسيدة مريم في لبنان"
-    },
-    {
-      "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T20:28:57.000Z"
-    },
-    {
-      "headline": "The UAE condemns Iran's \"allegations and threats\": Our defense partnerships are a sovereign matter - Al-Sharq",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPbXlqS3Q5SEVsY1BmR25sbzdod2FVZ0NxYUt4QTBsWDgzWE1qM1l3YzBWeTVMN0l5ZEJLM0lwamhBN3p4UnVLbWtxcndHMXFtOVEyQ0ZpSktNTmdGeUpjOVNNbjlIdlBVV3pSbHgzUU5yZ0hIV3RNaGZiLU9wanJlRWN3eTI5cUZqZVFfUXVwUl9iS1dOSXlUTHhvOUx2bk5uekJzazJ1akFObUo3WWppTW5UNXpTSFh6OWpwc282NnNXU3FnYmI3Y19pSWxpUF9nRUE5dDVRalpMaF9FNURTWjQ4N21Gd3U2UlAwNVcyaE50Y0t3SjQzc2VvRlhibEVxLXVDQTRicGhlTkRsRzNiR0hfM3VOb0lOTG5LcXMyT1h5Sms3WEFNYkU5U0VhNEZQU2dYWFlmQUVnM1NDMXExemprT2RhRjNwcFNVSXRvZE96SjlvbThQVmdfUXZENE9LT1pib2VZcWhuclFWSEIxeTNkTW0yOGhScjJYQndySXhvb1U3TmlHQk52N1pjN0ZKVWN4WVAtb2FqN2syaGlyQVZqVjdjelJWMHEwcXN3WXFTV3FIakR4eWpjMHFlbXd6TS1MaEVlbjBrRVlBSDk3OUNNRVg5R1lsSnJXMlpkaDgyc3hqV1E?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:18:20.000Z",
-      "originalHeadline": "الإمارات تدين \"مزاعم وتهديدات\" إيران: شراكاتنا الدفاعية شأن سيادي - الشرق"
-    },
-    {
-      "headline": "The Minister of Foreign Affairs makes a telephone call with the Minister of Foreign Affairs of the Kingdom of Denmark \n\n\nhttp://\ntinyurl.com/29fufeq6",
-      "url": "https://x.com/bahdiplomatic/status/2052120427338834301",
-      "source": "Bahrain MFA",
-      "sourceId": "twitter_bahrain_mfa",
-      "category": "bahrain_twitter",
-      "country": "Bahrain",
-      "language": "en",
-      "date": "2026-05-06T20:16:51.000Z",
-      "originalHeadline": "وزير الخارجية يجري اتصالًا هاتفيًا مع وزير خارجية مملكة الدنمارك \n\n\nhttp://\ntinyurl.com/29fufeq6"
-    },
-    {
-      "headline": "UAE and Qatar: We are moving steadily towards a more advanced stage of cooperation and integration - National Media Authority",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNTjVVT3F6dVlhMHRyNndxZDVLcmNrYndJbkJNQmZZZTRtMEV6MDhsRHFEeVI5V3c2Yml5cjVja3gzT2QtZ3Y5R29faUNQZ0RLOTdQUDJEd1dIRlFmWnQ4VHgzUDJHMHFjV2YzMmUyVHBMejN3cl9VLW9rV2NvVloyazZoc1ZnT2J1YWpfNUF6N0pJR0RSUWRoc3JMemhiSENJazRNVWlGYXBkX2RfTTM0Qm5haFVkN2V1TGJWbXh6RFMyTDdwLWNCdVJzeDRYMzlqVjlrQnRidFB6VldiazJIOThzUzM2c1hzQl9idjlWX3ZRSXRmSy1HTThhUmowb3Rtc2J4ZHhYQ0N5c2oxWFp6c1p4cVYtWnJuaDVRVVU1MG11RkdRZGtrdVQ1RVVwb1d5QzRHbWhaei02bFhiSjR0MEs0UW5ERUEyNGt4SERENkVBcnFKTVFLX0ptWWNsQnI3WWhqTE9YMEJzaGhKUmJXRl9adHl3bngxNjZVSlJpc3NhZldCSV9Dd21oSzhKNkQ1UkRqZlEtMmN5WkJkdjI5X3hJVWpnVXdQSmFiLXEwTlNfdWJZeVptSmY4ZmJ1ak5rMVU0Q1paeFFZdlpla2wwLTVKSkpCM3BxYUQyU0h6aExFazc3bDBSVmRKSDhqYVlKbFdsMHVhSDVZVXV2NTlucl8zaXhjSVZZZjB3dUgwQW9qQTMwc0VtTXhWUEo2T2tYMGJZREZGdGtXTnNydzJzNnBTWGttUTB0V3pUbUtvb1JvTEdUNGJqVTNkeWJwZw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:15:04.000Z",
-      "originalHeadline": "الإمارات وقطر: نمضي بخطى ثابتة نحو مرحلة أكثر تقدما من التعاون والتكامل - الهيئة الوطنية للإعلام"
-    },
-    {
-      "headline": "CDA hosts Bishop Paolo Martinelli, underscores Dubai’s model of coexistence, community safety",
-      "url": "https://www.wam.ae/en/details/177j9rm-cda-hosts-bishop-paolo-martinelli-underscores",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T20:14:30.454Z"
-    },
-    {
-      "headline": "KSrelief Distributes 170 Food Baskets in Yemen's Abyan",
-      "url": "https://www.spa.gov.sa/en/N2579586?type=news&uuid=N2579586",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T20:07:31.000Z"
-    },
-    {
-      "headline": "UAE: Our international and defense partnerships are a purely sovereign matter - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOMXRXUDgtSHc4OHV6eVZRUm9RSXdya05yZW9yVkRQTi0tc3VHVktzZEtOTjhhcVJlZFZOU1pIOVMwVHhMYzlaTHFGSkd3UjE0SE1UQTBoT1lqeTBOcFlrOUVMdXhRY2ZldUZzSkhYUkY4M3RYVWxqa0w2dmhNSlJLYXB2RkdQNjR6Y1BwNU45X1dlSVFxZ09BTzhsLVVfbFZYcEF6LXVKQi1rTC1ZcFMtUER1SWFCRmllWm9qQWhSdXVsV1hHRm1xZFFhSTUySXgydHJHS0ZDcld4WFFad3hGSkoxeHVYMUtuaWxXU2Z4emFVZFNrMFJyb1FPeVVCYmZLNTVGb3B5dGplcmgwZmFIeHdWbjhBTm1uYTBsN1pVM0I5dVJxdXkzaElEakRCMUZpbXNRcFZHZFdhemZfdnNyOTNoQnBXb2d5UlBpSWw2YTRmZlpPM3k3Qzd5SEI4TjdzLWxaTGwwbDFycWtROFozSVVhSDk0QW1zVndyblhKQ3hWaW5aZDBrYl9LS2tOSUpwU0V3UUhRQjI4bDdDdlVvNmd6OFd5UnZqb3BILTBVeVR6amJ6TXZPeEZFaHBsc3dTMXd5bm40SG5rd0dTNDFDSTN30gHXA0FVX3lxTE1jS0FNS2hTUDVVVTIwaWZMZVhWTjRhSE1ucXNKSV8zQ2J6Y0pjbFNnc3l0M0x4LUhVSWNyN1pHb0dOTGFfQkk5cU9WR3BpZlY0enZrR05kQXV4bHRjUnFRaHduX1ZLZmZoMnBJUU5MOUlsSy1VTFEtcEUtYTRjX0lsbi1nV2pDelVTRmxrQjBDOEt0dDNlQ1FuNW5DMmZrWEpiTDRlamtjU19OTlNlZ2dNa3lXOEFvMlRDWUhEdHo0RE5KT290VkpscUNhbXRqTTRtWlFZV2VSRVVvajlQdUpCa2RNMW5rcFlFNVhzVzVRdXY3MkxYNURDeUUySG5YVXFvU1psS2JEYU85OW55eEJZaHlzNFJ1RGN1VTNqeXF6RW5GSGdVa2U2YVl4MHBtQ3JZSHVVSC1LdlRpbjd6X3VUaDQyRFB1RXIxSmd2TGlFWnpJOFNnWDUtV3V5V0ZuWWxWWUpqODRaMWpRYmt5OU5JR1VyOWhDeEcwQzk1UDRoRmlTSEdMWlJac1gyRk1wRlJzRW54SkxPc1BlcXlNTXNKR0lEMUhGejZEVTVFYVBzOUpqRGVibUxTQUFkdFRUSEtYRmh2NTMwTzh0Q0NFWFNwSmJRRXY0Zw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:02:00.000Z",
-      "originalHeadline": "الإمارات: شراكاتنا الدولية والدفاعية شأن سيادي خالص - العربية"
-    },
-    {
-      "headline": "UAE: Our international and defense partnerships are a purely sovereign matter - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNY0tBTUtoU1A1VVUyMGlmTGVYVk40YUhNbnFzSklfM0NiemNKY2xTZ3N5dDNMeC1IVUljcjdaR29HTkxhX0JJOXFPVkdwaWZWNHp2a0dOZEF1eGx0Y1JxUWh3bl9WS2ZmaDJwSVFOTDlJbEstVUxRLXBFLWE0Y19JbG4tZ1dqQ3pVU0Zsa0IwQzhLdHQzZUNRbjVuQzJma1hKYkw0ZWprY1NfTk5TZWdnTWt5VzhBbzJUQ1lIRHR6NEROSk9vdFZKbHFDYW10ak00bVpRWVdlUkVVb2o5UHVKQmtkTTFua3BZRTVYc1c1UXV2NzJMWDVEQ3lFMkhuWFVxb1NabEtiRGFPOTlueXhCWWh5czRSdURjdVUzanlxekVuRkhnVWtlNmFZeDBwbUNyWUh1VUgtS3ZUaW43el91VGg0MkRQdUVyMUpndkxpRVp6SThTZ1g1LVd1eVdGbllsVllKajg0WjFqUWJreTlOSUdVcjloQ3hHMEM5NVA0aEZpU0hHTFpSWnNYMkZNcEZSc0VueEpMT3NQZXF5TU1zSkdJRDFIRno2RFU1RWFQczlKakRlYm1MU0FBZHRUVEhLWEZodjUzME84dENDRVhTcEpiUUV2NGfSAdcDQVVfeXFMTWNLQU1LaFNQNVVVMjBpZkxlWFZONGFITW5xc0pJXzNDYnpjSmNsU2dzeXQzTHgtSFVJY3I3WkdvR05MYV9CSTlxT1ZHcGlmVjR6dmtHTmRBdXhsdGNScVFod25fVktmZmgycElRTkw5SWxLLVVMUS1wRS1hNGNfSWxuLWdXakN6VVNGbGtCMEM4S3R0M2VDUW41bkMyZmtYSmJMNGVqa2NTX05OU2VnZ01reVc4QW8yVENZSER0ejRETkpPb3RWSmxxQ2FtdGpNNG1aUVlXZVJFVW9qOVB1SkJrZE0xbmtwWUU1WHNXNVF1djcyTFg1REN5RTJIblhVcW9TWmxLYkRhTzk5bnl4QlloeXM0UnVEY3VVM2p5cXpFbkZIZ1VrZTZhWXgwcG1DcllIdVVILUt2VGluN3pfdVRoNDJEUHVFcjFKZ3ZMaUVaekk4U2dYNS1XdXlXRm5ZbFZZSmo4NFoxalFia3k5TklHVXI5aEN4RzBDOTVQNGhGaVNIR0xaUlpzWDJGTXBGUnNFbnhKTE9zUGVxeU1Nc0pHSUQxSEZ6NkRVNUVhUHM5SmpEZWJtTFNBQWR0VFRIS1hGaHY1MzBPOHRDQ0VYU3BKYlFFdjRn?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-06T20:02:00.000Z",
-      "originalHeadline": "الإمارات: شراكاتنا الدولية والدفاعية شأن سيادي خالص - العربية"
-    },
-    {
-      "headline": "Abdullah bin Zayed, Qatari Prime Minister and Foreign Minister co-chair UAE-Qatar Joint Committee Meeting at Zayed National Museum",
-      "url": "https://www.wam.ae/en/details/177j9rl-abdullah-bin-zayed-qatari-prime-minister-and",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T20:01:19.985Z"
-    },
-    {
-      "headline": "In numbers... statistics reveal a map of the return of Syrian refugees from neighboring countries news",
-      "url": "https://www.aljazeera.net/news/2026/5/6/%D9%84%D8%A7%D8%AC%D8%A6%D9%88-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D8%AF%D9%8A%D8%A7%D8%B1-%D8%A3%D8%B1%D9%82%D8%A7%D9%85",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T20:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بالأرقام .. إحصاءات تكشف خريطة عودة اللاجئين السوريين من دول الجوار | أخبار"
-    },
-    {
-      "headline": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-06T19:58:04.000Z"
-    },
-    {
-      "headline": "Madinah Airport Welcomes First Hajj Flights from Niger",
-      "url": "https://www.spa.gov.sa/en/N2579577?type=news&uuid=N2579577",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T19:58:04.000Z"
-    },
-    {
-      "headline": "Jordan, Cyprus, #Greece Deepen Trilateral Cooperation\n#QNA #Jordan #Cyprus \n\nhttps://\now.ly/QONK50YVMwA",
-      "url": "https://x.com/QNAEnglish/status/2052114986919440659",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T19:55:13.000Z"
-    },
-    {
-      "headline": "KSrelief Distributes 800 Food Baskets in Sudan's Khartoum",
-      "url": "https://www.spa.gov.sa/en/N2579574?type=news&uuid=N2579574",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T19:50:38.000Z"
-    },
-    {
-      "headline": "#AbuDhabi’s iconic buildings light up to mark the 50th anniversary of the unification of the UAE Armed Forces.",
-      "url": "https://x.com/ADMediaOffice/status/2052113145720885466",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T19:47:55.000Z"
-    },
-    {
-      "headline": "Abu Dhabi's most iconic landmarks are lit up to celebrate the 50th anniversary of the unification of the UAE Armed Forces.",
-      "url": "https://x.com/ADMediaOffice/status/2052113141677625736",
-      "source": "Abu Dhabi Media Office",
-      "sourceId": "twitter_ad_media",
-      "category": "uae_twitter",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-06T19:47:54.000Z",
-      "originalHeadline": "أبرز معالم #أبوظبي الأيقونية تضيء احتفاءً بالذكرى الـ50 لتوحيد القوات المسلحة الإماراتية."
-    },
-    {
-      "headline": "Today we held a meeting with Sheikh \n@ABZayed\n The work of the seventh session of the joint supreme committee between the State of Qatar and the sisterly Emirates. Our two countries and peoples are linked by strong ties that reflect the aspirations of our leadership and peoples t",
-      "url": "https://x.com/MBA_AlThani_/status/2052112524829478965",
-      "source": "PM Al Thani",
-      "sourceId": "twitter_pm_qatar",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T19:45:26.000Z",
-      "originalHeadline": "عقدنا اليوم بمعية الشيخ \n@ABZayed\n أعمال الدورة السابعة للجنة العليا المشتركة بين دولة قطر والإمارات الشقيقة. تربط بلدينا وشعبينا أواصر متينة تعكس تطلعات قيادتنا وشعبينا في تعزيز المصالح المشتركة، وتطوير التعاون والتكامل في مختلف المجالات. شكرًا للأشقاء على كرم الضيافة."
-    },
-    {
-      "headline": "Minister of State for International Cooperation Meets UN Secretary General's Personal Envoy for #Sudan\n#QNA #Qatar\n\nhttps://\now.ly/pOcf50YVMtX",
-      "url": "https://x.com/QNAEnglish/status/2052112469238108532",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T19:45:13.000Z"
-    },
-    {
-      "headline": "Tehran Draws Red Lines in Beijing as Nuclear Diplomacy Advances Amid War Tensions",
-      "url": "https://www.bearingdrift.com/2026/05/tehran-draws-red-lines-in-beijing-as.html",
-      "source": "bearingdrift.com",
-      "sourceId": "gdelt_bearingdrift_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Points of intersection and disagreement in the American and Iranian visions for ending the war",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D9%86%D9%82%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D9%88%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D8%AA%D9%8A%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نقاط التقاطع والخلاف في الرؤيتين الأمريكية والإيرانية لإنهاء الحرب"
-    },
-    {
-      "headline": "Tunisia.. 20 years imprisonment for former Minister Nour El-Din El-Behairi, leader of the Ennahdha movement",
-      "url": "https://www.aljazeera.net/news/2026/5/6/%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-20-%D8%B9%D8%A7%D9%85%D8%A7-%D9%84%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%86%D9%88%D8%B1",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تونس .. السجن 20 عاما للوزير السابق نور الدين البحيري القيادي بحركة النهضة"
-    },
-    {
-      "headline": "Trump's pressures... Will it spell the end of Europe or lead it to a new era?",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D8%B6%D8%BA%D9%88%D8%B7-%D8%AA%D8%B1%D9%85%D8%A8-%D9%87%D9%84-%D8%AA%D9%83%D8%AA%D8%A8-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A3%D9%85",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ضغوط ترمب .. هل تكتب نهاية أوروبا أم تقودها لعصر جديد ؟"
-    },
-    {
-      "headline": "Unexpected signs that you are suffering from lack of sleep",
-      "url": "https://www.aljazeera.net/lifestyle/2026/5/6/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%BA%D9%8A%D8%B1-%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%83-%D8%AA%D8%B9%D8%A7%D9%86%D9%8A-%D9%82%D9%84%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "علامات غير متوقعة على أنك تعاني قلة النوم"
-    },
-    {
-      "headline": "Netanyahu's flight forward... Is resuming the war on Gaza a matter of time?",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D9%87%D8%B1%D9%88%D8%A8-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%85-%D9%87%D9%84-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هروب نتنياهو إلى الأمام .. هل استئناف الحرب على غزة مسألة وقت ؟"
-    },
-    {
-      "headline": "Let Al Jazeera go. This is how the occupation abused journalist Ali Samoudi",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D8%AE%D9%84%D9%8A-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B1%D9%88%D8%AD%D9%83-%D9%87%D9%83%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D9%87%D8%B2%D8%A6",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "خلي الجزيرة تروحك .. هكذا نكّل الاحتلال بالصحفي علي سمودي"
-    },
-    {
-      "headline": "Where did Modi's opponents go? India is under the dominance of one party",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D8%A3%D9%8A%D9%86-%D8%B0%D9%87%D8%A8-%D8%AE%D8%B5%D9%88%D9%85-%D9%85%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%AA%D8%AD%D8%AA-%D9%87%D9%8A%D9%85%D9%86%D8%A9-%D8%AD%D8%B2%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أين ذهب خصوم مودي ؟ الهند تحت هيمنة حزب واحد"
-    },
-    {
-      "headline": "Will Alberta secede from Canada? Here's what you should know",
-      "url": "https://www.aljazeera.net/politics/2026/5/6/%D9%87%D9%84-%D8%AA%D9%86%D9%81%D8%B5%D9%84-%D8%A3%D9%84%D8%A8%D8%B1%D8%AA%D8%A7-%D8%B9%D9%86-%D9%83%D9%86%D8%AF%D8%A7-%D8%A5%D9%84%D9%8A%D9%83-%D9%85%D8%A7-%D9%8A%D8%AC%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هل تنفصل ألبرتا عن كندا ؟ إليك ما تجب معرفته"
-    },
-    {
-      "headline": "Satellite images document damage to Khartoum Airport after being targeted by drones",
-      "url": "https://www.aljazeera.net/news/2026/5/6/%D8%B5%D9%88%D8%B1-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%88%D8%AB%D9%82-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1%D8%A7-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-06T19:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "صور فضائية توثق أضرارا في مطار الخرطوم بعد استهداف بمسيرات"
-    },
-    {
-      "headline": "Pilgrim Transport Improvements Cut Makkah-to-Mina Journey Time by Four Hours",
-      "url": "https://www.spa.gov.sa/en/N2579569?type=news&uuid=N2579569",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-06T19:43:40.000Z"
-    },
-    {
-      "headline": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
-      "url": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "qatar",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-06T19:43:05.000Z"
     }
   ]
 }
