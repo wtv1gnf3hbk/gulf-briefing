@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gulf Briefing</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.7;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background: #fafafa;
+      color: #1a1a1a;
+    }
+    .header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .timestamp {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .refresh-link {
+      color: #666;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    h1, h2, strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    p { margin-bottom: 16px; }
+    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
+    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
+    li::before { content: "•"; position: absolute; left: 0; color: #999; }
+    a {
+      color: #1a1a1a;
+      text-decoration: underline;
+      text-decoration-color: #999;
+      text-underline-offset: 2px;
+    }
+    a:hover { text-decoration-color: #333; }
+    strong { font-weight: 600; }
+    .section-header { margin-top: 24px; margin-bottom: 12px; }
+    .screenshots-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshots-header {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .screenshots-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .screenshot-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      background: white;
+    }
+    .screenshot-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .screenshot-card .label {
+      padding: 8px 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      background: #f5f5f5;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshot-card .label a {
+      color: #666;
+      text-decoration: none;
+    }
+    .screenshot-card .label a:hover {
+      text-decoration: underline;
+    }
+    /* Feedback section */
+    .feedback-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+      text-align: center;
+    }
+    .feedback-prompt {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 12px;
+    }
+    .feedback-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .feedback-btn {
+      font-size: 1.4rem;
+      padding: 8px 16px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: transparent;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .feedback-btn:hover { background: #f0f0f0; }
+    .feedback-btn.selected { background: #e8e8e8; border-color: #999; }
+    .feedback-textarea {
+      display: block;
+      width: 100%;
+      max-width: 480px;
+      margin: 12px auto;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.9rem;
+      resize: vertical;
+    }
+    .feedback-submit {
+      display: block;
+      margin: 8px auto;
+      padding: 6px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: #f5f5f5;
+      cursor: pointer;
+    }
+    .feedback-submit:hover { background: #e8e8e8; }
+    .feedback-thanks {
+      display: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title">Gulf Briefing</div>
+    <div class="timestamp">
+      Generated Thursday, May 21, 2026 at 4:07 PM GMT+4
+      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+    </div>
+  </div>
+
+  <script>
+    const WORKER_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev';
+
+    async function refreshBriefing() {
+      const link = event.target;
+      const originalText = link.textContent;
+
+      try {
+        // Step 1: Trigger the workflow
+        link.textContent = 'Triggering...';
+        const triggerRes = await fetch(`${WORKER_URL}/trigger`, { method: 'POST' });
+        if (!triggerRes.ok) throw new Error('Failed to trigger');
+
+        // Step 2: Wait for run to be created
+        link.textContent = 'Starting...';
+        await new Promise(r => setTimeout(r, 3000));
+
+        // Step 3: Get the run ID
+        link.textContent = 'Finding run...';
+        const runsRes = await fetch(`${WORKER_URL}/runs`);
+        const runsData = await runsRes.json();
+        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
+
+        const runId = runsData.workflow_runs[0].id;
+        const runUrl = runsData.workflow_runs[0].html_url;
+
+        // Step 4: Poll for completion
+        let attempts = 0;
+        while (attempts < 60) {
+          const statusRes = await fetch(`${WORKER_URL}/status/${runId}`);
+          const statusData = await statusRes.json();
+
+          if (statusData.status === 'completed') {
+            if (statusData.conclusion === 'success') {
+              link.textContent = 'Done! Reloading...';
+              await new Promise(r => setTimeout(r, 5000));
+              location.reload(true);
+              return;
+            } else {
+              link.innerHTML = `Failed (<a href="${runUrl}" target="_blank">logs</a>)`;
+              return;
+            }
+          }
+
+          link.textContent = `Running... ${attempts * 5}s`;
+          await new Promise(r => setTimeout(r, 5000));
+          attempts++;
+        }
+
+        link.innerHTML = `Timeout (<a href="${runUrl}" target="_blank">check</a>)`;
+      } catch (error) {
+        console.error('Refresh error:', error);
+        link.textContent = 'Error';
+        setTimeout(() => { link.textContent = originalText; }, 3000);
+      }
+    }
+  </script>
+
+  <div id="content">
+<p class="section-header"><strong>Gulf Brief</strong></p>
+
+<p>1. <strong>Saudi energy squeeze.</strong> Saudi Arabia will burn more oil for electricity generation this summer as domestic gas production falls, Reuters reported, while March crude exports <a href="https://www.reuters.com/business/energy/saudi-arabia-march-crude-exports-drop-lowest-record-jodi-says-2026-05-20/" target="_blank">dropped to</a> their lowest level on record according to JODI data. The kingdom faces increased domestic energy demand during peak summer months while trying to maintain production discipline under OPEC+ agreements.</p>
+
+<p>2. <strong>UAE pipeline progress.</strong> The UAE's new oil pipeline bypassing the Strait of Hormuz reached 50% completion ahead of its planned 2027 start date, <a href="https://www.reuters.com/world/middle-east/new-uae-pipeline-bypassing-hormuz-now-50-complete-adnoc-ceo-says-2026-05-20/" target="_blank">Reuters reported</a>. The strategic project aims to reduce reliance on the critical shipping lane that handles roughly one-fifth of global oil exports.</p>
+
+<p>3. <strong>British-Gulf trade deal.</strong> Britain secured a $5 billion trade deal with Gulf states following Iran tensions, according to <a href="https://www.reuters.com/world/uk/britain-clinches-5-billion-gulf-trade-deal-shadow-iran-war-2026-05-20/" target="_blank">Reuters</a>. The agreement comes as regional security concerns heighten the strategic value of economic partnerships between the UK and GCC nations.</p>
+
+<p>4. <strong>Iran-Oman Hormuz talks.</strong> Iran is seeking a mechanism with Oman regarding the Strait of Hormuz, an Iranian foreign ministry spokesperson <a href="https://www.reuters.com/world/middle-east/iran-seeking-mechanism-with-oman-over-hormuz-foreign-ministry-spokesperson-says-2026-05-20/" target="_blank">told Reuters</a>. The discussions reflect Oman's traditional mediating role in regional disputes and growing concerns over maritime security.</p>
+
+<p>5. <strong>Saudi diplomatic activity.</strong> Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell and Swedish Defense Minister Pål Jonson to discuss regional security coordination. The deputy defense minister emphasized joint efforts to "address regional challenges and de-escalate tensions" in separate meetings with European officials.</p>
+
+<p>6. <strong>Qatar banking growth.</strong> Customer deposits in Qatari banks rose 5.8% by the end of April, the central bank reported. The growth reflects continued financial sector stability as Qatar maintains its position as a regional banking hub during ongoing regional tensions.</p>
+
+<p>7. <strong>Yemen government changes.</strong> The internationally recognized Yemeni government appointed Ahmed Hamid Lamlas as governor of Aden Governorate and approved a 20% cost-of-living allowance for state employees. Information Minister Mohammed Al-Eryani announced the Cabinet decisions aimed at addressing files "pending for many years."</p>
+
+<p>8. <strong>Oman solar milestone.</strong> O-Green celebrated the financial close of Oman's largest solar energy project, according to <a href="https://timesofoman.com//article/172104-o-green-celebrates-financial-close-of-largest-solar-energy-project" target="_blank">Times of Oman</a>. The project represents a significant step in the sultanate's renewable energy diversification efforts.</p>
+
+<p>9. <strong>UAE AI government push.</strong> Sheikh Mohammed bin Rashid witnessed the launch of artificial intelligence assistants for government procurement, taxes, and customer service during a national retreat in Abu Dhabi. The initiative aims to transform 50% of government services using agentic AI technologies under the supervision of Sheikh Mansour bin Zayed.</p>
+
+<p>10. <strong>Houthi naval operations.</strong> Mohammed Abdulsalam, the Houthi chief negotiator, said Yemeni naval forces conducted reconnaissance across the Red Sea when an American warship "opened fire in a hysterical manner." The incident highlights continued maritime tensions following months of Houthi attacks on commercial shipping.</p>
+
+<p class="section-header"><strong>Sources</strong></p>
+<p>• <a href="https://timesofoman.com" target="_blank">Times of Oman</a></p>
+<p>• <a href="https://www.reuters.com" target="_blank">Reuters</a></p>
+<p>• <a href="http://spa.gov.sa" target="_blank">Saudi Press Agency</a></p>
+<p>• Twitter/X feeds: @kbsalsaud, @FaisalbinFarhan, @HHShkMohd, @MBA_AlThani_, @ERYANIM, @abdusalamsalah</p>
+  </div>
+
+  <!-- Homepage screenshots removed 2026-05-04 per legal guidance: screenshots
+       contain embedded copyrighted photos. Capture is retained internally for
+       headline extraction; display is suppressed. -->
+  
+
+  <div class="feedback-section" id="feedback-section" data-date="2026-05-21">
+    <div class="feedback-prompt">How was today's briefing?</div>
+    <div class="feedback-buttons" id="feedback-buttons">
+      <button class="feedback-btn" data-reaction="thumbsup" onclick="selectReaction(this)">&#x1F44D;</button>
+      <button class="feedback-btn" data-reaction="thumbsdown" onclick="selectReaction(this)">&#x1F44E;</button>
+    </div>
+    <textarea class="feedback-textarea" id="feedback-comment" placeholder="Optional: tell us more..." rows="3"></textarea>
+    <button class="feedback-submit" id="feedback-submit" onclick="submitFeedback()">Send</button>
+    <div class="feedback-thanks" id="feedback-thanks">Thanks for the feedback!</div>
+  </div>
+
+  <script>
+    // --- Feedback ---
+    var FEEDBACK_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev/feedback';
+    var selectedReaction = null;
+
+    // Check if already submitted for this briefing date
+    (function() {
+      var dateKey = document.getElementById('feedback-section').dataset.date;
+      if (localStorage.getItem('feedback-sent-' + dateKey)) {
+        document.getElementById('feedback-buttons').style.display = 'none';
+        document.getElementById('feedback-prompt').style.display = 'none';
+        document.getElementById('feedback-thanks').style.display = 'block';
+        document.getElementById('feedback-thanks').textContent = 'Feedback sent — thank you!';
+      }
+    })();
+
+    function selectReaction(btn) {
+      document.querySelectorAll('.feedback-btn').forEach(function(b) { b.classList.remove('selected'); });
+      btn.classList.add('selected');
+      selectedReaction = btn.dataset.reaction;
+    }
+
+    async function submitFeedback() {
+      // Need either a reaction or a comment (or both)
+      var comment = document.getElementById('feedback-comment').value.trim();
+      if (!selectedReaction && !comment) return;
+      var dateKey = document.getElementById('feedback-section').dataset.date;
+      var submitBtn = document.getElementById('feedback-submit');
+      submitBtn.textContent = 'Sending...';
+      submitBtn.disabled = true;
+
+      try {
+        var res = await fetch(FEEDBACK_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            reaction: selectedReaction || 'comment',
+            comment: comment || '',
+            briefingDate: dateKey
+          })
+        });
+        if (!res.ok) throw new Error('Server error');
+
+        // Success — hide form, show thanks, remember in localStorage
+        document.getElementById('feedback-buttons').style.display = 'none';
+        document.getElementById('feedback-comment').style.display = 'none';
+        document.getElementById('feedback-submit').style.display = 'none';
+        document.querySelector('.feedback-prompt').style.display = 'none';
+        document.getElementById('feedback-thanks').style.display = 'block';
+        localStorage.setItem('feedback-sent-' + dateKey, '1');
+      } catch (e) {
+        submitBtn.textContent = 'Error — try again';
+        submitBtn.disabled = false;
+      }
+    }
+  </script>
+</body>
+</html>
