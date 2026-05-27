@@ -2,5 +2,11 @@ name = "gulf-briefing-refresh"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
-# NOTE: Cloudflare cron trigger removed — hit 5-trigger free plan limit.
-# GitHub Actions cron handles scheduling. This worker is refresh-button only.
+# Cron triggers — GH Actions cron is unreliable (observed 3-4hr gaps on a
+# */15 schedule). Cloudflare cron fires reliably. Routed by event.cron in
+# worker.js scheduled handler. Requires Workers Paid plan.
+[triggers]
+crons = [
+  "*/15 * * * *",   # feed.yml — raw scrape every 15 min
+  "0 * * * *"       # briefing.yml — curated digest regen hourly
+]

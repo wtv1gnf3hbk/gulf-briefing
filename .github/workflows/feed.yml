@@ -1,9 +1,9 @@
 name: Scrape Feed
 
 on:
-  schedule:
-    # Every 15 minutes
-    - cron: '*/15 * * * *'
+  # Scheduling moved to Cloudflare cron (gulf-briefing-refresh worker).
+  # GH Actions free-tier cron was throttling to 3-4hr gaps. The worker
+  # dispatches this workflow every 15 min via workflow_dispatch.
   workflow_dispatch:
 
 permissions:

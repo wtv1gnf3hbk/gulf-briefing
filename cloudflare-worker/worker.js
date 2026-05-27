@@ -12,9 +12,9 @@
 const GITHUB_REPO = 'wtv1gnf3hbk/gulf-briefing';
 const WORKFLOW_FILE = 'briefing.yml';
 
-async function triggerWorkflow(env) {
+async function triggerWorkflow(env, workflowFile = WORKFLOW_FILE) {
   return await fetch(
-    `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+    `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${workflowFile}/dispatches`,
     {
       method: 'POST',
       headers: {
@@ -171,14 +171,18 @@ export default {
     }
   },
 
-  // Cron handler — fires workflow even if GitHub skips due to repo inactivity
+  // Cron handler — routes by cron expression to the right workflow.
+  // GH Actions free-tier cron is unreliable (3-4hr gaps observed), so we
+  // drive scheduling from Cloudflare instead. See wrangler.toml [triggers].
   async scheduled(event, env, ctx) {
-    const response = await triggerWorkflow(env);
+    // event.cron matches the strings in wrangler.toml exactly.
+    const workflow = event.cron === '0 * * * *' ? 'briefing.yml' : 'feed.yml';
+    const response = await triggerWorkflow(env, workflow);
     if (!response.ok) {
       const text = await response.text();
-      console.error(`Cron trigger failed: ${response.status} ${text}`);
+      console.error(`Cron ${event.cron} → ${workflow} failed: ${response.status} ${text}`);
     } else {
-      console.log(`Cron trigger succeeded for ${GITHUB_REPO}`);
+      console.log(`Cron ${event.cron} → ${workflow} dispatched for ${GITHUB_REPO}`);
     }
   }
 };
