@@ -412,7 +412,11 @@ async function fetchSpaApi(source) {
   const items = [];
   const categories = source.categories || [1];
   for (const catId of categories) {
-    const apiUrl = `${source.url}?per_page=10&category_id=${catId}&l=ar`;
+    // per_page=50: GH Actions cron throttles to ~3-4hr gaps in practice, so a
+    // single category can accumulate 15+ items between runs. 10 was dropping
+    // older items silently. 50 gives ~3hr headroom even on busy news days.
+    const perPage = source.perPage || 50;
+    const apiUrl = `${source.url}?per_page=${perPage}&category_id=${catId}&l=ar`;
     try {
       const res = await fetch(apiUrl, { headers: { 'Accept': 'application/json' } });
       const data = JSON.parse(res);
