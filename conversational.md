@@ -1,52 +1,54 @@
-Good afternoon from the Gulf. Saudi Arabia is burning more oil for power this summer as natural gas production falls short of demand, Reuters reports, highlighting the kingdom's energy challenges as it pursues ambitious diversification projects while maintaining domestic consumption needs. The shift underscores broader regional energy dynamics as Gulf states balance domestic requirements with export commitments.
+Good evening from the Gulf. The region faces escalating military tensions as Iran launched missile and drone attacks against Kuwait, prompting strong condemnation from GCC states and highlighting the fragile state of US-Iran ceasefire efforts.
 
-Britain secured a [$5 billion trade](https://www.reuters.com/world/uk/britain-clinches-5-billion-gulf-trade-deal-shadow-iran-war-2026-05-20/) deal with Gulf states as Iran seeks new mechanisms with Oman over Strait of Hormuz management, according to Reuters. The developments come while tensions remain elevated over maritime security, with Iran's foreign ministry spokesperson confirming discussions with Muscat about cooperation arrangements in the critical waterway.
+Kuwait's military [intercepted hostile](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/) missile and drone attacks, Reuters reports, with the US Army revealing details of the Iranian assault according to Sky News Arabia. The strikes come as Trump dismissed reports of a potential Strait of Hormuz deal, while the US conducted [new strikes](https://www.reuters.com/world/middle-east/us-carries-out-new-strikes-iran-against-military-site-official-says-2026-05-27/) against Iranian military sites, per Reuters. Three oil and LNG tankers [exited Hormuz](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/) with their transponders switched off, according to Reuters, signaling heightened maritime security concerns.
 
-**Energy & Economy**
+The kingdom mourns the death of former Yemeni President Abd Rabbuh Mansour Hadi, with the Saudi Royal Court announcing condolences from King Salman and Crown Prince Mohammed bin Salman to Yemen's government and people. The passing of the IRG-backed former leader adds uncertainty to Yemen's already complex political landscape during this period of regional tension.
 
-• Saudi Arabia's crude exports [dropped to](https://www.reuters.com/business/energy/saudi-arabia-march-crude-exports-drop-lowest-record-jodi-says-2026-05-20/) record lows in March while the kingdom increases domestic oil burning for electricity generation, per JODI data and Reuters reports.
+## Energy & Economy
 
-• The UAE's new oil pipeline [bypassing Hormuz](https://www.reuters.com/world/middle-east/new-uae-pipeline-bypassing-hormuz-now-50-complete-adnoc-ceo-says-2026-05-20/) reached 50% completion ahead of its 2027 start date, Reuters reports, as Abu Dhabi reduces dependence on the strait.
+• Air cargo demand rose [4% in April](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata) despite Middle East disruptions, the Times of Oman reports, citing IATA data showing resilience in the logistics sector.
 
-• Kuwait's stock exchange [closed weekend](https://www.alborsaanews.com/2026/05/21/1969212) trading with indices rising, according to Al-Borsa newspaper.
+• The Strait of Hormuz situation continues to create uncertainty for energy markets, with Iran stating it [could open](https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27/) the waterway within a month if terms are agreed, Reuters reports.
 
-• Qatar's Central Bank reported customer deposits in local banks [rose 5.8%](https://www.mubasher.info/news/4617369/-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%88%D8%AF%D8%A7%D8%A6%D8%B9-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A8%D9%86%D9%88%D9%83-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-5-8-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84/) by end-April, per Mubasher Info.
+• UAE's MGX investment company held its second board meeting of 2026, with Tahnoon bin Zayed chairing discussions on new investments and portfolio performance to advance strategic priorities.
 
-**Saudi Arabia**
+• Asia Pacific real estate investment [rose 19%](https://timesofoman.com//article/172332-asia-pacific-real-estate-investment-rises-19-in-q1-savills) in Q1, according to Savills data reported by Times of Oman.
 
-Saudi Arabia's Interior Minister Prince Abdulaziz bin Saud [received](https://twitter.com/MOISaudiArabia) the head of Iran's Hajj organization as pilgrimage preparations intensify. The kingdom imposed fines up to 100,000 riyals for visa requests involving unauthorized Hajj attempts, according to official announcements. Foreign Minister Prince Faisal bin Farhan [chaired](https://twitter.com/FaisalbinFarhan) an international conference with France on Palestinian statehood implementation alongside the two-state solution.
+## Saudi Arabia
 
-**UAE**
+Crown Prince Mohammed bin Salman received Eid al-Adha well-wishers at the Royal Court in Mina Palace, including GCC leaders and military sector participants in the Hajj. The kingdom continues managing the pilgrimage season with millions performing rituals in [sweltering heat](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a), AP reports. Foreign Minister Prince Faisal bin Farhan expressed appreciation for Trump's decision to give diplomacy a chance to end the Iran war and restore Strait of Hormuz security. Saudi Ambassador to Yemen Mohammed Al Jabir announced upcoming visits to Sanaa with Omani delegation support to consolidate ceasefire efforts and discuss prisoner exchanges.
 
-The UAE government [launched](https://twitter.com/UAEmediaoffice) a strategic partnership with Mohamed bin Zayed University for Artificial Intelligence to train 80,000 employees in agentic AI technologies. Sheikh Mohammed bin Rashid witnessed the national retreat reviewing the new AI-based government system transformation affecting 50% of operations. Dubai completed a [new 30,000-square-meter](https://twitter.com/DXBMediaOffice) logistics warehouse at Jebel Ali Free Zone through DSV and Arcapita partnership.
+## UAE
 
-**Qatar**
+The Emirates strongly condemned the Iranian attacks on Kuwait, with officials expressing solidarity with their GCC neighbor. Sheikh Mohammed bin Rashid reviewed UAE tourism sector achievements for 2025, while the government launched new AI assistants in procurement, taxation, and customer service sectors. WAM reported that UAE leaders congratulated El Salvador's president on his re-election, maintaining active diplomatic engagement despite regional tensions.
 
-Qatar's Emir visited the [35th Doha](https://twitter.com/QNAEnglish) International Book Fair while the Central Bank directed banks to cooperate with the Working Capital Program, according to QNA. The Environment Ministry [confirmed](https://twitter.com/GCOQatar) reports of oil pollution reaching Qatari coasts were incorrect while monitoring continues with competent authorities.
+## Qatar
 
-**Oman**
+Prime Minister Mohammed bin Abdulrahman Al Thani expressed honor at his recent appointment by Emir Tamim bin Hamad Al Thani. Government spokesman Majed Al Ansari dismissed reports suggesting Qatar [offered $12 billion](https://twitter.com/majedalansari) to Iran, calling such claims false and designed to sabotage diplomatic efforts toward regional de-escalation.
 
-Oman celebrated the [financial close](https://timesofoman.com/article/172104-o-green-celebrates-financial-close-of-largest-solar-energy-project) of its largest solar energy project through O-Green, while Asyad Shipping [named](https://timesofoman.com/article/172102-asyad-shipping-celebrates-naming-of-two-lng-carriers) two new LNG carriers. Prince William received Sayyid Theyazin bin Haitham at Windsor Castle to discuss UK-Oman relations, according to ONA.
+## Bahrain / Kuwait / Oman
 
-**Yemen**
+Bahrain's Foreign Ministry [strongly condemned](https://bit.ly/4dAMr6j) the Iranian attack on Kuwait, according to official statements. Kuwait's leadership offered condolences to Yemen's Presidential Leadership Council over former President Hadi's death. Sultan Haitham bin Tarik performed Eid prayers at Sultan Qaboos Mosque in Sohar, while Foreign Minister Badr Albusaidi held [good discussions](https://twitter.com/badralbusaidi) with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran dialogue.
 
-The IRG's Presidential Leadership Council Chairman Al-Alimi [received congratulations](https://twitter.com/sabanew_) from Saudi King Salman and Crown Prince Mohammed bin Salman on Yemen's National Day. The IRG government approved a 20% cost-of-living allowance for state employees and job settlements stalled for over 13 years. The Houthis' Mohammed Abdulsalam [announced](https://twitter.com/abdusalamsalah) agreement terms including resumed Yemenia flights between Sanaa and Jordan with increased frequency to three daily.
+## Yemen
 
-**Official Signals**
+The IRG mourns former President Abd Rabbuh Mansour Hadi's death, with Presidential Leadership Council Chairman Rashad Al-Alimi receiving condolences from Saudi leadership. Information Minister Mohammed Al-Eryani praised Hadi as a brave leader who defended the republican system against the "new Imamate project." The Houthis announced ending the siege on Sanaa and opening the Marib-Sanaa road, with Mohammed Ali Al Houthi welcoming the development while calling for similar progress on other crossings.
 
-Prince Khalid bin Salman [met](https://twitter.com/kbsalsaud) with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts. UAE Minister of State Anwar Gargash [condemned](https://twitter.com/AnwarGargash) Turkey's Defense Minister for "provocative statements," calling them "a new downfall for his country's diplomacy."
+## Official Signals
 
-**Coverage Flags**
+Crown Prince Mohammed bin Salman thanked God for honoring Saudi Arabia with serving the Two Holy Mosques during the Hajj season, expressing hopes that the pilgrimage brings goodness and stability to the Islamic nation. UAE's Anwar Gargash criticized Turkey's Defense Minister's "provocative statement" as representing "a new downfall for his country's diplomacy," warning against threats and colonial illusions in managing relations.
 
-International energy outlets are ahead of Gulf media on Saudi Arabia's domestic oil consumption surge for power generation. The Britain-Gulf trade deal warrants deeper NYT coverage on specific sector commitments and timeline details not fully captured in initial reporting.
+## Coverage Flags
 
-**Sources**
+Arabic-language outlets like Sky News Arabia and Al Jazeera are providing more detailed coverage of the Iranian attack specifics on Kuwait compared to international English-language reporting. The nuanced positions of Gulf states on US-Iran tensions warrant closer NYT Gulf correspondent attention.
 
-• [Times of Oman](https://timesofoman.com/article/172104-o-green-celebrates-financial-close-of-largest-solar-energy-project)
-• [Reuters](https://www.reuters.com/business/energy/saudi-arabia-burn-more-oil-power-this-summer-gas-output-falls-2026-05-21/)
-• [Al-Borsa Newspaper](https://www.alborsaanews.com/2026/05/21/1969212)
-• [Mubasher Info](https://www.mubasher.info/news/4617369/-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%88%D8%AF%D8%A7%D8%A6%D8%B9-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A8%D9%86%D9%88%D9%83-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-5-8-%D8%AE%D8%AA%D8%A7%D9%85-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84/)
-• [Qatar News Agency](https://twitter.com/QNAEnglish)
-• [Oman News Agency](https://twitter.com/ONA_eng)
-• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-• [UAE Media Office](https://twitter.com/UAEmediaoffice)
+## Sources
+
+• [Reuters Gulf coverage](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)
+• [AP News Middle East](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a)
+• [Times of Oman](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata)
+• [BBC Middle East](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
+• [Sky News Arabia](https://validate.perfdrive.com/?ssa=25feda80-5676-4766-bc03-503112cf1ffe&ssb=71736241639)
+• [Al Jazeera Arabic](https://www.aljazeera.net/news/2026/5/28/%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A8%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE)
+• [Bahrain Foreign Ministry](https://bit.ly/4dAMr6j)
+• Official Twitter feeds from regional leadership and ministries

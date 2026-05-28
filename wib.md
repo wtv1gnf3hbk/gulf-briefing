@@ -1,27 +1,32 @@
-**Gulf Brief**
+**Gulf Bureau Brief**
 
-1. **Saudi energy squeeze.** Saudi Arabia will burn more oil for electricity generation this summer as domestic gas production falls, Reuters reported, while March crude exports [dropped to](https://www.reuters.com/business/energy/saudi-arabia-march-crude-exports-drop-lowest-record-jodi-says-2026-05-20/) their lowest level on record according to JODI data. The kingdom faces increased domestic energy demand during peak summer months while trying to maintain production discipline under OPEC+ agreements.
+1. **Iran-US strikes escalate.** Iran and the United States [exchanged air](https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/) strikes following Trump's dismissal of reports about a potential Strait of Hormuz deal. Reuters reports the US conducted new strikes against Iranian military sites and drones, while Iran said it targeted an American base in retaliation. Three oil and LNG tankers exited Hormuz with transponders off during the escalation.
 
-2. **UAE pipeline progress.** The UAE's new oil pipeline bypassing the Strait of Hormuz reached 50% completion ahead of its planned 2027 start date, [Reuters reported](https://www.reuters.com/world/middle-east/new-uae-pipeline-bypassing-hormuz-now-50-complete-adnoc-ceo-says-2026-05-20/). The strategic project aims to reduce reliance on the critical shipping lane that handles roughly one-fifth of global oil exports.
+2. **Kuwait faces Iranian missile attack.** Kuwait's air defenses intercepted hostile missiles and drones in what officials described as an Iranian attack, according to [Reuters reports](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/). The UAE and other Gulf states condemned the attacks on Kuwait. Sky News Arabia reported details of the Iranian assault, marking a significant escalation in regional tensions.
 
-3. **British-Gulf trade deal.** Britain secured a $5 billion trade deal with Gulf states following Iran tensions, according to [Reuters](https://www.reuters.com/world/uk/britain-clinches-5-billion-gulf-trade-deal-shadow-iran-war-2026-05-20/). The agreement comes as regional security concerns heighten the strategic value of economic partnerships between the UK and GCC nations.
+3. **Former Yemen president dies.** Abd Rabbuh Mansour Hadi, former president of Yemen who led the internationally recognized government during the civil war, died, prompting condolences from Saudi King Salman and Crown Prince Mohammed bin Salman to the [Yemeni government](https://timesofoman.com//article/172331-blatant-violation-of-international-law-tehran-condemns-alleged-us-ceasefire-breaches). Kuwait's leadership also expressed condolences to Yemen's Presidential Leadership Council.
 
-4. **Iran-Oman Hormuz talks.** Iran is seeking a mechanism with Oman regarding the Strait of Hormuz, an Iranian foreign ministry spokesperson [told Reuters](https://www.reuters.com/world/middle-east/iran-seeking-mechanism-with-oman-over-hormuz-foreign-ministry-spokesperson-says-2026-05-20/). The discussions reflect Oman's traditional mediating role in regional disputes and growing concerns over maritime security.
+4. **Hajj begins in extreme heat.** Muslim pilgrims began performing Hajj rituals in soaring temperatures in Saudi Arabia as Eid al-Adha celebrations commenced, according to [AP News](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a). Crown Prince Mohammed bin Salman received Eid well-wishers at the Royal Court in Mina Palace, including Gulf leaders and military officials participating in Hajj security operations.
 
-5. **Saudi diplomatic activity.** Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell and Swedish Defense Minister Pål Jonson to discuss regional security coordination. The deputy defense minister emphasized joint efforts to "address regional challenges and de-escalate tensions" in separate meetings with European officials.
+5. **Iran restricts media distribution.** Iran expanded restrictions on international media outlets' distribution of news content within the country, [AP News](https://apnews.com/article/iran-media-restrictions-reporting-distribution-ec8938bd08663f934fcf302695eeac99) reported. The move came as Iranian authorities lifted internet shutdowns that had left citizens feeling "like prisoners being released," according to BBC reporting on the restoration of connectivity.
 
-6. **Qatar banking growth.** Customer deposits in Qatari banks rose 5.8% by the end of April, the central bank reported. The growth reflects continued financial sector stability as Qatar maintains its position as a regional banking hub during ongoing regional tensions.
+6. **Saudi FM praises US diplomacy.** Foreign Minister Prince Faisal bin Farhan said Saudi Arabia "highly appreciates" President Trump's decision to give diplomacy a chance to reach an agreement ending the Iran conflict and restoring Strait of Hormuz navigation security. The kingdom called for addressing all disagreements to serve regional security, according to his Twitter statements.
 
-7. **Yemen government changes.** The internationally recognized Yemeni government appointed Ahmed Hamid Lamlas as governor of Aden Governorate and approved a 20% cost-of-living allowance for state employees. Information Minister Mohammed Al-Eryani announced the Cabinet decisions aimed at addressing files "pending for many years."
+7. **Qatar denies Iran payment reports.** Qatar's Foreign Ministry spokesman Majed Al Ansari denied reports that Qatar offered $12 billion to Iran to secure a deal, calling the claims "simply not true" and stating they were circulated by parties attempting to [sabotage diplomatic](https://twitter.com/majedalansari) efforts toward regional de-escalation. He emphasized Qatar's diplomatic role in mediation efforts.
 
-8. **Oman solar milestone.** O-Green celebrated the financial close of Oman's largest solar energy project, according to [Times of Oman](https://timesofoman.com//article/172104-o-green-celebrates-financial-close-of-largest-solar-energy-project). The project represents a significant step in the sultanate's renewable energy diversification efforts.
+8. **Air cargo demand rises.** Global air cargo demand increased 4% in April despite disruptions in the Middle East, the International Air Transport Association reported, according to [Times of Oman](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata). The growth occurred while regional conflicts affected shipping routes and transportation networks.
 
-9. **UAE AI government push.** Sheikh Mohammed bin Rashid witnessed the launch of artificial intelligence assistants for government procurement, taxes, and customer service during a national retreat in Abu Dhabi. The initiative aims to transform 50% of government services using agentic AI technologies under the supervision of Sheikh Mansour bin Zayed.
+9. **UAE artificial intelligence expansion.** Sheikh Mohammed bin Rashid announced the launch of the first batch of AI assistants for government procurement, taxes, customer services, and technical support during a national government retreat in Abu Dhabi. More than 400 officials participated in planning the transformation of half the government's services and operations to artificial intelligence systems.
 
-10. **Houthi naval operations.** Mohammed Abdulsalam, the Houthi chief negotiator, said Yemeni naval forces conducted reconnaissance across the Red Sea when an American warship "opened fire in a hysterical manner." The incident highlights continued maritime tensions following months of Houthi attacks on commercial shipping.
+10. **Oman-UK cultural project launched.** The expedition project "Oman: The Jewel of Arabia" was officially launched in London under the patronage of Minister Sayyid Theyazin bin Haitham Al Said and Prince William, according to [Oman News](https://2u.pw/NpsltIe4) Agency. The initiative builds upon long-standing ties between Oman and the United Kingdom across cultural and educational sectors.
 
 **Sources**
-• [Times of Oman](https://timesofoman.com)
-• [Reuters](https://www.reuters.com)
-• [Saudi Press Agency](http://spa.gov.sa)
-• Twitter/X feeds: @kbsalsaud, @FaisalbinFarhan, @HHShkMohd, @MBA_AlThani_, @ERYANIM, @abdusalamsalah
+• [Reuters Middle East](https://www.reuters.com/world/middle-east/)
+• [AP News Gulf](https://apnews.com/)
+• [Times of Oman](https://timesofoman.com/)
+• [BBC Middle East](https://www.bbc.com/news/world/middle_east)
+• [Qatar News Agency](https://qna.org.qa/en/)
+• [Oman News Agency](https://omannews.gov.om/topics/en/)
+• Saudi MFA [@KSAMOFA](https://twitter.com/KSAMOFA)
+• Prince Faisal bin Farhan [@FaisalbinFarhan](https://twitter.com/FaisalbinFarhan)
+• Majed Al Ansari [@majedalansari](https://twitter.com/majedalansari)
