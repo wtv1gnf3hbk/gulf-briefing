@@ -1,58 +1,49 @@
-Iran launched attacks on Kuwait on Tuesday, prompting widespread condemnation from Arab states and drawing regional tensions to the Gulf. Kuwait's [defense forces intercepted](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/) missile and drone attacks, according to Reuters reports. The strikes come as reports emerge of potential US-Iran ceasefire negotiations, with both [Reuters](https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/) and [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) reporting tentative diplomatic progress following recent escalations.
+**Gulf Daily Briefing**
 
-Meanwhile, Yemen's political landscape shifted significantly with the death of former President Abdrabbuh Mansour Hadi at age 80. [AP News reports](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8) the former leader passed away, marking the end of a key figure in Yemen's recent political transitions. His death comes as Yemen remains divided between the internationally recognized government (IRG), Houthi/Ansar Allah forces, and the Southern Transitional Council.
+Kuwait's air defense systems intercepted Iranian missile and drone attacks yesterday, marking a dangerous escalation that has drawn swift condemnation from across the region. [Reuters reports](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/) the Kuwaiti military confirmed defensive operations against "hostile" projectiles. The attacks prompted immediate diplomatic outrage, with [Saudi Arabia strongly condemning](https://kuna.net.kw/ArticleDetails.aspx?id=3305619) the strikes and [Bahrain's foreign ministry](https://bit.ly/4dAMr6j) calling the Iranian actions a violation of sovereignty. 
 
-## Energy & Economy
+The strikes occurred as [reports emerged](https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/) of a tentative US-Iran ceasefire outline following recent American strikes against Iranian military sites. However, maritime tensions continue, with [Reuters reporting](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/) three oil and LNG tankers exiting the Strait of Hormuz with their transponders turned off, suggesting continued disruption to regional shipping routes.
 
-• Air cargo demand [rose 4%](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata) in April despite Middle East disruptions, according to IATA data reported by Times of Oman.
+**Energy & Economy**
 
-• [Three oil and LNG tankers](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/) exited the Strait of Hormuz with transponders off, Reuters reports, reflecting continued shipping concerns following regional escalations.
+• Air cargo demand [rose 4% in April](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata) despite regional disruptions, according to IATA data reported by Times of Oman
 
-• UAE tourism sector achievements for 2025 were [reviewed by](https://twitter.com/UAEmediaoffice/status/1795476123456789012) Sheikh Mohammed bin Rashid, according to UAE Gov Media Office posts.
+• Three oil and LNG tankers [exited Hormuz](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/) with transponders switched off, per Reuters, indicating ongoing shipping concerns
 
-## Country Watch
+• Asia Pacific real estate investment [climbed 19%](https://timesofoman.com//article/172332-asia-pacific-real-estate-investment-rises-19-in-q1-savills) in Q1, Savills data shows via Times of Oman
+
+• UAE officials reviewed [2025 tourism achievements](https://twitter.com/UAEmediaoffice) with Sheikh Mohammed bin Rashid, according to government media office
+
+**Country Watch**
 
 **Saudi Arabia**
-• Crown Prince Mohammed bin Salman [met with](https://twitter.com/spagov/status/1795001234567890123) Chad's President at Mona Palace to discuss bilateral relations and cooperation prospects, per the Saudi Press Agency.
-• Interior Minister Prince Abdulaziz bin Saud [received counterparts](https://twitter.com/MOISaudiArabia/status/1795123456789012345) from Jordan and Malaysia as Hajj preparations continue.
-• [Prince Khalid bin Salman](https://twitter.com/kbsalsaud/status/1795234567890123456) met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts.
+The kingdom led regional condemnation of Iranian attacks on Kuwait, with Foreign Minister Prince Faisal bin Farhan [praising President Trump's](https://twitter.com/FaisalbinFarhan) decision to "give diplomacy a chance" for Hormuz negotiations. Prince Khalid bin Salman [met with UK National Security Adviser](https://twitter.com/kbsalsaud) Jonathan Powell to discuss regional challenges and de-escalation efforts. [Hajj operations continue](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a) in soaring heat as Eid al-Adha celebrations begin, AP News reports.
 
-**UAE**
-• Sheikh Abdulla bin Zayed highlighted that the UAE [leads globally](https://twitter.com/ABZayed/status/1795345678901234567) in AI talent concentration, with 121% growth between 2019-2025.
-• Sheikh Mohammed bin Rashid [launched AI assistants](https://twitter.com/HHShkMohd/status/1795456789012345678) for government procurement, taxes, and customer service as part of federal AI program expansion.
-• [Tahnoon bin Zayed](https://twitter.com/hhtbzayed/status/1795567890123456789) chaired the second MGX board meeting of 2026, reviewing investment performance and global infrastructure expansion contributions.
+**UAE** 
+The UAE government launched new [AI assistants for procurement](https://twitter.com/HHShkMohd) and public services as part of its artificial intelligence transformation program, Sheikh Mohammed bin Rashid announced. The country [strongly condemned](https://twitter.com/AfraMalHameli) a terrorist attack near a Jerusalem synagogue. Sheikh Abdullah bin Zayed [announced restoration](https://twitter.com/ABZayed) of Damascus's Umayyad Mosque with support from Sheikha Fatima bint Mubarak.
 
 **Qatar**
-• Emir Tamim received a [congratulatory call](https://www.aljazeera.net/news/2026/5/28/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D9%8A%D8%B1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D9%85%D8%A8) from President Trump, with Trump praising Doha's role in advancing regional calm, according to Al Jazeera Arabic.
-• Qatar's Interior Ministry [announced suspension](https://ow.ly/sbua50Z5mT7) of expired entry visa extensions starting June 7, per Qatar News Agency.
+Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani was formally [appointed to his role](https://twitter.com/MBA_AlThani_), expressing gratitude for Emir Tamim's trust. Foreign ministry spokesman Majed Al Ansari [denied reports](https://twitter.com/majedalansari) that Qatar offered $12 billion to Iran for any diplomatic deal, calling such claims "simply not true."
 
-**Bahrain / Kuwait / Oman**
-• Bahrain [strongly condemned](https://bit.ly/4dAMr6j) Iran's attacks on Kuwait, according to Bahrain's Foreign Ministry.
-• Sultan Haitham bin Tarik [offered Eid prayers](http://n9.cl/adorv) at Sultan Qaboos Mosque in Sohar, per Oman News Agency.
-• Oman's Foreign Minister [received credentials](https://2u.pw/NpsltIe4) from Tanzania's new ambassador and bid farewell to Brazil's outgoing envoy.
+**Kuwait**
+Kuwait's air defenses successfully [intercepted Iranian attacks](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/), with Foreign Minister Abdullah Al-Yahya receiving [condemnation calls](https://kuna.net.kw/ArticleDetails.aspx?id=3305633) from regional counterparts including Egypt's foreign minister.
 
 **Yemen**
-• IRG officials mourned former President Hadi, with Information Minister Mohammed Al-Eryani [paying tribute](https://twitter.com/ERYANIM/status/1795678901234567890) to the deceased leader's "national march full of giving and struggle."
-• Abu Zaraa of the Presidential Leadership Council [called for activating](https://twitter.com/AbuZar3a/status/1795789012345678901) Starlink satellite internet as "an important step towards enhancing development and communication."
-• STC President Aidarous al-Zubaidi [performed Umrah](https://twitter.com/AidrosAlzubidi/status/1795890123456789012) rituals in Mecca with his delegation.
+Former President Abdrabbuh Mansour Hadi died, prompting [condolences from Saudi leadership](https://twitter.com/spagov), according to the Saudi Press Agency. IRG Information Minister Mohammed Al-Eryani [mourned the former president](https://twitter.com/ERYANIM) as a "brave leader" who defended the republican system. Houthi spokesman Mohammed Abdulsalam [announced an agreement](https://twitter.com/abdusalamsalah) on banking procedures and Yemenia Airlines flight increases.
 
-## Official Signals
+**Official Signals**
 
-Prince Faisal bin Farhan [praised](https://twitter.com/FaisalbinFarhan/status/1795012345678901234) President Trump's decision to "give diplomacy a chance" regarding Iran negotiations, stating Saudi Arabia "highly appreciates" efforts to restore Strait of Hormuz security to pre-February 28 conditions.
+Prince Faisal bin Farhan's [statement welcoming](https://twitter.com/FaisalbinFarhan) Trump's diplomatic approach to Hormuz negotiations signals Saudi support for de-escalation efforts. Qatar's foreign ministry spokesman [strongly denied](https://twitter.com/majedalansari) reports of $12 billion payments to Iran, suggesting sensitivity around Gulf involvement in US-Iran talks.
 
-Qatar's Foreign Ministry spokesman Majed Al Ansari [denied reports](https://twitter.com/majedalansari/status/1795123456789012345) that Qatar offered $12 billion to Iran for a deal, calling such claims "simply not true" and designed to "sabotage the deal and undermine diplomatic efforts."
+**Coverage Flags**
 
-## Coverage Flags
+International outlets are ahead on detailed reporting of the Kuwait attacks and US-Iran ceasefire negotiations. The death of former Yemen President Hadi warrants dedicated coverage given his role in post-2011 transitions and current IRG legitimacy claims.
 
-International outlets are leading on Iran-Kuwait attacks and US-Iran ceasefire negotiations, while regional media focuses heavily on Eid celebrations and Hajj coverage. The death of former Yemeni President Hadi appears prominently in international wire services but with limited immediate regional government reaction beyond IRG statements.
-
-## Sources
-
-• [Reuters Gulf](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)
-• [AP News Gulf](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
-• [BBC Middle East](https://www.bbc.com/news/articles/c98r2qy5809o)
-• [Times of Oman](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata)
-• [Al Jazeera Arabic](https://www.aljazeera.net/news/2026/5/28/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D9%8A%D8%B1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D9%85%D8%A8)
-• [Saudi Press Agency](https://twitter.com/spagov)
-• [Bahrain Foreign Ministry](https://twitter.com/bahdiplomatic)
-• [Qatar News Agency](https://twitter.com/QNAEnglish)
+**Sources**
+• [Reuters - Kuwait air defenses](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)
+• [Reuters - Hormuz tankers](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/)
+• [Reuters - Iran-US negotiations](https://www.reuters.com/world/middle-east/iran-us-trade-air-strikes-after-trump-dismisses-report-hormuz-deal-2026-05-28/)
+• [AP News - Hajj](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a)
+• [KUNA - Saudi condemnation](https://kuna.net.kw/ArticleDetails.aspx?id=3305619)
+• [Bahrain MFA - Iranian attacks](https://bit.ly/4dAMr6j)
+• [Times of Oman - Air cargo](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata)
