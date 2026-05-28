@@ -38,9 +38,22 @@ if (!ANTHROPIC_API_KEY) {
 // CLAUDE API CALL
 // ============================================
 
-function callClaudeOnce(prompt, systemPrompt = '') {
+function callClaudeOnce(prompt, systemPrompt = '', images = []) {
   return new Promise((resolve, reject) => {
-    const messages = [{ role: 'user', content: prompt }];
+    let userContent;
+    if (images.length) {
+      userContent = [{ type: 'text', text: prompt }];
+      for (const img of images) {
+        userContent.push({ type: 'text', text: `Homepage screenshot — ${img.name}:` });
+        userContent.push({
+          type: 'image',
+          source: { type: 'base64', media_type: 'image/png', data: img.data }
+        });
+      }
+    } else {
+      userContent = prompt;
+    }
+    const messages = [{ role: 'user', content: userContent }];
 
     const body = JSON.stringify({
       model: 'claude-sonnet-4-20250514',
@@ -90,11 +103,11 @@ function callClaudeOnce(prompt, systemPrompt = '') {
 }
 
 // Retry wrapper — up to 3 attempts with exponential backoff for overloaded/rate-limit errors
-async function callClaude(prompt, systemPrompt = '') {
+async function callClaude(prompt, systemPrompt = '', images = []) {
   const MAX_RETRIES = 3;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
-      return await callClaudeOnce(prompt, systemPrompt);
+      return await callClaudeOnce(prompt, systemPrompt, images);
     } catch (e) {
       if (e.retryable && attempt < MAX_RETRIES) {
         const delay = attempt * 15;  // 15s, 30s
@@ -674,7 +687,24 @@ async function main() {
   const startTime = Date.now();
 
   try {
-    const briefingText = await callClaude(userPrompt, systemPrompt);
+    // Attach homepage screenshots as image blocks so the writer can read them
+    // for Top Headlines context instead of skipping screenshot-only sources.
+    const screenshotImages = [];
+    for (const ss of (briefing.screenshots || [])) {
+      const imgPath = require('path').join(__dirname, 'screenshots', ss.filename);
+      if (fs.existsSync(imgPath)) {
+        const data = fs.readFileSync(imgPath).toString('base64');
+        screenshotImages.push({ name: ss.name, id: ss.id, data });
+      }
+    }
+    let finalSystemPrompt = systemPrompt;
+    if (screenshotImages.length) {
+      const names = screenshotImages.map(i => i.name).join(', ');
+      finalSystemPrompt = systemPrompt + `\n\nSCREENSHOT SOURCES ATTACHED: ${screenshotImages.length} outlet(s) are screenshot-only today (direct RSS unavailable): ${names}. Each homepage image is labeled and attached below. For each, you MAY write ONE Top Headlines line describing what the homepage is leading with, in the format \`**Outlet Name:** Leads with [brief description of the visible lead story].\` Do NOT invent clickable URLs. If you link, link the outlet name to its homepage URL.`;
+      console.log(`Attaching ${screenshotImages.length} screenshot(s) to writer: ${names}`);
+    }
+
+    const briefingText = await callClaude(userPrompt, finalSystemPrompt, screenshotImages);
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
     console.log(`Claude responded in ${elapsed}s`);
 
