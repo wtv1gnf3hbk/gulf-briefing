@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T14:32:16.218Z",
+  "updated": "2026-05-28T14:46:17.412Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-05-28T14:29:24.000Z"
+    },
+    {
+      "headline": "UAE leaders congratulate President of Azerbaijan on National Day",
+      "url": "https://www.wam.ae/en/details/c0fuuro-uae-leaders-congratulate-president-azerbaijan",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-28T14:27:33.579Z"
     },
     {
       "headline": "Bahrain.. A royal decree to manage the Sunni and Jaafari endowments raises controversy - BBC",
@@ -32,6 +42,42 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-05-28T14:20:37.488Z"
+    },
+    {
+      "headline": "The cosmic chicken-and-egg mystery: giant black holes born before their galaxies",
+      "url": "https://www.aljazeera.net/science/2026/5/28/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A-%D8%AB%D9%82%D9%88%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-28T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لغز البيضة والدجاجة الكوني .. ثقوب سوداء عملاقة ولدت قبل مجراتها"
+    },
+    {
+      "headline": "Gideon Levy: Eid al-Adha reveals the ugliness of Israeli apartheid",
+      "url": "https://www.aljazeera.net/politics/2026/5/28/%D8%AC%D8%AF%D8%B9%D9%88%D9%86-%D9%84%D9%8A%D9%81%D9%8A-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89-%D9%8A%D9%83%D8%B4%D9%81-%D9%82%D8%A8%D8%AD-%D8%A7%D9%84%D9%81%D8%B5%D9%84",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-28T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جدعون ليفي : عيد الأضحى يكشف قبح الفصل العنصري الإسرائيلي"
+    },
+    {
+      "headline": "Heavy Israeli attacks on southern Lebanon - BBC News Farsi",
+      "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-28T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حملات سنگین اسرائیل به جنوب لبنان - BBC News فارسی"
     },
     {
       "headline": "Bahrain condemns Iranian attack on Kuwait",
@@ -268,66 +314,6 @@
       "originalHeadline": "جريدة الرياض | توغل آليات إسرائيلية في ريف القنيطرة وتحليق مسيرات في أجواء المنطقة"
     },
     {
-      "headline": "The silent killer...the Euphrates continues to threaten the lives of thousands in eastern Syria",
-      "url": "https://www.aljazeera.net/news/2026/5/28/%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%B9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D9%86%D8%B3%D9%88%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-28T13:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "القاتل الصامت .. الفرات يستمر في تهديد حياة الآلاف شرقي سوريا"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | D. Abdul Latif Al Sheikh: The Islamic nation is going through a dangerous turning point and there is no escape except through monotheism",
-      "url": "https://www.alriyadh.com/2190910",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T13:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | د . عبداللطيف آل الشيخ : الأمة الإسلامية تمر بمنعطف خطير ولا نجاة إلا بالتوحيد"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Minister of Foreign Affairs meets with the Minister of Foreign Affairs of France",
-      "url": "https://www.alriyadh.com/2190907",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T13:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | وزير الخارجية يلتقي وزير خارجية فرنسا"
-    },
-    {
-      "headline": "Pins...an alternative solution to overcome the liquidity crisis in Gaza",
-      "url": "https://www.aljazeera.net/ebusiness/2026/5/28/%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B3-%D8%AD%D9%84-%D8%A8%D8%AF%D9%8A%D9%84-%D9%84%D9%84%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A3%D8%B2%D9%85%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-05-28T13:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الدبابيس .. حل بديل للتغلب على أزمة السيولة في غزة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The leadership congratulates the President of the Republic of Azerbaijan on the anniversary of his country’s independence",
-      "url": "https://www.alriyadh.com/2190908",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T13:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | القيادة تهنئ رئيس جمهورية أذربيجان بذكرى استقلال بلاده"
-    },
-    {
       "headline": "Qatar calls for an effective response to mediation to end the Iran war",
       "url": "https://www.aljazeera.net/news/2026/5/28/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%A7%D9%88%D8%A8-%D9%81%D8%A7%D8%B9%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A7%D8%AA",
       "source": "Al Jazeera Arabic",
@@ -386,6 +372,66 @@
       "date": "2026-05-28T13:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | القيادة تهنئ رئيس جمهورية إثيوبيا الفيدرالية الديمقراطية بذكرى اليوم الوطني لبلاده"
+    },
+    {
+      "headline": "The silent killer...the Euphrates continues to threaten the lives of thousands in eastern Syria",
+      "url": "https://www.aljazeera.net/news/2026/5/28/%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%B9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D9%86%D8%B3%D9%88%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-28T13:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "القاتل الصامت .. الفرات يستمر في تهديد حياة الآلاف شرقي سوريا"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | D. Abdul Latif Al Sheikh: The Islamic nation is going through a dangerous turning point and there is no escape except through monotheism",
+      "url": "https://www.alriyadh.com/2190910",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T13:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | د . عبداللطيف آل الشيخ : الأمة الإسلامية تمر بمنعطف خطير ولا نجاة إلا بالتوحيد"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Minister of Foreign Affairs meets with the Minister of Foreign Affairs of France",
+      "url": "https://www.alriyadh.com/2190907",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T13:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | وزير الخارجية يلتقي وزير خارجية فرنسا"
+    },
+    {
+      "headline": "Pins...an alternative solution to overcome the liquidity crisis in Gaza",
+      "url": "https://www.aljazeera.net/ebusiness/2026/5/28/%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B3-%D8%AD%D9%84-%D8%A8%D8%AF%D9%8A%D9%84-%D9%84%D9%84%D8%AA%D8%BA%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A3%D8%B2%D9%85%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-28T13:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الدبابيس .. حل بديل للتغلب على أزمة السيولة في غزة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The leadership congratulates the President of the Republic of Azerbaijan on the anniversary of his country’s independence",
+      "url": "https://www.alriyadh.com/2190908",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T13:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القيادة تهنئ رئيس جمهورية أذربيجان بذكرى استقلال بلاده"
     },
     {
       "headline": "Egypt condemns in the strongest terms the attacks on Kuwait and affirms its full solidarity with them - Youm7",
@@ -713,6 +759,27 @@
       "date": "2026-05-28T11:34:32.000Z"
     },
     {
+      "headline": "Not everybody is a loser from the Iran war. Just ask Brunei - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXZGYWdHWHhyMnZzMHc2R194SXliYW5lR0lzNTNtRXpFbUpid2JaVWMwMnlNUEkxbXVFQmxjMS1OdWh3Ny1DOUdQR0RzU25hUkpoWWtla0lyVzZNT2U2VmZhaXEzSkNTVDJicTE5X1BSdENiZGVNV0hiSjA4TnQ5N3lzZnFDMDZ5Sloxczg1WElGTjJ2VUxtNUVFVnpDRDBJNGFHbnNBaFRHZzVVUm5uN1JqaGF0M1U?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-28T11:32:38.000Z"
+    },
+    {
+      "headline": "Kuwait condemns the Iranian attacks and demands that Tehran stop them “immediately” - Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdTJWaDZkcDZPeERvVUVuM3Vza0s4c0dQUHkzR0NaSGNfZEZBLU5YRXY0ODlpUENoZmdzQ2otNWNyZHVOTTdyNDhncXFJTWhUQkZCR1pKVTQtd0Q0MnJPaU1DU2hTRm5PUzdFQ1dUV043RVpLN0J3SXFuYnItbmlTQjUtakhtN0JVczFmT3dZU3RoakJwUWRYdV93djR4aFFjd25PTWJvSkFVa3h0c095WW5fQk9vUnQySXJUa3BoWXlTMmxpOTRRMEZWajFBandEemRCMTl3UDZLS0x3VDlfT0d0VnI5dEV5bTFJbkhBbUZBX05ySGpabGlpMW9hN0dYRDNpTFh5by1iYWp4eDZLV1RySXVoS013REIyZHI1Z1FneDJNMnE0Yy1QbkpPRW1tbnY3QXpkYzFWSlFVWjl0TFNFS21CUmFIVU5TbHhfMy1pNWIta3cwTGlHajhTSnFEMWpRNjkza0pTY3BEdGdweHdGVWQwRW9JRXZhMGQ0Y3ZCRno0X3o1NmlBOFNmSnZmOW1wWFliVjUyMHRJVWZyX1o0c1Y5NVpRdGRVeWxLS1FUUFMyWUVCZFlzRGt6dF9pZFUzOTZmYW1qVlBuc0FGUC1ST3h3aWxiY1Vsc0trZ0wxUFRVNEdzcnZXWFpxRkpfaHZlUHl2TmLSAf4DQVVfeXFMT3RWX2ZTd0pWdjZvSHlJN0EyVjJkaUxCaGVvVFczSmZzRkFaS0FtbzRjN0kxR25ETU85SGRGUWdOempOU3hpWmtodENXM2FJMElELVRFcktHVnI3a2FBZmxOcEoxM0dyWEtnR1lfNFlvWkVpRkI2Z1kyaHdKTnRWazVua3RFS1NPYklTMmFGaU1LTndDYUdDNkVmd3FlVHluQnU0dVlsZFNDdG5ObjVXUTRwbDd4UVNHd2lRU3ZFcy1BQy1iWDZVNkg3TGNKeU03amk2SFhWc2h0SVRITzY0cG9ncVM5ZHAzOThnN1RvSG85aUtuM2doRzdKT0NURUNvSXZhYlJGLUVkTDFYb1ZxTm84MUxIMHRuYkpfUllqYmlxWnRlVjBRZ2tMZW1xNkpQdTZUYm9sLXJ0UHN1el95OVZSejZMQldRVmxteXU1ZTJNN3IzMjQyeFJ2LUZYOXcyUXRwN1ZJWlpxU2pRcmlTRElUdjNnNzIyTjFIcC1sczF3NjYzVFJoYlg4alJCS3duSE9hczZxdncycTB3NlpheHNvdFN5djB6RXZOSkNnRlVyYVJ5d3M1UXVEZUo0Vk5wUnd2X2hhd2hqRDhQaXY4ZUxHYlA0MC1sWXo4d0xPTXFhX1h1SzkyV08tams2LXAzTk9obU1NOUVjT1RmTlhR?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T11:32:10.000Z",
+      "originalHeadline": "الكويت تدين الاعتداءات الإيرانية وتطالب طهران بوقفها \"فورا\" - سكاي نيوز عربية"
+    },
+    {
       "headline": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
       "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC Middle East",
@@ -928,16 +995,6 @@
       "originalHeadline": "الكويت تدين الاعتداءات الإيرانية وتطالب طهران بوقفها \"فورا\" - سكاي نيوز عربية"
     },
     {
-      "headline": "Not everybody is a loser from the Iran war. Just ask Brunei - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXZGYWdHWHhyMnZzMHc2R194SXliYW5lR0lzNTNtRXpFbUpid2JaVWMwMnlNUEkxbXVFQmxjMS1OdWh3Ny1DOUdQR0RzU25hUkpoWWtla0lyVzZNT2U2VmZhaXEzSkNTVDJicTE5X1BSdENiZGVNV0hiSjA4TnQ5N3lzZnFDMDZ5Sloxczg1WElGTjJ2VUxtNUVFVnpDRDBJNGFHbnNBaFRHZzVVUm5uN1JqaGF0M1U?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-28T11:01:26.000Z"
-    },
-    {
       "headline": "Osaka Adds Ivory Train and Gold Bomber Jacket to Her Fashion Ensemble at French Open",
       "url": "https://english.aawsat.com/fashion/5278042-osaka-adds-ivory-train-and-gold-bomber-jacket-her-fashion-ensemble-french-open",
       "source": "Asharq al-Awsat (EN)",
@@ -1092,17 +1149,6 @@
       "originalHeadline": "\"التعاون الخليجي\" يدين استمرار الهجمات الإيرانية على الكويت - Masrawy"
     },
     {
-      "headline": "Kuwait condemns the Iranian attacks and demands that Tehran stop them “immediately” - Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdTJWaDZkcDZPeERvVUVuM3Vza0s4c0dQUHkzR0NaSGNfZEZBLU5YRXY0ODlpUENoZmdzQ2otNWNyZHVOTTdyNDhncXFJTWhUQkZCR1pKVTQtd0Q0MnJPaU1DU2hTRm5PUzdFQ1dUV043RVpLN0J3SXFuYnItbmlTQjUtakhtN0JVczFmT3dZU3RoakJwUWRYdV93djR4aFFjd25PTWJvSkFVa3h0c095WW5fQk9vUnQySXJUa3BoWXlTMmxpOTRRMEZWajFBandEemRCMTl3UDZLS0x3VDlfT0d0VnI5dEV5bTFJbkhBbUZBX05ySGpabGlpMW9hN0dYRDNpTFh5by1iYWp4eDZLV1RySXVoS013REIyZHI1Z1FneDJNMnE0Yy1QbkpPRW1tbnY3QXpkYzFWSlFVWjl0TFNFS21CUmFIVU5TbHhfMy1pNWIta3cwTGlHajhTSnFEMWpRNjkza0pTY3BEdGdweHdGVWQwRW9JRXZhMGQ0Y3ZCRno0X3o1NmlBOFNmSnZmOW1wWFliVjUyMHRJVWZyX1o0c1Y5NVpRdGRVeWxLS1FUUFMyWUVCZFlzRGt6dF9pZFUzOTZmYW1qVlBuc0FGUC1ST3h3aWxiY1Vsc0trZ0wxUFRVNEdzcnZXWFpxRkpfaHZlUHl2TmLSAf4DQVVfeXFMT3RWX2ZTd0pWdjZvSHlJN0EyVjJkaUxCaGVvVFczSmZzRkFaS0FtbzRjN0kxR25ETU85SGRGUWdOempOU3hpWmtodENXM2FJMElELVRFcktHVnI3a2FBZmxOcEoxM0dyWEtnR1lfNFlvWkVpRkI2Z1kyaHdKTnRWazVua3RFS1NPYklTMmFGaU1LTndDYUdDNkVmd3FlVHluQnU0dVlsZFNDdG5ObjVXUTRwbDd4UVNHd2lRU3ZFcy1BQy1iWDZVNkg3TGNKeU03amk2SFhWc2h0SVRITzY0cG9ncVM5ZHAzOThnN1RvSG85aUtuM2doRzdKT0NURUNvSXZhYlJGLUVkTDFYb1ZxTm84MUxIMHRuYkpfUllqYmlxWnRlVjBRZ2tMZW1xNkpQdTZUYm9sLXJ0UHN1el95OVZSejZMQldRVmxteXU1ZTJNN3IzMjQyeFJ2LUZYOXcyUXRwN1ZJWlpxU2pRcmlTRElUdjNnNzIyTjFIcC1sczF3NjYzVFJoYlg4alJCS3duSE9hczZxdncycTB3NlpheHNvdFN5djB6RXZOSkNnRlVyYVJ5d3M1UXVEZUo0Vk5wUnd2X2hhd2hqRDhQaXY4ZUxHYlA0MC1sWXo4d0xPTXFhX1h1SzkyV08tams2LXAzTk9obU1NOUVjT1RmTlhR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T10:56:03.000Z",
-      "originalHeadline": "الكويت تدين الاعتداءات الإيرانية وتطالب طهران بوقفها \"فورا\" - سكاي نيوز عربية"
-    },
-    {
       "headline": "Hajj Journey Revives Memories of Sudanese Martyrs Among Their Families",
       "url": "https://www.spa.gov.sa/en/N2601949?type=news&uuid=N2601949",
       "source": "Saudi Press Agency",
@@ -1175,7 +1221,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T10:36:09.000Z",
-      "originalHeadline": "أول تعليق من إيران على تهديد ترامب بـ\"تفجير\" عُمان بسبب مضيق هرمز - CNN Arabic"
+      "originalHeadline": "أول تعليق من إيران على تهديد ترامب بـ\"تفج��ر\" عُمان بسبب مضيق هرمز - CNN Arabic"
     },
     {
       "headline": "Saudi Electricity Regulatory Authority Intensifies Field Monitoring to Ensure Reliable Service in Holy Sites",
@@ -1632,7 +1678,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T09:00:07.000Z",
-      "originalHeadline": "إيران تعرب عن تضامنها مع عُمان بعد \"تهديدات\" ترامب، و��لحرس الثوري يعلن استهداف قاعدة أمريكية - BBC"
+      "originalHeadline": "إيران تعرب عن تضامنها مع عُما�� بعد \"تهديدات\" ترامب، والحرس الثوري يعلن استهداف قاعدة أمريكية - BBC"
     },
     {
       "headline": "What is the truth about Italy's protests against the Meloni government because of Palestine?",
@@ -2569,6 +2615,16 @@
       "date": "2026-05-28T01:34:08.000Z"
     },
     {
+      "headline": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzVSVFY2TFF5NkdUcmhYQzN3REgzdXoxVXV5eF9tZ1E1bXFNOTAxS2FMRFpqajQwZXZPYjlsLUMwZkJodExnTlFhT2JOdE1zZEdSNVZvdW0tVU9BV3BnQnhEa3NIZTRoSGE5cVhRWXRORUI2cms4elNUU2tfemVzc3BnUTF6X1RGQWtmaWM0ellXek9yNmh1ZGZJNEttR1U?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-28T01:28:00.000Z"
+    },
+    {
       "headline": "A Sudanese pilgrim, one of the guests of the Custodian of the Two Holy Mosques for Hajj and Umrah, expresses his happiness for performing Hajj rituals and appreciates the efforts made to facilitate the pilgrims.\n\nVia news correspondent Sanaa Al-Zahrani \n\n#Hajj_across_news",
       "url": "https://x.com/alekhbariyatv/status/2059803596825190574",
       "source": "Al Ekhbariya TV",
@@ -3158,60 +3214,6 @@
       "language": "ar",
       "date": "2026-05-27T20:26:03.000Z",
       "originalHeadline": "طمأنينة في رحاب المسجد الحرام\n\n#حياكم_الله | #واس_حج47"
-    },
-    {
-      "headline": "| We harness the capabilities to achieve the safety of the guests of God.\n\n #God bless you",
-      "url": "https://x.com/SaudiDCD/status/2059731842031382693",
-      "source": "Saudi Civil Defense",
-      "sourceId": "twitter_saudi_civil_defense",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-27T20:21:53.000Z",
-      "originalHeadline": "| نُسخّر الإمكانات لتحقيق سلامة ضيوف الرحمن.\n\n #حياكم_الله"
-    },
-    {
-      "headline": "From all parts of the earth in the holy sites.\n\n#God bless you #Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2059730747720708277",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-27T20:17:32.000Z",
-      "originalHeadline": "من كل بقاع الأرض في المشاعر المقدسة.\n\n#حياكم_الله | #واس_حج47"
-    },
-    {
-      "headline": "Qatari #Hajj Mission Supports Pilgrims in Muzdalifah with Integrated Services. #QNA\n#Qatar\n\nhttps://\now.ly/9o2650Z4UNN",
-      "url": "https://x.com/QNAEnglish/status/2059730187873403243",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-05-27T20:15:19.000Z"
-    },
-    {
-      "headline": "The health system keeps pace with the patient with proactive diabetes monitoring techniques.\n\nAl-Akhbariya correspondent Suleiman Al-Jabr monitors modern technologies in developing smart solutions to monitor the health status of the guests of God, the most prominent of which are ",
-      "url": "https://x.com/alekhbariyatv/status/2059729611601129587",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-27T20:13:01.000Z",
-      "originalHeadline": "المنظومة الصحية تواكب المريض بتقنيات استباقية لرصد السكري..\n\nمراسل الإخبارية سليمان الجبر يرصد التقنيات الحديثة في تطوير حلول ذكية لمتابعة الحالة الصحية لضيوف الرحمن، من أبرزها الحساسات المستمرة لقياس مستوى السكري\n\n#الحج_عبر_الإخبارية"
-    },
-    {
-      "headline": "From the Grand Mosque... ease and reassurance of the pilgrims’ antiques.\n\n#God bless you #Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2059729582576607555",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-27T20:12:55.000Z",
-      "originalHeadline": "من المسجد الحرام.. يسر وطمأنينة تحف الحجاج.\n\n#حياكم_الله | #واس_حج47"
     }
   ]
 }
