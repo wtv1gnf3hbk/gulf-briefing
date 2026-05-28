@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-28T18:11:55.502Z",
+  "updated": "2026-05-28T18:16:13.656Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "MWL Condemns Aggression Against Kuwait",
+      "url": "https://www.spa.gov.sa/en/N2602274?type=news&uuid=N2602274",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-28T18:12:32.000Z"
+    },
     {
       "headline": "Yemen condemns in the strongest terms the hostile attacks on the State of Kuwait - Al-Ahram Gate",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43RV9KRkhiallpRVpzUWFyVVY5VGY5NW5QVi1BSXB2OU93WHFhZmdEUFlxV2ZlcTQxZC1tN1lrV3kwQ3pfank0X1ktLWlLdVhCbEhkMzdR?oc=5",
@@ -11,7 +21,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T18:02:00.000Z",
-      "originalHeadline": "اليمن يدين بأشد العبارات الهجمات العدائية على دولة الكويت - بوابة الأهرام"
+      "originalHeadline": "اليمن يدين بأشد العبار��ت الهجمات العدائية على دولة الكويت - بوابة الأهرام"
     },
     {
       "headline": "US and Iranian negotiators reach tentative deal to extend ceasefire and launch nuclear talks - AP News",
@@ -35,6 +45,78 @@
       "originalHeadline": "البرلمان العربي يدين الهجوم بالصواريخ والطائرات المسيّرة على الكويت - اليوم السابع"
     },
     {
+      "headline": "Al-Riyadh newspaper | The Ministry of Interior issues administrative decisions against (12) violators of Hajj regulations and instructions",
+      "url": "https://www.alriyadh.com/2190938",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | « الداخلية » تصدر قرارات إدارية بحق ( 12 ) مخالفًا لأنظمة وتعليمات الحج"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Trump administration is seeking to issue a $250 bill bearing his image",
+      "url": "https://www.alriyadh.com/2190925",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | إدارة ترامب تسعى لإصدار ورقة 250 دولارا تحمل صورته"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Qandal forests in Farasan...a sea trip between greenery and water that attracts Eid visitors",
+      "url": "https://www.alriyadh.com/2190918",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | غابات القندل في فرسان .. رحلةٌ بحرية بين الخضرة والماء تستقطب زوار العيد"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Abd Rabbuh Mansour Hadi...the statesman in the face of the coup",
+      "url": "https://www.alriyadh.com/2190920",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | عبدربه منصور هادي .. رجل الدولة في مواجهة الانقلاب"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The leadership offers condolences to the President of China for the victims of the coal mine explosion",
+      "url": "https://www.alriyadh.com/2190930",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القيادة تعزي رئيس الصين في ضحايا انفجار منجم الفحم"
+    },
+    {
+      "headline": "Pakistan announces that its Foreign Minister is heading on an official visit to America",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/05/28/rubio-pakistani-counterpart-to-meet-in-washington-dc",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-28T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "باكستان تعلن توجه وزير خارجيتها في زيارة رسمية إلى أمريكا"
+    },
+    {
       "headline": "Omani pilgrims in Mina celebrate Eid Al-Adha with traditional customs and joyful gatherings",
       "url": "https://timesofoman.com//article/172338-omani-pilgrims-in-mina-celebrate-eid-al-adha-with-traditional-customs-and-joyful-gatherings",
       "source": "Times of Oman",
@@ -43,6 +125,18 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-05-28T17:30:37.000Z"
+    },
+    {
+      "headline": "«2030»...towards a renewed vision for integrated cardiac care",
+      "url": "https://aawsat.com/%D8%B5%D8%AD%D8%AA%D9%83/5278179-2030-%D9%86%D8%AD%D9%88-%D8%B1%D8%A4%D9%8A%D8%A9-%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9-%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D9%82%D9%84%D8%A8%D9%8A%D8%A9-%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-28T17:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« 2030 »... نحو رؤية متجددة لرعاية قلبية متكاملة"
     },
     {
       "headline": "Eid Festival kicks off in Al Seeb with heritage shows and family activities",
@@ -167,7 +261,7 @@
       "date": "2026-05-28T16:37:15.853Z"
     },
     {
-      "headline": "A telephone call between the Minister of Foreign Affairs and his Kuwaiti counterpart to confirm Egypt’s solidarity with the sisterly State of Kuwait - mfa.gov.eg",
+      "headline": "A phone call between the Minister of Foreign Affairs and his Kuwaiti counterpart to confirm Egypt’s solidarity with the sisterly State of Kuwait - mfa.gov.eg",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ZzNnSUQyUTE3U0M3TnR2enhDck1kNGdXc0pnc05naGRyMzc0a1ctb01QOXlYZzRmNTlTMlhRZXBnQjFnVWlYU3FNeUQyUjlCUW41TWVIVEQtQWRtMjRvOU1GYTZvRmU0UTNKM1VqVGc5S3ZVNHc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -175,7 +269,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T16:34:25.000Z",
-      "originalHeadline": "اتصال هاتفي بين وزير الخارجية ونظيره ��لكويتي للتأكيد على تضامن مصر مع دولة الكويت الشقيقة - mfa.gov.eg"
+      "originalHeadline": "اتصال هاتفي بين وزير الخارجية ونظيره الكويتي للتأكيد على تضامن مصر مع دولة الكويت الشقيقة - mfa.gov.eg"
     },
     {
       "headline": "Trump threatens to blow up Oman because of the Strait of Hormuz.. So how did the American president ignite controversy with his statements? -BBC",
@@ -187,6 +281,17 @@
       "language": "ar",
       "date": "2026-05-28T16:32:07.000Z",
       "originalHeadline": "ترامب يهدد بتفج��ر عُمان بسبب مضيق هرمز .. فكيف أشعل الرئيس الأمريكي جدلاً بتصريحاته؟ - BBC"
+    },
+    {
+      "headline": "Israel PM Says Orders Army to Take Control of 70 Percent of Gaza Strip",
+      "url": "https://english.aawsat.com/arab-world/5278159-israel-pm-says-orders-army-take-control-70-percent-gaza-strip",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-28T16:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "US inflation rose at fastest pace in three years in April as Iran war hikes up prices",
@@ -282,7 +387,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T16:14:42.000Z",
-      "originalHeadline": "إلى أين تقود تهديدات ترامب لسلطنة عمان وتحركاته تجاه الخليج؟ - BBC"
+      "originalHeadline": "إلى أين تقود تهد��دات ترامب لسلطنة عمان وتحركاته تجاه الخليج؟ - BBC"
     },
     {
       "headline": "Between the voices of the Talbiyah and the hands of charity, the highest forms of giving are embodied at the entrances to the Jamarat facility \n\nVia news correspondent Fadwa Mutabaqani\n\n#Hajj_across_news",
@@ -432,6 +537,18 @@
       "date": "2026-05-28T15:33:10.000Z"
     },
     {
+      "headline": "The occupation authorities deport two journalists from Al-Aqsa Mosque",
+      "url": "https://www.aljazeera.net/news/2026/5/28/%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%B5%D8%AD%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-05-28T15:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سلطات الاحتلال تبعد صحفيين اثنين عن المسجد الأقصى"
+    },
+    {
       "headline": "Kuwait Condemns Iranian Attacks on Its Territory ; Gulf States Denounce Assaults",
       "url": "https://english.aawsat.com/gulf/5278109-kuwait-condemns-iranian-attacks-its-territory-gulf-states-denounce-assaults",
       "source": "Asharq al-Awsat (EN)",
@@ -443,30 +560,19 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Israel Carries Out Strike on Beirut Suburbs , First Near Capital in Weeks",
+      "url": "https://english.aawsat.com/arab-world/5278113-israel-carries-out-strike-beirut-suburbs-first-near-capital-weeks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-28T15:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Abdrabbuh Mansur Hadi Dies After Leading Yemen Through Its Most Difficult Period",
       "url": "https://english.aawsat.com/arab-world/5278102-abdrabbuh-mansur-hadi-dies-after-leading-yemen-through-its-most-difficult-period",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-28T15:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Cairo Ranked Among World Most Beautiful Historic and Tourist Cities",
-      "url": "https://english.aawsat.com/varieties/5278129-cairo-ranked-among-world%E2%80%99s-most-beautiful-historic-and-tourist-cities",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-28T15:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Sudan Stability Will Extinguish Other Fires",
-      "url": "https://english.aawsat.com/opinion/5278059-sudan%E2%80%99s-stability-will-extinguish-other-fires",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -499,20 +605,19 @@
       "originalHeadline": "إلغاء متأخر وعدالة رمزية .. فرنسا تدفن قانون العبودية والإرث باقٍ"
     },
     {
-      "headline": "The occupation authorities deport two journalists from Al-Aqsa Mosque",
-      "url": "https://www.aljazeera.net/news/2026/5/28/%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%B5%D8%AD%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
+      "headline": "Cairo Ranked Among World Most Beautiful Historic and Tourist Cities",
+      "url": "https://english.aawsat.com/varieties/5278129-cairo-ranked-among-world%E2%80%99s-most-beautiful-historic-and-tourist-cities",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
+      "country": "Saudi Arabia",
+      "language": "en",
       "date": "2026-05-28T15:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سلطات الاحتلال تبعد صحفيين اثنين عن المسجد الأقصى"
+      "tier": "gdelt"
     },
     {
-      "headline": "Israel Carries Out Strike on Beirut Suburbs , First Near Capital in Weeks",
-      "url": "https://english.aawsat.com/arab-world/5278113-israel-carries-out-strike-beirut-suburbs-first-near-capital-weeks",
+      "headline": "Sudan Stability Will Extinguish Other Fires",
+      "url": "https://english.aawsat.com/opinion/5278059-sudan%E2%80%99s-stability-will-extinguish-other-fires",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -552,7 +657,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T15:21:00.000Z",
-      "originalHeadline": "مصر تدين بأشد العبارات اله��مات على دولة الكويت الشقيقة - الهيئة العامة للاستعلامات"
+      "originalHeadline": "مصر تدين بأشد العبارات الهجمات على دولة الكويت الشقيقة - الهيئة العامة للاستعلامات"
     },
     {
       "headline": "Iran: A new written letter from Mojtaba Khamenei... and this is what it says",
@@ -703,18 +808,6 @@
       "date": "2026-05-28T14:16:26.000Z"
     },
     {
-      "headline": "Heavy Israeli attacks on southern Lebanon - BBC News Farsi",
-      "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T14:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حملات سنگین اسرائیل به جنوب لبنان - BBC News فارسی"
-    },
-    {
       "headline": "The cosmic chicken-and-egg mystery: giant black holes born before their galaxies",
       "url": "https://www.aljazeera.net/science/2026/5/28/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%8A-%D8%AB%D9%82%D9%88%D8%A8",
       "source": "Al Jazeera Arabic",
@@ -737,6 +830,18 @@
       "date": "2026-05-28T14:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جدعون ليفي : عيد الأضحى يكشف قبح الفصل العنصري الإسرائيلي"
+    },
+    {
+      "headline": "Heavy Israeli attacks on southern Lebanon - BBC News Farsi",
+      "url": "https://www.bbc.com/persian/articles/c1k2yxw2wkeo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-28T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حملات سنگین اسرائیل به جنوب لبنان - BBC News فارسی"
     },
     {
       "headline": "Egypt condemns in the strongest terms the attacks on Kuwait - Al-Ittihad News",
@@ -896,17 +1001,6 @@
       "originalHeadline": "مملكة البحرين تُدين بشدة الاعتداء الإيراني على دولة الكويت\n\n\nhttps://\nbit.ly/4dAMr6j"
     },
     {
-      "headline": "Ministers in talks over shelving carbon tax on fertiliser to curb united kingdom food inflation",
-      "url": "https://www.theguardian.com/business/2026/may/28/carbon-tax-fertilisers-suspended-curb-food-inflation",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T13:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "The Yemeni presidency mourns former President Hadi and declares 3 days of mourning",
       "url": "https://www.okaz.com.sa/politics/na/2250448",
       "source": "Okaz",
@@ -965,6 +1059,17 @@
       "date": "2026-05-28T13:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "السعودية تستنكر الهجمات المعادية على الكويت"
+    },
+    {
+      "headline": "Ministers in talks over shelving carbon tax on fertiliser to curb united kingdom food inflation",
+      "url": "https://www.theguardian.com/business/2026/may/28/carbon-tax-fertilisers-suspended-curb-food-inflation",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-28T13:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Invité d’Al-Rahman ..  \nLors de l’accomplissement des rites et des cérémonies religieuses, respectez les consignes et instructions de sécurité.\n#hayyakum_allah",
@@ -1387,17 +1492,6 @@
       "originalHeadline": "الجيش الأمريكي: إيران أطلقت صاروخا باليستيا على الكويت - CNN Arabic"
     },
     {
-      "headline": "First Thing : Trump threatens to blow up US ally Oman if it does not behave over strait of Hormuz | US news",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/first-thing-trump-threatens-oman-strait-of-hormuz",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T12:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Arsenal One Win from History as PSG Stand in Their Way",
       "url": "https://english.aawsat.com/sports/5278021-arsenal-one-win-history-psg-stand-their-way",
       "source": "Asharq al-Awsat (EN)",
@@ -1419,6 +1513,17 @@
       "date": "2026-05-28T12:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "طائرات ذاتية القيادة .. كيف سيُصبح الطيران في عصر الذكاء الاصطناعي ؟"
+    },
+    {
+      "headline": "First Thing : Trump threatens to blow up US ally Oman if it does not behave over strait of Hormuz | US news",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/first-thing-trump-threatens-oman-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-05-28T12:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Kuwait strongly condemns Iranian attacks targeting its territories",
@@ -1494,7 +1599,7 @@
       "originalHeadline": "وسط جدل \"الوثيقة المفبركة\".. ترامب يهدد بـ \"نسف\" عُمان ويجدد قصف بندر عباس في إيران - مونت كارلو الدولية"
     },
     {
-      "headline": "After her dismissal, former Attorney General Pam Bondi reveals to CNN that she has cancer",
+      "headline": "After her dismissal, former Prosecutor Pam Bondi reveals to CNN that she has cancer",
       "url": "https://arabic.cnn.com/world/article/2026/05/28/former-ag-pam-bondi-diagnosed-with-cancer",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -1503,7 +1608,7 @@
       "language": "ar",
       "date": "2026-05-28T12:00:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "بعد إقالتها .. المدعية العامة السابقة بام بوندي تكشف لـCNN إصابتها بالسرطان"
+      "originalHeadline": "بعد إقالتها .. المدع��ة العامة السابقة بام بوندي تكشف لـCNN إصابتها بالسرطان"
     },
     {
       "headline": "The meeting was attended by His Excellency the Ambassador of the Custodian of the Two Holy Mosques to the Republic of Cyprus, Mr. Fawaz bin Abdul Rahman Al-Shubaili.",
@@ -1875,7 +1980,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T11:22:24.000Z",
-      "originalHeadline": "الجيش الأميركي يكشف تفاصيل الهجوم الإيراني على الكويت - سكاي نيوز عربي��"
+      "originalHeadline": "الجيش الأميركي يكشف تفاصيل الهجوم الإيراني على الكويت - سكاي نيوز عربية"
     },
     {
       "headline": "#Royal_Court: #The Custodian of the Two Holy Mosques and His Highness the #Crown_Prince offer their condolences to the government and people of the brotherly Republic of Yemen on the death of former President Abd Rabbuh Mansour Hadi.\n#SPA",
@@ -3142,102 +3247,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-05-28T05:33:44.885Z"
-    },
-    {
-      "headline": "Weather Forecast for Thursday",
-      "url": "https://www.spa.gov.sa/en/N2601814?type=news&uuid=N2601814",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-28T05:33:31.000Z"
-    },
-    {
-      "headline": "The Communists in India once ruled millions of people, so what happened to them?",
-      "url": "https://www.bbc.com/arabic/articles/cdxp7n0r1gwo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T05:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الشيوعيون في الهند حكموا ملايين الأشخاص ذات يوم ، فماذا حدث لهم ؟"
-    },
-    {
-      "headline": "Gold hits two-month low",
-      "url": "https://www.wam.ae/en/details/178sa7g-gold-hits-two-month-low",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-05-28T05:23:17.559Z"
-    },
-    {
-      "headline": "Oil prices jump after US launches new attacks on Iran",
-      "url": "https://www.bbc.com/news/articles/cp3p62xddq4o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Facing intense internal pressure, DNC releases postelection autopsy that criticizes Kamala Harris - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2cxWmlnMnA3eV9hWHVwdXVIeXpEM2ZISTRXSl9zQTA0aGNMRHI4YURjcVBEWnQ2Y1BNLWFiSmlGblNpa2JRRDJvSDF4c2VTVGhQLVNTSVZqTERHa3c2YzNxcno3eE51aEJYQ2dIbDFLeEJkZWdwdzVUbEZmWHZmU002a3ZxQlZYbDhVU3ZOMFphVHF0SnlpT1ZDTmpnVUt1M3ZLWkpja1Y3ZUtROW9JU2I2NA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-28T05:11:27.000Z"
-    },
-    {
-      "headline": "Analysis of Trump's threat to the Sultanate of Oman and the number of countries that are threatened - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNzBRZEp5Qlh1ekdYTi1mUmRWSUphN3N4bHFJY3pDYXhTclFFRXU1anM4QlNwNHlPYS1HRy0xSmVKODJTTHJNRnp5TmlGeXBDSHUxcmpnN0x6Qk8wSXNSVTRyV1dPc1hfYVk0aktlZVhfaEx4T0RlYkFEY3lKY3F2bFNpTzJ2UF9BZzVVTWJlUTQ4TVdoT1BRZXBhd3ZPZzJMcVVKWnZUMEhFb3ptVXFBQjNxV0JockNsbFFPRldKNDZhVHdaY1VNS1FqR0h3aG41SjJDUmxQYzhYMFHSAeYBQVVfeXFMTkxxZnZzcGpscW9URUhGem1qeUpGMDF5TjQ0bmJnZlVKVDhvY3RkdkRZY0swd0NZbmlLUEo3SWZLSGF0M281dzFQNERiMW40UzE1R0RWY2V2ZGNTN2p4V1A3cmpoam4tN0ZNU2JsTEFxNGZOVWJ5ZnNqLWtSdnZRSHFWX29lakdMd1NfbDVtcGJ0Ylh0aDNyS3pIU01OWU10OGhMODdHa2J6SjJldlZPeElCY2RScjFhUUNwbkNkTUxlcXNUcEphWVVNZVlHSW1hNXZTMmdNM1FfUGdGN0VJbE53SGlJaVE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T04:58:41.000Z",
-      "originalHeadline": "تحليل تهديد ترامب لسلطنة عُمان وعدد الدول التي باتت مهددة - CNN Arabic"
-    },
-    {
-      "headline": "ABDden İrana yeni saldırılar : Askeri tesis vuruldu",
-      "url": "https://www.bbc.com/turkce/articles/ce8ppzzpmlzo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T04:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Norveç paradoksu : İçerde çevreci , dışarda petrol ihracatçısı",
-      "url": "https://www.bbc.com/turkce/articles/cyv20gvp9l7o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-05-28T04:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Blasts hit #Bandar_Abbas seaport, south #Iran, amid reports of #US airstrikes.\n\n \nhttp://\now.ly/Ri7l30sW4MK\n\n#KUNA   #KUWAIT",
-      "url": "https://x.com/kuna_en/status/2059857461759082936",
-      "source": "Kuwait News Agency (KUNA)",
-      "sourceId": "twitter_kuna_en",
-      "category": "kuwait_twitter",
-      "country": "Kuwait",
-      "language": "en",
-      "date": "2026-05-28T04:41:03.000Z"
     }
   ]
 }
