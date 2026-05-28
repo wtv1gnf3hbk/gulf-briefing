@@ -1,47 +1,71 @@
 **Top News**
-- Kuwait activated air defense systems to intercept Iranian missile and drone attacks, the Kuwaiti army confirmed ([Reuters](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/))
-- Yemen's former president Abdrabbuh Mansour Hadi died at age 80, AP News reported ([AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8))
-- US and Iran reached a tentative deal to extend ceasefire and begin nuclear talks, according to AP News ([AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29))
-- Saudi Arabia's Prince Faisal bin Farhan praised US President Trump's decision to give diplomacy another chance, the foreign minister posted on X ([Twitter](https://twitter.com/FaisalbinFarhan))
-- Three oil and LNG tankers exited the Strait of Hormuz with transponders turned off, Reuters reported ([Reuters](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/))
+
+- Kuwait intercepted Iranian missile and drone attacks, with its air defense systems neutralizing hostile projectiles targeting the country, according to [Reuters reports](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/).
+- Iran and the US reached a tentative outline ceasefire agreement after recent exchanges of airstrikes, though President Trump said the US is "not satisfied" with the current deal, the [BBC reports](https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss).
+- The US conducted new strikes against Iranian military sites and drone facilities following the latest Iranian attacks, [Reuters reports](https://www.reuters.com/world/middle-east/us-carries-out-new-strikes-iran-against-military-site-official-says-2026-05-27/).
+- Three oil and LNG tankers exited the Strait of Hormuz with their transponders switched off following regional tensions, according to [Reuters](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/).
+- Saudi Arabia announced death of former Yemeni President Abd Rabbuh Mansour Hadi, with King Salman and Crown Prince Mohammed bin Salman offering condolences to Yemen's government and people, the [Saudi Press Agency](https://twitter.com/spagov) confirmed.
+- Hajj pilgrims performed rituals in extreme heat as Eid al-Adha celebrations began in Saudi Arabia, [AP reports](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a).
 
 **Energy & Economy**
-- Air cargo demand increased 4% in April despite Middle East disruptions, according to IATA data ([Times of Oman](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata))
-- UAE ranked first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Sheikh Abdullah bin Zayed announced ([Twitter](https://twitter.com/ABZayed))
+
+- Air cargo demand increased 4% in April despite Middle East disruptions affecting regional operations, [Times of Oman reports](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata).
+- Asia Pacific real estate investment jumped 19% in the first quarter compared to previous periods, according to [Savills data](https://timesofoman.com//article/172332-asia-pacific-real-estate-investment-rises-19-in-q1-savills).
+- Dubai Electricity and Water Authority employees recycled 412,041 plastic bottles and aluminum cans in 2025 using smart recycling machines installed across DEWA buildings, [Dubai Media Office](https://twitter.com/DXBMediaOffice) announced.
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman received Chadian President Mahamat Idriss Deby at Mina Palace to discuss bilateral cooperation during Hajj season, Saudi Press Agency reported ([Twitter](https://twitter.com/spagov))
-- Interior Minister Prince Abdulaziz bin Saud received the Malaysian Interior Minister and inspected medical facilities during Hajj operations ([Twitter](https://twitter.com/MOISaudiArabia))
+- Crown Prince Mohammed bin Salman met with UK National Security Adviser Jonathan Powell to discuss bilateral cooperation and regional de-escalation efforts, Prince Khalid bin Salman [confirmed](https://twitter.com/kbsalsaud).
+- Foreign Minister Prince Faisal bin Farhan chaired an international conference in partnership with France on Palestinian statehood and implementing a two-state solution, he [announced](https://twitter.com/FaisalbinFarhan).
+- Interior Ministry issued administrative decisions against 12 violators of Hajj regulations and transported 43 unauthorized pilgrims away from holy sites, [the ministry said](https://twitter.com/MOISaudiArabia).
 
-**UAE** 
-- Sheikh Mohammed bin Rashid reviewed 2025 tourism sector achievements and received Eid Al-Adha well-wishers at Zabeel Majlis in Dubai ([Twitter](https://twitter.com/DXBMediaOffice))
-- ADNOC building in Abu Dhabi illuminated in Azerbaijan flag colors to mark Azerbaijan National Day ([Twitter](https://twitter.com/ADMediaOffice))
+**UAE**
+- UAE leaders congratulated El Salvador's president on his re-election, [WAM reports](https://twitter.com/WAMNEWS_ENG).
+- Sheikh Mohammed bin Rashid reviewed UAE tourism sector achievements for 2025 and launched new AI government initiatives during a federal retreat in Abu Dhabi, [he announced](https://twitter.com/HHShkMohd).
+- UAE announced restoration of the Umayyad Mosque in Damascus with support from Sheikha Fatima bint Mubarak, Foreign Minister Abdullah bin Zayed [said](https://twitter.com/ABZayed).
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani announced his appointment by Emir Tamim bin Hamad Al Thani and thanked him for the trust placed in him ([Twitter](https://twitter.com/MBA_AlThani_))
-- Majed Al Ansari became advisor to the Prime Minister and official spokesman for the Foreign Ministry ([Twitter](https://twitter.com/majedalansari))
+- Qatar's Deputy Prime Minister Mohammed bin Abdulrahman Al Thani was appointed as Prime Minister by Emir Tamim bin Hamad Al Thani, [he confirmed](https://twitter.com/MBA_AlThani_).
+- Qatar launched an award for the best digital Hajj applications, [Qatar News Agency reports](https://twitter.com/QNAEnglish).
+
+**Kuwait**
+- GCC Secretary General condemned Iranian drone attacks on Kuwait in the strongest possible terms, [KUNA reports](https://twitter.com/kuna_en).
+- Egypt's Foreign Minister called his Kuwaiti counterpart to condemn the "blatant" Iranian attacks on Kuwait, according to [KUNA](https://twitter.com/kuna_en).
+
+**Bahrain**
+- Bahrain strongly condemned the Iranian attack on Kuwait, the Foreign Ministry [announced](https://twitter.com/bahdiplomatic).
 
 **Oman**
-- Sultan Haitham bin Tarik performed Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, Oman News Agency reported ([Twitter](https://twitter.com/ONA_eng))
-- Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister to discuss diplomatic engagement and regional tensions ([Twitter](https://twitter.com/badralbusaidi))
+- Sultan Haitham bin Tarik offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, [Oman News Agency reports](https://twitter.com/ONA_eng).
+- Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, describing the talks as reflecting "constructive nature of Oman-Iran dialogue," [he said](https://twitter.com/badralbusaidi).
 
-**Yemen**
-- IRG Chairman of the Presidential Leadership Council called for unity and directing energies toward restoring state institutions, Saba News Agency reported ([Twitter](https://twitter.com/sabanew_))
-- Houthis announced an agreement including resumption of Yemenia Airlines flights between Sanaa and Jordan, according to negotiator Mohammed Abdulsalam ([Twitter](https://twitter.com/abdusalamsalah))
+**Yemen (IRG)**
+- Yemen's IRG-backed government appointed Ahmed Hamid Lamlas as governor of Aden Governorate, [Saba News Agency reports](https://twitter.com/sabanew_).
+- Information Minister Mohammed Al-Eryani mourned former President Hadi, calling him a "brave leader" who defended the republican system against "the new Imamate project," [he said](https://twitter.com/ERYANIM).
+
+**Yemen (Houthis)**
+- Houthi negotiator Mohammed Abdulsalam released text of an agreement covering bank sanctions cancellation and resumed Yemenia Airlines flights between Sanaa and Jordan, [he announced](https://twitter.com/abdusalamsalah).
 
 **Official Signals**
-- Multiple Arab nations condemned Iranian attacks on Kuwait, with Egypt's Foreign Ministry expressing full solidarity with Kuwait ([Google News Gulf](https://www.facebook.com/khamsenetektesad/posts/))
-- Saudi officials extended Eid Al-Adha congratulations across government social media accounts, emphasizing the Kingdom's role in serving pilgrims to the Two Holy Mosques
+
+- Saudi Foreign Minister Prince Faisal bin Farhan praised President Trump's decision to "give diplomacy a chance" to reach an acceptable agreement ending current conflicts, [he said](https://twitter.com/FaisalbinFarhan).
+- Qatar's Foreign Ministry spokesman Majed Al Ansari denied reports that Qatar offered $12 billion to Iran, calling them "simply not true" and designed to "sabotage the deal," [he stated](https://twitter.com/majedalansari).
 
 **Coverage Flags**
-- Qatar's Majed Al Ansari denied reports that Qatar offered $12 billion to Iran, calling them "simply not true" and designed to sabotage diplomatic efforts ([Twitter](https://twitter.com/majedalansari))
+
+- Former Yemeni President Abd Rabbuh Mansour Hadi's death represents a significant political moment for Yemen's internationally recognized government and Saudi-backed legitimacy efforts.
+- Iranian attacks on Kuwait mark an escalation in regional tensions despite ongoing US-Iran ceasefire negotiations.
 
 **Sources**
-- [Reuters Gulf](https://www.reuters.com)
-- [AP Gulf](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
+
+- [Reuters Gulf Bureau](https://www.reuters.com/world/middle-east/)
 - [Times of Oman](https://timesofoman.com)
-- [Google News Gulf](https://news.google.com)
-- Official Twitter accounts from Saudi, UAE, Qatar, Oman, and Yemen government officials
+- [Associated Press Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Saudi Press Agency Twitter](https://twitter.com/spagov)
+- [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
+- [Qatar News Agency English](https://twitter.com/QNAEnglish)
+- [Kuwait News Agency](https://twitter.com/kuna_en)
+- [Bahrain Foreign Ministry](https://twitter.com/bahdiplomatic)
+- [Oman News Agency](https://twitter.com/ONA_eng)
