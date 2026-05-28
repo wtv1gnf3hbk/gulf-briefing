@@ -1,27 +1,27 @@
-1. **Iran-US conflict escalation.** The United States conducted fresh military [strikes in Iran](https://www.reuters.com/world/middle-east/us-carries-out-new-strikes-iran-against-military-site-official-says-2026-05-27/) against a military site and drones, according to Reuters, following earlier exchanges. Reports suggested both sides reached a tentative ceasefire deal to extend negotiations and launch nuclear talks, though President Trump said he remained "not satisfied" with the proposed agreement.
+**Gulf Regional Briefing**
 
-2. **Kuwait under Iranian attack.** Iranian forces launched missile and drone [attacks on Kuwait](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/), prompting the Kuwaiti army to activate air defenses, Reuters reported. Saudi Arabia strongly condemned the strikes, while Egypt's foreign minister called the attacks "blatant" during a phone call with his Kuwaiti counterpart, according to KUNA.
+1. **Iran-Kuwait missile strike.** Iran launched a ballistic missile targeting Kuwait, with Kuwaiti air defenses intercepting the attack along with accompanying drone strikes, [Reuters reports](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/). The US Army confirmed details of the Iranian attack, while Saudi Arabia and Egypt strongly condemned the strikes on Kuwait through official statements.
 
-3. **Former Yemeni president dies.** Abd Rabbuh Mansour Hadi, Yemen's former president and Internationally Recognized Government leader, died after what officials called "a national march full of giving and struggle." The Saudi king and crown prince offered condolences to Yemen's government and people, while IRG officials announced funeral arrangements following afternoon prayers.
+2. **US-Iran ceasefire talks.** Iran and the United States reached a tentative outline for a ceasefire deal following escalating air strikes between the two countries, [according to AP](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). Saudi Foreign Minister Prince Faisal bin Farhan welcomed President Trump's decision to pursue diplomacy to end the conflict.
 
-4. **Hajj pilgrimage under extreme heat.** Pilgrims performed rituals during soaring temperatures as Eid al-Adha celebrations began, according to [AP News](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a). Saudi Civil Defense issued safety instructions in multiple languages, while Crown Prince Mohammed bin Salman expressed gratitude for serving the Two Holy Mosques and caring for pilgrims.
+3. **Hajj pilgrimage completion.** Saudi authorities managed the completion of Hajj rituals for approximately 2.5 million pilgrims during Eid Al-Adha celebrations, with Crown Prince Mohammed bin Salman hosting the annual reception for international delegations and pilgrims. King Salman covered sacrifice expenses for all 2,500 government program guests from 104 countries.
 
-5. **Hormuz Strait shipping disruption.** Three oil and LNG tankers exited the Strait of Hormuz with their transponders turned off, [Reuters reported](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/), indicating potential evasion of tracking systems. The move came following the escalating US-Iran military exchanges and concerns over maritime security in the critical shipping lane.
+4. **Yemen presidential transition.** Former Yemeni President Abd Rabbuh Mansour Hadi died, with the IRG Presidential Council announcing funeral arrangements while current President Rashad Al-Alimi received condolences from Saudi leadership. The IRG also appointed Ahmed Hamid Lamlas as the new governor of Aden Governorate.
 
-6. **UAE tourism sector achievements.** Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector performance for 2025, highlighting continued growth in the Emirates' diversification efforts. The announcement came as the UAE marked the approach of Vision 2030's 10-year anniversary, with officials emphasizing economic transformation beyond oil dependency.
+5. **Qatar diplomatic appointments.** Qatar's Emir appointed a new Prime Minister while former PM Mohammed bin Abdulrahman Al Thani was named Deputy Prime Minister and Foreign Minister, with Majed Al Ansari appointed as ministry spokesman. Al Ansari denied reports that Qatar offered $12 billion to Iran for any diplomatic deal.
 
-7. **Qatar diplomatic appointments.** Emir Sheikh Tamim bin Hamad Al Thani appointed a new prime minister, with the official expressing honor at the trust placed in him. Separately, Majed Al Ansari was named as advisor to the deputy prime minister and foreign ministry spokesman, reflecting ongoing diplomatic restructuring.
+6. **UAE-Syria mosque restoration.** The UAE announced the restoration of Damascus's historic Umayyad Mosque under the patronage of Sheikha Fatima bint Mubarak, reflecting the country's commitment to preserving Islamic heritage, [Sheikh Abdullah bin Zayed stated](https://twitter.com/ABZayed). The initiative supports the Syrian people following recent regional developments.
 
-8. **Iran's post-war economic planning.** Supreme Leader Ali Khamenei outlined a post-war economic roadmap for Iran's Parliament, according to [Times of Oman](https://timesofoman.com//article/172330-khamenei-charts-post-war-economic-roadmap-for-irans-parliament). The announcement came as Tehran condemned alleged US ceasefire breaches as "blatant violations of international law."
+7. **Oman-UK expedition launch.** Oman and the United Kingdom officially launched the "Oman: The Jewel of Arabia" expedition project in London, with Minister Sayyid Theyazin bin Haitham meeting Prince William at Windsor Castle. The cultural initiative builds on longstanding bilateral ties between the two nations.
 
-9. **Air cargo resilience reported.** Global air cargo demand rose 4% in April despite Middle East disruptions, [IATA reported](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata) via Times of Oman. The figures suggested international trade flows maintained momentum despite ongoing regional conflicts affecting major shipping routes and logistics networks.
+8. **Shipping disruption continues.** Three oil and LNG tankers exited the Strait of Hormuz with their transponders switched off, indicating ongoing maritime tensions in the crucial energy shipping route, [Reuters reports](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/). The disruptions coincide with regional military escalations.
 
-10. **Oman-Iran diplomatic engagement.** Omani Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, describing them as reflecting "the constructive nature of Oman-Iran dialogue." Albusaidi reaffirmed Oman's commitment to supporting efforts to reduce regional tensions and advance peaceful coexistence.
+9. **UAE tourism review.** Dubai ruler Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025, while the country launched artificial intelligence assistants for government procurement, taxes, and customer services. The federal AI program expansion targets transforming half of government operations.
 
-**Sources:**
-• [Reuters - US strikes Iran](https://www.reuters.com/world/middle-east/us-carries-out-new-strikes-iran-against-military-site-official-says-2026-05-27/)
-• [Reuters - Kuwait under attack](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)
-• [Reuters - Hormuz tankers](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/)
-• [AP News - Hajj heat](https://apnews.com/article/islam-hajj-mina-saudi-arabia-muslim-908f0c90c0f2308496ab90997f78488a)
-• [Times of Oman - Air cargo](https://timesofoman.com//article/172334-air-cargo-demand-rises-4-in-april-despite-middle-east-disruptions-iata)
-• [Times of Oman - Iran roadmap](https://timesofoman.com//article/172330-khamenei-charts-post-war-economic-roadmap-for-irans-parliament)
+10. **GCC solidarity statements.** The GCC Secretary General condemned Iranian attacks on Kuwait in the strongest terms, while Bahrain's Foreign Ministry issued similar condemnations through official channels. Regional leaders exchanged Eid Al-Adha congratulations while addressing security concerns.
+
+**Sources**
+- [Reuters Gulf coverage](https://www.reuters.com/world/middle-east/)
+- [AP Gulf reporting](https://apnews.com/hub/middle-east)
+- [Times of Oman](https://timesofoman.com/)
+- Official Twitter accounts of Gulf leaders and ministries
