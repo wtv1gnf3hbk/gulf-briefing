@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-29T14:17:28.142Z",
+  "updated": "2026-05-29T14:31:23.782Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "UAE Team Emirates-XRG's Julius Johansen powers to prologue victory at the Boucles de la Mayenne",
+      "url": "https://www.wam.ae/en/details/c0ggadf-uae-team-emirates-xrgs-julius-johansen-powers",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-29T14:26:58.351Z"
+    },
+    {
+      "headline": "Civil Defense Maintains Intensive Field Safety Operations at Grand Mosque",
+      "url": "https://www.spa.gov.sa/en/N2602761?type=news&uuid=N2602761",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-29T14:26:46.000Z"
+    },
+    {
+      "headline": "UAE wins two gold medals in 22nd Asian U20 Athletics Championships in Hong Kong",
+      "url": "https://www.wam.ae/en/details/c0ggade-uae-wins-two-gold-medals-22nd-asian-u20-athletics",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-05-29T14:18:51.532Z"
+    },
     {
       "headline": "Sultan of Oman Congratulates the Custodian of the Two Holy Mosques, HRH the Crown Prince on the Success of Hajj Season 1447 AH",
       "url": "https://www.spa.gov.sa/en/N2602758?type=news&uuid=N2602758",
@@ -11,6 +41,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-05-29T14:16:49.000Z"
+    },
+    {
+      "headline": "Araqchi: I discussed with the Foreign Minister of Oman the Strait of Hormuz and its future management - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1feGFwNDJJSDhqOHVfNGROUDZTQjBheWZnYnhDT3hoM3JRdFZab2dLRXdQRlNxT1JEX2t3SU1IREp1WlRiVUtLcTBEZXFEVzg1azNYR0pGRHNCUXZjbDVCUjJqUmtlaDQta08xMmNwY1VHOHY0S2tseGh0MA?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-29T14:11:07.000Z",
+      "originalHeadline": "عراقجي: بحثت مع وزير خارجية عمان مضيق هرمز وإدارته مستقبلا - Reuters"
     },
     {
       "headline": "Hajj Minister Convenes Planning Meeting with Hajj Companies for 1448 AH Season",
@@ -1402,6 +1443,17 @@
       "date": "2026-05-29T06:50:12.000Z"
     },
     {
+      "headline": "Oil Falls Over 1 % on Reports of Potential US - Iran Ceasefire Deal",
+      "url": "https://english.aawsat.com/business/5278299-oil-falls-over-1-reports-potential-us-iran-ceasefire-deal",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Russian Drone Hits Romania Apartment Building , Bucharest Says",
       "url": "https://english.aawsat.com/world/5278285-russian-drone-hits-romania-apartment-building-bucharest-says",
       "source": "Asharq al-Awsat (EN)",
@@ -1426,17 +1478,6 @@
     {
       "headline": "Venezuelan Opposition Leader Expresses Intent to Negotiate with Interim President",
       "url": "https://english.aawsat.com/world/5278301-venezuelan-opposition-leader-expresses-intent-negotiate-interim-president",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-29T06:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Oil Falls Over 1 % on Reports of Potential US - Iran Ceasefire Deal",
-      "url": "https://english.aawsat.com/business/5278299-oil-falls-over-1-reports-potential-us-iran-ceasefire-deal",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1771,7 +1812,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-29T04:43:11.000Z",
-      "originalHeadline": "رد إيراني ثان عل�� تهديد عُمان بلسان وزير الخزانة الأمريكي - CNN Arabic"
+      "originalHeadline": "رد إيراني ثان على تهديد عُمان بلسان وزير الخزانة الأمريكي - CNN Arabic"
     },
     {
       "headline": "Trump's DOJ sues 4 Democratic-run states over denying undercover license plates for federal agents - AP News",
@@ -3179,49 +3220,6 @@
       "language": "ar",
       "date": "2026-05-28T21:04:46.000Z",
       "originalHeadline": "أيرلندا ضد قطر أيرلندا,, العنابى يخسر 1 - 0 استعدادًا لكأس العالم 2026 - اليوم السابع"
-    },
-    {
-      "headline": "The Affairs of the Two Holy Mosques enhances the readiness of the Grand Mosque to receive pilgrims during the Farewell Tawaf.\n\nhttps://\nspa.gov.sa/N2602293\n#God bless you #Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2060104238408048862",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-28T21:01:39.000Z",
-      "originalHeadline": "عناية شؤون الحرمين تُعزز جاهزية المسجد الحرام لاستقبال الحجاج خلال طواف الوداع.\n\nhttps://\nspa.gov.sa/N2602293\n#حياكم_الله | #واس_حج47"
-    },
-    {
-      "headline": "Photos of the week - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqME5MU3VNcXU3cjBpdDh0azdrYmlJU1dDRC1iNTMxNGQ2cXUwanE4dVdVT2phZDVtTFM2NnprNzRaZjFPdlNaZVNrZHBfZ0NKSjc2M2lJUG0yUDBIZkF4SEVYU1BaRjA?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-28T21:01:00.000Z"
-    },
-    {
-      "headline": "Yemen condemns in the strongest terms the hostile attacks on the State of Kuwait - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQeE0tcVY0VHNJYWhXSVRKYUQ3azh5OFkxZ0JHenAxbk1xby1Tb1EyaXlDbkJOY0V4WVVERFVvYWFwTmJIbDN4a2ZQUVlob3VSRkJZWVBwSHZrYUFhN21PS3F4ZXVkUHY1Y3ZTd0NLWmw0NzNJZnNKSGRWQm11WUJZb1BQV0p6QWdrNVFla0tESVZEdko3d2J0bW5RYkRwcURaOXJ0S251cFMyRTBYV2hHZ3BoQjd2VGtFTDZnT3VZWWtsYl9YWkRFYy15X09uTEx0MDZZTHZHZWNNX0hpcUlyR2g1REZodnRzNENtT29Ca3FFQTU1dUJudGh3X012QXlieGdUWkhNcU1vY1FCMUFYcVdsb0FQNzhPSzk5aS1HajExU184NWJxWUQ3cU82bV9kMWpBVjRkSXBpZUdhNFRPbE1QM211YklvX21nYURmcjkwRmRUS1hjME1KSnhrUFpwUmpNMnYwWnJzMV80QkJVU1l4LUUwT1JINzRpckRNSFVzRUlpUUdaRkZnR1hWcHh5UENRTEVhb2x1N0VXaVdsUWU0bzktMkZkd25oaXNvdklxekdCWnNVWHFQc29GMXpGUGFodlpkUjVPSWZVdFNSd3lRQXZ4cTJiN3ZpWEpZSHZOakhIZUxkLUVyYVHSAecDQVVfeXFMUG5sUy10RjZZTmhaNi1QaVhIZXVXUC1mVlFVaDNPWldFWm9idWRiYXFmV2staTVDS1lBVmZZNWZ5QThVZXU4Q1VMcHp1STgxSWprYmRIZkIyT2ZIdWljSHVEVDYwb3JsNlBnaXdERndHOWNiemloOEVQOGhwaDJtdl9mV2Vsbi05Rlp6SVd0ZTExY1E5YWkwaUdqRmhqSFhpNWNvM2lzVlVvTHFkT3JhRTJySUNwSW93ai1qTVRBbEMteUFnbDdWbFA3QlYyMFc5NnFqSW1LQms4MDVrQUpjZmlpS016a3Z5SkpYYkZFR3pwd3dkckxoTEZEaVVGM2Q0ZnJqbmtmQnZ1TnlBUWRlS1RGU2JERVlweHpOSUVaZkRqZnVROTZQU2RmMEdDM1UybVVCTGlVVE01MWVsRVI3ci1CWHR2SlR5MUpXVUw4VHFOWF91TFA5OUFmcExDQ01lNFRHLVhTR0tsQUo3UUlRSk5NT005Z1Y5djFXZm9KOWhnaXpmeFRuWW5NbHFaN3h1Uk8xRTFpUHFUVnhLaWRBTXVYMXJRa1hXSi1tb1hyb2thb3JPbTAxaTd6Z0dzSTFhemh5OE5TZ0xnYl9VZXRjS21zaElEYmc1SXRjemZuV1R6NG5razJMOA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T21:00:00.000Z",
-      "originalHeadline": "اليمن يدين بأشد العبارات الهجمات العدائية على دولة الكويت - اليوم السابع"
-    },
-    {
-      "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUUNncWsyemxRZ3gtSXdpU0J1R1JTLWxwS3Y3TzlGZjktTHVPZ2tMenlDX05QeEROSUhpeEViVnBGMC1LbnlKRXRwSjhSVC1zUzBwdFNVak9BeklfU0NMOVUycHVmVkhnMl9wRFdQMGRSS2RocFRZQlJiRl9mTEY2U0NEUlh4SWlIRUJ5eFQ0dW12bnR0WmtnSFpNMTZQY0lwQUtmcXlNOVowZmU2cWQtMVpIYVFOTmgxcklDS21WVXNhcnJUM1A3RGJrRzh5akpqTzdTeHJESmZjUy00emZCcFdVM0xxbmVHTkZ1MGlwbUlOUl9XaFpZVmw5QWdsYXZNSXpyUHd4d3BRb3dkWVdVNjB1bExGNEFkcjRFNnJNVHg0XzVYRENGTFNCWFhfVUZfX1RqWmRaZU1uYmt6VXNWU2hVbU4zdXZ2bF8xMUM0WTZwc1EzZDZOejVTdnRtbXlpVWVjcHA1cGJmMHJvVXJnMHdnZ3FjZndpX29pTGFPQnlqVTlWTk5ZRmFmekZiYlV5VFZiU3VVUTh2bzk4eHRyaVJLcUJKT0hKTGhv0gGrA0FVX3lxTFBRQ2dxazJ6bFFneC1Jd2lTQnVHUlMtbHBLdjdPOUZmOS1MdU9na0x6eUNfTlB4RE5JSGl4RWJWcEYwLUtueUpFdHBKOFJULXNTMHB0U1VqT0F6SV9TQ0w5VTJwdWZWSGcyX3BEV1AwZFJLZGhwVFlCUmJGX2ZMRjZTQ0RSWHhJaUhFQnl4VDR1bXZudHRaa2dIWk0xNlBjSXBBS2ZxeU05WjBmZTZxZC0xWkhhUU5OaDFySUNLbVZVc2FyclQzUDdEYmtHOHlqSmpPN1N4ckRKZmNTLTR6ZkJwV1UzTHFuZUdORnUwaXBtSU5SX1doWllWbDlBZ2xhdk1JenJQd3h3cFFvd2RZV1U2MHVsTEY0QWRyNEU2ck1UeDRfNVhEQ0ZMU0JYWF9VRl9fVGpaZFplTW5ia3pVc1ZTaFVtTjN1dnZsXzExQzRZNnBzUTNkNk56NVN2dG1teWlVZWNwcDVwYmYwcm9Vcmcwd2dncWNmd2lfb2lMYU9CeWpVOVZOTllGYWZ6RmJiVXlUVmJTdVVROHZvOTh4dHJpUktxQkpPSEpMaG8?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T20:59:10.000Z",
-      "originalHeadline": "ترامب يهدد بـ\"نسف\" حليفته سلطنة عمان – ماذا وراء الأكمة؟ - dw.com"
     }
   ]
 }
