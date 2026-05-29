@@ -1,65 +1,65 @@
 **Top News**
 
-- Yemen former President Abdrabbuh Mansour Hadi died at 80 following a battle with illness, the IRG Information Minister ([announced](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
+- Yemen's former President Abdrabbuh Mansour Hadi died at age 80, the internationally recognized leader who governed mostly from exile after the Houthis seized Sanaa ([AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
 
-- Saudi Arabia may lower July oil prices to Asia as demand weakens, according to ([Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)).
+- Saudi Arabia declared a successful Hajj season for 1447 AH with over 1.7 million pilgrims completing rituals, the Saudi Press Agency reported ([Saudi Press Agency](https://spa.gov.sa/N2602764)).
 
-- US and Iran remain "very close" to a deal but "not there yet," VP Vance told the ([BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss)).
+- Kuwait's oil price rose $4.56 to $118.35 per barrel, Kuwait Petroleum Corporation announced ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)).
 
-- Saudi Foreign Minister Prince Faisal bin Farhan expressed appreciation for Trump giving diplomacy a chance to restore Strait of Hormuz navigation, he ([tweeted](https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27/)).
+- Iran's Foreign Minister held the first contact with Oman's Foreign Minister after Trump's threat to Oman over Strait of Hormuz tolls, according to CNN Arabic ([CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/05/29/first-contact-between-foreign-ministers-of-iran-and-oman-trumps-threat)).
 
-- US warned Oman against facilitating tolls for Strait of Hormuz passage, ([Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)).
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy additional opportunity to reach agreement on ending the war and restoring Strait of Hormuz security ([Prince Faisal bin Farhan](https://x.com/FaisalbinFarhan)).
 
-- Bahrain strongly condemned Iranian attacks on Kuwait, the Foreign Ministry ([stated](https://bit.ly/4dAMr6j)).
+- Bahrain strongly condemned Iran's attack on Kuwait, the Foreign Ministry said ([Bahrain MFA](https://bit.ly/4dAMr6j)).
 
 **Energy & Economy**
 
-- Kuwait oil prices rose $4.56 to $118.35 per barrel, Kuwait Petroleum Corporation ([announced](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)).
+- Saudi Arabia may lower July oil prices to Asia as demand weakens, according to [Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/).
 
-- Japan oil imports in April hit lowest since 1962 as Iran war disrupted supply chains, ([Reuters reports](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/)).
+- Japan's April oil imports fell to the lowest level since 1962 as the Iran war disrupted supply, [Reuters reported](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/).
 
-- UAE leads globally in AI talent concentration, growing 121% between 2019-2025, Foreign Minister Abdullah bin Zayed ([highlighted](https://twitter.com/ABZayed)).
+- UAE achieved the world's highest artificial intelligence talent concentration growth at 121% between 2019 and 2025, Sheikh Abdulla bin Zayed noted ([Sheikh Abdulla bin Zayed](https://x.com/ABZayed)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met Chad President at Mina Palace during Hajj, Saudi Press Agency ([reported](https://spa.gov.sa/N2602420)).
-- Prince Khalid bin Salman met UK National Security Adviser Jonathan Powell to discuss bilateral cooperation and regional ([tensions](https://twitter.com/kbsalsaud)).
-- Bahrain leadership congratulated Saudi leadership on successful Hajj season 1447 AH, state media ([confirmed](http://spa.gov.sa/ar/w2602707)).
+- Crown Prince Mohammed bin Salman participated in a phone call with US President and Arab, Islamic leaders to discuss regional developments, Princess Reema announced ([Princess Reema](https://x.com/rbalsaud)).
 
-**UAE**
-- Dubai unveiled Arsenal-themed A380 livery celebrating the club's Premier League title, Emirates ([announced](https://twitter.com/DXBMediaOffice)).
-- UAE leaders congratulated El Salvador President on re-election, WAM ([reported](https://wam.ae/a/b1n6twr)).
+- Saudi Ambassador to Yemen Mohammed Al-Jabir will visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges ([Mohammed AlJabir](https://x.com/mohdsalj)).
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was officially appointed by Emir Tamim, he ([announced](https://twitter.com/MBA_AlThani_)).
-- Qatar denied reports suggesting it offered $12 billion to Iran for a deal, Foreign Ministry spokesman Majed Al Ansari ([clarified](https://twitter.com/majedalansari)).
+- Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani was appointed by the Emir, Al Thani said in his first statement as PM ([PM Al Thani](https://x.com/MBA_AlThani_)).
+
+- Qatar dismissed reports claiming it offered $12 billion to Iran to secure a deal as false, spokesman Majed Al Ansari stated ([Majed Al Ansari](https://x.com/majedalansari)).
 
 **Oman**
-- Sultan Haitham offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, Oman News Agency ([reported](http://n9.cl/adorv)).
-- Foreign Minister Badr Albusaidi held discussions with Iran Deputy FM on regional ([dialogue](https://twitter.com/badralbusaidi)).
+- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar, the Oman News Agency reported ([ONA](http://n9.cl/adorv)).
 
-**Kuwait**
-- Health Ministry urged returning Hajj pilgrims to follow preventive health guidelines, KUNA ([advised](https://kuna.net.kw/ArticleDetails.aspx?id=3305706)).
+- Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister reflecting constructive Oman-Iran dialogue ([Badr Albusaidi](https://x.com/badralbusaidi)).
 
 **Yemen**
-- Southern Transitional Council President Aidarous al-Zubaidi received full support for security operations, STC ([declared](http://stcaden.com/news/10114)).
-- Ahmed Hamid Lamlas was appointed governor of Aden Governorate by the IRG, Saba News Agency ([reported](https://sabanew.net)).
+- IRG Chairman of the Leadership Council called for unity and directing all energies toward restoring state institutions ([Saba News Agency IRG](https://twitter.com/sabanew_)).
+
+- The IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to Saba Net ([Saba News Agency IRG](https://twitter.com/sabanew_)).
 
 **Official Signals**
 
-- Saudi Ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with Omani delegation to consolidate ceasefire and discuss ([dialogue](https://twitter.com/mohdsalj)).
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional challenges ([Prince Khalid bin Salman](https://x.com/kbsalsaud)).
 
-- Houthi spokesman Mohammed Abdulsalam published a four-point agreement text covering banking decisions, Yemenia flights, and future ([meetings](https://twitter.com/abdusalamsalah)).
+- UAE's Tahnoon bin Zayed received US Representative Josh Gottheimer to review UAE-US strategic relations and regional issues ([Tahnoon bin Zayed](https://x.com/hhtbzayed)).
 
 **Coverage Flags**
 
-- Multiple Gulf outlets remain inaccessible due to security verification requirements, affecting real-time coverage from Al Jazeera Arabic, Financial Times, Wall Street Journal, and others.
+- Multiple Gulf outlets, including Financial Times, Wall Street Journal, and Economist Middle East, had security verification pages blocking direct access to content.
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com)
 - [Reuters Gulf](https://www.reuters.com)
-- [Associated Press](https://apnews.com)
+- [AP Gulf](https://apnews.com)
 - [BBC Middle East](https://www.bbc.com)
-- [Google News Gulf Arabic](https://news.google.com)
+- [CNN Arabic](https://arabic.cnn.com)
+- [Saudi Press Agency](https://spa.gov.sa)
+- [Kuwait News Agency](https://kuna.net.kw)
+- [Oman News Agency](http://n9.cl/adorv)
+- [Bahrain MFA](https://bit.ly/4dAMr6j)
