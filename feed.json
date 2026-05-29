@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T19:12:05.437Z",
+  "updated": "2026-05-29T19:16:01.371Z",
   "itemCount": 300,
   "items": [
     {
@@ -74,8 +74,79 @@
       "date": "2026-05-29T18:17:14.287Z"
     },
     {
+      "headline": "From the heart of Riyadh to the lighthouses of Kuala Lumpur... Saudi culture illuminates East Asia",
+      "url": "https://www.okaz.com.sa/culture/culture/2250567",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "من قلب الرياض إلى منارات كوالالمبور .. الثقافة السعودية تُضيء شرق آسيا"
+    },
+    {
+      "headline": "Trump: There is no nuclear weapon, and the final decision comes from the operations room",
+      "url": "https://www.okaz.com.sa/politics/na/2250557",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترمب : لا سلاح نووياً والقرار النهائي من غرفة العمليات"
+    },
+    {
       "headline": "Asharq Al - Awsat Publishes Hamas Letter to Mediators as Cairo Meeting Looms",
       "url": "https://english.aawsat.com/arab-world/5278481-asharq-al-awsat-publishes-hamas-letter-mediators-cairo-meeting-looms",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "The Grand Mufti of the Kingdom congratulates the leadership on the success of the 1447 Hajj season",
+      "url": "https://www.okaz.com.sa/local/saudi-arabia/2250580",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مفتي عام المملكة يهنئ القيادة بمناسبة نجاح موسم الحج 1447"
+    },
+    {
+      "headline": "Chief Scholar of Pakistan: The success of Hajj is amazing... and the Kingdom provides a global model for crowd management",
+      "url": "https://www.okaz.com.sa/local/na/2250579",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رئيس علماء باكستان : نجاح الحج مبهر .. والمملكة تقدم نموذجاً عالمياً لإدارة الحشود"
+    },
+    {
+      "headline": "The final farewell...the most prominent scenes of Ahmed Helmy’s mother’s funeral",
+      "url": "https://www.okaz.com.sa/culture/art/2250570",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الوداع الأخير .. أبرز مشاهد جنازة والدة أحمد حلمي"
+    },
+    {
+      "headline": "UN Places Israel on Sexual Violence Blacklist",
+      "url": "https://english.aawsat.com/world/5278313-un-places-israel-sexual-violence-blacklist",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -182,6 +253,17 @@
     },
     {
       "headline": "After Trump threatened to “blow up” Oman, the US Secretary of State threatens to impose sanctions on Muscat - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wczRsNjBWVlNaTWMyTE04bGUwRlhZb3p0YjVra2lQRFJQLVJJdmZwQVRYeTJOdGhfMEEteWM5UXQzUnpNbEpTUHM1YUpXemNRc0U0NWlnWkpsZmRqMGFhQjN30gFiQVVfeXFMTTBzNGw2MFZWU1pNYzJMTThsZTBGWFlvenRiNWtraVBEUlAtUkl2ZnBBVFh5Mk50aF8wQS15YzlRdDNSek1sSlNQczVhSld6Y1FzRTQ1aWdaSmxmZGowYWFCM3c?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-05-29T17:01:47.000Z",
+      "originalHeadline": "بعد تهديد ترامب \"بنسف\" عُمان، وزير الخارجي�� الأمريكي يهدد بفرض عقوبات على مسقط - BBC"
+    },
+    {
+      "headline": "After Trump threatened to “blow up” Oman, the US Secretary of State threatens to impose sanctions on Muscat - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wVDE4ZGRtbmtPVGd3UnFEejlGbEtBLV90aTBFamxlclVVT3hMcVJla2lWMmFhMERwWUJnd3Q5bnFkcy05OEtFWFVZNENCaTBLLUFldTNTZXpva0ZS0gFiQVVfeXFMTTBzNGw2MFZWU1pNYzJMTThsZTBGWFlvenRiNWtraVBEUlAtUkl2ZnBBVFh5Mk50aF8wQS15YzlRdDNSek1sSlNQczVhSld6Y1FzRTQ1aWdaSmxmZGowYWFCM3c?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -214,16 +296,6 @@
       "date": "2026-05-29T17:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الأمم المتحدة .. إسرائيل استخدمت العنف الجنسي بحق معتقلين فلسطينيين"
-    },
-    {
-      "headline": "UN places Israel and Russia on sexual violence blacklist - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTkxUVZfQW5WRzlpYWxBTXdnVG84b3REbktTUjlrUVVWWklBZGdTRFpfY0xMSXd5amwyaU52WXM2M2FYRF9Tb2d3NS1QNm1CSWFuY0JXYmJVOEM2ODd3aWU4c2FSc2llU2lxeWFhQkFMVGJJWU5KckE3NUVBb1ZLck14bXlyZVZRdzNrV1R5dXh4c3dQSUxNS2dqcDVDMU81dmJPQVhmSkhodmh5RTRHZ1g1azctRGJocnV6cVJmeHYxdEM1?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-29T16:57:14.000Z"
     },
     {
       "headline": "UAE women are at the top of the Gulf and Arab football rankings - France 24",
@@ -311,17 +383,6 @@
       "originalHeadline": "التعاون الإسلامي يشيد بنجاح موسم الحج ويثمن جهود السعودية في خدمة ضيوف الرحمن - اليوم السابع"
     },
     {
-      "headline": "Trump Says Now Making Final Determination on Iran Deal",
-      "url": "https://english.aawsat.com/world/5278459-trump-says-now-making-%E2%80%98final-determination%E2%80%99-iran-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-29T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Hamas Calls Netanyahu Plan to Expand Control in Gaza a Dangerous Escalation",
       "url": "https://english.aawsat.com/arab-world/5278450-hamas-calls-netanyahu%E2%80%99s-plan-expand-control-gaza-dangerous-escalation",
       "source": "Asharq al-Awsat (EN)",
@@ -368,6 +429,17 @@
     {
       "headline": "Israel Plan to Seize More of Gaza Means More Children Will Suffer , Says UN",
       "url": "https://english.aawsat.com/arab-world/5278455-israel-plan-seize-more-gaza-means-%E2%80%98more-children-will-suffer%E2%80%99-says-un",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says Now Making Final Determination on Iran Deal",
+      "url": "https://english.aawsat.com/world/5278459-trump-says-now-making-%E2%80%98final-determination%E2%80%99-iran-deal",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -551,6 +623,16 @@
       "language": "ar",
       "date": "2026-05-29T14:48:03.000Z",
       "originalHeadline": "بعد توقف مباراة أيرلندا وقطر.. احتجاجات فلسطين تشعل الضغوط الرياضية لعزل إسرائيل رياضيا - الجزيرة نت"
+    },
+    {
+      "headline": "UN places Israel and Russia on sexual violence blacklist - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTkxUVZfQW5WRzlpYWxBTXdnVG84b3REbktTUjlrUVVWWklBZGdTRFpfY0xMSXd5amwyaU52WXM2M2FYRF9Tb2d3NS1QNm1CSWFuY0JXYmJVOEM2ODd3aWU4c2FSc2llU2lxeWFhQkFMVGJJWU5KckE3NUVBb1ZLck14bXlyZVZRdzNrV1R5dXh4c3dQSUxNS2dqcDVDMU81dmJPQVhmSkhodmh5RTRHZ1g1azctRGJocnV6cVJmeHYxdEM1?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-29T14:47:11.000Z"
     },
     {
       "headline": "Araqji: We stand in solidarity with the Sultanate of Oman in the face of any threat - Al-Ahram Gate",
@@ -1401,7 +1483,7 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? -DW.com",
+      "headline": "Trump threatens to “blow up” his life Sultanate of Oman - What is behind the mound? -DW.com",
       "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ3dkpXMU0tdlVobGo4SW05M0x1azZsQ0xOYk5LUmZvYldIUzBVbDNST05rV0RLMW4xdEVzbGpOYlloZkZJc1dGNU5Ua2JjOXVzRFZKY2t6RnpOQUxLZkxfZ0Z6VXR3VTZoS0tmQTFjblhrbXZlMEVCOVFlSTdoWXRrdnBuUmYwOFRSOEp0ajBsVGpDblY2Skp4Nlo0ckd5ZUJfRzNCTjVwdEp4OU9kR0FMMk1UWFpldU5qcXNtb3BuSGVvQ09URHFTaXF2YW1lLWE3NWtrSV9wb3BUVVg3NmFZWFB1MUt4cnZZVmlvX0haTEJfSk5qZU9Qa2x5b0pLSEhKZDY3VGRDNHFmQXk2YVNuSVh1X2tmWmN5bGFUSEMwZEVGZUlUcEdITmxhaTl1QlRrV2hEX0UyZndJUUZtZlU3dGlsUUM40gGrA0FVX3lxTFBRQ2dxazJ6bFFneC1Jd2lTQnVHUlMtbHBLdjdPOUZmOS1MdU9na0x6eUNfTlB4RE5JSGl4RWJWcEYwLUtueUpFdHBKOFJULXNTMHB0U1VqT0F6SV9TQ0w5VTJwdWZWSGcyX3BEV1AwZFJLZGhwVFlCUmJGX2ZMRjZTQ0RSWHhJaUhFQnl4VDR1bXZudHRaa2dIWk0xNlBjSXBBS2ZxeU05WjBmZTZxZC0xWkhhUU5OaDFySUNLbVZVc2FyclQzUDdEYmtHOHlqSmpPN1N4ckRKZmNTLTR6ZkJwV1UzTHFuZUdORnUwaXBtSU5SX1doWllWbDlBZ2xhdk1JenJQd3h3cFFvd2RZV1U2MHVsTEY0QWRyNEU2ck1UeDRfNVhEQ0ZMU0JYWF9VRl9fVGpaZFplTW5ia3pVc1ZTaFVtTjN1dnZsXzExQzRZNnBzUTNkNk56NVN2dG1teWlVZWNwcDVwYmYwcm9Vcmcwd2dncWNmd2lfb2lMYU9CeWpVOVZOTllGYWZ6RmJiVXlUVmJTdVVROHZvOTh4dHJpUktxQkpPSEpMaG8?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1409,7 +1491,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-29T11:26:11.000Z",
-      "originalHeadline": "ترامب يهدد بـ\"نسف\" حليفته سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
+      "originalHeadline": "ترامب يهدد بـ\"نسف\" ح��يفته سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
     },
     {
       "headline": "5.0-magnitude quake hits China's Xinjiang",
@@ -3131,83 +3213,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-05-29T01:09:34.000Z"
-    },
-    {
-      "headline": "“Londonistan” and Hakim Al-Maarra",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5278262-%D9%84%D9%86%D8%AF%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%91%D8%A9",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-29T01:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "« لندنستان » وحكيم المعرّة"
-    },
-    {
-      "headline": "What remains for Iran after targeting the neighborhood?",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5278257-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%A8%D9%82%D9%89-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1%D8%9F",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-29T01:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ماذا يبقى لإيران بعد استهداف الجوار ؟"
-    },
-    {
-      "headline": "Iran...the truce does not end wars",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5278258-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D8%AF%D9%86%D8%A9-%D9%84%D8%A7-%D8%AA%D9%8F%D9%86%D9%87%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D8%A8",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-29T01:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إيران ... الهدنة لا تُنهي الحروب"
-    },
-    {
-      "headline": "Gold in Saudi Arabia maintains calm as seasonal demand continues - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQbE9lajJKbGVLSDBpeEJadnd2R0lfOGZOb3Z0VUxXbzlCbDFpb3c2RnR6dW1YeFJFVUhVOWJ5VjVJZEhrT3RlQW5xQXRjOC05UnJqVkZlcE5tQ1hZTzhkdlNmOWdrZFJzOERNcnhYSjQxMjBPX29KR1ExcG1TZl9odTdmRU5JX1dJYWZidC0xaVFPZXdFVFRtSjdtVG94VWhxTkpRb3M0RUxwS1A1NmRlSmhjQmxyQlhUeXhMY205NTgzTlJiMVdjSGpiZUM4ZWJ3Y25IM3J1eUxTS2ZENlRoN2pOVVRYRnd6SjZMM3ZFTWZkWlRCSW9vSDdMUUxCb0NiRmJwSGVPY2Nwa0tQb2YzWVhxUHNLTTJKU19JU2lkS3VQYU1NdlhsU1QtNW1TVTFpRXJIV01TVHpjOEVBeTVWMXA3dV9LMEJJSmo3X0Z6dERRaHdvazlnZEVpV25XNWRrMlphb3hMOHhnY3Z1NmpaSEJNZFp0aklPc2JjVGduRjB5QVZkNEljX1dlU0RnTFR4U25yS2pwOTEzX1lMazlHRmlyVm9sZUYtWFlGLW1TaEROaXBrUEFXa2llMFNVSHhOTWtLMzh1ZmZXNjI4WFhhTWgxQ21nOVg4NGNWSWpDV21xbGt0T1p2bEt6SUVYMktuLS1zNTRWSVlpWktRZVHSAfgDQVVfeXFMTjlRQzBMQ1gxdnZ3LUV4VDJVZ3N0dmpuTm9RMHdKX2Z4Skp0WGZNcUtJWl9jbTAxRDBjYVoxUVF6cVhtclZ3RXUyR3lqRW15X3pUMDQ4QW9ZTUJCVG8yeThTUjJ1YU1FQ2pMc2dFTTdpV3Z3dThkUGhYWnhCVU12Z2l3X25CSFowYi00NzR1MzJYcTJ1dkVnM1Aydkl5Ung0SFZ5R1ppMFFRLURoZ2dPWmlDdS1uUnFDTHZRMV8tWDNYQ3VIOG5ONXZtaEFOY1M4ZVE0VHdXdGY2ZVpZUmhjRURFaEFSbXNibnZ5WXc1eWJOam84WG5CWXR1TXN1X3YzTGUzSkZHVXcxYy16TkxUOXgyYldLTXdMTTZoMmdNcEc1TlJvOExUcS1CVVpTQUF6cXhoMDZTOVJzWjZ1bTlQVXZ1WHoyZUp1WHkxMnpPTF85aEFjQUo2cENtbkJMeXpxSVBOM2NTX3VHU0tpMjA1MkZ5WWZ1SGFmbVFVRVZGT3Z5SVJleFgwMXpjSXU2OGJlWGpKLU8weTExUXVjellIT1BNak56S0ZaVTUyMm5VeDhueVJpSEltUDU5bkJRVUJ5ZG5QZ25IRUFxQ0hIcERncWZtQ1VndlFVZS1IdnJELW9oU09HZEFUM1lhb2c4allwbzFqYTJhczNt?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-29T01:00:00.000Z",
-      "originalHeadline": "الذهب فى السعودية يحافظ على هدوئه مع استمرار الإقبال الموسمى - اليوم السابع"
-    },
-    {
-      "headline": "Yemen: Saudi Arabia's Latest Support Reflects Its Pivotal Role in Yemeni Security, Stability",
-      "url": "https://www.spa.gov.sa/en/N2602489?type=news&uuid=N2602489",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-29T00:57:00.000Z"
-    },
-    {
-      "headline": "Man stabs 3 people at Swiss train station in what authorities call an ‘act of terror’ - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjdENTNLU2ZNVkVxNjJJbzVEb0JJcW5OY3F2TVdYVWp1VVdYcENaNnh6NGF2VWFjbDBJU0I5ZzJubVBMdDNzWGs4X3JBdGJfTWZWVDVwbzVoRGk0ZnFfbTlEbzBwenlsMFFZdjZ6dC1LeW5iWkVLdndKV3JFQW1DWWlXUE1ncWRaVi1CRmxxb29rOEpEWVdYNkYxWkJUWjV6NzZhSmcteFQ4aU0?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-29T00:55:00.000Z"
-    },
-    {
-      "headline": "Interior Minister Receives Jordanian Counterpart",
-      "url": "https://www.spa.gov.sa/en/N2602472?type=news&uuid=N2602472",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-05-29T00:17:32.000Z"
     }
   ]
 }
