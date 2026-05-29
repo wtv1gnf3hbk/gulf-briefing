@@ -4,18 +4,38 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-05-29T16:08:17.086Z",
-    "generatedTimestamp": 1780070897086
+    "generated": "2026-05-29T17:09:50.570Z",
+    "generatedTimestamp": 1780074590570
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
     "totalStories": 50,
     "totalScreenshots": 66,
-    "elapsed": "462.0s"
+    "elapsed": "516.6s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Oman and Iran reaffirm commitment to Strait of Hormuz security",
+        "url": "https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Fri, 29 May 2026 20:11:12 +0400",
+        "description": "Muscat: Sayyid Badr bin Hamad Al Busaidi, Foreign Minister and his Iranian counterpart reaffirmed their commitment to ensuring the security and freedom of..."
+      },
+      {
+        "headline": "Iran war: US to lift naval blockade of ports, Trump says",
+        "url": "https://timesofoman.com//article/172357-iran-war-us-to-lift-naval-blockade-of-ports-trump-says",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Fri, 29 May 2026 20:07:23 +0400",
+        "description": "Trump lays out demands for deal, says US naval blockade will now be liftedIn his latest post on the Truth Social platform, US President Donald Trump laid..."
+      },
       {
         "headline": "Pilgrims of the military Hajj mission complete the Hajj rituals for the year 1447 AH",
         "url": "https://timesofoman.com//article/172356-pilgrims-of-the-military-hajj-mission-complete-the-hajj-rituals-for-the-year-1447-ah",
@@ -97,26 +117,6 @@
         "description": "Muscat: The Sultanate of Oman is experiencing a significant surge in summer temperatures, with the weather monitoring stations recording exceptionally high..."
       },
       {
-        "headline": "Defending champions Argentina name FIFA World Cup squad; Messi set for sixth appearance",
-        "url": "https://timesofoman.com//article/172347-defending-champions-argentina-name-fifa-world-cup-squad-messi-set-for-sixth-appearance",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Fri, 29 May 2026 08:06:30 +0400",
-        "description": "Buenos Aires: Argentina head coach Lionel Scaloni announced the 26-member squad of the defending champions for the upcoming FIFA World Cup 2026, scheduled..."
-      },
-      {
-        "headline": "India poised for critical mineral breakthrough within a year, says Minister G Kishan Reddy",
-        "url": "https://timesofoman.com//article/172346-india-poised-for-critical-mineral-breakthrough-within-a-year-says-minister-g-kishan-reddy",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Fri, 29 May 2026 06:50:36 +0400",
-        "description": "New Delhi: Union Minister for Coal and Mines, G Kishan Reddy, on Thursday announced that India is on the cusp of achieving significant milestones in the..."
-      },
-      {
         "headline": "Saudi Arabia may lower July oil prices to Asia as demand weakens - Reuters",
         "url": "https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/",
         "source": "Reuters Gulf",
@@ -187,16 +187,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWtjaHhoRWtVcHE0YkgxRXRJSVo3N25NRDFxa3JqbTl1RFJCZ3VHM1RLVVZ2NUZGeFhwMVByRUVnbzJxZ0VJUWFHSThsT0lTcTVLQ0FEaE0wVDRFV3lTbUNVakl4MHhjWm1pUnp"
       },
       {
-        "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
-        "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 28 May 2026 20:04:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
-      },
-      {
         "headline": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent - Reuters",
         "url": "https://www.reuters.com/world/middle-east/netanyahu-directs-israeli-forces-expand-gaza-control-70-percent-2026-05-28/",
         "source": "Reuters Gulf",
@@ -207,14 +197,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXh1UU1WMjh1NkpKSFhWOGtxSDBOZGFwU21rX1dMVmNFcTk0SjF6Sm8tQWlpcDV1aFBuekNRR3lvS2lEQjJWYS1MVlV0UU5vYVkxNkhGeGp3b2dtaVZhU283dmhMTnRBU3pvbk4"
       },
       {
-        "headline": "US and Iran trade attacks as sources report tentative agreement to extend ceasefire - as it happened - Reuters",
-        "url": "https://www.reuters.com/world/iran-war-live-us-launches-more-strikes-kuwait-reports-new-attacks-2026-05-28/",
+        "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
+        "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 28 May 2026 21:12:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE1mdUp5R3VsSXY4cGJOS1BYY190QjBsRVR4SmF1aWc0OERCNHhQRHVSRXpGb1RhM1h0TmdEbzdGbWVvVWlKd3ExNUxKaHVpWDM2RmVhVW9oXzVIR1gxZ09aNXIySC1GSmRjOTV"
+        "date": "Thu, 28 May 2026 20:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
+      },
+      {
+        "headline": "Trump to decide imminently on Iran deal, says Hormuz Strait must open - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-calls-actions-not-words-after-us-officials-say-peace-deal-is-near-2026-05-29/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 15:59:17 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUd"
       },
       {
         "headline": "Former Yemen President Abdrabbuh Mansour Hadi, who governed mostly from exile, dies at 80 - AP News",
@@ -225,6 +225,16 @@
         "priority": "primary",
         "date": "Fri, 29 May 2026 06:00:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGVGeWlqOEp4VlpJd0JvRW5IaDF0Wm9HV3F6blR0RXRLTzdzM0wxNDU4bF9nd0pYQ1BJWFduLUpPY0R5bUxPSE5feWVjMF9sOGdHdTBTbjIwbmRXTzlqOG0xcDVZbnZxR1M4MHB"
+      },
+      {
+        "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
+        "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 06:31:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
       },
       {
         "headline": "NASCAR suspends 23XI Racing account manager accused of assaulting 77-year-old man with a golf cart - AP News",
@@ -267,14 +277,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDR3Vm1XdERYTEMzN1BYbHgxQ3dfdFl0WmR0RjF3ZWkwSEtJaF8xRWVsZUNNSnBvVjdxRG81LTFmbzEyUkhXNlg0aW9HeWdoRWtBS2IyNWVrTUxaeWdJMEpsX2NOME1idV95UW1"
       },
       {
-        "headline": "A warmer world creates bigger and more damaging hailstones, study says - AP News",
-        "url": "https://apnews.com/article/hail-climate-change-damage-storms-warming-8573b10ae336f3705865466e5bc986ef",
+        "headline": "New Zealand World Cup player finds social media fame after being touted by soccer influencer - AP News",
+        "url": "https://apnews.com/article/new-zealand-world-cup-payne-social-media-b4ec821a8b02d90ead4b7a600b88f3ee",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 07:10:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDl1eV9lNF84QVRLS0duYVcta1J3MmFjVE4zLWhJMzF5ampyRkhhdkFpX2NlMGpKZk43aVZOWlViVU1KZUVnZWxlUlZ2bWhLWUktcDJLRnU0dm1CVEVyaTRnZzFoYkxKV3ByOXB"
+        "date": "Fri, 29 May 2026 07:07:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONURBRFJ1T0U0VjZIV1pzTzRoRURyQTI1WkpHUlZvdWx3RkxaNzVkSXU1eHpCRFRwRmRLRmQ3eDI1N1RhYXBlbXpWLWpqR2ljb3ZTNmxBMTZaUVp0ek1rQk55THNDbFAtUldBcWV"
       },
       {
         "headline": "Texas board faults Camp Mystic leader for inaction during deadly flood - AP News",
@@ -287,26 +297,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW9zV0xyaGw3dHdKcDR6aFB6QkxBWlBpbzBRbXZ0NFUwb2FzU1BmVlBDYzlZbll1cDZLZkgxNVpTbWdTa2NPTHJPLU13UnJVNlQ4SmhzYlFJeUVDNExZNlpmSkRuWFdxcmJoSHR"
       },
       {
-        "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
-        "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 29 May 2026 06:31:39 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
-      },
-      {
-        "headline": "Don Lemon seeks grand jury transcripts in Minnesota civil rights case, citing misconduct - AP News",
-        "url": "https://apnews.com/article/don-lemon-trump-immigration-ice-church-88673f61f72f69eba2d0bb17f73e6c3f",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 28 May 2026 16:09:59 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFZWTTBXSGctZnJZOFJ6QlNfazVIamFWUUZXcEdCaTRYWXpOMjJidnB1TXJDR09vQTJMTjNCUkFZTXFuTGgtVmhfQzQzWjJrQ2d6bWxhWDAxa0dkN3Y2cVI4Z2dONmZTSTh1MHZ"
-      },
-      {
         "headline": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks - AP News",
         "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29",
         "source": "AP Gulf",
@@ -315,6 +305,16 @@
         "priority": "primary",
         "date": "Fri, 29 May 2026 11:58:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzh"
+      },
+      {
+        "headline": "Heat wave raises temperatures at the French Open, in photos - AP News",
+        "url": "https://apnews.com/photo-gallery/heat-wave-raises-temperatures-french-open-photos-36e4d3786dad4225b655163d8a8c6462",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 02:28:20 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFJKeVdWNHZlcjZBcGI1S2ozTXdnVGhhcGJaUnp1OWg2WVE4dTMwOU9CUDQ0cmxXZFg0TDNwRzN4T1FLZ0thd2JBdXNlZVFJa2ZhLUlCRTlKQ2RiTm54cjZuWmJLd1laTGNlbXF"
       },
       {
         "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
@@ -417,26 +417,15 @@
         "description": "Internet access has been cut off in the country since the start of the war in late February."
       },
       {
-        "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? -DW.com",
-        "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D9%80%D9%86%D8%B3%D9%81-%D8%AD%D9%84%D9%8A%D9%81%D8%AA%D9%87-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A9/a-77337688",
+        "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ3dkpXMU0tdlVobGo4SW05M0x1azZsQ0xOYk5LUmZvYldIUzBVbDNST05rV0RLMW4xdEVzbGpOYlloZkZJc1dGNU5Ua2JjOXVzRFZKY2t6RnpOQUxLZkxfZ0Z6VXR3VTZoS0tmQTFjblhrbXZlMEVCOVFlSTdoWXRrdnBuUmYwOFRSOEp0ajBsVGpDblY2Skp4Nlo0ckd5ZUJfRzNCTjVwdEp4OU9kR0FMMk1UWFpldU5qcXNtb3BuSGVvQ09URHFTaXF2YW1lLWE3NWtrSV9wb3BUVVg3NmFZWFB1MUt4cnZZVmlvX0haTEJfSk5qZU9Qa2x5b0pLSEhKZDY3VGRDNHFmQXk2YVNuSVh1X2tmWmN5bGFUSEMwZEVGZUlUcEdITmxhaTl1QlRrV2hEX0UyZndJUUZtZlU3dGlsUUM40gGrA0FVX3lxTFBRQ2dxazJ6bFFneC1Jd2lTQnVHUlMtbHBLdjdPOUZmOS1MdU9na0x6eUNfTlB4RE5JSGl4RWJWcEYwLUtueUpFdHBKOFJULXNTMHB0U1VqT0F6SV9TQ0w5VTJwdWZWSGcyX3BEV1AwZFJLZGhwVFlCUmJGX2ZMRjZTQ0RSWHhJaUhFQnl4VDR1bXZudHRaa2dIWk0xNlBjSXBBS2ZxeU05WjBmZTZxZC0xWkhhUU5OaDFySUNLbVZVc2FyclQzUDdEYmtHOHlqSmpPN1N4ckRKZmNTLTR6ZkJwV1UzTHFuZUdORnUwaXBtSU5SX1doWllWbDlBZ2xhdk1JenJQd3h3cFFvd2RZV1U2MHVsTEY0QWRyNEU2ck1UeDRfNVhEQ0ZMU0JYWF9VRl9fVGpaZFplTW5ia3pVc1ZTaFVtTjN1dnZsXzExQzRZNnBzUTNkNk56NVN2dG1teWlVZWNwcDVwYmYwcm9Vcmcwd2dncWNmd2lfb2lMYU9CeWpVOVZOTllGYWZ6RmJiVXlUVmJTdVVROHZvOTh4dHJpUktxQkpPSEpMaG8?oc=5",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 11:26:11 GMT",
+        "date": "Fri, 29 May 2026 08:25:53 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ",
-        "originalHeadline": "ترامب يهدد بـ\"نسف\" حليف��ه سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
-      },
-      {
-        "headline": "Saudi Arabia announces the success of this year’s Hajj, and the pilgrims continue to perform the rituals - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/news/2026/5/29/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AD%D8%AC-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Fri, 29 May 2026 15:18:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPLVk0TEd2cFo5ZnNWdzVqNHpoVmczTWZoQkJOQzJFWmFJeU5WbXNOd0tGeklCV3ZPSE9ybXNlU253MWc0TlNIU1ItYU1lVnE1SlNfQm5CelpWamx6c0M5NVFUSWp0U2NsSjBBaXd",
-        "originalHeadline": "السعودية تعلن نجاح حج هذا العام والحجاج يواصلون أداء الشعائر - الجزيرة نت"
+        "originalHeadline": "ترامب يهدد بـ\"نسف\" حليفته سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
       },
       {
         "headline": "After Trump's threat...the first contact between the foreign ministers of Iran and the Sultanate of Oman - CNN Arabic",
@@ -450,15 +439,48 @@
         "originalHeadline": "بعد تهديد ترامب..أول اتصال بين وزيري خارجية إيران وسلطنة عُمان - CNN Arabic"
       },
       {
-        "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
-        "url": "https://www.alarabiya.net/amp/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
+        "headline": "UAE women are at the top of the Gulf and Arab football rankings - France 24",
+        "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 11:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxPSzVFN2hfeTF2YVNEU1Q0S2NVZnFmdzdDVTVnQUwxNkp5YlhyaElCV0F3azBhVlVySjl3ZnJGU25UNlRoREo5Qk1maFF1TWRWWGpGWnRDYmRXSzJEVEpZX2RSRlBibE9MdGNzQmh",
-        "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
+        "date": "Fri, 29 May 2026 16:47:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxPczN4MzBTLXBwMWJBbUN6VFVSYkVLd1JHdFZuRU1URnZnSTFDdmNrZUJpMElBVkF5WlBjd19GZ3d0blgzcl9FUVJYY2ZicE03V0hQLVdfZDM3b2dLZ0xjdHQ5Ykk1MHZLclBFUmx",
+        "originalHeadline": "سيدات الإمارات في صدارة التصنيف الخليجي والعربي لكرة القدم - France 24"
+      },
+      {
+        "headline": "Egypt condemns in the strongest terms the attacks on Kuwait and affirms its full solidarity with them - Al-Ahram Gate",
+        "url": "https://gate.ahram.org.eg/Massai/News/5663526.aspx",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 14:34:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xbjlxbG5Nc1hfM185aHRHcTVYNVBJSVlMRFU2dnRjdUNPVFYwNTlJaU5TdS0xdGxoRlk2cVlQUFNwYWdKSDNtejd6TkVTbG0wSHFyaXc0anltcnQ4NHA4?oc=5\" target=\"_bla",
+        "originalHeadline": "مصر تدين بأشد العبارات الهجمات على الكويت وتؤكد تضامنها الكامل معها - بوابة الأهرام"
+      },
+      {
+        "headline": "Trump, in a call with the Emir of Qatar, praises Doha's role in advancing the paths of calm - Al Jazeera Net",
+        "url": "https://www.aljazeera.net/news/2026/5/28/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D9%8A%D8%B1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D9%85%D8%A8",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 09:22:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxOc004LVhXdFVodEJNY29IXzRWWkdaSEcxOEFCbUg0dFMyY3NkdGlobGlkVnpqMFVzd3lRSE16ekR6V25QTDZqYk1oTWZ1OVA2eXlDM0FrTEpReDBFSXQ2QkxSYVRLUFZyYWVTUzJ",
+        "originalHeadline": "ترمب يشيد في اتصال مع أمير قطر بدور الدوحة في دفع مسارات التهدئة - الجزيرة نت"
+      },
+      {
+        "headline": "The average price of Oman oil declines by 2.61% in futures contracts for July delivery - Mubasher Info",
+        "url": "https://www.mubasher.info/news/4619398/%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%B9%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-2-61-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%8A%D9%88%D9%84%D9%8A%D9%88/",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Fri, 29 May 2026 14:30:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixANBVV95cUxNWFdHY2llRjQ5ZlF2aGtNQWJFOFhLUnktcmc4VGl5XzB6SW05OTkyMHQzd3ViVlV6ZjhZVnlXbzRFUkJDeDJyZEpRMWVBRjQxU05ZcWhLczk2Nnl3U3cydUtfeEN4ZXF0X2lKWlB",
+        "originalHeadline": "متوسط سعر نفط عُمان يتراجع 2.61% بالعقود الآجلة تسليم يوليو - معلومات مباشر"
       },
       {
         "headline": "Former Yemeni Ambassador: The war is redrawing the geopolitical map in the region - Youm7",
@@ -472,63 +494,61 @@
         "originalHeadline": "سفير اليمن السابق: الحرب تعيد رسم الخارطة الجيوسياسية بالمنطقة - اليوم السابع"
       },
       {
-        "headline": "Araqji: We stand in solidarity with the Sultanate of Oman in the face of any threat - Al-Ahram Gate",
-        "url": "https://gate.ahram.org.eg/News/5663574.aspx",
+        "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
+        "url": "https://www.alarabiya.net/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 14:47:00 GMT",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CVXhGVkYxdko2TDhaaFBiblZxLTQ2bFhvMTdJT01lRlRfZGN1akRCWG5jclRWSGlRemFFN19vWWVHLThRRENMckFQQzJucHdva2xmNVNn?oc=5\" target=\"_blank\">عراقج",
-        "originalHeadline": "عراقجي: نتضامن مع سلطنة عمان في مواجهة أي تهديد - بوابة الأهرام"
+        "date": "Fri, 29 May 2026 11:30:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxObS1ETWUtMnZTVEY2RFQ2bjlDSzJlNGJmdHdab1psMkFNREYtajl6VkxTeUtIOWxBdVBtc3dQV1k5VncwLXV4aTlDdFBYNHVTcTdNNzRydUZ2QVpFNUZjZTRBTEE4eERKTXNCVnR",
+        "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
       },
       {
-        "headline": "A phone call between the Foreign Minister and his Kuwaiti counterpart to confirm Egypt’s solidarity with the sisterly State of Kuwait - mfa.gov.eg",
-        "url": "https://www.mfa.gov.eg/ar/Ministers/Details/MinisterActivities/5408",
+        "headline": "“Seven Dogs” launches in Saudi and Arab cinemas - the Middle East",
+        "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5277892-%D8%B3%D9%81%D9%86-%D8%AF%D9%88%D8%AC%D8%B2-%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 04:34:26 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ZzNnSUQyUTE3U0M3TnR2enhDck1kNGdXc0pnc05naGRyMzc0a1ctb01QOXlYZzRmNTlTMlhRZXBnQjFnVWlYU3FNeUQyUjlCUW41TWVIVEQtQWRtMjRvOU1GYTZvRmU0UTNKM1V",
-        "originalHeadline": "اتصال هاتفي بين ��زير الخارجية ونظيره الكويتي للتأكيد على تضامن مصر مع دولة الكويت الشقيقة - mfa.gov.eg"
+        "date": "Fri, 29 May 2026 14:12:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxOb0ZkMVdOZGFUSjFLdGxiU0dqZEl3NGVEN1dsVW56SjM3UjJPTkN2QWVIMEh1ajcteGdSWmZ5N3gwWkxpTlRBTDJmRGFmc2U3S3NudUlIZVpiZUlpYlkzbEVWTVI5Y2JOMVE5TzV",
+        "originalHeadline": "«سفن دوجز» ينطلق في دور السينما السعودية والعربية - الشرق الأوسط"
       },
       {
-        "headline": "Oman oil losses exceed $6 per barrel in futures contracts - Mubasher Info",
-        "url": "https://www.mubasher.info/news/4619395/%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%806-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9/",
+        "headline": "A second Iranian response to the threat to Oman by the US Secretary of the Treasury - CNN Arabic",
+        "url": "https://arabic.cnn.com/middle-east/article/2026/05/29/iran-respond-viral-oman-threatening-treasury-us-hormuz",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 14:07:48 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxQSU9ZNzdpWXlYYU40MU9qMkJOR1piN3dfby1rZzRDSm4tbDl4WC1WaXp0aV83eThsd3EzRnVuVmtWN2Q0bk5TaE5jVEVWOEpqNnJEVXBqam5kTm9zX2pTUnd2b2pmVFZXRzNjcFV",
-        "originalHeadline": "خسائر نفط عُمان تفوق الـ6 دولارات للبرميل بالعقود الآجلة - معلومات مباشر"
-      },
-      {
-        "headline": "Baghdad condemns missile attacks targeting Kuwait - Asharq Al-Awsat",
-        "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5278446-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Fri, 29 May 2026 14:53:44 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxPZ2VQTU1yQnU3Q1pIeUVSX0t0SFBTMUFuaFdZbTZRczM2c0EwMmdqRm12d2JKWFd5QW9HRVMyNWYtaDNIYkVfMEtiNHF2T05CVGxxTG1rYkhsQUFQdmtVT1pOOUJRSlZOZTFRWkZ",
-        "originalHeadline": "بغداد تدين هجمات صاروخية استهدفت الكويت - الشرق الأوسط"
-      },
-      {
-        "headline": "After the Ireland-Qatar match was stopped... Palestine protests ignite sporting pressures to isolate Israel athletically - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/amp/sport/2026/5/29/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Fri, 29 May 2026 14:48:03 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGszS2xIb1RleEo5dFhzaVJIT1VSNVctb2NiaVc1SUdXWDliOFZUVTk3TDJWRVQtNzJvRjhicVo5NnRJVlpHUGtkTVJfR1V4UWFKODJlZzFsSUM2VTRjSUhpeU5sdzBZOWZMQUJ",
-        "originalHeadline": "بعد توقف مباراة أيرلندا وقطر.. احتجاجات فلسطين تشعل الضغوط الرياضية لعزل إسرائيل رياضيا - الجزيرة نت"
+        "date": "Fri, 29 May 2026 04:43:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1p2c1VHMnY1MnRzMkJHZXRYWTlob3JaRzJpZ1M0OXJhOTNZY2k5TGFXSUFiX19xV25ydE1iUE1tQW53SzN1UXFMYjUxUFRHNEwyajRTWWMzcW5JTWhDNEx2QXFaRlZ3dThJYjF",
+        "originalHeadline": "رد إيراني ثان على تهديد عُمان بلسان وزير الخزانة الأمريكي - CNN Arabic"
       }
     ],
     "byCategory": {
       "oman": [
+        {
+          "headline": "Oman and Iran reaffirm commitment to Strait of Hormuz security",
+          "url": "https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Fri, 29 May 2026 20:11:12 +0400",
+          "description": "Muscat: Sayyid Badr bin Hamad Al Busaidi, Foreign Minister and his Iranian counterpart reaffirmed their commitment to ensuring the security and freedom of..."
+        },
+        {
+          "headline": "Iran war: US to lift naval blockade of ports, Trump says",
+          "url": "https://timesofoman.com//article/172357-iran-war-us-to-lift-naval-blockade-of-ports-trump-says",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Fri, 29 May 2026 20:07:23 +0400",
+          "description": "Trump lays out demands for deal, says US naval blockade will now be liftedIn his latest post on the Truth Social platform, US President Donald Trump laid..."
+        },
         {
           "headline": "Pilgrims of the military Hajj mission complete the Hajj rituals for the year 1447 AH",
           "url": "https://timesofoman.com//article/172356-pilgrims-of-the-military-hajj-mission-complete-the-hajj-rituals-for-the-year-1447-ah",
@@ -608,26 +628,6 @@
           "priority": "secondary",
           "date": "Fri, 29 May 2026 10:04:54 +0400",
           "description": "Muscat: The Sultanate of Oman is experiencing a significant surge in summer temperatures, with the weather monitoring stations recording exceptionally high..."
-        },
-        {
-          "headline": "Defending champions Argentina name FIFA World Cup squad; Messi set for sixth appearance",
-          "url": "https://timesofoman.com//article/172347-defending-champions-argentina-name-fifa-world-cup-squad-messi-set-for-sixth-appearance",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Fri, 29 May 2026 08:06:30 +0400",
-          "description": "Buenos Aires: Argentina head coach Lionel Scaloni announced the 26-member squad of the defending champions for the upcoming FIFA World Cup 2026, scheduled..."
-        },
-        {
-          "headline": "India poised for critical mineral breakthrough within a year, says Minister G Kishan Reddy",
-          "url": "https://timesofoman.com//article/172346-india-poised-for-critical-mineral-breakthrough-within-a-year-says-minister-g-kishan-reddy",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Fri, 29 May 2026 06:50:36 +0400",
-          "description": "New Delhi: Union Minister for Coal and Mines, G Kishan Reddy, on Thursday announced that India is on the cusp of achieving significant milestones in the..."
         }
       ],
       "wire": [
@@ -702,16 +702,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWtjaHhoRWtVcHE0YkgxRXRJSVo3N25NRDFxa3JqbTl1RFJCZ3VHM1RLVVZ2NUZGeFhwMVByRUVnbzJxZ0VJUWFHSThsT0lTcTVLQ0FEaE0wVDRFV3lTbUNVakl4MHhjWm1pUnp"
         },
         {
-          "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
-          "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 28 May 2026 20:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
-        },
-        {
           "headline": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent - Reuters",
           "url": "https://www.reuters.com/world/middle-east/netanyahu-directs-israeli-forces-expand-gaza-control-70-percent-2026-05-28/",
           "source": "Reuters Gulf",
@@ -722,14 +712,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXh1UU1WMjh1NkpKSFhWOGtxSDBOZGFwU21rX1dMVmNFcTk0SjF6Sm8tQWlpcDV1aFBuekNRR3lvS2lEQjJWYS1MVlV0UU5vYVkxNkhGeGp3b2dtaVZhU283dmhMTnRBU3pvbk4"
         },
         {
-          "headline": "US and Iran trade attacks as sources report tentative agreement to extend ceasefire - as it happened - Reuters",
-          "url": "https://www.reuters.com/world/iran-war-live-us-launches-more-strikes-kuwait-reports-new-attacks-2026-05-28/",
+          "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
+          "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 28 May 2026 21:12:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE1mdUp5R3VsSXY4cGJOS1BYY190QjBsRVR4SmF1aWc0OERCNHhQRHVSRXpGb1RhM1h0TmdEbzdGbWVvVWlKd3ExNUxKaHVpWDM2RmVhVW9oXzVIR1gxZ09aNXIySC1GSmRjOTV"
+          "date": "Thu, 28 May 2026 20:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
+        },
+        {
+          "headline": "Trump to decide imminently on Iran deal, says Hormuz Strait must open - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-calls-actions-not-words-after-us-officials-say-peace-deal-is-near-2026-05-29/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 15:59:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUd"
         },
         {
           "headline": "Former Yemen President Abdrabbuh Mansour Hadi, who governed mostly from exile, dies at 80 - AP News",
@@ -740,6 +740,16 @@
           "priority": "primary",
           "date": "Fri, 29 May 2026 06:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGVGeWlqOEp4VlpJd0JvRW5IaDF0Wm9HV3F6blR0RXRLTzdzM0wxNDU4bF9nd0pYQ1BJWFduLUpPY0R5bUxPSE5feWVjMF9sOGdHdTBTbjIwbmRXTzlqOG0xcDVZbnZxR1M4MHB"
+        },
+        {
+          "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
+          "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 06:31:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
         },
         {
           "headline": "NASCAR suspends 23XI Racing account manager accused of assaulting 77-year-old man with a golf cart - AP News",
@@ -782,14 +792,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDR3Vm1XdERYTEMzN1BYbHgxQ3dfdFl0WmR0RjF3ZWkwSEtJaF8xRWVsZUNNSnBvVjdxRG81LTFmbzEyUkhXNlg0aW9HeWdoRWtBS2IyNWVrTUxaeWdJMEpsX2NOME1idV95UW1"
         },
         {
-          "headline": "A warmer world creates bigger and more damaging hailstones, study says - AP News",
-          "url": "https://apnews.com/article/hail-climate-change-damage-storms-warming-8573b10ae336f3705865466e5bc986ef",
+          "headline": "New Zealand World Cup player finds social media fame after being touted by soccer influencer - AP News",
+          "url": "https://apnews.com/article/new-zealand-world-cup-payne-social-media-b4ec821a8b02d90ead4b7a600b88f3ee",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 07:10:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDl1eV9lNF84QVRLS0duYVcta1J3MmFjVE4zLWhJMzF5ampyRkhhdkFpX2NlMGpKZk43aVZOWlViVU1KZUVnZWxlUlZ2bWhLWUktcDJLRnU0dm1CVEVyaTRnZzFoYkxKV3ByOXB"
+          "date": "Fri, 29 May 2026 07:07:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONURBRFJ1T0U0VjZIV1pzTzRoRURyQTI1WkpHUlZvdWx3RkxaNzVkSXU1eHpCRFRwRmRLRmQ3eDI1N1RhYXBlbXpWLWpqR2ljb3ZTNmxBMTZaUVp0ek1rQk55THNDbFAtUldBcWV"
         },
         {
           "headline": "Texas board faults Camp Mystic leader for inaction during deadly flood - AP News",
@@ -802,26 +812,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW9zV0xyaGw3dHdKcDR6aFB6QkxBWlBpbzBRbXZ0NFUwb2FzU1BmVlBDYzlZbll1cDZLZkgxNVpTbWdTa2NPTHJPLU13UnJVNlQ4SmhzYlFJeUVDNExZNlpmSkRuWFdxcmJoSHR"
         },
         {
-          "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
-          "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 06:31:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
-        },
-        {
-          "headline": "Don Lemon seeks grand jury transcripts in Minnesota civil rights case, citing misconduct - AP News",
-          "url": "https://apnews.com/article/don-lemon-trump-immigration-ice-church-88673f61f72f69eba2d0bb17f73e6c3f",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 28 May 2026 16:09:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFZWTTBXSGctZnJZOFJ6QlNfazVIamFWUUZXcEdCaTRYWXpOMjJidnB1TXJDR09vQTJMTjNCUkFZTXFuTGgtVmhfQzQzWjJrQ2d6bWxhWDAxa0dkN3Y2cVI4Z2dONmZTSTh1MHZ"
-        },
-        {
           "headline": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks - AP News",
           "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29",
           "source": "AP Gulf",
@@ -830,6 +820,16 @@
           "priority": "primary",
           "date": "Fri, 29 May 2026 11:58:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzh"
+        },
+        {
+          "headline": "Heat wave raises temperatures at the French Open, in photos - AP News",
+          "url": "https://apnews.com/photo-gallery/heat-wave-raises-temperatures-french-open-photos-36e4d3786dad4225b655163d8a8c6462",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 02:28:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFJKeVdWNHZlcjZBcGI1S2ozTXdnVGhhcGJaUnp1OWg2WVE4dTMwOU9CUDQ0cmxXZFg0TDNwRzN4T1FLZ0thd2JBdXNlZVFJa2ZhLUlCRTlKQ2RiTm54cjZuWmJLd1laTGNlbXF"
         }
       ],
       "competitors": [
@@ -936,26 +936,15 @@
       ],
       "arabic_aggregate": [
         {
-          "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? -DW.com",
-          "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D9%80%D9%86%D8%B3%D9%81-%D8%AD%D9%84%D9%8A%D9%81%D8%AA%D9%87-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A9/a-77337688",
+          "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ3dkpXMU0tdlVobGo4SW05M0x1azZsQ0xOYk5LUmZvYldIUzBVbDNST05rV0RLMW4xdEVzbGpOYlloZkZJc1dGNU5Ua2JjOXVzRFZKY2t6RnpOQUxLZkxfZ0Z6VXR3VTZoS0tmQTFjblhrbXZlMEVCOVFlSTdoWXRrdnBuUmYwOFRSOEp0ajBsVGpDblY2Skp4Nlo0ckd5ZUJfRzNCTjVwdEp4OU9kR0FMMk1UWFpldU5qcXNtb3BuSGVvQ09URHFTaXF2YW1lLWE3NWtrSV9wb3BUVVg3NmFZWFB1MUt4cnZZVmlvX0haTEJfSk5qZU9Qa2x5b0pLSEhKZDY3VGRDNHFmQXk2YVNuSVh1X2tmWmN5bGFUSEMwZEVGZUlUcEdITmxhaTl1QlRrV2hEX0UyZndJUUZtZlU3dGlsUUM40gGrA0FVX3lxTFBRQ2dxazJ6bFFneC1Jd2lTQnVHUlMtbHBLdjdPOUZmOS1MdU9na0x6eUNfTlB4RE5JSGl4RWJWcEYwLUtueUpFdHBKOFJULXNTMHB0U1VqT0F6SV9TQ0w5VTJwdWZWSGcyX3BEV1AwZFJLZGhwVFlCUmJGX2ZMRjZTQ0RSWHhJaUhFQnl4VDR1bXZudHRaa2dIWk0xNlBjSXBBS2ZxeU05WjBmZTZxZC0xWkhhUU5OaDFySUNLbVZVc2FyclQzUDdEYmtHOHlqSmpPN1N4ckRKZmNTLTR6ZkJwV1UzTHFuZUdORnUwaXBtSU5SX1doWllWbDlBZ2xhdk1JenJQd3h3cFFvd2RZV1U2MHVsTEY0QWRyNEU2ck1UeDRfNVhEQ0ZMU0JYWF9VRl9fVGpaZFplTW5ia3pVc1ZTaFVtTjN1dnZsXzExQzRZNnBzUTNkNk56NVN2dG1teWlVZWNwcDVwYmYwcm9Vcmcwd2dncWNmd2lfb2lMYU9CeWpVOVZOTllGYWZ6RmJiVXlUVmJTdVVROHZvOTh4dHJpUktxQkpPSEpMaG8?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 11:26:11 GMT",
+          "date": "Fri, 29 May 2026 08:25:53 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ",
-          "originalHeadline": "ترامب يهدد بـ\"نسف\" حليف��ه سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
-        },
-        {
-          "headline": "Saudi Arabia announces the success of this year’s Hajj, and the pilgrims continue to perform the rituals - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/5/29/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AD%D8%AC-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 15:18:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPLVk0TEd2cFo5ZnNWdzVqNHpoVmczTWZoQkJOQzJFWmFJeU5WbXNOd0tGeklCV3ZPSE9ybXNlU253MWc0TlNIU1ItYU1lVnE1SlNfQm5CelpWamx6c0M5NVFUSWp0U2NsSjBBaXd",
-          "originalHeadline": "السعودية تعلن نجاح حج هذا العام والحجاج يواصلون أداء الشعائر - الجزيرة نت"
+          "originalHeadline": "ترامب يهدد بـ\"نسف\" حليفته سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
         },
         {
           "headline": "After Trump's threat...the first contact between the foreign ministers of Iran and the Sultanate of Oman - CNN Arabic",
@@ -969,15 +958,48 @@
           "originalHeadline": "بعد تهديد ترامب..أول اتصال بين وزيري خارجية إيران وسلطنة عُمان - CNN Arabic"
         },
         {
-          "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
-          "url": "https://www.alarabiya.net/amp/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
+          "headline": "UAE women are at the top of the Gulf and Arab football rankings - France 24",
+          "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 11:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxPSzVFN2hfeTF2YVNEU1Q0S2NVZnFmdzdDVTVnQUwxNkp5YlhyaElCV0F3azBhVlVySjl3ZnJGU25UNlRoREo5Qk1maFF1TWRWWGpGWnRDYmRXSzJEVEpZX2RSRlBibE9MdGNzQmh",
-          "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
+          "date": "Fri, 29 May 2026 16:47:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxPczN4MzBTLXBwMWJBbUN6VFVSYkVLd1JHdFZuRU1URnZnSTFDdmNrZUJpMElBVkF5WlBjd19GZ3d0blgzcl9FUVJYY2ZicE03V0hQLVdfZDM3b2dLZ0xjdHQ5Ykk1MHZLclBFUmx",
+          "originalHeadline": "سيدات الإمارات في صدارة التصنيف الخليجي والعربي لكرة القدم - France 24"
+        },
+        {
+          "headline": "Egypt condemns in the strongest terms the attacks on Kuwait and affirms its full solidarity with them - Al-Ahram Gate",
+          "url": "https://gate.ahram.org.eg/Massai/News/5663526.aspx",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 14:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xbjlxbG5Nc1hfM185aHRHcTVYNVBJSVlMRFU2dnRjdUNPVFYwNTlJaU5TdS0xdGxoRlk2cVlQUFNwYWdKSDNtejd6TkVTbG0wSHFyaXc0anltcnQ4NHA4?oc=5\" target=\"_bla",
+          "originalHeadline": "مصر تدين بأشد العبارات الهجمات على الكويت وتؤكد تضامنها الكامل معها - بوابة الأهرام"
+        },
+        {
+          "headline": "Trump, in a call with the Emir of Qatar, praises Doha's role in advancing the paths of calm - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/5/28/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D9%8A%D8%B1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D9%85%D8%A8",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 09:22:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxOc004LVhXdFVodEJNY29IXzRWWkdaSEcxOEFCbUg0dFMyY3NkdGlobGlkVnpqMFVzd3lRSE16ekR6V25QTDZqYk1oTWZ1OVA2eXlDM0FrTEpReDBFSXQ2QkxSYVRLUFZyYWVTUzJ",
+          "originalHeadline": "ترمب يشيد في اتصال مع أمير قطر بدور الدوحة في دفع مسارات التهدئة - الجزيرة نت"
+        },
+        {
+          "headline": "The average price of Oman oil declines by 2.61% in futures contracts for July delivery - Mubasher Info",
+          "url": "https://www.mubasher.info/news/4619398/%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%B9%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-2-61-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%8A%D9%88%D9%84%D9%8A%D9%88/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 14:30:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixANBVV95cUxNWFdHY2llRjQ5ZlF2aGtNQWJFOFhLUnktcmc4VGl5XzB6SW05OTkyMHQzd3ViVlV6ZjhZVnlXbzRFUkJDeDJyZEpRMWVBRjQxU05ZcWhLczk2Nnl3U3cydUtfeEN4ZXF0X2lKWlB",
+          "originalHeadline": "متوسط سعر نفط عُمان يتراجع 2.61% بالعقود الآجلة تسليم يوليو - معلومات مباشر"
         },
         {
           "headline": "Former Yemeni Ambassador: The war is redrawing the geopolitical map in the region - Youm7",
@@ -991,59 +1013,37 @@
           "originalHeadline": "سفير اليمن السابق: الحرب تعيد رسم الخارطة الجيوسياسية بالمنطقة - اليوم السابع"
         },
         {
-          "headline": "Araqji: We stand in solidarity with the Sultanate of Oman in the face of any threat - Al-Ahram Gate",
-          "url": "https://gate.ahram.org.eg/News/5663574.aspx",
+          "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
+          "url": "https://www.alarabiya.net/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 14:47:00 GMT",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CVXhGVkYxdko2TDhaaFBiblZxLTQ2bFhvMTdJT01lRlRfZGN1akRCWG5jclRWSGlRemFFN19vWWVHLThRRENMckFQQzJucHdva2xmNVNn?oc=5\" target=\"_blank\">عراقج",
-          "originalHeadline": "عراقجي: نتضامن مع سلطنة عمان في مواجهة أي تهديد - بوابة الأهرام"
+          "date": "Fri, 29 May 2026 11:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxObS1ETWUtMnZTVEY2RFQ2bjlDSzJlNGJmdHdab1psMkFNREYtajl6VkxTeUtIOWxBdVBtc3dQV1k5VncwLXV4aTlDdFBYNHVTcTdNNzRydUZ2QVpFNUZjZTRBTEE4eERKTXNCVnR",
+          "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
         },
         {
-          "headline": "A phone call between the Foreign Minister and his Kuwaiti counterpart to confirm Egypt’s solidarity with the sisterly State of Kuwait - mfa.gov.eg",
-          "url": "https://www.mfa.gov.eg/ar/Ministers/Details/MinisterActivities/5408",
+          "headline": "“Seven Dogs” launches in Saudi and Arab cinemas - the Middle East",
+          "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5277892-%D8%B3%D9%81%D9%86-%D8%AF%D9%88%D8%AC%D8%B2-%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 04:34:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ZzNnSUQyUTE3U0M3TnR2enhDck1kNGdXc0pnc05naGRyMzc0a1ctb01QOXlYZzRmNTlTMlhRZXBnQjFnVWlYU3FNeUQyUjlCUW41TWVIVEQtQWRtMjRvOU1GYTZvRmU0UTNKM1V",
-          "originalHeadline": "اتصال هاتفي بين ��زير الخارجية ونظيره الكويتي للتأكيد على تضامن مصر مع دولة الكويت الشقيقة - mfa.gov.eg"
+          "date": "Fri, 29 May 2026 14:12:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxOb0ZkMVdOZGFUSjFLdGxiU0dqZEl3NGVEN1dsVW56SjM3UjJPTkN2QWVIMEh1ajcteGdSWmZ5N3gwWkxpTlRBTDJmRGFmc2U3S3NudUlIZVpiZUlpYlkzbEVWTVI5Y2JOMVE5TzV",
+          "originalHeadline": "«سفن دوجز» ينطلق في دور السينما السعودية والعربية - الشرق الأوسط"
         },
         {
-          "headline": "Oman oil losses exceed $6 per barrel in futures contracts - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4619395/%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%806-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9/",
+          "headline": "A second Iranian response to the threat to Oman by the US Secretary of the Treasury - CNN Arabic",
+          "url": "https://arabic.cnn.com/middle-east/article/2026/05/29/iran-respond-viral-oman-threatening-treasury-us-hormuz",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 14:07:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxQSU9ZNzdpWXlYYU40MU9qMkJOR1piN3dfby1rZzRDSm4tbDl4WC1WaXp0aV83eThsd3EzRnVuVmtWN2Q0bk5TaE5jVEVWOEpqNnJEVXBqam5kTm9zX2pTUnd2b2pmVFZXRzNjcFV",
-          "originalHeadline": "خسائر نفط عُمان تفوق الـ6 دولارات للبرميل بالعقود الآجلة - معلومات مباشر"
-        },
-        {
-          "headline": "Baghdad condemns missile attacks targeting Kuwait - Asharq Al-Awsat",
-          "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5278446-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 14:53:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxPZ2VQTU1yQnU3Q1pIeUVSX0t0SFBTMUFuaFdZbTZRczM2c0EwMmdqRm12d2JKWFd5QW9HRVMyNWYtaDNIYkVfMEtiNHF2T05CVGxxTG1rYkhsQUFQdmtVT1pOOUJRSlZOZTFRWkZ",
-          "originalHeadline": "بغداد تدين هجمات صاروخية استهدفت الكويت - الشرق الأوسط"
-        },
-        {
-          "headline": "After the Ireland-Qatar match was stopped... Palestine protests ignite sporting pressures to isolate Israel athletically - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/amp/sport/2026/5/29/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 14:48:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGszS2xIb1RleEo5dFhzaVJIT1VSNVctb2NiaVc1SUdXWDliOFZUVTk3TDJWRVQtNzJvRjhicVo5NnRJVlpHUGtkTVJfR1V4UWFKODJlZzFsSUM2VTRjSUhpeU5sdzBZOWZMQUJ",
-          "originalHeadline": "بعد توقف مباراة أيرلندا وقطر.. احتجاجات فلسطين تشعل الضغوط الرياضية لعزل إسرائيل رياضيا - الجزيرة نت"
+          "date": "Fri, 29 May 2026 04:43:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1p2c1VHMnY1MnRzMkJHZXRYWTlob3JaRzJpZ1M0OXJhOTNZY2k5TGFXSUFiX19xV25ydE1iUE1tQW53SzN1UXFMYjUxUFRHNEwyajRTWWMzcW5JTWhDNEx2QXFaRlZ3dThJYjF",
+          "originalHeadline": "رد إيراني ثان على تهديد عُمان بلسان وزير الخزانة الأمريكي - CNN Arabic"
         }
       ]
     },
@@ -1120,16 +1120,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWtjaHhoRWtVcHE0YkgxRXRJSVo3N25NRDFxa3JqbTl1RFJCZ3VHM1RLVVZ2NUZGeFhwMVByRUVnbzJxZ0VJUWFHSThsT0lTcTVLQ0FEaE0wVDRFV3lTbUNVakl4MHhjWm1pUnp"
         },
         {
-          "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
-          "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 28 May 2026 20:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
-        },
-        {
           "headline": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent - Reuters",
           "url": "https://www.reuters.com/world/middle-east/netanyahu-directs-israeli-forces-expand-gaza-control-70-percent-2026-05-28/",
           "source": "Reuters Gulf",
@@ -1140,14 +1130,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXh1UU1WMjh1NkpKSFhWOGtxSDBOZGFwU21rX1dMVmNFcTk0SjF6Sm8tQWlpcDV1aFBuekNRR3lvS2lEQjJWYS1MVlV0UU5vYVkxNkhGeGp3b2dtaVZhU283dmhMTnRBU3pvbk4"
         },
         {
-          "headline": "US and Iran trade attacks as sources report tentative agreement to extend ceasefire - as it happened - Reuters",
-          "url": "https://www.reuters.com/world/iran-war-live-us-launches-more-strikes-kuwait-reports-new-attacks-2026-05-28/",
+          "headline": "ABC files early station license renewals, calls effort illegitimate - Reuters",
+          "url": "https://www.reuters.com/business/disney-files-early-abc-station-license-renewal-applications-2026-05-28/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 28 May 2026 21:12:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE1mdUp5R3VsSXY4cGJOS1BYY190QjBsRVR4SmF1aWc0OERCNHhQRHVSRXpGb1RhM1h0TmdEbzdGbWVvVWlKd3ExNUxKaHVpWDM2RmVhVW9oXzVIR1gxZ09aNXIySC1GSmRjOTV"
+          "date": "Thu, 28 May 2026 20:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHctdm9MOXd3RDJnWXN3d0ZieU1DSWRRbHgteFB5RlJQdkR4ajN1VWVEV1FFcW1ueV9Ed2xHTENJVFBJRXZVdGZINEZ1Q2s5bnUzcU95SzB3U2d5RnBZNGRueTZmU2tFeDFNM21"
+        },
+        {
+          "headline": "Trump to decide imminently on Iran deal, says Hormuz Strait must open - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-calls-actions-not-words-after-us-officials-say-peace-deal-is-near-2026-05-29/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 15:59:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUd"
         },
         {
           "headline": "Former Yemen President Abdrabbuh Mansour Hadi, who governed mostly from exile, dies at 80 - AP News",
@@ -1158,6 +1158,16 @@
           "priority": "primary",
           "date": "Fri, 29 May 2026 06:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGVGeWlqOEp4VlpJd0JvRW5IaDF0Wm9HV3F6blR0RXRLTzdzM0wxNDU4bF9nd0pYQ1BJWFduLUpPY0R5bUxPSE5feWVjMF9sOGdHdTBTbjIwbmRXTzlqOG0xcDVZbnZxR1M4MHB"
+        },
+        {
+          "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
+          "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 06:31:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
         },
         {
           "headline": "NASCAR suspends 23XI Racing account manager accused of assaulting 77-year-old man with a golf cart - AP News",
@@ -1200,14 +1210,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDR3Vm1XdERYTEMzN1BYbHgxQ3dfdFl0WmR0RjF3ZWkwSEtJaF8xRWVsZUNNSnBvVjdxRG81LTFmbzEyUkhXNlg0aW9HeWdoRWtBS2IyNWVrTUxaeWdJMEpsX2NOME1idV95UW1"
         },
         {
-          "headline": "A warmer world creates bigger and more damaging hailstones, study says - AP News",
-          "url": "https://apnews.com/article/hail-climate-change-damage-storms-warming-8573b10ae336f3705865466e5bc986ef",
+          "headline": "New Zealand World Cup player finds social media fame after being touted by soccer influencer - AP News",
+          "url": "https://apnews.com/article/new-zealand-world-cup-payne-social-media-b4ec821a8b02d90ead4b7a600b88f3ee",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 07:10:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDl1eV9lNF84QVRLS0duYVcta1J3MmFjVE4zLWhJMzF5ampyRkhhdkFpX2NlMGpKZk43aVZOWlViVU1KZUVnZWxlUlZ2bWhLWUktcDJLRnU0dm1CVEVyaTRnZzFoYkxKV3ByOXB"
+          "date": "Fri, 29 May 2026 07:07:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONURBRFJ1T0U0VjZIV1pzTzRoRURyQTI1WkpHUlZvdWx3RkxaNzVkSXU1eHpCRFRwRmRLRmQ3eDI1N1RhYXBlbXpWLWpqR2ljb3ZTNmxBMTZaUVp0ek1rQk55THNDbFAtUldBcWV"
         },
         {
           "headline": "Texas board faults Camp Mystic leader for inaction during deadly flood - AP News",
@@ -1220,26 +1230,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW9zV0xyaGw3dHdKcDR6aFB6QkxBWlBpbzBRbXZ0NFUwb2FzU1BmVlBDYzlZbll1cDZLZkgxNVpTbWdTa2NPTHJPLU13UnJVNlQ4SmhzYlFJeUVDNExZNlpmSkRuWFdxcmJoSHR"
         },
         {
-          "headline": "Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’ - AP News",
-          "url": "https://apnews.com/article/israel-netanyahu-lapid-iran-elections-coalition-fa15b3bf47b0cd5ff2b3495644a9c32e",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 06:31:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGU5ellMV19pUDNvdkxCUTNWa0NlbFU3YjBuUmFzbXlWSVhsbGFvemdnbUg5SzRzVVJ6Sm1oRmdzWGl6R0RVSThZMmUxUnRTS2VMRm04TFIya19EbUNWN2o1OWM1bUZid1VVbFF"
-        },
-        {
-          "headline": "Don Lemon seeks grand jury transcripts in Minnesota civil rights case, citing misconduct - AP News",
-          "url": "https://apnews.com/article/don-lemon-trump-immigration-ice-church-88673f61f72f69eba2d0bb17f73e6c3f",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 28 May 2026 16:09:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFZWTTBXSGctZnJZOFJ6QlNfazVIamFWUUZXcEdCaTRYWXpOMjJidnB1TXJDR09vQTJMTjNCUkFZTXFuTGgtVmhfQzQzWjJrQ2d6bWxhWDAxa0dkN3Y2cVI4Z2dONmZTSTh1MHZ"
-        },
-        {
           "headline": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks - AP News",
           "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29",
           "source": "AP Gulf",
@@ -1248,6 +1238,16 @@
           "priority": "primary",
           "date": "Fri, 29 May 2026 11:58:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzh"
+        },
+        {
+          "headline": "Heat wave raises temperatures at the French Open, in photos - AP News",
+          "url": "https://apnews.com/photo-gallery/heat-wave-raises-temperatures-french-open-photos-36e4d3786dad4225b655163d8a8c6462",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 02:28:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFJKeVdWNHZlcjZBcGI1S2ozTXdnVGhhcGJaUnp1OWg2WVE4dTMwOU9CUDQ0cmxXZFg0TDNwRzN4T1FLZ0thd2JBdXNlZVFJa2ZhLUlCRTlKQ2RiTm54cjZuWmJLd1laTGNlbXF"
         },
         {
           "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
@@ -1350,26 +1350,15 @@
           "description": "Internet access has been cut off in the country since the start of the war in late February."
         },
         {
-          "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? -DW.com",
-          "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D9%80%D9%86%D8%B3%D9%81-%D8%AD%D9%84%D9%8A%D9%81%D8%AA%D9%87-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A9/a-77337688",
+          "headline": "Trump threatens to “blow up” his ally, the Sultanate of Oman - what is behind the mound? - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ3dkpXMU0tdlVobGo4SW05M0x1azZsQ0xOYk5LUmZvYldIUzBVbDNST05rV0RLMW4xdEVzbGpOYlloZkZJc1dGNU5Ua2JjOXVzRFZKY2t6RnpOQUxLZkxfZ0Z6VXR3VTZoS0tmQTFjblhrbXZlMEVCOVFlSTdoWXRrdnBuUmYwOFRSOEp0ajBsVGpDblY2Skp4Nlo0ckd5ZUJfRzNCTjVwdEp4OU9kR0FMMk1UWFpldU5qcXNtb3BuSGVvQ09URHFTaXF2YW1lLWE3NWtrSV9wb3BUVVg3NmFZWFB1MUt4cnZZVmlvX0haTEJfSk5qZU9Qa2x5b0pLSEhKZDY3VGRDNHFmQXk2YVNuSVh1X2tmWmN5bGFUSEMwZEVGZUlUcEdITmxhaTl1QlRrV2hEX0UyZndJUUZtZlU3dGlsUUM40gGrA0FVX3lxTFBRQ2dxazJ6bFFneC1Jd2lTQnVHUlMtbHBLdjdPOUZmOS1MdU9na0x6eUNfTlB4RE5JSGl4RWJWcEYwLUtueUpFdHBKOFJULXNTMHB0U1VqT0F6SV9TQ0w5VTJwdWZWSGcyX3BEV1AwZFJLZGhwVFlCUmJGX2ZMRjZTQ0RSWHhJaUhFQnl4VDR1bXZudHRaa2dIWk0xNlBjSXBBS2ZxeU05WjBmZTZxZC0xWkhhUU5OaDFySUNLbVZVc2FyclQzUDdEYmtHOHlqSmpPN1N4ckRKZmNTLTR6ZkJwV1UzTHFuZUdORnUwaXBtSU5SX1doWllWbDlBZ2xhdk1JenJQd3h3cFFvd2RZV1U2MHVsTEY0QWRyNEU2ck1UeDRfNVhEQ0ZMU0JYWF9VRl9fVGpaZFplTW5ia3pVc1ZTaFVtTjN1dnZsXzExQzRZNnBzUTNkNk56NVN2dG1teWlVZWNwcDVwYmYwcm9Vcmcwd2dncWNmd2lfb2lMYU9CeWpVOVZOTllGYWZ6RmJiVXlUVmJTdVVROHZvOTh4dHJpUktxQkpPSEpMaG8?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 11:26:11 GMT",
+          "date": "Fri, 29 May 2026 08:25:53 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxPQXVvWUlZOGVuSjBodG5ocWxQejFjY05idzQwa0VpT1pXMkFWMUJaOTRMaEl5SktFR1pVdGs2X0VPUnpZN0RVYmdxOTBDOVpvZ01qV0pOZ0trVlJ5dHZsZWJkdzRCYk04R1hjbEJ",
-          "originalHeadline": "ترامب يهدد بـ\"نسف\" حليف��ه سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
-        },
-        {
-          "headline": "Saudi Arabia announces the success of this year’s Hajj, and the pilgrims continue to perform the rituals - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/5/29/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AD%D8%AC-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 15:18:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPLVk0TEd2cFo5ZnNWdzVqNHpoVmczTWZoQkJOQzJFWmFJeU5WbXNOd0tGeklCV3ZPSE9ybXNlU253MWc0TlNIU1ItYU1lVnE1SlNfQm5CelpWamx6c0M5NVFUSWp0U2NsSjBBaXd",
-          "originalHeadline": "السعودية تعلن نجاح حج هذا العام والحجاج يواصلون أداء الشعائر - الجزيرة نت"
+          "originalHeadline": "ترامب يهدد بـ\"نسف\" حليفته سلطنة عمان – ماذا وراء الأكمة؟ - DW.com"
         },
         {
           "headline": "After Trump's threat...the first contact between the foreign ministers of Iran and the Sultanate of Oman - CNN Arabic",
@@ -1383,15 +1372,48 @@
           "originalHeadline": "بعد تهديد ترامب..أول اتصال بين وزيري خارجية إيران وسلطنة عُمان - CNN Arabic"
         },
         {
-          "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
-          "url": "https://www.alarabiya.net/amp/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
+          "headline": "UAE women are at the top of the Gulf and Arab football rankings - France 24",
+          "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 11:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxPSzVFN2hfeTF2YVNEU1Q0S2NVZnFmdzdDVTVnQUwxNkp5YlhyaElCV0F3azBhVlVySjl3ZnJGU25UNlRoREo5Qk1maFF1TWRWWGpGWnRDYmRXSzJEVEpZX2RSRlBibE9MdGNzQmh",
-          "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
+          "date": "Fri, 29 May 2026 16:47:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxPczN4MzBTLXBwMWJBbUN6VFVSYkVLd1JHdFZuRU1URnZnSTFDdmNrZUJpMElBVkF5WlBjd19GZ3d0blgzcl9FUVJYY2ZicE03V0hQLVdfZDM3b2dLZ0xjdHQ5Ykk1MHZLclBFUmx",
+          "originalHeadline": "سيدات الإمارات في صدارة التصنيف الخليجي والعربي لكرة القدم - France 24"
+        },
+        {
+          "headline": "Egypt condemns in the strongest terms the attacks on Kuwait and affirms its full solidarity with them - Al-Ahram Gate",
+          "url": "https://gate.ahram.org.eg/Massai/News/5663526.aspx",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 14:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xbjlxbG5Nc1hfM185aHRHcTVYNVBJSVlMRFU2dnRjdUNPVFYwNTlJaU5TdS0xdGxoRlk2cVlQUFNwYWdKSDNtejd6TkVTbG0wSHFyaXc0anltcnQ4NHA4?oc=5\" target=\"_bla",
+          "originalHeadline": "مصر تدين بأشد العبارات الهجمات على الكويت وتؤكد تضامنها الكامل معها - بوابة الأهرام"
+        },
+        {
+          "headline": "Trump, in a call with the Emir of Qatar, praises Doha's role in advancing the paths of calm - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/5/28/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A3%D9%85%D9%8A%D8%B1-%D9%82%D8%B7%D8%B1-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D9%85%D8%A8",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 09:22:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxOc004LVhXdFVodEJNY29IXzRWWkdaSEcxOEFCbUg0dFMyY3NkdGlobGlkVnpqMFVzd3lRSE16ekR6V25QTDZqYk1oTWZ1OVA2eXlDM0FrTEpReDBFSXQ2QkxSYVRLUFZyYWVTUzJ",
+          "originalHeadline": "ترمب يشيد في اتصال مع أمير قطر بدور الدوحة في دفع مسارات التهدئة - الجزيرة نت"
+        },
+        {
+          "headline": "The average price of Oman oil declines by 2.61% in futures contracts for July delivery - Mubasher Info",
+          "url": "https://www.mubasher.info/news/4619398/%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%B9%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-2-61-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D9%8A%D9%88%D9%84%D9%8A%D9%88/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Fri, 29 May 2026 14:30:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixANBVV95cUxNWFdHY2llRjQ5ZlF2aGtNQWJFOFhLUnktcmc4VGl5XzB6SW05OTkyMHQzd3ViVlV6ZjhZVnlXbzRFUkJDeDJyZEpRMWVBRjQxU05ZcWhLczk2Nnl3U3cydUtfeEN4ZXF0X2lKWlB",
+          "originalHeadline": "متوسط سعر نفط عُمان يتراجع 2.61% بالعقود الآجلة تسليم يوليو - معلومات مباشر"
         },
         {
           "headline": "Former Yemeni Ambassador: The war is redrawing the geopolitical map in the region - Youm7",
@@ -1405,62 +1427,60 @@
           "originalHeadline": "سفير اليمن السابق: الحرب تعيد رسم الخارطة الجيوسياسية بالمنطقة - اليوم السابع"
         },
         {
-          "headline": "Araqji: We stand in solidarity with the Sultanate of Oman in the face of any threat - Al-Ahram Gate",
-          "url": "https://gate.ahram.org.eg/News/5663574.aspx",
+          "headline": "The official selling price of Oman crude fell to $102 per barrel in July - Al Arabiya",
+          "url": "https://www.alarabiya.net/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 14:47:00 GMT",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CVXhGVkYxdko2TDhaaFBiblZxLTQ2bFhvMTdJT01lRlRfZGN1akRCWG5jclRWSGlRemFFN19vWWVHLThRRENMckFQQzJucHdva2xmNVNn?oc=5\" target=\"_blank\">عراقج",
-          "originalHeadline": "عراقجي: نتضامن مع سلطنة عمان في مواجهة أي تهديد - بوابة الأهرام"
+          "date": "Fri, 29 May 2026 11:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigARBVV95cUxObS1ETWUtMnZTVEY2RFQ2bjlDSzJlNGJmdHdab1psMkFNREYtajl6VkxTeUtIOWxBdVBtc3dQV1k5VncwLXV4aTlDdFBYNHVTcTdNNzRydUZ2QVpFNUZjZTRBTEE4eERKTXNCVnR",
+          "originalHeadline": "تراجع سعر البيع الرسمي لخام عمان إلى 102 دولار للبرميل في يوليو - العربية"
         },
         {
-          "headline": "A phone call between the Foreign Minister and his Kuwaiti counterpart to confirm Egypt’s solidarity with the sisterly State of Kuwait - mfa.gov.eg",
-          "url": "https://www.mfa.gov.eg/ar/Ministers/Details/MinisterActivities/5408",
+          "headline": "“Seven Dogs” launches in Saudi and Arab cinemas - the Middle East",
+          "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5277892-%D8%B3%D9%81%D9%86-%D8%AF%D9%88%D8%AC%D8%B2-%D9%8A%D9%86%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 04:34:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ZzNnSUQyUTE3U0M3TnR2enhDck1kNGdXc0pnc05naGRyMzc0a1ctb01QOXlYZzRmNTlTMlhRZXBnQjFnVWlYU3FNeUQyUjlCUW41TWVIVEQtQWRtMjRvOU1GYTZvRmU0UTNKM1V",
-          "originalHeadline": "اتصال هاتفي بين ��زير الخارجية ونظيره الكويتي للتأكيد على تضامن مصر مع دولة الكويت الشقيقة - mfa.gov.eg"
+          "date": "Fri, 29 May 2026 14:12:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxOb0ZkMVdOZGFUSjFLdGxiU0dqZEl3NGVEN1dsVW56SjM3UjJPTkN2QWVIMEh1ajcteGdSWmZ5N3gwWkxpTlRBTDJmRGFmc2U3S3NudUlIZVpiZUlpYlkzbEVWTVI5Y2JOMVE5TzV",
+          "originalHeadline": "«سفن دوجز» ينطلق في دور السينما السعودية والعربية - الشرق الأوسط"
         },
         {
-          "headline": "Oman oil losses exceed $6 per barrel in futures contracts - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4619395/%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D9%86%D9%81%D8%B7-%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%806-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9/",
+          "headline": "A second Iranian response to the threat to Oman by the US Secretary of the Treasury - CNN Arabic",
+          "url": "https://arabic.cnn.com/middle-east/article/2026/05/29/iran-respond-viral-oman-threatening-treasury-us-hormuz",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 14:07:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxQSU9ZNzdpWXlYYU40MU9qMkJOR1piN3dfby1rZzRDSm4tbDl4WC1WaXp0aV83eThsd3EzRnVuVmtWN2Q0bk5TaE5jVEVWOEpqNnJEVXBqam5kTm9zX2pTUnd2b2pmVFZXRzNjcFV",
-          "originalHeadline": "خسائر نفط عُمان تفوق الـ6 دولارات للبرميل بالعقود الآجلة - معلومات مباشر"
-        },
-        {
-          "headline": "Baghdad condemns missile attacks targeting Kuwait - Asharq Al-Awsat",
-          "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5278446-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 14:53:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxPZ2VQTU1yQnU3Q1pIeUVSX0t0SFBTMUFuaFdZbTZRczM2c0EwMmdqRm12d2JKWFd5QW9HRVMyNWYtaDNIYkVfMEtiNHF2T05CVGxxTG1rYkhsQUFQdmtVT1pOOUJRSlZOZTFRWkZ",
-          "originalHeadline": "بغداد تدين هجمات صاروخية استهدفت الكويت - الشرق الأوسط"
-        },
-        {
-          "headline": "After the Ireland-Qatar match was stopped... Palestine protests ignite sporting pressures to isolate Israel athletically - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/amp/sport/2026/5/29/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Fri, 29 May 2026 14:48:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTGszS2xIb1RleEo5dFhzaVJIT1VSNVctb2NiaVc1SUdXWDliOFZUVTk3TDJWRVQtNzJvRjhicVo5NnRJVlpHUGtkTVJfR1V4UWFKODJlZzFsSUM2VTRjSUhpeU5sdzBZOWZMQUJ",
-          "originalHeadline": "بعد توقف مباراة أيرلندا وقطر.. احتجاجات فلسطين تشعل الضغوط الرياضية لعزل إسرائيل رياضيا - الجزيرة نت"
+          "date": "Fri, 29 May 2026 04:43:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1p2c1VHMnY1MnRzMkJHZXRYWTlob3JaRzJpZ1M0OXJhOTNZY2k5TGFXSUFiX19xV25ydE1iUE1tQW53SzN1UXFMYjUxUFRHNEwyajRTWWMzcW5JTWhDNEx2QXFaRlZ3dThJYjF",
+          "originalHeadline": "رد إيراني ثان على تهديد عُمان بلسان وزير الخزانة الأمريكي - CNN Arabic"
         }
       ],
       "secondary": [
+        {
+          "headline": "Oman and Iran reaffirm commitment to Strait of Hormuz security",
+          "url": "https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Fri, 29 May 2026 20:11:12 +0400",
+          "description": "Muscat: Sayyid Badr bin Hamad Al Busaidi, Foreign Minister and his Iranian counterpart reaffirmed their commitment to ensuring the security and freedom of..."
+        },
+        {
+          "headline": "Iran war: US to lift naval blockade of ports, Trump says",
+          "url": "https://timesofoman.com//article/172357-iran-war-us-to-lift-naval-blockade-of-ports-trump-says",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Fri, 29 May 2026 20:07:23 +0400",
+          "description": "Trump lays out demands for deal, says US naval blockade will now be liftedIn his latest post on the Truth Social platform, US President Donald Trump laid..."
+        },
         {
           "headline": "Pilgrims of the military Hajj mission complete the Hajj rituals for the year 1447 AH",
           "url": "https://timesofoman.com//article/172356-pilgrims-of-the-military-hajj-mission-complete-the-hajj-rituals-for-the-year-1447-ah",
@@ -1540,26 +1560,6 @@
           "priority": "secondary",
           "date": "Fri, 29 May 2026 10:04:54 +0400",
           "description": "Muscat: The Sultanate of Oman is experiencing a significant surge in summer temperatures, with the weather monitoring stations recording exceptionally high..."
-        },
-        {
-          "headline": "Defending champions Argentina name FIFA World Cup squad; Messi set for sixth appearance",
-          "url": "https://timesofoman.com//article/172347-defending-champions-argentina-name-fifa-world-cup-squad-messi-set-for-sixth-appearance",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Fri, 29 May 2026 08:06:30 +0400",
-          "description": "Buenos Aires: Argentina head coach Lionel Scaloni announced the 26-member squad of the defending champions for the upcoming FIFA World Cup 2026, scheduled..."
-        },
-        {
-          "headline": "India poised for critical mineral breakthrough within a year, says Minister G Kishan Reddy",
-          "url": "https://timesofoman.com//article/172346-india-poised-for-critical-mineral-breakthrough-within-a-year-says-minister-g-kishan-reddy",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Fri, 29 May 2026 06:50:36 +0400",
-          "description": "New Delhi: Union Minister for Coal and Mines, G Kishan Reddy, on Thursday announced that India is on the cusp of achieving significant milestones in the..."
         }
       ],
       "tertiary": [],
@@ -1760,7 +1760,7 @@
           "originalText": "نشكر المولى عز وجل أن شرّفنا بخدمة الحرمين الشريفين، ورعاية حجاج بيته الحرام، سائلين الله أن يتقبل من الحجاج حجهم ونسكهم وطاعاتهم. \nومع حلول عيد الأضحى المبارك، نهنئ شعبنا في هذا الوطن المبارك وأمتنا الإسلامية بهذه المناسبة، وندعوه سبحانه أن يجعله عيد خير وسلام واستقرار على أمتنا"
         },
         {
-          "text": "I am pleased to extend my highest congratulations and congratulations to my Lord, the Custodian of the Two Holy Mosques, to His Highness, the Crown Prince and Prime Minister - may God protect them - and to the honorable Saudi people on the occasion of #Eid_Al-Adha, asking the Almighty God to perpetuate the blessing of security and stability in our country, and to accept the pilgrims’ Hajj, and to",
+          "text": "I am pleased to extend my highest congratulations and congratulations to my Lord, the Custodian of the Two Holy Mosques, to His Highness, the Crown Prince and Prime Minister - may God protect them - and to the honorable Saudi people on the occasion of #Eid_Al-Adha, asking God Almighty to grant our country the blessing of security and stability, and to accept the pilgrims’ Hajj, and to",
           "timestamp": "2026-05-26T16:58:32.000Z",
           "permalink": "https://x.com/rbalsaud/status/2059318279856849007",
           "originalText": "يسرّني أن أرفع أسمى آيات التهاني والتبريكات لمقام مولاي خادم الحرمين الشريفين، ولسمو سيدي ولي العهد رئيس مجلس الوزراء -حفظهما الله-، وللشعب السعودي الكريم بمناسبة حلول #عيد_الأضحى_المبارك، سائلة المولى عز وجل أن يديم على وطننا نعمة الأمن والاستقرار، وأن يتقبل من الحجاج حجهم، وأن"
@@ -1852,34 +1852,34 @@
       "language": "en",
       "tweets": [
         {
-          "text": "News correspondent Muhammad Othman:\n\n- Haramain train trips at peak times reach 142 trips\n\nEvery 10 minutes, flights depart back and forth to serve pilgrims \n\n#Hajj_across_news",
-          "timestamp": "2026-05-29T15:59:42.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060390634926535147",
-          "originalText": "مراسل الإخبارية محمد عثمان:\n\n- رحلات قطار الحرمين في أوقات الذروة تصل إلى 142 رحلة\n\n- كل 10 دقائق تنطلق الرحلات ذهابا وإيابا لخدمة حجاج بيت الله الحرام \n\n#الحج_عبر_الإخبارية"
+          "text": "From pain to peace...\n\nThe families of the Syrian martyrs and injured narrate their feelings during Hajj\n\nVia Al-Ekhbariya correspondent Abdul Aziz Al-Shalahi\n\n#Hajj_across_news",
+          "timestamp": "2026-05-29T16:39:07.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060400555785084989",
+          "originalText": "من الألم إلى السكينة..\n\nذوو الشهداء والمصابون السوريون يروون مشاعرهم في الحج\n\nعبر مراسل الإخبارية عبد العزيز الشلاحي\n\n#الحج_عبر_الإخبارية"
         },
         {
-          "text": "With ease and reassurance... pilgrims continue to throw stones at Jamarat on the second day of Tashreeq\n\n#Hajj_across_news",
-          "timestamp": "2026-05-29T15:53:26.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060389058891628642",
-          "originalText": "بيسر وطمأنينة.. الحجاج يواصلون رمي الجمرات في ثاني أيام التشريق\n\n#الحج_عبر_الإخبارية"
+          "text": "The Special Force for Hajj and Umrah Security at the Grand Mosque continues to carry out its field tasks within an integrated security and organizational system that is managed with high precision and around the clock.\n\nVia Al-Akhbariya correspondent Musab Al-Daihani \n\n#Hajj_across_news",
+          "timestamp": "2026-05-29T16:37:59.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060400271331606693",
+          "originalText": "القوة الخاصة لأمن الحج والعمرة بالمسجد الحرام تواصل تنفيذ مهامها الميدانية ضمن منظومة أمنية وتنظيمية متكاملة تُدار بدقة عالية وعلى مدار الساعة\n\nعبر مراسل الإخبارية مصعب الديحاني \n\n#الحج_عبر_الإخبارية"
         },
         {
-          "text": "Between longing for his father and the overwhelming joy of meeting the guests of God...\n\nAl-Akhbariya correspondent Tariq Al-Mazhoud describes his feelings while covering the Hajj season \n\n#Hajj_across_news",
-          "timestamp": "2026-05-29T15:47:09.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060387476120744320",
-          "originalText": "بين الحنين لوالده والفرحة الغامرة بلقاء ضيوف الرحمن..\n\nمراسل الإخبارية طارق المزهود يصف مشاعره خلال تغطية موسم الحج \n\n#الحج_عبر_الإخبارية"
+          "text": "With more than 200,000 bottles of water and juices, and 40,000 meals.\n\n Medad Association implements the “Water and Referral of Guests of the Holy House of God” project as part of volunteer efforts to serve pilgrims\n\nVia Al-Ekhbariya correspondent Ahmed Ghaly\n\n#Hajj_across_news",
+          "timestamp": "2026-05-29T16:14:58.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060394479136203122",
+          "originalText": "بأكثر من 200 ألف عبوة مياه وعصائر، و40 ألف وجبة غذائية..\n\n جمعية مداد تنفذ مشروع “سقايا ورفادة ضيوف بيت الله الحرام” ضمن جهود تطوعية لخدمة الحجاج\n\nعبر مراسل الإخبارية أحمد غالي\n\n#الحج_عبر_الإخبارية"
         },
         {
-          "text": "The best ending... She departed to her Lord on the day of Arafat, prostrating and fasting\n\nBashayer Al Qaboos...six years in media work, during which she presented stories that touched hearts and was known among her colleagues for her constant smile.",
-          "timestamp": "2026-05-29T15:21:33.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060381035582370019",
-          "originalText": "خير خاتمة.. رحلت إلى ربها في يوم عرفة ساجدة صائمة\n\nبشاير آل قبوص.. ستة أعوام في العمل الإعلامي قدمت خلالها الحكايات التي لامست القلوب وعُرفت بين زملائها بالابتسامة الدائمة"
+          "text": "Pilgrims in a hurry document their last moments in the Sacred Mosque, in scenes of faith overflowing with tranquility. \n\nVia Al-Akhbariya correspondent Tariq Al-Mazhoud \n\n#Hajj_across_news",
+          "timestamp": "2026-05-29T16:13:06.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060394006987645060",
+          "originalText": "حجاج بيت الله الحرام من المتعجلين يوثقون لحظاتهم الأخيرة في المسجد الحرام، في مشاهد إيمانية تفيض بالسكينة \n\nعبر مراسل الإخبارية طارق المزهود \n\n#الحج_عبر_الإخبارية"
         },
         {
-          "text": "More than 22 thousand human cadres and 3 thousand machines and field equipment to clean the holy sites \n\nVia Al-Akhbariya correspondent Muhammad Othman \n\n#Hajj_across_news",
-          "timestamp": "2026-05-29T15:17:42.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060380067029508484",
-          "originalText": "أكثر من 22 ألف كادر بشري و 3 آلاف آلية ومعدة ميدانية لنظافة المشاعر المقدسة \n\nعبر مراسل الإخبارية محمد عثمان \n\n#الحج_عبر_الإخبارية"
+          "text": "A majestic scene of faith... Aerial shots of the Grand Mosque while pilgrims perform the Farewell Tawaf \n\n#Hajj_across_news",
+          "timestamp": "2026-05-29T16:10:06.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060393252243538169",
+          "originalText": "مشهد إيماني مهيب.. لقطات جوية للمسجد الحرام أثناء أداء الحجاج طواف الوداع \n\n#الحج_عبر_الإخبارية"
         }
       ]
     },
@@ -1975,34 +1975,34 @@
       "language": "ar",
       "tweets": [
         {
-          "text": "The Minister of Justice congratulates the leadership on the success of the Hajj season 1447 AH.\n\nhttps://\nspa.gov.sa/N2602812\n #Success_of_the_Hajj_Season #Sass_Haj47",
-          "timestamp": "2026-05-29T16:01:02.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060390972094054740",
-          "originalText": "وزير العدل يهنئ القيادة بمناسبة نجاح موسم حج 1447 هـ.\n\nhttps://\nspa.gov.sa/N2602812\n #نجاح_موسم_الحج | #واس_حج47"
+          "text": "The Governor of the Saudi Standards, Metrology and Quality Organization congratulates the leadership on the success of the Hajj season.\n\nhttp://\nspa.gov.sa/ar/w2602883\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-29T17:02:47.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060406512737046913",
+          "originalText": "محافظ الهيئة السعودية للمواصفات والمقاييس والجودة يرفع التهنئة للقيادة بمناسبة نجاح موسم الحج.\n\nhttp://\nspa.gov.sa/ar/w2602883\n#نجاح_موسم_الحج | #واس_حج47"
         },
         {
-          "text": "#SPA Hajj bulletin    \n\n#God bless you #Sass_Haj47",
-          "timestamp": "2026-05-29T16:00:01.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060390714178208253",
-          "originalText": "نشرة #واس بالحج    \n\n#حياكم_الله | #واس_حج47"
+          "text": "The Chairman of the Saudi Postal Corporation congratulates the leadership on the success of the Hajj season for the year 1447 AH.\n\nhttp://\nspa.gov.sa/ar/w2602891\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-29T16:50:55.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060403525545259276",
+          "originalText": "رئيس مؤسسة البريد السعودي يهنئ القيادة بنجاح موسم الحج لعام 1447هـ.\n\nhttp://\nspa.gov.sa/ar/w2602891\n#نجاح_موسم_الحج | #واس_حج47"
         },
         {
-          "text": "His Highness Prince Turki bin Mohammed bin Fahd congratulates the leadership on the occasion of the success of this year’s Hajj season 1447 AH.\n\nhttps://\nspa.gov.sa/N2602844\n#Success_of_the_Hajj_Season #SPA",
-          "timestamp": "2026-05-29T15:58:45.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060390395473789203",
-          "originalText": "سمو الأمير تركي بن محمد بن فهد يهنئ القيادة بمناسبة نجاح موسم الحج لهذا العام 1447 هـ.\n\nhttps://\nspa.gov.sa/N2602844\n#نجاح_موسم_الحج | #واس"
+          "text": "The Governor of Zakat, Tax and Customs congratulates the leadership on the success of this year’s Hajj season.\n\nhttp://\nspa.gov.sa/ar/w2602836\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-29T16:50:13.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060403347165720781",
+          "originalText": "محافظ الزكاة والضريبة والجمارك يهنئ القيادة بمناسبة نجاح موسم حج هذا العام.\n\nhttp://\nspa.gov.sa/ar/w2602836\n#نجاح_موسم_الحج | #واس_حج47"
         },
         {
-          "text": "The head of the Food and Drug Administration congratulates the leadership on the success of the Hajj season 1447 AH.\n\nhttps://\nspa.gov.sa/N2602822\n #Success_of_the_Hajj_Season #Sass_Haj47",
-          "timestamp": "2026-05-29T15:55:01.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060389457254068226",
-          "originalText": "رئيس \"الغذاء والدواء\" يهنئ القيادة بمناسبة نجاح موسم حج 1447هـ.\n\nhttps://\nspa.gov.sa/N2602822\n #نجاح_موسم_الحج | #واس_حج47"
+          "text": "The Chairman of \"Sadaya\" congratulates the leadership on the success of the Hajj season 1447 AH.\n\nhttp://\nspa.gov.sa/ar/w2602897\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-29T16:49:37.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060403197362016383",
+          "originalText": "رئيس \"سدايا\" يهنىء القيادة بنجاح موسم حج 1447هـ.\n\nhttp://\nspa.gov.sa/ar/w2602897\n#نجاح_موسم_الحج | #واس_حج47"
         },
         {
-          "text": "His Highness the Minister of Culture congratulates the leadership on the success of the 1447 Hajj season.\n\nhttps://\nspa.gov.sa/N2602817\n #Success_of_the_Hajj_Season #Sass_Haj47",
-          "timestamp": "2026-05-29T15:54:29.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060389324412067881",
-          "originalText": "سمو وزير الثقافة يهنئ القيادة بنجاح موسم الحج 1447.\n\nhttps://\nspa.gov.sa/N2602817\n #نجاح_موسم_الحج | #واس_حج47"
+          "text": "The Minister of Education congratulates the leadership on the success of the Hajj season.\n\nhttp://\nspa.gov.sa/ar/w2602885\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-29T16:43:34.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060401675320414541",
+          "originalText": "وزير التعليم يهنئ القيادة بنجاح موسم الحج.\n\nhttp://\nspa.gov.sa/ar/w2602885\n#نجاح_موسم_الحج | #واس_حج47"
         }
       ]
     },
@@ -2136,7 +2136,7 @@
           "originalText": "يوم عرفة .. يوم المغفرة والرحمة وإكمال الدين وتمام النعمة .. اللهم تقبل من حجاج بيتك .. وتقبل من جميع المسلمين والمسلمات . وأعده علينا أعواماً عديدة وأزمنة مديدة.."
         },
         {
-          "text": "During the retreat, we launched the first batch of artificial intelligence assistants in the field of procurement, taxes, customer happiness, and technical support. We also released a new batch from the federal artificial intelligence program. What we will develop today under the leadership and supervision of Sheikh Mansour bin Zayed and the national work teams is not just a government project.",
+          "text": "During the retreat, we launched the first batch of artificial intelligence assistants in the field of procurement, taxes, customer happiness, and technical support. We also released a new batch from the federal artificial intelligence program. What we will develop today under the leadership and supervision of Sheikh Mansour bin Zayed and the national work teams is not only a government project.",
           "timestamp": "2026-05-20T14:12:30.000Z",
           "permalink": "https://x.com/HHShkMohd/status/2057102168239509824",
           "originalText": "وأطلقنا خلال الخلوة الدفعة الأولى من مساعدي الذكاء الاصطناعي في مجال المشتريات والضرائب وسعادة المتعاملين والدعم التقني.. كما خرجنا دفعة جديدة من برنامج الذكاء الاصطناعي الاتحادي.. ما سنطوره اليوم تحت قيادة وإشراف الشيخ منصور بن زايد وفرق العمل الوطنية ليس مشروعاً حكومياً فقط.."
@@ -2356,7 +2356,7 @@
           "permalink": "https://x.com/DXBMediaOffice/status/2060335059220213779"
         },
         {
-          "text": "Emirates Airlines unveils a special celebratory livery on one of its Airbus A380 aircraft in honor of Arsenal, after winning the English Premier League title, in a step that reflects the depth of the extended partnership between the two parties and the carrier’s continued commitment to connecting fans with the most prominent international sporting moments.\n\n\n@emirates\n \n@Arsenal",
+          "text": "Emirates Airlines unveils a special festive livery on one of its Airbus A380 aircraft in honor of Arsenal, after winning the English Premier League title, in a step that reflects the depth of the extended partnership between the two parties and the carrier’s continued commitment to connecting fans with the most prominent international sporting moments.\n\n\n@emirates\n \n@Arsenal",
           "timestamp": "2026-05-29T12:17:51.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2060334804579790875",
           "originalText": "طيران الإمارات تكشف عن كسوة احتفالية خاصة على إحدى طائراتها الإيرباص A380 تكريماً لنادي أرسنال، وذلك عقب تتويجه بلقب الدوري الإنجليزي الممتاز، في خطوة تعكس عمق الشراكة الممتدة بين الطرفين والتزام الناقلة المستمر بربط الجماهير بأبرز اللحظات الرياضية العالمية.\n\n\n@emirates\n \n@Arsenal"
@@ -2553,6 +2553,16 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Katara Concludes #Eid_Al_Adha Festivities with Large Crowds\n#QNA #Qatar \n\nhttps://\now.ly/42pe50Z5HGz",
+          "timestamp": "2026-05-29T17:04:06.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060406840781901830"
+        },
+        {
+          "text": "Ministry of Environment and Climate Change (MOECC) Highlights Efforts to Monitor and Protect Dugongs. #QNA\n#Qatar\n\nhttps://\now.ly/PrCs50Z5Gl7",
+          "timestamp": "2026-05-29T16:08:26.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060392832238567536"
+        },
+        {
           "text": "Death Toll from Israeli Aggression on #Lebanon Rises to 3,355. #QNA\n\nhttps://\now.ly/tGBs50Z5G5v",
           "timestamp": "2026-05-29T15:58:29.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2060390331472884076"
@@ -2566,16 +2576,6 @@
           "text": "Department of Meteorology: Fine Weather Expected Tonight. #QNA\n#Qatar\n\nhttps://\now.ly/wu9r50Z5CAB",
           "timestamp": "2026-05-29T14:51:41.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2060373520354349478"
-        },
-        {
-          "text": "#Qatar's Beach Volleyball Team Lose to US Counterpart at Ostrava Elite 16. #QNA\n\nhttps://\now.ly/lamY50Z5BGy",
-          "timestamp": "2026-05-29T14:30:17.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060368134075203715"
-        },
-        {
-          "text": "#Italy Urges #EU to Tighten Border Controls Over #Ebola Outbreak. #QNA\n\nhttps://\now.ly/JFiG50Z5AEJ",
-          "timestamp": "2026-05-29T14:20:15.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060365609112596596"
         }
       ]
     },
@@ -2717,11 +2717,6 @@
           "text": "Telephone call between HRH Crown Prince and the Prime Minister of Israel\n\nhttp://\now.ly/pUfw50CsHXW",
           "timestamp": "2020-11-23T21:04:27.000Z",
           "permalink": "https://x.com/bna_en/status/1330980553592541187"
-        },
-        {
-          "text": "HM King issues decree, establishing Bahrain’s Consulate General in Laayoune, Morocco\n\n\nhttp://\now.ly/F5JJ50CK25B",
-          "timestamp": "2020-12-13T12:42:46.000Z",
-          "permalink": "https://x.com/bna_en/status/1338102061976653825"
         }
       ]
     },
@@ -2733,7 +2728,36 @@
       "category": "bahrain_twitter",
       "priority": "secondary",
       "language": "en",
-      "tweets": []
+      "tweets": [
+        {
+          "text": "Civil Defence rescues five children from a house fire in Aali\n\n\nhttps://\npolicemc.gov.bh/en/news/78966/",
+          "timestamp": "2026-05-29T16:54:09.000Z",
+          "permalink": "https://x.com/moi_bahrain/status/2060404337155723376"
+        },
+        {
+          "text": "Civil Defense rescues 5 children from a house fire in the Aali area\n\n\nhttps://\npolicemc.gov.bh/news/78966/",
+          "timestamp": "2026-05-29T16:34:14.000Z",
+          "permalink": "https://x.com/moi_bahrain/status/2060399325025304855",
+          "originalText": "الدفاع المدني ينقذ 5 أطفال من حريق منزل في منطقة عالي\n\n\nhttps://\npolicemc.gov.bh/news/78966/"
+        },
+        {
+          "text": "Civil Defense rescued 5 children and was able to extinguish a fire that broke out in a house in the Aali area, without causing any casualties. Investigations are underway to find out the cause of the fire.",
+          "timestamp": "2026-05-28T23:18:44.000Z",
+          "permalink": "https://x.com/moi_bahrain/status/2060138734708830375",
+          "originalText": "الدفاع المدني ينقذ 5 أطفال ويتمكن من إخماد حريق اندلع في منزل بمنطقة عالي ، دون وقوع إصابات، والتحريات جارية لمعرفة سبب اندلاع الحريق."
+        },
+        {
+          "text": "Capital Governor receives Eid Al-Adha well-wishers\n\n\nhttps://\npolicemc.gov.bh/en/news/78955/",
+          "timestamp": "2026-05-28T14:16:26.000Z",
+          "permalink": "https://x.com/moi_bahrain/status/2060002258570408247"
+        },
+        {
+          "text": "The Governor of the Capital receives well-wishers on Eid Al-Adha\n\n\nhttps://\npolicemc.gov.bh/news/78955/",
+          "timestamp": "2026-05-28T14:12:02.000Z",
+          "permalink": "https://x.com/moi_bahrain/status/2060001153018933454",
+          "originalText": "محافظ العاصمة يستقبل المهنئين بعيد الأضحى المبارك\n\n\nhttps://\npolicemc.gov.bh/news/78955/"
+        }
+      ]
     },
     {
       "id": "al_anba",
@@ -2941,6 +2965,18 @@
           "originalText": "مهما استبدَّ الليلُ في صنعاءَ دهراً \n\nشمسُ النصرِ ستشرقُ فوقها فخرًا"
         },
         {
+          "text": "A member of the Presidential Leadership Council, the Prime Minister and the Minister of Foreign Affairs receive in Aden the condolences of former President Abd Rabbuh Mansour Hadi",
+          "timestamp": "2026-05-29T16:10:16.000Z",
+          "permalink": "https://x.com/ERYANIM/status/2060393295075819928",
+          "originalText": "عضو مجلس القيادة الرئاسي ورئيس الوزراء وزير الخارجية يستقبلان في عدن عزاء الرئيس السابق عبدربه منصور هادي"
+        },
+        {
+          "text": "The Chairman of the Leadership Council and a number of Council members lead the crowds of worshipers and mourners to the body of the great deceased of Yemen, former President Abd Rabbuh Mansour Hadi.",
+          "timestamp": "2026-05-29T16:09:43.000Z",
+          "permalink": "https://x.com/ERYANIM/status/2060393156118450608",
+          "originalText": "رئيس مجلس القيادة وعدد من اعضاء المجلس يتقدمون جموع المصلين والمشيعين لجثمان فقيد اليمن الكبير الرئيس السابق عبدربه منصور هادي"
+        },
+        {
           "text": "His Excellency the Chairman of the Presidential Command Council and his fellow members of the Leadership Council, along with a number of state leaders and national figures, carried the body of His Excellency former President Field Marshal Abd Rabbuh Mansour Hadi to his final resting place, after a long national journey that he dedicated to serving the nation.",
           "timestamp": "2026-05-29T15:52:15.000Z",
           "permalink": "https://x.com/ERYANIM/status/2060388762484363600",
@@ -2951,18 +2987,6 @@
           "timestamp": "2026-05-28T17:56:44.000Z",
           "permalink": "https://x.com/yemenawqafe/status/2060057701040758943",
           "originalText": "تعميم\n\nالأخوة/ مدراء عموم فروع وزارة الأوقاف والإرشاد بالمحافظات المحررة           المحترمون  \nالسلام عليكم ورحمة الله وبركاته،،،\n\n﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي﴾\nببالغ"
-        },
-        {
-          "text": "The General People's Congress mourns the former president, the great fighter Field Marshal Abd Rabbuh Mansour Hadi\n[05/28/2026]\n\nIn the name of God, the Most Gracious, the Most Merciful\n\n“O reassured soul, return to your Lord, satisfied and pleasing, so enter among My servants and enter My Paradise.”\nGod Almighty is true",
-          "timestamp": "2026-05-28T18:01:36.000Z",
-          "permalink": "https://x.com/ahmedbindaghar/status/2060058923990712636",
-          "originalText": "المؤتمر الشعبي العام ينعي الرئيس السابق المناضل الكبير المشير ركن عبدربه منصور هادي\n[28/05/2026]\n\nبسم الله الرحمن الرحيم\n\n﴿يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً ۝ فَادْخُلِي فِي عِبَادِي ۝ وَادْخُلِي جَنَّتِي﴾\nصدق الله العظيم"
-        },
-        {
-          "text": "The family of the former President of the Republic, Field Marshal Abd Rabbuh Mansour Hadi, announced the date of prayer for the great deceased and the burial ceremony, and accepted the duty of condolence for his death after a national march full of giving, struggle, and notable patriotic stances.\n\nThe family said in a statement: “Prayers for the deceased will be held, God willing, after the afternoon prayer",
-          "timestamp": "2026-05-28T14:04:59.000Z",
-          "permalink": "https://x.com/yementvyem/status/2059999379298156699",
-          "originalText": "أعلنت أسرة رئيس الجمهورية السابق المشير الركن عبدربه منصور هادي، موعد الصلاة على الفقيد الكبير ومراسم الدفن وتقبل واجب العزاء بوفاته بعد مسيرة وطنية حافلة بالعطاء والنضال والمواقف الوطنية المشهودة.\n\nوجاء في بيان للأسرة \"أن الصلاة على الفقيد ستقام بمشيئة الله تعالى، عقب صلاة عصر"
         }
       ]
     },
@@ -2988,7 +3012,7 @@
           "originalText": "تفعيل الإنترنت الفضائي \"ستارلينك\" خطوة مهمة نحو تعزيز التنمية والتواصل في بلادنا، وتوفير خدمة أكثر أماناً؛ ويعكس تطلعنا لمستقبل مشرق يتكاتف فيه الجميع لبناء وطن مزدهر ومتصل بالعالم.\nنعبّر عن شكرنا وتقديرنا العميق للجهود المبذولة من قِبل جميع المعنيين في إنجاح هذا المشروع الحيوي،"
         },
         {
-          "text": "In a friendly meeting today with Lieutenant General Mahmoud Al-Subaihi, Advisor to the Chairman of the Presidential Command Council for Defense and Security Affairs, who is known for his heroic sacrifices in confronting the Houthis, I discussed the security and military situations in our country. It also stressed the importance of strengthening operational coordination between our security and military institutions to continue breaking",
+          "text": "In a friendly meeting today with Lieutenant General Mahmoud Al-Subaihi, Advisor to the Chairman of the Presidential Command Council for Defense and Security Affairs, who is known for his heroic sacrifices in confronting the Houthis, I discussed the security and military situation in our country. It also stressed the importance of strengthening operational coordination between our security and military institutions to continue breaking",
           "timestamp": "2024-12-13T21:34:29.000Z",
           "permalink": "https://x.com/AbuZar3a/status/1867684541709566338",
           "originalText": "في لقاء ودي اليوم مع الفريق محمود الصُبيحي، مستشار رئيس مجلس القيادة الرئاسي لشؤون الدفاع والأمن، الذي يُعرف بتضحياته البطولية في مواجهة الحوثيين، ناقشت الأوضاع الأمنية والعسكرية في بلادنا. كما أكدت على أهمية تعزيز التنسيق العملياتي بين مؤسساتنا الأمنية والعسكرية لمواصلة كسر"
@@ -3000,7 +3024,7 @@
           "originalText": "السمة الأبرز لثورة 26 سبتمبر تكمن في أهدافها المعلنة، والتي مثلت نقلة نوعية في الفكر السياسي. على الرغم من التحديات التي واجهت تحقيق هذه الأهداف، وتجاوز بعضها مع مرور الوقت، إلا أنها لا تزال تشكل إرثاً قيماً. هذه الأهداف تُعبر عن تطلعات الشعب وطموحاته في بناء مجتمع أكثر عدالة"
         },
         {
-          "text": "With the start of disbursing financial dues to military and security employees who were forcibly removed from their jobs in the southern governorates, we find it an opportunity today to congratulate this step, which, even if it came late, nevertheless came to lift grievances and redress even part of the harm that they suffered over the past years.\n\nThe disbursement of these dues is a result",
+          "text": "With the start of disbursing financial dues to military and security employees who were forcibly removed from their jobs in the southern governorates, we find it an opportunity today to congratulate this step, which, even if it came late, nevertheless came to lift grievances and make reparation for even part of the harm that they suffered over the past years.\n\nThe disbursement of these dues is a result",
           "timestamp": "2024-09-04T17:10:05.000Z",
           "permalink": "https://x.com/AbuZar3a/status/1831379216937762933",
           "originalText": "مع بدء صرف المستحقات المالية للموظفين العسكريين والأمنيين المُبعدين قسراً عن وظائفهم في المحافظات الجنوبية.. نجدها فرصة اليوم لنبارك هذه الخطوة التي وإن أتت متأخرة، إلا أنها جاءت لرفع المظالم وجبر ولو جزء من الضرر الذي لحق بهم طوال السنوات الماضية.\n\nإن صرف هذه المستحقات هو نتيجة"
@@ -3121,7 +3145,7 @@
           "originalText": "لو كان رسول الله محمد بين ظهراني العرب والمسلمين اليوم لأرسل جيشه إلى فلسطين وليس إلى اليمن\nو لفتح #القدس لا #صنعاء\nأفيقوا أيها العرب من تيهكم\nفهاهي أمريكا تعلن #صفقة_الهوان بأموالكم ويقدمها حكامكم وهم صاغرون\nولو قدم للمجاهدين في فلسطين 5 مليار بدلا عن الخمسين لحرروا فلسطين"
         },
         {
-          "text": "If the reason for not bringing food and aid into #Gaza is #Egypt’s fear of bombing it\n We are ready to send those who drive aid carriers who are practiced in delivering supplies to the fronts under bombardment during the American-British-Saudi-Emirati aggression and its allies against Yemen. \nPeople of experience\nLikewise, the Mujahideen brothers",
+          "text": "If the reason for not bringing food and aid into #Gaza is #Egypt’s fear of bombing it\n We are ready to send those who drive the aid carriers, who are practiced in delivering supplies to the fronts under bombardment during the American, British, Saudi, Emirati and its allies’ aggression against Yemen. \nPeople of experience\nLikewise, the Mujahideen brothers",
           "timestamp": "2024-02-21T20:56:47.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1760408248601968673",
           "originalText": "اذا كان السبب في عدم إدخال الغذاء والمساعدات إلى #غزة خوف #مصر من القصف لها\n فنحن حاضرون لارسال من يقود ناقلات المساعدات ممن هم ممارسون على إيصال المدد للجبهات تحت القصف خلال العدوان الأمريكي البريطاني السعودي الاماراتي وحلفائه على اليمن \nمن أهل التجربة\nكما ان الاخوة المجاهدين"
