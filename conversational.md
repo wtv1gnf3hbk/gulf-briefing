@@ -1,50 +1,55 @@
-A potential U.S.-Iran nuclear deal faces new uncertainty as Washington and Tehran appear close to a tentative agreement while the Trump administration warns it is not yet satisfied with terms, according to multiple reports. U.S. Vice President J.D. [Vance said](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) the two sides are "very close" to a preliminary agreement on Iran's enriched uranium stockpile, though he stressed "all options remain available" to President Trump. The diplomacy comes as former Yemeni President Abdrabbuh Mansour Hadi [died at](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8) age 80, marking the end of a key figure in Yemen's fractured political landscape.
+**Gulf Briefing | May 29, 2026**
 
-The death of Hadi, who led Yemen's internationally recognized government-in-exile since the Houthi takeover of Sanaa in 2014, removes a central player from ongoing peace efforts. His passing comes as [Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) the U.S. has warned Oman against facilitating any tolls for Strait of Hormuz passage, reflecting broader tensions over Gulf shipping routes. The Trump administration has taken an increasingly assertive stance on regional maritime security following earlier threats to both Oman and Iran over naval activities in the strategic waterway.
+The US has warned Oman not to facilitate tolls for Strait of Hormuz passage, [Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/), as diplomatic pressure mounts on the sultanate following Treasury Secretary threats. US and Iranian negotiators have reached a tentative deal to extend a ceasefire and start new nuclear talks, [according to AP](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29), though Trump has signaled he is "not satisfied" with the current terms. The developments come as former Yemen President Abdrabbuh Mansour Hadi died at 80, [AP reports](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8), prompting condolences from across the region. Meanwhile, Israeli PM Netanyahu has directed forces to expand Gaza control to 70 percent, [the BBC reports](https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&amp;at_campaign=rss), as regional tensions persist.
+
+Temperature records are breaking across the Gulf as summer begins. [Times of Oman reports](https://timesofoman.com//article/172348-temperature-crosses-475-degrees-in-oman) temperatures crossed 47.5 degrees Celsius in the sultanate, reflecting the extreme heat wave affecting the region. Hajj season continues in Saudi Arabia with pilgrims completing rituals during the second day of Tashreeq.
 
 **Energy & Economy**
 
-- Oil markets remain on edge as the potential U.S.-Iran nuclear talks could affect sanctions and Iranian crude exports, with traders closely watching Washington's "all options" stance on enforcement.
+• Oil markets remain volatile following US-Iran negotiations and regional security concerns, though no major price movements have been reported
 
-- [Kuwait News Agency reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) Iran launched drone and missile attacks targeting Kuwait, prompting widespread regional condemnation and raising concerns about Gulf shipping security.
+• Saudi Arabia's Hajj season is proceeding smoothly with advanced cooling systems at Jamarat facilities and efficient crowd management, [according to Saudi Press Agency](https://spa.gov.sa/N2602369)
 
-- The UAE continues advancing its artificial intelligence initiatives, with Sheikh Abdulla bin Zayed noting the Emirates ranks [first globally](https://twitter.com/ABZayed) in AI talent concentration growth at 121% between 2019-2025.
+• UAE tourism sector achievements for 2025 were reviewed by Mohammed bin Rashid, [WAM reports](https://wam.ae/a/b1n6twr), as the country continues economic diversification efforts
 
-- ADNOC's Abu Dhabi headquarters was illuminated in Azerbaijan's flag colors to mark the country's National Day, according to [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice).
-
-**Country Watch**
+• Kuwait's General Staff of Armed Forces faced Iranian drone and missile attacks, [KUNA reports](https://kuna.net.kw), which Iraq and the Organisation of Islamic Cooperation condemned
 
 **Saudi Arabia**
-Crown Prince Mohammed bin Salman held his annual Hajj reception at Mina Palace for dignitaries and pilgrims, according to the [Saudi Press Agency](https://twitter.com/spagov). Foreign Minister Prince Faisal bin Farhan expressed Saudi appreciation for Trump's decision to "give diplomacy a chance" on Iran negotiations, stating the Kingdom values efforts to restore Strait of Hormuz security to pre-February 28 conditions. Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts.
+
+Crown Prince Mohammed bin Salman held the annual reception ceremony for Hajj dignitaries and pilgrims at Mina Palace, [per the Saudi Press Agency](https://spa.gov.sa/N2602369). Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts. Interior Minister Prince Abdulaziz bin Saud received health leaders, Jordanian and Malaysian interior ministers during the Hajj season. Saudi Ambassador to Yemen Mohammed AlJabir announced he will visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges.
 
 **UAE**
-Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025, per [UAE Government Media Office](https://twitter.com/UAEmediaoffice). The government launched new AI assistants for procurement, taxation, and customer services as part of its federal AI program. Meanwhile, Dubai Media Office confirmed Mohammed bin Rashid received Eid Al-Adha well-wishers at the Zabeel Majlis.
+
+The UAE announced it will restore the Umayyad Mosque in Damascus under the support of Sheikha Fatima bint Mubarak, [Sheikh Abdullah bin Zayed posted](https://x.com/ABZayed), reflecting the country's commitment to preserving Arab and Islamic heritage. The UAE ranks first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, according to official data. Dubai Media Office reported that Mohammed bin Rashid received Eid Al Adha well-wishers at Zabeel Majlis.
 
 **Qatar**
-Prime Minister Mohammed bin Abdulrahman Al Thani posted on his appointment by the Emir, expressing gratitude for the trust placed in him. [Qatar News Agency](https://twitter.com/QNAEnglish) reported hot weather expected along the coast with clear offshore conditions. Majed Al Ansari dismissed reports that Qatar offered $12 billion to Iran for a nuclear deal as "simply not true" and part of efforts to "sabotage" diplomatic progress.
+
+Prime Minister Mohammed bin Abdulrahman Al Thani was honored by Emir Tamim bin Hamad's appointment, expressing gratitude for the trust placed in him. Qatar's Government Communication Office extended Eid Al Adha greetings, emphasizing the occasion as a time of joy and blessings. Dr. Majed Al Ansari was appointed as advisor to the Deputy Prime Minister and official spokesman for the Ministry of Foreign Affairs.
+
+**Bahrain / Kuwait / Oman**
+
+Bahrain strongly condemned Iranian attacks on Kuwait, expressing full solidarity with the country's security and sovereignty. Oman's Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar. Prince William received Sayyid Theyazin bin Haitham Al Said in Windsor Castle, discussing bilateral relations and the launch of the "Oman: The Jewel of Arabia" expedition project in London.
 
 **Yemen**
-The death of former President Hadi prompted condolences from across the political spectrum. IRG Information Minister Mohammed Al-Eryani mourned the "great fighter" while acknowledging his "national march full of giving." Abu Zaraa, a member of the Presidential Leadership Council, emphasized the need to end unilateral decision-making that has caused division within the council. Southern Transitional Council leader Aidarous al-Zubaidi offered condolences, calling Hadi a patriotic figure.
+
+Former President Abdrabbuh Mansour Hadi died at 80, prompting widespread condolences from across the region. The IRG's Presidential Leadership Council called for unity and directing energies toward restoring state institutions. The presidency renewed requests to Saudi Arabia to intervene to stop alleged UAE interference. Ahmed Hamid Lamlas was appointed as governor of Aden Governorate. Houthi negotiator Mohammed Abdulsalam outlined terms for an agreement covering recent banking decisions and resuming Yemenia Airlines flights between Sanaa and Jordan.
 
 **Official Signals**
 
-Prince Faisal bin Farhan's statement welcoming Trump's diplomatic approach on Iran signals Saudi readiness to support negotiations while maintaining focus on maritime security. His emphasis on restoring pre-February 28 Strait of Hormuz conditions suggests the Kingdom views recent naval incidents as a key benchmark for success.
+• Foreign Minister Prince Faisal bin Farhan [posted](https://x.com/FaisalbinFarhan) that Saudi Arabia "highly appreciates" President Trump's decision to give diplomacy a chance to reach an acceptable agreement on the Strait of Hormuz situation
 
-Qatar PM Al Thani's appointment announcement and Majed Al Ansari's firm denial of any financial offers to Iran demonstrate Doha's continued commitment to its mediation role while rejecting attempts to undermine diplomatic efforts.
+• Qatar's spokesperson Dr. Majed Al Ansari denied reports that Qatar offered $12 billion to Iran for a deal, [stating on X](https://x.com/majedalansari) such reports are "simply not true" and are being circulated by parties attempting to sabotage ongoing diplomatic efforts
 
 **Coverage Flags**
 
-International outlets are leading coverage of the U.S.-Iran negotiations and Hadi's death, while regional press focuses more heavily on Hajj ceremonies and Eid celebrations. The gap suggests potential for deeper NYT coverage of how Hadi's passing affects Yemen's peace process and presidential council dynamics. Trump's threats against Oman over Strait of Hormuz tolls merit follow-up on U.S.-Gulf ally tensions.
+International outlets are ahead on the US-Iran framework deal details, particularly regarding Oman's role in facilitating negotiations. Arabic-language coverage of the former Yemen president's death is more extensive than English reporting, suggesting cultural significance worth deeper exploration.
 
 **Sources**
 
-- [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)
-- [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
-- [Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
-- [BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
-- [Kuwait News Agency](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
-- [Saudi Press Agency](https://twitter.com/spagov)
-- [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
-- [Qatar News Agency](https://twitter.com/QNAEnglish)
-- [Sheikh Abdulla bin Zayed](https://twitter.com/ABZayed)
-- [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice)
+• [Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
+• [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)
+• [BBC](https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&amp;at_campaign=rss)
+• [Times of Oman](https://timesofoman.com//article/172348-temperature-crosses-475-degrees-in-oman)
+• [KUNA](https://kuna.net.kw)
+• [WAM](https://wam.ae/a/b1n6twr)
+• [Saudi Press Agency](https://spa.gov.sa/N2602369)
