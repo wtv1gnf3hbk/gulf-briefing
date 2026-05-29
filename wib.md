@@ -1,28 +1,26 @@
-**Iran nuclear talks.** The US and Iran reached a tentative agreement to extend the current ceasefire and begin new nuclear negotiations, according to [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). Vice President Vance said the US is "very close" to a deal but "not there yet," according to Reuters. The agreement would restore freedom of maritime navigation in the Strait of Hormuz to pre-February 28 levels.
+1. **US-Iran ceasefire talks.** The US and Iran reached a tentative deal to extend a ceasefire and begin new nuclear talks, according to AP reports. Secretary of State Rubio reported "slight progress" in negotiations as Pakistan renewed mediation efforts. Trump said the US was "not satisfied" with the deal yet, [per the BBC](https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&amp;at_campaign=rss).
 
-**Saudi Hajj season concludes.** Crown Prince Mohammed bin Salman received congratulations from regional leaders including Oman's Sultan Haitham, Kuwait's Emir, and Qatar's leadership on the successful completion of [Hajj 1447 AH](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah), according to Saudi Press Agency reports. Interior Minister Prince Abdulaziz bin Saud met with security officials and participating forces during the pilgrimage season.
+2. **Saudi Hajj season success.** Saudi Arabia successfully concluded the 1447 AH Hajj season, with regional leaders congratulating King Salman and Crown Prince Mohammed bin Salman. Prince Khalid bin Salman thanked God for honoring the kingdom with serving pilgrims to the holy sites. Qatar, Kuwait, Oman, and Bahrain leaderships all [sent congratulations](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah).
 
-**Oman-Iran Strait security.** Oman and Iran reaffirmed their commitment to security in the [Strait of Hormuz](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security), according to Times of Oman. The discussions took place as regional tensions continue over maritime security and the ongoing negotiations between Washington and Tehran.
+3. **Oman-Iran diplomatic talks.** Oman and Iran reaffirmed their commitment to Strait of Hormuz security during high-level discussions. Foreign Minister Badr Albusaidi held talks with Iran's Deputy Foreign Minister, reflecting what he called "the constructive nature" of bilateral dialogue. The discussions came following Trump's [recent threats](https://arabic.cnn.com/middle-east/article/2026/05/29/first-contact-between-foreign-ministers-of-iran-and-oman-trumps-threat) against Oman.
 
-**Saudi oil pricing adjustment.** Saudi Arabia may lower July oil prices to Asia as demand weakens, [Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/). The potential adjustment comes as Japan's April oil imports hit their lowest level since 1962, falling nearly 66% year-on-year due to supply disruptions from the Iran conflict.
+4. **Saudi oil price adjustments.** Saudi Arabia may lower July oil prices to Asia as demand weakens, Reuters reported. This comes as Japan's April oil imports hit their lowest level since 1962, falling nearly 66% year-on-year as the Iran war disrupts regional supply chains. The kingdom is adjusting pricing strategy following [market pressures](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/).
 
-**Qatar PM appointments.** Prime Minister Mohammed bin Abdulrahman Al Thani announced his appointment of Majed Al Ansari as advisor and official spokesman for the Ministry of Foreign Affairs. Al Thani expressed his commitment to serving Qatar under the leadership of Emir Sheikh Tamim bin Hamad Al Thani.
+5. **Yemen government leadership change.** The IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to Saba News Agency. Chairman of the Presidential Leadership Council called for unity and directing energies toward restoring state institutions. This follows ongoing tensions over individual decision-making within the [leadership council](https://sabannet.net).
 
-**UAE football ranking.** The UAE women's national football team tops Gulf and Arab rankings, [France 24 reports](https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85). Sheikh Mohammed bin Rashid reviewed UAE tourism achievements for 2025, while the UAE launched artificial intelligence assistants for government procurement and customer services.
+6. **UAE tourism sector review.** Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025, according to the UAE Media Office. The review comes as the UAE leads globally in artificial intelligence talent concentration, which grew 121% between 2019 and 2025. The findings reflect the leadership's focus on [building capabilities](https://twitter.com/UAEmediaoffice) for future economic development.
 
-**Bahrain fire rescue.** Bahrain's Civil Defence rescued five children from a house fire in Aali without casualties, the Ministry of Interior [reported](https://policemc.gov.bh/en/news/78966/). Investigations are underway to determine the cause of the fire.
+7. **Qatar Prime Minister appointment.** Emir Sheikh Tamim bin Hamad Al Thani appointed Mohammed bin Abdulrahman Al Thani as Prime Minister. Al Thani expressed honor at the trust placed in him and commitment to serving Qatar's advancement under the Emir's leadership. Majed Al Ansari was simultaneously [appointed advisor](https://twitter.com/majedalansari) to the Prime Minister.
 
-**Saudi Arabia-Ecuador match.** Saudi Arabia's national team is scheduled to play Ecuador in preparation for the 2026 World Cup, according to [annahar.com](https://www.annahar.com/sports/314762/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026). Princess Reema posted that preparations are underway with 20 days to go before the Green Falcons' World Cup opener.
+8. **Bahrain emergency response.** Bahrain's Civil Defense rescued five children from a house fire in the Aali area without casualties. The Interior Ministry reported investigations are underway to determine the fire's cause. The incident highlights ongoing emergency preparedness efforts across the [Gulf states](https://twitter.com/moi_bahrain).
 
-**Yemen government appointments.** The IRG-backed government appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to Saba News Agency. The move comes as various Yemeni factions continue to consolidate territorial control following recent military developments.
+9. **Riyadh Air fleet expansion.** Saudi Arabia's new national carrier Riyadh Air received its first Boeing 787 Dreamliner aircraft in Charleston, marking progress toward commercial operations. The airline's fleet expansion includes 72 Boeing 787-9 aircraft, 60 Airbus A321neo planes, and 50 Airbus A350-1000 aircraft. This represents a major step in Saudi aviation [sector development](https://twitter.com/alekhbariyatv).
 
-**Oman firefighters respond.** Firefighters in Oman contained a blaze at a blacksmith workshop in Seeb, [Times of Oman reported](https://timesofoman.com//article/172354-firefighters-contain-blacksmith-workshop-blaze-in-seeb). No casualties were reported from the incident.
+10. **Houthi naval operations continue.** Houthi spokesman Mohammed Abdulsalam announced that naval operations targeting ships supporting Israel would continue. Yemen's naval forces maintain their commitment to supporting Palestinians during the Gaza conflict. The Ansar Allah movement emphasized operations aim to pressure Israel rather than [challenge maritime](https://twitter.com/abdusalamsalah) security broadly.
 
-**Sources**
-- [Times of Oman](https://timesofoman.com)
-- [Reuters Gulf](https://www.reuters.com)
-- [AP News](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
-- [Google News Gulf (Arabic)](https://www.dw.com)
-- [France 24](https://www.france24.com)
-- [annahar.com](https://www.annahar.com)
+**Sources:**
+- [Times of Oman](https://timesofoman.com/)
+- [Reuters](https://www.reuters.com/)
+- [AP News](https://apnews.com/)
+- [BBC](https://www.bbc.com/)
+- [CNN Arabic](https://arabic.cnn.com/)
