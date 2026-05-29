@@ -1,32 +1,27 @@
-1. **Former Yemen President Abd Rabbuh Mansour Hadi dies.** AP News reported that Hadi, who governed mostly from exile during Yemen's civil war, died at age 80. The IRG leadership and other senior officials attended his funeral in Aden, marking the end of a controversial political career that spanned the transition from Ali Abdullah Saleh's rule through the Houthi insurgency.
+1. **Yemen's former president died.** Abdrabbuh Mansour Hadi, who led Yemen from 2012 to 2022 mostly from Saudi exile, died at age 80, according to [AP reports](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8). The IRG information minister confirmed the death, calling Hadi a "great national figure." Hadi had transferred power to the Presidential Leadership Council in 2022.
 
-2. **US and Iran near deal on Strait of Hormuz.** The BBC reported that US Vice President Vance said Washington and Tehran are "very close" to an agreement but "not there yet." Saudi Foreign Minister Prince Faisal bin Farhan [praised Trump's](https://twitter.com/FaisalbinFarhan) decision to give diplomacy a chance to restore maritime navigation security to pre-February 28 levels.
+2. **US-Iran negotiations continue but no deal yet.** Trump said the US is "not satisfied" with Iran deal terms and is "very close" but "not there yet," [BBC reports](https://www.bbc.com/news/articles/c74dy9jw1q9o). Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to "give diplomacy a chance" to restore Strait of Hormuz navigation security to pre-February 28th conditions.
 
-3. **Oman and Iran reaffirm Strait security cooperation.** Times of Oman reported the two countries renewed their commitment to securing the strategic waterway. Omani Foreign Minister Badr Albusaidi held [discussions with](https://twitter.com/badralbusaidi) Iran's Deputy Foreign Minister, describing the talks as reflecting "constructive nature of Oman-Iran dialogue" on reducing regional tensions.
+3. **Saudi Arabia successfully completed Hajj 1447.** The kingdom hosted over 2 million pilgrims with leaders from Kuwait, Oman, and Bahrain congratulating King Salman and Crown Prince Mohammed bin Salman on the successful pilgrimage season. Prince Khalid bin Salman thanked God for "honoring us with serving the Two Holy Mosques."
 
-4. **Saudi Arabia completes Hajj season 1447.** Crown Prince Mohammed bin Salman received congratulations from Gulf leaders on the successful pilgrimage season. Sultan Haitham of Oman and Kuwait's Emir were among those [praising Saudi](https://twitter.com/spagov) management of the holy sites and the smooth completion of rituals.
+4. **Oman and Iran reaffirmed Strait of Hormuz security.** The two nations committed to maintaining maritime security in the strategic waterway, [Times of Oman reports](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security). Omani Foreign Minister Badr Albusaidi met with Iran's Deputy FM to discuss diplomatic engagement and regional stability.
 
-5. **Bahrain condemns Iranian attack on Kuwait.** The Bahrain Foreign Ministry [strongly condemned](https://twitter.com/bahdiplomatic) what it described as Iranian aggression against Kuwait. The statement expressed solidarity with Kuwait following reported attacks, though details of the incidents remained unclear.
+5. **Saudi Arabia may cut July oil prices to Asia.** The kingdom is considering lowering crude prices for Asian customers as demand weakens, [Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/). This follows Japan's April oil imports hitting their lowest level since 1962 due to Iran war disruptions.
 
-6. **Saudi Arabia may lower July oil prices to Asia.** Reuters reported that the kingdom is considering reducing crude prices for Asian buyers as demand weakens. The move would reflect softer market conditions and increased competition from other suppliers in key Asian markets.
+6. **Qatar denied $12 billion Iran payment reports.** Foreign Ministry spokesperson Majed Al Ansari called reports that Qatar offered $12 billion to Iran "simply not true" and said they were being circulated by parties trying to "sabotage the deal" and undermine diplomatic efforts toward regional de-escalation.
 
-7. **UAE leads Gulf in AI talent growth.** Sheikh Abdullah bin Zayed noted that the UAE ranked first globally in artificial intelligence talent concentration, [growing 121%](https://twitter.com/ABZayed) between 2019 and 2025. He described this as embodying leadership vision to build human capabilities and create the future.
+7. **Bahrain condemned Iranian attack on Kuwait.** The kingdom's foreign ministry strongly condemned Iran's attack on Kuwait, according to [official statements](https://bit.ly/4dAMr6j). Bahrain called the attack a violation of international law and expressed solidarity with Kuwait's sovereignty.
 
-8. **New Qatar Prime Minister appointed.** Sheikh Mohammed bin Abdulrahman Al Thani was [appointed Prime Minister](https://twitter.com/MBA_AlThani_) by Emir Tamim bin Hamad Al Thani. Al Thani expressed gratitude for the trust placed in him and pledged to work with fellow ministers in serving the nation.
+8. **Trump threatened Oman over Iran mediation.** Arabic media reports suggested Trump threatened to "blow up" Oman over its mediating role with Iran, prompting the first contact between Iranian and Omani foreign ministers following the threat, [CNN Arabic reports](https://arabic.cnn.com/middle-east/article/2026/05/29/first-contact-between-foreign-ministers-of-iran-and-oman-trumps-threat).
 
-9. **UAE women top Gulf football rankings.** France 24 Arabic reported that Emirati women's football teams secured leading positions in both Gulf and Arab regional rankings. The achievement reflects continued investment in women's sports development across the Emirates.
+9. **UAE women's football team topped Gulf rankings.** The UAE women's national team leads both Gulf and Arab football rankings, [France 24 reports](https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85). The achievement highlights the UAE's growing investment in women's sports development.
 
-10. **Japan oil imports hit 1962 low.** Reuters reported that Japan's April oil imports fell to their lowest level since 1962 due to supply disruptions from the Iran conflict. The 66% year-on-year decline highlighted the global impact of Middle East tensions on energy markets.
+10. **Kuwait oil prices rose above $118.** Kuwait Petroleum Corporation announced oil prices increased $4.56 to $118.35 per barrel, [KUNA reports](https://kuna.net.kw/ArticleDetails.aspx?id=3305705). The price increase reflects ongoing supply disruptions from the Iran conflict affecting global energy markets.
 
 **Sources:**
-- [Times of Oman](https://timesofoman.com)
-- [Reuters](https://reuters.com)  
-- [AP News](https://apnews.com)
-- [BBC](https://bbc.com)
-- [Google News Gulf](https://news.google.com)
-- Prince Faisal bin Farhan [@FaisalbinFarhan](https://twitter.com/FaisalbinFarhan)
-- Badr Albusaidi [@badralbusaidi](https://twitter.com/badralbusaidi)
-- Saudi Press Agency [@spagov](https://twitter.com/spagov)
-- Bahrain MFA [@bahdiplomatic](https://twitter.com/bahdiplomatic)
-- Sheikh Abdullah bin Zayed [@ABZayed](https://twitter.com/ABZayed)
-- PM Al Thani [@MBA_AlThani_](https://twitter.com/MBA_AlThani_)
+• [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
+• [BBC](https://www.bbc.com/news/articles/c74dy9jw1q9o)
+• [Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)
+• [Times of Oman](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security)
+• [CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/05/29/first-contact-between-foreign-ministers-of-iran-and-oman-trumps-threat)
+• [France 24](https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85)
