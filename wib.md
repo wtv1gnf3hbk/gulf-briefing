@@ -1,29 +1,25 @@
-**U.S.-Iran ceasefire deal.** US and Iranian negotiators reached a tentative agreement to extend a 60-day ceasefire, with new nuclear talks to begin, according to [Reuters reports](https://www.reuters.com/world/middle-east/us-iran-mou-60-day-ceasefire-extension-reached-trump-must-approve-source-says-2026-05-28/). The deal requires President Trump's approval, though he expressed dissatisfaction with current terms, per the BBC.
+1. **Former Yemen president dead.** Abdrabbuh Mansour Hadi, who led Yemen from 2012 until Houthi/Ansar Allah forces ousted him in 2015, [died at](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8) 80. The IRG information minister Mohammed Al-Eryani and Southern Transitional Council figures offered condolences for the former president, who spent his final years in Saudi exile following the Houthi takeover.
 
-**Trump threatens Oman.** President Trump issued threats against Oman following warnings about Strait of Hormuz tolls, according to multiple Arabic news sources. US Treasury Secretary warned Muscat against facilitating such fees, which [Reuters indicates](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) could disrupt the critical shipping lane.
+2. **US-Iran ceasefire talks.** The US and Iran reached a tentative 60-day deal to ease tensions, according to [multiple reports](https://timesofoman.com//article/172342-us-iran-reach-tentative-60-day-deal-to-ease-tensions-trumps-approval-pending-axios-report), though Trump said the US was "not satisfied" yet. Saudi Foreign Minister Prince Faisal bin Farhan said the kingdom "highly appreciates" Trump's decision to give diplomacy a chance to restore Strait of Hormuz security.
 
-**Former Yemen president dies.** Abdrabbuh Mansour Hadi, who led Yemen's internationally recognized government during the civil war, died at age 80, [AP News reported](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8). The IRG government and various Yemeni factions issued statements mourning the former leader's passing.
+3. **Kuwait under attack.** Iran launched missile and drone attacks targeting Kuwait, prompting the [Kuwaiti army](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/) to activate air defenses. The Arab League, Organization of Islamic Cooperation, Iraq, and Palestine all condemned the Iranian attacks and expressed solidarity with Kuwait.
 
-**Saudi Crown Prince hosts Chad leader.** Crown Prince Mohammed bin Salman met President Mahamat Idriss Déby at Mina Palace during Hajj season, reviewing bilateral relations and regional cooperation, Saudi Press Agency announced. The meeting occurred during the annual reception for state dignitaries performing pilgrimage.
+4. **Hormuz shipping concerns.** Three oil and LNG tankers [exited the](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/) Strait of Hormuz with their transponders turned off, reflecting ongoing maritime security tensions. US Treasury Secretary Scott Bessent warned that Oman has assured Washington it will not impose tolls on the strategic waterway, following Trump's earlier threats to "blow up" Oman if it supports Iran.
 
-**Israel strikes Lebanon.** Israeli forces conducted their first strike on Beirut suburbs in weeks, targeting Hezbollah positions, according to [Reuters](https://www.reuters.com/world/middle-east/israel-carries-out-strike-beirut-suburbs-first-near-capital-weeks-2026-05-28/). The BBC reported the operation followed large-scale evacuation orders issued by Israeli military.
+5. **Saudi Crown Prince hosts Chad.** Crown Prince Mohammed bin Salman met with Chad's President Mahamat Idriss Déby at Mina Palace during Hajj season to review bilateral relations and cooperation prospects. The meeting occurred as [part of](https://twitter.com/spagov) the annual royal reception for state dignitaries and government guests participating in this year's pilgrimage.
 
-**UAE tourism achievements.** Sheikh Mohammed bin Rashid reviewed the UAE tourism sector's 2025 performance achievements, the UAE government media office announced. The review highlighted the country's continued growth in attracting international visitors and tourism revenue expansion.
+6. **Yemen prisoner exchange progress.** The Saudi ambassador to Yemen Mohammed Al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the truce and ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni components. Al-Jabir emphasized that nearly 2 million Yemenis work safely in Saudi Arabia, transferring over $4 billion annually to benefit approximately 15 million family members in Yemen.
 
-**Saudi Hajj operations.** Interior Minister Prince Abdulaziz bin Saud received foreign counterparts including Jordan and Malaysia's interior ministers during Hajj management activities. Al Ekhbariya TV reported smooth crowd movement at the Grand Mosque with active female participation in pilgrim guidance services.
+7. **Gaza military leadership hit.** Israel killed the new head of Hamas's military wing in a [strike in](https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss) Gaza City, according to the BBC. The attack represents a significant blow to Hamas's command structure as the group continues to face intense Israeli military pressure.
 
-**Qatar condemns Iran attacks.** Qatar's Foreign Ministry strongly condemned Iranian missile and drone attacks targeting Kuwait, reaffirming solidarity with Kuwait's security and sovereignty, according to Qatar News Agency. The statement called for restraint and peaceful dialogue to resolve regional tensions.
+8. **Qatar diplomatic moves.** Qatar's newly appointed Prime Minister Mohammed bin Abdulrahman Al Thani received congratulations from regional leaders following his appointment. The country's foreign ministry spokesman Majed Al Ansari dismissed reports that Qatar offered $12 billion to Iran for a deal as "simply not true."
 
-**Oman-UK collaboration launches.** Prince William and Oman's Culture Minister Sayyid Theyazin bin Haitham launched the "Oman: The Jewel of Arabia" expedition project in London, Oman News Agency reported. The initiative builds on long-standing bilateral ties between the sultanate and United Kingdom.
+9. **UAE AI leadership.** The UAE ranked first globally in artificial intelligence talent concentration growth, with a 121% increase between 2019 and 2025, according to Sheikh Abdullah bin Zayed. The announcement came as the UAE launched new AI-powered government services and attended the national government retreat in Abu Dhabi.
 
-**Yemen government appointments.** The IRG-backed government appointed Ahmed Hamid Lamlas as Aden governor while continuing calls for Saudi intervention against alleged Emirati interference, according to Saba News Agency. Presidential Council Chairman Al-Alimi emphasized unity among ranks to restore state institutions.
+10. **Omani royal diplomacy.** Sultan Haitham performed Eid prayers in Sohar while his son Prince Theyazin met with Prince William at Windsor Castle to discuss UK-Oman relations. Foreign Minister Badr Albusaidi held constructive talks with Iran's deputy foreign minister, reaffirming Oman's role in supporting diplomatic engagement and reducing regional tensions.
 
 **Sources**
-- [Reuters Gulf](https://www.reuters.com)
-- [Associated Press](https://apnews.com)  
-- [BBC Middle East](https://www.bbc.com)
-- Saudi Press Agency
-- UAE Government Media Office
-- Qatar News Agency
-- Oman News Agency
-- Saba News Agency (IRG)
+- [Associated Press](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
+- [Reuters](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)
+- [Times of Oman](https://timesofoman.com//article/172342-us-iran-reach-tentative-60-day-deal-to-ease-tensions-trumps-approval-pending-axios-report)
+- [BBC Middle East](https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss)
