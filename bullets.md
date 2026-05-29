@@ -1,65 +1,87 @@
 **Top News**
 
-- Yemen former President Abdrabbuh Mansour Hadi died at 80 following a battle with illness, the IRG Information Minister ([announced](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
+- **Yemen:** Former President Abdrabbuh Mansour Hadi died at age 80, the IRG-aligned government ([AP reports](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
 
-- Saudi Arabia may lower July oil prices to Asia as demand weakens, according to ([Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)).
+- **Saudi Arabia:** The kingdom announced completion of this year's Hajj season, with Gulf leaders congratulating King Salman and Crown Prince Mohammed bin Salman on the successful pilgrimage ([Al Jazeera reports](https://www.aljazeera.net/news/2026/5/29/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AD%D8%AC-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85)).
 
-- US and Iran remain "very close" to a deal but "not there yet," VP Vance told the ([BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss)).
+- **Iran-US:** President Trump said the US is "not satisfied" with Iran deal progress yet, following continued diplomatic engagement after recent military strikes ([BBC reports](https://www.bbc.com/news/articles/c74dy9jw1q9o)).
 
-- Saudi Foreign Minister Prince Faisal bin Farhan expressed appreciation for Trump giving diplomacy a chance to restore Strait of Hormuz navigation, he ([tweeted](https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27/)).
+- **Oman:** Trump threatened to "blow up" ally Oman following tensions over regional diplomatic initiatives, per ([DW reports](https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D9%80%D9%86%D8%B3%D9%81-%D8%AD%D9%84%D9%8A%D9%81%D8%AA%D9%87-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A9/a-77337688)).
 
-- US warned Oman against facilitating tolls for Strait of Hormuz passage, ([Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)).
+- **Yemen:** Saudi Ambassador Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to discuss ceasefire consolidation and prisoner exchanges in support of comprehensive peace talks.
 
-- Bahrain strongly condemned Iranian attacks on Kuwait, the Foreign Ministry ([stated](https://bit.ly/4dAMr6j)).
+- **UAE:** Emirates unveiled a special Arsenal FC livery on an A380 aircraft celebrating the club's Premier League title victory.
 
 **Energy & Economy**
 
-- Kuwait oil prices rose $4.56 to $118.35 per barrel, Kuwait Petroleum Corporation ([announced](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)).
+- **Saudi Arabia:** The kingdom may lower July oil prices to Asian buyers as global demand weakens, ([Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)).
 
-- Japan oil imports in April hit lowest since 1962 as Iran war disrupted supply chains, ([Reuters reports](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/)).
+- **Oman:** The official selling price for Oman crude fell to $102 per barrel for July deliveries ([Al Arabiya reports](https://www.alarabiya.net/amp/aswaq/oil-and-gas/2026/05/29/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A-%D9%84%D8%AE%D8%A7%D9%85-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%89-102-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%81%D9%8A-%D9%8A%D9%88%D9%84%D9%8A%D9%88)).
 
-- UAE leads globally in AI talent concentration, growing 121% between 2019-2025, Foreign Minister Abdullah bin Zayed ([highlighted](https://twitter.com/ABZayed)).
+- **Kuwait:** Oil prices rose $4.56 to $118.35 per barrel, Kuwait Petroleum Corporation announced.
+
+- **Japan:** April oil imports hit their lowest level since 1962 following Iran war disruptions to global supply ([Reuters reports](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met Chad President at Mina Palace during Hajj, Saudi Press Agency ([reported](https://spa.gov.sa/N2602420)).
-- Prince Khalid bin Salman met UK National Security Adviser Jonathan Powell to discuss bilateral cooperation and regional ([tensions](https://twitter.com/kbsalsaud)).
-- Bahrain leadership congratulated Saudi leadership on successful Hajj season 1447 AH, state media ([confirmed](http://spa.gov.sa/ar/w2602707)).
+- Crown Prince Mohammed bin Salman met with Chad's President at Mona Palace to discuss bilateral relations and cooperation prospects.
+
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional security coordination.
+
+- Prince Faisal bin Farhan praised President Trump's decision to give diplomacy a chance to restore Strait of Hormuz security.
 
 **UAE**
-- Dubai unveiled Arsenal-themed A380 livery celebrating the club's Premier League title, Emirates ([announced](https://twitter.com/DXBMediaOffice)).
-- UAE leaders congratulated El Salvador President on re-election, WAM ([reported](https://wam.ae/a/b1n6twr)).
+- Mohammed bin Rashid reviewed 2025 tourism sector achievements during a government retreat focused on AI integration.
+
+- UAE ranked first globally in AI talent concentration growth, increasing 121% between 2019 and 2025, Sheikh Abdullah bin Zayed noted.
+
+- Abu Dhabi's Department of Government Empowerment expanded Emirati employment opportunities through the Mawaheb Talent Hub in Q1 2026.
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was officially appointed by Emir Tamim, he ([announced](https://twitter.com/MBA_AlThani_)).
-- Qatar denied reports suggesting it offered $12 billion to Iran for a deal, Foreign Ministry spokesman Majed Al Ansari ([clarified](https://twitter.com/majedalansari)).
+- Mohammed bin Abdulrahman Al Thani was appointed Prime Minister by Emir Tamim bin Hamad Al Thani.
+
+- Qatar denied reports suggesting it offered $12 billion to Iran for a diplomatic deal, calling such claims false and designed to sabotage negotiations.
 
 **Oman**
-- Sultan Haitham offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, Oman News Agency ([reported](http://n9.cl/adorv)).
-- Foreign Minister Badr Albusaidi held discussions with Iran Deputy FM on regional ([dialogue](https://twitter.com/badralbusaidi)).
+- Sultan Haitham performed Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar.
+
+- Foreign Minister Badr Albusaidi held "constructive dialogue" with Iran's Deputy Foreign Minister, reaffirming Oman's role in regional diplomacy.
 
 **Kuwait**
-- Health Ministry urged returning Hajj pilgrims to follow preventive health guidelines, KUNA ([advised](https://kuna.net.kw/ArticleDetails.aspx?id=3305706)).
+- Pilgrims completed the second day of Tashreeq stone-throwing rituals at Jamarat.
+
+- Kuwait's health ministry advised returning Hajj pilgrims to follow preventive health guidelines.
+
+**Bahrain**
+- The kingdom strongly condemned Iranian attacks on Kuwait, according to the Ministry of Foreign Affairs.
 
 **Yemen**
-- Southern Transitional Council President Aidarous al-Zubaidi received full support for security operations, STC ([declared](http://stcaden.com/news/10114)).
-- Ahmed Hamid Lamlas was appointed governor of Aden Governorate by the IRG, Saba News Agency ([reported](https://sabanew.net)).
+- IRG Chairman Rashad Al-Alimi and officials attended former President Hadi's funeral following his death after a lengthy national service.
+
+- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG.
+
+- Southern Transitional Council President Aidarous Al-Zubaidi performed Umrah rituals in Mecca.
 
 **Official Signals**
 
-- Saudi Ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with Omani delegation to consolidate ceasefire and discuss ([dialogue](https://twitter.com/mohdsalj)).
+- Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy more time for Iran-US negotiations to restore Strait of Hormuz security.
 
-- Houthi spokesman Mohammed Abdulsalam published a four-point agreement text covering banking decisions, Yemenia flights, and future ([meetings](https://twitter.com/abdusalamsalah)).
+- Qatar's Foreign Ministry spokesman Majed Al Ansari was appointed as advisor to the new Prime Minister and official ministry spokesperson.
 
 **Coverage Flags**
 
-- Multiple Gulf outlets remain inaccessible due to security verification requirements, affecting real-time coverage from Al Jazeera Arabic, Financial Times, Wall Street Journal, and others.
+- Multiple official accounts are celebrating successful completion of Hajj 1447 AH, with extensive social media coverage from Saudi ministries and royal family members.
+
+- Several Western news outlets (FT, WSJ, Economist) showing security verification pages, indicating possible technical issues or regional access restrictions.
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com)
-- [Reuters Gulf](https://www.reuters.com)
-- [Associated Press](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
-- [Google News Gulf Arabic](https://news.google.com)
+- [Reuters Gulf](https://www.reuters.com/business/energy)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Al Jazeera Arabic](https://www.aljazeera.net)
+- [Al Arabiya](https://www.alarabiya.net)
+- [CNN Arabic](https://arabic.cnn.com)
+- [DW Arabic](https://www.dw.com/ar)
