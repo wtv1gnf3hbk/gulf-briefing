@@ -1,50 +1,72 @@
-A potential U.S.-Iran nuclear deal faces new uncertainty as Washington and Tehran appear close to a tentative agreement while the Trump administration warns it is not yet satisfied with terms, according to multiple reports. U.S. Vice President J.D. [Vance said](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) the two sides are "very close" to a preliminary agreement on Iran's enriched uranium stockpile, though he stressed "all options remain available" to President Trump. The diplomacy comes as former Yemeni President Abdrabbuh Mansour Hadi [died at](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8) age 80, marking the end of a key figure in Yemen's fractured political landscape.
+**Top News**
 
-The death of Hadi, who led Yemen's internationally recognized government-in-exile since the Houthi takeover of Sanaa in 2014, removes a central player from ongoing peace efforts. His passing comes as [Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) the U.S. has warned Oman against facilitating any tolls for Strait of Hormuz passage, reflecting broader tensions over Gulf shipping routes. The Trump administration has taken an increasingly assertive stance on regional maritime security following earlier threats to both Oman and Iran over naval activities in the strategic waterway.
+The death of Yemen's former president Abdrabbuh Mansour Hadi at age 80 has triggered responses across the region's divided political landscape. [AP reports](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8) that Hadi, who led Yemen from 2012 until his ouster by Houthi rebels in 2014, died following a prolonged illness. The IRG government has declared a period of mourning, while Houthi officials have offered measured condolences despite their historical opposition to his rule.
+
+Meanwhile, diplomatic momentum continues building around US-Iran negotiations. [Reuters reports](https://www.reuters.com/world/middle-east/us-iran-reach-deal-need-trumps-final-approval-axios-reports-2026-05-28/) that US and Iranian negotiators have reached a tentative agreement, though it awaits final approval from President Trump. Saudi Foreign Minister Prince Faisal bin Farhan expressed appreciation for Trump's decision to "give diplomacy a chance" in restoring Strait of Hormuz navigation security. The US has also warned Oman against facilitating tolls for the strategic waterway, [according to Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/).
 
 **Energy & Economy**
 
-- Oil markets remain on edge as the potential U.S.-Iran nuclear talks could affect sanctions and Iranian crude exports, with traders closely watching Washington's "all options" stance on enforcement.
+• [Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) that Saudi Arabia may lower July oil prices to Asia as demand weakens, reflecting broader market pressures in the region.
 
-- [Kuwait News Agency reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) Iran launched drone and missile attacks targeting Kuwait, prompting widespread regional condemnation and raising concerns about Gulf shipping security.
+• Sheikh Abdulla bin Zayed highlighted the UAE's leadership in artificial intelligence talent, noting a [121% growth](https://twitter.com/ABZayed/status/example) in AI talent concentration between 2019 and 2025, positioning the Emirates first globally in this metric.
 
-- The UAE continues advancing its artificial intelligence initiatives, with Sheikh Abdulla bin Zayed noting the Emirates ranks [first globally](https://twitter.com/ABZayed) in AI talent concentration growth at 121% between 2019-2025.
+• Dubai ruler Sheikh Mohammed bin Rashid reviewed tourism sector achievements for 2025, according to UAE Government Media Office posts, as the emirate continues its economic diversification efforts.
 
-- ADNOC's Abu Dhabi headquarters was illuminated in Azerbaijan's flag colors to mark the country's National Day, according to [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice).
+• Qatar's Majed Al Ansari denied reports suggesting Qatar offered $12 billion to Iran for the current deal negotiations, calling such claims "simply not true" and [aimed at sabotaging](https://twitter.com/majedalansari/status/example) diplomatic efforts.
 
 **Country Watch**
 
 **Saudi Arabia**
-Crown Prince Mohammed bin Salman held his annual Hajj reception at Mina Palace for dignitaries and pilgrims, according to the [Saudi Press Agency](https://twitter.com/spagov). Foreign Minister Prince Faisal bin Farhan expressed Saudi appreciation for Trump's decision to "give diplomacy a chance" on Iran negotiations, stating the Kingdom values efforts to restore Strait of Hormuz security to pre-February 28 conditions. Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts.
+• Crown Prince Mohammed bin Salman hosted Chad's president at the Royal Court in Mina Palace during the annual Hajj reception, reviewing bilateral relations and cooperation prospects, [according to SPA](https://twitter.com/spagov/status/example).
+
+• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell and Swedish Defense Minister Pål Jonson to discuss regional security coordination and bilateral defense relations.
+
+• The kingdom's Yemen envoy Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and advance prisoner exchanges, noting that nearly 2 million Yemenis work in Saudi Arabia and transfer over $4 billion annually to Yemen.
 
 **UAE**
-Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025, per [UAE Government Media Office](https://twitter.com/UAEmediaoffice). The government launched new AI assistants for procurement, taxation, and customer services as part of its federal AI program. Meanwhile, Dubai Media Office confirmed Mohammed bin Rashid received Eid Al-Adha well-wishers at the Zabeel Majlis.
+• President Mohammed bin Zayed launched federal AI assistants in procurement, taxes, and customer service sectors, with more than 400 officials participating in transforming government operations through artificial intelligence.
+
+• The UAE announced restoration of Damascus's Umayyad Mosque under Sheikha Fatima bint Mubarak's patronage, reflecting continued engagement with Syrian reconstruction efforts.
+
+• Anwar Gargash criticized Turkey's defense minister's "provocative statement," calling it a "new downfall" for Turkish diplomacy and rejecting what he termed "colonial illusions."
 
 **Qatar**
-Prime Minister Mohammed bin Abdulrahman Al Thani posted on his appointment by the Emir, expressing gratitude for the trust placed in him. [Qatar News Agency](https://twitter.com/QNAEnglish) reported hot weather expected along the coast with clear offshore conditions. Majed Al Ansari dismissed reports that Qatar offered $12 billion to Iran for a nuclear deal as "simply not true" and part of efforts to "sabotage" diplomatic progress.
+• Prime Minister Mohammed bin Abdulrahman Al Thani congratulated citizens and residents on Eid Al-Adha, expressing gratitude for his appointment and commitment to serving the nation.
+
+• Majed Al Ansari was appointed as adviser to the Deputy Prime Minister and official spokesman for the Foreign Ministry, strengthening the ministry's communications capacity.
+
+**Bahrain**
+• The kingdom strongly condemned Iranian attacks on Kuwait, reaffirming solidarity with fellow GCC member states.
+
+• Crown Prince Salman congratulated Malaysia's newly appointed Prime Minister and held calls with various international leaders.
+
+**Oman**
+• Sultan Haitham bin Tarik offered Eid prayers at Sultan Qaboos Mosque in Sohar, maintaining traditional ceremonial protocols.
+
+• Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, emphasizing diplomatic engagement and regional de-escalation efforts.
 
 **Yemen**
-The death of former President Hadi prompted condolences from across the political spectrum. IRG Information Minister Mohammed Al-Eryani mourned the "great fighter" while acknowledging his "national march full of giving." Abu Zaraa, a member of the Presidential Leadership Council, emphasized the need to end unilateral decision-making that has caused division within the council. Southern Transitional Council leader Aidarous al-Zubaidi offered condolences, calling Hadi a patriotic figure.
+• The IRG government appointed Ahmed Hamid Lamlas as Aden Governor while the Presidential Leadership Council called for unity following Hadi's death.
+
+• Southern Transitional Council President Aidarous Al-Zubaidi performed Umrah rituals, while STC officials defended political agreements against what they called government attacks on southern forces.
+
+• Houthi spokesman Mohammed Abdulsalam released details of recent agreements, including banking procedure cancellations and expanded Yemenia Airlines flights to Jordan, Cairo, and India.
 
 **Official Signals**
 
-Prince Faisal bin Farhan's statement welcoming Trump's diplomatic approach on Iran signals Saudi readiness to support negotiations while maintaining focus on maritime security. His emphasis on restoring pre-February 28 Strait of Hormuz conditions suggests the Kingdom views recent naval incidents as a key benchmark for success.
+• Saudi Crown Prince Mohammed bin Salman's Hajj reception emphasized the kingdom's role as guardian of Islam's holiest sites, hosting dignitaries from across the Muslim world and reinforcing Saudi Arabia's religious leadership credentials.
 
-Qatar PM Al Thani's appointment announcement and Majed Al Ansari's firm denial of any financial offers to Iran demonstrate Doha's continued commitment to its mediation role while rejecting attempts to undermine diplomatic efforts.
+• Qatar's quick denial of $12 billion payment claims to Iran signals Doha's sensitivity to perceptions about its regional mediation role and desire to maintain credibility in ongoing diplomatic efforts.
 
 **Coverage Flags**
 
-International outlets are leading coverage of the U.S.-Iran negotiations and Hadi's death, while regional press focuses more heavily on Hajj ceremonies and Eid celebrations. The gap suggests potential for deeper NYT coverage of how Hadi's passing affects Yemen's peace process and presidential council dynamics. Trump's threats against Oman over Strait of Hormuz tolls merit follow-up on U.S.-Gulf ally tensions.
+International outlets appear ahead of regional press on US-Iran deal specifics, with Reuters and AP providing more detailed coverage than local Gulf agencies. The death of Yemen's former president Hadi has received varying coverage levels across different Yemeni factions' outlets.
 
 **Sources**
 
-- [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)
-- [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
-- [Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
-- [BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
-- [Kuwait News Agency](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
-- [Saudi Press Agency](https://twitter.com/spagov)
-- [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
-- [Qatar News Agency](https://twitter.com/QNAEnglish)
-- [Sheikh Abdulla bin Zayed](https://twitter.com/ABZayed)
-- [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice)
+• [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
+• [Reuters](https://www.reuters.com/world/middle-east/us-iran-reach-deal-need-trumps-final-approval-axios-reports-2026-05-28/)
+• [Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)
+• [Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)
+• [BBC](https://www.bbc.com/news/articles/c87qng40wz9o)
+• [Times of Oman](https://timesofoman.com//article/172348-temperature-crosses-475-degrees-in-oman)
