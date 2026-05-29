@@ -75,26 +75,48 @@ function callClaudeOnce(prompt, systemPrompt = '', images = []) {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
+        const status = res.statusCode || 0;
+        // 429 (rate limit) and 5xx (incl. Cloudflare 520/529 gateway errors)
+        // are transient. Classify on status code BEFORE attempting to parse
+        // the body — these often arrive as non-JSON HTML error pages.
+        if (status === 429 || status >= 500) {
+          const err = new Error(`HTTP ${status} from Anthropic API: ${data.slice(0, 150)}`);
+          err.retryable = true;
+          return reject(err);
+        }
         try {
           const json = JSON.parse(data);
           if (json.error) {
-            // Mark overloaded/rate-limit as retryable
+            // A well-formed API error. overloaded_error / rate_limit_error are
+            // transient; everything else (auth, invalid_request) is fatal.
+            const type = json.error.type || '';
+            const isTransient = type === 'overloaded_error' || type === 'rate_limit_error';
             const err = new Error(json.error.message);
-            err.retryable = res.statusCode === 529 || res.statusCode === 429;
+            err.retryable = isTransient;
             reject(err);
           } else {
             resolve(json.content[0].text);
           }
         } catch (e) {
-          reject(new Error('Failed to parse API response: ' + data.slice(0, 200)));
+          // Body wasn't JSON despite a non-5xx status (rare gateway case).
+          const err = new Error('Failed to parse API response: ' + data.slice(0, 200));
+          err.retryable = true;
+          reject(err);
         }
       });
     });
 
-    req.on('error', reject);
+    // Network-level errors (ECONNRESET, ETIMEDOUT, DNS) are transient.
+    req.on('error', (e) => {
+      const err = new Error(`Network error: ${e.message}`);
+      err.retryable = true;
+      reject(err);
+    });
     req.setTimeout(120000, () => {
       req.destroy();
-      reject(new Error('API timeout'));
+      const err = new Error('API timeout');
+      err.retryable = true;
+      reject(err);
     });
 
     req.write(body);
