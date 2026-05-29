@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T04:13:04.422Z",
+  "updated": "2026-05-29T04:15:35.736Z",
   "itemCount": 300,
   "items": [
     {
@@ -21,6 +21,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-05-29T03:31:32.000Z"
+    },
+    {
+      "headline": "World News: Top &amp; Breaking World News Today - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-29T03:28:59.000Z"
     },
     {
       "headline": "KSrelief Distributes 584 Sacrificial Animals in Yemen's Al-Mahrah Governorate",
@@ -2475,7 +2485,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-28T16:14:42.000Z",
-      "originalHeadline": "إلى أين تقود تهد��دات ترامب لسلطنة عمان وتحركاته تجاه الخليج؟ - BBC"
+      "originalHeadline": "إلى أين تقود تهديدات ترامب لسلطنة عمان وتحركاته تجاه الخليج؟ - BBC"
     },
     {
       "headline": "Between the voices of the Talbiyah and the hands of charity, the highest forms of giving are embodied at the entrances to the Jamarat facility \n\nVia news correspondent Fadwa Mutabaqani\n\n#Hajj_across_news",
@@ -3226,18 +3236,6 @@
       "date": "2026-05-28T13:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "« المحلول الأبيض » يبتلع عمال مصنع في واشنطن"
-    },
-    {
-      "headline": "Americans infected with Ebola in Africa are banned from entering their country",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/05/28/ebola-kenya-trump-administration",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-05-28T13:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الأمريكيون المصابون بفيروس إيبولا في إفريقيا يُمنع عليهم دخول بلادهم"
     }
   ]
 }
