@@ -1,28 +1,28 @@
-**Gulf News Briefing**
+**Iran nuclear talks.** The US and Iran reached a tentative agreement to extend the current ceasefire and begin new nuclear negotiations, according to [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). Vice President Vance said the US is "very close" to a deal but "not there yet," according to Reuters. The agreement would restore freedom of maritime navigation in the Strait of Hormuz to pre-February 28 levels.
 
-1. **Saudi Hajj season.** Saudi Arabia successfully concluded this year's Hajj season (1447 AH), with Crown Prince Mohammed bin Salman and King Salman receiving congratulations from Gulf leaders. Kuwait's Emir, Oman's Sultan, and Bahrain's leadership all praised the Kingdom's management of the pilgrimage, according to [Saudi Press Agency](https://spa.gov.sa/N2602764).
+**Saudi Hajj season concludes.** Crown Prince Mohammed bin Salman received congratulations from regional leaders including Oman's Sultan Haitham, Kuwait's Emir, and Qatar's leadership on the successful completion of [Hajj 1447 AH](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah), according to Saudi Press Agency reports. Interior Minister Prince Abdulaziz bin Saud met with security officials and participating forces during the pilgrimage season.
 
-2. **U.S.-Iran diplomacy.** President Trump said Washington remains "not there yet" on finalizing a deal with Iran, despite ongoing negotiations for a ceasefire and potential nuclear talks. AP News reported U.S. and Iranian negotiators reached a [tentative deal](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) to extend the ceasefire and begin new nuclear discussions.
+**Oman-Iran Strait security.** Oman and Iran reaffirmed their commitment to security in the [Strait of Hormuz](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security), according to Times of Oman. The discussions took place as regional tensions continue over maritime security and the ongoing negotiations between Washington and Tehran.
 
-3. **OPEC oil pricing.** Saudi Arabia may lower its July oil prices to Asia as demand weakens, according to Reuters. The potential price adjustment comes as Japan's April oil imports fell to their lowest level since 1962, with Iran war disruptions affecting [global supply](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/).
+**Saudi oil pricing adjustment.** Saudi Arabia may lower July oil prices to Asia as demand weakens, [Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/). The potential adjustment comes as Japan's April oil imports hit their lowest level since 1962, falling nearly 66% year-on-year due to supply disruptions from the Iran conflict.
 
-4. **Oman-Iran dialogue.** Oman and Iran reaffirmed their commitment to Strait of Hormuz security during recent discussions. Omani Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, according to Times of Oman, reflecting the constructive nature of [Oman-Iran dialogue](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security).
+**Qatar PM appointments.** Prime Minister Mohammed bin Abdulrahman Al Thani announced his appointment of Majed Al Ansari as advisor and official spokesman for the Ministry of Foreign Affairs. Al Thani expressed his commitment to serving Qatar under the leadership of Emir Sheikh Tamim bin Hamad Al Thani.
 
-5. **UAE artificial intelligence.** The UAE ranked first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025. Sheikh Abdullah bin Zayed highlighted this achievement as reflecting the leadership's vision of building people and attracting minds to create the future.
+**UAE football ranking.** The UAE women's national football team tops Gulf and Arab rankings, [France 24 reports](https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260529-%D8%B3%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85). Sheikh Mohammed bin Rashid reviewed UAE tourism achievements for 2025, while the UAE launched artificial intelligence assistants for government procurement and customer services.
 
-6. **Qatar new PM.** Qatari Emir Sheikh Tamim bin Hamad Al Thani appointed Mohammed bin Abdulrahman Al Thani as Prime Minister. Al Thani expressed honor at the appointment and his commitment to serving the nation under the Emir's wise leadership.
+**Bahrain fire rescue.** Bahrain's Civil Defence rescued five children from a house fire in Aali without casualties, the Ministry of Interior [reported](https://policemc.gov.bh/en/news/78966/). Investigations are underway to determine the cause of the fire.
 
-7. **Bahrain Iran condemnation.** Bahrain strongly condemned Iran's attack on Kuwait, with the Foreign Ministry calling for protection of civilians and regional stability. The EU also condemned the Iranian attack, according to Kuwait News Agency.
+**Saudi Arabia-Ecuador match.** Saudi Arabia's national team is scheduled to play Ecuador in preparation for the 2026 World Cup, according to [annahar.com](https://www.annahar.com/sports/314762/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7-%D9%84%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026). Princess Reema posted that preparations are underway with 20 days to go before the Green Falcons' World Cup opener.
 
-8. **Yemen leadership council.** Yemen's Presidential Leadership Council Chairman called for unity of ranks and directing all energies toward restoring state institutions. IRG sources indicated the Chairman met with various officials to discuss the political situation.
+**Yemen government appointments.** The IRG-backed government appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to Saba News Agency. The move comes as various Yemeni factions continue to consolidate territorial control following recent military developments.
 
-9. **Emirates Arsenal partnership.** Emirates Airlines unveiled a special A380 livery celebrating Arsenal FC's Premier League victory. The bespoke design reflects Emirates' longstanding partnership with Arsenal and commitment to connecting fans with major sporting moments.
+**Oman firefighters respond.** Firefighters in Oman contained a blaze at a blacksmith workshop in Seeb, [Times of Oman reported](https://timesofoman.com//article/172354-firefighters-contain-blacksmith-workshop-blaze-in-seeb). No casualties were reported from the incident.
 
-10. **UAE women's football.** UAE women topped Gulf and Arab football rankings, according to France 24. The achievement highlights the UAE's growing prominence in women's sports development across the region.
-
-**Sources:**
+**Sources**
 - [Times of Oman](https://timesofoman.com)
 - [Reuters Gulf](https://www.reuters.com)
-- [AP Gulf](https://apnews.com)
+- [AP News](https://apnews.com)
 - [BBC Middle East](https://www.bbc.com)
-- [Kuwait News Agency](https://kuna.net.kw)
+- [Google News Gulf (Arabic)](https://www.dw.com)
+- [France 24](https://www.france24.com)
+- [annahar.com](https://www.annahar.com)
