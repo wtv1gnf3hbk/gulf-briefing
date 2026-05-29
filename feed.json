@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T16:33:18.646Z",
+  "updated": "2026-05-29T16:45:57.200Z",
   "itemCount": 300,
   "items": [
     {
@@ -32,28 +32,6 @@
       "language": "ar",
       "date": "2026-05-29T16:04:38.000Z",
       "originalHeadline": "التعاون الإسلامي يشيد بنجاح موسم الحج ويثمن جهود السعودية في خدمة ضيوف الرحمن - اليوم السابع"
-    },
-    {
-      "headline": "Israel Plan to Seize More of Gaza Means More Children Will Suffer , Says UN",
-      "url": "https://english.aawsat.com/arab-world/5278455-israel-plan-seize-more-gaza-means-%E2%80%98more-children-will-suffer%E2%80%99-says-un",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-29T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says Now Making Final Determination on Iran Deal",
-      "url": "https://english.aawsat.com/world/5278459-trump-says-now-making-%E2%80%98final-determination%E2%80%99-iran-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-05-29T16:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Hamas Calls Netanyahu Plan to Expand Control in Gaza a Dangerous Escalation",
@@ -91,6 +69,28 @@
     {
       "headline": "Half of France Hits New Monthly Records in Heatwave",
       "url": "https://english.aawsat.com/varieties/5278461-half-france-hits-new-monthly-records-heatwave",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel Plan to Seize More of Gaza Means More Children Will Suffer , Says UN",
+      "url": "https://english.aawsat.com/arab-world/5278455-israel-plan-seize-more-gaza-means-%E2%80%98more-children-will-suffer%E2%80%99-says-un",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-05-29T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says Now Making Final Determination on Iran Deal",
+      "url": "https://english.aawsat.com/world/5278459-trump-says-now-making-%E2%80%98final-determination%E2%80%99-iran-deal",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -474,7 +474,7 @@
       "date": "2026-05-29T14:08:32.000Z"
     },
     {
-      "headline": "Oman oil losses exceed $6 per barrel in futures contracts - Mubasher Information",
+      "headline": "Oman oil losses exceed $6 per barrel in futures contracts - Mubasher Info",
       "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQSU9ZNzdpWXlYYU40MU9qMkJOR1piN3dfby1rZzRDSm4tbDl4WC1WaXp0aV83eThsd3EzRnVuVmtWN2Q0bk5TaE5jVEVWOEpqNnJEVXBqam5kTm9zX2pTUnd2b2pmVFZXRzNjcFV1b2ZCajJEVU91RHc0T0EybU5Zb1hEMjFRM2pQZUM4dHJIcFhYZmlNd1BzYTFtTTF2Z0FJd2FTalFJQXVQcGkzMi1xd3JfVHhGOHpjQll1b1ZvTmZHaUdCY1h4Mmc5N0V1WHdvRzNXamswTkRIOXd3d19kNE1QNGVqaExwMDU2N19LT0NfQThEU1FzMVhUOUtxdEw4SXpCMG5PSEZpYjhJam9oNkVpR192c0hoZUwwZUViMWM0NUVFS2luMHNsQ2lNM3owcWpYak5jQmpMMzliaENpeEQ4MlBYMXY3SEk0YmxkTWc4YWlRSXoyUXJINjB4aHpzd0hOTTJqOV84UVF3U09Sb1VjTVRmMHl0dXBBRXpkb001VzJpTTNzMzR2Wi1DM0FubkVPWUdkZVlvamZORDJLMUNjdVUtbHJlRmlwOGpBMGNkaDNHT2ZZX2hWQmhaMUo4bURLVTF2NmxrdldHOUFn?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -482,7 +482,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-05-29T14:07:48.000Z",
-      "originalHeadline": "خسائر نفط عُمان تفوق الـ6 دولارات للبرميل بالعقود الآجلة - مع��ومات مباشر"
+      "originalHeadline": "خسائر نفط عُمان تفوق الـ6 دولارات للبرميل بالعقود الآجلة - معلومات مباشر"
     },
     {
       "headline": "Former Yemeni Ambassador: The war is redrawing the geopolitical map in the region - Youm7",
@@ -1582,6 +1582,16 @@
       "language": "ar",
       "date": "2026-05-29T08:26:28.000Z",
       "originalHeadline": "من أبين إلى رئاسة اليمن.. وفاة عبد ربه منصور هادي في الرياض - i24NEWS"
+    },
+    {
+      "headline": "The top photos of the week by AP photojournalists - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGw5SFByLUpRazNJeVZrNXRhVXhMQVRVczk4XzRXeG5sZkRJaWFwVEVQWEVKS2JNLVZXZ2t4bkk5ZG03RXBUbmpHLVEweV9IRXRDcnBXckYwdXl2aU4zbGRQQlpIbUd0X2JaUGFoLXBSRnluQ0haRmhXd19iY2pUTWVEWnNoS2Z3cm1lUkRiajA3ektmYk85a0NoVXdJd2Z6Z0JF?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-05-29T08:26:15.000Z"
     },
     {
       "headline": "A source in Al-Ahly reveals the truth about the UAE and Qatar’s offers to include Trezeguet - Youm7",
@@ -3215,16 +3225,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-05-28T23:05:35.000Z"
-    },
-    {
-      "headline": "US military denies claim US aircraft downed near Iran's Bushehr - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnZMUkdzWk51dXlpUVhUcFUwR09oTjBETy1hQjRSZDlYc1Jxb1U2SWpaZHR2TmY4VUFmSklaYzZ5eVRiWFZoTXJUSE1DMHJqbjZlblRFTWtmTW92RGYybWtYQjg0WXBUY1V2UEgzWUNCTV9yVVd3UUZrN0RWLWFIQlRtcWtSeGJYNmxWOFBJTVFSQ2NIal95SVVZNDZ6czN6TGhkS254VVFTRk9xTGVYZ285U2Z6TmxUZTh0V25VWG9nbE91TWFz?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-05-28T22:57:59.000Z"
     }
   ]
 }
