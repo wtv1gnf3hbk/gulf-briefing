@@ -1,68 +1,71 @@
 **Top News**
 
-- Saudi Arabia announced the successful completion of the 1447 AH Hajj season, with the Deputy Emir of Makkah handing over the [Kaaba's covering](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah) to the custodians of the Holy House
-- The US and Iran reached a tentative deal to extend the ceasefire and start new nuclear talks, according to [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)
-- Vice President Vance said the US is "very close" but "not there yet" on an Iran deal, the [BBC reported](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
-- Trump threatened to "blow up" Oman according to [DW reports](https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8%D9%80%D9%86%D8%B3%D9%81-%D8%AD%D9%84%D9%8A%D9%81%D8%AA%D9%87-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A9/a-77337688), prompting the US Secretary of State to threaten sanctions on Muscat
-- Oman and Iran reaffirmed their commitment to Strait of Hormuz security during diplomatic talks, [Times of Oman](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security) reported
+- US and Iran negotiated a tentative deal to extend ceasefire and start nuclear talks, AP News reported, though US officials said they were [close](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) but "not there yet" according to the BBC.
+
+- Trump called for free navigation through the Strait of Hormuz following Iran tensions, Qatar News Agency [reported](https://ow.ly/u5ns50Z5Mpx), while Vice President Vance said the US was "close" to an Iran agreement.
+
+- Oman and Iran reaffirmed commitment to Strait of Hormuz security, the Times of Oman [reported](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security).
+
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy a chance to restore maritime navigation in the Strait of Hormuz, he said on [Twitter](https://x.com/FaisalbinFarhan).
+
+- Bahrain strongly condemned Iran's attack on Kuwait, the Foreign Ministry [stated](https://bit.ly/4dAMr6j), while the EU also condemned the Iranian attack on Kuwait according to KUNA.
 
 **Energy & Economy**
 
-- Saudi Arabia may lower July oil prices to Asia as demand weakens, [Reuters reported](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)
-- Japan's April oil imports hit the lowest since 1962 as the Iran war disrupted supply, according to [Reuters](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/)
-- The UAE is first globally in artificial intelligence talent concentration growing by 121% between 2019 and 2025, Sheikh Abdulla bin Zayed [announced](https://twitter.com/ABZayed)
+- Saudi Arabia may lower July oil prices to Asia following weakening demand, [Reuters reported](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/).
+
+- Japan's April oil imports fell to lowest levels since 1962 following Iran war supply disruptions, Reuters [said](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/).
+
+- UAE is first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Foreign Minister Sheikh Abdullah bin Zayed [noted](https://x.com/ABZayed).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security, he [tweeted](https://twitter.com/kbsalsaud)
-- Prince Faisal bin Farhan chaired an international conference on Palestinian statehood implementation with France's foreign minister, according to his [Twitter](https://twitter.com/FaisalbinFarhan)
+
+- Crown Prince Mohammed bin Salman met with Chad's President at the Royal Court in Mona Palace to discuss bilateral relations, the Foreign Ministry [announced](https://x.com/KSAMOFA).
+
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional challenges, he [tweeted](https://x.com/kbsalsaud).
 
 **UAE**
-- Sheikh Mohammed bin Rashid reviewed UAE tourism sector achievements for 2025 during a government retreat in Abu Dhabi, WAM [reported](https://twitter.com/UAEmediaoffice)
-- Emirates revealed a celebratory A380 livery dedicated to Arsenal FC following the club's Premier League triumph, Dubai Media Office [announced](https://twitter.com/DXBMediaOffice)
+
+- Sheikh Mohammed bin Rashid reviewed UAE tourism sector achievements for 2025 and launched new AI assistants for government services, the UAE Media Office [reported](https://x.com/UAEmediaoffice).
+
+- UAE strongly condemned a terrorist attack near Jerusalem synagogue, according to Emirates News Agency through spokesperson Afra al-Hameli's [account](https://x.com/AfraMalHameli).
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was honored with his appointment by Emir Sheikh Tamim, he [said](https://twitter.com/MBA_AlThani_)
+
+- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed by the Emir and extended Eid al-Adha congratulations to the nation, he [announced](https://x.com/MBA_AlThani_).
 
 **Bahrain**
-- Bahrain strongly condemned the Iranian attack on Kuwait, the MFA [stated](https://twitter.com/bahdiplomatic)
-- Civil Defense rescued five children from a house fire in Aali area without casualties, the Interior Ministry [reported](https://twitter.com/moi_bahrain)
+
+- Civil Defence rescued five children from a house fire in Aali area without casualties, the Interior Ministry [reported](https://policemc.gov.bh/en/news/78966/).
 
 **Kuwait**
-- Kuwait Interior Ministry arrested suspects attempting to smuggle 12 kilograms of methamphetamine, [KUNA reported](https://twitter.com/kuna_en)
+
+- Interior Ministry arrested suspects attempting to smuggle 12 kilograms of methamphetamine, KUNA [reported](http://ow.ly/eMgs30sW7VH).
 
 **Oman**
-- Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, ONA [reported](https://twitter.com/ONA_eng)
-- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy FM reflecting the constructive nature of Oman-Iran dialogue, he [tweeted](https://twitter.com/badralbusaidi)
 
-**Yemen**
-- The IRG's Presidential Leadership Council called for unity and directing energies toward restoring state institutions, Saba News [reported](https://twitter.com/sabanew_)
-- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG authorities
-- Houthi spokesman Mohammed Abdulsalam announced an agreement including canceling banking restrictions and resuming Yemenia Airlines flights, he [posted](https://twitter.com/abdusalamsalah)
+- Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, the Oman News Agency [said](http://n9.cl/adorv).
+
+- Prince William received Foreign Minister Badr Albusaidi at Windsor Castle to discuss UK-Oman relations and the "Oman: Jewel of Arabia" expedition project.
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz navigation, he [tweeted](https://twitter.com/FaisalbinFarhan)
-- Mohammed AlJabir, Saudi ambassador to Yemen, announced he will visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges, he [said](https://twitter.com/mohdsalj)
+- Saudi Ambassador to Yemen Mohammed AlJabir announced Al-Hudaydah's liberation and plans to visit Sanaa with an Omani delegation to consolidate truce and support prisoner exchanges, he [stated](https://x.com/mohdsalj).
+
+- Yemen's IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, Saba News Agency [reported](https://sabanew.net).
 
 **Coverage Flags**
 
-- Multiple Gulf outlets experienced technical difficulties with several major news sites showing security verification or access restriction pages
-- Official social media accounts from Saudi and UAE leadership dominated coverage of Eid Al-Adha celebrations and diplomatic activities
+- Multiple Gulf leaders and officials issued Eid al-Adha congratulations, reflecting the conclusion of this year's Hajj season which Saudi authorities declared successful.
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com)
 - [Reuters Gulf](https://www.reuters.com)
 - [AP News](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com/news)
-- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-- [Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud)
-- [Prince Faisal bin Farhan Twitter](https://twitter.com/FaisalbinFarhan)
-- [UAE Gov Media Office Twitter](https://twitter.com/UAEmediaoffice)
-- [Sheikh Mohammed bin Rashid Twitter](https://twitter.com/HHShkMohd)
-- [Qatar PM Twitter](https://twitter.com/MBA_AlThani_)
-- [Bahrain MFA Twitter](https://twitter.com/bahdiplomatic)
-- [KUNA English Twitter](https://twitter.com/kuna_en)
-- [Oman News Agency Twitter](https://twitter.com/ONA_eng)
+- [BBC Middle East](https://www.bbc.com)
+- [Qatar News Agency](https://qna.org.qa)
+- [Kuwait News Agency](https://kuna.net.kw)
+- [Official Saudi, UAE, Qatar, Bahrain, Kuwait, and Oman government accounts](https://x.com)
