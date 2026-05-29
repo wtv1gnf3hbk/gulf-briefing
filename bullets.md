@@ -1,59 +1,73 @@
 **Top News**
 
-- Saudi Arabia celebrated the successful completion of the 2026 Hajj pilgrimage season, with Crown Prince Mohammed bin Salman hosting official receptions at Mina Palace as millions of pilgrims completed their rituals ([AP News](https://apnews.com/article/hajj-pilgrimage-mecca-saudi-arabia-b3bac12f3dec8e927dfd4e1a961572fa)).
+- Yemen's former president Abdrabbuh Mansour Hadi died at 80, ending the life of a leader who governed mostly from exile during the country's civil war ([AP](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
 
-- Former Yemeni President Abd Rabbuh Mansour Hadi died at age 80, marking the end of an era for the internationally recognized government leader who spent much of his presidency in exile during the civil war ([AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
+- The United States and Iran reached a tentative deal but still need Trump's final approval, with the US president saying the country is "not satisfied" with the agreement yet ([Reuters](https://www.reuters.com/world/middle-east/us-iran-reach-deal-need-trumps-final-approval-axios-reports-2026-05-28/)).
 
-- Iran and the US moved closer to a potential deal on the Strait of Hormuz, with the BBC reporting both sides as ["very close"](https://www.bbc.com/news/articles/c87qng40wz9o) to an agreement, though Trump said he was ["not satisfied"](https://www.bbc.com/news/articles/c74dy9jw1q9o) with the current terms.
+- Trump threatened Oman with consequences over potential facilitation of Strait of Hormuz tolls, prompting the US Treasury to warn Muscat against engaging in such actions ([Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)).
 
-- Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance, saying the Kingdom "highly appreciates" efforts to reach an acceptable agreement to restore Strait of Hormuz navigation ([Prince Faisal's Twitter](https://twitter.com/FaisalbinFarhan)).
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy a chance to end the war and restore security in the Strait of Hormuz to its state prior to February 28th ([Twitter](https://twitter.com/FaisalbinFarhan)).
 
-- Japan's oil imports fell to their lowest level since 1962 in April as the Iran conflict disrupted supply chains, according to [Reuters](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/).
+- Crown Prince Mohammed bin Salman met Chad's President at Mina Palace during Hajj season to review bilateral relations and discuss issues of common interest ([SPA](https://twitter.com/spagov)).
 
 **Energy & Economy**
 
-- Saudi Arabia may lower July oil prices to Asia as demand weakens, Reuters [reported](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/), signaling potential pressure on the kingdom's revenue streams.
+- Saudi Arabia may lower July oil prices to Asia as demand weakens following regional tensions ([Reuters](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)).
 
-- Kuwait oil prices rose by $4.56 to $118.35 per barrel, the Kuwait Petroleum Corporation [announced](https://kuna.net.kw/ArticleDetails.aspx?id=3305705).
+- Kuwait oil price rose $4.56 to $118.35 per barrel, reflecting market volatility during regional crisis ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)).
 
-- The UAE emerged as the global leader in artificial intelligence talent concentration, with 121% growth between 2019 and 2025, according to Sheikh Abdullah bin Zayed's [social media post](https://twitter.com/ABZayed).
-
-**Country Watch**
+- Oman crude oil price dropped by $6.17 per barrel as global markets react to Middle East tensions ([QNA](https://ow.ly/8WBV50Z5vLu)).
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met with Chad's president at the Royal Court in Mina Palace during Hajj, reviewing bilateral relations and cooperation prospects ([Saudi Press Agency](https://spa.gov.sa/N2602420)).
+
+- Crown Prince Mohammed bin Salman delivered his annual speech at the Royal Court reception in Mina Palace during Hajj season ([SPA](https://spa.gov.sa/N2602369)).
+
+- Saudi Ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges ([Twitter](https://twitter.com/mohdsalj)).
+
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and coordinate on regional challenges ([Twitter](https://twitter.com/kbsalsaud)).
 
 **UAE**
-- Sheikh Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025 during a government retreat focused on implementing artificial intelligence across federal operations ([UAE Media Office](https://twitter.com/UAEmediaoffice)).
 
-- Dubai's Emirates Airlines unveiled a special Arsenal-themed A380 livery celebrating the football club's Premier League victory ([Dubai Media Office](https://twitter.com/DXBMediaOffice)).
+- Sheikh Mohammed bin Rashid launched the first batch of AI assistants in procurement, taxes, customer happiness, and technical support during a government retreat in Abu Dhabi ([Twitter](https://twitter.com/HHShkMohd)).
+
+- Sheikh Tahnoon bin Zayed met with US Congressman Josh Gottheimer to review UAE-US strategic relations and regional issues ([Twitter](https://twitter.com/hhtbzayed)).
+
+- Sheikh Abdulla bin Zayed highlighted that the UAE is first globally in AI talent concentration growth at 121% between 2019 and 2025 ([Twitter](https://twitter.com/ABZayed)).
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani took office after being appointed by Emir Tamim, pledging to work toward the nation's advancement under wise leadership ([PM's Twitter](https://twitter.com/MBA_AlThani_)).
+
+- PM Mohammed bin Abdulrahman Al Thani was appointed as Prime Minister by Emir Sheikh Tamim, expressing gratitude for the trust placed in him ([Twitter](https://twitter.com/MBA_AlThani_)).
+
+- Qatar's government spokesman Majed Al Ansari denied reports that Qatar offered $12 billion to Iran to secure a deal, calling such claims false and designed to sabotage diplomatic efforts ([Twitter](https://twitter.com/majedalansari)).
 
 **Bahrain**
-- Bahrain strongly condemned Iranian attacks on Kuwait, with the Foreign Ministry issuing official statements of support for the neighboring Gulf state ([Bahrain MFA](https://twitter.com/bahdiplomatic)).
+
+- Bahrain strongly condemned an Iranian attack on Kuwait, expressing solidarity with the sisterly Gulf state ([BNA](https://bit.ly/4dAMr6j)).
 
 **Oman**
-- Sultan Haitham performed Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, while Prince William received Sayyid Theyazin bin Haitham in Windsor Castle to discuss UK-Oman relations ([Oman News Agency](https://n9.cl/adorv)).
 
-**Yemen**
-- Houthis reached a prisoner exchange agreement with the internationally recognized government, with Mohammed Abdulsalam detailing the terms for flights between Sanaa and Jordan ([Mohammed Abdulsalam's Twitter](https://twitter.com/abdusalamsalah)).
+- Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to review Oman-UK relations ([ONA](http://n9.cl/adorv)).
+
+- Oman's Foreign Minister held discussions with Iran's Deputy FM, reflecting the constructive nature of Oman-Iran dialogue ([Twitter](https://twitter.com/badralbusaidi)).
 
 **Official Signals**
 
-- Saudi Crown Prince participated in a call with US President Trump, Arab, and Islamic leaders to discuss regional developments, according to Princess Reema's [Twitter account](https://twitter.com/rbalsaud).
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired an international conference on Palestinian peaceful resolution with France, commending French resolve to recognize Palestine ([Twitter](https://twitter.com/FaisalbinFarhan)).
 
-- Qatar's Foreign Ministry spokesman Majed Al Ansari dismissed reports that Qatar offered $12 billion to Iran for a deal as "simply not true," calling them attempts to sabotage diplomatic efforts ([Majed Al Ansari's Twitter](https://twitter.com/majedalansari)).
+- Majed Al Ansari was appointed as advisor to Qatar's Deputy PM and official spokesperson for the Foreign Ministry ([Twitter](https://twitter.com/majedalansari)).
 
 **Coverage Flags**
 
-- Several major outlets including Al Jazeera Arabic and Qatar News Agency were experiencing access issues during monitoring.
+- Multiple Gulf outlets are leading with Hajj coverage and Eid Al-Adha celebrations following the completion of pilgrimage rituals.
 
 **Sources**
+
 - [Reuters Gulf](https://www.reuters.com/business/energy/)
 - [AP Gulf](https://apnews.com/)
-- [BBC Middle East](https://www.bbc.com/news/)
+- [BBC Middle East](https://www.bbc.com/news/world/middle_east)
 - [Times of Oman](https://timesofoman.com/)
-- Saudi Press Agency, UAE Media Office, Qatar News Agency
-- Official Twitter accounts of Gulf ministers and royals
+- [Saudi Press Agency](https://spa.gov.sa/)
+- [Qatar News Agency](https://qna.org.qa/)
+- [Kuwait News Agency](https://kuna.net.kw/)
+- [Oman News Agency](https://omannews.gov.om/)
+- [Bahrain News Agency](https://bna.bh/)
