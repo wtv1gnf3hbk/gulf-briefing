@@ -1,94 +1,49 @@
-**Saudi Press Agency:** Leads with Hajj coverage and the Crown Prince's annual reception at Mina Palace.
-**Asharq al-Awsat:** Leads with US-Iran diplomatic memorandum on uranium file and Hormuz escalation.
-**Okaz:** Leads with the Crown Prince and Chad President discussing bilateral relations.
-**Alriyadh:** Leads with Hajj pilgrims performing farewell circumambulation on the second day of Tashreeq.
-**Al Ekhbariya:** Leads with live Hajj coverage.
-**Emirates News Agency (WAM):** Leads with the President and his deputies congratulating the Prime Minister of Nepal on Republic Day.
-**Al-Etihad:** Leads with the President and Vice President congratulating the Prime Minister of Nepal on Republic Day.
-**Al Sharq Newspaper:** Leads with Abdullah bin Hamad Al-Attiyah receiving US phone call from President regarding loyalty to the homeland.
-**Oman News Agency:** Leads with a residential building collapse killing one in Romania.
-**Saba News Agency (Aden/IRG):** Leads with the Presidency calling on former President Mansour Hadi to elevate combatants.
-**Southern Transitional Council:** Leads with President Al-Zubaidi congratulating the Southern Arab people on the blessed Eid Al-Adha.
+**Saudi Arabia Announces Successful 1447 AH Hajj Season As US-Iran Tensions Mount**
 
----
+Saudi Arabia declared the completion of a successful 1447 AH Hajj season on Friday, with Crown Prince Mohammed bin Salman [receiving congratulations](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) from regional leaders following the pilgrimage. The [Times of Oman reports](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah) Sultan Haitham bin Tarik congratulated Saudi leadership for the smooth execution of this year's pilgrimage, which drew millions of Muslims to the holy sites.
 
-The U.S. and Iran appear [very close](https://www.bbc.com/news/articles/c87qng40wz9o) to reaching a diplomatic agreement, though President Trump indicates he is [not satisfied](https://www.bbc.com/news/articles/c74dy9jw1q9o) with the current terms, according to the BBC. [Reuters reports](https://www.reuters.com/world/middle-east/us-iran-reach-deal-need-trumps-final-approval-axios-reports-2026-05-28/) the deal needs Trump's final approval. Foreign Minister Prince Faisal bin Farhan [posted on X](https://x.com/FaisalbinFarhan) that Saudi Arabia "highly appreciates" Trump's decision to give diplomacy a chance to restore security and freedom of navigation in the Strait of Hormuz to pre-February 28 conditions.
+The celebratory atmosphere contrasts sharply with escalating regional tensions, as [Reuters reports](https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27/) the US struck Iranian targets again following Trump's denial of a deal on the Strait of Hormuz. The [BBC reports](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss) Iran subsequently targeted an American base after fresh US strikes. Separately, former Yemeni President Abdrabbuh Mansour Hadi died at age 80, according to [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8).
 
-The tensions around Oman have escalated after the U.S. [warned Oman](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) against facilitating tolls for Strait of Hormuz passage, per Reuters. [CNN Arabic reports](https://arabic.cnn.com/middle-east/article/2026/05/29/iran-respond-viral-oman-threatening-treasury-us-hormuz) a second Iranian response to what it calls U.S. Treasury threats against Oman. Mohammed AlJabir, Saudi Arabia's Ambassador to Yemen, announced on X that he will [visit Sana'a](https://x.com/mohdsalj) with an Omani delegation to consolidate the truce and ceasefire, supporting prisoner exchanges and dialogue between Yemeni components toward a comprehensive political solution.
+## Energy & Economy
 
-**Energy & Economy**
+• **Saudi Oil Pricing:** [Reuters reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) Saudi Arabia may lower July oil prices to Asia as demand weakens, reflecting ongoing market uncertainties.
 
-• Saudi Arabia may [lower July](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) oil prices to Asia as demand weakens, according to Reuters.
+• **Kuwaiti Oil Gains:** [KUNA reports](https://kuna.net.kw/ArticleDetails.aspx?id=3305705) Kuwait's oil price rose USD 4.56 to USD 118.35 per barrel, showing strong regional pricing despite global volatility.
 
-• Kuwait oil price [rose USD](https://kuna.net.kw/ArticleDetails.aspx?id=3305705) 4.56 to USD 118.35 per barrel, per KUNA.
+• **Japan Supply Disruption:** [Reuters reports](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/) Japan's April oil imports hit their lowest since 1962 as the Iran war disrupts supply chains.
 
-• Japan's April oil imports [hit lowest](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/) levels since 1967 as Iran war disrupts supply, Reuters reports.
+• **UAE Tourism Growth:** According to [WAM](https://wam.ae/a/b1n6twr), Mohammed bin Rashid reviewed the UAE's tourism sector achievements for 2025, highlighting continued economic diversification efforts.
 
-• European stock markets [opened higher](https://ow.ly/3hw350Z5vIV), driven by hopes of a Middle East peace agreement, according to Qatar News Agency.
+## Country Watch
 
 **Saudi Arabia**
-
-• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell, [reviewing aspects](https://x.com/kbsalsaud) of Saudi-British cooperation and joint coordination to address regional challenges and de-escalate tensions.
-
-• The Crown Prince met at Mina Palace with the President of Chad, reviewing bilateral relations and discussing issues of common interest, [per SPA](https://spa.gov.sa/N2602420).
-
-• Saudi Interior Ministry [published highlights](https://x.com/MOISaudiArabia) from May 23-29, including meetings with health leaders and interior ministers from Jordan and Malaysia during Hajj.
-
-• Al Ekhbariya TV [provided coverage](https://x.com/alekhbariyatv) of pilgrims performing the stoning ritual at Jamarat with professional flow and early preparations.
+• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to [discuss Saudi-British cooperation](https://twitter.com/kbsalsaud) and joint efforts to address regional challenges and de-escalate tensions.
+• Foreign Minister Prince Faisal bin Farhan [praised France's resolve](https://twitter.com/FaisalbinFarhan) to recognize Palestine, calling it a step that "bolsters the path to a just and enduring peace."
+• [Saudi Ambassador to Yemen Mohammed AlJabir posted](https://twitter.com/mohdsalj) "#Al-Hudaydah is liberated.....#Yemen is breathing," suggesting territorial gains against Houthi forces.
 
 **UAE**
-
-• Sheikh Mohammed bin Rashid [reviewed achievements](https://x.com/HHShkMohd) of the UAE's tourism sector for 2025 and launched AI assistants for procurement, taxes, customer happiness, and technical support.
-
-• Sheikh Abdullah bin Zayed [highlighted on X](https://x.com/ABZayed) that the UAE is first globally in AI talent concentration growth at 121% between 2019-2025.
-
-• Tahnoon bin Zayed [received Congressman](https://x.com/hhtbzayed) Josh Gottheimer, discussing strategic UAE-US relations and ways to strengthen cooperation.
-
-• Abu Dhabi Media Office [reported efforts](https://x.com/ADMediaOffice) by the Department of Government Empowerment to connect Emirati talent with employment opportunities through Mawaheb Talent Hub in Q1 2026.
-
-**Qatar**
-
-• Prime Minister Mohammed bin Abdulrahman Al Thani was [honored by](https://x.com/MBA_AlThani_) the Emir's trust in appointing him as Prime Minister, expressing gratitude and commitment to serving Qatar.
-
-• Majed Al Ansari was [appointed advisor](https://x.com/majedalansari) to the Deputy Prime Minister and Foreign Minister, and official spokesman for the Foreign Ministry.
-
-• Qatar [lost to Ireland](https://www.aljazeera.net/sport/2026/5/29/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AE%D8%B3%D8%B1-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85) in a "red cards" match in World Cup preparation, Al Jazeera reports.
-
-**Bahrain / Kuwait / Oman**
-
-• Bahrain [strongly condemned](https://bit.ly/4dAMr6j) the Iranian attack on Kuwait, according to the Foreign Ministry.
-
-• Kuwait's Prime Minister [congratulated Saudi](https://kuna.net.kw/ArticleDetails.aspx?id=3305698) Crown Prince Mohammed bin Salman on the success of the 1447 Hajj season, KUNA reports.
-
-• Sultan Haitham bin Tarik [offered Eid](https://n9.cl/adorv) prayer at Sultan Qaboos Mosque in Sohar, per Oman News Agency.
-
-• Badr Albusaidi [held discussions](https://x.com/badralbusaidi) with Iran's Deputy FM, reflecting constructive Oman-Iran dialogue and reaffirming diplomatic engagement importance.
+• Sheikh Mohammed bin Rashid launched new [AI assistants](https://twitter.com/HHShkMohd) for government procurement, taxes, customer service, and technical support at a federal retreat in Abu Dhabi.
+• Anwar Gargash criticized Turkey's Defense Minister for [provocative statements](https://twitter.com/AnwarGargash), saying "Relations are not managed by threats and intimidation, and there is no place for colonial illusions in this time."
 
 **Yemen**
+• The IRG Presidential Leadership Council [called for unity](https://twitter.com/sabanew_) and directing all energies toward restoring state institutions.
+• Houthi spokesperson Mohammed Abdulsalam announced [an agreement](https://twitter.com/abdusalamsalah) to cancel recent banking decisions and resume Yemenia Airlines flights between Sanaa and Jordan, increasing to three daily flights.
 
-• Former President Abdrabbuh Mansour Hadi, who governed mostly from exile, [died at 80](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8), according to AP News.
+## Official Signals
 
-• Mohammed Al-Eryani (IRG) [expressed condolences](https://x.com/ERYANIM) to Hadi's family and the Presidential Leadership Council, calling Hadi a "great fighter."
+• Saudi Foreign Minister Prince Faisal bin Farhan [expressed appreciation](https://twitter.com/FaisalbinFarhan) for President Trump's decision to "give diplomacy a chance to reach an acceptable agreement to end the war" and restore freedom of navigation in the Strait of Hormuz.
 
-• Abu Zaraa (IRG) [discussed activating](https://x.com/AbuZar3a) Starlink satellite internet as an important step toward enhancing development and communication.
+• Qatar's Majed Al Ansari [denied reports](https://twitter.com/majedalansari) that Qatar offered $12 billion to Iran to secure a deal, calling such reports "simply not true & are being circulated by parties attempting to sabotage the deal."
 
-• Aidarous al-Zubaidi (STC) [performed Umrah](https://x.com/AidrosAlzubidi) rituals and extended Eid Al-Adha congratulations to the Southern people.
+## Coverage Flags
 
-**Official Signals**
+International outlets are leading on US-Iran military escalation and Strait of Hormuz tensions, while Gulf state media focuses heavily on Hajj completion and regional diplomatic initiatives. There appears to be a significant gap between Arabic-language coverage emphasizing regional stability efforts and English-language reporting on military confrontations.
 
-• Prince Faisal bin Farhan's statement appreciating Trump's diplomatic approach signals Saudi Arabia's support for peaceful resolution of regional tensions, particularly regarding Strait of Hormuz navigation.
+## Sources
 
-• Mohammed AlJabir's announcement of visiting Sana'a with an Omani delegation indicates renewed Saudi-Omani coordination on Yemen peace efforts following recent tensions.
-
-**Coverage Flags**
-
-International outlets are leading on US-Iran diplomatic developments while local Gulf media focuses heavily on Eid celebrations and Hajj coverage, creating a potential gap in real-time regional diplomatic reporting.
-
-**Sources**
-
-• [BBC Middle East](https://www.bbc.com/news/articles/c87qng40wz9o)
 • [Reuters Gulf](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)
-• [AP Gulf](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
-• [Times of Oman](https://timesofoman.com//article/172349-rubio-to-meet-pakistan-fm-dar-in-washington-amid-renewed-momentum-in-us-iran-deal)
-• [CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/05/29/iran-respond-viral-oman-threatening-treasury-us-hormuz)
-• [Kuwait News Agency](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)
+• [Times of Oman](https://timesofoman.com//article/172355-hm-congratulates-saudi-leadership-for-successful-hajj-season-1447-ah)
+• [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
+• [BBC Middle East](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
+• [KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305705)
+• [WAM](https://wam.ae/a/b1n6twr)
