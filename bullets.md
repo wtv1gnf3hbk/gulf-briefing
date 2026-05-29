@@ -1,51 +1,70 @@
 **Top News**
 
-- Kuwait intercepted hostile missile and drone attacks, the army said, as three oil and LNG tankers exited the Strait of Hormuz with transponders turned off ([Reuters](https://www.reuters.com/world/middle-east/kuwaiti-army-says-air-defences-intercepting-hostile-missile-drone-attacks-2026-05-28/)).
+- United States and Iranian negotiators reached a tentative deal to extend ceasefire and start new nuclear talks, ([AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)).
 
-- The United States and Iran reached a tentative 60-day deal to ease tensions, requiring Trump's approval, according to multiple sources ([AP](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)).
+- Former Yemen president Abdrabbuh Mansour Hadi died at 80, ([AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
 
-- Former Yemen president Abdrabbuh Mansour Hadi died at age 80, the IRG announced in a statement ([AP](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)).
+- United States warned Oman not to engage in facilitating tolls for Strait of Hormuz, ([Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/)).
 
-- Saudi Foreign Minister Prince Faisal bin Farhan praised the US President's decision to "give diplomacy a chance" regarding the Iran conflict ([Prince Faisal Twitter](https://twitter.com/FaisalbinFarhan)).
+- Iran targeted alleged US base after fresh US strikes according to ([BBC](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss)).
 
-- Trump told reporters the US was "not satisfied" with the Iran deal yet, the BBC reported, while Iran said it targeted an American base after fresh US strikes ([BBC](https://www.bbc.com/news/articles/c74dy9jw1q9o)).
+- Saudi Arabia's Crown Prince Mohammed bin Salman held annual reception ceremony for pilgrims and state dignitaries during Hajj season.
 
-**Energy & Economy**
+**Energy & Economy** 
 
-- Three oil and LNG tankers left the Strait of Hormuz with transponders switched off, Reuters tracked, during heightened tensions in the waterway ([Reuters](https://www.reuters.com/business/energy/three-oil-lng-tankers-exit-hormuz-with-transponders-off-2026-05-28/)).
+- UAE reported first in the world for artificial intelligence talent concentration growth at 121% between 2019 and 2025, Sheikh Abdulla bin Zayed announced.
 
-- US Treasury Secretary confirmed Oman assured Washington it would not impose tolls on the Strait of Hormuz, per CNN Arabic reports in response to Trump's earlier threats.
+- UAE launched first batch of artificial intelligence assistants in procurement, taxes, customer happiness and technical support according to Sheikh Mohammed bin Rashid.
 
-- Saudi Arabia's Crown Prince met the President of Chad to review bilateral relations and cooperation prospects in various fields ([Saudi Press Agency](https://spa.gov.sa)).
+- Gold prices rose following inflation concerns and market uncertainty.
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman held the annual reception for Hajj dignitaries at Mina Palace, according to Saudi Press Agency.
-- Prince Khalid bin Salman met UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security challenges.
+- Crown Prince Mohammed bin Salman held annual reception ceremony at Mona Palace for Hajj pilgrims and international delegations.
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss regional challenges and bilateral cooperation.
+- Saudi Arabia expressed appreciation for US President Donald Trump's decision to give diplomacy a chance to restore Strait of Hormuz security, Foreign Minister Prince Faisal bin Farhan said.
 
-**Yemen** 
-- The IRG announced former President Abdrabbuh Mansour Hadi died at 80, with burial ceremonies planned after afternoon prayers.
-- Saudi Yemen envoy Mohammed al-Jabir announced plans to visit Sana'a with an Omani delegation to consolidate the truce and discuss prisoner exchanges.
+**UAE**
+- President Mohammed bin Zayed and ministers launched national government retreat in Abu Dhabi reviewing AI-based government transformation.
+- UAE condemned Iranian attack on Kuwait and reaffirmed solidarity with Kuwait according to official statements.
+- ADNOC building in Abu Dhabi lit up in Azerbaijan flag colors to mark Republic of Azerbaijan National Day.
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed to his role by Emir Sheikh Tamim, the PM announced on Twitter.
-- Reports suggesting Qatar "offered" $12 billion to Iran for a deal are "simply not true," spokesman Majed Al Ansari said on Twitter.
+- Mohammed bin Abdulrahman Al Thani was appointed as Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani.
+- Qatar denied reports suggesting it offered $12 billion to Iran to secure nuclear deal, spokesman Majed Al Ansari said.
+
+**Oman**
+- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar.
+- Foreign Minister Badr Albusaidi met with Iran's Deputy FM reflecting constructive nature of Oman-Iran dialogue.
+- Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to review UK-Oman relations.
+
+**Kuwait** 
+- Kuwait condemned drone and missile attacks targeting the country, according to multiple regional organizations including OIC and Arab League.
+- Iraq and Palestine also condemned Iranian attacks on Kuwait and expressed solidarity.
+
+**Bahrain**
+- Bahrain strongly condemned Iranian attack on Kuwait state according to Ministry of Foreign Affairs statements.
+- Civil Defense rescued five children and extinguished house fire in Aali area without casualties.
+
+**Yemen**
+- Yemen's IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate.
+- Mohammed AlJabir announced visit to Sana'a with Omani delegation to consolidate truce and discuss prisoner exchange.
+- Houthi spokesman Mohammed Abdulsalam announced agreement on banking decisions and Yemenia Airlines flights resumption.
 
 **Official Signals**
 
-- Saudi Foreign Minister said the Kingdom "highly appreciates" Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz navigation security.
-
-- Oman's Foreign Minister Badr Albusaidi held "good discussions" with Iran's Deputy FM, emphasizing the "constructive nature" of Oman-Iran dialogue on reducing regional tensions.
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired International Conference for Palestinian Issue peaceful settlement with French counterpart.
+- Yemen's IRG leadership called for unity and directing energies toward restoring state institutions.
 
 **Coverage Flags**
 
-- Multiple Gulf states condemned Iranian attacks on Kuwait through official statements and social media posts from foreign ministries.
+- Multiple Gulf outlets highlighted ongoing US-Iran nuclear negotiations with regional implications.
+- Hajj season coverage dominated Saudi media with emphasis on successful pilgrimage management.
 
 **Sources**
 
-- [Reuters Gulf](https://www.reuters.com)
-- [AP News Gulf](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com/news)
-- [Times of Oman](https://timesofoman.com)
-- [Saudi Press Agency](https://spa.gov.sa)
+- [Times of Oman](https://timesofoman.com/)
+- [Reuters Gulf](https://www.reuters.com/)
+- [AP Gulf](https://apnews.com/)
+- [BBC Middle East](https://www.bbc.com/)
