@@ -1,29 +1,26 @@
-1. **Former Yemen President Hadi died.** Field Marshal Abd Rabbuh Mansour Hadi, who served as Yemen's president from 2012 to 2022, died at age 80, according to [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8). The IRG Information Minister Mohammed Al-Eryani mourned the former president who led during Yemen's transition period following the Arab Spring.
+**US-Iran nuclear talks.** US Vice President JD Vance said Washington and Tehran are "very close" to a preliminary agreement over Iran's enriched uranium stockpile, though he stressed all options remain available to President Trump. The talks follow weeks of negotiations as the new administration weighs [diplomatic options](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) while maintaining pressure on Iran.
 
-2. **US-Iran deal tentatively reached.** The United States and Iran reached a tentative agreement to extend a ceasefire and initiate new nuclear talks, [Reuters reports](https://www.reuters.com/world/middle-east/us-iran-reach-deal-need-trumps-final-approval-axios-reports-2026-05-28/). However, Trump said the US is "not satisfied" with the deal yet, according to the BBC, indicating final approval remains pending.
+**Former Yemen president dies.** Abdrabbuh Mansour Hadi, Yemen's former president who led the internationally recognized government during much of the country's civil war, died at age 80, according to [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8). Hadi fled to Saudi Arabia in 2015 when Houthis took control of Sanaa and remained a symbolic figurehead of the anti-Houthi coalition.
 
-3. **Saudi Crown Prince holds Hajj reception.** Crown Prince Mohammed bin Salman hosted the annual reception for pilgrims, dignitaries, and delegation heads at Mina Palace during the Hajj season. Saudi officials including Prince Khalid bin Salman emphasized the kingdom's commitment to serving the Two Holy Mosques and facilitating the pilgrimage.
+**Saudi Crown Prince receives Chadian leader.** Crown Prince Mohammed bin Salman met with Chad's President at the Royal Court in Mina Palace during the Hajj season, reviewing bilateral relations and cooperation prospects between the two countries. The meeting occurred as Saudi Arabia hosted its annual [Hajj reception](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) for dignitaries and pilgrims.
 
-4. **Israel expands Gaza control.** Israeli Prime Minister Netanyahu directed forces to expand control to 70 percent of Gaza, [Reuters reports](https://www.reuters.com/world/middle-east/netanyahu-directs-israeli-forces-expand-gaza-control-70-percent-2026-05-28/). The move comes as regional tensions continue following recent military operations in both Gaza and Lebanon.
+**US warns Oman on Hormuz tolls.** The United States warned Oman against facilitating tolls for passage through the Strait of Hormuz, according to [Reuters](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/). The warning comes as regional tensions continue over maritime security in the crucial shipping lane that handles about 20% of global oil traffic.
 
-5. **Saudi Foreign Minister appreciates US diplomacy.** Prince Faisal bin Farhan praised President Trump's decision "to give diplomacy a chance to reach an acceptable agreement" regarding regional conflicts and Strait of Hormuz security. The statement reflects Saudi support for diplomatic solutions to current Middle East tensions.
+**Yemen envoy visits Sanaa.** Saudi Ambassador to Yemen Mohammed Al-Jaber announced he will visit Houthi-controlled Sanaa with an Omani delegation to discuss consolidating the truce, supporting prisoner exchanges, and exploring dialogue between Yemeni parties. Al-Jaber emphasized that nearly 2 million Yemenis work safely in Saudi Arabia, transferring over $4 billion [annually to families](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) in Yemen.
 
-6. **Bahrain condemns Iranian attack.** Bahrain's Ministry of Foreign Affairs strongly condemned an Iranian attack on Kuwait, according to official statements. The incident highlights continued regional security concerns involving Iran and Gulf states.
+**Israel strikes Beirut suburbs.** Israel carried out its first airstrike on Beirut's southern suburbs in weeks, targeting areas before crucial Lebanon-Israel talks scheduled in Washington, [AP News](https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-tyre-washington-talks-9ee3d769ae672c1a64dae905797a73da) reported. The strike preceded diplomatic efforts to address the ongoing conflict between Israel and Hezbollah.
 
-7. **Blue Origin rocket explodes.** Jeff Bezos's Blue Origin New Glenn rocket exploded during a ground test in Florida, [Times of Oman reports](https://timesofoman.com//article/172350-blue-origin-new-glen-rocket-explodes-during-launch-pad-test-in-florida). The incident occurred during pre-launch testing of the heavy-lift vehicle designed to compete with SpaceX.
+**Iran denies US aircraft claim.** Iran's state television claimed a US aircraft was destroyed near the Bushehr nuclear facility, but the US military denied the report, according to [Reuters](https://www.reuters.com/world/middle-east/irans-state-tv-says-us-aircraft-destroyed-irans-bushehr-no-confirmation-us-2026-05-28/). The conflicting claims highlight continued tensions between Washington and Tehran following recent military incidents.
 
-8. **Qatar rejects Iran deal reports.** Qatari Foreign Ministry spokesman Majed Al Ansari called reports that Qatar offered $12 billion to Iran to secure a deal "simply not true." He said such claims are being circulated by parties attempting to sabotage diplomatic efforts toward regional de-escalation.
+**Kuwait condemns Iranian attacks.** Multiple Arab and international organizations condemned recent Iranian drone and missile attacks targeting Kuwait. The Organization of Islamic Cooperation and Arab League expressed solidarity with Kuwait, while Iraq called for restraint and [peaceful solutions](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/) to regional disputes.
 
-9. **UAE leads AI talent growth.** The UAE ranked first globally for artificial intelligence talent concentration, growing 121 percent between 2019 and 2025, according to Sheikh Abdulla bin Zayed. The achievement reflects the emirate's strategic focus on technology and innovation development.
+**Qatar rejects $12 billion claim.** Qatar's Foreign Ministry spokesman Majed Al Ansari denied reports suggesting Qatar offered $12 billion to Iran to secure a nuclear deal, calling such reports false and designed to sabotage ongoing diplomatic efforts toward regional [de-escalation and stability](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/).
 
-10. **Oman temperatures soar.** Temperatures exceeded 47.5 degrees Celsius in Oman, [Times of Oman reports](https://timesofoman.com//article/172348-temperature-crosses-475-degrees-in-oman). The extreme heat reflects ongoing climate challenges facing the Gulf region during summer months.
+**Oman's diplomatic engagement.** Oman's Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, reaffirming the importance of diplomatic engagement on all fronts. Albusaidi emphasized Oman's continued support for efforts to reduce tensions and advance [peaceful regional coexistence](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/).
 
-**Sources:**
-- [AP News](https://apnews.com/)
-- [Reuters Gulf](https://www.reuters.com/)
-- [BBC Middle East](https://www.bbc.com/news/)
-- [Times of Oman](https://timesofoman.com/)
-- Saudi Ministry of Foreign Affairs
-- Bahrain Ministry of Foreign Affairs
-- Qatar Ministry of Foreign Affairs
-- UAE leadership social media accounts
+**Sources**
+- [Reuters Gulf](https://www.reuters.com/world/middle-east/)
+- [AP News Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Times of Oman](https://timesofoman.com)
+- Official Twitter accounts of Gulf ministries and officials
