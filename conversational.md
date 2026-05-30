@@ -1,64 +1,55 @@
-**Saudi Press Agency:** Leads with successful Hajj season coverage and epidemic-free health reporting.
+**Daily Gulf Briefing**
+Saturday, May 30, 2026
 
-**Asharq al-Awsat:** Leads with regional tensions, featuring stories on Iran and naval blockade discussions in the Strait of Hormuz.
+Trump is weighing whether to extend his self-imposed deadline for reaching an Iran nuclear agreement, as Saudi Arabia's top diplomat [appreciates](https://twitter.com/FaisalbinFarhan) the U.S. president's decision to give diplomacy more time. Foreign Minister Prince Faisal bin Farhan praised Trump's willingness to pursue negotiations that would end the war and restore freedom of navigation in the Strait of Hormuz to pre-February conditions, according to [the BBC](https://www.bbc.com/news/articles/c87qng40wz9o). The development comes as [AP reports](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096) that Trump has not yet decided whether to move forward with the Iran deal, with Vice President Vance saying the sides are "very close" but "not there yet."
 
-**UAE Gov Media Office:** Leads with economic growth story - 6.2% UAE GDP expansion to AED 1.9 trillion in 2025.
-
-**Southern Transitional Council:** Leads with President al-Zubaidi's Eid message and Southern support declarations.
-
----
-
-Saudi Arabia's successful [Hajj season](https://spa.gov.sa/N2603169) dominates regional headlines as the kingdom wraps up hosting nearly 2 million pilgrims without major health incidents, according to the [Saudi Press Agency](https://spa.gov.sa). Minister of Interior Prince Abdulaziz bin Saud and security forces received congratulations from Gulf leaders, with Qatar, Kuwait, Oman, and Bahrain leadership all sending cables praising the logistical achievement. The [Times of Oman](https://timesofoman.com/article/172370) reports Oman's Hajj mission won a silver 'Labaytum' award for excellence in pilgrim services.
-
-Regional diplomatic tensions are building following reports of an Iranian missile strike on Kuwait's Ali al-Salem Air Base, [according to Bloomberg](https://www.facebook.com/khamsenetektesad/posts/1026515663463020/), which injured two Americans and destroyed a drone. Bahrain's Foreign Ministry [strongly condemned](https://bit.ly/4dAMr6j) the Iranian attack on Kuwait, while [Asharq al-Awsat](https://asharq.com) leads with coverage of Iran-Strait of Hormuz tensions and potential naval restrictions. The incident comes as [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) reports the US and Iran have reached a tentative deal to extend ceasefire talks and begin new nuclear negotiations, though Trump has not yet decided whether to move forward.
+The moment follows successful completion of this year's Hajj pilgrimage, with Saudi Interior Minister Prince Abdulaziz bin Saud declaring [the Hajj season](https://twitter.com/MOISaudiArabia) free from epidemic outbreaks following health monitoring for diseases including Ebola and Hantavirus. Regional leaders across the GCC sent congratulations to King Salman and Crown Prince Mohammed bin Salman on the pilgrimage's success, [per the Saudi Press Agency](https://twitter.com/spagov).
 
 **Energy & Economy**
 
-• Kuwait oil [fell 84 cents](https://kuna.net.kw/ArticleDetails.aspx?id=3305807) to $117.51 per barrel, according to [KUNA](https://kuna.net.kw).
+• **Oman launches lithium project**: Oman is hosting a strategic project for production of lithium-ion battery materials, according to [Times of Oman](https://timesofoman.com/article/172380-oman-hosts-a-strategic-project-for-production-of-lithium-ion-battery-materials), as the sultanate diversifies its energy portfolio beyond oil.
 
-• The UAE economy [expanded 6.2%](https://twitter.com/UAEmediaoffice) with GDP rising to AED 1.9 trillion in 2025, per the UAE Government Media Office.
+• **UAE economic growth surges**: The UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion during 2025, [WAM reports](https://twitter.com/UAEmediaoffice). The growth reflects the country's continued economic diversification efforts.
 
-• Qatar [rejected proposals](https://asharqbusiness.com/power/134614) to impose permanent fees on ships crossing the Strait of Hormuz, [Asharq Business reports](https://asharqbusiness.com).
+• **Kuwait oil price falls**: Kuwait oil price dropped 84 cents to $117.51 per barrel, [KUNA reports](https://kuna.net.kw/ArticleDetails.aspx?id=3305807), as regional crude markets face pressure.
 
-• UAE achieved [121% growth](https://twitter.com/ABZayed) in artificial intelligence talent concentration between 2019-2025, making it first globally, Sheikh Abdullah bin Zayed noted.
+• **Invest Oman unveils projects**: Invest Oman has unveiled projects with guaranteed offtake arrangements, [per Times of Oman](https://timesofoman.com/article/172379-invest-oman-unveils-projects-with-guaranteed-offtake), as part of the sultanate's economic diversification strategy.
+
+**Country Watch**
 
 **Saudi Arabia**
-
-Saudi Interior Ministry [arrested 8,090 violators](https://twitter.com/MOISaudiArabia) of residency, work, and border security regulations within one week as part of enforcement operations. Prince Khalid bin Salman [met with](https://twitter.com/kbsalsaud) UK National Security Adviser Jonathan Powell and Swedish Defense Minister Pål Jonson to discuss regional security coordination and bilateral defense relations. [Al Riyadh](https://alriyadh.com) reports the Crown Prince received Chad's President at Mona Palace to discuss bilateral cooperation, while Saudi Ambassador to Yemen Mohammed AlJabir [declared](https://twitter.com/mohdsalj) "Al-Hudaydah is liberated" and announced a visit to Sanaa with an Omani delegation to consolidate the truce.
+Prince Khalid bin Salman [met with](https://twitter.com/kbsalsaud) UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional de-escalation efforts. The defense minister also held talks with Sweden's Defense Minister Pål Jonson on bilateral defense relations. Meanwhile, security forces arrested 8,090 violators of residency, work, and border security regulations within a week, [the Interior Ministry announced](https://twitter.com/MOISaudiArabia). The Saudi envoy to Yemen, Mohammed AlJabir, will [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the truce and discuss prisoner exchanges.
 
 **UAE**
-
-Dubai Media Office [revealed](https://twitter.com/DXBMediaOffice) Emirates Airlines' special Arsenal-themed A380 livery celebrating the club's Premier League triumph. Sheikh Mohammed bin Rashid [received Eid](https://twitter.com/DXBMediaOffice) well-wishers at Za'abeel Majlis and launched the first batch of AI assistants for government procurement and services. Tahnoon bin Zayed [chaired](https://twitter.com/hhtbzayed) the second MGX board meeting of 2026, reviewing new investments and infrastructure expansion priorities. UAE Defense Ministry [announced](https://twitter.com/modgovae) recruitment applications for military personnel exempt from National Service.
+The UAE leads globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Foreign Minister Abdullah bin Zayed [highlighted](https://twitter.com/ABZayed). Sheikh Mohammed bin Rashid launched the first batch of AI assistants for government procurement, taxes, and customer service, [he announced](https://twitter.com/HHShkMohd). Dubai Media Office revealed that Emirates unveiled a special Arsenal FC livery on an A380 aircraft following the club's Premier League triumph.
 
 **Qatar**
-
-Prime Minister Mohammed bin Abdulrahman Al Thani [expressed gratitude](https://twitter.com/MBA_AlThani_) for the Emir's confidence in his appointment and condolences for former official Abdullah bin Hamad Al Attiyah's death. Qatar's Ministry of Public Health [launched](https://ow.ly/yVCx50Z5Rc2) an awareness campaign promoting hand hygiene and infection prevention, [QNA reports](https://qna.org.qa). Majed Al Ansari was [appointed](https://twitter.com/majedalansari) as advisor to the Deputy PM and official Foreign Ministry spokesman.
+Prime Minister Mohammed bin Abdulrahman Al Thani [thanked Emir Tamim](https://twitter.com/MBA_AlThani_) for appointing him to the position, pledging to serve the nation under the Emir's wise leadership. Qatar's Foreign Ministry spokesman Majed Al Ansari was [appointed as advisor](https://twitter.com/majedalansari) to the Prime Minister and official spokesperson for the ministry.
 
 **Bahrain / Kuwait / Oman**
-
-Bahrain Civil Defense [rescued five children](https://policemc.gov.bh/en/news/78966/) from a house fire in Aali with no casualties reported. Sultan Haitham bin Tarik [offered Eid prayers](http://n9.cl/adorv) at Sultan Qaboos Mosque in Sohar, while Foreign Minister Badr Albusaidi [met](https://twitter.com/badralbusaidi) Iran's Deputy FM and discussed diplomatic engagement efforts. Prince William [received](https://2u.pw/NpsltIe4) Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations and the "Oman: The Jewel of Arabia" expedition project launch.
+Bahrain Civil Defense [rescued five children](https://policemc.gov.bh/en/news/78966/) from a house fire in Aali without casualties. In Oman, Sultan Haitham offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, [ONA reports](http://n9.cl/adorv). Prince William received Omani Minister of Culture Sayyid Theyazin bin Haitham in Windsor Castle to discuss UK-Oman relations.
 
 **Yemen**
-
-Yemeni Presidential Leadership Council Chair Rashad Al-Alimi [received condolence cables](https://twitter.com/sabanew_) from Saudi leadership for former President Abd Rabbuh Mansour Hadi's death, with IRG officials leading funeral ceremonies in Aden. Southern Transitional Council President Aidarous al-Zubaidi [declared](http://stcaden.com/news/10114) absolute southern support for security forces. Houthi spokesperson Mohammed Abdulsalam [outlined](https://twitter.com/abdusalamsalah) a recent agreement to cancel banking decisions, resume Yemenia flights to Jordan, and hold future meetings. Mohammed Ali Al Houthi [criticized](https://twitter.com/Moh_Alhouthi) Arab rulers for funding what he called a "humiliating deal" instead of supporting Gaza, while calling for opening the Marib-Sanaa road.
+IRG leadership continues political reorganization following former President Abd Rabbuh Mansour Hadi's death, with Mohammed Al-Eryani [participating](https://twitter.com/ERYANIM) in the funeral proceedings in Aden. Presidential Leadership Council member Abu Zaraa [activated Starlink satellite internet](https://twitter.com/AbuZar3a), calling it an important step for development and communication. Houthi spokesperson Mohammed Abdulsalam [released text](https://twitter.com/abdusalamsalah) of an agreement addressing banking decisions and Yemenia Airlines operations, while Mohammed Ali Al Houthi [announced](https://twitter.com/Moh_Alhouthi) the opening of the Marib-Sanaa road. The Southern Transitional Council continues to assert control in southern areas, with President Aidarous al-Zubaidi receiving [popular support](http://stcaden.com/news/10114) for security operations.
 
 **Official Signals**
 
-Prince Faisal bin Farhan [praised](https://twitter.com/FaisalbinFarhan) Trump's decision to give diplomacy a chance on ending regional conflicts and restoring Strait of Hormuz security, while chairing an international conference on Palestinian statehood with France. Sheikh Abdullah bin Zayed [emphasized](https://twitter.com/ABZayed) the UAE's AI leadership reflects a vision of "building people, attracting minds, and creating the future." Anwar Gargash [criticized](https://twitter.com/AnwarGargash) Turkey's Defense Minister's provocative statements, calling for an end to Turkish interference in Arab affairs.
+Foreign Minister Prince Faisal bin Farhan's [statement](https://twitter.com/FaisalbinFarhan) appreciating Trump's Iran diplomacy represents Saudi Arabia's careful balance between supporting regional de-escalation while maintaining security concerns about Iranian behavior. The Crown Prince's personal engagement with Chad's president and condolences to China over mining casualties demonstrate continued high-level diplomatic outreach.
+
+UAE National Security Advisor Tahnoon bin Zayed's [meeting](https://twitter.com/hhtbzayed) with U.S. Representative Josh Gottheimer signals sustained UAE-U.S. coordination following recent regional tensions. His emphasis on artificial intelligence leadership aligns with broader UAE technology strategy.
 
 **Coverage Flags**
 
-International outlets lead on Iran-Kuwait missile incident reporting, with [Bloomberg](https://www.facebook.com/khamsenetektesad/posts/1026515663463020/) and social media ahead of regional press on security details. Arabic versus English coverage gaps appear on Strait of Hormuz tension discussions and regional diplomatic positioning.
+International outlets are closely tracking Iran nuclear negotiations while regional press focuses more on successful Hajj completion. There may be gaps in coverage of the specific terms being negotiated regarding Strait of Hormuz security arrangements. The Yemen banking agreement released by Houthis warrants closer examination for implementation details.
 
 **Sources**
-
-• [Saudi Press Agency](https://spa.gov.sa)
+• [BBC Middle East](https://www.bbc.com/news/articles/c87qng40wz9o)
+• [AP News](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096)
 • [Times of Oman](https://timesofoman.com)
-• [Reuters Gulf](https://reuters.com)
-• [AP Gulf](https://apnews.com)
-• [BBC Middle East](https://bbc.com)
-• [Google News Gulf (Arabic)](https://news.google.com)
+• [Saudi Interior Ministry](https://twitter.com/MOISaudiArabia)
+• [Saudi Press Agency](https://twitter.com/spagov)
+• [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
+• [WAM English](https://twitter.com/WAMNEWS_ENG)
+• [Bahrain Interior Ministry](https://policemc.gov.bh)
+• [Oman News Agency](http://n9.cl/adorv)
 • [Kuwait News Agency](https://kuna.net.kw)
-• [Qatar News Agency](https://qna.org.qa)
-• [Bahrain News Agency](https://policemc.gov.bh)
-• [Asharq Business](https://asharqbusiness.com)
