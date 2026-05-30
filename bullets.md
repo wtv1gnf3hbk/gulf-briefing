@@ -1,71 +1,59 @@
 **Top News**
 
-- Saudi Arabia completed the Hajj season 1447 AH without any epidemic outbreaks, Prince Abdulaziz bin Saud announced following successful security and health operations ([Times of Oman](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- Saudi Arabia completed this year's Hajj pilgrimage season as over 2 million Muslims performed farewell circumambulation at the Grand Mosque in Mecca ([AP News](https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8)).
 
-- Oman warned of a suspected mine sighting in the Strait of Hormuz, with India's Finance Ministry calling the waterway disruption the most consequential variable for the country's external and price outlook ([CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/05/30/oman-warns-suspected-mine-seen-in-strait-of-hormuz)).
+- Saudi Foreign Minister Prince Faisal bin Farhan said the kingdom "highly appreciates" Trump's decision to give diplomacy a chance to reach an agreement on Iran and restore maritime navigation in the Strait of Hormuz ([tweet](https://twitter.com/FaisalbinFarhan)).
 
-- Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy another chance to end the war and restore Strait of Hormuz navigation security to its pre-February 28 state ([Prince Faisal](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- Yemen's IRG announced former president Abd Rabbuh Mansour Hadi died, with IRG leadership and officials attending his funeral in Aden ([Mohammed Al-Eryani](https://twitter.com/ERYANIM)).
 
-- United States President Trump remained undecided on moving forward with an Iran nuclear deal but met with officials for "final determination" consultations, according to multiple reports ([BBC](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss)).
+- Oman raised concerns about navigation in the Strait of Hormuz after a suspected mine was [spotted in](https://arabic.cnn.com/middle-east/article/2026/05/30/oman-warns-suspected-mine-seen-in-strait-of-hormuz) the waterway, according to CNN Arabic.
 
-- Yemen's IRG-affiliated Saba News Agency reported President Al-Alimi called for unity of ranks and renewed requests for Saudi intervention to stop Emirati interference ([Saba News Agency](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- UAE announced its economy grew 6.2% with GDP rising to AED 1.9 trillion in 2025, UAE Government Media Office [reported](https://twitter.com/UAEmediaoffice).
 
-- Saudi Yemen Envoy Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges ([Mohammed AlJabir](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- Bahrain Civil Defense rescued 5 children from a house fire in Aali without casualties, Bahrain Interior Ministry [confirmed](https://policemc.gov.bh/en/news/78966/).
 
 **Energy & Economy**
 
-- Oman launched a strategic lithium-ion battery materials production project with guaranteed offtake agreements ([Times of Oman](https://timesofoman.com//article/172380-oman-hosts-a-strategic-project-for-production-of-lithium-ion-battery-materials)).
+- Kuwait oil price fell 84 cents to $117.51 per barrel, Kuwait Petroleum Corporation [announced](https://kuna.net.kw/ArticleDetails.aspx?id=3305807).
 
-- Kuwait oil prices dropped 84 cents to $117.51 per barrel, according to Kuwait Petroleum Corporation ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305807)).
+- Oman launched strategic projects for lithium-ion battery materials production with guaranteed [offtake agreements](https://timesofoman.com//article/172380-oman-hosts-a-strategic-project-for-production-of-lithium-ion-battery-materials), Times of Oman reported.
 
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, according to government media office ([UAE Media Office](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- India's Finance Ministry review identified Hormuz disruption as the most consequential variable for the country's external price [outlook](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review).
+
+**Country Watch**
 
 **Saudi Arabia**
-
-- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review bilateral cooperation and regional de-escalation efforts ([Prince Khalid](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
-
-- Saudi Interior Ministry arrested 8,090 violators of residency, work, and border security regulations in a one-week operation ([Saudi Interior](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- Prince Khalid bin Salman met UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional [coordination efforts](https://twitter.com/kbsalsaud).
+- Crown Prince Mohammed bin Salman received Chad's president at the Royal Court to review bilateral relations and cooperation [prospects](https://twitter.com/KSAMOFA).
+- Saudi Interior Ministry arrested 8,090 violators of residency, work, and border security regulations in one [week](https://twitter.com/MOISaudiArabia).
 
 **UAE**
-
-- UAE achieved first place globally in artificial intelligence talent concentration with 121% growth between 2019 and 2025, Sheikh Abdullah bin Zayed announced ([Sheikh Abdullah](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
-
-- Emirates Airlines unveiled a celebratory A380 livery dedicated to Arsenal FC following their Premier League title win ([Dubai Media](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- UAE is first globally in AI talent concentration growth at 121% between 2019-2025, Sheikh Abdulla bin Zayed [noted](https://twitter.com/ABZayed).
+- UAE strongly condemned burning of Quran copy in front of Turkey Embassy in Sweden, according to Afra al-Hameli [statement](https://twitter.com/AfraMalHameli).
+- Emirates Airlines unveiled special A380 livery honoring Arsenal FC's Premier League [victory](https://twitter.com/DXBMediaOffice).
 
 **Qatar**
+- Qatar appointed Mohammed bin Abdulrahman Al Thani as new Prime Minister, with Majed Al Ansari named as Foreign Ministry adviser and [spokesman](https://twitter.com/MBA_AlThani_).
+- Qatar offered condolences for death of Abdullah bin Hamad Al Attiyah, described as one of the nation's loyal [contributors](https://twitter.com/majedalansari).
 
-- PM Al Thani was appointed as Prime Minister by Emir Tamim and named Majed Al Ansari as Foreign Ministry spokesperson ([PM Al Thani](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
-
-**Bahrain**
-
-- Bahrain Civil Defense rescued five children from a house fire in the Aali area with no casualties reported ([Bahrain Interior](https://policemc.gov.bh/en/news/78966/)).
-
-- Bahrain strongly condemned an Iranian attack on Kuwait, according to the Foreign Ministry ([Bahrain MFA](https://bit.ly/4dAMr6j)).
-
-**Kuwait**
-
-- Defense ministers from Southeast Asian Nations reaffirmed commitment to free trade flow through international waterways ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305814)).
-
-**Oman**
-
-- Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([Oman News](http://n9.cl/adorv)).
-
-- Prince William received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations ([Oman News](https://2u.pw/NpsltIe4)).
+**Yemen**
+- Yemen's Houthis agreed to cancel recent banking decisions and resume Yemenia Airlines flights between Sanaa and Jordan, Mohammed Abdulsalam [announced](https://twitter.com/abdusalamsalah).
+- Southern Transitional Council President Aidarous al-Zubaidi performed Umrah [rituals](https://twitter.com/AidrosAlzubidi).
 
 **Official Signals**
 
-- Gulf leaders sent congratulations to Saudi leadership on the successful Hajj season, with messages from Qatar, Kuwait, Oman, Bahrain, and Palestine according to Saudi Press Agency ([SPA](https://spa.gov.sa/N2603169)).
+- Saudi Crown Prince Mohammed bin Salman conveyed Eid Al-Adha congratulations and thanked God for the kingdom's role serving pilgrims to the Holy Mosques ([Prince Khalid bin Salman](https://twitter.com/kbsalsaud)).
 
-- Oman's Foreign Minister held discussions with Iran's Deputy FM, emphasizing diplomatic engagement and tension reduction efforts ([Badr Albusaidi](https://timesofoman.com//article/172382-hormuz-disruption-remains-most-consequential-variable-for-indias-external-price-outlook-finance-ministry-review)).
+- UAE Deputy Prime Minister Tahnoon bin Zayed met US Representative Josh Gottheimer to review UAE-US strategic relations and regional [developments](https://twitter.com/hhtbzayed).
 
 **Coverage Flags**
 
-- Several major outlets remain blocked or inaccessible, limiting coverage breadth.
+- GCC leaders exchanged extensive Eid Al-Adha congratulations, reflecting regional coordination during the holy period.
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com)
-- [Reuters Gulf](https://www.reuters.com)
-- [BBC Middle East](https://www.bbc.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [AP News](https://apnews.com)
 - [CNN Arabic](https://arabic.cnn.com)
-- Official Twitter accounts of regional ministers and agencies
+- Official Twitter accounts of Gulf government officials and ministries
