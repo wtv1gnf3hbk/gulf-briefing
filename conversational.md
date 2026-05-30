@@ -1,63 +1,51 @@
-**Saudi Defense Minister Prince Khalid bin Salman conveyed condolences from King Salman and Crown Prince Mohammed bin Salman to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently.** [Prince Khalid tweeted](https://twitter.com/kbsalsaud) that he knew Hadi as "a wise leader who was keen on the security, stability, development and prosperity of his country." Saudi Ambassador to Yemen Mohammed AlJabir also [paid condolences](https://twitter.com/mohdsalj) to Hadi's family, while the [Saudi Press Agency reported](https://spa.gov.sa/N2603513) the official expressions of sympathy from the kingdom's leadership.
+Oman detected a suspected floating mine in the critical Strait of Hormuz waterway, according to the [Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz), highlighting ongoing maritime security concerns in the world's most important oil transit route. The discovery comes as the region celebrates the completion of the Hajj pilgrimage, with Saudi Arabia [successfully transporting](https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84-%D9%86%D9%82%D9%84-1-9-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B1%D8%A7%D9%83%D8%A8-%D8%B9%D8%A8%D8%B1-%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1/7433120) 1.9 million passengers via its Holy Mashaer Train during this year's pilgrimage season.
 
-Meanwhile, Oman's Maritime Security Centre [detected a suspected floating mine](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) in the Strait of Hormuz, according to the Times of Oman. The discovery comes as regional tensions remain elevated over maritime security in the vital shipping lane. Separately, [an opinion piece](https://timesofoman.com/article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin) in the Times of Oman criticized President Trump's recent statements about Oman as "a historical sin," reflecting diplomatic friction over the sultanate's neutrality.
+In Yemen, the conflict landscape continues to evolve with multiple political developments. Prince Khalid bin Salman conveyed Saudi condolences following the death of former Yemeni President Abd Rabbuh Mansour Hadi, while tensions persist between various Yemeni factions over governance and territorial control.
 
-## Energy & Economy
+**Energy & Economy**
 
-• **UAE economy expanded 6.2% in 2025 with GDP rising to AED 1.9 trillion**, according to the [UAE Government Media Office](https://twitter.com/UAEmediaoffice). The growth figures reflect continued diversification efforts and strong performance across non-oil sectors.
+• The UAE economy posted [6.2% growth](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law) with GDP rising to AED 1.9 trillion in 2025, according to UAE government media office reports.
 
-• **Oman is launching a strategic lithium battery materials project**, [Al Arabiya reports](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30/عمان-تحتضن-مشروعا-استراتيجيا-لانتاج-مواد-بطاريات-الليثيوم). The initiative positions the sultanate in the growing electric vehicle supply chain and renewable energy storage markets.
+• Oman released updated guidelines on [activities prohibited](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law) for foreign investors under its Foreign Capital Investment Law, per the Times of Oman.
 
-• **Saudi Health Ministry announced providing 2.5 million health services to pilgrims** during this year's Hajj season, [per Youm7](https://www.youm7.com/story/2026/5/30/صحة-السعودية-تعلن-تقديم-2-5-مليون-خدمة-صحية-للحجاج). The successful completion of Hajj operations is a key economic and logistical achievement for the kingdom.
+• [Sky News Arabia reports](https://validate.perfdrive.com/?ssa=7a662c72-bdb9-4df9-a4a0-132e0bcfafe0&ssb=42822226842&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fnewsroom%2F1871504-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%258A%25D8%25AD%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2588%25D9%2582%25D8%25B7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2586%25D8%25B6%25D9%2585%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D9%2581%25D8%25A7%25D9%2582%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25B1%25D8%25A7%25D9%2587%25D9%258A%25D9%2585%25D9%258A%25D8%25A9&ssi=bdd77260-cf43-40d0-bf64-14cf7a3b23cb&ssk=botmanager_support@radware.com&ssm=85276118895574769103654693471752&ssn=ae7afd2678e9c0c03ea7f99a331f68c77f357d730358-d3d0-4389-990eeb&sso=64c8ba3c-60620e1be1a386015784bb581ac54570f391c52176cdc234&ssp=67595504931780135016178015537637490&ssq=93311908267945802923982679878820330403429&ssr=MTMuODMuMTYyLjE=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA3ZDczMDM1OC1kM2QwLTQzODktOWEzYy02MDYyMGUxYmUxYTMxLTE3ODAxODI2NzkxNTMwLTAwMzk5MWIwOTQ1NjdiZDVlYTgxMCIsInV6bXgiOiI3ZjkwMDBkNWI1MDA0OC1iMTRjLTRlNjgtYmFiZC00NzkzNDc4N2E5NzcxLTE3ODAxODI2NzkxNTMwLTAxNzQwMGQ0MjNmNDZlZmQxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20ifQ==) Trump urges Saudi Arabia and Qatar to join the Abraham Accords.
 
-• Oil market developments were limited in available Gulf sources today, though regional energy policies continue to influence global pricing dynamics.
+• [Al Jazeera reports](https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86) on Yemen's "daily wage economy" as citizens resort to buying oil by the cup and ghee by the spoon to avoid hunger.
 
-## Country Watch
+**Saudi Arabia**
+• The kingdom successfully concluded the 2026 Hajj season, with authorities highlighting smooth operations and comprehensive services for pilgrims. Interior Ministry posts emphasize the successful logistics operation.
+• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security challenges.
+• Prince Faisal bin Farhan praised Trump's diplomatic approach to regional conflicts and thanked France for its commitment to recognizing Palestine.
 
-### Saudi Arabia
-• **Crown Prince Mohammed bin Salman is preparing for the FIFA World Cup 2026**, with [Princess Reema announcing](https://twitter.com/rbalsaud) "20 days to go" until Saudi Arabia's opening match. The Green Falcons begin preparations in New York as part of Vision 2030's sports initiatives.
+**UAE**
+• Sheikh Mohammed bin Rashid announced the launch of new AI assistants in government procurement, taxation, customer service, and technical support.
+• Emirates Airlines unveiled a special Arsenal FC livery on its A380 following the club's Premier League victory, according to Dubai Media Office.
+• Anwar Gargash criticized Turkey's "provocative" diplomatic statements, calling for an end to what he termed "colonial illusions."
 
-• **Interior Ministry forces arrested 8,090 violators of residency, work, and border security regulations** within one week, the [Saudi Interior Ministry reported](https://twitter.com/MOISaudiArabia). The sweep reflects ongoing enforcement of labor and immigration policies.
+**Qatar**
+• Majed Al Ansari was appointed as advisor to the Deputy Prime Minister and official spokesperson for the Ministry of Foreign Affairs.
+• PM Al Thani received congratulations from regional leaders on his appointment and issued Eid Al-Adha greetings.
 
-### UAE
-• **Sheikh Mohammed bin Rashid launched the first batch of AI assistants** in procurement, taxation, customer service, and technical support during a government retreat, [per his Twitter account](https://twitter.com/HHShkMohd). The initiative involves transforming half of government services using artificial intelligence.
+**Yemen**
+• Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges between Yemeni factions.
+• The IRG government appointed Ahmed Hamid Lamlas as the new governor of Aden Governorate, according to Saba News Agency.
+• Abu Zaraa emphasized the importance of collective decision-making within the Presidential Leadership Council, criticizing unilateral actions.
 
-• **UAE advised citizens against travel to three African countries**, [Sky News Arabia reports](https://validate.perfdrive.com/). The advisory reflects ongoing security assessments across the continent.
+**Official Signals**
 
-### Oman
-• **Sultan Haitham bin Tarik offered Eid Al Adha prayers** at Sultan Qaboos Mosque in Sohar, [Oman News Agency reports](http://n9.cl/adorv). The ceremonial observance marks the conclusion of the Hajj pilgrimage season.
+Prince Faisal bin Farhan posted that "The Kingdom of Saudi Arabia highly appreciates the US President Donald Trump's decision to give diplomacy a chance to reach an acceptable agreement to end the war, restore the security and freedom of maritime navigation in the Strait of Hormuz." This represents a significant Saudi endorsement of Trump's regional diplomatic approach.
 
-### Yemen
-• **IRG government condemned UAE airstrikes on National Army forces** in Aden and Abyan governorates, according to [Saba News Agency](https://sabanew.net). The incident highlights ongoing tensions between the internationally recognized government and UAE-backed forces.
+Sheikh Abdulla bin Zayed highlighted the UAE's AI leadership, noting the country ranks "first in the world in terms of artificial intelligence talent concentration growing by 121% between 2019 and 2025," reflecting the UAE's emphasis on technological advancement as a national priority.
 
-• **Ahmed Hamid Lamlas was appointed governor of Aden Governorate** by the IRG, [Saba reports](https://sabanew.net). The appointment comes as the government seeks to consolidate control in the southern port city.
+**Coverage Flags**
 
-• **Houthis/Ansar Allah are maintaining positions across multiple fronts** while various Yemeni officials exchange condolences over former President Hadi's death, reflecting the complex political landscape following the longtime leader's passing.
+International outlets appear to be ahead on economic analysis of regional challenges, particularly regarding Yemen's humanitarian crisis and economic conditions. Arabic-language coverage of Trump's diplomatic outreach is more extensive than English reporting, suggesting potential gaps in Western coverage of regional diplomatic developments.
 
-## Official Signals
-
-• **Saudi Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance** to reach an agreement on ending conflicts and restoring maritime security in the Strait of Hormuz, [according to his Twitter](https://twitter.com/FaisalbinFarhan). The statement suggests Saudi support for negotiations over military escalation.
-
-• **UAE Minister of State for Foreign Affairs Anwar Gargash criticized Turkey's defense minister** for "provocative statements" and "colonial illusions," [per his Twitter account](https://twitter.com/AnwarGargash). The rebuke reflects ongoing UAE-Turkey tensions over regional influence.
-
-## Coverage Flags
-
-No significant gaps identified between international and regional coverage today. Saudi death of former Yemeni president received appropriate coverage across Gulf outlets, while maritime security incidents in Gulf waters warrant continued monitoring.
-
-## Sources
-
+**Sources**
 • [Times of Oman](https://timesofoman.com)
 • [BBC Middle East](https://www.bbc.com/news)
-• [Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud)
-• [Mohammed AlJabir Twitter](https://twitter.com/mohdsalj)
-• [UAE Government Media Office Twitter](https://twitter.com/UAEmediaoffice)
-• [Al Arabiya](https://www.alarabiya.net)
-• [Youm7](https://www.youm7.com)
-• [Saudi Interior Ministry Twitter](https://twitter.com/MOISaudiArabia)
-• [Sheikh Mohammed bin Rashid Twitter](https://twitter.com/HHShkMohd)
-• [Princess Reema Twitter](https://twitter.com/rbalsaud)
-• [Prince Faisal bin Farhan Twitter](https://twitter.com/FaisalbinFarhan)
-• [Anwar Gargash Twitter](https://twitter.com/AnwarGargash)
-• [Oman News Agency](http://n9.cl/adorv)
-• [Saba News Agency](https://sabanew.net)
-• [Sky News Arabia](https://validate.perfdrive.com/)
+• [Al Jazeera](https://www.aljazeera.net)
+• [Sky News Arabia](https://www.skynewsarabia.com)
+• [AP News](https://news.google.com)
+• [Reuters Gulf](https://www.reuters.com)
+•
