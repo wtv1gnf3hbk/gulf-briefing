@@ -1,72 +1,63 @@
 **Top News**
 
-- Saudi Arabia said its defense minister conveyed King Salman and Crown Prince Mohammed bin Salman's condolences over the death of former Yemeni President Abd Rabbuh Mansour Hadi, according to the Saudi Press Agency ([Twitter](https://x.com/spagov/status)).
+- Saudi Arabia provided 2.5 million health services to pilgrims during this year's Hajj season, the Ministry of Health reported, marking successful completion of the annual pilgrimage ([Times of Oman](https://www.youm7.com/story/2026/5/30/%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-2-5-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%AC%D8%A7%D8%AC/7433062))
 
-- Yemen's IRG officials received condolences for former President Hadi, as Foreign Minister Mohammed Al-Eryani and other IRG leadership attended mourning ceremonies in the temporary capital Aden ([Twitter](https://x.com/ERYANIM/status)).
+- Former Yemeni President Abd Rabbuh Mansour Hadi died, Prince Khalid bin Salman conveyed condolences from Saudi leadership to his family, calling him "a wise leader" focused on Yemen's security and stability
 
-- Saudi Foreign Minister Prince Faisal bin Farhan said the kingdom "highly appreciates" President Trump's decision to give diplomacy a chance to reach an agreement to end the war and restore maritime navigation security in the Strait of Hormuz ([Twitter](https://x.com/FaisalbinFarhan/status)).
+- Oman detected a suspected floating mine in the Strait of Hormuz, the country's Maritime Security Centre reported in a development that could affect shipping ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz))
 
-- Oman's Maritime Security Centre detected a suspected floating mine in the Strait of Hormuz, according to the ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz)).
+- Saudi Arabia's Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance to reach an agreement that restores security and freedom of navigation in the Strait of Hormuz to pre-February 28th conditions
 
-- Saudi Arabia declared the 2026 Hajj season free of health threats following completion of the pilgrimage, which saw over 255,000 tons of waste removed, according to ([Qatar News Agency](https://ow.ly/O4Sj50Z5SlN)).
-
-- Saudi Ambassador to Yemen Mohammed AlJabir visited Sana'a alongside an Omani delegation to consolidate the truce and discuss prisoner exchanges, according to his ([Twitter account](https://x.com/mohdsalj/status)).
+- Kuwait oil prices dropped 84 cents to $117.51 per barrel, according to Kuwait Petroleum Corporation data ([Reuters Gulf](https://kuna.net.kw/ArticleDetails.aspx?id=3305807))
 
 **Energy & Economy**
 
-- UAE GDP grew 6.2% to AED 1.9 trillion during 2025, the government media office said in a ([Twitter post](https://x.com/UAEmediaoffice/status)).
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the government media office announced in a show of continued economic strength ([Google News Gulf](https://www.mubasher.info/news/4619456/1-9-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AC%D9%84-%D9%86%D9%85%D9%88%D8%A7-6-2-%D9%81%D9%8A-2025/))
 
-- Oman launched a strategic project to produce lithium battery materials, according to ([Al Arabiya](https://www.alarabiya.net/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85)).
+- Oman embraced a strategic lithium battery materials production project, according to Alarabiya reports, as the sultanate diversifies its energy sector ([Google News Gulf](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85))
 
-- Kuwait oil price declined 84 cents to $117.51 per barrel, the Kuwait Petroleum Corporation said, according to ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305807)).
+- Oman published new restrictions on foreign investment under its Foreign Capital Investment Law, outlining prohibited activities for international investors ([Times of Oman](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law))
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met with Chad's president at the Royal Court in Mona Palace to discuss bilateral relations, according to the ([Saudi MFA](https://x.com/KSAMOFA/status)).
 
-- Saudi Interior Ministry arrested 8,090 violators of residency, work and border security regulations within a week ([Twitter](https://x.com/MOISaudiArabia/status)).
+- Crown Prince Mohammed bin Salman met Chad's President at Mona Palace, reviewing bilateral relations and cooperation prospects in various fields
+
+- Saudi Interior Ministry arrested 8,090 violators of residency, work and border security regulations within one week
+
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired an International Conference on Palestinian issue resolution with French counterpart, aiming to implement the two-state solution
 
 **UAE**
-- Sheikh Tahnoon bin Zayed chaired the second MGX board meeting for 2026, discussing new investments and infrastructure expansion priorities ([Twitter](https://x.com/hhtbzayed/status)).
 
-- UAE advised citizens against traveling to three African countries, according to ([Sky News Arabia](https://www.skynewsarabia.com/middle-east/1872203-%25D8%25A7%25D9%2584%25D8%25A5%25D9%2585%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25AA%25D9%2586%25D8%25B5%25D8%25AD-%25D8%25A8%25D8%25B9%25D8%25AF%25D9%2585-%25D8%25B3%25D9%2581%25D8%25B1-%25D9%2585%25D9%2588%25D8%25A7%25D8%25B7%25D9%2586%25D9%258A%25D9%2587%25D8%25A7-3-%25D8%25AF%25D9%2588%25D9%2584-%25D8%25A5%25D9%2581%25D8%25B1%25D9%258A%25D9%2582%25D9%258A%25D8%25A9)).
+- UAE advised against sending citizens to three African countries, according to Sky News Arabia reports
 
-**Bahrain**
-- Bahrain's Civil Defense rescued five children from a house fire in Aali area without casualties, according to the ([Interior Ministry](https://policemc.gov.bh/en/news/78966/)).
-
-- Bahrain strongly condemned Iranian attacks on Kuwait, according to the ([MFA](https://bit.ly/4dAMr6j)).
+- UAE emerged first globally in AI talent concentration growth, rising 121% between 2019 and 2025, Sheikh Abdullah bin Zayed noted
 
 **Qatar**
-- Qatar PM Mohammed bin Abdulrahman Al Thani was honored by Emir Sheikh Tamim's appointment and pledged to work with ministers under the wise leadership ([Twitter](https://x.com/MBA_AlThani_/status)).
 
-**Oman**
-- Sultan Haitham bin Tarik offered Eid prayers at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([ONA](http://n9.cl/adorv)).
+- Qatar's Deputy Prime Minister Mohammed bin Abdulrahman Al Thani was honored with appointment as Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani
 
-- Oman's foreign minister met with Iran's deputy foreign minister, reaffirming diplomatic engagement and peaceful regional coexistence ([Twitter](https://x.com/badralbusaidi/status)).
+- Qatar expressed condolences for Abdullah bin Hamad Al Attiyah's death, calling him one of the nation's loyal contributors to development
 
-**Yemen**
-- IRG Presidential Leadership Council Chairman called for unity and directing energies toward restoring state institutions ([Saba News Agency](https://sabanew.net)).
+**Bahrain**
 
-- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG ([Saba News Agency](https://sabanew.net)).
-
-- Houthis published text of an agreement covering bank decisions, Yemenia Airlines flights to Jordan, Cairo and India, according to Mohammed Abdulsalam ([Twitter](https://x.com/abdusalamsalah/status)).
+- Bahrain Civil Defense rescued five children from a house fire in Aali area without casualties, with investigations ongoing into the fire's cause
 
 **Official Signals**
 
-- Saudi Defense Minister Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security challenges ([Twitter](https://x.com/kbsalsaud/status)).
+- Mohammed AlJabir announced a visit to Sana'a with an Omani delegation to consolidate ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni components
 
-- UAE leaders extended Eid Al-Adha congratulations, with Sheikh Abdullah bin Zayed noting the UAE ranks first globally in AI talent concentration growth at 121% ([Twitter](https://x.com/ABZayed/status)).
+- Oman's Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran diplomatic engagement
 
 **Coverage Flags**
 
-- Multiple Gulf outlets are leading with Hajj completion stories and official Eid congratulations.
+- Several outlet homepages are showing security verification screens or blocked access, limiting direct content monitoring
 
 **Sources**
 
-- [Times of Oman](https://timesofoman.com/)
-- [Reuters Gulf](https://www.reuters.com/business/)
-- [AP Gulf](https://apnews.com/)
-- [BBC Middle East](https://www.bbc.com/news/)
-- [Google News Gulf Arabic](https://news.google.com/)
-- Multiple Gulf state agency Twitter feeds and official accounts
+- **[Times of Oman](timesofoman.com)**
+- **[Reuters Gulf](reuters.com)**
+- **[AP Gulf](apnews.com)**
+- **[BBC Middle East](bbc.com)**
+- **[Google News Gulf Arabic](news.google.com)**

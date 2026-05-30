@@ -1,27 +1,26 @@
-## Gulf Bureau Briefing
-**May 30, 2026**
+1. **Yemen power struggle.** The IRG-aligned Yemeni government appointed Ahmed Hamid Lamlas as governor of Aden Governorate and condemned UAE air strikes on National Army forces in both Aden and Abyan. Presidential Leadership Council member Abu Zaraa criticized individual decisions that undermine institutional work and called for adhering to collective decision-making. The [government complained](https://sabanew.net) that UAE interference is destabilizing the region.
 
-1. **Saudi Hajj success.** Saudi officials declared the 2026 Hajj season complete without epidemic outbreaks despite global health challenges. Over 8,000 security law violators were arrested in a week, and the Interior Ministry processed more than 255,000 tons of waste from pilgrimage sites. Regional leaders including Qatar, Kuwait, Palestine and Oman [congratulated the](https://timesofoman.com//article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin) Saudi leadership.
+2. **Former Yemeni president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from across the region. Saudi Defense Minister Prince Khalid bin Salman [conveyed condolences](https://spa.gov.sa/N2603513) from King Salman and Crown Prince Mohammed bin Salman, calling Hadi a wise leader committed to Yemen's security and stability.
 
-2. **Former Yemen president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, with Saudi Defense Minister Prince Khalid bin Salman conveying condolences from King Salman and Crown Prince Mohammed bin Salman. The IRG's information minister Mohammed Al-Eryani called Hadi "a wise leader who was keen on the security, stability, development and prosperity of his country." 
+3. **Oman detects floating mine.** Oman's Maritime Security Centre discovered a suspected floating mine in the Strait of Hormuz, according to the [Times of Oman](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz). The report comes as maritime tensions persist in the strategic shipping lane following regional conflicts.
 
-3. **UAE economic growth.** The UAE economy expanded 6.2% in 2025 with GDP reaching 1.9 trillion dirhams, according to official [government data](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz). The Emirates also leads globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Sheikh Abdullah bin Zayed noted.
+4. **UAE economy surges.** The UAE's economy expanded 6.2% in 2025, with GDP rising to 1.9 trillion dirhams, [according to](https://www.mubasher.info/news/4619456/1-9-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AC%D9%84-%D9%86%D9%85%D9%88%D8%A7-6-2-%D9%81%D9%8A-2025/) Mubasher Info. Government Media Office data showed strong performance across multiple sectors, reflecting the country's economic diversification efforts under its national development strategy.
 
-4. **Trump-Iran diplomacy stalls.** US President Trump met officials to make a "final determination" on Iran but announced no deal, according to the BBC. Vice President Vance said the US and Iran were "very close" to an agreement but "not there yet," following earlier Saudi appreciation for [Trump's willingness](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss) to give diplomacy a chance.
+5. **Saudi Health services for pilgrims.** Saudi Arabia's Ministry of Health announced it provided more than 2.5 million health services to pilgrims during the 1447 AH Hajj season. The comprehensive medical coverage supported the [successful completion](https://spa.gov.sa/N2603567) of this year's pilgrimage, with officials declaring the Hajj operations a success.
 
-5. **Strait of Hormuz mine detected.** Oman's Maritime Security Centre reported finding a suspected floating mine in the Strait of Hormuz, per the Times of Oman. The discovery comes as regional maritime security remains a key concern following months of tensions over shipping routes.
+6. **Oman lithium project.** Oman launched a strategic project to produce lithium battery materials, per [Al Arabiya](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30/%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85). The initiative positions Oman to capitalize on growing demand for battery materials needed for electric vehicles and renewable energy storage systems.
 
-6. **Saudi-UK security talks.** Prince Khalid bin Salman met British National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security coordination. The talks focused on efforts to de-escalate tensions and maintain regional stability, according to the Saudi Defense Minister's [Twitter account](https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain).
+7. **Bahrain condemns Iranian attack.** Bahrain strongly condemned an Iranian attack on Kuwait, [according to](https://bit.ly/4dAMr6j) the Foreign Ministry. The statement reflects ongoing regional tensions between Gulf Arab states and Iran over security issues and territorial disputes.
 
-7. **Oman enhances lithium capacity.** Oman launched a strategic lithium battery materials production project, according to Al Arabiya. The initiative represents part of the sultanate's economic diversification efforts beyond oil and gas.
+8. **Trump-Oman diplomatic tension.** An editorial in DW questioned whether Trump's recent statements against "neutral" Oman represented a diplomatic slip or confusion. The [piece noted](https://www.dw.com) that such remarks toward a traditionally neutral Gulf state could complicate US regional relationships and diplomatic efforts.
 
-8. **Yemen peace envoy visits Sanaa.** Saudi Yemen envoy Mohammed Al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni factions toward a comprehensive political solution.
+9. **Kuwait oil prices decline.** Kuwait oil prices fell 84 cents to $117.51 per barrel, KUNA [reported](https://kuna.net.kw/ArticleDetails.aspx?id=3305807). The decrease reflects global oil market fluctuations affecting Gulf economies heavily dependent on petroleum revenues.
 
-9. **Palestinian diplomatic push.** Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference with his French counterpart on the peaceful resolution of the Palestinian issue and two-state solution implementation. The conference aims to expedite wider Palestinian recognition and forge a consensual roadmap.
+10. **Regional Eid celebrations.** Gulf leaders exchanged Eid al-Adha greetings as the Islamic holy period concluded. Crown Prince Mohammed bin Salman and other regional rulers congratulated their populations and affirmed hopes for peace and prosperity across the Islamic world.
 
-10. **Bahrain rescues children.** Bahrain's Civil Defense rescued five children from a house fire in Aali with no casualties reported, the Interior Ministry announced. Investigations are underway to determine the fire's cause.
-
-**Sources**
-- [Times of Oman](https://timesofoman.com/)
-- [BBC Middle East](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss)
-- Official Twitter/X accounts: @KSAMOFA, @kbsalsaud, @FaisalbinFarhan, @mohdsalj, @UAEmediaoffice
+**Sources:**
+- [Times of Oman](https://timesofoman.com)
+- [Saudi Press Agency](https://spa.gov.sa)
+- [Reuters Gulf](https://www.reuters.com)
+- [BBC Middle East](https://www.bbc.com)
+- [Kuwait News Agency](https://kuna.net.kw)

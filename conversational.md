@@ -1,61 +1,37 @@
-Gulf diplomats are closely monitoring [Trump's deliberations](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096) on Iran policy as US officials say negotiations are ["very close"](https://www.bbc.com/news/articles/c87qng40wz9o) to a deal but not finalized. Saudi Foreign Minister Prince Faisal bin Farhan [said](https://www.bbc.com/news/articles/c0r2d40r91qo) the Kingdom "highly appreciates" Trump giving diplomacy a chance to restore Strait of Hormuz security to pre-February 28 conditions.
+**Saudi Arabia conveys condolences for former Yemeni President Abd Rabbuh Mansour Hadi's death while celebrating the successful completion of this year's Hajj season.** Prince Khalid bin Salman conveyed leadership condolences to Hadi's family, praising him as a wise leader committed to his country's security and development, per the [Saudi Press Agency](https://spa.gov.sa/N2603513). The kingdom provided over 2.5 million health services to pilgrims during Hajj 1447 AH, according to [Saudi health officials](https://spa.gov.sa/N2603567), as regional leaders congratulated Saudi Arabia on the season's success.
 
-The focus on Iran comes as [Oman detected](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) a suspected floating mine in the Strait of Hormuz, per the Times of Oman, adding to regional security concerns. [Times of Oman](https://timesofoman.com//article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin) also carried a striking editorial criticizing Trump's recent comments about Oman as "a historical sin."
+Meanwhile, Oman's Maritime Security Centre [detected a suspected](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) floating mine in the Strait of Hormuz as tensions persist in Gulf waters. The UAE economy continues its strong performance, with GDP [expected to reach](https://www.mubasher.info/news/4619456/1-9-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AC%D9%84-%D9%86%D9%85%D9%88%D8%A7-6-2-%D9%81%D9%8A-2025/) AED 1.9 trillion in 2025 with 6.2% growth.
 
-**Energy & Economy**
+## Energy & Economy
 
-• UAE Government Media Office [announced](https://twitter.com/UAEmediaoffice) the UAE economy expanded 6.2% in 2025, with GDP rising to AED 1.9 trillion during the year.
+• Kuwait oil [prices declined](https://kuna.net.kw/ArticleDetails.aspx?id=3305807) 84 cents to $117.51 per barrel, according to Kuwait News Agency
 
-• According to Al Arabiya, [Oman is embracing](https://www.alarabiya.net/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85) a strategic lithium battery materials production project.
+• Oman launched a strategic [lithium battery materials](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85) production project, per Al Arabiya
 
-• [Kuwait oil](https://kuna.net.kw/ArticleDetails.aspx?id=3305807) fell 84 cents to $117.51 per barrel, according to KUNA.
+• UAE economy posted 6.2% growth with GDP reaching AED 1.9 trillion in 2025, [UAE government reports](https://www.mubasher.info/news/4619456/1-9-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AC%D9%84-%D9%86%D9%85%D9%88%D8%A7-6-2-%D9%81%D9%8A-2025/)
 
-**Country Watch**
+• Times of Oman [detailed restrictions](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law) on foreign investors under Oman's Foreign Capital Investment Law
 
-**Saudi Arabia**
-• The Hajj season concluded successfully with [over 8,000](https://twitter.com/MOISaudiArabia) residency and work regulation violations arrested in one week, per the Interior Ministry. [According to QNA](https://ow.ly/O4Sj50Z5SlN), Saudi Health authorities declared the 2026 Hajj season free of epidemic outbreaks despite global health threats.
+## Saudi Arabia
 
-• Defense Minister Prince Khalid bin Salman [conveyed condolences](https://twitter.com/kbsalsaud) to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently.
+• Crown Prince Mohammed bin Salman [met with](https://spa.gov.sa/N2603513) Chad's President at Mona Palace to discuss bilateral relations and regional cooperation
 
-**UAE**
-• Sheikh Mohammed bin Rashid [reviewed](https://twitter.com/UAEmediaoffice) UAE tourism sector achievements for 2025, while Dubai officials announced an [Emirates A380](https://twitter.com/DXBMediaOffice) special livery celebrating Arsenal's Premier League victory.
+• Prince Khalid bin Salman [conveyed condolences](https://spa.gov.sa/N2603513) from Saudi leadership to Yemen's former President Hadi's family following his death
 
-• Sheikh Abdullah bin Zayed [shared](https://twitter.com/ABZayed) that the UAE leads globally in AI talent concentration, growing 121% between 2019 and 2025.
+• Saudi Interior Ministry reported [arresting 8,090 violators](https://twitter.com/MOISaudiArabia) of residency, work, and border security regulations within a week
 
-**Qatar**
-• Prime Minister Mohammed bin Abdulrahman Al Thani was [formally appointed](https://twitter.com/MBA_AlThani_) to his role, thanking Emir Sheikh Tamim for his trust in a Twitter post.
+• [Princess Reema emphasized](https://twitter.com/rbalsaud) Saudi Arabia's commitment to its own progress and regional prosperity as Vision 2030 approaches its 10-year anniversary
 
-• Foreign Ministry spokesman Majed Al Ansari was [appointed](https://twitter.com/majedalansari) as advisor to the Prime Minister and official Foreign Ministry spokesman.
+## UAE
 
-**Bahrain / Kuwait / Oman**
-• Bahrain's Civil Defense [rescued](https://policemc.gov.bh/en/news/78966/) five children from a house fire in Aali with no casualties reported.
+• UAE leaders [congratulated El Salvador's](https://wam.ae/a/b1n6twr) President on his re-election, according to WAM
 
-• [Sultan Haitham](https://n9.cl/adorv) performed Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, according to ONA.
+• Sheikh Mohammed bin Rashid [launched AI assistants](https://twitter.com/HHShkMohd) in procurement, taxes, customer service, and technical support during a government retreat
 
-**Yemen**
-• IRG Chairman President Al-Alimi [called for](https://sabanew.net) unity of ranks and directing energies toward restoring state institutions, per Saba News Agency.
+• Emirates unveiled [special Arsenal livery](https://twitter.com/DXBMediaOffice) on an A380 following the club's Premier League victory
 
-• Houthi negotiator Mohammed Abdulsalam [announced](https://twitter.com/abdusalamsalah) an agreement including bank decision cancellations and increased Yemenia Airlines flights between Sanaa and Jordan.
+• UAE advised against [citizen travel](https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5) to three African countries, Sky News Arabia reports
 
-**Official Signals**
+## Qatar
 
-Prince Faisal bin Farhan's [statement](https://twitter.com/FaisalbinFarhan) appreciating Trump's Iran diplomacy signals Saudi support for negotiations over military action. His [co-chairing](https://twitter.com/FaisalbinFarhan) of the International Conference for Palestinian Issue resolution in partnership with France shows continued Saudi-French coordination on Middle East peace initiatives.
-
-Houthi spokesman Mohammed Ali Al Houthi's [assertion](https://twitter.com/Moh_Alhouthi) that Yemen's "first line of defense for Mecca and Medina" is removing Israel from Palestine attempts to frame Houthi actions in religious terms appealing to broader Muslim sentiment.
-
-**Coverage Flags**
-
-International outlets are leading on Iran negotiations while regional press focuses more on Hajj success stories and bilateral visits. The gap between Arabic and English coverage of the Oman mine detection story warrants attention — local coverage may provide more operational details than international reporting.
-
-**Sources**
-• [Times of Oman](https://timesofoman.com)
-• [AP News](https://apnews.com)
-• [BBC Middle East](https://www.bbc.com)
-• [Saudi Press Agency Arabic](https://twitter.com/spagov)
-• [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
-• [Qatar News Agency](https://twitter.com/QNAEnglish)
-• [Bahrain Interior Ministry](https://twitter.com/moi_bahrain)
-• [Kuwait News Agency](https://twitter.com/kuna_en)
-• [Oman News Agency](https://twitter.com/ONA_eng)
-• [Saba News Agency](https://twitter.com/sabanew_)
-• [Al Arabiya](https://www.alarabiya.net)
+• Qatar Deputy Prime Minister [met Singapore officials](https://bit.ly/4
