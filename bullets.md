@@ -1,55 +1,67 @@
 **Top News**
 
-- Saudi Arabia concluded Hajj season 1447 AH with global leaders congratulating King Salman and Crown Prince Mohammed bin Salman on the successful pilgrimage, Saudi Press Agency ([reported](https://spa.gov.sa/N2603169)).
-- Iran's missile strike targeted Kuwait's Ali Al-Salem Air Base, with Kuwaiti air defenses successfully intercepting the attack while two Americans were injured, according to Bloomberg ([reports](https://www.facebook.com/khamsenetektesad/posts/1026515663463020/)).
-- Bahrain strongly condemned Iran's attack on Kuwait as destabilizing to regional security, the Foreign Ministry ([announced](https://bit.ly/4dAMr6j)).
-- Saudi Arabia's Mohammed Al-Jabir posted that Al-Hudaydah was liberated and Yemen is breathing, marking a significant development in the Yemen ([conflict](https://twitter.com/mohdsalj)).
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the government media office ([reported](https://twitter.com/UAEmediaoffice)).
+- Saudi Arabia arrested 8,090 violators of residency, work, and border security regulations within a week, the Interior Ministry [announced](https://moi.gov.sa/).
+
+- Yemen IRG leadership announced the appointment of Ahmed Hamid Lamlas as governor of Aden Governorate, according to [Saba News Agency](https://sabanew.net/).
+
+- GCC leaders congratulated Saudi Arabia on the success of the 1447 AH Hajj season, with Qatar, Kuwait, Oman, and Bahrain leaderships sending official messages to King Salman and Crown Prince Mohammed bin Salman.
+
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy another chance to reach an agreement ending the war and restoring security and freedom of navigation in the Strait of Hormuz, according to his [official statement](https://twitter.com/FaisalbinFarhan).
+
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the government [media office announced](https://twitter.com/UAEmediaoffice).
+
+- Bahrain strongly condemned an Iranian attack on Kuwait, the Foreign Ministry [stated](https://twitter.com/bahdiplomatic).
 
 **Energy & Economy**
 
-- Kuwait oil price dropped 84 cents to USD $117.51 per barrel, Kuwait Petroleum Corporation ([confirmed](https://kuna.net.kw/ArticleDetails.aspx?id=3305807)).
-- Qatar rejected imposing permanent fees for ships crossing the Strait of Hormuz, according to Asharq Business with ([Bloomberg](https://asharqbusiness.com/power/134614/)).
-- Saudi Arabia arrested 8,090 violators of residency, work and border security regulations within one week, the Interior Ministry ([announced](https://twitter.com/MOISaudiArabia)).
+- Kuwait oil price fell 84 cents to USD 117.51 per barrel, Kuwait Petroleum Corporation [reported](https://kuna.net.kw/).
+
+- Oman's Muscat Stock Exchange gained 143 points in weekly trading, with bond and sukuk issuances exceeding OMR 589 million ([Times of Oman](https://timesofoman.com/)).
+
+- Invest Oman unveiled new projects with guaranteed offtake mechanisms to attract investors ([Times of Oman](https://timesofoman.com/)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional security coordination, the Defense Minister ([posted](https://twitter.com/kbsalsaud)).
-- Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance to restore Red Sea navigation security, calling it highly ([appreciated](https://twitter.com/FaisalbinFarhan)).
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security coordination ([Twitter](https://twitter.com/kbsalsaud)).
+
+- Interior Minister Prince Abdulaziz bin Saud congratulated Crown Prince Mohammed bin Salman on the success of the Hajj 1447 AH season ([Saudi Press Agency](https://spa.gov.sa/)).
 
 **UAE**
-- The National Multiple Sclerosis Society launched World MS Day activities under the theme "My MS Diagnosis: Navigating MS Together," Abu Dhabi Media Office ([reported](https://twitter.com/ADMediaOffice)).
-- Emirates unveiled a special Arsenal FC livery on an A380 aircraft celebrating the club's Premier League victory, Dubai Media Office ([announced](https://twitter.com/DXBMediaOffice)).
+- Sheikh Mohammed bin Rashid reviewed achievements of the UAE tourism sector for 2025 and launched the first batch of AI assistants in procurement, taxes, and customer happiness ([Twitter](https://twitter.com/HHShkMohd)).
+
+- The UAE ranked first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Sheikh Abdulla bin Zayed [noted](https://twitter.com/ABZayed).
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani expressed honor at his appointment by Emir Sheikh Tamim bin Hamad Al Thani, seeking success in serving ([Qatar](https://twitter.com/MBA_AlThani_)).
-- Officials mourned the death of former official Abdullah bin Hamad Al Attiyah, with condolences from across the ([government](https://twitter.com/MBA_AlThani_)).
-
-**Bahrain**
-- Civil Defense rescued five children from a house fire in Aali area without casualties while investigating the cause, Interior Ministry ([reported](https://policemc.gov.bh/en/news/78966/)).
+- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed to his new role with Majed Al Ansari named as his advisor and official spokesman for the Foreign Ministry ([Twitter](https://twitter.com/MBA_AlThani_)).
 
 **Oman**
-- Sultan Haitham bin Tarik offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate, Oman News Agency ([covered](http://n9.cl/adorv)).
-- Foreign Minister Badr Albusaidi held good discussions with Iran's Deputy FM reflecting the constructive nature of Oman-Iran ([dialogue](https://twitter.com/badralbusaidi)).
+- Sultan Haitham bin Tarik offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, according to [Oman News Agency](https://omannews.gov.om/).
+
+- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran dialogue ([Twitter](https://twitter.com/badralbusaidi)).
 
 **Yemen**
-- IRG Chairman Al-Alimi called for unity and directing energies toward restoring state institutions, Saba News Agency ([reported](https://twitter.com/sabanew_)).
-- Houthi spokesperson Mohammed Abdulsalam confirmed Yemen's naval operations aim to support Palestinians while protecting Yemeni waters under sovereign ([powers](https://twitter.com/abdusalamsalah)).
+- IRG Presidential Leadership Council Chairman called for unity of ranks and directing all energies toward restoring state institutions, [Saba News reported](https://sabanew.net/).
+
+- Saudi Ambassador Mohammed AlJabir announced a visit to Sanaa with an Omani delegation to consolidate the truce, support prisoner exchanges, and discuss dialogue between Yemeni components ([Twitter](https://twitter.com/mohdsalj)).
 
 **Official Signals**
 
-- Saudi Crown Prince Mohammed bin Salman thanked God for the honor of serving the Two Holy Mosques and caring for pilgrims during the blessed Eid Al-Adha ([celebrations](https://twitter.com/kbsalsaud)).
-- UAE's Sheikh Mohammed bin Rashid launched the first batch of AI assistants in procurement, taxes, customer happiness and technical support as part of the federal AI ([program](https://twitter.com/HHShkMohd)).
+- Saudi Foreign Minister emphasized the Kingdom's appreciation for Trump's diplomatic approach on Iran, stating it serves regional security interests.
+
+- UAE officials highlighted the country's AI leadership as embodying the vision of a leadership that makes building people and attracting minds a solid national approach.
 
 **Coverage Flags**
 
-- Multiple Gulf news websites including Qatar News Agency, Al Ayam, and Financial Times were blocked or showing security verification pages during homepage ([access](screenshots)).
+- Multiple outlet homepages were inaccessible due to technical restrictions or security verification requirements, limiting direct source verification.
 
 **Sources**
 
-- [Saudi Press Agency](https://spa.gov.sa)
-- [Bahrain News Agency](https://bna.bh)
-- [Kuwait News Agency](https://kuna.net.kw)
-- [Times of Oman](https://timesofoman.com)
-- [BBC Middle East](https://bbc.com/news/world/middle_east)
+- [Times of Oman](https://timesofoman.com/)
+- [Reuters](https://www.reuters.com/)
+- [BBC](https://www.bbc.com/)
+- [Saudi Press Agency](https://spa.gov.sa/)
+- [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
+- [Kuwait News Agency](https://kuna.net.kw/)
+- [Oman News Agency](https://omannews.gov.om/)
+- [Saba News Agency](https://sabanew.net/)
