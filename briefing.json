@@ -4,18 +4,58 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-05-30T14:10:46.707Z",
-    "generatedTimestamp": 1780150246707
+    "generated": "2026-05-30T15:12:04.633Z",
+    "generatedTimestamp": 1780153924633
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
-    "totalStories": 49,
+    "totalStories": 48,
     "totalScreenshots": 66,
-    "elapsed": "547.8s"
+    "elapsed": "496.4s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Oman's Maritime Security Centre detects suspected floating mine in Strait of Hormuz",
+        "url": "https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sat, 30 May 2026 18:34:13 +0400",
+        "description": ""
+      },
+      {
+        "headline": "Why Europe is getting so hot",
+        "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sat, 30 May 2026 18:19:21 +0400",
+        "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
+      },
+      {
+        "headline": "Iran turns internet back on, but old restrictions remain",
+        "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sat, 30 May 2026 18:12:21 +0400",
+        "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
+      },
+      {
+        "headline": "Laos: Five people rescued from flooded cave",
+        "url": "https://timesofoman.com//article/172384-laos-five-people-rescued-from-flooded-cave",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sat, 30 May 2026 18:02:06 +0400",
+        "description": "Vientiane: Four more men trapped in a flooded cave in Laos emerged on Saturday, bringing the total number brought to safety to five.One person was..."
+      },
       {
         "headline": "President Trump \"remains in excellent health\" after annual physical examination, Physician's memo says",
         "url": "https://timesofoman.com//article/172383-president-trump-remains-in-excellent-health-after-annual-physical-examination-physicians-memo-says",
@@ -75,46 +115,6 @@
         "priority": "secondary",
         "date": "Sat, 30 May 2026 15:44:12 +0400",
         "description": "“Today, logistics is no longer just about moving shipments. It is about business continuity, confidence, and connecting economies during both normal and..."
-      },
-      {
-        "headline": "Longer trading hours brings MSX closer to global trading standards",
-        "url": "https://timesofoman.com//article/172377-longer-trading-hours-brings-msx-closer-to-global-trading-standards",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 15:41:11 +0400",
-        "description": "Muscat: The Muscat Stock Exchange will begin extending trading hours from Monday as part of a strategic direction aimed at providing a wider time range for..."
-      },
-      {
-        "headline": "Bond and sukuk issuances on MSX exceed OMR589mn",
-        "url": "https://timesofoman.com//article/172376-bond-and-sukuk-issuances-on-msx-exceed-omr589mn",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 15:22:46 +0400",
-        "description": "Muscat: The value of new listings in bonds and sukuk market at the Muscat Stock Exchange (MSX) during the current year amounted to OMR589.2 million,..."
-      },
-      {
-        "headline": "Muscat Stock Exchange rises by 143 points in weekly trading",
-        "url": "https://timesofoman.com//article/172375-muscat-stock-exchange-rises-by-143-points-in-weekly-trading",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 15:06:47 +0400",
-        "description": "Muscat: The main index of the Muscat Stock Exchange rose by 143 points during the week and closed at 7,775 points, recording its first rise after 4 weeks of..."
-      },
-      {
-        "headline": "Confident Oman women eye Premier Cup breakthrough in Malaysia",
-        "url": "https://timesofoman.com//article/172372-confident-oman-women-eye-premier-cup-breakthrough-in-malaysia",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 13:16:08 +0400",
-        "description": "Muscat: Oman women, skippered by Priyanka Mendonca, will head to Malaysia for the ACC Women’s Premier Cup 2026 brimming with confidence as they look to..."
       },
       {
         "headline": "Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint - Reuters",
@@ -227,18 +227,8 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc"
       },
       {
-        "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-        "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 09:45:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
-      },
-      {
         "headline": "FATMA KHALED - AP News",
-        "url": "https://apnews.com/author/fatma-khaled",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05RlI5RGJ3REJwS1NBUFE3S1JFV3lRVWs5Q3FuNEFSS3M0OEx1ZU5Ma0Z2WGRZLUlOUmM0U081aTlkRFJhRlRtTDB2N1o4dms?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -258,13 +248,23 @@
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
-        "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
         "date": "Fri, 29 May 2026 22:09:30 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+      },
+      {
+        "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
+        "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 09:45:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
@@ -278,12 +278,12 @@
       },
       {
         "headline": "STEVE DOUGLAS - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+        "url": "https://apnews.com/author/steve-douglas",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 06:18:59 GMT",
+        "date": "Sat, 30 May 2026 08:10:22 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
       },
       {
@@ -293,18 +293,8 @@
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Fri, 29 May 2026 22:19:52 GMT",
+        "date": "Sat, 30 May 2026 00:18:08 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
-      },
-      {
-        "headline": "Benjamin Netanyahu - AP News",
-        "url": "https://apnews.com/hub/benjamin-netanyahu",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 10:38:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5\" target=\"_blank\"&gt;Benjamin "
       },
       {
         "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -407,7 +397,18 @@
         "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
       },
       {
-        "headline": "The Sultanate of Oman raises questions about navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
+        "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 13:05:38 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
+        "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+      },
+      {
+        "headline": "The Sultanate of Oman issues a warning regarding navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
         "url": "https://arabic.cnn.com/middle-east/article/2026/05/30/oman-warns-suspected-mine-seen-in-strait-of-hormuz",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
@@ -415,22 +416,44 @@
         "priority": "primary",
         "date": "Sat, 30 May 2026 12:48:59 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW5TQ3VOeTlBd1BVUV9sR3h0bTU0V0lQZmJsMXRmeUJnX0lWUnhaSTMzQnBhbDZGVno5OXZta2hreTZpR3hiZXpwVjVDaVVKczAtb3NWSm9udjhtQU5Dektxa2JtQ0pIX2lwNGR",
-        "originalHeadline": "سلطنة عُمان توجه تح��يرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
+        "originalHeadline": "سلطنة عُمان توجه تحذيرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
       },
       {
-        "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
-        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+        "headline": "Despite the global epidemiological challenges...Saudi Health: The 2026 Hajj season is free of health threats - Parliamentarian",
+        "url": "https://www.parlmany.com/News/5/606858/%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%88%D8%B3%D9%85-%D8%AD%D8%AC-2026-%D8%AE%D8%A7%D9%84%D9%8D",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 12:59:57 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
-        "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+        "date": "Sat, 30 May 2026 14:09:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gNBVV95cUxQTk1hbEtLZl9vYmVFVGQxaU8zRHRWMVIwMGt1SjBNcjJ4QjZsVlhTaVduYkM3SkFCa1pXM3g5TnowZmwxc01BVG96MkZHRVRrNktnZmthcVpLTGJSOUZkMW9hV2R3cUFfRktkYlB",
+        "originalHeadline": "رغم التحديات الوبائية عالمياً.. الصحة السعودية: موسم حج 2026 خالٍ من المهددات الصحية - برلمانى"
+      },
+      {
+        "headline": "6.2% increase in the UAE economy and 1.9 trillion dirhams in gross domestic product during 2025 - Al-Ahram Gate",
+        "url": "https://gate.ahram.org.eg/News/5663955.aspx",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 14:24:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMEhBS29xTmU0eHdRYy02Z0NKRTU4TXNScTBQc3V4TVV3ZmV2c0RESWZwVVpETEI5dWtudUExdXdOVlRrWGdyendabFExRzRSdEZmQnJR?oc=5\" target=\"_blank\"&gt;6.2 %",
+        "originalHeadline": "6.2 % ارتفاعًا في اقتصاد الإمارات و1.9 تريليون درهم الناتج المحلي الإجمالي خلال 2025 - بوابة الأهرام"
+      },
+      {
+        "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
+        "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 13:08:17 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
+        "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
       },
       {
         "headline": "Trump threatens to “blow up” Oman... Why is he escalating now? - DW.com",
-        "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8-%D9%86%D8%B3%D9%81-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B5%D8%B9%D9%91%D8%AF-%D8%A7%D9%84%D8%A2%D9%86/video-77338045",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONjFLX2NQN0cwWEk5cGhrakoxM3dsTThWbWV0anBjWXdpWHROR2h0Qk5oSG92ei1aMFZtUnR1ckl0NnNxZExEekhHRnpWXzZxT0IxdUJCWUlsaVB4T1Z5ZG5OaXNybWlIckFMeVROS0VHX2l1Mko5blpDR3NHblZpcmVfRG5LZ0lpZFI2YWpCdFdhVHp1aHZjYW5ILWlWdEdBTXFHN3ZkOTV3TzdaUF9rMTJreW5QN2p2cmk3clZDd2RUMERTQ1lsb0tIdk9BV0RhQS1pZXVNaTAzeERrWHEzM3FTZGNBZERHQTQtSF8waG03RjVFNVcyd3RGZmNPRTRXWkFoSkhBdmd6elZmR3E0VjJSTEtjSklSY1AyVFoySjVkSWFIZDIwN3JGSUQ2YklQSkpmamtfd01takllTm5ISHQ5YnQ3SlBBUk1YdXR4TUtBMDlCbEN3?oc=5",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -441,7 +464,7 @@
       },
       {
         "headline": "What channels broadcast the friendly match between Ecuador and Saudi Arabia in preparation for the 2026 World Cup? How do you watch it online? - Kooora",
-        "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%95%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%8B%D8%A7-%D9%84%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/bltc18d8152318d928d",
+        "url": "https://news.google.com/rss/articles/CBMiogdBVV95cUxNY3pXdG5FMWNzYllBUC0wUjk0VU9rRTVCVVJDVlNKWm45ZzRxa0tLaWJvTU9aR3lheE04dS0wX1dhbXZGMzQwQnR0cGxHZVloMjdtOW4tMUF5RnVBUERzeE5nRkhJRGdGTVRIQ2RkYUh3RmZEclA2cVkwOGRQQl9kS0lmSmVhNjhhaDZLa2dhRGQ3bG9nV1lqcXlqbHdtMFFOM0haUTBuMi1wczg5cmZCblI5aVV2cVdhSnI3azhZWG1QRmhNQkhnZkdIOGpVRnJkZUd5My1XamRKTW5CVGRfN2ZfeVRXLXpGMHJ1aU1CLUZ4WGhqdkN4cFF4X3FKRVpDNlVRQ2d5UUtRUkI4TldNT3VicjJHVnZrU0JhNF9rN0s5LW8yZFNubHM2dFpTT29mRzYwc29vdjR4STJQNERkT2wtNnBGdzYtalhQLTlJTXBqdFM0X2pSckxGOTJrWGFNRzlGTmJsVFQ4enlKb1dUdmZtdUtkcVVLR09nbVhoTVI5TUpyUTduSTlHOFNEWGNNbnpnOF9SYXk1aGFyODZzYUwyOTZfT0pldjVCWnYxTzBFN1BMQS1oNHlqMk5mazFpQTZmbHpqNU5GMHlCam9EUk5WbXJhZF9zVTM4Q0pjUVk1b2dDQm4xVFNCdzBlb0FKNzJQdUN2eGR1VWt6SW1sLXo5QldnMUtqTkhQZkFtdkFzSXpVRnFJZkgySFFKcW9lM3VVMV81c2MyQ0c1ZEFpVXJwdEdTM3RUZW9ieHdLRmdZRThibk4zUzRoNmlEV04tUGd4RldKd1NRcS1XRFNNUDRxblU3TWFYejVnc21sZF9hX0JPMkkwVVlrY1RVMmc4MW16dHVoakMwZlUwUkYyZnFpa3prUnFpcE5scGdDWmFiUVRwbmc0SjNKTTZfWGtPSFQ1anlqaDA1ZDI5ZWFfLVROMTg2S1VZcXZOZmhDbzU2TDMwa2dxSGxONEdRVWZKeDBXQWRJdDlKczVEUUUxRk1VRE5HR1pvdnhhSmVXYlVpajF6OEw4V2ZOejdxSHc1U1VUUlh2YmVqcjhqeTRPMGwybGRqbHhtcnBSZGdqX1d3TjR3R1FjczQyUG1EeTB0RUhUeW5mMVFaejNLNUdFRzRQbFZfNjlVaFVqX08weUFvWEt3R3l3cExLdHZaVDdyNFFNNWktLWFRVkRvdjBwT0V5QTB1WmFoTkxoZS1yNHF5RC1iek9VcVNvU3Y2M0RtSEE?oc=5",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -451,59 +474,15 @@
         "originalHeadline": "ما القنوات الناقلة لمباراة الإكوادور والسعودية الودية استعدادًا لكأس العالم 2026؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora"
       },
       {
-        "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+        "headline": "Two Americans were injured and a drone was destroyed in an Iranian missile attack on an air base in Kuwait. Details 👇 👇 👇 The American Bloomberg Agency reported that an Iranian ballistic missile targeted the Ali Al-Salem Air Base in Kuwait, and Kuwaiti air defenses succeeded in intercepting it, A - facebook.com",
+        "url": "https://www.facebook.com/khamsenetektesad/posts/%D8%A5%D8%B5%D9%80%D9%80%D8%A7%D8%A8%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%80%D9%80%D8%AF%D9%85%D9%8A%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%80%D9%80%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%87%D8%AC%D9%80%D9%80%D9%88%D9%85-%D8%B5%D9%80%D9%80%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9/1026515663463020/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 13:07:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
-        "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
-      },
-      {
-        "headline": "The Sultanate of Oman warns sailors and ships after spotting a floating object suspected to be a sea mine in the Strait of Hormuz - Al-Ahram Gate",
-        "url": "https://gate.ahram.org.eg/News/5663915.aspx",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 12:45:00 GMT",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpM1B0a3BTTVA3TWs4ZlJMWGF6bno2RnlmVEtPdXBjbjYwZGMtNnNzcnhzZlU3T0hPMm9iYjhFbzdLVFJJbEtjcmJqLTUtUVh4V011TUpn?oc=5\" target=\"_blank\">سلطنة",
-        "originalHeadline": "سلطنة عمان تحذر البحارة والسفن بعد رصد جسم طاف يشتبه بأنه لغم بحري بمضيق هرمز - بوابة الأهرام"
-      },
-      {
-        "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
-        "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 11:48:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
-        "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
-      },
-      {
-        "headline": "Oman: A floating object suspected to be a mine was detected west of the traffic area in Hormuz - Masrawy",
-        "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/5/30/2995452/%D8%B9-%D9%85%D8%A7%D9%86-%D8%B1%D8%B5%D8%AF-%D8%AC%D8%B3%D9%85-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D8%A3%D9%86%D9%87-%D9%84%D8%BA%D9%85-%D8%BA%D8%B1%D8%A8-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 12:31:23 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxNMXBidjZZZWc2dU1xLTRNeTM4TERyVmdFYkV0c0JsSE90Wll3UUMydUtGUTd3RmdyYVhNNmNoT01ZOWRGLVF5THU5a19hdnkxdWdnSW9vQzJnVzFERDN4ZVZfQ3c0WE9yNHNVRlV",
-        "originalHeadline": "عُمان: رصد جسم عائم يشتبه بأنه لغم غرب منطقة المرور في هرمز - Masrawy"
-      },
-      {
-        "headline": "Dismissal of UAE national team coach “Kozmin” - National Media Authority",
-        "url": "https://www.maspero.eg/sport/2026/05/30/958638/%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D9%88%D8%B2%D9%85%D9%8A%D9%86",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 12:13:10 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQTRlZXlydWs3aDBNQnhvZXJtdTJ3MW9melFydVV0UXhMbEFaSVdzOEM1cnBEWUptODQwLTdHUGI5em80b0JWZ2NPdzNabDRtdTlqUEI3Mll2aWZlQTZGT3NhWEVwOC1kR1pIUnB",
-        "originalHeadline": "إقالة مدرب منتخب الإمارات \"كوزمين\" - الهيئة الوطنية للإعلام"
+        "date": "Sat, 30 May 2026 08:57:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNMHlqbS1lWmJKcGxFT2RJRWtVd3VjbG1GOUpibzVsMEItS0UwWEc0dFdhaGVKVVhScEdGS2xsZmlqLUZDelp3aEhNa25EMlJ4MmxPVUF0TTdnWHlNTWZDaEl3bm1uei1ISjhGMVB",
+        "originalHeadline": "إصــ.ابة أمريكيين وتــ.دمير طائرة مســ.يرة في هجــ.وم صــ.اروخي إيراني على قاعدة جوية في الكويت التفاصيل 👇 👇 👇 ذكرت وكالة بلومبرج الأمريكية أن صــ.اروخًا باليــ.ستيًا إيرانيًا استــ.هدف قاعدة علي السالم الجوية في الكويت، ونجحت الدفاعات الجوية الكويتية في اعتراضه، إ - facebook.com"
       },
       {
         "headline": "The Egyptian Hajj delegation wins the silver shield of the Saudi “Libitum” Award for Excellence - Mubasher Info",
@@ -515,10 +494,61 @@
         "date": "Sat, 30 May 2026 12:58:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNdUFhcjlTMkFiVDc0MXBFT21VcDFzTmh5LTc2YmZ6VWVzc2JQWVpISHZJcjlnVUthdE10NEhxVDJleWJmOGdMQXp2WkJjcmV6MVBkeHhlYVpNeHk0Z1FKNktYNDIzbEo3cWc0OEN",
         "originalHeadline": "بعثة الحج المصرية تفوز بالدرع الفضي لجائزة \"لبّيتم\" السعودية للتميز - معلومات مباشر"
+      },
+      {
+        "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
+        "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 11:48:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
+        "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
       }
     ],
     "byCategory": {
       "oman": [
+        {
+          "headline": "Oman's Maritime Security Centre detects suspected floating mine in Strait of Hormuz",
+          "url": "https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:34:13 +0400",
+          "description": ""
+        },
+        {
+          "headline": "Why Europe is getting so hot",
+          "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:19:21 +0400",
+          "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
+        },
+        {
+          "headline": "Iran turns internet back on, but old restrictions remain",
+          "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:12:21 +0400",
+          "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
+        },
+        {
+          "headline": "Laos: Five people rescued from flooded cave",
+          "url": "https://timesofoman.com//article/172384-laos-five-people-rescued-from-flooded-cave",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:02:06 +0400",
+          "description": "Vientiane: Four more men trapped in a flooded cave in Laos emerged on Saturday, bringing the total number brought to safety to five.One person was..."
+        },
         {
           "headline": "President Trump \"remains in excellent health\" after annual physical examination, Physician's memo says",
           "url": "https://timesofoman.com//article/172383-president-trump-remains-in-excellent-health-after-annual-physical-examination-physicians-memo-says",
@@ -578,46 +608,6 @@
           "priority": "secondary",
           "date": "Sat, 30 May 2026 15:44:12 +0400",
           "description": "“Today, logistics is no longer just about moving shipments. It is about business continuity, confidence, and connecting economies during both normal and..."
-        },
-        {
-          "headline": "Longer trading hours brings MSX closer to global trading standards",
-          "url": "https://timesofoman.com//article/172377-longer-trading-hours-brings-msx-closer-to-global-trading-standards",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:41:11 +0400",
-          "description": "Muscat: The Muscat Stock Exchange will begin extending trading hours from Monday as part of a strategic direction aimed at providing a wider time range for..."
-        },
-        {
-          "headline": "Bond and sukuk issuances on MSX exceed OMR589mn",
-          "url": "https://timesofoman.com//article/172376-bond-and-sukuk-issuances-on-msx-exceed-omr589mn",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:22:46 +0400",
-          "description": "Muscat: The value of new listings in bonds and sukuk market at the Muscat Stock Exchange (MSX) during the current year amounted to OMR589.2 million,..."
-        },
-        {
-          "headline": "Muscat Stock Exchange rises by 143 points in weekly trading",
-          "url": "https://timesofoman.com//article/172375-muscat-stock-exchange-rises-by-143-points-in-weekly-trading",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:06:47 +0400",
-          "description": "Muscat: The main index of the Muscat Stock Exchange rose by 143 points during the week and closed at 7,775 points, recording its first rise after 4 weeks of..."
-        },
-        {
-          "headline": "Confident Oman women eye Premier Cup breakthrough in Malaysia",
-          "url": "https://timesofoman.com//article/172372-confident-oman-women-eye-premier-cup-breakthrough-in-malaysia",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 13:16:08 +0400",
-          "description": "Muscat: Oman women, skippered by Priyanka Mendonca, will head to Malaysia for the ACC Women’s Premier Cup 2026 brimming with confidence as they look to..."
         }
       ],
       "wire": [
@@ -732,18 +722,8 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc"
         },
         {
-          "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 09:45:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
-        },
-        {
           "headline": "FATMA KHALED - AP News",
-          "url": "https://apnews.com/author/fatma-khaled",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05RlI5RGJ3REJwS1NBUFE3S1JFV3lRVWs5Q3FuNEFSS3M0OEx1ZU5Ma0Z2WGRZLUlOUmM0U081aTlkRFJhRlRtTDB2N1o4dms?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -763,13 +743,23 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
           "date": "Fri, 29 May 2026 22:09:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
+          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 09:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
@@ -783,12 +773,12 @@
         },
         {
           "headline": "STEVE DOUGLAS - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+          "url": "https://apnews.com/author/steve-douglas",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 06:18:59 GMT",
+          "date": "Sat, 30 May 2026 08:10:22 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
         },
         {
@@ -798,18 +788,8 @@
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 22:19:52 GMT",
+          "date": "Sat, 30 May 2026 00:18:08 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
-        },
-        {
-          "headline": "Benjamin Netanyahu - AP News",
-          "url": "https://apnews.com/hub/benjamin-netanyahu",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 10:38:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5\" target=\"_blank\"&gt;Benjamin "
         }
       ],
       "competitors": [
@@ -916,7 +896,18 @@
       ],
       "arabic_aggregate": [
         {
-          "headline": "The Sultanate of Oman raises questions about navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
+          "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 13:05:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
+          "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+        },
+        {
+          "headline": "The Sultanate of Oman issues a warning regarding navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
           "url": "https://arabic.cnn.com/middle-east/article/2026/05/30/oman-warns-suspected-mine-seen-in-strait-of-hormuz",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -924,22 +915,44 @@
           "priority": "primary",
           "date": "Sat, 30 May 2026 12:48:59 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW5TQ3VOeTlBd1BVUV9sR3h0bTU0V0lQZmJsMXRmeUJnX0lWUnhaSTMzQnBhbDZGVno5OXZta2hreTZpR3hiZXpwVjVDaVVKczAtb3NWSm9udjhtQU5Dektxa2JtQ0pIX2lwNGR",
-          "originalHeadline": "سلطنة عُمان توجه تح��يرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
+          "originalHeadline": "سلطنة عُمان توجه تحذيرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
         },
         {
-          "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+          "headline": "Despite the global epidemiological challenges...Saudi Health: The 2026 Hajj season is free of health threats - Parliamentarian",
+          "url": "https://www.parlmany.com/News/5/606858/%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%88%D8%B3%D9%85-%D8%AD%D8%AC-2026-%D8%AE%D8%A7%D9%84%D9%8D",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 12:59:57 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
-          "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+          "date": "Sat, 30 May 2026 14:09:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gNBVV95cUxQTk1hbEtLZl9vYmVFVGQxaU8zRHRWMVIwMGt1SjBNcjJ4QjZsVlhTaVduYkM3SkFCa1pXM3g5TnowZmwxc01BVG96MkZHRVRrNktnZmthcVpLTGJSOUZkMW9hV2R3cUFfRktkYlB",
+          "originalHeadline": "رغم التحديات الوبائية عالمياً.. الصحة السعودية: موسم حج 2026 خالٍ من المهددات الصحية - برلمانى"
+        },
+        {
+          "headline": "6.2% increase in the UAE economy and 1.9 trillion dirhams in gross domestic product during 2025 - Al-Ahram Gate",
+          "url": "https://gate.ahram.org.eg/News/5663955.aspx",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 14:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMEhBS29xTmU0eHdRYy02Z0NKRTU4TXNScTBQc3V4TVV3ZmV2c0RESWZwVVpETEI5dWtudUExdXdOVlRrWGdyendabFExRzRSdEZmQnJR?oc=5\" target=\"_blank\"&gt;6.2 %",
+          "originalHeadline": "6.2 % ارتفاعًا في اقتصاد الإمارات و1.9 تريليون درهم الناتج المحلي الإجمالي خلال 2025 - بوابة الأهرام"
+        },
+        {
+          "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 13:08:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
+          "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
         },
         {
           "headline": "Trump threatens to “blow up” Oman... Why is he escalating now? - DW.com",
-          "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8-%D9%86%D8%B3%D9%81-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B5%D8%B9%D9%91%D8%AF-%D8%A7%D9%84%D8%A2%D9%86/video-77338045",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONjFLX2NQN0cwWEk5cGhrakoxM3dsTThWbWV0anBjWXdpWHROR2h0Qk5oSG92ei1aMFZtUnR1ckl0NnNxZExEekhHRnpWXzZxT0IxdUJCWUlsaVB4T1Z5ZG5OaXNybWlIckFMeVROS0VHX2l1Mko5blpDR3NHblZpcmVfRG5LZ0lpZFI2YWpCdFdhVHp1aHZjYW5ILWlWdEdBTXFHN3ZkOTV3TzdaUF9rMTJreW5QN2p2cmk3clZDd2RUMERTQ1lsb0tIdk9BV0RhQS1pZXVNaTAzeERrWHEzM3FTZGNBZERHQTQtSF8waG03RjVFNVcyd3RGZmNPRTRXWkFoSkhBdmd6elZmR3E0VjJSTEtjSklSY1AyVFoySjVkSWFIZDIwN3JGSUQ2YklQSkpmamtfd01takllTm5ISHQ5YnQ3SlBBUk1YdXR4TUtBMDlCbEN3?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -950,7 +963,7 @@
         },
         {
           "headline": "What channels broadcast the friendly match between Ecuador and Saudi Arabia in preparation for the 2026 World Cup? How do you watch it online? - Kooora",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%95%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%8B%D8%A7-%D9%84%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/bltc18d8152318d928d",
+          "url": "https://news.google.com/rss/articles/CBMiogdBVV95cUxNY3pXdG5FMWNzYllBUC0wUjk0VU9rRTVCVVJDVlNKWm45ZzRxa0tLaWJvTU9aR3lheE04dS0wX1dhbXZGMzQwQnR0cGxHZVloMjdtOW4tMUF5RnVBUERzeE5nRkhJRGdGTVRIQ2RkYUh3RmZEclA2cVkwOGRQQl9kS0lmSmVhNjhhaDZLa2dhRGQ3bG9nV1lqcXlqbHdtMFFOM0haUTBuMi1wczg5cmZCblI5aVV2cVdhSnI3azhZWG1QRmhNQkhnZkdIOGpVRnJkZUd5My1XamRKTW5CVGRfN2ZfeVRXLXpGMHJ1aU1CLUZ4WGhqdkN4cFF4X3FKRVpDNlVRQ2d5UUtRUkI4TldNT3VicjJHVnZrU0JhNF9rN0s5LW8yZFNubHM2dFpTT29mRzYwc29vdjR4STJQNERkT2wtNnBGdzYtalhQLTlJTXBqdFM0X2pSckxGOTJrWGFNRzlGTmJsVFQ4enlKb1dUdmZtdUtkcVVLR09nbVhoTVI5TUpyUTduSTlHOFNEWGNNbnpnOF9SYXk1aGFyODZzYUwyOTZfT0pldjVCWnYxTzBFN1BMQS1oNHlqMk5mazFpQTZmbHpqNU5GMHlCam9EUk5WbXJhZF9zVTM4Q0pjUVk1b2dDQm4xVFNCdzBlb0FKNzJQdUN2eGR1VWt6SW1sLXo5QldnMUtqTkhQZkFtdkFzSXpVRnFJZkgySFFKcW9lM3VVMV81c2MyQ0c1ZEFpVXJwdEdTM3RUZW9ieHdLRmdZRThibk4zUzRoNmlEV04tUGd4RldKd1NRcS1XRFNNUDRxblU3TWFYejVnc21sZF9hX0JPMkkwVVlrY1RVMmc4MW16dHVoakMwZlUwUkYyZnFpa3prUnFpcE5scGdDWmFiUVRwbmc0SjNKTTZfWGtPSFQ1anlqaDA1ZDI5ZWFfLVROMTg2S1VZcXZOZmhDbzU2TDMwa2dxSGxONEdRVWZKeDBXQWRJdDlKczVEUUUxRk1VRE5HR1pvdnhhSmVXYlVpajF6OEw4V2ZOejdxSHc1U1VUUlh2YmVqcjhqeTRPMGwybGRqbHhtcnBSZGdqX1d3TjR3R1FjczQyUG1EeTB0RUhUeW5mMVFaejNLNUdFRzRQbFZfNjlVaFVqX08weUFvWEt3R3l3cExLdHZaVDdyNFFNNWktLWFRVkRvdjBwT0V5QTB1WmFoTkxoZS1yNHF5RC1iek9VcVNvU3Y2M0RtSEE?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -960,59 +973,15 @@
           "originalHeadline": "ما القنوات الناقلة لمباراة الإكوادور والسعودية الودية استعدادًا لكأس العالم 2026؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora"
         },
         {
-          "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+          "headline": "Two Americans were injured and a drone was destroyed in an Iranian missile attack on an air base in Kuwait. Details 👇 👇 👇 The American Bloomberg Agency reported that an Iranian ballistic missile targeted the Ali Al-Salem Air Base in Kuwait, and Kuwaiti air defenses succeeded in intercepting it, A - facebook.com",
+          "url": "https://www.facebook.com/khamsenetektesad/posts/%D8%A5%D8%B5%D9%80%D9%80%D8%A7%D8%A8%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%80%D9%80%D8%AF%D9%85%D9%8A%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%80%D9%80%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%87%D8%AC%D9%80%D9%80%D9%88%D9%85-%D8%B5%D9%80%D9%80%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9/1026515663463020/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 13:07:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
-          "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
-        },
-        {
-          "headline": "The Sultanate of Oman warns sailors and ships after spotting a floating object suspected to be a sea mine in the Strait of Hormuz - Al-Ahram Gate",
-          "url": "https://gate.ahram.org.eg/News/5663915.aspx",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:45:00 GMT",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpM1B0a3BTTVA3TWs4ZlJMWGF6bno2RnlmVEtPdXBjbjYwZGMtNnNzcnhzZlU3T0hPMm9iYjhFbzdLVFJJbEtjcmJqLTUtUVh4V011TUpn?oc=5\" target=\"_blank\">سلطنة",
-          "originalHeadline": "سلطنة عمان تحذر البحارة والسفن بعد رصد جسم طاف يشتبه بأنه لغم بحري بمضيق هرمز - بوابة الأهرام"
-        },
-        {
-          "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
-          "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 11:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
-          "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
-        },
-        {
-          "headline": "Oman: A floating object suspected to be a mine was detected west of the traffic area in Hormuz - Masrawy",
-          "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/5/30/2995452/%D8%B9-%D9%85%D8%A7%D9%86-%D8%B1%D8%B5%D8%AF-%D8%AC%D8%B3%D9%85-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D8%A3%D9%86%D9%87-%D9%84%D8%BA%D9%85-%D8%BA%D8%B1%D8%A8-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:31:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxNMXBidjZZZWc2dU1xLTRNeTM4TERyVmdFYkV0c0JsSE90Wll3UUMydUtGUTd3RmdyYVhNNmNoT01ZOWRGLVF5THU5a19hdnkxdWdnSW9vQzJnVzFERDN4ZVZfQ3c0WE9yNHNVRlV",
-          "originalHeadline": "عُمان: رصد جسم عائم يشتبه بأنه لغم غرب منطقة المرور في هرمز - Masrawy"
-        },
-        {
-          "headline": "Dismissal of UAE national team coach “Kozmin” - National Media Authority",
-          "url": "https://www.maspero.eg/sport/2026/05/30/958638/%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D9%88%D8%B2%D9%85%D9%8A%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:13:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQTRlZXlydWs3aDBNQnhvZXJtdTJ3MW9melFydVV0UXhMbEFaSVdzOEM1cnBEWUptODQwLTdHUGI5em80b0JWZ2NPdzNabDRtdTlqUEI3Mll2aWZlQTZGT3NhWEVwOC1kR1pIUnB",
-          "originalHeadline": "إقالة مدرب منتخب الإمارات \"كوزمين\" - الهيئة الوطنية للإعلام"
+          "date": "Sat, 30 May 2026 08:57:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNMHlqbS1lWmJKcGxFT2RJRWtVd3VjbG1GOUpibzVsMEItS0UwWEc0dFdhaGVKVVhScEdGS2xsZmlqLUZDelp3aEhNa25EMlJ4MmxPVUF0TTdnWHlNTWZDaEl3bm1uei1ISjhGMVB",
+          "originalHeadline": "إصــ.ابة أمريكيين وتــ.دمير طائرة مســ.يرة في هجــ.وم صــ.اروخي إيراني على قاعدة جوية في الكويت التفاصيل 👇 👇 👇 ذكرت وكالة بلومبرج الأمريكية أن صــ.اروخًا باليــ.ستيًا إيرانيًا استــ.هدف قاعدة علي السالم الجوية في الكويت، ونجحت الدفاعات الجوية الكويتية في اعتراضه، إ - facebook.com"
         },
         {
           "headline": "The Egyptian Hajj delegation wins the silver shield of the Saudi “Libitum” Award for Excellence - Mubasher Info",
@@ -1024,6 +993,17 @@
           "date": "Sat, 30 May 2026 12:58:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNdUFhcjlTMkFiVDc0MXBFT21VcDFzTmh5LTc2YmZ6VWVzc2JQWVpISHZJcjlnVUthdE10NEhxVDJleWJmOGdMQXp2WkJjcmV6MVBkeHhlYVpNeHk0Z1FKNktYNDIzbEo3cWc0OEN",
           "originalHeadline": "بعثة الحج المصرية تفوز بالدرع الفضي لجائزة \"لبّيتم\" السعودية للتميز - معلومات مباشر"
+        },
+        {
+          "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
+          "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 11:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
+          "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
         }
       ]
     },
@@ -1140,18 +1120,8 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc"
         },
         {
-          "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 09:45:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
-        },
-        {
           "headline": "FATMA KHALED - AP News",
-          "url": "https://apnews.com/author/fatma-khaled",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05RlI5RGJ3REJwS1NBUFE3S1JFV3lRVWs5Q3FuNEFSS3M0OEx1ZU5Ma0Z2WGRZLUlOUmM0U081aTlkRFJhRlRtTDB2N1o4dms?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1171,13 +1141,23 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
           "date": "Fri, 29 May 2026 22:09:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
+          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 09:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
@@ -1191,12 +1171,12 @@
         },
         {
           "headline": "STEVE DOUGLAS - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+          "url": "https://apnews.com/author/steve-douglas",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 06:18:59 GMT",
+          "date": "Sat, 30 May 2026 08:10:22 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
         },
         {
@@ -1206,18 +1186,8 @@
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 29 May 2026 22:19:52 GMT",
+          "date": "Sat, 30 May 2026 00:18:08 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
-        },
-        {
-          "headline": "Benjamin Netanyahu - AP News",
-          "url": "https://apnews.com/hub/benjamin-netanyahu",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 10:38:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5\" target=\"_blank\"&gt;Benjamin "
         },
         {
           "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -1320,7 +1290,18 @@
           "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
         },
         {
-          "headline": "The Sultanate of Oman raises questions about navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
+          "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 13:05:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
+          "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+        },
+        {
+          "headline": "The Sultanate of Oman issues a warning regarding navigation in the Strait of Hormuz and reveals the reason - CNN Arabic",
           "url": "https://arabic.cnn.com/middle-east/article/2026/05/30/oman-warns-suspected-mine-seen-in-strait-of-hormuz",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1328,22 +1309,44 @@
           "priority": "primary",
           "date": "Sat, 30 May 2026 12:48:59 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW5TQ3VOeTlBd1BVUV9sR3h0bTU0V0lQZmJsMXRmeUJnX0lWUnhaSTMzQnBhbDZGVno5OXZta2hreTZpR3hiZXpwVjVDaVVKczAtb3NWSm9udjhtQU5Dektxa2JtQ0pIX2lwNGR",
-          "originalHeadline": "سلطنة عُمان توجه تح��يرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
+          "originalHeadline": "سلطنة عُمان توجه تحذيرا بشأن الملاحة في مضيق هرمز وتكشف السبب - CNN Arabic"
         },
         {
-          "headline": "The UAE advises its citizens against traveling to 3 African countries - Sky News Arabia",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ3c2lHc200TkM0aXNoTldJODJVNFhqTXN4UGVlTXNZcGMtdWpoSS05THNsZk0zR0N1NXl1SzBSb3lSRTU1V3BpZkVhS1Q1UmpvNUd2VElhTkkybGh3dlU1bi12MHlXM2tjdUR6N2FJVWFSX2d2MlNhX1ZmYW5CSkw5eGl4ZUhGMGpnbFE0bHVFX3hwUFQ5UTdNTXdkaWppMHlwZlk3N1lxRUNLVGhSRjVyYkdiejNDcnFpUnVIVURWXzhfcUFyZXdPR0R1ZXZoYmt3Vmx3UnNfeEE4dGdrMFpKdFdUMzhLUS1Dbk9GbHNIMHVCMlVsWjk3Y21jRXZnbmp3c3EyeHlxX1ZDZ282VUZSdF9PV1c5UEp0Y2lxSzVNM2FEWGlkTDVmUVVIQWfSAZcDQVVfeXFMUGlXWmo5N016YUVqQW93WHlrTlpiWHd6ZEZtbUtmaGtlcDJ3TjJLa2NPLW1IM240S09adVZTeGotUDQyaWVxQU5hZEtkRy0wZTctcTE3V29WQ1BIWXB0c3EwNk0wb1U3X1d5Uk1LZ0p5eThncFhQRnZqX2lmNlh1UjI1eTd6WVd4d2VyUzlZZkxKNDljSmxObEUtZXR6akJPTGs1WDFoRXFodmZSZDZad0o0NmlpM19mNWZ1WFphRmZUOURBV3lacFdDaTdna2RVZlpGcl9OYy1hdk02YUFZdkpSeVE0U3Zoa2t0eTNUZUdxbDRkZEZEbXh0MThMRUtMU0FOakJTQjJwS1I0aTVZRmUyb190U0d1UV9wSUxyLW1YcjFxM3UxTnRsUjhCWWNqaTh3MU4wU2hmcXNTczIyWkNjMmxMU1BSNDhYSTNhb1NIcUNfb1RQSkM1TUoxS3VqMlhXR1ZweXVKMnFwRXdxTTNzZTI3S1FfUWV1OExtalNXWkU1enZ1YnprY2l0TWdLb2JBWXJReTQ?oc=5",
+          "headline": "Despite the global epidemiological challenges...Saudi Health: The 2026 Hajj season is free of health threats - Parliamentarian",
+          "url": "https://www.parlmany.com/News/5/606858/%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%88%D8%B3%D9%85-%D8%AD%D8%AC-2026-%D8%AE%D8%A7%D9%84%D9%8D",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 12:59:57 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNNHhwUVZtUFkyZlZHZl9KaTRxdVNoM21wRlJtalF6Q210dUNyQ3dTMFUyaVE1d2ZfRDljc01DS1hVMXU4Ry15cDVDdy1KaHpWYl8tWUl4ZUlyYUZ1SWN4LVNlOTQ2UjhSZjlzWnZ",
-          "originalHeadline": "الإمارات تنصح بعدم سفر مواطنيها إلى 3 دول إفريقية - سكاي نيوز عربية"
+          "date": "Sat, 30 May 2026 14:09:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gNBVV95cUxQTk1hbEtLZl9vYmVFVGQxaU8zRHRWMVIwMGt1SjBNcjJ4QjZsVlhTaVduYkM3SkFCa1pXM3g5TnowZmwxc01BVG96MkZHRVRrNktnZmthcVpLTGJSOUZkMW9hV2R3cUFfRktkYlB",
+          "originalHeadline": "رغم التحديات الوبائية عالمياً.. الصحة السعودية: موسم حج 2026 خالٍ من المهددات الصحية - برلمانى"
+        },
+        {
+          "headline": "6.2% increase in the UAE economy and 1.9 trillion dirhams in gross domestic product during 2025 - Al-Ahram Gate",
+          "url": "https://gate.ahram.org.eg/News/5663955.aspx",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 14:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMEhBS29xTmU0eHdRYy02Z0NKRTU4TXNScTBQc3V4TVV3ZmV2c0RESWZwVVpETEI5dWtudUExdXdOVlRrWGdyendabFExRzRSdEZmQnJR?oc=5\" target=\"_blank\"&gt;6.2 %",
+          "originalHeadline": "6.2 % ارتفاعًا في اقتصاد الإمارات و1.9 تريليون درهم الناتج المحلي الإجمالي خلال 2025 - بوابة الأهرام"
+        },
+        {
+          "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 13:08:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
+          "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
         },
         {
           "headline": "Trump threatens to “blow up” Oman... Why is he escalating now? - DW.com",
-          "url": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A8-%D9%86%D8%B3%D9%81-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B5%D8%B9%D9%91%D8%AF-%D8%A7%D9%84%D8%A2%D9%86/video-77338045",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxONjFLX2NQN0cwWEk5cGhrakoxM3dsTThWbWV0anBjWXdpWHROR2h0Qk5oSG92ei1aMFZtUnR1ckl0NnNxZExEekhHRnpWXzZxT0IxdUJCWUlsaVB4T1Z5ZG5OaXNybWlIckFMeVROS0VHX2l1Mko5blpDR3NHblZpcmVfRG5LZ0lpZFI2YWpCdFdhVHp1aHZjYW5ILWlWdEdBTXFHN3ZkOTV3TzdaUF9rMTJreW5QN2p2cmk3clZDd2RUMERTQ1lsb0tIdk9BV0RhQS1pZXVNaTAzeERrWHEzM3FTZGNBZERHQTQtSF8waG03RjVFNVcyd3RGZmNPRTRXWkFoSkhBdmd6elZmR3E0VjJSTEtjSklSY1AyVFoySjVkSWFIZDIwN3JGSUQ2YklQSkpmamtfd01takllTm5ISHQ5YnQ3SlBBUk1YdXR4TUtBMDlCbEN3?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1354,7 +1357,7 @@
         },
         {
           "headline": "What channels broadcast the friendly match between Ecuador and Saudi Arabia in preparation for the 2026 World Cup? How do you watch it online? - Kooora",
-          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%95%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%8B%D8%A7-%D9%84%D9%83%D8%A7%D9%94%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026-%D9%88%D9%83%D9%8A%D9%81-%D8%AA%D8%B4%D8%A7%D9%87%D8%AF%D9%87%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A7%D9%95%D9%86%D8%AA%D8%B1%D9%86%D8%AA/bltc18d8152318d928d",
+          "url": "https://news.google.com/rss/articles/CBMiogdBVV95cUxNY3pXdG5FMWNzYllBUC0wUjk0VU9rRTVCVVJDVlNKWm45ZzRxa0tLaWJvTU9aR3lheE04dS0wX1dhbXZGMzQwQnR0cGxHZVloMjdtOW4tMUF5RnVBUERzeE5nRkhJRGdGTVRIQ2RkYUh3RmZEclA2cVkwOGRQQl9kS0lmSmVhNjhhaDZLa2dhRGQ3bG9nV1lqcXlqbHdtMFFOM0haUTBuMi1wczg5cmZCblI5aVV2cVdhSnI3azhZWG1QRmhNQkhnZkdIOGpVRnJkZUd5My1XamRKTW5CVGRfN2ZfeVRXLXpGMHJ1aU1CLUZ4WGhqdkN4cFF4X3FKRVpDNlVRQ2d5UUtRUkI4TldNT3VicjJHVnZrU0JhNF9rN0s5LW8yZFNubHM2dFpTT29mRzYwc29vdjR4STJQNERkT2wtNnBGdzYtalhQLTlJTXBqdFM0X2pSckxGOTJrWGFNRzlGTmJsVFQ4enlKb1dUdmZtdUtkcVVLR09nbVhoTVI5TUpyUTduSTlHOFNEWGNNbnpnOF9SYXk1aGFyODZzYUwyOTZfT0pldjVCWnYxTzBFN1BMQS1oNHlqMk5mazFpQTZmbHpqNU5GMHlCam9EUk5WbXJhZF9zVTM4Q0pjUVk1b2dDQm4xVFNCdzBlb0FKNzJQdUN2eGR1VWt6SW1sLXo5QldnMUtqTkhQZkFtdkFzSXpVRnFJZkgySFFKcW9lM3VVMV81c2MyQ0c1ZEFpVXJwdEdTM3RUZW9ieHdLRmdZRThibk4zUzRoNmlEV04tUGd4RldKd1NRcS1XRFNNUDRxblU3TWFYejVnc21sZF9hX0JPMkkwVVlrY1RVMmc4MW16dHVoakMwZlUwUkYyZnFpa3prUnFpcE5scGdDWmFiUVRwbmc0SjNKTTZfWGtPSFQ1anlqaDA1ZDI5ZWFfLVROMTg2S1VZcXZOZmhDbzU2TDMwa2dxSGxONEdRVWZKeDBXQWRJdDlKczVEUUUxRk1VRE5HR1pvdnhhSmVXYlVpajF6OEw4V2ZOejdxSHc1U1VUUlh2YmVqcjhqeTRPMGwybGRqbHhtcnBSZGdqX1d3TjR3R1FjczQyUG1EeTB0RUhUeW5mMVFaejNLNUdFRzRQbFZfNjlVaFVqX08weUFvWEt3R3l3cExLdHZaVDdyNFFNNWktLWFRVkRvdjBwT0V5QTB1WmFoTkxoZS1yNHF5RC1iek9VcVNvU3Y2M0RtSEE?oc=5",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1364,59 +1367,15 @@
           "originalHeadline": "ما القنوات الناقلة لمباراة الإكوادور والسعودية الودية استعدادًا لكأس العالم 2026؟ وكيف تشاهدها عبر الإنترنت؟ - Kooora"
         },
         {
-          "headline": "Pilgrims of the Sacred House of God conclude their rituals with the farewell circumambulation - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/5/30/%D8%AD%D8%AC%D8%A7%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%85-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85%D9%88%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D9%83%D9%87%D9%85",
+          "headline": "Two Americans were injured and a drone was destroyed in an Iranian missile attack on an air base in Kuwait. Details 👇 👇 👇 The American Bloomberg Agency reported that an Iranian ballistic missile targeted the Ali Al-Salem Air Base in Kuwait, and Kuwaiti air defenses succeeded in intercepting it, A - facebook.com",
+          "url": "https://www.facebook.com/khamsenetektesad/posts/%D8%A5%D8%B5%D9%80%D9%80%D8%A7%D8%A8%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%80%D9%80%D8%AF%D9%85%D9%8A%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%80%D9%80%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%87%D8%AC%D9%80%D9%80%D9%88%D9%85-%D8%B5%D9%80%D9%80%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9/1026515663463020/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 13:07:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWDBMQ3hONHZCbEowM1U3SXh4YjY1bFlWOEdKcTl4ZWJydkpLRTk2SFpOaWNMMk5tdmxZODFSczhuMVZYMU5ud0NtSS1EYllXbVVJSzhpQS1rNWFEdmNMblVnaloxUjllcWFTWk1",
-          "originalHeadline": "حجاج بيت الله الحرام يختتمون مناسكهم بطواف الوداع - الجزيرة نت"
-        },
-        {
-          "headline": "The Sultanate of Oman warns sailors and ships after spotting a floating object suspected to be a sea mine in the Strait of Hormuz - Al-Ahram Gate",
-          "url": "https://gate.ahram.org.eg/News/5663915.aspx",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:45:00 GMT",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpM1B0a3BTTVA3TWs4ZlJMWGF6bno2RnlmVEtPdXBjbjYwZGMtNnNzcnhzZlU3T0hPMm9iYjhFbzdLVFJJbEtjcmJqLTUtUVh4V011TUpn?oc=5\" target=\"_blank\">سلطنة",
-          "originalHeadline": "سلطنة عمان تحذر البحارة والسفن بعد رصد جسم طاف يشتبه بأنه لغم بحري بمضيق هرمز - بوابة الأهرام"
-        },
-        {
-          "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
-          "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 11:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
-          "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
-        },
-        {
-          "headline": "Oman: A floating object suspected to be a mine was detected west of the traffic area in Hormuz - Masrawy",
-          "url": "https://www.masrawy.com/news/news_publicaffairs/details/2026/5/30/2995452/%D8%B9-%D9%85%D8%A7%D9%86-%D8%B1%D8%B5%D8%AF-%D8%AC%D8%B3%D9%85-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D8%A3%D9%86%D9%87-%D9%84%D8%BA%D9%85-%D8%BA%D8%B1%D8%A8-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%81%D9%8A-%D9%87%D8%B1%D9%85%D8%B2",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:31:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxNMXBidjZZZWc2dU1xLTRNeTM4TERyVmdFYkV0c0JsSE90Wll3UUMydUtGUTd3RmdyYVhNNmNoT01ZOWRGLVF5THU5a19hdnkxdWdnSW9vQzJnVzFERDN4ZVZfQ3c0WE9yNHNVRlV",
-          "originalHeadline": "عُمان: رصد جسم عائم يشتبه بأنه لغم غرب منطقة المرور في هرمز - Masrawy"
-        },
-        {
-          "headline": "Dismissal of UAE national team coach “Kozmin” - National Media Authority",
-          "url": "https://www.maspero.eg/sport/2026/05/30/958638/%D8%A5%D9%82%D8%A7%D9%84%D8%A9-%D9%85%D8%AF%D8%B1%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%83%D9%88%D8%B2%D9%85%D9%8A%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 12:13:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQTRlZXlydWs3aDBNQnhvZXJtdTJ3MW9melFydVV0UXhMbEFaSVdzOEM1cnBEWUptODQwLTdHUGI5em80b0JWZ2NPdzNabDRtdTlqUEI3Mll2aWZlQTZGT3NhWEVwOC1kR1pIUnB",
-          "originalHeadline": "إقالة مدرب منتخب الإمارات \"كوزمين\" - الهيئة الوطنية للإعلام"
+          "date": "Sat, 30 May 2026 08:57:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNMHlqbS1lWmJKcGxFT2RJRWtVd3VjbG1GOUpibzVsMEItS0UwWEc0dFdhaGVKVVhScEdGS2xsZmlqLUZDelp3aEhNa25EMlJ4MmxPVUF0TTdnWHlNTWZDaEl3bm1uei1ISjhGMVB",
+          "originalHeadline": "إصــ.ابة أمريكيين وتــ.دمير طائرة مســ.يرة في هجــ.وم صــ.اروخي إيراني على قاعدة جوية في الكويت التفاصيل 👇 👇 👇 ذكرت وكالة بلومبرج الأمريكية أن صــ.اروخًا باليــ.ستيًا إيرانيًا استــ.هدف قاعدة علي السالم الجوية في الكويت، ونجحت الدفاعات الجوية الكويتية في اعتراضه، إ - facebook.com"
         },
         {
           "headline": "The Egyptian Hajj delegation wins the silver shield of the Saudi “Libitum” Award for Excellence - Mubasher Info",
@@ -1428,9 +1387,60 @@
           "date": "Sat, 30 May 2026 12:58:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNdUFhcjlTMkFiVDc0MXBFT21VcDFzTmh5LTc2YmZ6VWVzc2JQWVpISHZJcjlnVUthdE10NEhxVDJleWJmOGdMQXp2WkJjcmV6MVBkeHhlYVpNeHk0Z1FKNktYNDIzbEo3cWc0OEN",
           "originalHeadline": "بعثة الحج المصرية تفوز بالدرع الفضي لجائزة \"لبّيتم\" السعودية للتميز - معلومات مباشر"
+        },
+        {
+          "headline": "Saudi Arabia announces that the Hajj season is free of any epidemic outbreaks... and follows “Ebola and Hantavirus” - Youm7",
+          "url": "https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AE%D9%84%D9%88-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D9%85%D9%86-%D8%A3%D9%89-%D8%AA%D9%81%D8%B4%D9%8A%D8%A7%D8%AA-%D9%88%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AA%D8%A8%D8%B9/7432763",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 11:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgNBVV95cUxPdU5lanBlSTVzOWVZdHp3YWVEaWVBUy1vLS1EMEs1c2FTb1E5MERteTdHVkk0cUV0c1M3c2dZWmo3NW51SF9MOWt0azdEdkxCdE5neGNpZV9NT0czNVFydksySzNrZ283aGpjY2J",
+          "originalHeadline": "السعودية تعلن خلو موسم الحج من أى تفشيات وبائية.. وتتبع \"إيبولا وهانتا\" - اليوم السابع"
         }
       ],
       "secondary": [
+        {
+          "headline": "Oman's Maritime Security Centre detects suspected floating mine in Strait of Hormuz",
+          "url": "https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:34:13 +0400",
+          "description": ""
+        },
+        {
+          "headline": "Why Europe is getting so hot",
+          "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:19:21 +0400",
+          "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
+        },
+        {
+          "headline": "Iran turns internet back on, but old restrictions remain",
+          "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:12:21 +0400",
+          "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
+        },
+        {
+          "headline": "Laos: Five people rescued from flooded cave",
+          "url": "https://timesofoman.com//article/172384-laos-five-people-rescued-from-flooded-cave",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sat, 30 May 2026 18:02:06 +0400",
+          "description": "Vientiane: Four more men trapped in a flooded cave in Laos emerged on Saturday, bringing the total number brought to safety to five.One person was..."
+        },
         {
           "headline": "President Trump \"remains in excellent health\" after annual physical examination, Physician's memo says",
           "url": "https://timesofoman.com//article/172383-president-trump-remains-in-excellent-health-after-annual-physical-examination-physicians-memo-says",
@@ -1490,46 +1500,6 @@
           "priority": "secondary",
           "date": "Sat, 30 May 2026 15:44:12 +0400",
           "description": "“Today, logistics is no longer just about moving shipments. It is about business continuity, confidence, and connecting economies during both normal and..."
-        },
-        {
-          "headline": "Longer trading hours brings MSX closer to global trading standards",
-          "url": "https://timesofoman.com//article/172377-longer-trading-hours-brings-msx-closer-to-global-trading-standards",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:41:11 +0400",
-          "description": "Muscat: The Muscat Stock Exchange will begin extending trading hours from Monday as part of a strategic direction aimed at providing a wider time range for..."
-        },
-        {
-          "headline": "Bond and sukuk issuances on MSX exceed OMR589mn",
-          "url": "https://timesofoman.com//article/172376-bond-and-sukuk-issuances-on-msx-exceed-omr589mn",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:22:46 +0400",
-          "description": "Muscat: The value of new listings in bonds and sukuk market at the Muscat Stock Exchange (MSX) during the current year amounted to OMR589.2 million,..."
-        },
-        {
-          "headline": "Muscat Stock Exchange rises by 143 points in weekly trading",
-          "url": "https://timesofoman.com//article/172375-muscat-stock-exchange-rises-by-143-points-in-weekly-trading",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 15:06:47 +0400",
-          "description": "Muscat: The main index of the Muscat Stock Exchange rose by 143 points during the week and closed at 7,775 points, recording its first rise after 4 weeks of..."
-        },
-        {
-          "headline": "Confident Oman women eye Premier Cup breakthrough in Malaysia",
-          "url": "https://timesofoman.com//article/172372-confident-oman-women-eye-premier-cup-breakthrough-in-malaysia",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 13:16:08 +0400",
-          "description": "Muscat: Oman women, skippered by Priyanka Mendonca, will head to Malaysia for the ACC Women’s Premier Cup 2026 brimming with confidence as they look to..."
         }
       ],
       "tertiary": [],
@@ -1642,6 +1612,12 @@
       "language": "en",
       "tweets": [
         {
+          "text": "I conveyed the condolences and sympathy of the leadership - may God support them - to the families of His Excellency the former Yemeni President Abd Rabbuh Mansour Hadi on his death - may God have mercy on him.\nOur condolences to the leadership and people of Yemen.\nI knew His Excellency a wise leader who was keen on the security, stability, development and prosperity of his country.\nAsking God to cover him with His vast mercy and forgiveness, and to dwell him in His spacious Paradise.",
+          "timestamp": "2026-05-30T15:04:00.000Z",
+          "permalink": "https://x.com/kbsalsaud/status/2060739008372588888",
+          "originalText": "نقلت تعازي ومواساة القيادة -أيَّدها الله- لذوي فخامة الرئيس اليمني السابق عبدربه منصور هادي في وفاته -رحمه الله-.\nعزاؤنا لليمن قيادةً وشعبًا.\nعرفت فخامته قائدًا حكيمًا حريصًا على أمن واستقرار وطنه وتنميته وازدهاره.\nسائلًا اللّٰه أن يتغمده بواسع رحمته ومغفرته، ويسكنه فسيح جناته."
+        },
+        {
           "text": "We thank God Almighty for honoring us with serving the Two Holy Mosques and caring for the pilgrims to His Sacred House. We ask God to accept from the pilgrims their Hajj, rituals, and obedience. \nWith the advent of the blessed Eid Al-Adha, we congratulate our people in this blessed country and our Islamic nation on this occasion, and we pray to Him, Glory be to Him, to make it a holiday of goodness, peace and stability for our nation.",
           "timestamp": "2026-05-27T05:01:53.000Z",
           "permalink": "https://x.com/KingSalman/status/2059500314114331113",
@@ -1663,11 +1639,6 @@
           "timestamp": "2026-05-13T21:22:17.000Z",
           "permalink": "https://x.com/kbsalsaud/status/2054673610258723249",
           "originalText": "استعرضت خلال لقائي مع مستشار الأمن القومي البريطاني جوناثان باول أوجه العلاقات السعودية البريطانية والتعاون الثنائي بين بلدينا الصديقين، وبحثنا التنسيق المشترك لمواجهة التحديات بالمنطقة في ظل تطوراتها الراهنة، والجهود الهادفة لتهدئة الأوضاع فيها؛ بما يحافظ على الأمن والاستقرار."
-        },
-        {
-          "text": "In a call with Sweden’s Minister of Defense, Pål Jonson, we reviewed the bilateral defense relations between our countries. We also discussed the latest developments in the region and the efforts to promote regional and international security and stability.",
-          "timestamp": "2026-05-07T15:35:30.000Z",
-          "permalink": "https://x.com/kbsalsaud/status/2052412012806676981"
         }
       ]
     },
@@ -1785,6 +1756,12 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Serving pilgrims...is an established national priority and a consistent Saudi approach.\n\n#Success_of_the_Hajj_Season\n#God bless you",
+          "timestamp": "2026-05-30T15:00:01.000Z",
+          "permalink": "https://x.com/MOISaudiArabia/status/2060738005476704363",
+          "originalText": "خدمة الحجاج .. أولوية وطنية راسخة، ومنهج سعودي ثابت.\n\n#نجاح_موسم_الحج\n#حياكم_الله"
+        },
+        {
           "text": "| Speech of Prince Abdulaziz bin Saud, Minister of Interior and Chairman of the Supreme Hajj Committee, during his meeting with senior officials of the Ministry of Interior, leaders of the security sectors, Hajj security forces, and participating forces from the military and security sectors and agencies in Hajj.",
           "timestamp": "2026-05-30T11:05:03.000Z",
           "permalink": "https://x.com/MOISaudiArabia/status/2060678873453305881",
@@ -1814,6 +1791,24 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Live footage: They are safe and reassured, surrounded by mercy and tranquility.\n\nPilgrims fill the courtyard as they perform the farewell circumambulation\n\n#Hajj_across_news",
+          "timestamp": "2026-05-30T14:46:07.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060734506085085537",
+          "originalText": "لقطات مباشرة آمنون مطمئنون، تحفّهم الرحمة والسكينة..\n\nالحجاج يملؤون جنبات صحن المطاف وهم يؤدون طواف الوداع\n\n#الحج_عبر_الإخبارية"
+        },
+        {
+          "text": "Urgent..\n\nThe Jeddah Governorate Police responded - at the time - to a dispute on a public street between the drivers of two vehicles",
+          "timestamp": "2026-05-30T14:44:42.000Z",
+          "permalink": "https://x.com/alekhbariyaNews/status/2060734149170803109",
+          "originalText": "عاجل..\n\nشرطة محافظة جدة تباشر - في حينه - واقعة خلاف في شارع عام بين قائدي مركبتين"
+        },
+        {
+          "text": "The Ministry of Municipalities and Housing announces the success of its operational plan for the Hajj season \n\n#Hajj_across_news",
+          "timestamp": "2026-05-30T14:08:33.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060725050743922697",
+          "originalText": "وزارة البلديات والإسكان تعلن نجاح خطتها التشغيلية لموسم الحج \n\n#الحج_عبر_الإخبارية"
+        },
+        {
           "text": "From inside the command and control center for Hajj security at the General Security headquarters..\n\nCalls and directives continue around the clock and the movement of crowds and their movements is tracked moment by moment through an advanced technical system.",
           "timestamp": "2026-05-30T14:00:13.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2060722954904666212",
@@ -1824,24 +1819,6 @@
           "timestamp": "2026-05-30T13:50:42.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2060720561936851321",
           "originalText": "مراسل الإخبارية أيمن الثبيتي: الجهات الأمنية نفذت خططا مكنت الحجاج من أداء طواف الوداع بانسيابية وتنظيم\n\n#الحج_عبر_الإخبارية"
-        },
-        {
-          "text": "Al-Akhbariya correspondent Khaled Al-Rubaie: The Municipality of the Holy Capital is making efforts using modern mechanisms and advanced technologies to remove waste and maintain cleanliness of feelings\n\n#Hajj_across_news",
-          "timestamp": "2026-05-30T13:50:14.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060720441145057530",
-          "originalText": "مراسل الإخبارية خالد الربعي: أمانة العاصمة المقدسة تبذل جهودا باستخدام آليات حديثة وتقنيات متطورة لرفع النفايات والمحافظة على نظافة المشاعر\n\n#الحج_عبر_الإخبارية"
-        },
-        {
-          "text": "Makkah Health Assembly organizes the “Yaqat” initiative in the Hiraa Cultural District\n\nDetails with the director of community engagement in the community, Dr. Nashwa came out",
-          "timestamp": "2026-05-30T13:43:17.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060718692476854613",
-          "originalText": "تجمع مكة الصحي ينظم مبادرة \"يقظ\" في حي حراء الثقافي\n\nالتفاصيل مع مديرة المشاركة المجتمعية في التجمع د. نشوى طلعت"
-        },
-        {
-          "text": "Assistant Minister of Health for Health Services Dr. Muhammad Al-Abd Al-Aali: Health services in Hajj are provided with high quality and in record time",
-          "timestamp": "2026-05-30T13:33:07.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060716134857412942",
-          "originalText": "مساعد وزير الصحة للخدمات الصحية د. محمد العبد العالي: الخدمات الصحية في الحج تقدم بجودة عالية وفي وقت قياسي"
         }
       ]
     },
@@ -1925,28 +1902,34 @@
       "language": "ar",
       "tweets": [
         {
+          "text": "An atmosphere of faith for the pilgrims of the Holy House of God on the 13th of Dhul-Hijjah.\n\n#God bless you #Sass_Haj47",
+          "timestamp": "2026-05-30T14:48:07.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060735009879650326",
+          "originalText": "أجواء إيمانية لحجاج بيت الله الحرام في يوم 13 من ذي الحجة.\n\n#حياكم_الله | #واس_حج47"
+        },
+        {
+          "text": "The President of Religious Affairs announces the success of the operational plan for the Hajj season... and more than 6.8 million beneficiaries of enrichment services.\n\nhttp://\nspa.gov.sa/ar/w2603482\n#Success_of_the_Hajj_Season #Sass_Haj47",
+          "timestamp": "2026-05-30T14:37:28.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060732329123774723",
+          "originalText": "رئيس الشؤون الدينية يُعلن نجاح الخطة التشغيلية لموسم الحج.. وأكثر من 6.8 ملايين مستفيد من الخدمات الإثرائية.\n\nhttp://\nspa.gov.sa/ar/w2603482\n#نجاح_موسم_الحج | #واس_حج47"
+        },
+        {
+          "text": "The Minister of Hajj and Umrah extends congratulations to the Custodian of the Two Holy Mosques and His Highness the Crown Prince on the occasion of the #successful_hajj_season.\n\nhttp://\nspa.gov.sa/ar/w2603481\n#Sass_Haj47",
+          "timestamp": "2026-05-30T14:20:01.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060727936496402593",
+          "originalText": "وزير الحج والعمرة يرفع التهنئة لخادم الحرمين الشريفين وسمو ولي العهد بمناسبة #نجاح_موسم_الحج.\n\nhttp://\nspa.gov.sa/ar/w2603481\n#واس_حج47"
+        },
+        {
+          "text": "The Governor of Diriyah congratulates the leadership on the #successful_of_the_Hajj_Season.\n\nhttp://\nspa.gov.sa/ar/w2603477\n#Sass_Haj47",
+          "timestamp": "2026-05-30T14:17:37.000Z",
+          "permalink": "https://x.com/SPAregions/status/2060727334710223247",
+          "originalText": "محافظ الدرعية يهنئ القيادة بـ #نجاح_موسم_الحج.\n\nhttp://\nspa.gov.sa/ar/w2603477\n#واس_حج47"
+        },
+        {
           "text": "Maximum temperatures today, Saturday, in Mecca, Medina, and Mina.\n\n#God bless you #Sass_Haj47",
           "timestamp": "2026-05-30T13:25:40.000Z",
           "permalink": "https://x.com/SPAregions/status/2060714262230684016",
           "originalText": "درجات الحرارة العظمى اليوم السبت في مكة المكرمة والمدينة المنورة ومشعر منى.\n\n#حياكم_الله | #واس_حج47"
-        },
-        {
-          "text": "Care and care.\n\n#God bless you #Sass_Haj47",
-          "timestamp": "2026-05-30T12:30:58.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060700495405076494",
-          "originalText": "عناية ورعاية.\n\n#حياكم_الله | #واس_حج47"
-        },
-        {
-          "text": "Severe palpitations and sudden chest pains struck Hajj Muhammad from Britain while throwing stones at Jamarat, but the rapid medical intervention at King Abdullah Medical City enabled him to overcome the condition and complete his rituals in safety and reassurance.\n#God bless you #Sass_Haj47",
-          "timestamp": "2026-05-30T12:29:59.000Z",
-          "permalink": "https://x.com/SPA_sci/status/2060700246682849721",
-          "originalText": "خفقان شديد وآلام مفاجئة في الصدر داهمت الحاج محمد من بريطانيا أثناء رمي الجمرات، لكن سرعة التدخل الطبي في مدينة الملك عبدالله الطبية مكّنته من تجاوز الحالة واستكمال مناسكه بأمان وطمأنينة.\n#حياكم_الله | #واس_حج47"
-        },
-        {
-          "text": "The Minister of Islamic Affairs meets with guests of the Custodian of the Two Holy Mosques Hajj Program from Sri Lanka, Kazakhstan and India.\n\nhttp://\nspa.gov.sa/ar/w2603431\n#God_bless you | #Was_Haj47",
-          "timestamp": "2026-05-30T12:13:50.000Z",
-          "permalink": "https://x.com/SPAregions/status/2060696181336916290",
-          "originalText": "وزير الشؤون الإسلامية يلتقي ضيوف برنامج خادم الحرمين الشريفين للحج من سريلانكا وكازاخستان والهند.\n\nhttp://\nspa.gov.sa/ar/w2603431\n#حياكم_الله |#واس_حج47"
         }
       ]
     },
@@ -2341,31 +2324,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": ".\n@nlauae\n has enhanced global access to the Sheikh Suroor bin Mohammed Hall through a virtual experience, enabling visitors to explore archival materials documenting the life, national journey and contributions to the UAE’s development of one of the late Sheikh Zayed’s companions.",
-          "timestamp": "2026-05-30T11:35:25.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2060686513533579409"
+          "text": "Khalifa bin Tahnoun bin Mohammed attends the reception held at the ADNEC Al Ain Center in the Al Ain region, on the occasion of Rashid Khalaf Al Shamsi to the daughter of Ahmed Rashid Al Shamsi, and Salem Khalaf Al Shamsi to the daughter of Saeed Danan Al Shamsi, and expresses his sincere congratulations to the newlyweds and their families, wishing them a happy family life.",
+          "timestamp": "2026-05-30T14:36:18.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2060732036567232518",
+          "originalText": "خليفة بن طحنون بن محمد يحضر حفل الاستقبال الذي أُقيم في مركز أدنيك العين في منطقة العين، بمناسبة راشد خلف الشامسي إلى كريمة أحمد راشد الشامسي، وسالم خلف الشامسي إلى كريمة سعيد دنان الشامسي، ويُعرب عن خالص تهانيه للعرسان وذويهم، متمنياً لهم حياة أُسرية سعيدة."
+        },
+        {
+          "text": "Khalifa bin Tahnoon bin Mohammed has attended a reception at ADNEC Centre Al Ain in Al Ain Region for the marriages of Rashid Khalaf Al Shamsi to Ahmed Rashid Al Shamsi’s daughter, and Salem Khalaf Al Shamsi to Saeed Danan Al Shamsi’s daughter, wishing the newlyweds a happy",
+          "timestamp": "2026-05-30T14:36:19.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2060732041478672438"
+        },
+        {
+          "text": "Khalifa bin Tahnoon bin Mohammed has attended a reception at ADNEC Centre Al Ain in Al Ain Region, hosted by Khalaf Rashid Al Shamsi for the marriages of his sons – Rashid to Ahmed Rashid Al Shamsi’s daughter, and Salem to Saeed Danan Al Shamsi’s daughter.",
+          "timestamp": "2026-05-30T14:34:48.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2060731658635235796"
         },
         {
           "text": "Read more:",
-          "timestamp": "2026-05-30T11:35:26.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2060686517866201431"
+          "timestamp": "2026-05-30T14:34:49.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2060731663727099948"
         },
         {
-          "text": "The National Archives and Library enhances global access to the Sheikh Surur bin Mohammed Hall, through a virtual experience that allows visitors to view archival materials documenting the biography of one of the companions of the founding father, Sheikh Zayed, may God rest his soul, and highlighting some of his contributions to the national development process.",
-          "timestamp": "2026-05-30T11:34:42.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2060686333602070927",
-          "originalText": "الأرشيف والمكتبة الوطنية يعزِّز الوصول العالمي إلى قاعة الشيخ سرور بن محمد، عبر تجربة افتراضية تتيح للزوّار الاطِّلاع على مواد أرشيفية توثِّق سيرة أحد رفاق الوالد المؤسِّس الشيخ زايد، طيَّب الله ثراه، وتُبرز جانباً من إسهاماته في مسيرة التنمية الوطنية."
-        },
-        {
-          "text": "To read more:",
-          "timestamp": "2026-05-30T11:34:43.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2060686337863516426",
-          "originalText": "لقراءة المزبد:"
-        },
-        {
-          "text": ".\n@nmssocietyuae\n has launched World MS Day activities across the UAE for a fourth consecutive year, under the theme My MS Diagnosis: Navigating MS Together, delivering a nationwide awareness campaign that reaches healthcare facilities, workplaces, and community spaces.",
-          "timestamp": "2026-05-30T09:00:31.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2060647532976574708"
+          "text": "Khalifa bin Tahnoun bin Mohammed attends the reception held by Khalaf Rashid Al Shamsi, on the occasion of the wedding of his two sons, Rashid to Karima Ahmed Rashid Al Shamsi, and Salem to Karima Saeed Danan Al Shamsi, at the ADNEC Al Ain Center in the Al Ain region.",
+          "timestamp": "2026-05-30T14:33:20.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2060731290828357764",
+          "originalText": "خليفة بن طحنون بن محمد يحضر حفل الاستقبال الذي أقامه خلف راشد الشامسي، بمناسبة زفاف نجليه، راشد إلى كريمة أحمد راشد الشامسي، وسالم إلى كريمة سعيد دنان الشامسي في مركز أدنيك العين في منطقة العين."
         }
       ]
     },
@@ -2479,29 +2462,29 @@
       "language": "en",
       "tweets": [
         {
+          "text": "#QNA_Infographic|\nMeteorology Department: Moderate Temperature Expected Tonight\n#QNA #Qatar \n\nhttps://\now.ly/oMVi50Z5S6A",
+          "timestamp": "2026-05-30T15:04:28.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060739123070071135"
+        },
+        {
+          "text": "#Amazon Launches 29 New Internet Satellites to Support Global Coverage for Remote Areas\n#QNA \n\nhttps://\now.ly/ub3Q50Z5S5Z",
+          "timestamp": "2026-05-30T15:00:57.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060738238612951376"
+        },
+        {
+          "text": "#Qatar's Volleyball Squad Punches Ticket to #Ostrava_Quarterfinals in Dominant Fashion\n#QNA \n\nhttps://\now.ly/rTKf50Z5RWp",
+          "timestamp": "2026-05-30T14:18:40.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060727597126848779"
+        },
+        {
+          "text": "#Russia Targets Ukrainian Energy, Military Airstrip Facilities\n#QNA \n\nhttps://\now.ly/FKLE50Z5RW1",
+          "timestamp": "2026-05-30T14:17:01.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060727183379763439"
+        },
+        {
           "text": "#Gaza Death Toll Rises to 72,938, with 172,919 Injured Since Start of Israeli Offensive\n#QNA #Palestine \n\nhttps://\now.ly/qmiV50Z5RQk",
           "timestamp": "2026-05-30T13:56:52.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2060722110503215400"
-        },
-        {
-          "text": "Pilgrims Continue Stoning Rituals on Final Day of Tashreeq\n#QNA #Saudi_Arabia\n\nhttps://\now.ly/NG7150Z5RPS",
-          "timestamp": "2026-05-30T13:54:20.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060721475770777898"
-        },
-        {
-          "text": "Qatari Officiating Team Appointed for Georgia-Romania Friendly\n#QNA #Qatar\n\nhttps://\now.ly/mKOZ50Z5RLL",
-          "timestamp": "2026-05-30T13:35:27.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060716724303831364"
-        },
-        {
-          "text": "#UAE_Football_Association Parts Ways With National Team Coach Cosmin Olaroiu\n#QNA \n\nhttps://\now.ly/ekHP50Z5RCB",
-          "timestamp": "2026-05-30T13:07:50.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060709770718327210"
-        },
-        {
-          "text": "One Killed and Others Injured as Israeli Occupation Forces Pound Central #Gaza Strip\n#QNA #Palestine \n\nhttps://\now.ly/G5wT50Z5RAV",
-          "timestamp": "2026-05-30T13:02:54.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060708529992794596"
         }
       ]
     },
@@ -2721,6 +2704,11 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Traffic accident in #Afghanistan's eastern #Laghman province kills at least 18 people, including 10 children, and injures 29 \n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3305824\n…\n\n#KUNA",
+          "timestamp": "2026-05-30T14:46:53.000Z",
+          "permalink": "https://x.com/kuna_en/status/2060734699945812268"
+        },
+        {
           "text": "#Australia announces trilateral framework with the #US and #Japan for air and missile defense data sharing \n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3305816\n…\n\n#KUNA",
           "timestamp": "2026-05-30T13:22:53.000Z",
           "permalink": "https://x.com/kuna_en/status/2060713559915434357"
@@ -2739,11 +2727,6 @@
           "text": "KPC: #Kuwait oil price down 84 cents to USD 117.51 pb \n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3305807\n…\n\n#KUNA \n@kpcofficialkw",
           "timestamp": "2026-05-30T09:51:44.000Z",
           "permalink": "https://x.com/kuna_en/status/2060660420721906007"
-        },
-        {
-          "text": "#Kuwait Consul in Jeddah affirms the consulate's full readiness to provide all necessary assistance to Kuwaiti pilgrims ahead of their departure for Kuwait following the completion of Hajj rituals\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3305804\n…\n\n#KUNA",
-          "timestamp": "2026-05-30T08:05:43.000Z",
-          "permalink": "https://x.com/kuna_en/status/2060633742972985648"
         }
       ]
     },
@@ -2897,6 +2880,12 @@
           "originalText": "مهما استبدَّ الليلُ في صنعاءَ دهراً \n\nشمسُ النصرِ ستشرقُ فوقها فخرًا"
         },
         {
+          "text": "I conveyed the condolences and sympathy of the leadership - may God support them - to the families of His Excellency the former Yemeni President Abd Rabbuh Mansour Hadi on his death - may God have mercy on him.\nOur condolences to the leadership and people of Yemen.\nI knew His Excellency a wise leader who was keen on the security, stability, development and prosperity of his country.\nAsking God to cover him with His vast mercy and forgiveness, and to dwell him in His spacious Paradise.",
+          "timestamp": "2026-05-30T15:04:00.000Z",
+          "permalink": "https://x.com/kbsalsaud/status/2060739008372588888",
+          "originalText": "نقلت تعازي ومواساة القيادة -أيَّدها الله- لذوي فخامة الرئيس اليمني السابق عبدربه منصور هادي في وفاته -رحمه الله-.\nعزاؤنا لليمن قيادةً وشعبًا.\nعرفت فخامته قائدًا حكيمًا حريصًا على أمن واستقرار وطنه وتنميته وازدهاره.\nسائلًا اللّٰه أن يتغمده بواسع رحمته ومغفرته، ويسكنه فسيح جناته."
+        },
+        {
           "text": "Today in the temporary capital, Aden, I participated today in the temporary capital, Aden, accompanied by His Excellency Lieutenant General Mahmoud Al-Subaihi, Member of the Presidential Leadership Council, His Excellency Dr. Shaye Mohsen Al-Zindani, Prime Minister and Minister of Foreign Affairs and Expatriate Affairs, and a number of ministers, officials, and relatives of the deceased, in receiving mourners of the death of His Excellency the former President Field Marshal.",
           "timestamp": "2026-05-29T17:49:07.000Z",
           "permalink": "https://x.com/ERYANIM/status/2060418170037612605",
@@ -2913,12 +2902,6 @@
           "timestamp": "2026-05-29T16:09:43.000Z",
           "permalink": "https://x.com/ERYANIM/status/2060393156118450608",
           "originalText": "رئيس مجلس القيادة وعدد من اعضاء المجلس يتقدمون جموع المصلين والمشيعين لجثمان فقيد اليمن الكبير الرئيس السابق عبدربه منصور هادي"
-        },
-        {
-          "text": "His Excellency the Chairman of the Presidential Command Council and his fellow members of the Leadership Council, along with a number of state leaders and national figures, carried the body of His Excellency former President Field Marshal Abd Rabbuh Mansour Hadi to his final resting place, after a long national journey that he dedicated to serving the nation.",
-          "timestamp": "2026-05-29T15:52:15.000Z",
-          "permalink": "https://x.com/ERYANIM/status/2060388762484363600",
-          "originalText": "شيّع فخامة رئيس مجلس القيادة الرئاسي وإخوانه أعضاء مجلس القيادة، ومعهم عدد من قيادات الدولة والشخصيات الوطنية، جثمان فخامة الرئيس السابق المشير الركن عبدربه منصور هادي إلى مثواه الأخير، بعد مسيرة وطنية حافلة كرّسها في خدمة الوطن ."
         }
       ]
     },
