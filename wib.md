@@ -1,27 +1,27 @@
-## Gulf Bureau Briefing
-**May 30, 2026**
+1. **Trump-Iran negotiations.** President Trump met advisers to make a "final determination" on Iran, with officials saying the US and Iran are "very close" to a deal but "not there yet." The BBC [reports no agreement](https://www.bbc.com/news/articles/c0r2d40r91qo) was announced after the meeting to restore Red Sea navigation security following February attacks.
 
-1. **Saudi Hajj success.** Saudi officials declared the 2026 Hajj season complete without epidemic outbreaks despite global health challenges. Over 8,000 security law violators were arrested in a week, and the Interior Ministry processed more than 255,000 tons of waste from pilgrimage sites. Regional leaders including Qatar, Kuwait, Palestine and Oman [congratulated the](https://timesofoman.com//article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin) Saudi leadership.
+2. **UAE economic growth.** The UAE economy expanded 6.2% in 2025, with GDP rising to AED 1.9 trillion, according to official government media office data. The growth reflects continued economic diversification efforts across the seven emirates during a year of regional uncertainty.
 
-2. **Former Yemen president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, with Saudi Defense Minister Prince Khalid bin Salman conveying condolences from King Salman and Crown Prince Mohammed bin Salman. The IRG's information minister Mohammed Al-Eryani called Hadi "a wise leader who was keen on the security, stability, development and prosperity of his country." 
+3. **Oman maritime security.** Oman's Maritime Security Centre detected a suspected floating mine in the Strait of Hormuz, according to Times of Oman [reports](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz). The discovery raises concerns about navigation safety in the critical waterway.
 
-3. **UAE economic growth.** The UAE economy expanded 6.2% in 2025 with GDP reaching 1.9 trillion dirhams, according to official [government data](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz). The Emirates also leads globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Sheikh Abdullah bin Zayed noted.
+4. **Saudi Hajj success.** Saudi officials celebrated the successful completion of the 1447 AH Hajj season, with Prince Khalid bin Salman conveying leadership congratulations on the pilgrimage's completion. Interior Minister Prince Abdulaziz bin Saud praised the coordinated security and logistical efforts that ensured pilgrim safety.
 
-4. **Trump-Iran diplomacy stalls.** US President Trump met officials to make a "final determination" on Iran but announced no deal, according to the BBC. Vice President Vance said the US and Iran were "very close" to an agreement but "not there yet," following earlier Saudi appreciation for [Trump's willingness](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss) to give diplomacy a chance.
+5. **Former Yemen president dies.** Saudi Defense Minister Prince Khalid bin Salman conveyed condolences from King Salman and Crown Prince Mohammed bin Salman following the death of former Yemeni President Abd Rabbuh Mansour Hadi. The IRG government and southern factions also mourned the former leader.
 
-5. **Strait of Hormuz mine detected.** Oman's Maritime Security Centre reported finding a suspected floating mine in the Strait of Hormuz, per the Times of Oman. The discovery comes as regional maritime security remains a key concern following months of tensions over shipping routes.
+6. **Israel UN blacklist.** Israel was placed on the UN sexual violence in war zones blacklist for the first time, the BBC [reports](https://www.bbc.com/news/articles/cx21le869n1o). The designation follows documented incidents during the ongoing Gaza conflict that began in October.
 
-6. **Saudi-UK security talks.** Prince Khalid bin Salman met British National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security coordination. The talks focused on efforts to de-escalate tensions and maintain regional stability, according to the Saudi Defense Minister's [Twitter account](https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain).
+7. **Palestinian casualties rise.** Over 12 people were detained and 7 injured during Israeli operations across the West Bank, according to Qatar News Agency [reports](https://bit.ly/3PUTsWl). Separately, the death toll from Israeli operations in Lebanon reached 3,371, QNA also reported.
 
-7. **Oman enhances lithium capacity.** Oman launched a strategic lithium battery materials production project, according to Al Arabiya. The initiative represents part of the sultanate's economic diversification efforts beyond oil and gas.
+8. **Bahrain condemns Iran attack.** Bahrain's Foreign Ministry strongly condemned what it called an Iranian attack on Kuwait, according to official MFA statements. The kingdom called for regional de-escalation while expressing solidarity with Kuwait over the reported incident.
 
-8. **Yemen peace envoy visits Sanaa.** Saudi Yemen envoy Mohammed Al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni factions toward a comprehensive political solution.
+9. **Kuwait oil price drops.** Kuwait Petroleum Corporation reported crude oil prices fell 84 cents to $117.51 per barrel, KUNA [reports](https://kuna.net.kw/ArticleDetails.aspx?id=3305807). The decline reflects ongoing global energy market volatility following recent regional tensions.
 
-9. **Palestinian diplomatic push.** Saudi Foreign Minister Prince Faisal bin Farhan co-chaired an international conference with his French counterpart on the peaceful resolution of the Palestinian issue and two-state solution implementation. The conference aims to expedite wider Palestinian recognition and forge a consensual roadmap.
-
-10. **Bahrain rescues children.** Bahrain's Civil Defense rescued five children from a house fire in Aali with no casualties reported, the Interior Ministry announced. Investigations are underway to determine the fire's cause.
+10. **China digital yuan expansion.** China expanded its digital yuan program to include lottery draws and fiscal spending, Reuters [exclusively reports](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjVjanJaMG9sdnduWTJNY3R2dUhldFVhUU1YRV80ZVFXbDRWRkxDVXRILW1BNUctNmdHTFJ0NExiQk1sOEFZR3dWNXRNNzVHbGZYbnpkc3Z1bw?oc=5). The move represents a significant expansion of the digital currency's real-world applications beyond pilot programs.
 
 **Sources**
+- [BBC Middle East](https://www.bbc.com/news/articles/c0r2d40r91qo)
 - [Times of Oman](https://timesofoman.com/)
-- [BBC Middle East](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss)
-- Official Twitter/X accounts: @KSAMOFA, @kbsalsaud, @FaisalbinFarhan, @mohdsalj, @UAEmediaoffice
+- [Qatar News Agency](https://bit.ly/3PUTsWl)
+- [Reuters](https://news.google.com/)
+- [Kuwait News Agency](https://kuna.net.kw/)
+- Saudi Press Agency and official government social media accounts

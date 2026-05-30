@@ -1,72 +1,53 @@
 **Top News**
 
-- Saudi Arabia said its defense minister conveyed King Salman and Crown Prince Mohammed bin Salman's condolences over the death of former Yemeni President Abd Rabbuh Mansour Hadi, according to the Saudi Press Agency ([Twitter](https://x.com/spagov/status)).
-
-- Yemen's IRG officials received condolences for former President Hadi, as Foreign Minister Mohammed Al-Eryani and other IRG leadership attended mourning ceremonies in the temporary capital Aden ([Twitter](https://x.com/ERYANIM/status)).
-
-- Saudi Foreign Minister Prince Faisal bin Farhan said the kingdom "highly appreciates" President Trump's decision to give diplomacy a chance to reach an agreement to end the war and restore maritime navigation security in the Strait of Hormuz ([Twitter](https://x.com/FaisalbinFarhan/status)).
-
-- Oman's Maritime Security Centre detected a suspected floating mine in the Strait of Hormuz, according to the ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz)).
-
-- Saudi Arabia declared the 2026 Hajj season free of health threats following completion of the pilgrimage, which saw over 255,000 tons of waste removed, according to ([Qatar News Agency](https://ow.ly/O4Sj50Z5SlN)).
-
-- Saudi Ambassador to Yemen Mohammed AlJabir visited Sana'a alongside an Omani delegation to consolidate the truce and discuss prisoner exchanges, according to his ([Twitter account](https://x.com/mohdsalj/status)).
+- Oman detected a suspected floating mine in the Strait of Hormuz, the Maritime Security Centre announced ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz))
+- Trump met with his administration but announced no final determination on Iran, AP reported, while BBC said the US and Iran were "very close" to a deal but "not there yet" ([AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxZdlYtVWNyZDJncHVnbE0xVVFKUG1xbmFUUWZ1MnMwNWI5NTBwSk1MZ242MTFFZGdBeUFRa0FWaHRoSkRjdEJuU0RkS1JGUl9JNXVDb1VQbDFDWmtiZElsc0Q5andtZ0RDeEc2MUtsdTl4TXZObnplVkdRWWJTdHJ3bFB4U3RodG5NSnJaY0JmZDFvaUpXOHl4Yw?oc=5))
+- Saudi Prince Faisal bin Farhan welcomed Trump's decision to give diplomacy a chance on Iran talks, the Foreign Minister announced on X ([Official Twitter](https://twitter.com/FaisalbinFarhan))
+- Yemen IRG said Ahmed Hamid Lamlas was appointed as governor of Aden Governorate, according to Saba News Agency ([Saba News](https://sabanew.net))
+- Saudi Arabia announced 8,090 violators of residency, work and border security regulations were arrested within a week, the Interior Ministry said ([Official Twitter](https://twitter.com/MOISaudiArabia))
 
 **Energy & Economy**
 
-- UAE GDP grew 6.2% to AED 1.9 trillion during 2025, the government media office said in a ([Twitter post](https://x.com/UAEmediaoffice/status)).
-
-- Oman launched a strategic project to produce lithium battery materials, according to ([Al Arabiya](https://www.alarabiya.net/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85)).
-
-- Kuwait oil price declined 84 cents to $117.51 per barrel, the Kuwait Petroleum Corporation said, according to ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3305807)).
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the UAE Media Office announced ([Official Twitter](https://twitter.com/UAEmediaoffice))
+- Kuwait oil price fell 84 cents to $117.51 per barrel, KUNA reported ([Kuwait News Agency](https://kuna.net.kw/ArticleDetails.aspx?id=3305807))
+- Oman advanced a strategic project to produce lithium battery materials, Google News Gulf reported ([Google News](https://news.google.com/rss/articles/))
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met with Chad's president at the Royal Court in Mona Palace to discuss bilateral relations, according to the ([Saudi MFA](https://x.com/KSAMOFA/status)).
-
-- Saudi Interior Ministry arrested 8,090 violators of residency, work and border security regulations within a week ([Twitter](https://x.com/MOISaudiArabia/status)).
+- Crown Prince Mohammed bin Salman met with Chad's President at Mona Palace to review bilateral relations, the Foreign Ministry reported ([Official Twitter](https://twitter.com/KSAMOFA))
+- Prince Khalid bin Salman conveyed condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death ([Official Twitter](https://twitter.com/kbsalsaud))
 
 **UAE**
-- Sheikh Tahnoon bin Zayed chaired the second MGX board meeting for 2026, discussing new investments and infrastructure expansion priorities ([Twitter](https://x.com/hhtbzayed/status)).
-
-- UAE advised citizens against traveling to three African countries, according to ([Sky News Arabia](https://www.skynewsarabia.com/middle-east/1872203-%25D8%25A7%25D9%2584%25D8%25A5%25D9%2585%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25AA%25D9%2586%25D8%25B5%25D8%25AD-%25D8%25A8%25D8%25B9%25D8%25AF%25D9%2585-%25D8%25B3%25D9%2581%25D8%25B1-%25D9%2585%25D9%2588%25D8%25A7%25D8%25B7%25D9%2586%25D9%258A%25D9%2587%25D8%25A7-3-%25D8%25AF%25D9%2588%25D9%2584-%25D8%25A5%25D9%2581%25D8%25B1%25D9%258A%25D9%2582%25D9%258A%25D8%25A9)).
-
-**Bahrain**
-- Bahrain's Civil Defense rescued five children from a house fire in Aali area without casualties, according to the ([Interior Ministry](https://policemc.gov.bh/en/news/78966/)).
-
-- Bahrain strongly condemned Iranian attacks on Kuwait, according to the ([MFA](https://bit.ly/4dAMr6j)).
+- UAE first in the world for artificial intelligence talent concentration with 121% growth between 2019 and 2025, Sheikh Abdulla bin Zayed announced ([Official Twitter](https://twitter.com/ABZayed))
+- UAE advised its citizens against traveling to 3 African countries, Sky News Arabia reported ([Google News](https://news.google.com/))
 
 **Qatar**
-- Qatar PM Mohammed bin Abdulrahman Al Thani was honored by Emir Sheikh Tamim's appointment and pledged to work with ministers under the wise leadership ([Twitter](https://x.com/MBA_AlThani_/status)).
+- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed by Emir Tamim, the PM announced on X ([Official Twitter](https://twitter.com/MBA_AlThani_))
+
+**Bahrain**
+- Bahrain strongly condemned Iranian attack on Kuwait, the Foreign Ministry announced ([Official Twitter](https://twitter.com/bahdiplomatic))
+- Civil Defense rescued 5 children from a house fire in Aali area without casualties, Interior Ministry reported ([Official Twitter](https://twitter.com/moi_bahrain))
 
 **Oman**
-- Sultan Haitham bin Tarik offered Eid prayers at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([ONA](http://n9.cl/adorv)).
-
-- Oman's foreign minister met with Iran's deputy foreign minister, reaffirming diplomatic engagement and peaceful regional coexistence ([Twitter](https://x.com/badralbusaidi/status)).
-
-**Yemen**
-- IRG Presidential Leadership Council Chairman called for unity and directing energies toward restoring state institutions ([Saba News Agency](https://sabanew.net)).
-
-- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG ([Saba News Agency](https://sabanew.net)).
-
-- Houthis published text of an agreement covering bank decisions, Yemenia Airlines flights to Jordan, Cairo and India, according to Mohammed Abdulsalam ([Twitter](https://x.com/abdusalamsalah/status)).
+- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar, Oman News Agency reported ([Official Twitter](https://twitter.com/ONA_eng))
+- Foreign Minister Badr Albusaidi met with Iran's Deputy FM, discussing diplomatic engagement and regional coexistence ([Official Twitter](https://twitter.com/badralbusaidi))
 
 **Official Signals**
 
-- Saudi Defense Minister Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security challenges ([Twitter](https://x.com/kbsalsaud/status)).
-
-- UAE leaders extended Eid Al-Adha congratulations, with Sheikh Abdullah bin Zayed noting the UAE ranks first globally in AI talent concentration growth at 121% ([Twitter](https://x.com/ABZayed/status)).
+- Saudi Ambassador to Yemen Mohammed Al Jabir said "Al-Hudaydah is liberated....Yemen is breathing" in a major announcement ([Official Twitter](https://twitter.com/mohdsalj))
+- UAE diplomat Anwar Gargash criticized Turkish Defense Minister's statement as representing "new downfall" for Turkey's diplomacy ([Official Twitter](https://twitter.com/AnwarGargash))
 
 **Coverage Flags**
 
-- Multiple Gulf outlets are leading with Hajj completion stories and official Eid congratulations.
+- Multiple Gulf outlet homepages were blocked or restricted during screenshot capture, limiting direct headline verification
+- Yemen remains fragmented between IRG, Houthi/Ansar Allah and STC entities with competing official channels
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com/)
-- [Reuters Gulf](https://www.reuters.com/business/)
-- [AP Gulf](https://apnews.com/)
+- [Reuters Gulf](https://news.google.com/rss/)
+- [AP Gulf](https://news.google.com/rss/)
 - [BBC Middle East](https://www.bbc.com/news/)
-- [Google News Gulf Arabic](https://news.google.com/)
-- Multiple Gulf state agency Twitter feeds and official accounts
+- [Official Saudi, UAE, Qatar, Bahrain, Kuwait, Oman government Twitter accounts](https://twitter.com/)
+- [Yemen IRG and Houthi Saba News Agency feeds](https://sabanew.net/)
