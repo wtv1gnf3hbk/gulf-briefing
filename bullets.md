@@ -1,54 +1,65 @@
 **Top News**
 
-- Saudi Arabia announced the completion of its successful [Hajj season](https://spa.gov.sa/N2603169), with Gulf leaders sending congratulations to the Custodian of the Two Holy Mosques and Crown Prince ([Qatar News Agency](https://ow.ly/ttSc50Z5O7L)).
+- Saudi Arabia announced the successful completion of the 2026 Hajj season, with King Salman and Crown Prince Mohammed bin Salman receiving congratulations from leaders across the GCC and beyond ([AP News](https://apnews.com/article/ronaldo-trophy-saudi-nassr-title-4be06f122a9f7d01763c0384f6f0de43)).
 
-- US and Iran reached a tentative agreement to extend the Gaza ceasefire and begin new nuclear talks, according to [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29), though Trump has not yet decided whether to proceed with the deal.
+- United States and Iran reached a tentative deal to extend ceasefire and start new nuclear talks, though Trump has not yet decided whether to move forward with the agreement ([AP News](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096)).
 
-- Oman's Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reflecting the "constructive nature" of [Oman-Iran dialogue](https://twitter.com/badralbusaidi) on reducing regional tensions.
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy additional time to reach an agreement on Strait of Hormuz security ([official statement](https://twitter.com/FaisalbinFarhan)).
 
-- Saudi Yemen envoy Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate a truce and discuss prisoner exchanges ([Twitter](https://twitter.com/mohdsalj)).
+- Yemen's IRG Presidential Leadership Council called for unity and directed all energies toward restoring state institutions, according to Saba News Agency ([official statement](https://twitter.com/sabanew_)).
 
-- Japan's April oil imports hit their [lowest since](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/) 1962 as Iran war disrupts supply chains, according to Reuters.
+- Japan's April oil imports hit lowest levels since 1962 as Iran war disrupts supply chains, falling nearly 66% year-over-year ([Reuters](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/)).
 
 **Energy & Economy**
 
-- Oman assured continued efforts to ensure availability of petrol, diesel and LPG following supply concerns, according to [Times of Oman](https://timesofoman.com//article/172364-government-making-all-efforts-to-ensure-availability-of-petrol-diesel-and-lpg).
+- UAE led the world in artificial intelligence talent concentration growth by 121% between 2019 and 2025, according to official government data ([Sheikh Abdullah bin Zayed](https://twitter.com/ABZayed)).
 
-- Saudi Energy announced success in its operational plan for Hajj 1447 AH, recording historic energy loads at the holy sites, [SPA reported](https://spa.gov.sa/N2603150).
+- Saudi Arabia's Public Investment Fund announced major AI infrastructure investments as part of Vision 2030 expansion plans ([Princess Reema](https://twitter.com/rbalsaud)).
 
-- UAE leads globally in AI talent concentration growth, rising 121% between 2019-2025, Sheikh Abdullah bin Zayed [posted](https://twitter.com/ABZayed).
+- US inflation rose to 3.8% in April, reaching the highest level in nearly three years ([Times of Oman](https://timesofoman.com//article/172365-us-inflation-rises-to-38-in-april-highest-level-in-nearly-3-years)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional security coordination ([Twitter](https://twitter.com/kbsalsaud)).
+- Crown Prince Mohammed bin Salman met with Chad's President at Mona Palace to discuss bilateral relations and cooperation ([Saudi MFA](https://twitter.com/KSAMOFA)).
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and regional coordination efforts ([official statement](https://twitter.com/kbsalsaud)).
 
 **UAE**
-- Sheikh Mohammed bin Rashid reviewed UAE tourism sector achievements for 2025 and launched new AI government initiatives during a national retreat in Abu Dhabi ([Twitter](https://twitter.com/HHShkMohd)).
+- Sheikh Mohammed bin Rashid launched new AI assistants for government procurement, taxes, and customer service as part of federal AI program expansion ([official statement](https://twitter.com/HHShkMohd)).
+- UAE strongly condemned Iranian attack on Kuwait, calling for immediate cessation of hostilities ([Bahrain MFA](https://twitter.com/bahdiplomatic)).
 
 **Qatar**
-- Qatar Prime Minister Mohammed Al Thani was appointed to his position by Emir Tamim bin Hamad Al Thani, expressing commitment to serving the nation ([Twitter](https://twitter.com/MBA_AlThani_)).
+- Mohammed bin Abdulrahman Al Thani was appointed as new Prime Minister and Foreign Minister by Emir Sheikh Tamim ([official announcement](https://twitter.com/MBA_AlThani_)).
+
+**Oman**
+- Sultan Haitham offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar ([Oman News Agency](https://twitter.com/ONA_eng)).
+- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy FM, reflecting constructive Oman-Iran dialogue ([official statement](https://twitter.com/badralbusaidi)).
+
+**Bahrain**
+- Civil Defense rescued five children from a house fire in Aali area without casualties ([Interior Ministry](https://twitter.com/moi_bahrain)).
 
 **Yemen**
-- Yemen IRG Chairman of Leadership Council called for unity and directing all energies toward restoring state institutions, [Saba News](https://twitter.com/sabanew_) reported.
-- Houthi spokesman Mohammed Abdulsalam warned that Yemeni naval operations supporting Gaza would continue despite American coalition efforts ([Twitter](https://twitter.com/abdusalamsalah)).
+- IRG appointed Ahmed Hamid Lamlas as new governor of Aden Governorate ([Saba News Agency](https://twitter.com/sabanew_)).
+- Houthi spokesman Mohammed Abdulsalam announced text of recent agreement canceling banking decisions and resuming Yemenia flights to Jordan ([official statement](https://twitter.com/abdusalamsalah)).
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan praised US President Trump's decision to give diplomacy a chance to end regional conflicts and restore Strait of Hormuz security ([Twitter](https://twitter.com/FaisalbinFarhan)).
+- Prince Khalid bin Salman emphasized Saudi Arabia's role in serving the Two Holy Mosques and caring for Hajj pilgrims during Eid Al-Adha congratulations ([official statement](https://twitter.com/kbsalsaud)).
 
-- UAE's Anwar Gargash criticized Turkey's Defense Minister's "provocative statement," calling it a diplomatic downfall and rejecting Turkish interference in Arab affairs ([Twitter](https://twitter.com/AnwarGargash)).
+- Qatar's leaders sent formal congratulations to Saudi King and Crown Prince on successful Hajj season completion ([Qatar News Agency](https://twitter.com/QNAEnglish)).
 
 **Coverage Flags**
 
-- Iran rejected Trump's pressure for an immediate ceasefire deal, saying "no final understanding reached," according to [Times of Oman](https://timesofoman.com//article/172362-no-final-understanding-reached-iran-rejects-trumps-pressure-for-ceasefire).
+- **Saudi Press Agency:** Leads with Hajj season success and regional congratulations from GCC leaders.
+- **Asharq al-Awsat:** Features Iran-Turkey tensions and Strait of Hormuz developments prominently.
 
 **Sources**
 
+- [AP News](https://apnews.com)
+- [Reuters](https://www.reuters.com)
+- [BBC Middle East](https://www.bbc.com/news)
 - [Times of Oman](https://timesofoman.com)
-- [Reuters Gulf](https://www.reuters.com)
-- [AP Gulf](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
-- [CNN Arabic](https://arabic.cnn.com)
 - [Saudi Press Agency](https://spa.gov.sa)
 - [Qatar News Agency](https://qna.org.qa)
+- [Kuwait News Agency](https://kuna.net.kw)
+- [Oman News Agency](https://omannews.gov.om)

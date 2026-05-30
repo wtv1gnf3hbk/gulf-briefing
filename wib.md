@@ -1,27 +1,26 @@
-1. **Iran-US negotiations.** The US and Iran reached a tentative agreement to extend the ceasefire and begin new nuclear talks, according to [AP reports](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). Trump held meetings but ended without announcing a final decision. Vice President Vance said the sides are "very close" but [not there yet](https://www.bbc.com/news/articles/c87qng40wz9o), per BBC reports.
+**Hajj success and regional tensions dominate Gulf news.** Gulf leaders congratulated Saudi Arabia on completing the 2026 Hajj season, following Prince Khalid bin Salman's praise of those who served [pilgrims to](https://apnews.com/article/ronaldo-trophy-saudi-nassr-title-4be06f122a9f7d01763c0384f6f0de43) the Holy Mosques. Qatar's Emir, Kuwait's Emir, Oman's Sultan, and Bahrain's leadership sent congratulatory messages to King Salman and Crown Prince Mohammed bin Salman. The Saudi Press Agency reported that Medina received the first departing pilgrims.
 
-2. **Saudi Foreign Minister statement.** Prince Faisal bin Farhan tweeted that Saudi Arabia "highly appreciates" Trump's decision to give diplomacy a chance to reach an agreement ending the war and restoring Strait of Hormuz navigation security to pre-February 28 [status](https://www.bbc.com/news/articles/c0r2d40r91qo). The statement came as Iran rejected Trump's pressure for an immediate ceasefire, per Times of Oman reporting.
+**Yemen's leadership transitions draw Saudi attention.** Saudi Special Envoy Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the ceasefire and support prisoner exchanges, according to his Twitter account. IRG Chairman Rashad al-Alimi attended mourning ceremonies for former President Abd Rabbuh Mansour Hadi, while the IRG appointed Ahmed Hamid Lamlas as governor of Aden. Southern Transitional Council leaders expressed support for security operations.
 
-3. **Saudi Hajj success.** GCC leaders congratulated Saudi Arabia's leadership on the successful 2026 Hajj season. Qatar's Prime Minister, Emir, and Deputy Amir all sent congratulations to the Custodian of the Two Holy Mosques and Crown Prince, according to Qatar News Agency [reports](https://ow.ly/ttSc50Z5O7L). Similar messages came from Kuwait, Oman, Bahrain, and Palestine leadership.
+**Iran-US nuclear negotiations show tentative progress.** US and Iranian negotiators reached a tentative deal to extend the ceasefire and begin new nuclear talks, [AP News reported](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). Vice President Vance said the sides were "very close" but "not there yet." Trump had not decided whether to proceed with the agreement as of Thursday. Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance in the Strait of Hormuz.
 
-4. **Yemen diplomatic moves.** Saudi Ambassador to Yemen Mohammed AlJabir announced he will visit Sanaa with an Omani delegation to consolidate the truce, support prisoner exchanges, and discuss dialogue between Yemeni components for a comprehensive political solution. This follows his earlier tweet declaring Al-Hudaydah [liberated](https://x.com/mohdsalj/status/1843035816370802812).
+**Oman-Iran diplomatic engagement continues.** Foreign Minister Badr Albusaidi met with Iranian Deputy Foreign Minister Gharibabadi, reaffirming the importance of diplomatic engagement and Oman's role in reducing regional tensions, according to [his Twitter](https://twitter.com/badralbusaidi) account. German news outlets reported Trump threatened Oman over its mediation efforts, though official Omani responses focused on constructive dialogue with all parties.
 
-5. **Oman-Iran dialogue.** Oman's Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, reflecting what he called "the constructive nature of Oman-Iran dialogue." Albusaidi reaffirmed the importance of diplomatic engagement and Oman's continued support for efforts to reduce regional [tensions](https://x.com/badralbusaidi/status/1843035816370802812).
+**Energy markets face supply disruption concerns.** Japan's April oil imports hit their lowest level since 1962 following supply disruptions from the Iran conflict, [Reuters reported](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/). The disruption affected global energy markets as tensions continued in the Strait of Hormuz region.
 
-6. **UAE leadership transitions.** UAE President Sheikh Mohammed bin Zayed met with Pakistan's Prime Minister to review advancing relations and discuss regional developments, according to [WAM reports](http://wam.ae/en/details/1395303043734). The meeting focused on strengthening cooperation in various fields of mutual interest.
+**UAE showcases artificial intelligence leadership.** The UAE ranks first globally in artificial intelligence talent concentration, with 121% growth between 2019 and 2025, Sheikh Abdulla bin Zayed posted on Twitter. Dubai's government launched the first batch of AI assistants for procurement, taxes, and customer services. Emirates Airlines unveiled a special Arsenal FC livery following the club's Premier League victory.
 
-7. **Qatar Prime Minister appointment.** Mohammed bin Abdulrahman Al Thani expressed honor at being appointed Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani. Al Thani said he looks forward to working with fellow ministers in serving the nation and contributing to its advancement under the Emir's wise [leadership](https://x.com/MBA_AlThani_/status/1843035816370802812).
+**Qatar announces significant personnel changes.** His Highness Sheikh Tamim bin Hamad appointed Mohammed bin Abdulrahman Al Thani as Prime Minister, who expressed gratitude for the Emir's trust in his Twitter statement. Dr. Majed Al Ansari was appointed as advisor and official spokesman for the Foreign Ministry.
 
-8. **Energy market impacts.** Japan's April oil imports hit the lowest level since 1962 as the Iran war disrupted supply, according to [Reuters reporting](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/). The disruption reflects broader global energy market impacts from the ongoing regional conflict.
+**Bahrain emphasizes regional security cooperation.** The Kingdom strongly condemned an Iranian attack on Kuwait, according to [its Foreign Ministry](https://bit.ly/4dAMr6j). Bahrain's Interior Ministry reported that Civil Defense rescued five children from a house fire in Aali without casualties.
 
-9. **Bahrain civil defense.** Bahrain's Civil Defence successfully rescued five children from a house fire in the Aali area without casualties. The Ministry of Interior announced investigations are underway to determine the cause of the [fire](https://policemc.gov.bh/en/news/78966/).
+**Kuwait focuses on defense partnerships.** KUNA reported that US Defense Secretary Pete Hegseth urged Asian allies to increase military spending to 3.5% of GDP to counter China's growing influence. Kuwait's Hajj Mission chief praised Saudi Arabia's services during the pilgrimage season.
 
-10. **Yemen government appointments.** Yemen's internationally recognized government appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to the IRG-controlled Saba News Agency. The appointment comes as various Yemeni factions continue political maneuvering following recent leadership [changes](https://sabanew.net).
+**Oman celebrates cultural initiatives.** Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar. Prince William received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations and launch the "Oman: The Jewel of Arabia" expedition project in London.
 
-**Sources:**
+**Sources**
 - [AP News](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com/news)
-- [Reuters Gulf](https://www.reuters.com)
+- [Reuters](https://reuters.com)
+- [BBC Middle East](https://bbc.com/news)
 - [Times of Oman](https://timesofoman.com)
-- [Qatar News Agency](https://qna.org.qa)
-- [WAM Emirates News Agency](https://wam.ae)
+- Official Twitter accounts of Gulf leaders and ministries
