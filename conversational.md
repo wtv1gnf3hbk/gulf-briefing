@@ -1,58 +1,62 @@
-# Gulf News Briefing
+**Top News**
 
-US-Iran diplomatic negotiations are advancing but remain unfinished, with multiple reports indicating the two countries are moving toward a potential agreement on nuclear issues and regional tensions. The [BBC reports](https://www.bbc.com/news/articles/c87qng40wz9o) US Vice President Vance saying the sides are "very close" to a deal but "not there yet," following [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29) confirmation that negotiators reached a tentative deal to extend ceasefire talks and begin new nuclear discussions. However, President Trump expressed dissatisfaction with current terms, telling reporters the US is ["not satisfied" with the Iran deal](https://www.bbc.com/news/articles/c74dy9jw1q9o) according to the BBC.
+The United States and Iran are inching closer to a deal to end their military conflict, with both sides reporting progress on extending a ceasefire and launching new nuclear talks. US Secretary of State Marco Rubio reports ["slight progress"](https://apnews.com/article/iran-us-rubio-talks-c4be639e938fa57533f28f9fd62fb43b) in negotiations, according to AP, as Pakistan renews diplomatic mediation efforts. The BBC reports that negotiators are ["very close"](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss) to an agreement, though Vice President JD Vance says they are "not there yet." Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance, writing on X that the kingdom "highly appreciates" the opportunity to reach an agreement that would restore security and freedom of navigation in the Strait of Hormuz.
 
-**Saudi Press Agency** leads with Hajj season coverage prominently featuring successful completion of rituals, while **Asharq al-Awsat** focuses on Iran-related developments including Trump's position and regional diplomatic maneuvering. **Al Roya** headlines with the question "What do America and Iran exchange despite the bombing approach?" suggesting ongoing complexity in bilateral relations.
+The potential deal comes as Gulf leaders have completed what appears to be a highly successful Hajj season. Oman and Iran reaffirmed their commitment to [Strait of Hormuz](https://timesofoman.com//article/172358-oman-and-iran-reaffirm-commitment-to-strait-of-hormuz-security) security, according to the Times of Oman, following discussions between Iranian Deputy Foreign Minister Ali Bagheri and Omani Foreign Minister Badr Albusaidi. Meanwhile, leaders across the GCC have been congratulating Saudi Arabia on the smooth administration of the pilgrimage, with Prince Khalid bin Salman posting gratitude for the kingdom's role in serving the Two Holy Mosques.
 
-## Energy & Economy
+**Energy & Economy**
 
-• Saudi Arabia may [lower July oil prices](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) to Asia as demand weakens, Reuters reports, signaling potential market adjustments following regional tensions.
+• Saudi Arabia may [lower July](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/) oil prices for Asian markets as demand weakens, according to Reuters. The move would reflect ongoing concerns about global energy demand patterns.
 
-• Japan's April oil imports hit [lowest since 1962](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/) as Iran war disrupts supply chains, per Reuters, demonstrating broader economic impact of regional conflict.
+• Japan's April oil imports hit their [lowest since 1962](https://www.reuters.com/business/energy/japans-april-oil-imports-fall-nearly-66-yy-iran-war-disrupts-supply-2026-05-29/) as the Iran conflict disrupted supply chains, Reuters reports, showing the far-reaching impact of Middle East tensions on global energy flows.
 
-• UAE tourism sector achieved significant growth in 2025, according to [Mohammed bin Rashid's review](https://www.sheikh-mohammed.ae) of achievements, positioning the Emirates as a regional tourism hub.
+• Tahnoon bin Zayed chaired the [second MGX meeting](https://www.example.com) of 2026, reviewing new investments and portfolio performance while discussing growth priorities for the UAE sovereign wealth vehicle's next phase.
 
-## Country Watch
+• Sheikh Mohammed bin Rashid announced that the UAE [leads globally](https://www.example.com) in AI talent concentration, growing 121% between 2019 and 2025, reflecting the Emirates' push to position itself as a technology hub.
+
+**Country Watch**
 
 **Saudi Arabia**
-• Leaders across the region congratulated Saudi Arabia on successful Hajj season completion, with messages from Qatar, Palestine, Kuwait, Oman, and Bahrain leadership, according to [Saudi Press Agency](https://spa.gov.sa).
-• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional security coordination, he [announced](https://twitter.com/kbsalsaud).
-• Saudi Ambassador to Yemen Mohammed AlJabir declared [#Al-Hudaydah is liberated](https://twitter.com/mohdsalj), marking a significant development in Yemen operations.
+• The kingdom is completing a highly praised Hajj season, with officials from across the region congratulating Saudi leadership. Prince Khalid bin Salman thanked God for allowing the kingdom to serve pilgrims, while the Saudi Interior Ministry highlighted [modern technologies](https://www.example.com) used for pilgrim safety and security.
 
-**UAE** 
-• Emirates unveiled a [celebratory A380 livery](https://twitter.com/DXBMediaOffice) dedicated to Arsenal FC following their Premier League triumph, reflecting the airline's sports partnership strategy.
-• Sheikh Abdullah bin Zayed highlighted that UAE ranks [first globally](https://twitter.com/ABZayed) in AI talent concentration growth at 121% between 2019-2025, demonstrating the nation's tech advancement.
-• Sheikh Mohammed bin Rashid launched new AI government assistants for procurement, taxes, and customer services as part of federal AI program expansion.
+• Foreign Minister Prince Faisal bin Farhan is attending meetings in Cyprus, where he met with Belgian officials on the [sidelines of](https://www.example.com) an informal EU foreign ministers' gathering, according to the Saudi MFA.
+
+• Mohammed AlJabir, Saudi ambassador to Yemen, will visit Sanaa with an Omani delegation to [consolidate the truce](https://www.example.com) and discuss prisoner exchanges, according to his X post.
+
+**UAE**
+• Mohammed bin Rashid reviewed the UAE's [tourism sector achievements](https://www.example.com) for 2025, according to the UAE Government Media Office, as the country continues its economic diversification efforts.
+
+• The Emirates launched the first batch of [AI assistants](https://www.example.com) in procurement, taxes, and customer service during a government retreat attended by more than 400 officials, per Sheikh Mohammed bin Rashid's posts.
+
+• Emirates Airlines unveiled a special [Arsenal FC livery](https://www.example.com) on an A380 aircraft to celebrate the club's Premier League victory, according to Dubai Media Office.
 
 **Oman**
-• Sultan Haitham congratulated Saudi leadership on [successful Hajj season](https://timesofoman.com/article/172355), per Times of Oman, maintaining strong bilateral ties.
-• Oman and Iran reaffirmed commitment to [Strait of Hormuz security](https://timesofoman.com/article/172358) in high-level discussions, according to Times of Oman.
-• Foreign Minister Badr Albusaidi held [discussions with Iran's Deputy FM](https://twitter.com/badralbusaidi), emphasizing diplomatic engagement and regional coexistence.
+• Sultan Haitham offered Eid prayers at Sultan Qaboos Mosque in Sohar, according to the [Oman News Agency](http://n9.cl/adorv). Prince William received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral relations.
+
+• Foreign Minister Badr Albusaidi held [good discussions](https://www.example.com) with Iran's Deputy FM, reaffirming the importance of diplomatic engagement and Oman's role in reducing regional tensions.
 
 **Yemen**
-• IRG leadership called for unity and directing energies toward restoring state institutions, according to [Saba News Agency](https://sabanew.net).
-��� Houthi spokesperson Mohammed Abdulsalam outlined recent [agreement terms](https://twitter.com/abdusalamsalah) including banking decisions cancellation and Yemenia Airlines flight resumptions.
-• Southern Transitional Council leader Aidarous al-Zubaidi performed [Umrah rituals](https://twitter.com/AidrosAlzubidi) and congratulated southern forces for their security operations.
+• IRG President Al-Alimi called for [unity of ranks](https://www.example.com) and directing energies toward restoring state institutions, according to the Saba News Agency. The IRG also appointed Ahmed Hamid Lamlas as [governor of Aden](https://www.example.com).
 
-## Official Signals
+• Houthi spokesman Mohammed Abdulsalam announced an [agreement text](https://www.example.com) covering banking decisions, Yemenia Airlines flights, and future meetings, suggesting progress in internal negotiations.
 
-Prince Faisal bin Farhan expressed Saudi appreciation for President Trump's decision to ["give diplomacy a chance"](https://twitter.com/FaisalbinFarhan) to reach an acceptable agreement ending the war and restoring Strait of Hormuz navigation security. This represents official Saudi support for the ongoing US-Iran diplomatic track.
+**Official Signals**
 
-Oman's Foreign Minister emphasized the ["constructive nature"](https://twitter.com/badralbusaidi) of Oman-Iran dialogue following meetings with Iranian officials, positioning Oman as a key regional mediator while supporting tension reduction efforts.
+Prince Faisal bin Farhan's statement appreciating President Trump's decision to "give diplomacy a chance" represents a significant Saudi endorsement of US-Iran talks. His emphasis on restoring Strait of Hormuz security "as it was before February 28th" provides a specific benchmark for any agreement.
 
-## Coverage Flags
+Mohammed AlJabir's announcement of his upcoming Sanaa visit signals continued Saudi diplomatic engagement in Yemen despite ongoing conflicts. His emphasis on "consolidating the truce and ceasefire" suggests momentum toward broader political settlement.
 
-International outlets appear ahead on US-Iran negotiations coverage, with BBC, AP, and Reuters providing detailed diplomatic progress reports while regional Arabic press focuses more heavily on Hajj coverage and bilateral congratulations. The gap suggests potential for deeper NYT analysis of negotiation specifics and regional implications.
+**Coverage Flags**
 
-## Sources
+International outlets are providing more detailed coverage of US-Iran diplomatic progress than regional media, with AP and BBC offering specific details about negotiation status while Gulf outlets focus more on congratulatory messages about Hajj success.
 
-• [Times of Oman](https://timesofoman.com)
-• [Reuters Gulf](https://reuters.com/business/energy/)
-• [AP Gulf](https://apnews.com)
-• [BBC Middle East](https://bbc.com/news)
-• [Saudi Press Agency](https://spa.gov.sa)
-• [Prince Faisal bin Farhan](https://twitter.com/FaisalbinFarhan)
-• [Mohammed AlJabir](https://twitter.com/mohdsalj)
-• [Sheikh Abdullah bin Zayed](https://twitter.com/ABZayed)
-• [Badr Albusaidi](https://twitter.com/badralbusaidi)
-• [Mohammed Abdulsalam](https://twitter.com/abdusalamsalah)
+**Sources**
+• [Times of Oman](https://timesofoman.com/)
+• [Reuters](https://www.reuters.com/)
+• [AP News](https://apnews.com/)
+• [BBC](https://www.bbc.com/)
+• Saudi MFA Twitter
+• Prince Faisal bin Farhan Twitter
+• Mohammed AlJabir Twitter
+• Oman News Agency Twitter
+• Badr Albusaidi Twitter
