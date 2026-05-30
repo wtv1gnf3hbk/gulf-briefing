@@ -1,67 +1,63 @@
-A potential Iranian ballistic missile strike on Kuwait's Ali Al Salem Air Base has emerged as today's most consequential development in Gulf security. [Bloomberg reported](https://news.google.com/rss/articles/CBMizANBVV95cUxNWjkwcXNpb1dqaV9iREpOa2U1T05UVFJmS0Nud1RDNGFCYjdxSjF6OWJ3RWwtZDZqeU5GWldzQjd5cUZvUzVwS20tSDNISVA3Ul9aZDI1VGl1NHU2bkRKeWptdDRfd2stZ1Q5QWhnWXFSdURTcXFLUVpOLUdDX3llRjRuQXg1QTVBRlJjQ2FoVFFZZkNPMFh6dFpNMVpabDd3SEJyNVIzbzVqY0E5aGo5eER4WE0ya1k4T01qMzlOUU9vdXdrNk9laV9VMWZGUjdGTHU0ZGJMdlhLSnZ6b0E1VjJiN1lNbWFBV1FjRXJpVjZDcXlJdnB2LThINjZuQTdfcG1aTE5iRTJCRXZ0b3lsMHp6RWpDWVBRZFZLMnVWRTltOUJfX2MyRF9nLVB0VUhzeHdycnB3N2JFSTU4dWdDT0Y0UmcwV1dvdFZfOS1hQXRtbDlLN1F5WjlLN25acVJvR0Zqek45cmt6eDlhYVROUjRoTGpydU1PZm1raDJ0QUxTQzVQYkRvbExLRFBJa3lHVUlIM240UjdWSXIxMS1BSkZ0ZzVFLVhPY25sUVdyb1ZtU1E2NTBzaGtMTWJQMC1jZ1lQeHpHQ3JoWkZQ?oc=5) that an Iranian ballistic missile targeted the base, with Kuwaiti air defenses successfully intercepting it, though two Americans were reportedly injured and a drone was destroyed. Bahrain's Ministry of Foreign Affairs [strongly condemned](https://bit.ly/4dAMr6j) the Iranian attack on Kuwait, calling it a threat to regional stability.
+U.S. and Iranian negotiators have reached a tentative agreement to extend a ceasefire and begin new nuclear talks, [according to AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29). President Trump is still deliberating whether to move forward with the deal, [AP reports](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096), following a recent meeting to make a "final determination." The development comes as regional tensions remain high, with the [BBC noting](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss) that the U.S. and Iran are "very close" to a deal but "not there yet."
 
-The incident occurs while regional tensions remain elevated over negotiations to extend the current ceasefire between the United States and Iran. President Trump is reportedly still deliberating whether to move forward with a potential Iran deal, as the [BBC notes](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss) that US and Iran are "very close" to a deal but "not there yet," according to Vice President Vance.
+Saudi Arabia has strongly welcomed Trump's decision to give diplomacy a chance, with Foreign Minister Prince Faisal bin Farhan stating that "The Kingdom highly appreciates the response of His Excellency the President of the United States by granting the negotiations an additional opportunity to reach an agreement that leads to ending the war and restoring the security and freedom of navigation in the Strait of Hormuz," according to his official Twitter account. The Saudi position underscores the kingdom's desire for regional stability while Iranian threats to close the vital shipping lane continue to concern Gulf states.
 
 **Energy & Economy**
 
-• Kuwait oil prices declined 84 cents to $117.51 per barrel, according to [KUNA reports](https://kuna.net.kw/ArticleDetails.aspx?id=3305807).
+• The conflict is driving up Hajj flight prices to Saudi Arabia, [Asharq Business reports](https://asharqbusiness.com/economics/134602/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B4%D8%B9%D9%84-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/), as war-related disruptions affect commercial aviation costs in the region.
 
-• The UAE economy is experiencing robust growth, with [WAM reporting](https://wam.ae/a/b1n6twr) a 6.2% expansion and GDP rising to AED 1.9 trillion in 2025.
+• UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion during 2025, [according to WAM](https://wam.ae/a/b1n6twr). The growth reflects the UAE's continued economic resilience following diversification efforts.
 
-• Qatar National Bank expects ASEAN-6 economies to sustain growth momentum despite global headwinds, [QNA reports](https://bit.ly/4wX8zPN).
+• Al Roya newspaper leads with the headline "Why are America and Iran bombing, despite the approach to agreement?" highlighting market uncertainty over ongoing military actions even as diplomatic talks progress.
+
+**Country Watch**
 
 **Saudi Arabia**
+• Crown Prince Mohammed bin Salman met with Chad's President at Mona Palace, reviewing bilateral relations and cooperation prospects, [per the Saudi Press Agency](https://spa.gov.sa/N2603169). The meeting signals continued Saudi diplomatic outreach across Africa.
 
-• Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and discuss regional coordination to address challenges and de-escalate tensions, according to his [official statement](https://twitter.com/kbsalsaud).
+• Saudi Ambassador to Yemen Mohammed al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges, according to his Twitter account.
 
-• The Interior Ministry announced that 8,090 violators of residency, work, and border security regulations were arrested within a week, [SPA reported](https://spa.gov.sa/N2603393).
-
-• Saudi Arabia's Ambassador to Yemen Mohammed AlJabir announced plans to visit Sana'a with an Omani delegation to consolidate the truce, support prisoner exchanges, and discuss dialogue between Yemeni components for a comprehensive political solution, per his [Twitter post](https://twitter.com/mohdsatj).
-
-• Regional leaders continue congratulating Saudi leadership on the successful Hajj season 1447 AH, with acknowledgments from Qatar, Palestine, Kuwait, Oman, and Bahrain leadership, [SPA confirmed](https://spa.gov.sa/).
+• Oman's Hajj mission won a silver 'Labaytum' award for excellence in pilgrim services, [Times of Oman reports](https://timesofoman.com//article/172370-oman-hajj-mission-wins-silver-labaytum-award-for-excellence-in-pilgrim-services).
 
 **UAE**
+• The UAE topped global rankings for AI talent concentration, growing 121% between 2019 and 2025, Sheikh Abdullah bin Zayed announced on Twitter, calling it evidence of "leadership that has made building people, attracting minds, and creating the future a solid national approach."
 
-• Sheikh Mohammed bin Rashid announced the launch of the first batch of artificial intelligence assistants in procurement, taxes, customer happiness, and technical support during a government retreat in Abu Dhabi, according to his [official account](https://twitter.com/HHShkMohd).
-
-• Emirates Airlines unveiled a special celebratory livery on an Airbus A380 honoring Arsenal FC following their Premier League winning season, [Dubai Media Office reported](https://twitter.com/DXBMediaOffice).
-
-• The UAE ranks first globally in artificial intelligence talent concentration with 121% growth between 2019 and 2025, Sheikh Abdulla bin Zayed [highlighted](https://twitter.com/ABZayed).
+• Dubai's Emirates Airlines unveiled a special Arsenal-themed A380 livery celebrating the club's Premier League title, [Dubai Media Office reports](https://twitter.com/DXBMediaOffice), reflecting the carrier's sports marketing partnerships.
 
 **Qatar**
+• Prime Minister Mohammed bin Abdulrahman Al Thani was officially appointed by Emir Sheikh Tamim, with Al Thani expressing gratitude for the trust placed in him, according to his official Twitter account.
 
-• Prime Minister Mohammed bin Abdulrahman Al Thani expressed honor at his appointment by Emir Sheikh Tamim bin Hamad Al Thani, stating his commitment to serving the nation under wise leadership, per his [Twitter announcement](https://twitter.com/MBA_AlThani_).
-
-• Qatar mourned the death of former minister Father Abdullah bin Hamad Al Attiyah, with officials praising his contributions to Qatar's development, [Al Ansari noted](https://twitter.com/majedalansari).
+• Majed Al Ansari was appointed as advisor to the Deputy Prime Minister and official Foreign Ministry spokesperson, as announced on his Twitter account.
 
 **Bahrain / Kuwait / Oman**
+• Bahrain strongly condemned an Iranian attack on Kuwait, [according to Bahrain's Ministry of Foreign Affairs](https://bit.ly/4dAMr6j), though details of the incident remain unclear from available reports.
 
-• Bahrain Civil Defense rescued five children from a house fire in Aali with no casualties reported, [the Interior Ministry confirmed](https://policemc.gov.bh/en/news/78966/).
+• Somalia expressed solidarity with Kuwait regarding attacks on its territory, [Youm7 reports](https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D8%B1%D8%A8-%D8%B9%D9%86-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D9%85%D8%B9-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%B2%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A/7432367), suggesting regional concern over Iranian actions against Kuwait.
 
-• His Majesty Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, [ONA reported](http://n9.cl/adorv).
-
-• Oman's expedition project "Oman: The Jewel of Arabia" was officially launched in London under the patronage of HH Sayyid Theyazin bin Haitham Al Said and Prince William of Wales, according to [ONA](https://2u.pw/NpsltIe4).
+• Oman's Foreign Minister Badr Albusaidi held discussions with Iran's Deputy FM, emphasizing "the constructive nature of Oman-Iran dialogue" and Oman's commitment to "supporting efforts to reduce tension," according to his Twitter account.
 
 **Yemen**
+• Former President Abd Rabbuh Mansour Hadi died, with IRG officials and Presidential Leadership Council members attending funeral proceedings in Aden, [according to Information Minister Mohammed Al-Eryani](https://twitter.com/ERYANIM).
 
-• IRG President Al-Alimi called for unity of ranks and directing energies toward restoring state institutions, while the presidency renewed requests to Saudi Arabia to intervene to stop Emirati interference, [Saba News reported](https://sabanew.net).
+• IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, [Saba News Agency reports](https://sabanew.net).
 
-• Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG, according to [Saba sources](https://sabanew.net).
-
-• Houthi spokesman Mohammed Abdulsalam announced cancellation of recent banking decisions on both sides and resumption of Yemenia Airlines flights between Sana'a and Jordan, per his [Twitter statement](https://twitter.com/abdusalamsalah).
-
-• STC President Al-Zubaidi performed Umrah rituals while the council maintains its position supporting southern forces to establish security and protect citizens, [STC reported](http://stcaden.com/news/10114).
+• Houthi spokesman Mohammed Abdulsalam outlined terms of an agreement including canceling banking decisions "on both sides" and resuming Yemenia Airlines flights between Sanaa and Jordan, according to his Twitter account.
 
 **Official Signals**
 
-• Saudi Foreign Minister Prince Faisal bin Farhan expressed appreciation for President Trump's decision to give diplomacy a chance to end the war and restore security in the Strait of Hormuz, [stating](https://twitter.com/FaisalbinFarhan) this serves regional security interests.
+Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and discuss "joint coordination efforts to address regional challenges and de-escalate tensions," according to his Twitter account. The meeting reflects Saudi Arabia's continued engagement with Western partners on regional security issues.
 
-• Oman's Foreign Minister Badr Albusaidi held constructive discussions with Iran's Deputy FM, reaffirming the importance of diplomatic engagement and Oman's role in supporting efforts to reduce tensions and advance regional coexistence, per his [Twitter update](https://twitter.com/badralbusaidi).
+Oman's Foreign Minister emphasized to CNN Arabic that "Oman will continue supporting efforts to reduce tension" following Trump's threats, demonstrating the sultanate's traditional mediation role even under pressure.
 
 **Coverage Flags**
 
-The reported Iranian missile strike on Kuwait's Ali Al Salem Air Base appears in Arabic-language social media and Bloomberg reports but lacks comprehensive coverage in major international outlets, warranting closer NYT attention. The gap between Arabic and English reporting on evolving Yemen negotiations also merits monitoring.
+International outlets are ahead on Iran-US negotiations, with AP and BBC providing detailed coverage while Gulf state media focus more on diplomatic responses than the substance of talks. The apparent Iranian attack on Kuwait mentioned by Bahrain's Foreign Ministry lacks detail in available Arabic sources, potentially warranting follow-up reporting.
 
 **Sources**
 
-• [Bloomberg](https://news.google.com/rss/articles/CBMizANBVV85cUxNWjkwcXNpb1dqaV9iREpOa2U1T05UVFJmS0Nud1RDNGFCYjdxSjF6OWJ3RWwtZDZqeU5GWldzQjd5cUZvUzVwS20tSDNISVA3Ul9aZDI1VGl1NHU2bkRKeWptdDRfd2stZ1Q5QWhnWXFSdURTcXFLUVpOLUdDX3llRjRuQXg1QTVBRlJjQ2FoVFFZZkNPMFh6dFpNMVpabDd3SEJyNVIzbzVqY0E5aGo5eER4WE0ya1k4T01qMzlOUU9vdXdrNk9laV9VMWZGUjdGTHU0ZGJMdlhLSnZ6b0E1VjJiN1lNbWFBV1FjRXJpVjZDcXlJdnB2LThINjZuQTdfcG1aTE5iRTJCRXZ0b3lsMHp6RWpDWVBRZFZLMnVWRTltOUJfX2MyRF9nLVB0VUhzeHdycnB3N2JFSTU4dW
+• [AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)
+• [BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
+• [Times of Oman](https://timesofoman.com//article/172370-oman-hajj-mission-wins-silver-labaytum-award-for-excellence-in-pilgrim-services)
+• [Asharq Business](https://asharqbusiness.com/economics/134602/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B4%D8%B9%D9%84-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/)
+• [WAM](https://wam.ae/a/b1n6twr)
+• [Youm7](https://www.youm7.com/story/2026/5/30/%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D8%B1%D8%A8-%D8%B9%D9%86-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D9%85%D8%B9-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%B2%D
