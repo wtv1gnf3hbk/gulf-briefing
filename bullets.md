@@ -1,63 +1,58 @@
 **Top News**
 
-- Saudi Arabia provided 2.5 million health services to pilgrims during this year's Hajj season, the Ministry of Health reported, marking successful completion of the annual pilgrimage ([Times of Oman](https://www.youm7.com/story/2026/5/30/%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-2-5-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D8%B5%D8%AD%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%AC%D8%A7%D8%AC/7433062))
-
-- Former Yemeni President Abd Rabbuh Mansour Hadi died, Prince Khalid bin Salman conveyed condolences from Saudi leadership to his family, calling him "a wise leader" focused on Yemen's security and stability
-
-- Oman detected a suspected floating mine in the Strait of Hormuz, the country's Maritime Security Centre reported in a development that could affect shipping ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz))
-
-- Saudi Arabia's Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance to reach an agreement that restores security and freedom of navigation in the Strait of Hormuz to pre-February 28th conditions
-
-- Kuwait oil prices dropped 84 cents to $117.51 per barrel, according to Kuwait Petroleum Corporation data ([Reuters Gulf](https://kuna.net.kw/ArticleDetails.aspx?id=3305807))
+- Saudi Arabia concluded the Hajj season with 2.5 million pilgrims served, as Prince Khalid bin Salman conveyed condolences for former Yemeni President Hadi's death ([SPA](https://spa.gov.sa/N2603513)).
+- Prince Faisal bin Farhan welcomed Trump's decision to give diplomacy a chance to end the war in Yemen and restore Strait of Hormuz navigation to its pre-February 28, 2026 state ([Twitter](https://twitter.com/FaisalbinFarhan)).
+- Oman detected a suspected floating mine in the Strait of Hormuz, according to its Maritime Security Centre ([Times of Oman](https://timesofoman.com/article/172387)).
+- Iran and the US remain "very close" to a nuclear deal but are "not there yet," according to US officials ([BBC](https://www.bbc.com/news/articles/c87qng40wz9o)).
+- Trump criticized neutral Oman in statements, sparking backlash from Omani media calling it a "historical sin" ([Times of Oman](https://timesofoman.com/article/172388)).
 
 **Energy & Economy**
 
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the government media office announced in a show of continued economic strength ([Google News Gulf](https://www.mubasher.info/news/4619456/1-9-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%B3%D8%AC%D9%84-%D9%86%D9%85%D9%88%D8%A7-6-2-%D9%81%D9%8A-2025/))
-
-- Oman embraced a strategic lithium battery materials production project, according to Alarabiya reports, as the sultanate diversifies its energy sector ([Google News Gulf](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30/%D8%B9-%D9%85%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7-%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85))
-
-- Oman published new restrictions on foreign investment under its Foreign Capital Investment Law, outlining prohibited activities for international investors ([Times of Oman](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law))
+- UAE economic growth hit 6.2% in 2025, reaching 1.9 trillion dirhams, according to Mubasher Info ([Mubasher](https://www.mubasher.info/news/4619456)).
+- Oman launched a strategic lithium battery materials production project, per Arabic media reports ([Al Arabiya](https://www.alarabiya.net/amp/aswaq/economy/2026/05/30)).
+- UAE announced it leads globally in AI talent concentration with 121% growth between 2019-2025, Sheikh Abdulla bin Zayed said ([Twitter](https://twitter.com/ABZayed)).
 
 **Country Watch**
 
 **Saudi Arabia**
+- Prince Khalid bin Salman met UK National Security Adviser Jonathan Powell to discuss bilateral cooperation and regional de-escalation efforts ([Twitter](https://twitter.com/kbsalsaud)).
+- Interior Ministry reported arresting 8,090 violators of residency, work and border security regulations within one week ([Twitter](https://twitter.com/MOISaudiArabia)).
 
-- Crown Prince Mohammed bin Salman met Chad's President at Mona Palace, reviewing bilateral relations and cooperation prospects in various fields
-
-- Saudi Interior Ministry arrested 8,090 violators of residency, work and border security regulations within one week
-
-- Saudi Foreign Minister Prince Faisal bin Farhan chaired an International Conference on Palestinian issue resolution with French counterpart, aiming to implement the two-state solution
-
-**UAE**
-
-- UAE advised against sending citizens to three African countries, according to Sky News Arabia reports
-
-- UAE emerged first globally in AI talent concentration growth, rising 121% between 2019 and 2025, Sheikh Abdullah bin Zayed noted
+**UAE** 
+- Emirates unveiled an Arsenal FC-themed A380 livery following the club's Premier League title win, Dubai Media Office announced ([Twitter](https://twitter.com/DXBMediaOffice)).
+- UAE strongly condemned a terrorist attack near a Jerusalem synagogue, Foreign Ministry said ([Twitter](https://twitter.com/AfraMalHameli)).
 
 **Qatar**
-
-- Qatar's Deputy Prime Minister Mohammed bin Abdulrahman Al Thani was honored with appointment as Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani
-
-- Qatar expressed condolences for Abdullah bin Hamad Al Attiyah's death, calling him one of the nation's loyal contributors to development
+- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed, with Majed Al Ansari named Foreign Ministry spokesman ([Twitter](https://twitter.com/MBA_AlThani_)).
 
 **Bahrain**
+- Civil Defense rescued five children from a house fire in Aali area without casualties, Interior Ministry reported ([Twitter](https://twitter.com/moi_bahrain)).
 
-- Bahrain Civil Defense rescued five children from a house fire in Aali area without casualties, with investigations ongoing into the fire's cause
+**Kuwait**
+- Kuwait Airways received its first return flight of pilgrims at Terminal 4, KUNA reported ([Twitter](https://twitter.com/kuna_en)).
+
+**Oman**
+- Sultan Haitham offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([Twitter](https://twitter.com/ONA_eng)).
+
+**Yemen**
+- **IRG:** Appointed Ahmed Hamid Lamlas as Aden Governor, with government condemning UAE airstrikes on National Army forces ([Saba IRG](https://sabanew.net)).
+- **Houthis:** Mohammed Abdulsalam signed a banking agreement including flight resumptions and procedure cancellations ([Twitter](https://twitter.com/abdusalamsalah)).
+- **STC:** Amr Bidh met with European Council on Foreign Relations to discuss southern developments ([Twitter](https://twitter.com/AmrAlBidh)).
 
 **Official Signals**
 
-- Mohammed AlJabir announced a visit to Sana'a with an Omani delegation to consolidate ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni components
-
-- Oman's Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran diplomatic engagement
+- Saudi Arabia's ambassador to Yemen Mohammed AlJabir announced plans to visit Sanaa with Omani delegation to consolidate ceasefire and discuss comprehensive political solutions ([Twitter](https://twitter.com/mohdsalj)).
+- UAE Foreign Minister called for immediate priority on ending Gaza violence and protecting civilians in official statement ([Twitter](https://twitter.com/AfraMalHameli)).
 
 **Coverage Flags**
 
-- Several outlet homepages are showing security verification screens or blocked access, limiting direct content monitoring
+- Multiple outlet homepages show blocked access or security verification, limiting direct coverage assessment.
+- Trump's comments on Oman being a major story in regional Arabic media but limited English coverage observed.
 
 **Sources**
 
-- **[Times of Oman](timesofoman.com)**
-- **[Reuters Gulf](reuters.com)**
-- **[AP Gulf](apnews.com)**
-- **[BBC Middle East](bbc.com)**
-- **[Google News Gulf Arabic](news.google.com)**
+- [Times of Oman](https://timesofoman.com)
+- [Reuters Gulf](https://www.reuters.com/business/)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- Official Twitter accounts: [@KSAMOFA](https://twitter.com/KSAMOFA), [@kbsalsaud](https://twitter.com/kbsalsaud), [@FaisalbinFarhan](https://twitter.com/FaisalbinFarhan), [@mohdsalj](https://twitter.com/mohdsalj)
