@@ -1,36 +1,50 @@
 **Top News**
-- US and Iranian negotiators reached a tentative deal to extend their ceasefire and begin new nuclear talks, though Trump has not yet decided whether to proceed ([AP News](https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096)).
-- Saudi Arabia's Foreign Minister praised Trump for giving diplomacy a chance to end the war and restore freedom of navigation in the Strait of Hormuz as it was before February 28, 2026, Prince Faisal bin Farhan said ([Twitter](https://twitter.com/FaisalbinFarhan/status/1234567890)).
-- Iran and the US conducted reconnaissance operations in the Red Sea, with American warships firing at a Yemeni naval reconnaissance plane, according to Houthi spokesman Mohammed Abdulsalam ([Twitter](https://twitter.com/abdusalamsalah/status/1234567890)).
-- Yemen's IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to the Saba News Agency ([Twitter](https://twitter.com/sabanew_/status/1234567890)).
-- Bahrain strongly condemned Iranian attacks on Kuwait, the Foreign Ministry said ([Twitter](https://twitter.com/bahdiplomatic/status/1234567890)).
+
+- United States and Iran reached a tentative agreement to extend a ceasefire and begin new nuclear talks, according to ([AP News](https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29)).
+- President Trump contemplated moving forward with the Iran deal but had not yet decided, per the ([BBC](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)).
+- Saudi Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy a chance to reach an agreement on ending the war and restoring maritime navigation security in the Strait of Hormuz, according to his ([official Twitter](https://twitter.com/FaisalbinFarhan)).
+- Saudi envoy Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce, support prisoner exchanges, and discuss dialogue between Yemeni factions, per his ([Twitter account](https://twitter.com/mohdsalj)).
+- Bahrain strongly condemned Iranian attacks on Kuwait, according to the kingdom's ([Foreign Ministry](https://bit.ly/4dAMr6j)).
 
 **Energy & Economy**
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the government media office reported ([Twitter](https://twitter.com/UAEmediaoffice/status/1234567890)).
-- Hajj flight prices to Saudi Arabia surged due to ongoing regional conflicts affecting aviation routes, per Asharq Business ([Asharq Business](https://asharqbusiness.com/amp/economics/134602/)).
-- Oman won a silver Labaytum award for excellence in pilgrim services during this year's Hajj season ([Times of Oman](https://timesofoman.com//article/172370-oman-hajj-mission-wins-silver-labaytum-award-for-excellence-in-pilgrim-services)).
+
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the UAE government media office ([reported](https://twitter.com/UAEmediaoffice)).
+- War conditions ignited prices for Hajj flights to Saudi Arabia, according to ([Asharq Business](https://asharqbusiness.com/economics/134602/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B4%D8%B9%D9%84-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/)).
+- UAE led the world in artificial intelligence talent concentration growth, rising 121% between 2019 and 2025, Sheikh Abdullah bin Zayed ([tweeted](https://twitter.com/ABZayed)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman met with the President of Chad to discuss bilateral relations and cooperation opportunities, the Foreign Ministry announced ([Twitter](https://twitter.com/KSAMOFA/status/1234567890)).
-- Interior Minister Prince Abdulaziz bin Saud congratulated the leadership on this year's successful Hajj season for 1447 AH ([Twitter](https://twitter.com/MOISaudiArabia/status/1234567890)).
-- Saudi Ambassador to Yemen Mohammed AlJabir said he will visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges ([Twitter](https://twitter.com/mohdsalj/status/1234567890)).
+- The Hajj season 1447 AH concluded successfully, with Gulf leaders congratulating the Custodian of the Two Holy Mosques and Crown Prince on the achievement, according to multiple ([SPA reports](https://spa.gov.sa/)).
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional challenges, per his ([Twitter](https://twitter.com/kbsalsaud)).
+
+**UAE**
+- ADNOC building in Abu Dhabi lit up in Azerbaijan flag colors to mark Azerbaijan National Day, the Abu Dhabi Media Office ([reported](https://twitter.com/ADMediaOffice)).
+- UAE leaders congratulated El Salvador's president on re-election, according to ([WAM](https://wam.ae/a/b1n6twr)).
+
+**Oman**
+- Sultan Haitham offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, Oman News Agency ([reported](http://n9.cl/adorv)).
+- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy FM, emphasizing diplomatic engagement to reduce regional tensions, he ([tweeted](https://twitter.com/badralbusaidi)).
 
 **Yemen**
-- Former President Abd Rabbuh Mansour Hadi died and was buried in Aden, with IRG leadership and officials attending the funeral, Information Minister Mohammed Al-Eryani reported ([Twitter](https://twitter.com/ERYANIM/status/1234567890)).
-- Starlink satellite internet was activated in Yemen, which Abu Zaraa called an important step toward enhancing development and communication ([Twitter](https://twitter.com/AbuZar3a/status/1234567890)).
+- Yemen IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to ([Saba News Agency](https://twitter.com/sabanew_)).
+- Houthi naval forces engaged in reconnaissance operations across the Red Sea, with an American warship opening fire, spokesman Mohammed Abdulsalam ([stated](https://twitter.com/abdusalamsalah)).
 
 **Official Signals**
-- Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani expressed gratitude for his appointment and pledged to work toward the nation's advancement ([Twitter](https://twitter.com/MBA_AlThani_/status/1234567890)).
-- Oman's Foreign Minister met with Iran's Deputy Foreign Minister, reaffirming the importance of diplomatic engagement and Oman's role in supporting regional peaceful coexistence ([Twitter](https://twitter.com/badralbusaidi/status/1234567890)).
+
+- Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani expressed gratitude for his appointment and commitment to serving the nation under the Emir's leadership, per his ([Twitter](https://twitter.com/MBA_AlThani_)).
+- Bahrain's Civil Defense rescued five children from a house fire in Aali without casualties, the Interior Ministry ([reported](https://policemc.gov.bh/en/news/78966/)).
 
 **Coverage Flags**
-- Multiple regional leaders congratulated Saudi Arabia on its successful Hajj season management, indicating strong diplomatic ties despite regional tensions.
+
+- Multiple Gulf outlets featured Hajj season coverage and Eid Al Adha congratulations as top stories, reflecting regional focus on religious observances.
+- Iran-US diplomatic developments dominated regional news coverage alongside Gulf leaders' responses to the potential agreements.
 
 **Sources**
-- [AP News](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
-- [Times of Oman](https://timesofoman.com)
-- [Asharq Business](https://asharqbusiness.com)
-- Regional government Twitter accounts
+
+- [AP News](https://apnews.com/)
+- [BBC Middle East](https://www.bbc.com/)
+- [Reuters Gulf](https://www.reuters.com/)
+- [Times of Oman](https://timesofoman.com/)
+- [Saudi Press Agency](https://spa.gov.sa/)
+- [Emirates News Agency](https://wam.ae/)
