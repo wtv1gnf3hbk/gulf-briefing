@@ -1,28 +1,31 @@
-**Gulf Region Daily Briefing**
+**Gulf News Briefing** 
+**Sunday, May 31, 2026**
 
-1. **Hajj conclusion celebrations.** Saudi Arabia completed the 2026 Hajj pilgrimage season, with pilgrims performing farewell circumambulation at the Grand Mosque. Crown Prince Mohammed bin Salman and King Salman received congratulations from regional leaders including Qatar's Emir, Palestine's President, and Kuwait's Emir for the [successful pilgrimage](https://timesofoman.com//article/172396-liverpool-sack-arne-slot-club-begins-search-for-successor) management. The Saudi Interior Ministry reported serving 1.9 million pilgrims during the season.
+1. **Trump-Iran talks.** President Trump described US-Iran negotiations as "[close to a](https://www.bbc.com/news/articles/c87qng40wz9o)" deal but "not there yet," according to the BBC. Saudi Foreign Minister Prince Faisal bin Farhan [posted that](https://twitter.com/FaisalbinFarhan) the Kingdom "highly appreciates" Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz navigation security to pre-February 28th levels.
 
-2. **Yemen former President dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi leadership. Prince Khalid bin Salman conveyed condolences to Hadi's family, describing him as "a wise leader who was keen on the security, stability, development and prosperity of his country." The IRG-controlled Saba News Agency confirmed senior Saudi officials attended condolence ceremonies.
+2. **Iranian regional moves.** Iran's Revolutionary Guards claimed to have [downed a](https://timesofoman.com//article/172392-irgc-claims-downing-of-us-mq-1-drone-in-iranian-airspace-iranian-media) US MQ-1 drone in Iranian airspace, according to Iranian media. Iran also [tightened grip](https://timesofoman.com//article/172394-travel-through-designated-routes-iran-tightens-grip-on-crucial-strait-of-hormuz-transit) on crucial Strait of Hormuz transit, requiring travel through designated routes, Times of Oman reported.
 
-3. **Iran maritime tensions.** Iran tightened control over Strait of Hormuz transit routes, requiring ships to travel through designated passages, according to Times of Oman reports. Separately, Iran's IRGC claimed downing a US MQ-1 drone in Iranian airspace. These developments coincide with ongoing [US-Iran diplomatic](https://www.bbc.com/news/articles/c87qng40wz9o) talks, with Vice President Vance saying negotiations are "very close" but "not there yet."
+3. **Former Yemeni president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi leadership. Prince Khalid bin Salman [conveyed condolences](https://twitter.com/kbsalsaud) from Saudi leadership to Hadi's family, describing him as "a wise leader who was keen on the security, stability, development and prosperity of his country."
 
-4. **Saudi-Yemen partnership.** IRG Presidential Leadership Council Chairman Rashad Al-Alimi declared Yemen-Saudi relations had "entered a new phase of fruitful strategic partnership" during meetings with Saudi officials. Saudi Ambassador Mohammed AlJabir highlighted that nearly 2 million Yemenis work in Saudi Arabia, transferring over $4 billion annually to Yemen, benefiting approximately 15 million Yemenis.
+4. **Yemen government tensions.** The Internationally Recognized Government condemned UAE airstrikes on National Army forces in Aden and Abyan, according to [Saba News Agency](https://sabanew.net). The IRG presidency also renewed its request to Saudi Arabia to intervene to stop what it called Emirati interference.
 
-5. **UAE economic growth.** The UAE government announced 6.2% economic growth with GDP rising to AED 1.9 trillion during 2025. Sheikh Mohammed bin Rashid reviewed tourism sector achievements for 2025, while Sheikh Abdulla bin Zayed noted the UAE leads globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025.
+5. **Hajj season concludes.** Muslim pilgrims concluded the annual Hajj pilgrimage with final [circling around](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5) the Kaaba. Saudi authorities reported 8,090 violators of residency, work, and border security regulations were arrested within a week during the season.
 
-6. **Qatar leadership changes.** Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani formally assumed duties after appointment by Emir Sheikh Tamim. Foreign Ministry spokesman Majed Al Ansari was appointed advisor to the Prime Minister and official ministry spokesperson. Both officials expressed commitment to serving Qatar under the Emir's wise leadership.
+6. **Kuwait security incident.** American soldiers were injured from falling debris after an Iranian missile attack in Kuwait last Wednesday, according to [Al-Ahram Gate](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekZfem1SV1FKMGpjRzZQTWhIZE8zMTFTOXMzZWtfMzF0V1BEMHIxX05OWkNtRGFGcnRyd1A0NmVTY0pmaTZfVWVwelgzYi1hOTBHTU9n?oc=5). Bahrain's Foreign Ministry strongly condemned the Iranian attack on Kuwait.
 
-7. **Oman diplomatic engagement.** Foreign Minister Badr Albusaidi held talks with Iran's Deputy Foreign Minister, emphasizing constructive Oman-Iran dialogue and supporting efforts to reduce regional tensions. Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations and launch the "Oman: The Jewel of Arabia" expedition project.
+7. **Saudi sports preparations.** Saudi Arabia's national team played Ecuador 1-2 in a friendly match in preparation for the 2026 World Cup. Al-Ekhbariya TV [monitored expectations](https://twitter.com/alekhbariyatv) of Saudi fans in New Jersey about the team's World Cup participation.
 
-8. **Bahrain security response.** Bahrain's Civil Defense rescued five children from a house fire in Aali area without injuries reported. The Interior Ministry continues investigating the fire's cause. Separately, Bahrain's Foreign Ministry condemned an Iranian attack on Kuwait, demonstrating regional solidarity against external threats.
+8. **UAE economic growth.** The UAE economy expanded 6.2% with GDP rising to 1.9 trillion dirhams in 2025, the UAE Government Media Office [announced](https://twitter.com/UAEmediaoffice). The UAE ranked first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025.
 
-9. **Kuwait celestial event.** A rare astronomical alignment captivated observers in Kuwait as the full moon positioned directly above a mosque minaret crescent. The cosmic display coincided with a "Blue Moon" phenomenon, marking the second full moon occurrence. Kuwait Airways received its first return flight of pilgrims at Terminal 4.
+9. **Oman diplomatic engagement.** Oman's Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reflecting "the constructive nature of Oman-Iran dialogue" and reaffirming diplomatic engagement to reduce regional tensions, he [posted](https://twitter.com/badralbusaidi).
 
-10. **Regional Eid celebrations.** Gulf leaders exchanged Eid Al-Adha greetings across the region. UAE leadership congratulated citizens and residents, while Qatar's government expressed similar sentiments to the Islamic nation. The celebrations followed the successful completion of Hajj rituals and reflected the season's spiritual significance across the Gulf states.
+10. **Pentagon warning on Iran.** Pentagon chief said the US is ready to restart strikes if no deal is reached with Iran, [Reuters reported](https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2hub08?oc=5). This came as diplomatic efforts continue following Trump's stated openness to negotiations.
 
-**Sources:**
-- [Times of Oman](https://timesofoman.com)
-- [BBC Middle East](https://www.bbc.com/news/articles/c87qng40wz9o)
-- [Reuters Gulf](https://www.reuters.com)
-- [AP Gulf](https://news.google.com)
-- Official Twitter/X accounts of Gulf foreign ministries and royal families
+**Sources**
+- [Times of Oman](https://timesofoman.com/)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Reuters Gulf](https://news.google.com/)
+- [AP Gulf](https://apnews.com/)
+- [Google News Gulf](https://news.google.com/)
+- Saudi, UAE, Qatar, Bahrain, Kuwait, Oman official Twitter accounts
+- Yemen IRG and Houthi Saba News Agency
