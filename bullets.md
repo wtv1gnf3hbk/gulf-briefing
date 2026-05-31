@@ -1,35 +1,67 @@
 **Top News**
 
-- Saudi Arabia completed its 2026 Hajj season after transporting 1.9 million passengers via the Holy Sites Train, with Crown Prince Mohammed bin Salman meeting Chad's President to discuss bilateral relations ([Reuters](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
-- Prince Khalid bin Salman conveyed Saudi leadership condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death ([Times of Oman](https://timesofoman.com//article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin)).
-- Oman's Maritime Security Centre detected a suspected floating mine in the Strait of Hormuz, raising concerns about shipping security in the vital waterway ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz)).
-- Prince Faisal bin Farhan said Saudi Arabia appreciates President Trump's decision to give diplomacy a chance to reach agreement on ending war and restoring maritime navigation freedom in the Strait of Hormuz ([BBC Middle East](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)).
-- Trump urged Saudi Arabia and Qatar to join the Abraham Accords during regional diplomatic discussions, according to Sky News Arabia ([Google News Gulf Arabic](https://validate.perfdrive.com/?ssa=7a662c72-bdb9-4df9-a4a0-132e0bcfafe0&ssb=42822226842&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fnewsroom%2F1871504-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%258A%25D8%25AD%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2588%25D9%2582%25D8%25B7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2586%25D8%25B6%25D9%2585%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D9%2581%25D8%25A7%25D9%2582%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25B1%25D8%25A7%25D9%2587%25D9%258A%25D9%2585%25D9%258A%25D8%25A9&ssi=bdd77260-cf43-40d0-bf64-14cf7a3b23cb&ssk=botmanager_support@radware.com&ssm=85276118895574769103654693471752&ssn=ae7afd2678e9c0c03ea7f99a331f68c77f357d730358-d3d0-4389-990eeb&sso=64c8ba3c-60620e1be1a386015784bb581ac54570f391c52176cdc234&ssp=67595504931780135016178015537637490&ssq=93311908267945802923982679878820330403429&ssr=MTMuODMuMTYyLjE=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDA3ZDczMDM1OC1kM2QwLTQzODktOWEzYy02MDYyMGUxYmUxYTMxLTE3ODAxODI2NzkxNTMwLTAwMzk5MWIwOTQ1NjdiZDVlYTgxMCIsInV6bXgiOiI3ZjkwMDBkNWI1MDA0OC1iMTRjLTRlNjgtYmFiZC00NzkzNDc4N2E5NzcxLTE3ODAxODI2NzkxNTMwLTAxNzQwMGQ0MjNmNDZlZmQxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20ifQ==)).
+- Saudi Arabia welcomed former Yemeni President Abd Rabbuh Mansour Hadi's death, with Prince Khalid bin Salman conveying leadership condolences and calling him "a wise leader who was keen on the security, stability, development and prosperity of his country" ([Twitter](https://twitter.com/kbsalsaud))
+
+- Oman detected a suspected floating mine in the Strait of Hormuz, its Maritime Security Centre reported ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz))
+
+- Saudi Arabia played Ecuador in a friendly match in New Jersey as preparation for the 2026 World Cup, according to Al Ekhbariya TV coverage ([Twitter](https://twitter.com/alekhbariyatv))
+
+- Qatar Foreign Minister Prince Faisal bin Farhan chaired an International Conference for the Peaceful Resolution of the Palestinian Issue and Implementation of the Two-State Solution with French Foreign Minister Jean-Noël Barrot ([Twitter](https://twitter.com/FaisalbinFarhan))
+
+- Saudi Minister of Foreign Affairs appreciated President Trump's decision to give diplomacy another chance to reach an agreement ending war and restoring maritime navigation freedom in the Strait of Hormuz ([Twitter](https://twitter.com/FaisalbinFarhan))
+
+- UAE President and his deputies congratulated the Presidential Leadership Council chairman on the death of former Yemeni President Abd Rabbuh Mansour Hadi, according to Emirates News Agency ([Twitter](https://twitter.com/WAMNEWS_ENG))
 
 **Energy & Economy**
 
-- UAE announced 6.2% GDP growth with economic output rising to AED 1.9 trillion in 2025, according to UAE Government Media Office ([Reuters Gulf](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
-- Yemen continued facing severe economic hardship with Al Jazeera describing a "daily wage economy" where families survive on oil by the cup and ghee by the spoon ([Al Jazeera Net](https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86)).
-- Kuwait Airways received its first return flight of pilgrims at Terminal 4, marking the conclusion of Hajj travel operations ([Kuwait News Agency](http://ow.ly/QMPA30sW8QU)).
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the UAE Government Media Office announced ([Twitter](https://twitter.com/UAEmediaoffice))
+
+- Oman published new restrictions on foreign investors under its Foreign Capital Investment Law ([Times of Oman](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law))
 
 **Country Watch**
 
 **Saudi Arabia**
-- Saudi Interior Ministry announced the arrest of 8,090 violators of residency, work, and border security regulations within one week ([AP Gulf](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMGpud1hvWHBDQ0UwLWVuQThudGNGbXlQelpOREVlRElFRnpvVTRxa1NDWE1hcU5lLXBsX25jMW05cTRRM0NjaVZ5d2dYVVdMbXNpMng4VkI0aFgtZzJV?oc=5)).
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and discuss regional challenges ([Twitter](https://twitter.com/kbsalsaud))
+- Interior Ministry arrested 8,090 violators of residency, work, and border security regulations within a week ([Twitter](https://twitter.com/MOISaudiArabia))
 
 **UAE**
-- Sheikh Abdulla bin Zayed highlighted UAE's leadership in artificial intelligence talent concentration, which grew 121% between 2019 and 2025 ([Reuters Gulf](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
-- Emirates unveiled a special A380 livery dedicated to Arsenal FC following the club's Premier League championship victory ([AP Gulf](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMGpud1hvWHBDQ0UwLWVuQThudGNGbXlQelpOREVlRElFRnpvVTRxa1NDWE1hcU5lLXBsX25jMW05cTRRM0NjaVZ5d2dYVVdMbXNpMng4VkI0aFgtZzJV?oc=5)).
+- Sheikh Mohammed bin Rashid launched the first batch of artificial intelligence assistants in procurement, taxes, customer happiness, and technical support ([Twitter](https://twitter.com/HHShkMohd))
+- Sheikh Tahnoon bin Zayed received U.S. Representative Josh Gottheimer to review UAE-U.S. strategic relations ([Twitter](https://twitter.com/hhtbzayed))
 
 **Qatar**
-- Prime Minister Mohammed Al Thani was appointed to his new position by Emir Sheikh Tamim bin Hamad Al Thani, according to official Twitter announcements ([Reuters Gulf](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
+- PM Al Thani was honored by Emir Sheikh Tamim's appointment as Prime Minister, expressing commitment to serving the nation ([Twitter](https://twitter.com/MBA_AlThani_))
 
 **Bahrain**
-- Civil Defense rescued five children from a house fire in Aali area without casualties, according to Bahrain Interior Ministry ([Reuters Gulf](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
+- Civil Defense rescued five children from a house fire in Aali area without casualties, with investigations ongoing to determine the cause ([Twitter](https://twitter.com/moi_bahrain))
+
+**Kuwait**
+- First groups of pilgrims returned to Kuwait following Hajj completion according to KUNA ([Twitter](https://twitter.com/kuna_en))
 
 **Oman**
-- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar, according to Oman News Agency ([Times of Oman](https://timesofoman.com//article/172389-embassy-of-nepal-marks-peace-walk-and-beach-cleaning-event-in-muscat)).
+- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([Twitter](https://twitter.com/ONA_eng))
 
 **Yemen**
-- Mohammed AlJabir announced plans to visit Sana'a with an Omani delegation to consolidate the truce and discuss ways for dialogue between Yemeni components ([Reuters Gulf](https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/)).
-- Mohammed Abdulsalam announced an agreement
+- Houthi leader Mohammed Ali Al Houthi declared Yemen's success in installing the first heart valve without surgical intervention, praising cardiologists ([Twitter](https://twitter.com/Moh_Alhouthи))
+- Southern Transitional Council President Aidarous Al-Zubaidi declared absolute support for southern forces' steps to establish security ([Twitter](https://twitter.com/AidrosAlzubidi))
+
+**Official Signals**
+
+- Anwar Gargash criticized Turkish Defense Minister's "provocative statement" as representing "a new downfall for his country's diplomacy" and called for Turkey to stop interference in Arab affairs ([Twitter](https://twitter.com/AnwarGargash))
+
+- Saudi Ambassador to Yemen Mohammed AlJabir announced plans to visit Sana'a with an Omani delegation to consolidate truce and ceasefire, support prisoner exchange, and discuss dialogue between Yemeni components ([Twitter](https://twitter.com/mohdsatj))
+
+**Coverage Flags**
+
+- Multiple Gulf outlets' homepages are leading with Hajj season success stories and Eid Al-Adha celebrations
+
+- Significant focus on regional diplomatic moves, particularly around Yemen peace efforts and Palestinian issue discussions
+
+**Sources**
+
+- [Times of Oman](https://timesofoman.com)
+- [Reuters Gulf](https://www.reuters.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [AP Gulf](https://apnews.com)
+- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
+- [UAE Gov Media Office Twitter](https://twitter.com/UAEmediaoffice)
+- [Qatar News Agency Twitter](https://twitter.com/QNAEnglish)

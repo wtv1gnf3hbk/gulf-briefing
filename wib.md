@@ -1,31 +1,26 @@
-1. **Oman maritime security.** Oman's Maritime Security Centre detected a suspected floating mine in the [Strait of Hormuz](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz), according to the Times of Oman. The incident comes as tensions persist in the vital shipping lane between Iran and the Arabian Peninsula.
+1. **Former Yemen President Dies.** Abd Rabbuh Mansour Hadi, former president of Yemen who led the Internationally Recognized Government during much of the country's civil war, has died. Saudi Crown Prince Mohammed bin Salman and other Saudi officials conveyed condolences to Hadi's family, with Prince Khalid bin Salman describing him as "a wise leader who was keen on the security, stability, development and prosperity of his country." [Hadi led the IRG](https://timesofoman.com/article/172388-president-donald-trump-your-statement-against-oman-is-not-a-passing-mistake-it-is-a-historical-sin) from 2012 until stepping aside in 2022.
 
-2. **Saudi Hajj operations conclude.** Saudi Arabia announced completion of the 2026 Hajj season, with 1.9 million passengers transported via the Holy Mashaer Train system. Prince Khalid bin Salman conveyed the leadership's congratulations on the successful completion of religious services for Muslim pilgrims.
+2. **Oman Detects Floating Mine.** Oman's Maritime Security Centre reported detecting a suspected floating mine in the Strait of Hormuz, according to the Times of Oman. The discovery highlights ongoing security concerns in the vital shipping lane through which roughly 20% of global oil passes. No additional details about the mine's origin or whether it poses [an active threat](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) were immediately available.
 
-3. **Yemen former president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi leadership. Prince Khalid bin Salman described Hadi as "a wise leader who was keen on the security, stability, development and prosperity of his country" in conveying the [kingdom's condolences](https://twitter.com/kbsalsaud).
+3. **Trump Calls Iran Deal Progress.** US and Iran are "very close" to a nuclear agreement but "not there yet," according to Vice President JD Vance, per the BBC. The comments came after President Trump held meetings to make a "final determination" on Iran policy, though [no deal was announced](https://www.bbc.com/news/articles/c87qng40wz9o) following the discussions. Saudi Foreign Minister Prince Faisal bin Farhan welcomed Trump's decision to "give diplomacy a chance" in resolving regional tensions.
 
-4. **Qatar prime minister appointed.** Qatari Emir Sheikh Tamim bin Hamad Al Thani appointed Mohammed bin Abdulrahman Al Thani as Prime Minister. Al Thani expressed gratitude for the trust placed in him and pledged to work with fellow ministers "in serving our nation and contributing to its advancement."
+4. **Hajj Pilgrimage Concludes.** Over 2 million pilgrims completed this year's Hajj pilgrimage in Saudi Arabia, with authorities declaring the season a success. Prince Khalid bin Salman thanked God for "honoring us with serving the Two Holy Mosques and caring for the pilgrims," while Saudi Civil Defense reported [a successful and safe](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) Hajj season. Pilgrims have begun departing Mecca for Medina and onward to their home countries.
 
-5. **UAE economy projections.** The UAE government announced expectations for 6.2% economic growth in 2025, with gross domestic product projected to reach AED 1.9 trillion. The announcement came through official UAE government media channels highlighting economic expansion targets.
+5. **UAE Economy Grows 6.2%.** The UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion during 2025, according to the UAE Government Media Office. The growth reflects the country's economic diversification efforts and continued expansion beyond oil revenues. Sheikh Mohammed bin Rashid also reviewed achievements [in the tourism sector](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) for 2025.
 
-6. **Saudi-US diplomatic talks.** Prince Faisal bin Farhan expressed Saudi Arabia's appreciation for President Trump's "decision to give diplomacy a chance to reach an acceptable agreement to end the war" and restore maritime navigation security in the Strait of Hormuz to pre-February 28 conditions.
+6. **Saudi-Ecuador Football Match.** Saudi Arabia played Ecuador in a friendly match in New Jersey as preparation for the 2026 FIFA World Cup, according to Saudi media reports. Al Ekhbariya TV covered the pre-match atmosphere at Sports Illustrated Stadium, with the game serving as part of Saudi Arabia's preparations for the tournament [they will co-host](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) with the US and Mexico.
 
-7. **Bahrain civil defense rescue.** Bahrain's Civil Defence rescued five children from a house fire in the Aali area without casualties, according to the Ministry of Interior. Investigations are underway to determine the fire's cause, officials said.
+7. **Yemen Envoy Visits Sanaa.** Saudi Ambassador to Yemen Mohammed Al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the truce and ceasefire, support prisoner exchanges, and discuss dialogue between Yemeni factions. The visit aims to build on the Kingdom's 2021 initiative to end the Yemeni crisis and reach [a comprehensive political solution](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) in Yemen.
 
-8. **Kuwait pilgrims return.** Kuwait Airways received its first return flight of pilgrims at Terminal 4, marking the beginning of post-Hajj passenger arrivals. The first groups of pilgrims returned to Kuwait following completion of religious rituals in Saudi Arabia.
+8. **Oman Cultural Expedition Launches.** Prince William of Wales will officially launch the "Oman: The Jewel of Arabia" expedition project in London, building on long-standing UK-Oman ties. The project was unveiled following meetings between Prince William and Omani Minister of Culture, Sports and Youth Sayyid Theyazin bin Haitham Al Said at Windsor Castle to review [bilateral relations](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz) and cooperation opportunities.
 
-9. **Oman UK cultural ties.** Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations. The meeting preceded the official launch of the "Oman: The Jewel of Arabia" expedition project in London.
+9. **Bahrain Rescues Children.** Bahrain's Civil Defense rescued five children from a house fire in the Aali area without casualties, according to the Interior Ministry. Investigations are underway to determine the cause of the fire. The incident demonstrates the kingdom's emergency response capabilities during the [Eid al-Adha holiday period](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz).
 
-10. **Yemen political tensions.** The IRG presidency renewed its request to Saudi Arabia to intervene regarding alleged UAE interference in Yemeni affairs. The statement came through official Saba News Agency channels representing the internationally recognized government.
+10. **Kuwait Celestial Alignment.** A striking celestial alignment captivated onlookers in Kuwait as the full moon positioned itself directly above a local mosque minaret's crescent. The cosmic display coincided with the eve of a rare "Blue Moon" phenomenon, marking the second full moon of the month, according to [Kuwait News Agency](https://timesofoman.com/article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz).
 
 **Sources:**
-- [Times of Oman](https://timesofoman.com/)
-- [Saudi Press Agency (Arabic)](https://twitter.com/spagov)
-- [Prince Khalid bin Salman](https://twitter.com/kbsalsaud)
-- [Qatar PM Al Thani](https://twitter.com/MBA_AlThani_)
-- [UAE Gov Media Office](https://twitter.com/UAEmediaoffice)
-- [Prince Faisal bin Farhan](https://twitter.com/FaisalbinFarhan)
-- [Bahrain Interior Ministry](https://twitter.com/moi_bahrain)
-- [Kuwait News Agency](https://twitter.com/kuna_en)
-- [Oman News Agency](https://twitter.com/ONA_eng)
-- [Saba News Agency IRG](https://twitter.com/sabanew_)
+- [Times of Oman](https://timesofoman.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Reuters Gulf](https://www.reuters.com/business/)
+- [AP Gulf](https://apnews.com)
+- [Google News Gulf](https://news.google.com)
