@@ -4,15 +4,15 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-05-31T00:11:10.149Z",
-    "generatedTimestamp": 1780186270149
+    "generated": "2026-05-31T02:08:19.883Z",
+    "generatedTimestamp": 1780193299883
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
-    "totalStories": 45,
+    "totalStories": 44,
     "totalScreenshots": 66,
-    "elapsed": "489.5s"
+    "elapsed": "435.0s"
   },
   "stories": {
     "all": [
@@ -157,16 +157,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1"
       },
       {
-        "headline": "Business News | Today's International Headlines - Reuters",
-        "url": "https://www.reuters.com/business/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 30 May 2016 10:37:32 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1TmViR1BxSFZva3FBRTB2NmE1dFhGWVFMVzlhdUNwY2tvQW94Qzl5RFBYUUdxS0RMa1JITlM0dGthVklCX2xpZQ?oc=5\" target=\"_blank\"&gt;Business News | Today's"
-      },
-      {
         "headline": "Pictures of the year: Sports - Reuters",
         "url": "https://www.reuters.com/news/picture/idUSRTSDVVXN/",
         "source": "Reuters Gulf",
@@ -207,6 +197,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
       },
       {
+        "headline": "Japan pushes back against accusations of 'new militarism' - Reuters",
+        "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 01:50:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+      },
+      {
         "headline": "FATMA KHALED - AP News",
         "url": "https://apnews.com/author/fatma-khaled",
         "source": "AP Gulf",
@@ -228,7 +228,7 @@
       },
       {
         "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-        "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -237,14 +237,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
       },
       {
-        "headline": "Sports - Europe - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5",
+        "headline": "US &amp; International Top News Stories Today - AP News",
+        "url": "https://apnews.com/hub/apf-topnews?output=rss&p=48",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 14:26:49 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5\" target=\"_blank\"&gt;Sports - Europe&lt"
+        "date": "Sat, 30 May 2026 10:33:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMGpud1hvWHBDQ0UwLWVuQThudGNGbXlQelpOREVlRElFRnpvVTRxa1NDWE1hcU5lLXBsX25jMW05cTRRM0NjaVZ5d2dYVVdMbXNpMng4VkI0aFgtZzJV?oc=5\" target=\"_bla"
       },
       {
         "headline": "STEVE DOUGLAS - AP News",
@@ -253,18 +253,8 @@
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 18:14:01 GMT",
+        "date": "Sat, 30 May 2026 23:11:19 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
-      },
-      {
-        "headline": "France - AP News",
-        "url": "https://apnews.com/hub/france",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 11:13:59 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
       },
       {
         "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -378,6 +368,17 @@
         "originalHeadline": "موعد والقنوات الناق��ة لمباراة السعودية والإكوادور اليوم وديًا - بطولات"
       },
       {
+        "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
+        "url": "https://www.almasryalyoum.com/news/details/4281715",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 21:28:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd",
+        "originalHeadline": "القنوات الناقلة مباشر لمباراة السعودية والإكوادور استعدادًا لكأس العالم 2026 - المصري اليوم"
+      },
+      {
         "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
         "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
         "source": "Google News Gulf (Arabic)",
@@ -387,6 +388,17 @@
         "date": "Sat, 30 May 2026 20:01:06 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
         "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+      },
+      {
+        "headline": "It was revealed that American soldiers were injured following the Iranian attack on Kuwait last Wednesday - Youm7",
+        "url": "https://www.youm7.com/story/2026/5/31/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D9%86%D9%88%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/7433188",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 00:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gNBVV95cUxOVVZnRFZvUXpMQUxmUi1xNjhzajM3RHBaYnMtYjFXQmZYSXEyQ2JqYmhGWjlkQVlKR2hRZ2RlOHNkMTF2YkgxNlhzZ0NwRjczRTVfeGJYOXRQZ0lKWU0yU3dpVG5YSVk1NFVhYkJ",
+        "originalHeadline": "الكشف عن إصابة جنود أمريكيين إثر الهجوم الإيرانى على الكويت الأربعاء الماضى - اليوم السابع"
       },
       {
         "headline": "Live broadcast.. Watch the friendly match between Saudi Arabia and Ecuador now - 365Scores",
@@ -400,8 +412,19 @@
         "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
       },
       {
+        "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
+        "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sat, 30 May 2026 20:58:56 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
+        "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
+      },
+      {
         "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-        "url": "https://validate.perfdrive.com/?ssa=3d3d7b36-5e49-4d6d-9a0f-4e43a0eb48f0&ssb=09263251014&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fnewsroom%2F1871504-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%258A%25D8%25AD%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2588%25D9%2582%25D8%25B7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2586%25D8%25B6%25D9%2585%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D9%2581%25D8%25A7%25D9%2582%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25B1%25D8%25A7%25D9%2587%25D9%258A%25D9%2585%25D9%258A%25D8%25A9&ssi=73dfadc2-cf43-437d-8337-20e46e4590e8&ssk=botmanager_support@radware.com&ssm=66615457464744979108650126893533&ssn=4f5ed14651220b628580ed1be2bdddafbd902bd6cd94-f5f0-4346-bb60a5&sso=a22fabb2-43214980335824914f8c815ad13dda84261d848c646a1390&ssp=42322179511780169716178014435207877&ssq=85593778626698093831286266023678444212938&ssr=MjAuMjUuMTAuNjg=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMGZkNWRlODE3LWFhNDEtNGUwNy1hMjk5LWI1NjE0MWJiNGJjODEtMTc4MDE4NjI2NjI1MzAtYTI4NWViYWMwZjc3YTRjODEwIiwiX191em1mIjoiN2Y5MDAwMmJkNmNkOTQtZjVmMC00MzQ2LWJiYjItNDMyMTQ5ODAzMzU4MS0xNzgwMTg2MjY2MjUzMC0wMDM2MzJiMzQyNmRmMGQyYTkzMTAifQ==",
+        "url": "https://www.skynewsarabia.com/program/newsroom/1871504-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AD%D8%B6-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%D8%A9",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -422,28 +445,6 @@
         "originalHeadline": "الموعد والمنصة الناقلة لمباراة السعودية والإكوادور الودية - إرم نيوز"
       },
       {
-        "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 20:21:29 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
-        "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
-      },
-      {
-        "headline": "Trump's threats to \"neutral\" Oman: a slip of the tongue or a state of despair and confusion? - dw.com",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTBOUFJIV2pkQ2NSamc1VnBKN3FybXREWE5GOHBVemlxX1JDakY0bThlMWNHREk1ZTQ1Q2lDR1dEaExiWExWcE5ZdzB1U2ZnQnhYV0xWdUd1RU45dWc4S3M5aFUyWHBtV2FfSUdIYk1BSW1ZV1BDSlp5VmZ3M1dFTGJHYmdSa3VIZHhWMTVDV1NaWWlRS2cwVGhEdjh1QjJUM3ZrbmJXcThDM0JFcXhIMnNxOTd4Nll0SlFlRUJMUnNLQkN2ZzJaR05RQmFYZktjQUEyY1lJb3FRVzktVEduYjBPaHNxU2FEX1g0OE1KVEVRcVFqOEcybGZKLTJfY1dvT3V6SHRNTnF3SXdRQkVuZDlvUVlQR1FISGQ5NTQyQUItWUtvRnRMTUItcGhEMkNyUkZreURTM2ZxcVBfN1RsUy1FWnY2WHBFdUlxWkl3NjB0OTFsbjRndWZjajB4ZnF5djE4Y0NkU2Vi0gHMA0FVX3lxTE5BZVUtWXBhSUxfX2V1VGdYbjA3UEFENGhyRmRUV0MtTXkwVV8xdjI5VTRnUzN0aUZhZTlJR19NZ3JWTFBBWV9FMlNDX0Z0MTg3UTNEb21Sa3J0TmY5dElaSUpKT202bDJ0eUVRME5QUkhXamRDY1JqZzVWcEo3cXJtdERYTkY4cFV6aXFfUkNqRjRtOGUxY0dESTVlNDVDaUNHV0RoTGJYTFZwTll3MHVTZmdCeFhXTFZ1R3VFTjl1ZzhLczloVTJYcG1XYV9JR0hiTUFJbVlXUENKWnlWZnczV0VMYkdiZ1JrdUhkeFYxNUNXU1pZaVFLZzBUaER2OHVCMlQzdmtuYldxOEMzQkVxeEgyc3E5N3g2WXRKUWVFQkxSc0tCQ3ZnMlpHTlFCYVhmS2NBQTJjWUlvcVFXOS1UR25iME9oc3FTYURfWDQ4TUpURVFxUWo4RzJsZkotMl9jV29PdXpIdE1OcXdJd1FCRW5kOW9RWVBHUUhIZDk1NDJBQi1ZS29GdExNQi1waEQyQ3JSRmt5RFMzZnFxUF83VGxTLUVadjZYcEV1SXFaSXc2MHQ5MWxuNGd1ZmNqMHhmcXl2MThjQ2RTZWI?oc=5",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 17:38:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTB",
-        "originalHeadline": "تهديدات ترامب لعمان \"المحايدة\".. زلة لسان أم حالة يأس وتخبط؟ - dw.com"
-      },
-      {
         "headline": "Hydrogen in the Sultanate of Oman is a model for energy and water governance (report) - Energy",
         "url": "https://attaqa.net/2026/05/31/%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9/",
         "source": "Google News Gulf (Arabic)",
@@ -455,26 +456,15 @@
         "originalHeadline": "الهيدروجين في سلطنة عمان نموذج لحوكمة الطاقة والمياه (تقرير) - الطاقة"
       },
       {
-        "headline": "The Saudi Ministry of Interior announces the successful end of the Hajj season - Youm7",
-        "url": "https://www.youm7.com/story/2026/5/30/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A8%D9%86%D8%AC%D8%A7%D8%AD/7433026",
+        "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
+        "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Sat, 30 May 2026 16:50:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwNBVV95cUxOY253b1I5cmZaWV9fYmIzMEU1YzExSktwaHg1bmhSSkFJOHNUVFM5dUhpaTcyRkFZM2tHN3RSOGxUNUtmNjhSaXF2MDNKUFJnM3IwVFd2OVRhN1E3YTNUTjVYNUJSaWhXMGpzWld",
-        "originalHeadline": "وزارة الداخلية السعودية تعلن انتهاء موسم الحج بنجاح - اليوم السابع"
-      },
-      {
-        "headline": "The UAE raises gasoline prices for June and reduces diesel prices - Mubasher Info",
-        "url": "https://www.mubasher.info/news/4619470/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D9%84%D8%B4%D9%87%D8%B1-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D9%88%D8%AA%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84/",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 20:42:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxPcjZrc3lwUG83NXdHeS1NRUFERDRfWEF2QW5MSEhaTEJRelNORFAtZFFMOHp3eDRYLWdQb0FIV3lXd1lCSWpmVld1U3RfeGdNUFA2NEpibXR2bHowUmJCd1EzTGM1Rk5JV2g5ZV9",
-        "originalHeadline": "الإمارات ترفع أسعار البنزين لشهر يونيو وتخفض الد��زل - معلومات مباشر"
+        "date": "Sat, 30 May 2026 20:25:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
+        "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
       }
     ],
     "byCategory": {
@@ -622,16 +612,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1"
         },
         {
-          "headline": "Business News | Today's International Headlines - Reuters",
-          "url": "https://www.reuters.com/business/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 30 May 2016 10:37:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1TmViR1BxSFZva3FBRTB2NmE1dFhGWVFMVzlhdUNwY2tvQW94Qzl5RFBYUUdxS0RMa1JITlM0dGthVklCX2xpZQ?oc=5\" target=\"_blank\"&gt;Business News | Today's"
-        },
-        {
           "headline": "Pictures of the year: Sports - Reuters",
           "url": "https://www.reuters.com/news/picture/idUSRTSDVVXN/",
           "source": "Reuters Gulf",
@@ -672,6 +652,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
         },
         {
+          "headline": "Japan pushes back against accusations of 'new militarism' - Reuters",
+          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 01:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+        },
+        {
           "headline": "FATMA KHALED - AP News",
           "url": "https://apnews.com/author/fatma-khaled",
           "source": "AP Gulf",
@@ -693,7 +683,7 @@
         },
         {
           "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -702,14 +692,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
         },
         {
-          "headline": "Sports - Europe - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5",
+          "headline": "US &amp; International Top News Stories Today - AP News",
+          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=48",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 14:26:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5\" target=\"_blank\"&gt;Sports - Europe&lt"
+          "date": "Sat, 30 May 2026 10:33:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMGpud1hvWHBDQ0UwLWVuQThudGNGbXlQelpOREVlRElFRnpvVTRxa1NDWE1hcU5lLXBsX25jMW05cTRRM0NjaVZ5d2dYVVdMbXNpMng4VkI0aFgtZzJV?oc=5\" target=\"_bla"
         },
         {
           "headline": "STEVE DOUGLAS - AP News",
@@ -718,18 +708,8 @@
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 18:14:01 GMT",
+          "date": "Sat, 30 May 2026 23:11:19 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
-        },
-        {
-          "headline": "France - AP News",
-          "url": "https://apnews.com/hub/france",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 11:13:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
         }
       ],
       "competitors": [
@@ -847,6 +827,17 @@
           "originalHeadline": "موعد والقنوات الناق��ة لمباراة السعودية والإكوادور اليوم وديًا - بطولات"
         },
         {
+          "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
+          "url": "https://www.almasryalyoum.com/news/details/4281715",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 21:28:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd",
+          "originalHeadline": "القنوات الناقلة مباشر لمباراة السعودية والإكوادور استعدادًا لكأس العالم 2026 - المصري اليوم"
+        },
+        {
           "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
           "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
           "source": "Google News Gulf (Arabic)",
@@ -856,6 +847,17 @@
           "date": "Sat, 30 May 2026 20:01:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
           "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+        },
+        {
+          "headline": "It was revealed that American soldiers were injured following the Iranian attack on Kuwait last Wednesday - Youm7",
+          "url": "https://www.youm7.com/story/2026/5/31/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D9%86%D9%88%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/7433188",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 00:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gNBVV95cUxOVVZnRFZvUXpMQUxmUi1xNjhzajM3RHBaYnMtYjFXQmZYSXEyQ2JqYmhGWjlkQVlKR2hRZ2RlOHNkMTF2YkgxNlhzZ0NwRjczRTVfeGJYOXRQZ0lKWU0yU3dpVG5YSVk1NFVhYkJ",
+          "originalHeadline": "الكشف عن إصابة جنود أمريكيين إثر الهجوم الإيرانى على الكويت الأربعاء الماضى - اليوم السابع"
         },
         {
           "headline": "Live broadcast.. Watch the friendly match between Saudi Arabia and Ecuador now - 365Scores",
@@ -869,8 +871,19 @@
           "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
         },
         {
+          "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 20:58:56 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
+          "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
+        },
+        {
           "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-          "url": "https://validate.perfdrive.com/?ssa=3d3d7b36-5e49-4d6d-9a0f-4e43a0eb48f0&ssb=09263251014&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fnewsroom%2F1871504-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%258A%25D8%25AD%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2588%25D9%2582%25D8%25B7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2586%25D8%25B6%25D9%2585%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D9%2581%25D8%25A7%25D9%2582%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25B1%25D8%25A7%25D9%2587%25D9%258A%25D9%2585%25D9%258A%25D8%25A9&ssi=73dfadc2-cf43-437d-8337-20e46e4590e8&ssk=botmanager_support@radware.com&ssm=66615457464744979108650126893533&ssn=4f5ed14651220b628580ed1be2bdddafbd902bd6cd94-f5f0-4346-bb60a5&sso=a22fabb2-43214980335824914f8c815ad13dda84261d848c646a1390&ssp=42322179511780169716178014435207877&ssq=85593778626698093831286266023678444212938&ssr=MjAuMjUuMTAuNjg=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMGZkNWRlODE3LWFhNDEtNGUwNy1hMjk5LWI1NjE0MWJiNGJjODEtMTc4MDE4NjI2NjI1MzAtYTI4NWViYWMwZjc3YTRjODEwIiwiX191em1mIjoiN2Y5MDAwMmJkNmNkOTQtZjVmMC00MzQ2LWJiYjItNDMyMTQ5ODAzMzU4MS0xNzgwMTg2MjY2MjUzMC0wMDM2MzJiMzQyNmRmMGQyYTkzMTAifQ==",
+          "url": "https://www.skynewsarabia.com/program/newsroom/1871504-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AD%D8%B6-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -891,28 +904,6 @@
           "originalHeadline": "الموعد والمنصة الناقلة لمباراة السعودية والإكوادور الودية - إرم نيوز"
         },
         {
-          "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:21:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
-          "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
-        },
-        {
-          "headline": "Trump's threats to \"neutral\" Oman: a slip of the tongue or a state of despair and confusion? - dw.com",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTBOUFJIV2pkQ2NSamc1VnBKN3FybXREWE5GOHBVemlxX1JDakY0bThlMWNHREk1ZTQ1Q2lDR1dEaExiWExWcE5ZdzB1U2ZnQnhYV0xWdUd1RU45dWc4S3M5aFUyWHBtV2FfSUdIYk1BSW1ZV1BDSlp5VmZ3M1dFTGJHYmdSa3VIZHhWMTVDV1NaWWlRS2cwVGhEdjh1QjJUM3ZrbmJXcThDM0JFcXhIMnNxOTd4Nll0SlFlRUJMUnNLQkN2ZzJaR05RQmFYZktjQUEyY1lJb3FRVzktVEduYjBPaHNxU2FEX1g0OE1KVEVRcVFqOEcybGZKLTJfY1dvT3V6SHRNTnF3SXdRQkVuZDlvUVlQR1FISGQ5NTQyQUItWUtvRnRMTUItcGhEMkNyUkZreURTM2ZxcVBfN1RsUy1FWnY2WHBFdUlxWkl3NjB0OTFsbjRndWZjajB4ZnF5djE4Y0NkU2Vi0gHMA0FVX3lxTE5BZVUtWXBhSUxfX2V1VGdYbjA3UEFENGhyRmRUV0MtTXkwVV8xdjI5VTRnUzN0aUZhZTlJR19NZ3JWTFBBWV9FMlNDX0Z0MTg3UTNEb21Sa3J0TmY5dElaSUpKT202bDJ0eUVRME5QUkhXamRDY1JqZzVWcEo3cXJtdERYTkY4cFV6aXFfUkNqRjRtOGUxY0dESTVlNDVDaUNHV0RoTGJYTFZwTll3MHVTZmdCeFhXTFZ1R3VFTjl1ZzhLczloVTJYcG1XYV9JR0hiTUFJbVlXUENKWnlWZnczV0VMYkdiZ1JrdUhkeFYxNUNXU1pZaVFLZzBUaER2OHVCMlQzdmtuYldxOEMzQkVxeEgyc3E5N3g2WXRKUWVFQkxSc0tCQ3ZnMlpHTlFCYVhmS2NBQTJjWUlvcVFXOS1UR25iME9oc3FTYURfWDQ4TUpURVFxUWo4RzJsZkotMl9jV29PdXpIdE1OcXdJd1FCRW5kOW9RWVBHUUhIZDk1NDJBQi1ZS29GdExNQi1waEQyQ3JSRmt5RFMzZnFxUF83VGxTLUVadjZYcEV1SXFaSXc2MHQ5MWxuNGd1ZmNqMHhmcXl2MThjQ2RTZWI?oc=5",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 17:38:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTB",
-          "originalHeadline": "تهديدات ترامب لعمان \"المحايدة\".. زلة لسان أم حالة يأس وتخبط؟ - dw.com"
-        },
-        {
           "headline": "Hydrogen in the Sultanate of Oman is a model for energy and water governance (report) - Energy",
           "url": "https://attaqa.net/2026/05/31/%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9/",
           "source": "Google News Gulf (Arabic)",
@@ -924,26 +915,15 @@
           "originalHeadline": "الهيدروجين في سلطنة عمان نموذج لحوكمة الطاقة والمياه (تقرير) - الطاقة"
         },
         {
-          "headline": "The Saudi Ministry of Interior announces the successful end of the Hajj season - Youm7",
-          "url": "https://www.youm7.com/story/2026/5/30/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A8%D9%86%D8%AC%D8%A7%D8%AD/7433026",
+          "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 16:50:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwNBVV95cUxOY253b1I5cmZaWV9fYmIzMEU1YzExSktwaHg1bmhSSkFJOHNUVFM5dUhpaTcyRkFZM2tHN3RSOGxUNUtmNjhSaXF2MDNKUFJnM3IwVFd2OVRhN1E3YTNUTjVYNUJSaWhXMGpzWld",
-          "originalHeadline": "وزارة الداخلية السعودية تعلن انتهاء موسم الحج بنجاح - اليوم السابع"
-        },
-        {
-          "headline": "The UAE raises gasoline prices for June and reduces diesel prices - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4619470/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D9%84%D8%B4%D9%87%D8%B1-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D9%88%D8%AA%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:42:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxPcjZrc3lwUG83NXdHeS1NRUFERDRfWEF2QW5MSEhaTEJRelNORFAtZFFMOHp3eDRYLWdQb0FIV3lXd1lCSWpmVld1U3RfeGdNUFA2NEpibXR2bHowUmJCd1EzTGM1Rk5JV2g5ZV9",
-          "originalHeadline": "الإمارات ترفع أسعار البنزين لشهر يونيو وتخفض الد��زل - معلومات مباشر"
+          "date": "Sat, 30 May 2026 20:25:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
+          "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
         }
       ]
     },
@@ -990,16 +970,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1"
         },
         {
-          "headline": "Business News | Today's International Headlines - Reuters",
-          "url": "https://www.reuters.com/business/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 30 May 2016 10:37:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1TmViR1BxSFZva3FBRTB2NmE1dFhGWVFMVzlhdUNwY2tvQW94Qzl5RFBYUUdxS0RMa1JITlM0dGthVklCX2xpZQ?oc=5\" target=\"_blank\"&gt;Business News | Today's"
-        },
-        {
           "headline": "Pictures of the year: Sports - Reuters",
           "url": "https://www.reuters.com/news/picture/idUSRTSDVVXN/",
           "source": "Reuters Gulf",
@@ -1040,6 +1010,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
         },
         {
+          "headline": "Japan pushes back against accusations of 'new militarism' - Reuters",
+          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 01:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+        },
+        {
           "headline": "FATMA KHALED - AP News",
           "url": "https://apnews.com/author/fatma-khaled",
           "source": "AP Gulf",
@@ -1061,7 +1041,7 @@
         },
         {
           "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1070,14 +1050,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVll"
         },
         {
-          "headline": "Sports - Europe - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5",
+          "headline": "US &amp; International Top News Stories Today - AP News",
+          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=48",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 14:26:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmeF9SX3lXWEItN0JCTFdxRnlzV3NWZkFZdmxsZkJsanNPNENWbXRvd3V2MXV4Q3dKdU9PY2lwR0lTX2Mwb0U5X3JlMW0?oc=5\" target=\"_blank\"&gt;Sports - Europe&lt"
+          "date": "Sat, 30 May 2026 10:33:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMGpud1hvWHBDQ0UwLWVuQThudGNGbXlQelpOREVlRElFRnpvVTRxa1NDWE1hcU5lLXBsX25jMW05cTRRM0NjaVZ5d2dYVVdMbXNpMng4VkI0aFgtZzJV?oc=5\" target=\"_bla"
         },
         {
           "headline": "STEVE DOUGLAS - AP News",
@@ -1086,18 +1066,8 @@
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 18:14:01 GMT",
+          "date": "Sat, 30 May 2026 23:11:19 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
-        },
-        {
-          "headline": "France - AP News",
-          "url": "https://apnews.com/hub/france",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 11:13:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1maV9hRzNRN0RzbW9WbktjSGZ0YTRoSVBBU09xSmZMMDBtZTYwYlZUTV95elNJcGc5WnQwOVJpQXRpYXM?oc=5\" target=\"_blank\"&gt;France&lt;/a&gt;&amp;nbsp;&amp"
         },
         {
           "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -1211,6 +1181,17 @@
           "originalHeadline": "موعد والقنوات الناق��ة لمباراة السعودية والإكوادور اليوم وديًا - بطولات"
         },
         {
+          "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
+          "url": "https://www.almasryalyoum.com/news/details/4281715",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 21:28:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd",
+          "originalHeadline": "القنوات الناقلة مباشر لمباراة السعودية والإكوادور استعدادًا لكأس العالم 2026 - المصري اليوم"
+        },
+        {
           "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
           "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
           "source": "Google News Gulf (Arabic)",
@@ -1220,6 +1201,17 @@
           "date": "Sat, 30 May 2026 20:01:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
           "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+        },
+        {
+          "headline": "It was revealed that American soldiers were injured following the Iranian attack on Kuwait last Wednesday - Youm7",
+          "url": "https://www.youm7.com/story/2026/5/31/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D9%86%D9%88%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/7433188",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 00:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gNBVV95cUxOVVZnRFZvUXpMQUxmUi1xNjhzajM3RHBaYnMtYjFXQmZYSXEyQ2JqYmhGWjlkQVlKR2hRZ2RlOHNkMTF2YkgxNlhzZ0NwRjczRTVfeGJYOXRQZ0lKWU0yU3dpVG5YSVk1NFVhYkJ",
+          "originalHeadline": "الكشف عن إصابة جنود أمريكيين إثر الهجوم الإيرانى على الكويت الأربعاء الماضى - اليوم السابع"
         },
         {
           "headline": "Live broadcast.. Watch the friendly match between Saudi Arabia and Ecuador now - 365Scores",
@@ -1233,8 +1225,19 @@
           "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
         },
         {
+          "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
+          "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sat, 30 May 2026 20:58:56 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
+          "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
+        },
+        {
           "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-          "url": "https://validate.perfdrive.com/?ssa=3d3d7b36-5e49-4d6d-9a0f-4e43a0eb48f0&ssb=09263251014&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fnewsroom%2F1871504-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%258A%25D8%25AD%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2588%25D9%2582%25D8%25B7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2586%25D8%25B6%25D9%2585%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D9%2581%25D8%25A7%25D9%2582%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25B1%25D8%25A7%25D9%2587%25D9%258A%25D9%2585%25D9%258A%25D8%25A9&ssi=73dfadc2-cf43-437d-8337-20e46e4590e8&ssk=botmanager_support@radware.com&ssm=66615457464744979108650126893533&ssn=4f5ed14651220b628580ed1be2bdddafbd902bd6cd94-f5f0-4346-bb60a5&sso=a22fabb2-43214980335824914f8c815ad13dda84261d848c646a1390&ssp=42322179511780169716178014435207877&ssq=85593778626698093831286266023678444212938&ssr=MjAuMjUuMTAuNjg=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwidXpteCI6IjdmOTAwMGZkNWRlODE3LWFhNDEtNGUwNy1hMjk5LWI1NjE0MWJiNGJjODEtMTc4MDE4NjI2NjI1MzAtYTI4NWViYWMwZjc3YTRjODEwIiwiX191em1mIjoiN2Y5MDAwMmJkNmNkOTQtZjVmMC00MzQ2LWJiYjItNDMyMTQ5ODAzMzU4MS0xNzgwMTg2MjY2MjUzMC0wMDM2MzJiMzQyNmRmMGQyYTkzMTAifQ==",
+          "url": "https://www.skynewsarabia.com/program/newsroom/1871504-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AD%D8%B6-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%82%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1255,28 +1258,6 @@
           "originalHeadline": "الموعد والمنصة الناقلة لمباراة السعودية والإكوادور الودية - إرم نيوز"
         },
         {
-          "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:21:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
-          "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
-        },
-        {
-          "headline": "Trump's threats to \"neutral\" Oman: a slip of the tongue or a state of despair and confusion? - dw.com",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTBOUFJIV2pkQ2NSamc1VnBKN3FybXREWE5GOHBVemlxX1JDakY0bThlMWNHREk1ZTQ1Q2lDR1dEaExiWExWcE5ZdzB1U2ZnQnhYV0xWdUd1RU45dWc4S3M5aFUyWHBtV2FfSUdIYk1BSW1ZV1BDSlp5VmZ3M1dFTGJHYmdSa3VIZHhWMTVDV1NaWWlRS2cwVGhEdjh1QjJUM3ZrbmJXcThDM0JFcXhIMnNxOTd4Nll0SlFlRUJMUnNLQkN2ZzJaR05RQmFYZktjQUEyY1lJb3FRVzktVEduYjBPaHNxU2FEX1g0OE1KVEVRcVFqOEcybGZKLTJfY1dvT3V6SHRNTnF3SXdRQkVuZDlvUVlQR1FISGQ5NTQyQUItWUtvRnRMTUItcGhEMkNyUkZreURTM2ZxcVBfN1RsUy1FWnY2WHBFdUlxWkl3NjB0OTFsbjRndWZjajB4ZnF5djE4Y0NkU2Vi0gHMA0FVX3lxTE5BZVUtWXBhSUxfX2V1VGdYbjA3UEFENGhyRmRUV0MtTXkwVV8xdjI5VTRnUzN0aUZhZTlJR19NZ3JWTFBBWV9FMlNDX0Z0MTg3UTNEb21Sa3J0TmY5dElaSUpKT202bDJ0eUVRME5QUkhXamRDY1JqZzVWcEo3cXJtdERYTkY4cFV6aXFfUkNqRjRtOGUxY0dESTVlNDVDaUNHV0RoTGJYTFZwTll3MHVTZmdCeFhXTFZ1R3VFTjl1ZzhLczloVTJYcG1XYV9JR0hiTUFJbVlXUENKWnlWZnczV0VMYkdiZ1JrdUhkeFYxNUNXU1pZaVFLZzBUaER2OHVCMlQzdmtuYldxOEMzQkVxeEgyc3E5N3g2WXRKUWVFQkxSc0tCQ3ZnMlpHTlFCYVhmS2NBQTJjWUlvcVFXOS1UR25iME9oc3FTYURfWDQ4TUpURVFxUWo4RzJsZkotMl9jV29PdXpIdE1OcXdJd1FCRW5kOW9RWVBHUUhIZDk1NDJBQi1ZS29GdExNQi1waEQyQ3JSRmt5RFMzZnFxUF83VGxTLUVadjZYcEV1SXFaSXc2MHQ5MWxuNGd1ZmNqMHhmcXl2MThjQ2RTZWI?oc=5",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 17:38:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOQWVVLVlwYUlMX19ldVRnWG4wN1BBRDRockZkVFdDLU15MFVfMXYyOVU0Z1MzdGlGYWU5SUdfTWdyVkxQQVlfRTJTQ19GdDE4N1EzRG9tUmtydE5mOXRJWklKSk9tNmwydHlFUTB",
-          "originalHeadline": "تهديدات ترامب لعمان \"المحايدة\".. زلة لسان أم حالة يأس وتخبط؟ - dw.com"
-        },
-        {
           "headline": "Hydrogen in the Sultanate of Oman is a model for energy and water governance (report) - Energy",
           "url": "https://attaqa.net/2026/05/31/%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9/",
           "source": "Google News Gulf (Arabic)",
@@ -1288,26 +1269,15 @@
           "originalHeadline": "الهيدروجين في سلطنة عمان نموذج لحوكمة الطاقة والمياه (تقرير) - الطاقة"
         },
         {
-          "headline": "The Saudi Ministry of Interior announces the successful end of the Hajj season - Youm7",
-          "url": "https://www.youm7.com/story/2026/5/30/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AD%D8%AC-%D8%A8%D9%86%D8%AC%D8%A7%D8%AD/7433026",
+          "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Sat, 30 May 2026 16:50:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwNBVV95cUxOY253b1I5cmZaWV9fYmIzMEU1YzExSktwaHg1bmhSSkFJOHNUVFM5dUhpaTcyRkFZM2tHN3RSOGxUNUtmNjhSaXF2MDNKUFJnM3IwVFd2OVRhN1E3YTNUTjVYNUJSaWhXMGpzWld",
-          "originalHeadline": "وزارة الداخلية السعودية تعلن انتهاء موسم الحج بنجاح - اليوم السابع"
-        },
-        {
-          "headline": "The UAE raises gasoline prices for June and reduces diesel prices - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4619470/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D9%84%D8%B4%D9%87%D8%B1-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D9%88%D8%AA%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:42:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxPcjZrc3lwUG83NXdHeS1NRUFERDRfWEF2QW5MSEhaTEJRelNORFAtZFFMOHp3eDRYLWdQb0FIV3lXd1lCSWpmVld1U3RfeGdNUFA2NEpibXR2bHowUmJCd1EzTGM1Rk5JV2g5ZV9",
-          "originalHeadline": "الإمارات ترفع أسعار البنزين لشهر يونيو وتخفض الد��زل - معلومات مباشر"
+          "date": "Sat, 30 May 2026 20:25:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjB",
+          "originalHeadline": "\"اقتصاد المياومة\".. الزيت بالكوب والسمن بالملعقة لتفادي الجوع في اليمن - الجزيرة نت"
         }
       ],
       "secondary": [
@@ -1715,6 +1685,18 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Guests of the Custodian of the Two Holy Mosques Hajj Program depart from Mecca to Medina",
+          "timestamp": "2026-05-31T01:27:12.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060895841213133024",
+          "originalText": "ضيوف برنامج خادم الحرمين الشريفين للحج يغادرون مكة المكرمة إلى المدينة المنورة"
+        },
+        {
+          "text": "The Saudi national anthem at Sports Illustrated Stadium, photographed by Al-Ekhbariya \n\n#Saudi_Ecuador | #News_Sports",
+          "timestamp": "2026-05-31T00:08:06.000Z",
+          "permalink": "https://x.com/alekhbariyaSPO/status/2060875935331598729",
+          "originalText": "النشيد الوطني السعودي  في استاد سبورتس إليستريتد بعدسة الإخبارية \n\n#السعودية_الإكوادور | #الإخبارية_رياضة"
+        },
+        {
           "text": "Sports Illustrated Stadium, a few moments before the start of the first friendly match of our national team against Ecuador in preparation for the #WorldCup 2026 \n\n#Saudi_Ecuador | #News_Sports",
           "timestamp": "2026-05-30T23:51:46.000Z",
           "permalink": "https://x.com/alekhbariyaSPO/status/2060871822468395256",
@@ -1731,18 +1713,6 @@
           "timestamp": "2026-05-30T23:26:04.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2060865356537745643",
           "originalText": "اليوم.. بدء إصدار تأشيرات العمرة ودخول المعتمرين إلى المملكة"
-        },
-        {
-          "text": "From Khafji to the holy sites\n\nThe Kingdom is a “haven of safety”...a journey of faith surrounded by care, safety and reassurance\n\nVia Al-Ekhbariya correspondent Ahmed Ghaly\n\n#Hajj_across_news",
-          "timestamp": "2026-05-30T21:58:04.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060843208263811413",
-          "originalText": "من الخفجي إلى المشاعر المقدسة\n\nالمملكة \"ملاذ الآمنين\".. رحلة إيمانية أحاطتها الرعاية والأمان والاطمئنان\n\nعبر مراسل الإخبارية أحمد غالي\n\n#الحج_عبر_الإخبارية"
-        },
-        {
-          "text": "Hajj Turkiya Al-Abdullah, from the northern border: They served us, the elderly, at the best level, and everyone provided us with “the greatest service” in this year’s Hajj.\n\n#Hajj_across_news",
-          "timestamp": "2026-05-30T21:40:53.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2060838887090459091",
-          "originalText": "الحاجة \"تركية العبدالله\" من أهالي الحدود الشمالية: خدمونا نحن كبار السن بأفضل مستوى والجميع قدموا لنا \"أكبر خدمة\" في حج هذا العام\n\n#الحج_عبر_الإخبارية"
         }
       ]
     },
@@ -2078,12 +2048,6 @@
           "text": "On the occasion of Eid Al Adha, I extend my warmest wishes to the President of the UAE, its leadership and the people of the UAE.\nMay this blessed occasion bring joy, blessings, and prosperity to the Arab and Muslim nations.",
           "timestamp": "2026-05-27T08:26:32.000Z",
           "permalink": "https://x.com/hhtbzayed/status/2059551818640941533"
-        },
-        {
-          "text": "I chaired the second meeting of the Board of Directors of MGX for the year 2026, where we reviewed the new investments and the performance of the investment portfolio, and discussed growth priorities in the next phase in order to enhance the company’s value and keep pace with its strategic directions.\n\nWe also discussed MGX's contributions to supporting the global expansion of infrastructure",
-          "timestamp": "2026-05-25T08:00:55.000Z",
-          "permalink": "https://x.com/hhtbzayed/status/2058820592921432358",
-          "originalText": "ترأست الاجتماع الثاني لمجلس إدارة شركة إم جي إكس لعام 2026، حيث استعرضنا الاستثمارات الجديدة وأداء المحفظة الاستثمارية، وناقشنا أولويات النمو في المرحلة المقبلة بما يعزز قيمة الشركة ويواكب توجهاتها الاستراتيجية.\n\nكما تناولنا إسهامات إم جي إكس في دعم التوسع العالمي للبنية التحتية"
         }
       ]
     },
