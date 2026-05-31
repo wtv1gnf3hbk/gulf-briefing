@@ -4,18 +4,38 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-05-31T04:10:20.595Z",
-    "generatedTimestamp": 1780200620595
+    "generated": "2026-05-31T05:08:22.437Z",
+    "generatedTimestamp": 1780204102437
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
-    "totalStories": 43,
+    "totalStories": 42,
     "totalScreenshots": 66,
-    "elapsed": "551.8s"
+    "elapsed": "437.0s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Liverpool sack Arne Slot, Club begins search for successor",
+        "url": "https://timesofoman.com//article/172396-liverpool-sack-arne-slot-club-begins-search-for-successor",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sun, 31 May 2026 08:39:31 +0400",
+        "description": "Liverpool: Liverpool has announced that Arne Slot will step down as head coach with immediate effect, and the club has begun the search for his..."
+      },
+      {
+        "headline": "PSG edge Arsenal on penalties to retain UEFA Champions League title",
+        "url": "https://timesofoman.com//article/172395-psg-edge-arsenal-on-penalties-to-retain-uefa-champions-league-title",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Sun, 31 May 2026 08:31:35 +0400",
+        "description": "Budapest : Paris Saint-Germain (PSG) became only the second club to successfully defend the UEFA Champions League (UCL) title after defeating Arsenal 4-3 in..."
+      },
       {
         "headline": "\"Travel through designated routes\": Iran tightens grip on crucial Strait of Hormuz transit",
         "url": "https://timesofoman.com//article/172394-travel-through-designated-routes-iran-tightens-grip-on-crucial-strait-of-hormuz-transit",
@@ -97,28 +117,8 @@
         "description": ""
       },
       {
-        "headline": "Why Europe is getting so hot",
-        "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 18:19:21 +0400",
-        "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
-      },
-      {
-        "headline": "Iran turns internet back on, but old restrictions remain",
-        "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Sat, 30 May 2026 18:12:21 +0400",
-        "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
-      },
-      {
         "headline": "Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjVjanJaMG9sdnduWTJNY3R2dUhldFVhUU1YRV80ZVFXbDRWRkxDVXRILW1BNUctNmdHTFJ0NExiQk1sOEFZR3dWNXRNNzVHbGZYbnpkc3Z1bw?oc=5",
+        "url": "https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
@@ -127,8 +127,18 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjV"
       },
       {
+        "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
+        "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 01:50:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+      },
+      {
         "headline": "Blue Origin faces months of delays after rocket explosion damages launch pad - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUYxMHlfcFFBU1p0aUh6b2ZqQ1Z2aC1VTkJXbXZyNWF1aGM5Uk91ZGZOdFpoelEzRHUyV0hVWlpYbm5vMDBIN0dkY3huX2N3eU9aSTNHbGpvQ0xfSXJlSnJXcXBlN1ZfNVUzWGdQRGVNMGx5Tk1Yc1RuRDVvZXhza2p0MXVoaXlvVUQ1U3pDSFlDclFJQ1oyZ2Nsd3lpNmhfNkdGMWl0MkQwYmZWRDJsU213MHJjOXl3S1U3Y3JZdTRpdzFVSjh4OGdOY0pzdTIycGc?oc=5",
+        "url": "https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
@@ -138,7 +148,7 @@
       },
       {
         "headline": "Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1kelNzaHJjTF9xRnhYcktfaFBnSllPck9GY0pvb3l4WGU1NktHRHNwNWVBdEppcXMwa0FmTl94TnFWUDM5bkJSWlVHbDhlRzV1VlJrSjBCNkktQm8?oc=5",
+        "url": "https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
@@ -148,7 +158,7 @@
       },
       {
         "headline": "2083.SE - | Stock Price &amp; Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03YXNOeE5RYnNWSUFpT1kyMmRINlRUcG5Vd3ZRbjZ1eTJzaUI0THk3UVBTZEZvUmF1cTZxU2hkYnVPWkZuWjIydGY1LUZOc2lnUXRBc01XTTZUcjNYazQ0Wjd3MDRwbFJHYUQ5U05uN3c5LVRsVE01ZDFjTkY?oc=5",
+        "url": "https://www.reuters.com/markets/companies/2083.SE/key-metrics/valuation/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
@@ -158,23 +168,13 @@
       },
       {
         "headline": "Pentagon chief says US ready to restart strikes if no deal on Iran - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2hub08?oc=5",
+        "url": "https://www.reuters.com/video/watch/idRW478630052026RP1/?chan=1",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
         "priority": "primary",
         "date": "Sat, 30 May 2026 20:39:35 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
-      },
-      {
-        "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE?oc=5",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 31 May 2026 01:50:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
       },
       {
         "headline": "FATMA KHALED - AP News",
@@ -188,7 +188,7 @@
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
+        "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -198,7 +198,7 @@
       },
       {
         "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
+        "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -227,23 +227,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
       },
       {
-        "headline": "US &amp; International Top News Stories Today - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 20:23:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5\" target=\"_bla"
-      },
-      {
         "headline": "STEVE DOUGLAS - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+        "url": "https://apnews.com/author/steve-douglas",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Sun, 31 May 2026 01:11:30 GMT",
+        "date": "Sun, 31 May 2026 02:11:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
       },
       {
@@ -348,7 +338,7 @@
       },
       {
         "headline": "Summary of the match between Saudi Arabia and Ecuador (1-2), a friendly match - tournaments",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04TWNTZHYzYTRQd3Rfa0FKOTJ1YU9jLTFrazRMaGY0WTRoN1dPdXRtV0c4Rzl4V2dsV01rRldWQkhEVjJUd0s5UVd30gFPQVVfeXFMTlBORnRPbmlHSGpWY2gtYUk1cFdNVXR3WXhQV08zU0lCcmQ5RUhEUTV1N3Q1bmVhWnQ5MmhORmoyMzVDWDdEZWNVZi1qR3hPWQ?oc=5",
+        "url": "https://www.btolat.com/video/93164",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -381,7 +371,7 @@
       },
       {
         "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd6cG54U3l2TlZXV1FpYWFQdnNlNnZFNERhcXNiY3J6eVVvNmZXaVdXdmFJTzFyTGRXWHItR1I2S2stUGdyaUY1ZWN4bGJIRTNRUVBKVjEtdlpNVTN4QVBj?oc=5",
+        "url": "https://www.almasryalyoum.com/news/details/4281715",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -392,7 +382,7 @@
       },
       {
         "headline": "American soldiers were injured as a result of falling debris after an Iranian missile attack in Kuwait last Wednesday - Al-Ahram Gate",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekZfem1SV1FKMGpjRzZQTWhIZE8zMTFTOXMzZWtfMzF0V1BEMHIxX05OWkNtRGFGcnRyd1A0NmVTY0pmaTZfVWVwelgzYi1hOTBHTU9n?oc=5",
+        "url": "https://gate.ahram.org.eg/News/5664173.aspx",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -402,7 +392,7 @@
         "originalHeadline": "إصابة جنود أمريكيين إثر تساقط حطام بعد هجوم صاروخي إيراني في الكويت الأربعاء الماضي - بوابة الأهرام"
       },
       {
-        "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
+        "headline": "Fifty economics. . A fateful decision. What did Egypt send to Aan?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
         "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
@@ -410,11 +400,11 @@
         "priority": "primary",
         "date": "Sat, 30 May 2026 20:01:06 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
-        "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+        "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُ��ان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
       },
       {
         "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjBCeHVjdE9kWGdnX1lnRkMtZDdIVDJZN1l3bmd5cWxzbTJDdF82M0p6MzF4OFVwUGZqWWZNUW9nb0tVM1oyLXNINkthTnowaVQxSWRGaHVPZklxVnNKMnF2dVNhclIya0poYXpsdHgwYUJHVmFRRUVrZk1YcHJnbURzS211N2xmRVpVdHpvQ1dkYUNkUkxYTENpSWxDcm0xR1ZVQWM3V01vOUdGM2ttNFFhZ3p6bUk5SzBBUDZCQ1hudWxyYTdlM2l5OFo5MFdFS2tfSE0yTERfOS1IQ05KcUVjdVlxcWJxZ2tTX1B5OG1wbEtr0gHcAkFVX3lxTE9Pa0xic0pmZnIwaFRCX1NrV3VTLV84Z2dlbFhQczBDVHBXR0E1OW1SbVJBVGdFOTlKY2EwR05BZnJ4RlUyVjA3aVhyOXFoX2o0b2ZSclBLenRUZ0VyV1RCQTRHSDE4cm1IS2RUOHdrcEF3UEtQaUM0d1ZZMGJUVjV6MkVPNXpBUC10UXZ3X2ZWa1hZRFExUmRnb296bjNnb0ZMVVNjQmRHeTBtdnA2Y0JzdXJwNmU3eEZ3TGF5V2dKeUNGUHRQVjVYUzhkWUY2QnpvMjNIWmpENmU0NFI1THBkbGljUzBKYnpvZ05PdGZ6cUR6LTEyZWxHT093ME9FSW9CNHZySS1FeGtFSmt6RU9KN25WaDdqSHBmTDFVSWdpa3R2NEJWaGFEcnl0QlFEbkZUQWxfWFdCZ1hJb0hFYnRlbHY5ZzVvWlhzVl90QzVMbHpKMUV2Q011bWlLdw?oc=5",
+        "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -435,6 +425,17 @@
         "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
       },
       {
+        "headline": "The Iran war contributes to half of the Gulf companies exceeding market expectations - East Economy with Bloomberg",
+        "url": "https://asharqbusiness.com/financial-markets/134432/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D9%87%D9%85-%D8%A8%D8%AA%D9%81%D9%88%D9%82-%D9%86%D8%B5%D9%81-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82/",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 03:29:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxNXzBmUXZoSkF6VURBendXTTVRTmFwWGRMcFJhVDA1cVR0eU5kRzkwNnQ5c1k5X0xGNU9ILWwyRVI4Z2d6emlMSkVZNlU4aGFDV1RDcFUyS2dRWk4yVm9yUXFXdnI4ZW1DNWJlWG9",
+        "originalHeadline": "حرب إيران تسهم بتفوق نصف شركات الخليج على توقعات السوق - اقتصاد الشرق مع بلومبرغ"
+      },
+      {
         "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
         "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
         "source": "Google News Gulf (Arabic)",
@@ -444,21 +445,30 @@
         "date": "Sat, 30 May 2026 20:58:56 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
         "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
-      },
-      {
-        "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-        "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ2Q3luV1BtNk1aZ041dXdxOVhMam4xdk9NRkUyVnl2cnFxSHhiZ0Z3dThhc0FtLVRRTmJuU2pLNHZucTVmSlJNUG9EX09YZTExcEw3blh1ZzQ2di0tMklGb3N2cTVSMVV2S3dFYnVLY0RMTm9DVXhIazQxay1iSnJJSWg5ZkI5UVR0MncyLXZKdHNLQlBCMWkxT1RIN1BEZGVpWG95dEVLc25xblhSQ0l4OUhULUdmeHJ0ajlYTVpiSXdwU3dYYURjYV9EQVdWdnRRQWhqVU11a0YxWVFScjdVUlR6bEVCMTNuQjgtZ0VSdmlGUkxsYWNSajlLRExmU2hsQWk3bkFGY3BVWnktOFNoT0lGM0FoNDJlUVN0aWd6RjdaNzg4Ukk5RGtqaUE0SDVQcmp2SE5hUmd4Qm14Mk5uMFJoTzdKeXVKR3QtQ1RBSXdzR2c0N3pOLU5NV1BsUlZwQnJJT0F5WHNzbWVqMGRFWjQ5cGl2cjNCWXpJWjNGY1A3QXlJUzI5Zw?oc=5",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Sat, 30 May 2026 17:46:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ",
-        "originalHeadline": "ترامب يحض السعودية وقطر الانضمام إلى الاتفاقات الإبراهيمية - سكاي نيوز عربية"
       }
     ],
     "byCategory": {
       "oman": [
+        {
+          "headline": "Liverpool sack Arne Slot, Club begins search for successor",
+          "url": "https://timesofoman.com//article/172396-liverpool-sack-arne-slot-club-begins-search-for-successor",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sun, 31 May 2026 08:39:31 +0400",
+          "description": "Liverpool: Liverpool has announced that Arne Slot will step down as head coach with immediate effect, and the club has begun the search for his..."
+        },
+        {
+          "headline": "PSG edge Arsenal on penalties to retain UEFA Champions League title",
+          "url": "https://timesofoman.com//article/172395-psg-edge-arsenal-on-penalties-to-retain-uefa-champions-league-title",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sun, 31 May 2026 08:31:35 +0400",
+          "description": "Budapest : Paris Saint-Germain (PSG) became only the second club to successfully defend the UEFA Champions League (UCL) title after defeating Arsenal 4-3 in..."
+        },
         {
           "headline": "\"Travel through designated routes\": Iran tightens grip on crucial Strait of Hormuz transit",
           "url": "https://timesofoman.com//article/172394-travel-through-designated-routes-iran-tightens-grip-on-crucial-strait-of-hormuz-transit",
@@ -538,32 +548,12 @@
           "priority": "secondary",
           "date": "Sat, 30 May 2026 18:34:13 +0400",
           "description": ""
-        },
-        {
-          "headline": "Why Europe is getting so hot",
-          "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 18:19:21 +0400",
-          "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
-        },
-        {
-          "headline": "Iran turns internet back on, but old restrictions remain",
-          "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 18:12:21 +0400",
-          "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
         }
       ],
       "wire": [
         {
           "headline": "Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjVjanJaMG9sdnduWTJNY3R2dUhldFVhUU1YRV80ZVFXbDRWRkxDVXRILW1BNUctNmdHTFJ0NExiQk1sOEFZR3dWNXRNNzVHbGZYbnpkc3Z1bw?oc=5",
+          "url": "https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -572,8 +562,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjV"
         },
         {
+          "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
+          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 01:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+        },
+        {
           "headline": "Blue Origin faces months of delays after rocket explosion damages launch pad - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUYxMHlfcFFBU1p0aUh6b2ZqQ1Z2aC1VTkJXbXZyNWF1aGM5Uk91ZGZOdFpoelEzRHUyV0hVWlpYbm5vMDBIN0dkY3huX2N3eU9aSTNHbGpvQ0xfSXJlSnJXcXBlN1ZfNVUzWGdQRGVNMGx5Tk1Yc1RuRDVvZXhza2p0MXVoaXlvVUQ1U3pDSFlDclFJQ1oyZ2Nsd3lpNmhfNkdGMWl0MkQwYmZWRDJsU213MHJjOXl3S1U3Y3JZdTRpdzFVSjh4OGdOY0pzdTIycGc?oc=5",
+          "url": "https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -583,7 +583,7 @@
         },
         {
           "headline": "Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1kelNzaHJjTF9xRnhYcktfaFBnSllPck9GY0pvb3l4WGU1NktHRHNwNWVBdEppcXMwa0FmTl94TnFWUDM5bkJSWlVHbDhlRzV1VlJrSjBCNkktQm8?oc=5",
+          "url": "https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -593,7 +593,7 @@
         },
         {
           "headline": "2083.SE - | Stock Price &amp; Latest News - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03YXNOeE5RYnNWSUFpT1kyMmRINlRUcG5Vd3ZRbjZ1eTJzaUI0THk3UVBTZEZvUmF1cTZxU2hkYnVPWkZuWjIydGY1LUZOc2lnUXRBc01XTTZUcjNYazQ0Wjd3MDRwbFJHYUQ5U05uN3c5LVRsVE01ZDFjTkY?oc=5",
+          "url": "https://www.reuters.com/markets/companies/2083.SE/key-metrics/valuation/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -603,23 +603,13 @@
         },
         {
           "headline": "Pentagon chief says US ready to restart strikes if no deal on Iran - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2hub08?oc=5",
+          "url": "https://www.reuters.com/video/watch/idRW478630052026RP1/?chan=1",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
           "date": "Sat, 30 May 2026 20:39:35 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
-        },
-        {
-          "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE?oc=5",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 01:50:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
         },
         {
           "headline": "FATMA KHALED - AP News",
@@ -633,7 +623,7 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
+          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -643,7 +633,7 @@
         },
         {
           "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
+          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -672,23 +662,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
         },
         {
-          "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:23:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "STEVE DOUGLAS - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+          "url": "https://apnews.com/author/steve-douglas",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 31 May 2026 01:11:30 GMT",
+          "date": "Sun, 31 May 2026 02:11:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
         }
       ],
@@ -797,7 +777,7 @@
       "arabic_aggregate": [
         {
           "headline": "Summary of the match between Saudi Arabia and Ecuador (1-2), a friendly match - tournaments",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04TWNTZHYzYTRQd3Rfa0FKOTJ1YU9jLTFrazRMaGY0WTRoN1dPdXRtV0c4Rzl4V2dsV01rRldWQkhEVjJUd0s5UVd30gFPQVVfeXFMTlBORnRPbmlHSGpWY2gtYUk1cFdNVXR3WXhQV08zU0lCcmQ5RUhEUTV1N3Q1bmVhWnQ5MmhORmoyMzVDWDdEZWNVZi1qR3hPWQ?oc=5",
+          "url": "https://www.btolat.com/video/93164",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -830,7 +810,7 @@
         },
         {
           "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd6cG54U3l2TlZXV1FpYWFQdnNlNnZFNERhcXNiY3J6eVVvNmZXaVdXdmFJTzFyTGRXWHItR1I2S2stUGdyaUY1ZWN4bGJIRTNRUVBKVjEtdlpNVTN4QVBj?oc=5",
+          "url": "https://www.almasryalyoum.com/news/details/4281715",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -841,7 +821,7 @@
         },
         {
           "headline": "American soldiers were injured as a result of falling debris after an Iranian missile attack in Kuwait last Wednesday - Al-Ahram Gate",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekZfem1SV1FKMGpjRzZQTWhIZE8zMTFTOXMzZWtfMzF0V1BEMHIxX05OWkNtRGFGcnRyd1A0NmVTY0pmaTZfVWVwelgzYi1hOTBHTU9n?oc=5",
+          "url": "https://gate.ahram.org.eg/News/5664173.aspx",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -851,7 +831,7 @@
           "originalHeadline": "إصابة جنود أمريكيين إثر تساقط حطام بعد هجوم صاروخي إيراني في الكويت الأربعاء الماضي - بوابة الأهرام"
         },
         {
-          "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
+          "headline": "Fifty economics. . A fateful decision. What did Egypt send to Aan?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
           "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -859,11 +839,11 @@
           "priority": "primary",
           "date": "Sat, 30 May 2026 20:01:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
-          "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+          "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُ��ان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
         },
         {
           "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjBCeHVjdE9kWGdnX1lnRkMtZDdIVDJZN1l3bmd5cWxzbTJDdF82M0p6MzF4OFVwUGZqWWZNUW9nb0tVM1oyLXNINkthTnowaVQxSWRGaHVPZklxVnNKMnF2dVNhclIya0poYXpsdHgwYUJHVmFRRUVrZk1YcHJnbURzS211N2xmRVpVdHpvQ1dkYUNkUkxYTENpSWxDcm0xR1ZVQWM3V01vOUdGM2ttNFFhZ3p6bUk5SzBBUDZCQ1hudWxyYTdlM2l5OFo5MFdFS2tfSE0yTERfOS1IQ05KcUVjdVlxcWJxZ2tTX1B5OG1wbEtr0gHcAkFVX3lxTE9Pa0xic0pmZnIwaFRCX1NrV3VTLV84Z2dlbFhQczBDVHBXR0E1OW1SbVJBVGdFOTlKY2EwR05BZnJ4RlUyVjA3aVhyOXFoX2o0b2ZSclBLenRUZ0VyV1RCQTRHSDE4cm1IS2RUOHdrcEF3UEtQaUM0d1ZZMGJUVjV6MkVPNXpBUC10UXZ3X2ZWa1hZRFExUmRnb296bjNnb0ZMVVNjQmRHeTBtdnA2Y0JzdXJwNmU3eEZ3TGF5V2dKeUNGUHRQVjVYUzhkWUY2QnpvMjNIWmpENmU0NFI1THBkbGljUzBKYnpvZ05PdGZ6cUR6LTEyZWxHT093ME9FSW9CNHZySS1FeGtFSmt6RU9KN25WaDdqSHBmTDFVSWdpa3R2NEJWaGFEcnl0QlFEbkZUQWxfWFdCZ1hJb0hFYnRlbHY5ZzVvWlhzVl90QzVMbHpKMUV2Q011bWlLdw?oc=5",
+          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -884,6 +864,17 @@
           "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
         },
         {
+          "headline": "The Iran war contributes to half of the Gulf companies exceeding market expectations - East Economy with Bloomberg",
+          "url": "https://asharqbusiness.com/financial-markets/134432/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D9%87%D9%85-%D8%A8%D8%AA%D9%81%D9%88%D9%82-%D9%86%D8%B5%D9%81-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 03:29:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxNXzBmUXZoSkF6VURBendXTTVRTmFwWGRMcFJhVDA1cVR0eU5kRzkwNnQ5c1k5X0xGNU9ILWwyRVI4Z2d6emlMSkVZNlU4aGFDV1RDcFUyS2dRWk4yVm9yUXFXdnI4ZW1DNWJlWG9",
+          "originalHeadline": "حرب إيران تسهم بتفوق نصف شركات الخليج على توقعات السوق - اقتصاد الشرق مع بلومبرغ"
+        },
+        {
           "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
           "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
           "source": "Google News Gulf (Arabic)",
@@ -893,17 +884,6 @@
           "date": "Sat, 30 May 2026 20:58:56 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
           "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
-        },
-        {
-          "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-          "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ2Q3luV1BtNk1aZ041dXdxOVhMam4xdk9NRkUyVnl2cnFxSHhiZ0Z3dThhc0FtLVRRTmJuU2pLNHZucTVmSlJNUG9EX09YZTExcEw3blh1ZzQ2di0tMklGb3N2cTVSMVV2S3dFYnVLY0RMTm9DVXhIazQxay1iSnJJSWg5ZkI5UVR0MncyLXZKdHNLQlBCMWkxT1RIN1BEZGVpWG95dEVLc25xblhSQ0l4OUhULUdmeHJ0ajlYTVpiSXdwU3dYYURjYV9EQVdWdnRRQWhqVU11a0YxWVFScjdVUlR6bEVCMTNuQjgtZ0VSdmlGUkxsYWNSajlLRExmU2hsQWk3bkFGY3BVWnktOFNoT0lGM0FoNDJlUVN0aWd6RjdaNzg4Ukk5RGtqaUE0SDVQcmp2SE5hUmd4Qm14Mk5uMFJoTzdKeXVKR3QtQ1RBSXdzR2c0N3pOLU5NV1BsUlZwQnJJT0F5WHNzbWVqMGRFWjQ5cGl2cjNCWXpJWjNGY1A3QXlJUzI5Zw?oc=5",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 17:46:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ",
-          "originalHeadline": "ترامب يحض السعودية وقطر الانضمام إلى الاتفاقات الإبراهيمية - سكاي نيوز عربية"
         }
       ]
     },
@@ -911,7 +891,7 @@
       "primary": [
         {
           "headline": "Exclusive: From lottery draws to fiscal spending, China broadens digital yuan footprint - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjVjanJaMG9sdnduWTJNY3R2dUhldFVhUU1YRV80ZVFXbDRWRkxDVXRILW1BNUctNmdHTFJ0NExiQk1sOEFZR3dWNXRNNzVHbGZYbnpkc3Z1bw?oc=5",
+          "url": "https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -920,8 +900,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmM2QlppcWdQdVlIMjNuQ2prOF8yelVsU3lmSWlpTm1IQktYYVEzUTZjYmRubTNITFdvS1BtTVpNVXhkSzVjc3ZLM3htU3dSaV9hV3ZXY182SjVYcF9RQm9EWVd0aVFtVVJsQjV"
         },
         {
+          "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
+          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 01:50:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
+        },
+        {
           "headline": "Blue Origin faces months of delays after rocket explosion damages launch pad - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUYxMHlfcFFBU1p0aUh6b2ZqQ1Z2aC1VTkJXbXZyNWF1aGM5Uk91ZGZOdFpoelEzRHUyV0hVWlpYbm5vMDBIN0dkY3huX2N3eU9aSTNHbGpvQ0xfSXJlSnJXcXBlN1ZfNVUzWGdQRGVNMGx5Tk1Yc1RuRDVvZXhza2p0MXVoaXlvVUQ1U3pDSFlDclFJQ1oyZ2Nsd3lpNmhfNkdGMWl0MkQwYmZWRDJsU213MHJjOXl3S1U3Y3JZdTRpdzFVSjh4OGdOY0pzdTIycGc?oc=5",
+          "url": "https://www.reuters.com/business/aerospace-defense/blue-origin-faces-months-delays-after-rocket-explosion-damages-launch-pad-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -931,7 +921,7 @@
         },
         {
           "headline": "Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1kelNzaHJjTF9xRnhYcktfaFBnSllPck9GY0pvb3l4WGU1NktHRHNwNWVBdEppcXMwa0FmTl94TnFWUDM5bkJSWlVHbDhlRzV1VlJrSjBCNkktQm8?oc=5",
+          "url": "https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -941,7 +931,7 @@
         },
         {
           "headline": "2083.SE - | Stock Price &amp; Latest News - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03YXNOeE5RYnNWSUFpT1kyMmRINlRUcG5Vd3ZRbjZ1eTJzaUI0THk3UVBTZEZvUmF1cTZxU2hkYnVPWkZuWjIydGY1LUZOc2lnUXRBc01XTTZUcjNYazQ0Wjd3MDRwbFJHYUQ5U05uN3c5LVRsVE01ZDFjTkY?oc=5",
+          "url": "https://www.reuters.com/markets/companies/2083.SE/key-metrics/valuation/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
@@ -951,23 +941,13 @@
         },
         {
           "headline": "Pentagon chief says US ready to restart strikes if no deal on Iran - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2hub08?oc=5",
+          "url": "https://www.reuters.com/video/watch/idRW478630052026RP1/?chan=1",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
           "date": "Sat, 30 May 2026 20:39:35 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR1FVeURKekYwTWEtaHU2eVgxUTE0bElUTEpWWktpZlRjOGs0YW5LWnM0QjNwUjdBUEpvamx0OS02WWxRWk5DZnRnMjRGTWhxWFA3SHp3RnhVZ3dFSlQydXNnNEZCeTFuaW9iY2h"
-        },
-        {
-          "headline": "Japan refutes 'new militarism', accuses China of rapidly arming - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3JyTWx2MGQwX0JxME5sTjUweXZKRTY1SFh5ZjlnX3NkVXpka3VHZjd3UXlzRzFIbDdOZGR6YVE?oc=5",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 01:50:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlJTHUyX0Z5aVh2RXE3aThmbDRINlhvcTNoMElRRHoxaXpnT1JNR0NUWnppNE5DSEdsaGFGQVM3ZWtmV0ZmWHVuV09RRTlPemFqcEJNWWEwSURpSW80WVdTT1pjOEFhVHEtQ3J"
         },
         {
           "headline": "FATMA KHALED - AP News",
@@ -981,7 +961,7 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5",
+          "url": "https://apnews.com/hub/apf-topnews?output=rss&p=58",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -991,7 +971,7 @@
         },
         {
           "headline": "Muslim pilgrims conclude annual Hajj pilgrimage with final circling around Kaaba - AP News",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRVA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5",
+          "url": "https://apnews.com/video/muslim-pilgrims-conclude-annual-hajj-pilgrimage-with-final-circling-around-kaaba-11cdb58d450a4063850b90251f25afa8",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1020,23 +1000,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
         },
         {
-          "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 20:23:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WnpmckhjejJtUGY0RmFLdFVzSnk2eTRkQ2N4MGVLYXI3QkpsNTBJS1F5c3MzVm9heEJyLXFFNFhEM1FZTnV0dEJUNFhiYWwyWDg0dEZ0eTExZDEzWUJZ?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "STEVE DOUGLAS - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5",
+          "url": "https://apnews.com/author/steve-douglas",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 31 May 2026 01:11:30 GMT",
+          "date": "Sun, 31 May 2026 02:11:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkQjRHOFBja1k1Q3F5bjVuZWN1Y29reEE1MnFxdEJvQzhqUmdIcHRpUGg4RWlvQWpJRUlGYy00Tl81d0xCaGtpZ3paU0MwTFZz?oc=5\" target=\"_blank\"&gt;STEVE DOUGLAS"
         },
         {
@@ -1141,7 +1111,7 @@
         },
         {
           "headline": "Summary of the match between Saudi Arabia and Ecuador (1-2), a friendly match - tournaments",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04TWNTZHYzYTRQd3Rfa0FKOTJ1YU9jLTFrazRMaGY0WTRoN1dPdXRtV0c4Rzl4V2dsV01rRldWQkhEVjJUd0s5UVd30gFPQVVfeXFMTlBORnRPbmlHSGpWY2gtYUk1cFdNVXR3WXhQV08zU0lCcmQ5RUhEUTV1N3Q1bmVhWnQ5MmhORmoyMzVDWDdEZWNVZi1qR3hPWQ?oc=5",
+          "url": "https://www.btolat.com/video/93164",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1174,7 +1144,7 @@
         },
         {
           "headline": "Channels broadcasting the live match between Saudi Arabia and Ecuador in preparation for the 2026 World Cup - Al-Masry Al-Youm",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jem9WaXloSmhMU3FsVGdQaHBBSGV3amFvN25yMVJDTnJIMUFzSXQzZHRYNFRsSmpuMElTeDFVOGNGTnBJXzM2bDRNbmNxdXRQZEUwWVBuQUJ0UEdaeVhJ0gFjQVVfeXFMT2FFemd6cG54U3l2TlZXV1FpYWFQdnNlNnZFNERhcXNiY3J6eVVvNmZXaVdXdmFJTzFyTGRXWHItR1I2S2stUGdyaUY1ZWN4bGJIRTNRUVBKVjEtdlpNVTN4QVBj?oc=5",
+          "url": "https://www.almasryalyoum.com/news/details/4281715",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1185,7 +1155,7 @@
         },
         {
           "headline": "American soldiers were injured as a result of falling debris after an Iranian missile attack in Kuwait last Wednesday - Al-Ahram Gate",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HekZfem1SV1FKMGpjRzZQTWhIZE8zMTFTOXMzZWtfMzF0V1BEMHIxX05OWkNtRGFGcnRyd1A0NmVTY0pmaTZfVWVwelgzYi1hOTBHTU9n?oc=5",
+          "url": "https://gate.ahram.org.eg/News/5664173.aspx",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1195,7 +1165,7 @@
           "originalHeadline": "إصابة جنود أمريكيين إثر تساقط حطام بعد هجوم صاروخي إيراني في الكويت الأربعاء الماضي - بوابة الأهرام"
         },
         {
-          "headline": "Fifty economics. . A fateful decision. What did Egypt send to Oman?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
+          "headline": "Fifty economics. . A fateful decision. What did Egypt send to Aan?! Sisi ignites the fire. Because of Egypt, Ethiopia's first losses?! #FiftyEconomy #Egypt #Sisi #Oman #Ethiopia - facebook.com",
           "url": "https://www.facebook.com/khamsenetektesad/videos/%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B5%D9%8A%D8%B1%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B1%D8%B3%D9%84%D8%AA-%D9%85%D8%B5%D8%B1-%D9%84%D9%80-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B5%D8%B1-%D8%A3%D9%88%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%D8%AE/1344267550891885/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1203,11 +1173,11 @@
           "priority": "primary",
           "date": "Sat, 30 May 2026 20:01:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxNRXRmaEFCVVZQa1N6SUxjYjhBX3Buc0xQSXNzLUdlYkRnQ05hanpyUk91eUFfY053dDdTbEFqc3U2ZjZCZkp0NV9TY3RPUGt1TU1wYkluUXRoYzZyaUtZWFRGV1RSS0RpdVZxeTN",
-          "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُمان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
+          "originalHeadline": "خمسينة اقتصاد. . قرار مصيري. ماذا أرسلت مصر لـ عُ��ان؟! السيسي يشعل النار. بسبب مصر أول خسائر إثيوبيا؟! #خمسينة_اقتصاد #مصر #السيسي #عمان #إثيوبيا - facebook.com"
         },
         {
           "headline": "\"The daily wage economy\"... Oil in a cup and ghee in a spoon to avoid hunger in Yemen - Al Jazeera Net",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOUJNQlduVVNQWGR2SUlPbEJOell1WFEzSEdyNXNxLUNLN1l4SURRYm53M0VidEJRY0N3cm9tc3MtUkpyVHZCYnBIcElBbTNibWxaOFhTOExYaHRDN1B6Q0FfS1ZleVNfOU8zTjBCeHVjdE9kWGdnX1lnRkMtZDdIVDJZN1l3bmd5cWxzbTJDdF82M0p6MzF4OFVwUGZqWWZNUW9nb0tVM1oyLXNINkthTnowaVQxSWRGaHVPZklxVnNKMnF2dVNhclIya0poYXpsdHgwYUJHVmFRRUVrZk1YcHJnbURzS211N2xmRVpVdHpvQ1dkYUNkUkxYTENpSWxDcm0xR1ZVQWM3V01vOUdGM2ttNFFhZ3p6bUk5SzBBUDZCQ1hudWxyYTdlM2l5OFo5MFdFS2tfSE0yTERfOS1IQ05KcUVjdVlxcWJxZ2tTX1B5OG1wbEtr0gHcAkFVX3lxTE9Pa0xic0pmZnIwaFRCX1NrV3VTLV84Z2dlbFhQczBDVHBXR0E1OW1SbVJBVGdFOTlKY2EwR05BZnJ4RlUyVjA3aVhyOXFoX2o0b2ZSclBLenRUZ0VyV1RCQTRHSDE4cm1IS2RUOHdrcEF3UEtQaUM0d1ZZMGJUVjV6MkVPNXpBUC10UXZ3X2ZWa1hZRFExUmRnb296bjNnb0ZMVVNjQmRHeTBtdnA2Y0JzdXJwNmU3eEZ3TGF5V2dKeUNGUHRQVjVYUzhkWUY2QnpvMjNIWmpENmU0NFI1THBkbGljUzBKYnpvZ05PdGZ6cUR6LTEyZWxHT093ME9FSW9CNHZySS1FeGtFSmt6RU9KN25WaDdqSHBmTDFVSWdpa3R2NEJWaGFEcnl0QlFEbkZUQWxfWFdCZ1hJb0hFYnRlbHY5ZzVvWlhzVl90QzVMbHpKMUV2Q011bWlLdw?oc=5",
+          "url": "https://www.aljazeera.net/ebusiness/2026/5/30/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%86",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1228,6 +1198,17 @@
           "originalHeadline": "بث مباشر.. مشاهدة مباراة منتخب السعودية والإكوادور الودية الآن - 365Scores"
         },
         {
+          "headline": "The Iran war contributes to half of the Gulf companies exceeding market expectations - East Economy with Bloomberg",
+          "url": "https://asharqbusiness.com/financial-markets/134432/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D9%87%D9%85-%D8%A8%D8%AA%D9%81%D9%88%D9%82-%D9%86%D8%B5%D9%81-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 03:29:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wNBVV95cUxNXzBmUXZoSkF6VURBendXTTVRTmFwWGRMcFJhVDA1cVR0eU5kRzkwNnQ5c1k5X0xGNU9ILWwyRVI4Z2d6emlMSkVZNlU4aGFDV1RDcFUyS2dRWk4yVm9yUXFXdnI4ZW1DNWJlWG9",
+          "originalHeadline": "حرب إيران تسهم بتفوق نصف شركات الخليج على توقعات السوق - اقتصاد الشرق مع بلومبرغ"
+        },
+        {
           "headline": "Schedule of matches today, Sunday, May 31, 2026.. Broadcast channels and commentators - Kooora",
           "url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118",
           "source": "Google News Gulf (Arabic)",
@@ -1237,20 +1218,29 @@
           "date": "Sat, 30 May 2026 20:58:56 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxQd0N6aVVJaEhFdlF1cno1OVhDZkpTdDZDdGQ5ZzhPZTlzb3p2YmFFR3VLd2JuMHcwbDJka0hoZGwxak9DeFdjbUF1ZlgyNGQxRFg1SjU2RlA2Y1VOVTJwYThDUGd5RVJMWG5YWkc",
           "originalHeadline": "جدول مباريات اليوم الأحد 31 مايو 2026 .. القنوات الناقلة والمعلقين - Kooora"
-        },
-        {
-          "headline": "Trump urges Saudi Arabia and Qatar to join the Abraham Accords - Sky News Arabia",
-          "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ2Q3luV1BtNk1aZ041dXdxOVhMam4xdk9NRkUyVnl2cnFxSHhiZ0Z3dThhc0FtLVRRTmJuU2pLNHZucTVmSlJNUG9EX09YZTExcEw3blh1ZzQ2di0tMklGb3N2cTVSMVV2S3dFYnVLY0RMTm9DVXhIazQxay1iSnJJSWg5ZkI5UVR0MncyLXZKdHNLQlBCMWkxT1RIN1BEZGVpWG95dEVLc25xblhSQ0l4OUhULUdmeHJ0ajlYTVpiSXdwU3dYYURjYV9EQVdWdnRRQWhqVU11a0YxWVFScjdVUlR6bEVCMTNuQjgtZ0VSdmlGUkxsYWNSajlLRExmU2hsQWk3bkFGY3BVWnktOFNoT0lGM0FoNDJlUVN0aWd6RjdaNzg4Ukk5RGtqaUE0SDVQcmp2SE5hUmd4Qm14Mk5uMFJoTzdKeXVKR3QtQ1RBSXdzR2c0N3pOLU5NV1BsUlZwQnJJT0F5WHNzbWVqMGRFWjQ5cGl2cjNCWXpJWjNGY1A3QXlJUzI5Zw?oc=5",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Sat, 30 May 2026 17:46:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPR1hKY3pQOV9RLS1QUEpLb1JxT2V3XzNxNTB4WkZ6NVQwZ3JoS2VIMXotbVRyczZ0X21iYWN2WjVlb1RDR0c1azlnbUoxZDhHbVZGT28tWkVNbjlHOHhpT083aGJTTWE3Y0RCeFQ",
-          "originalHeadline": "ترامب يحض السعودية وقطر الانضمام إلى الاتفاقات الإبراهيمية - سكاي نيوز عربية"
         }
       ],
       "secondary": [
+        {
+          "headline": "Liverpool sack Arne Slot, Club begins search for successor",
+          "url": "https://timesofoman.com//article/172396-liverpool-sack-arne-slot-club-begins-search-for-successor",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sun, 31 May 2026 08:39:31 +0400",
+          "description": "Liverpool: Liverpool has announced that Arne Slot will step down as head coach with immediate effect, and the club has begun the search for his..."
+        },
+        {
+          "headline": "PSG edge Arsenal on penalties to retain UEFA Champions League title",
+          "url": "https://timesofoman.com//article/172395-psg-edge-arsenal-on-penalties-to-retain-uefa-champions-league-title",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Sun, 31 May 2026 08:31:35 +0400",
+          "description": "Budapest : Paris Saint-Germain (PSG) became only the second club to successfully defend the UEFA Champions League (UCL) title after defeating Arsenal 4-3 in..."
+        },
         {
           "headline": "\"Travel through designated routes\": Iran tightens grip on crucial Strait of Hormuz transit",
           "url": "https://timesofoman.com//article/172394-travel-through-designated-routes-iran-tightens-grip-on-crucial-strait-of-hormuz-transit",
@@ -1330,26 +1320,6 @@
           "priority": "secondary",
           "date": "Sat, 30 May 2026 18:34:13 +0400",
           "description": ""
-        },
-        {
-          "headline": "Why Europe is getting so hot",
-          "url": "https://timesofoman.com//article/172386-why-europe-is-getting-so-hot",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 18:19:21 +0400",
-          "description": "London: Much of Western Europe is suffering through an intense spring heat wave, with unusually hot temperatures from the UK and Ireland in the north,..."
-        },
-        {
-          "headline": "Iran turns internet back on, but old restrictions remain",
-          "url": "https://timesofoman.com//article/172385-iran-turns-internet-back-on-but-old-restrictions-remain",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Sat, 30 May 2026 18:12:21 +0400",
-          "description": "Tehran: Internet access in Iran was partially restored earlier this week after an 88-day blackout. Real-time data from NetBlocks, a global internet monitor..."
         }
       ],
       "tertiary": [],
@@ -1655,6 +1625,12 @@
       "language": "en",
       "tweets": [
         {
+          "text": "Through the “Nisk” application, services for issuing Umrah visas and entry for pilgrims will resume, starting today",
+          "timestamp": "2026-05-31T04:35:05.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2060943121425342571",
+          "originalText": "عبر تطبيق \"نسك\".. استئناف خدمات إصدار تأشيرات العمرة ودخول المعتمرين اعتبارًا من اليوم"
+        },
+        {
           "text": "Pilgrims of the Holy House of God continue to perform the farewell circumambulation",
           "timestamp": "2026-05-31T03:29:51.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2060926704206389565",
@@ -1677,12 +1653,6 @@
           "timestamp": "2026-05-31T01:27:12.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2060895841213133024",
           "originalText": "ضيوف برنامج خادم الحرمين الشريفين للحج يغادرون مكة المكرمة إلى المدينة المنورة"
-        },
-        {
-          "text": "The Saudi national anthem at Sports Illustrated Stadium, photographed by Al-Ekhbariya \n\n#Saudi_Ecuador | #News_Sports",
-          "timestamp": "2026-05-31T00:08:06.000Z",
-          "permalink": "https://x.com/alekhbariyaSPO/status/2060875935331598729",
-          "originalText": "النشيد الوطني السعودي  في استاد سبورتس إليستريتد بعدسة الإخبارية \n\n#السعودية_الإكوادور | #الإخبارية_رياضة"
         }
       ]
     },
@@ -2142,7 +2112,7 @@
           "permalink": "https://x.com/DXBMediaOffice/status/2060335059220213779"
         },
         {
-          "text": "Emirates Airlines unveils a special festive livery on one of its Airbus A380 aircraft in honor of Arsenal, after winning the English Premier League title, in a step that reflects the depth of the extended partnership between the two parties and the carrier’s continued commitment to connecting fans with the most prominent international sporting moments.\n\n\n@emirates\n \n@Arsenal",
+          "text": "Emirates Airlines unveils a special celebratory livery on one of its Airbus A380 aircraft in honor of Arsenal, after winning the English Premier League title, in a step that reflects the depth of the extended partnership between the two parties and the carrier’s continued commitment to connecting fans with the most prominent international sporting moments.\n\n\n@emirates\n \n@Arsenal",
           "timestamp": "2026-05-29T12:17:51.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2060334804579790875",
           "originalText": "طيران الإمارات تكشف عن كسوة احتفالية خاصة على إحدى طائراتها الإيرباص A380 تكريماً لنادي أرسنال، وذلك عقب تتويجه بلقب الدوري الإنجليزي الممتاز، في خطوة تعكس عمق الشراكة الممتدة بين الطرفين والتزام الناقلة المستمر بربط الجماهير بأبرز اللحظات الرياضية العالمية.\n\n\n@emirates\n \n@Arsenal"
@@ -2211,7 +2181,7 @@
           "permalink": "https://x.com/ADMediaOffice/status/2060798376707531228"
         },
         {
-          "text": "Khalifa bin Tahnoun bin Mohammed attends the reception held at the ADNEC Al Ain Center in the Al Ain region, on the occasion of Rashid Khalaf Al Shamsi to the daughter of Ahmed Rashid Al Shamsi, and Salem Khalaf Al Shamsi to the daughter of Saeed Danan Al Shamsi, and expresses his sincere congratulations to the newlyweds and their families, wishing them a happy family life.",
+          "text": "Khalifa bin Tahnoon bin Mohammed attends the reception held at the ADNEC Al Ain Center in the Al Ain region, on the occasion of Rashid Khalaf Al Shamsi to the daughter of Ahmed Rashid Al Shamsi, and Salem Khalaf Al Shamsi to the daughter of Saeed Danan Al Shamsi, and expresses his sincere congratulations to the newlyweds and their families, wishing them a happy family life.",
           "timestamp": "2026-05-30T14:36:18.000Z",
           "permalink": "https://x.com/ADMediaOffice/status/2060732036567232518",
           "originalText": "خليفة بن طحنون بن محمد يحضر حفل الاستقبال الذي أُقيم في مركز أدنيك العين في منطقة العين، بمناسبة راشد خلف الشامسي إلى كريمة أحمد راشد الشامسي، وسالم خلف الشامسي إلى كريمة سعيد دنان الشامسي، ويُعرب عن خالص تهانيه للعرسان وذويهم، متمنياً لهم حياة أُسرية سعيدة."
@@ -2309,7 +2279,7 @@
       "language": "en",
       "tweets": [
         {
-          "text": "عيد الأضحى فرحة تتسع لها القلوب، وبركة تمتلئ بها البيوت، ولحظات تصنع بهجتنا ومسرّتنا، وأيام تجمعنا على الخير والمحبة والسلام. كل عام وأنتم بخير.   Eid Al Adha is a time of joy, blessings, and moments that bring families and loved ones together. Eid Mubarak.",
+          "text": "Eid al-Adha is a joy that expands hearts, a blessing that fills homes, moments that create our joy and pleasure, and days that bring us together in goodness, love and peace. Season's greetings.   Eid Al Adha is a time of joy, blessings, and moments that bring families and loved ones together. Eid Mubarak.",
           "timestamp": "2026-05-27T06:15:09.000Z",
           "permalink": "https://x.com/GCOQatar/status/2059518753323221360",
           "originalText": "عيد الأضحى فرحة تتسع لها القلوب، وبركة تمتلئ بها البيوت، ولحظات تصنع بهجتنا ومسرّتنا، وأيام تجمعنا على الخير والمحبة والسلام. كل عام وأنتم بخير.   Eid Al Adha is a time of joy, blessings, and moments that bring families and loved ones together. Eid Mubarak."
@@ -2338,6 +2308,11 @@
       "language": "en",
       "tweets": [
         {
+          "text": "S. Korean Defense Minister: #Seoul, #Tokyo to Resume Maritime Search and Rescue Drills after 9 Years Hiatus #QNA\n\nhttps://\nbit.ly/4vi0sf1",
+          "timestamp": "2026-05-31T05:01:02.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2060949651788886145"
+        },
+        {
           "text": "Three People Killed, Several Injured in Israeli Airstrikes on Southern #Lebanon\n#QNA\n\nhttps://\nbit.ly/4vjFmNw",
           "timestamp": "2026-05-30T22:03:15.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2060844515175387378"
@@ -2356,11 +2331,6 @@
           "text": "#QNA_Infographic |\n#Cyprus President Commends #Qatar's Role in Supporting De-escalation, Promoting Dialogue in Region\n#QNA",
           "timestamp": "2026-05-30T20:08:09.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2060815547822948822"
-        },
-        {
-          "text": "#Qatar Qualifies for Semifinals of Volleyball World Beach Pro Tour Ostrava Elite 16\n#QNA\n\nhttps://\nbit.ly/3RWgM6N",
-          "timestamp": "2026-05-30T19:53:14.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2060811792637448661"
         }
       ]
     },
@@ -2532,7 +2502,7 @@
           "originalText": "الدفاع المدني ينقذ 5 أطفال من حريق منزل في منطقة عالي\n\n\nhttps://\npolicemc.gov.bh/news/78966/"
         },
         {
-          "text": "Civil Defense rescued 5 children and was able to extinguish a fire that broke out in a house in the Aali area, without causing any injuries. Investigations are underway to find out the cause of the fire.",
+          "text": "Civil Defense rescued 5 children and was able to extinguish a fire that broke out in a house in the Aali area, without causing any casualties. Investigations are underway to find out the cause of the fire.",
           "timestamp": "2026-05-28T23:18:44.000Z",
           "permalink": "https://x.com/moi_bahrain/status/2060138734708830375",
           "originalText": "الدفاع المدني ينقذ 5 أطفال ويتمكن من إخماد حريق اندلع في منزل بمنطقة عالي ، دون وقوع إصابات، والتحريات جارية لمعرفة سبب اندلاع الحريق."
@@ -2656,7 +2626,7 @@
           "permalink": "https://x.com/ONA_eng/status/1861103939133022332"
         },
         {
-          "text": "HH the Honourable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of Sultan of #Oman, has addressed a message of greetings on the occasion of Omani Women’s Day—the 17th of October. She thanks them for their great contribution to the nation’s development.\n #يوم_المراه_العمانيه",
+          "text": "HH the Honorable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of the Sultan of #Oman has addressed a message of greetings on the occasion of Omani Women’s Day—the 17th of October. She thanked them for their great contribution to the nation’s development.\n #Omani_Woman's_Day",
           "timestamp": "2022-10-17T03:06:27.000Z",
           "permalink": "https://x.com/ONA_eng/status/1581844059093864448",
           "originalText": "HH the Honourable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of Sultan of #Oman, has addressed a message of greetings on the occasion of Omani Women’s Day—the 17th of October. She thanks them for their great contribution to the nation’s development.\n #يوم_المراه_العمانيه"
@@ -2815,7 +2785,7 @@
           "originalText": "السمة الأبرز لثورة 26 سبتمبر تكمن في أهدافها المعلنة، والتي مثلت نقلة نوعية في الفكر السياسي. على الرغم من التحديات التي واجهت تحقيق هذه الأهداف، وتجاوز بعضها مع مرور الوقت، إلا أنها لا تزال تشكل إرثاً قيماً. هذه الأهداف تُعبر عن تطلعات الشعب وطموحاته في بناء مجتمع أكثر عدالة"
         },
         {
-          "text": "With the start of disbursing financial dues to military and security employees who were forcibly removed from their jobs in the southern governorates, we find it an opportunity today to congratulate this step, which, even if it came late, nevertheless came to lift grievances and make reparation for even part of the harm that they suffered over the past years.\n\nThe disbursement of these dues is a result",
+          "text": "With the start of disbursing financial dues to military and security employees who were forcibly removed from their jobs in the southern governorates, we find it an opportunity today to congratulate this step, which, even if it came late, nevertheless came to lift grievances and redress even part of the harm that they suffered over the past years.\n\nThe disbursement of these dues is a result",
           "timestamp": "2024-09-04T17:10:05.000Z",
           "permalink": "https://x.com/AbuZar3a/status/1831379216937762933",
           "originalText": "مع بدء صرف المستحقات المالية للموظفين العسكريين والأمنيين المُبعدين قسراً عن وظائفهم في المحافظات الجنوبية.. نجدها فرصة اليوم لنبارك هذه الخطوة التي وإن أتت متأخرة، إلا أنها جاءت لرفع المظالم وجبر ولو جزء من الضرر الذي لحق بهم طوال السنوات الماضية.\n\nإن صرف هذه المستحقات هو نتيجة"
@@ -2832,31 +2802,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": "لازلنا في قلب معركتنا التي بدأناها بقيادة الزعيم في ديسمبر 2017م.\nاستشهد زعيمنا ورفيقه الأمين وعدد من انبل الشجعان، واعتقل عشرات وأسر آخرين. أفرج عن اغلبهم وبقي ابني وأخي هناك في سجون الكهنوت والعمالة.\nولكن ديسمبر لم ولن تتوقف حتى النصر.\nالمجد لديسمبر، والخلود للشهداء.",
+          "text": "We are still in the heart of our battle that we began under the leader’s leadership in December 2017.\nOur leader, his faithful companion, and a number of the noblest braves were martyred, and dozens were arrested and others captured. Most of them were released, and my son and brother remained there in the priesthood and labor prisons.\nBut December did not and will not stop until victory.\nGlory to December, and eternity to the martyrs.",
           "timestamp": "2022-12-02T07:21:34.000Z",
           "permalink": "https://x.com/tarikyemen/status/1598578102573023233",
           "originalText": "لازلنا في قلب معركتنا التي بدأناها بقيادة الزعيم في ديسمبر 2017م.\nاستشهد زعيمنا ورفيقه الأمين وعدد من انبل الشجعان، واعتقل عشرات وأسر آخرين. أفرج عن اغلبهم وبقي ابني وأخي هناك في سجون الكهنوت والعمالة.\nولكن ديسمبر لم ولن تتوقف حتى النصر.\nالمجد لديسمبر، والخلود للشهداء."
         },
         {
-          "text": "نمد أيدينا للسلام ،سلام الشجعان من أجل السلام وليس الأستسلام #اليمن_الزعيم",
+          "text": "We extend our hands for peace, the peace of the brave for peace and not surrender #Yemen_Leader",
           "timestamp": "2016-03-27T21:09:20.000Z",
           "permalink": "https://x.com/tarikyemen/status/714197637994516482",
           "originalText": "نمد أيدينا للسلام ،سلام الشجعان من أجل السلام وليس الأستسلام #اليمن_الزعيم"
         },
         {
-          "text": "من الحديدة الى مارب وكل مابينهما من جبهات قتال الحوثي هي جبهتتا.\nنكرر دعوتنا للشرعية لاسقاط اتفاق السويد سياسيا وترتيب الصفوف حتى نقاتل كجبهة واحدة في مارب او في الساحل، ونحن ضد كل الاتفاقات والتفاهمات المنفردة مع الحوثي حتى في قضية الأسرى.\nمعركتنا واحدة وعدونا واحد.",
+          "text": "From Hodeidah to Marib and all the fronts between them that are fighting the Houthis are two fronts.\nWe reiterate our call for legitimacy to drop the Sweden agreement politically and to regroup so that we can fight as a single front in Marib or the coast, and we are against all individual agreements and understandings with the Houthis, even in the issue of prisoners.\nOur battle is one and our enemy is one.",
           "timestamp": "2021-02-10T19:18:40.000Z",
           "permalink": "https://x.com/tarikyemen/status/1359582575547867140",
           "originalText": "من الحديدة الى مارب وكل مابينهما من جبهات قتال الحوثي هي جبهتتا.\nنكرر دعوتنا للشرعية لاسقاط اتفاق السويد سياسيا وترتيب الصفوف حتى نقاتل كجبهة واحدة في مارب او في الساحل، ونحن ضد كل الاتفاقات والتفاهمات المنفردة مع الحوثي حتى في قضية الأسرى.\nمعركتنا واحدة وعدونا واحد."
         },
         {
-          "text": "#NewProfilePic.  \nجمعة مباركة",
+          "text": "#NewProfilePic.  \nBlessed Friday",
           "timestamp": "2018-01-12T07:05:49.000Z",
           "permalink": "https://x.com/tarikyemen/status/951711801095356417",
           "originalText": "#NewProfilePic.  \nجمعة مباركة"
         },
         {
-          "text": "رحمة الله على جدك الزعيم يا ولدي \"عفاش\"، فقد كان ابٌ لكل يمني ويمنية وليس لنا وحدنا، ملتزمون بوصاياه كلها، كنا في المعتقلات أو خارجها.\nإحتفل بعيد ميلادك يا ابني الحبيب في سجنك رافع الرأس، مؤمناً بالله و باليمن، ومعك كل يمني أسير أو مختطف بيد الكهنوت.",
+          "text": "May God have mercy on your grandfather, the leader, my son, Afash. He was a father to every Yemeni, male and female, and not to us alone. We were committed to all of his commandments, whether we were in detention centers or outside of them.\nCelebrate your birthday, my beloved son, in your prison with your head held high, believing in God and Yemen, and with you every Yemeni prisoner or kidnapped by the hand of the priesthood.",
           "timestamp": "2018-01-16T18:47:43.000Z",
           "permalink": "https://x.com/tarikyemen/status/953337991040307200",
           "originalText": "رحمة الله على جدك الزعيم يا ولدي \"عفاش\"، فقد كان ابٌ لكل يمني ويمنية وليس لنا وحدنا، ملتزمون بوصاياه كلها، كنا في المعتقلات أو خارجها.\nإحتفل بعيد ميلادك يا ابني الحبيب في سجنك رافع الرأس، مؤمناً بالله و باليمن، ومعك كل يمني أسير أو مختطف بيد الكهنوت."
@@ -2883,31 +2853,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": "هذا حسابي المعتمد، وعلى الإخوة المتابعين ووسائل الإعلام الحذر من الوقوع في فخاخ الحسابات الوهمية، وأن يكونوا على بينة من أمرهم للتمييز بين الحساب الرسمي والمزيف.",
+          "text": "This is my approved account, and fellow followers and media outlets should be careful not to fall into the traps of fake accounts, and be aware of what they are doing to distinguish between the official account and the fake one.",
           "timestamp": "2018-03-31T05:26:19.000Z",
           "permalink": "https://x.com/abdusalamsalah/status/979953011651956737",
           "originalText": "هذا حسابي المعتمد، وعلى الإخوة المتابعين ووسائل الإعلام الحذر من الوقوع في فخاخ الحسابات الوهمية، وأن يكونوا على بينة من أمرهم للتمييز بين الحساب الرسمي والمزيف."
         },
         {
-          "text": "فيما كانت طائرة استطلاع تابعة للقوات البحرية اليمنية تقوم بعمل استطلاعي عرض البحر الأحمر قامت بارجة أمريكية بإطلاق النار بطريقة هيستيرية وبأسلحة متعددة تظهر حالة الإرباك والقلق حيث انفجر أحد الصواريخ بالقرب من سفينة متجهة جنوب البحر الأحمر تابعة لجمهورية الغابون وهي آتية من",
+          "text": "While a reconnaissance plane belonging to the Yemeni naval forces was carrying out reconnaissance work across the Red Sea, an American warship opened fire in a hysterical manner with multiple weapons, showing the state of confusion and anxiety. One of the missiles exploded near a ship heading south of the Red Sea belonging to the Republic of Gabon, coming from",
           "timestamp": "2023-12-24T15:17:10.000Z",
           "permalink": "https://x.com/abdusalamsalah/status/1738941897261863150",
           "originalText": "فيما كانت طائرة استطلاع تابعة للقوات البحرية اليمنية تقوم بعمل استطلاعي عرض البحر الأحمر قامت بارجة أمريكية بإطلاق النار بطريقة هيستيرية وبأسلحة متعددة تظهر حالة الإرباك والقلق حيث انفجر أحد الصواريخ بالقرب من سفينة متجهة جنوب البحر الأحمر تابعة لجمهورية الغابون وهي آتية من"
         },
         {
-          "text": "نص الاتفاق \n\n1- الغاء القرارات والاجراءات الاخيره ضد البنوك من الجانبين والتوقف مستقبلا عن اي قرارات او اجراءات مماثله .\n2-استئناف طيران اليمنية للرحلات بين صنعاء والأردن وزيادة عدد رحلاتها إلى ثلاث يوميا، وتسيير رحلات إلى القاهره والهند يومياً او بحسب الحاجة .\n3- تعقد اجتماعات",
+          "text": "Text of the agreement \n\n1- Cancel recent decisions and procedures against banks on both sides and stop any similar decisions or procedures in the future.\n2- Yemenia Airlines will resume flights between Sanaa and Jordan and increase the number of its flights to three daily, and operate flights to Cairo and India daily or as needed.\n3- Meetings are held",
           "timestamp": "2024-07-23T08:39:18.000Z",
           "permalink": "https://x.com/abdusalamsalah/status/1815667997240951020",
           "originalText": "نص الاتفاق \n\n1- الغاء القرارات والاجراءات الاخيره ضد البنوك من الجانبين والتوقف مستقبلا عن اي قرارات او اجراءات مماثله .\n2-استئناف طيران اليمنية للرحلات بين صنعاء والأردن وزيادة عدد رحلاتها إلى ثلاث يوميا، وتسيير رحلات إلى القاهره والهند يومياً او بحسب الحاجة .\n3- تعقد اجتماعات"
         },
         {
-          "text": "عمليات اليمن البحرية بهدف مساندة الشعب الفلسطيني في مواجهة العدوان والحصار على غزة، وليست استعراضا للقوة ولا تحديا لأحد، ومن يسعى لتوسيع الصراع فعليه تحمل عواقب أفعاله، والتحالف المشكل أمريكيا هو لحماية إسرائيل وعسكرة للبحر دون أي مسوغ، ولن يوقف اليمن عن مواصلة عملياته المشروعة",
+          "text": "Yemen's naval operations aim to support the Palestinian people in confronting the aggression and siege on Gaza, and are not a show of force or a challenge to anyone. Whoever seeks to expand the conflict must bear the consequences of his actions. The American-formed coalition is to protect Israel and militarize the sea without any justification, and will not stop Yemen from continuing its legitimate operations.",
           "timestamp": "2023-12-19T08:56:08.000Z",
           "permalink": "https://x.com/abdusalamsalah/status/1737034064299729150",
           "originalText": "عمليات اليمن البحرية بهدف مساندة الشعب الفلسطيني في مواجهة العدوان والحصار على غزة، وليست استعراضا للقوة ولا تحديا لأحد، ومن يسعى لتوسيع الصراع فعليه تحمل عواقب أفعاله، والتحالف المشكل أمريكيا هو لحماية إسرائيل وعسكرة للبحر دون أي مسوغ، ولن يوقف اليمن عن مواصلة عملياته المشروعة"
         },
         {
-          "text": "تعقيبا على بيان وزراء خارجية مجموعة الدول الصناعية السبع فيما يخص الأمن البحري.\n\nنؤكد أن اليمن حريصة على الأمن البحري وسلامة الممرات المائية ، وأن القوات البحرية اليمنية ملتزمة بحماية المياه اليمنية بموجب صلاحياتها السيادية.\n\nأما بشأن العملية التي تمت في الآونة الأخيرة فهي منحصرة",
+          "text": "In response to the statement of the Foreign Ministers of the Group of Seven Industrialized Countries regarding maritime security.\n\nWe affirm that Yemen is keen on maritime security and the safety of waterways, and that the Yemeni naval forces are committed to protecting Yemeni waters under their sovereign powers.\n\nAs for the operation that took place recently, it is limited",
           "timestamp": "2023-11-29T13:22:20.000Z",
           "permalink": "https://x.com/abdusalamsalah/status/1729853298763579609",
           "originalText": "تعقيبا على بيان وزراء خارجية مجموعة الدول الصناعية السبع فيما يخص الأمن البحري.\n\nنؤكد أن اليمن حريصة على الأمن البحري وسلامة الممرات المائية ، وأن القوات البحرية اليمنية ملتزمة بحماية المياه اليمنية بموجب صلاحياتها السيادية.\n\nأما بشأن العملية التي تمت في الآونة الأخيرة فهي منحصرة"
@@ -2924,31 +2894,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": "خط الدفاع الأول عن #مكة و #المدينة المنورة على صاحبها واله افضل الصلاة والتسليم\nإزالة الكيان الغاصب عن #القدس و #فلسطين\nهذه هي المعادلة وهذه هي ما يجب على #سعودية #خادم_الحرمين تجيش الجيوش لمعركتها \nوليس \n#اليمن \nوعليه ارسال انظمة الاعتراض إلى #سيناء وتفعيلها لاعتراض طيران العدو",
+          "text": "The first line of defense for #Mecca and #Medina is upon its owner, and may God bless him and grant him peace\nRemoving the usurping entity from #Jerusalem and #Palestine\nThis is the equation and this is what Saudi Arabia must mobilize armies for its battle \nAnd not \n#Yemen \nHe must send interception systems to #Sinai and activate them to intercept enemy aircraft",
           "timestamp": "2023-11-04T04:47:52.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1720664135560499267",
           "originalText": "خط الدفاع الأول عن #مكة و #المدينة المنورة على صاحبها واله افضل الصلاة والتسليم\nإزالة الكيان الغاصب عن #القدس و #فلسطين\nهذه هي المعادلة وهذه هي ما يجب على #سعودية #خادم_الحرمين تجيش الجيوش لمعركتها \nوليس \n#اليمن \nوعليه ارسال انظمة الاعتراض إلى #سيناء وتفعيلها لاعتراض طيران العدو"
         },
         {
-          "text": "لو كان رسول الله محمد بين ظهراني العرب والمسلمين اليوم لأرسل جيشه إلى فلسطين وليس إلى اليمن\nو لفتح #القدس لا #صنعاء\nأفيقوا أيها العرب من تيهكم\nفهاهي أمريكا تعلن #صفقة_الهوان بأموالكم ويقدمها حكامكم وهم صاغرون\nولو قدم للمجاهدين في فلسطين 5 مليار بدلا عن الخمسين لحرروا فلسطين",
+          "text": "If the Messenger of God, Muhammad, was among the Arabs and Muslims today, he would have sent his army to Palestine and not to Yemen\nAnd to open #Jerusalem, not #Sanaa\nWake up, O Arabs, from your wandering\nHere is America announcing a #humiliating_deal with your money and your rulers offering it while they are submissive\nIf the Mujahideen in Palestine had been given 5 billion instead of the fifty, they would have liberated Palestine",
           "timestamp": "2020-01-29T21:45:11.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1222636836612378630",
           "originalText": "لو كان رسول الله محمد بين ظهراني العرب والمسلمين اليوم لأرسل جيشه إلى فلسطين وليس إلى اليمن\nو لفتح #القدس لا #صنعاء\nأفيقوا أيها العرب من تيهكم\nفهاهي أمريكا تعلن #صفقة_الهوان بأموالكم ويقدمها حكامكم وهم صاغرون\nولو قدم للمجاهدين في فلسطين 5 مليار بدلا عن الخمسين لحرروا فلسطين"
         },
         {
-          "text": "اذا كان السبب في عدم إدخال الغذاء والمساعدات إلى #غزة خوف #مصر من القصف لها\n فنحن حاضرون لارسال من يقود ناقلات المساعدات ممن هم ممارسون على إيصال المدد للجبهات تحت القصف خلال العدوان الأمريكي البريطاني السعودي الاماراتي وحلفائه على اليمن \nمن أهل التجربة\nكما ان الاخوة المجاهدين",
+          "text": "If the reason for not bringing food and aid into #Gaza is #Egypt’s fear of bombing it\n We are ready to send those who drive aid carriers who are practiced in delivering supplies to the fronts under bombardment during the American-British-Saudi-Emirati aggression and its allies against Yemen. \nPeople of experience\nLikewise, the Mujahideen brothers",
           "timestamp": "2024-02-21T20:56:47.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1760408248601968673",
           "originalText": "اذا كان السبب في عدم إدخال الغذاء والمساعدات إلى #غزة خوف #مصر من القصف لها\n فنحن حاضرون لارسال من يقود ناقلات المساعدات ممن هم ممارسون على إيصال المدد للجبهات تحت القصف خلال العدوان الأمريكي البريطاني السعودي الاماراتي وحلفائه على اليمن \nمن أهل التجربة\nكما ان الاخوة المجاهدين"
         },
         {
-          "text": "اليمن ينجح بفضل الله في تركيب اول صمام للقلب في اليمن بدون تدخل جراحي شكرا للأطباء القلب في اليمن شكرا لكل من ساهم معهم \nشكرا لدكتور طه الميموني وفريقه \nودامت #اليمن عزا وشموخ واستمرار في التطور .",
+          "text": "Thanks to God, Yemen succeeds in installing the first heart valve in Yemen without surgical intervention. Thank you to the cardiologists in Yemen. Thank you to everyone who contributed with them. \nThank you to Dr. Taha Al-Maymouni and his team \n#Yemen remained proud, proud, and continued to develop.",
           "timestamp": "2024-08-01T16:51:26.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1819053335137128469",
           "originalText": "اليمن ينجح بفضل الله في تركيب اول صمام للقلب في اليمن بدون تدخل جراحي شكرا للأطباء القلب في اليمن شكرا لكل من ساهم معهم \nشكرا لدكتور طه الميموني وفريقه \nودامت #اليمن عزا وشموخ واستمرار في التطور ."
         },
         {
-          "text": "جيد إنهاء الحصار على #صنعاء  من قبل التحالف الأمريكي البريطاني السعودي الاماراتي وحلفائه\nباعلان فتح طريق مارب صنعاء الفرضة\nاذا استمر وسمح لليمنيين بالعبور منه مستقبلا\nو إن شاء الله نرى ذلك ايضا في المنفذين الآخرين طريق مارب_صرواح صنعاء\nو مارب _البيضاء وندعوهم إلىالاستمرار في فك",
+          "text": "It is good to end the siege on #Sanaa by the American-British-Saudi-Emirati coalition and its allies\nAnnouncing the opening of the Marib-Sanaa Al-Fardha road\nIf it continues and allows Yemenis to pass through it in the future\nAnd, God willing, we will also see this in the other two crossings, the Marib-Sarwah-Sanaa road\nAnd Marib Al-Bayda, and we call on them to continue to dismantle",
           "timestamp": "2024-02-22T15:55:58.000Z",
           "permalink": "https://x.com/Moh_Alhouthi/status/1760694933139140730",
           "originalText": "جيد إنهاء الحصار على #صنعاء  من قبل التحالف الأمريكي البريطاني السعودي الاماراتي وحلفائه\nباعلان فتح طريق مارب صنعاء الفرضة\nاذا استمر وسمح لليمنيين بالعبور منه مستقبلا\nو إن شاء الله نرى ذلك ايضا في المنفذين الآخرين طريق مارب_صرواح صنعاء\nو مارب _البيضاء وندعوهم إلىالاستمرار في فك"
@@ -2965,13 +2935,13 @@
       "language": "en",
       "tweets": [
         {
-          "text": "بيان السيد القائد عبدالملك بدرالدين الحوثي بمناسبة عيد الأضحى المبارك 1447هـ",
+          "text": "Statement of Commander Abdul-Malik Badr al-Din al-Houthi on the occasion of Eid al-Adha 1447 AH",
           "timestamp": "2026-05-26T22:18:32.000Z",
           "permalink": "https://x.com/Nasr_Amer1/status/2059398810720473595",
           "originalText": "بيان السيد القائد عبدالملك بدرالدين الحوثي بمناسبة عيد الأضحى المبارك 1447هـ"
         },
         {
-          "text": "من كان يتصور أنه سيشاهد مثل هذا المشهد من شمال مدينة غزة ؟؟!!!\n\nسبحانك يا الله ما أعظمك ولك الحمد على هذا الانتصار العظيم.",
+          "text": "Who would have imagined that he would see such a scene from northern Gaza City??!!!\n\nGlory be to You, O God, how great You are, and praise be to You for this great victory.",
           "timestamp": "2025-01-19T15:49:07.000Z",
           "permalink": "https://x.com/Nasr_Amer1/status/1881005977241260216",
           "originalText": "من كان يتصور أنه سيشاهد مثل هذا المشهد من شمال مدينة غزة ؟؟!!!\n\nسبحانك يا الله ما أعظمك ولك الحمد على هذا الانتصار العظيم."
@@ -3016,13 +2986,13 @@
       "language": "en",
       "tweets": [
         {
-          "text": "بكل تأكيد اي اتفاقات سياسية لن تقف أمام حياة المواطنين ومعيشتهم، ومن عليه تحكيم العقل هو من يريد ان يستخدم اتفاق الرياض لتعذيب الناس وتسجيل نقاط سياسية.\n\n#جنوبيون_لانعرف_الا_النصر",
+          "text": "Certainly, any political agreements will not stand in the way of the lives and livelihoods of citizens, and the one who must exercise reason is the one who wants to use the Riyadh Agreement to torture people and score political points.\n\n#Southern_people_we_don't_know_except_victory",
           "timestamp": "2020-04-25T23:07:54.000Z",
           "permalink": "https://x.com/AmrAlBidh/status/1254185394486247433",
           "originalText": "بكل تأكيد اي اتفاقات سياسية لن تقف أمام حياة المواطنين ومعيشتهم، ومن عليه تحكيم العقل هو من يريد ان يستخدم اتفاق الرياض لتعذيب الناس وتسجيل نقاط سياسية.\n\n#جنوبيون_لانعرف_الا_النصر"
         },
         {
-          "text": "صباح جديد بأهداف جديدة .. \n\n#عدن",
+          "text": "New morning with new goals.. \n\n#Aden",
           "timestamp": "2023-05-09T01:01:42.000Z",
           "permalink": "https://x.com/AmrAlBidh/status/1655739787406372867",
           "originalText": "صباح جديد بأهداف جديدة .. \n\n#عدن"
@@ -3067,25 +3037,25 @@
       "language": "en",
       "tweets": [
         {
-          "text": "الرئيس القائد عيدروس الزُبيدي والوفد المرافق له يؤدون مناسك العمرة اليوم الثلاثاء 10سبتمبر",
+          "text": "President Commander Aidaroos Al-Zubaidi and his accompanying delegation perform Umrah rituals today, Tuesday, September 10",
           "timestamp": "2019-09-10T18:00:21.000Z",
           "permalink": "https://x.com/AidrosAlzubidi/status/1171483566007451661",
           "originalText": "الرئيس القائد عيدروس الزُبيدي والوفد المرافق له يؤدون مناسك العمرة اليوم الثلاثاء 10سبتمبر"
         },
         {
-          "text": "بمناسبة حلول عيد الفطر المبارك يسعدني ان أتوجه الى أبناء شعبنا الجنوبي العظيم في داخل الوطن وخارجه، بأصدق آيات التهاني والتبريكات، سائلين المولى ان يعيده على شعبنا وأمتنا بالخير والبركات والنصر والتمكين.",
+          "text": "On the occasion of the blessed Eid Al-Fitr, I am pleased to address the people of our great southern people inside and outside the country with my most sincere congratulations and blessings, asking the Lord to return it to our people and nation with goodness, blessings, victory and empowerment.",
           "timestamp": "2022-05-01T20:56:06.000Z",
           "permalink": "https://x.com/AidrosAlzubidi/status/1520869696337240069",
           "originalText": "بمناسبة حلول عيد الفطر المبارك يسعدني ان أتوجه الى أبناء شعبنا الجنوبي العظيم في داخل الوطن وخارجه، بأصدق آيات التهاني والتبريكات، سائلين المولى ان يعيده على شعبنا وأمتنا بالخير والبركات والنصر والتمكين."
         },
         {
-          "text": "بسم الله الرحمن الرحيم\n\nقال تعالى {مِّنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا} صدق الله العظيم\nبقلوب مؤمنة بقضاء الله وقدره، وببالغ الحزن وعميق الأسى، ننعي إلى شعبنا",
+          "text": "In the name of God, the Most Gracious, the Most Merciful\n\nGod Almighty said: {Among the believers are men who have been true to what they covenanted with God. And among them are some who have fulfilled their promise, and among them are some who wait. And they have not changed it by any means.} God Almighty has spoken the truth.\nWith hearts that believe in God’s will and destiny, and with great sadness and deep sorrow, we mourn for our people",
           "timestamp": "2023-08-10T11:44:20.000Z",
           "permalink": "https://x.com/AidrosAlzubidi/status/1689603584730468352",
           "originalText": "بسم الله الرحمن الرحيم\n\nقال تعالى {مِّنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا تَبْدِيلًا} صدق الله العظيم\nبقلوب مؤمنة بقضاء الله وقدره، وببالغ الحزن وعميق الأسى، ننعي إلى شعبنا"
         },
         {
-          "text": "أبناء الـ #جنوب يعلنون تأييدهم المطلق لخطوات القوات الجنوبية والمجلس الانتقالي لبسط الأمن وحماية المواطنين ويجددون تفويضهم للرئيس القائد عيدروس الزُبيدي\n\n\nhttp://\nstcaden.com/news/10114",
+          "text": "The people of the #South declare their absolute support for the steps of the southern forces and the Transitional Council to establish security and protect citizens, and renew their mandate to President Commander Aidaroos Al-Zubaidi.\n\n\nhttp://\nstcaden.com/news/10114",
           "timestamp": "2019-08-15T10:48:25.000Z",
           "permalink": "https://x.com/AidrosAlzubidi/status/1161952778442485760",
           "originalText": "أبناء الـ #جنوب يعلنون تأييدهم المطلق لخطوات القوات الجنوبية والمجلس الانتقالي لبسط الأمن وحماية المواطنين ويجددون تفويضهم للرئيس القائد عيدروس الزُبيدي\n\n\nhttp://\nstcaden.com/news/10114"
