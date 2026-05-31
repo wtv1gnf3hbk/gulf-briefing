@@ -1,74 +1,67 @@
 **Top News**
 
-- Oman detected a suspected floating mine in the Strait of Hormuz, the Maritime Security Centre [reported](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz)
-- Former Yemeni President Abd Rabbuh Mansour Hadi died, with Saudi Defense Minister Prince Khalid bin Salman conveying leadership condolences on behalf of the Kingdom, Prince Khalid bin Salman confirmed
-- Saudi Arabia launched a friendly match against Ecuador today as preparation for the 2026 World Cup, according to [Kooora](https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%94%D8%AD%D8%AF-31-%D9%85%D8%A7%D9%8A%D9%88-2026--%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D9%8A%D9%86/bltfd559a1bdf0ea118)
-- American soldiers were injured in an Iranian attack on Kuwait last Wednesday, [Youm7 reported](https://www.youm7.com/story/2026/5/31/%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D9%86%D9%88%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/7433188)
+- Saudi Arabia welcomed former Yemeni President Abd Rabbuh Mansour Hadi's death, with Prince Khalid bin Salman conveying leadership condolences and calling him "a wise leader who was keen on the security, stability, development and prosperity of his country" ([Twitter](https://twitter.com/kbsalsaud))
+
+- Oman detected a suspected floating mine in the Strait of Hormuz, its Maritime Security Centre reported ([Times of Oman](https://timesofoman.com//article/172387-omans-maritime-security-centre-detects-suspected-floating-mine-in-strait-of-hormuz))
+
+- Saudi Arabia played Ecuador in a friendly match in New Jersey as preparation for the 2026 World Cup, according to Al Ekhbariya TV coverage ([Twitter](https://twitter.com/alekhbariyatv))
+
+- Qatar Foreign Minister Prince Faisal bin Farhan chaired an International Conference for the Peaceful Resolution of the Palestinian Issue and Implementation of the Two-State Solution with French Foreign Minister Jean-Noël Barrot ([Twitter](https://twitter.com/FaisalbinFarhan))
+
+- Saudi Minister of Foreign Affairs appreciated President Trump's decision to give diplomacy another chance to reach an agreement ending war and restoring maritime navigation freedom in the Strait of Hormuz ([Twitter](https://twitter.com/FaisalbinFarhan))
+
+- UAE President and his deputies congratulated the Presidential Leadership Council chairman on the death of former Yemeni President Abd Rabbuh Mansour Hadi, according to Emirates News Agency ([Twitter](https://twitter.com/WAMNEWS_ENG))
 
 **Energy & Economy**
 
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the UAE Government Media Office announced
-- Saudi Interior Ministry arrested 8,090 violators of residency, work, and border security regulations within one week
+- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, the UAE Government Media Office announced ([Twitter](https://twitter.com/UAEmediaoffice))
+
+- Oman published new restrictions on foreign investors under its Foreign Capital Investment Law ([Times of Oman](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law))
 
 **Country Watch**
 
 **Saudi Arabia**
-
-- Crown Prince Mohammed bin Salman met with the President of Chad at Mona Palace to review bilateral relations and cooperation prospects, according to the Saudi Foreign Ministry
-- Foreign Minister Prince Faisal bin Farhan announced that the Kingdom highly appreciates President Trump's decision to give diplomacy a chance to reach an agreement to end the war and restore security in the Strait of Hormuz
-- Prince Faisal chaired the International Conference for the Peaceful Resolution of the Palestinian Issue with his French counterpart, calling for recognition of Palestine
-- Saudi Ambassador to Yemen Mohammed Al-Jabir will visit Sanaa with an Omani delegation to consolidate the truce and support prisoner exchanges
+- Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and discuss regional challenges ([Twitter](https://twitter.com/kbsalsaud))
+- Interior Ministry arrested 8,090 violators of residency, work, and border security regulations within a week ([Twitter](https://twitter.com/MOISaudiArabia))
 
 **UAE**
-
-- Tahnoon bin Zayed chaired the second MGX board meeting of 2026, reviewing investments and growth priorities for the strategic investment company
-- Dubai Media Office announced Emirates unveiled a special Arsenal FC A380 livery following the club's Premier League championship
-- UAE leads the world in AI talent concentration with 121% growth between 2019 and 2025, Sheikh Abdullah bin Zayed noted
+- Sheikh Mohammed bin Rashid launched the first batch of artificial intelligence assistants in procurement, taxes, customer happiness, and technical support ([Twitter](https://twitter.com/HHShkMohd))
+- Sheikh Tahnoon bin Zayed received U.S. Representative Josh Gottheimer to review UAE-U.S. strategic relations ([Twitter](https://twitter.com/hhtbzayed))
 
 **Qatar**
-
-- Sheikh Tamim appointed Mohammed bin Abdulrahman Al Thani as Prime Minister, Al Thani announced on his account
-- Qatar advanced to the semifinals of the Volleyball World Beach Pro Tour Ostrava Elite 16, Qatar News Agency [reported](https://bit.ly/3RWgM6N)
+- PM Al Thani was honored by Emir Sheikh Tamim's appointment as Prime Minister, expressing commitment to serving the nation ([Twitter](https://twitter.com/MBA_AlThani_))
 
 **Bahrain**
-
-- Civil Defense rescued five children from a house fire in Aali without casualties, the Interior Ministry [reported](https://policemc.gov.bh/en/news/78966/)
-- Bahrain condemned the Iranian attack on Kuwait, the Foreign Ministry [stated](https://bit.ly/4dAMr6j)
+- Civil Defense rescued five children from a house fire in Aali area without casualties, with investigations ongoing to determine the cause ([Twitter](https://twitter.com/moi_bahrain))
 
 **Kuwait**
-
-- Kuwait Airways received its first return flight of pilgrims at Terminal 4, KUNA [reported](http://ow.ly/QMPA30sW8QU)
-- A celestial alignment captivated onlookers as the full moon positioned directly above a mosque crescent on Saturday evening, coinciding with a Blue Moon phenomenon
+- First groups of pilgrims returned to Kuwait following Hajj completion according to KUNA ([Twitter](https://twitter.com/kuna_en))
 
 **Oman**
-
-- Sultan Haitham offered Eid Al-Adha prayers at Sultan Qaboos Mosque in Sohar, Oman News Agency [reported](http://n9.cl/adorv)
-- Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, reaffirming diplomatic engagement efforts
-- Prince William received HH Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations
+- Sultan Haitham bin Tarik offered Eid Al Adha prayer at Sultan Qaboos Mosque in Sohar, North Al Batinah Governorate ([Twitter](https://twitter.com/ONA_eng))
 
 **Yemen**
-
-- IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, Saba News Agency reported
-- STC President Aidarous al-Zubaidi performed Umrah rituals, according to his account
-- Houthi spokesman Mohammed Abdulsalam announced a text agreement canceling banking restrictions and resuming Yemenia Airlines flights to Jordan with increased frequency
+- Houthi leader Mohammed Ali Al Houthi declared Yemen's success in installing the first heart valve without surgical intervention, praising cardiologists ([Twitter](https://twitter.com/Moh_Alhouthи))
+- Southern Transitional Council President Aidarous Al-Zubaidi declared absolute support for southern forces' steps to establish security ([Twitter](https://twitter.com/AidrosAlzubidi))
 
 **Official Signals**
 
-- Prince Khalid bin Salman met with UK National Security Advisor Jonathan Powell to discuss Saudi-British cooperation and regional security coordination
-- Saudi Foreign Minister Prince Faisal bin Farhan commended France's resolve to recognize Palestine as bolstering the path to peace
+- Anwar Gargash criticized Turkish Defense Minister's "provocative statement" as representing "a new downfall for his country's diplomacy" and called for Turkey to stop interference in Arab affairs ([Twitter](https://twitter.com/AnwarGargash))
+
+- Saudi Ambassador to Yemen Mohammed AlJabir announced plans to visit Sana'a with an Omani delegation to consolidate truce and ceasefire, support prisoner exchange, and discuss dialogue between Yemeni components ([Twitter](https://twitter.com/mohdsatj))
 
 **Coverage Flags**
 
-- Multiple homepage sites are leading with Hajj season success coverage and Eid Al-Adha congratulations from Gulf leaders
-- Yemen coverage spans three different entities: IRG government in Aden, Houthi administration in Sanaa, and Southern Transitional Council, requiring careful attribution
+- Multiple Gulf outlets' homepages are leading with Hajj season success stories and Eid Al-Adha celebrations
+
+- Significant focus on regional diplomatic moves, particularly around Yemen peace efforts and Palestinian issue discussions
 
 **Sources**
 
 - [Times of Oman](https://timesofoman.com)
-- [Kooora](https://www.kooora.com)
-- [Youm7](https://www.youm7.com)
-- [Qatar News Agency](https://bit.ly/3RWgM6N)
-- [Bahrain Ministry of Interior](https://policemc.gov.bh/en/news/78966/)
-- [Bahrain Foreign Ministry](https://bit.ly/4dAMr6j)
-- [Kuwait News Agency](http://ow.ly/QMPA30sW8QU)
-- [Oman News Agency](http://n9.cl/adorv)
+- [Reuters Gulf](https://www.reuters.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [AP Gulf](https://apnews.com)
+- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
+- [UAE Gov Media Office Twitter](https://twitter.com/UAEmediaoffice)
+- [Qatar News Agency Twitter](https://twitter.com/QNAEnglish)
