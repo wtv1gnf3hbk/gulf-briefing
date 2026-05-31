@@ -1,53 +1,50 @@
-Trump and Iran approach a diplomatic breakthrough as tensions over the Strait of Hormuz dominate Gulf security concerns. The [Times of Oman reports](https://timesofoman.com//article/172391-close-to-a-deal-trump-on-iran-negotiations) Trump is ["close to a deal"](https://timesofoman.com//article/172391-close-to-a-deal-trump-on-iran-negotiations) with Iran, while [BBC reports](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss) the US and Iran are "very close" but "not there yet." Iran has [intensified control](https://timesofoman.com//article/172394-travel-through-designated-routes-iran-tightens-grip-on-crucial-strait-of-hormuz-transit) over the Strait of Hormuz, requiring vessels to use designated routes, while Iranian media claims the IRGC [downed a US](https://timesofoman.com//article/172392-irgc-claims-downing-of-us-mq-1-drone-in-iranian-airspace-iranian-media) MQ-1 drone in Iranian airspace.
+# Gulf Bureau Daily Briefing
+**May 31, 2026**
 
-Post-Hajj diplomacy and regional realignments signal broader shifts as Gulf states navigate complex relationships. The 1.9 million pilgrims completed their Hajj journey, with [AP reporting](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnVpVTVhMXdfVU5YZHc5YThOM1FwOFhWYWg2R1hta0dvUTY2dFdmM1FwTEJSZlpwQTczMmZHUDR4XzJESkU2ZkYxQUpGUHl6NnVBMmxtOWRKQ3pCbHFvMFVOSGVhOHNQeDBGVllZM0lxdTBLWFNyQTVPYm1BWEg3WTZOWGFtVW1YRFA3ekRqOWVuRVZJb21aXy11OUxCVHg1RTVnZDVTTW5BUXJLaGRSQ0RiSzAwTWZudmdNMDBYVzhMY2RzR0d1c2pnWXlmNFpBTGg2eA?oc=5) the final circling around the Kaaba. Al Arabiya reports IRG leader Rashad Al-Alimi described [ties with Saudi](https://www.alarabiya.net/amp/saudi-today/2026/05/31/%D8%B1%D8%B4%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D9%82%D9%84%D8%AA-%D8%A7%D9%84%D9%89-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%85%D8%AB%D9%85%D8%B1%D8%A9-) Arabia as having "turned into a fruitful strategic partnership."
+Saudi Arabia welcomed the completion of this year's Hajj pilgrimage as nearly two million pilgrims departed Mecca following the farewell circumambulation of the Kaaba. The kingdom's extensive security and logistical preparations for the 1447 AH season concluded successfully, with [Prince Khalid bin Salman](https://x.com/kbsalsaud) expressing gratitude for the opportunity to serve the Two Holy Mosques and care for pilgrims. The Saudi Interior Ministry reported [arresting 8,090 violators](https://x.com/MOISaudiArabia) of residency, work, and border security regulations over the past week, demonstrating continued enforcement efforts during the pilgrimage period.
+
+Regional diplomatic activity intensified as former Yemeni President Abd Rabbuh Mansour Hadi passed away, prompting condolences from across the Gulf. Saudi Defense Minister Prince Khalid bin Salman [conveyed leadership condolences](https://x.com/spagov) to Hadi's family, describing him as a wise leader committed to Yemen's security and prosperity. The death of the internationally-recognized former president comes during ongoing diplomatic efforts to resolve the Yemen crisis.
 
 **Energy & Economy**
-- UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, [according to WAM](https://wam.ae/a/b1n6twr)
-- [Youm7 reports](https://www.youm7.com/story/2026/5/31/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D9%87%D8%AF%D9%88%D8%A1-%D9%85%D8%B9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85%D9%8A/7432873) gold markets in UAE move quietly as Eid seasonal demand effect ends
-- [Times of Oman reports](https://timesofoman.com//article/172390-activities-prohibited-for-foreign-investors-under-omans-foreign-capital-investment-law) Oman's foreign capital investment law restricts certain activities for foreign investors
-- Saudi Arabia's economy sees continued diversification as part of Vision 2030 goals
-
-**Country Watch**
+• The UAE economy showed strong growth with the government announcing [6.2% expansion](https://x.com/UAEmediaoffice) and GDP rising to AED 1.9 trillion in 2025, reflecting continued economic diversification efforts.
+• Qatar's stock exchange [resumed official trading](https://www.mubasher.info/news/4619474/) today after the Eid al-Adha holiday, according to Mubasher Info.
+• Saudi Arabia is reportedly looking to [raise 3 billion riyals](https://asharqbusiness.com/financial-markets/134643/) from offering 30% of Mutlaq Al-Ghuwairi on the stock exchange, per Al-Sharq Economy with Bloomberg.
+• Dubai Electricity and Water Authority announced commissioning [1,994 new 11kV substations](https://x.com/DXBMediaOffice) in 2025, a 30% increase from the previous year.
 
 **Saudi Arabia**
-- Foreign Minister Prince Faisal bin Farhan praised Trump's decision to ["give diplomacy a chance"](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss) on Iran negotiations
-- Prince Khalid bin Salman conveyed condolences for former Yemeni President Abd Rabbuh Mansour Hadi's death
-- Saudi national team played Ecuador in a friendly match as preparation for 2026 World Cup continues
+Prince Faisal bin Farhan led Saudi participation in an international conference for the peaceful settlement of the Palestinian issue in partnership with France. The foreign minister [commended France's decision](https://x.com/FaisalbinFarhan) to recognize Palestine, saying it "bolsters the path to a just and enduring peace." Separately, Saudi Arabia's ambassador to Yemen Mohammed Al-Jabir announced plans to [visit Sanaa](https://x.com/mohdsalj) with an Omani delegation to consolidate the truce and support prisoner exchanges as part of comprehensive political dialogue.
 
 **UAE**
-- Emirates unveiled a special A380 livery celebrating Arsenal FC's Premier League victory
-- Sheikh Abdulla bin Zayed noted UAE is first globally in AI talent concentration, growing 121% between 2019-2025
-- Dubai Media Office announced Sheikh Mohammed bin Rashid's Eid Al-Adha reception at Za'abeel Majlis
+Dubai launched new artificial intelligence initiatives during a government retreat, with [Sheikh Mohammed bin Rashid](https://x.com/HHShkMohd) announcing the first batch of AI assistants for procurement, taxes, customer happiness, and technical support. The ruler emphasized the goal of transforming half of government services and operations through artificial intelligence. Meanwhile, [Tahnoon bin Zayed](https://x.com/hhtbzayed) met with US Congressman Josh Gottheimer to discuss strengthening UAE-US cooperation in various fields.
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was honored by Emir's appointment and pledged service to the nation
-- Cyprus President commended Qatar's role in supporting regional de-escalation, [per QNA](https://bit.ly/4nY5VoV)
-- Qatar qualified for volleyball World Beach Pro Tour Ostrava Elite 16 semifinals
+Qatar saw significant political developments as [Mohammed bin Abdulrahman Al Thani](https://x.com/MBA_AlThani_) expressed honor at being appointed Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani. The new PM said he looks forward to working with fellow ministers in serving the nation under the Emir's wise leadership. Additionally, [Majed Al Ansari](https://x.com/majedalansari) was appointed as advisor to the Deputy Prime Minister and official spokesman for the Ministry of Foreign Affairs.
 
 **Bahrain / Kuwait / Oman**
-- Bahrain strongly condemned Iranian attacks on Kuwait, [per Bahrain MFA](https://bit.ly/4dAMr6j)
-- Kuwait witnessed striking celestial alignment as full moon positioned above mosque minaret
-- Oman's Foreign Minister Badr Albusaidi held constructive talks with Iran's Deputy FM on regional dialogue
+Bahrain's civil defense successfully [rescued five children](https://x.com/moi_bahrain) from a house fire in the Aali area without injuries, according to the Interior Ministry. In Kuwait, the first groups of [Hajj pilgrims returned](https://kuna.net.kw) to a joyful atmosphere at Kuwait Airways' T4 terminal. Oman's Foreign Minister Badr Albusaidi conducted [good discussions](https://x.com/badralbusaidi) with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran dialogue and reaffirming diplomatic engagement efforts.
 
 **Yemen**
-- IRG appointed Ahmed Hamid Lamlas as Aden Governor, according to Saba News Agency
-- Southern Transitional Council leaders continue political maneuvering over security arrangements
-- Houthi spokesman Mohammed Abdulsalam outlined agreement on banking decisions and Yemenia Airways operations
+The IRG condemned a [UAE air strike](https://x.com/sabanew_) on National Army forces in Aden and Abyan, with the government calling it interference in Yemeni affairs. Ahmed Hamid Lamlas was [appointed governor](https://x.com/sabanew_) of Aden Governorate according to Saba News Agency. In Houthi-controlled areas, Mohammed Abdulsalam announced [text of an agreement](https://x.com/abdusalamsalah) to cancel recent decisions against banks on both sides and resume Yemenia Airlines flights between Sanaa and Jordan, with plans to increase to three daily flights.
 
 **Official Signals**
-- Prince Faisal bin Farhan's statement welcoming Trump's diplomatic approach to Iran signals Saudi support for negotiated resolution over military escalation
-- Sheikh Mohammed bin Rashid's announcement of AI-powered government transformation shows UAE's commitment to technological leadership in governance
+• Prince Faisal bin Farhan expressed Saudi Arabia's appreciation for President Trump's decision to "give diplomacy a chance" regarding regional tensions, specifically mentioning efforts to restore security in the Strait of Hormuz to its state prior to February 28.
+• Sheikh Mohammed bin Rashid highlighted the UAE's achievement as first globally in artificial intelligence talent concentration with 121% growth between 2019 and 2025, saying "The UAE does not wait for the future, but rather creates it."
 
 **Coverage Flags**
-International outlets like BBC and Times of Oman are providing more detailed coverage of Iran-US negotiations than local Gulf Arabic press, which focuses heavily on post-Hajj celebrations and bilateral meetings. The gap suggests regional media is allowing international coverage to lead on sensitive diplomatic developments.
+International outlets remain restricted from several regional news sites, creating potential gaps in coverage of domestic developments. The death of former Yemeni President Hadi may warrant dedicated NYT coverage given its implications for ongoing Yemen peace efforts and regional diplomacy.
 
 **Sources**
-- [Times of Oman](https://timesofoman.com/)
-- [BBC Middle East](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
-- [Al Arabiya](https://www.alarabiya.net/)
-- [AP News](https://news.google.com/rss/articles/)
-- [Qatar News Agency](https://bit.ly/4nY5VoV)
-- [Bahrain MFA](https://bit.ly/4dAMr6j)
-- [WAM Emirates News Agency](https://wam.ae/)
-- [Youm7](https://www.youm7.com/)
+• [Times of Oman](https://timesofoman.com/)
+• [Reuters Gulf](https://www.reuters.com/)
+• [AP Gulf](https://apnews.com/)
+• [BBC Middle East](https://www.bbc.com/news/)
+• [Saudi Press Agency](https://spa.gov.sa/)
+• [Emirates News Agency](https://wam.ae/)
+• [Qatar News Agency](https://qna.org.qa/)
+• [Kuwait News Agency](https://kuna.net.kw/)
+• [Bahrain News Agency](https://bna.bh/)
+• [Oman News Agency](https://omannews.gov.om/)
+• [Saba News Agency](https://sabanew.net/)
+• [Mubasher Info](https://www.mubasher.info/)
+• [Al-Sharq Economy](https://asharqbusiness.com/)
+• [Monte Carlo International](https://www.mc-doualiya.com/)
