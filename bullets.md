@@ -1,54 +1,51 @@
 **Top News**
-- US forces bombed Iranian military sites after Iran fired missiles at American troops in Kuwait, according to the [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) and [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d).
-- Saudi Foreign Ministry condemned Israel's incursion into Lebanese territory and called for an immediate halt, according to [Youm7](https://www.youm7.com/story/2026/6/2/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%88%D9%82%D9%81%D9%87-%D9%81%D9%88%D8%B1%D8%A7/7435159).
-- Kuwait confronted missile and drone attacks and denounced continued Iranian attacks on its territory, according to [Al Jazeera Net](https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA).
-- Trump announced that Lebanon's Hezbollah and Israel agreed to halt mutual attacks and cease all exchanges of fire, according to [KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3306090).
-- Qatar excluded 8 players from the final squad for the 2026 World Cup, according to [CNN Arabic](https://arabic.cnn.com/sport/article/2026/06/02/qatar-national-team-world-cup).
+- Iran fired missiles at US troops based in Kuwait, forcing American warplanes to intercept the attacks and prompting the US to retaliate with [strikes on](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) Iranian radar sites, the BBC reports.
+- Kuwait condemned Iran's "sinful and repeated attacks" on its territory, with air defense systems intercepting multiple Iranian missiles and drones aimed at US military positions, according to [Al Jazeera](https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA).
+- Trump announced that Israel and Hezbollah agreed to halt mutual attacks following escalation on the Lebanese front, AP News [reported](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33).
+- Saudi Arabia's Foreign Ministry condemned Israel's "incursion" into Lebanese territory and called for its immediate cessation, Prince Faisal bin Farhan said on [X](https://x.com/FaisalbinFarhan).
+- Former Yemeni President Abd Rabbuh Mansour Hadi died, with Crown Prince Mohammed bin Salman calling President Alimi to offer condolences, Saudi Press Agency [reported](https://spa.gov.sa/N2604388).
 
 **Energy & Economy**
-- Saudi Aramco raised LPG official selling prices by up to 3% for June delivery, according to [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/).
-- OPEC+ is likely to raise July oil output targets despite disruptions in the Strait of Hormuz, sources told [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/).
-- UAE economy showed 6.2% growth with GDP expected to rise to 1.9 trillion dirhams in 2025, the [UAE Government Media Office](https://twitter.com/UAEmediaoffice) announced.
+- OPEC+ sources told Reuters the group will likely [raise oil](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) production targets for July despite current disruptions in the Strait of Hormuz.
+- Oil prices closed up more than 4% following the halt in US-Iran nuclear talks and increased blockade risks in key shipping routes, Reuters [reported](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/).
+- Saudi Aramco raised LPG official selling prices by up to 3% for June delivery, while Algeria's Sonatrach cut prices by 18-31%, according to [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/).
+- UAE's MGX announced it will expand its Campus AI project in France with strategic partners, potentially doubling the initial investment to develop 3GW of computing capacity, per Abu Dhabi Media Office.
 
 **Country Watch**
+
 **Saudi Arabia**
-- Crown Prince Mohammed bin Salman conveyed condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death, according to [Prince Khalid bin Salman](https://twitter.com/kbsalsaud).
-- Crown Prince received a phone call from French President Emmanuel Macron to discuss bilateral cooperation and regional developments, the [Saudi MFA](https://twitter.com/KSAMOFA) announced.
+- Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron discussing bilateral cooperation and regional diplomatic efforts to enhance maritime security, the Saudi Press Agency [reported](https://spa.gov.sa/N2604388).
+- Crown Prince Mohammed bin Salman met with Chad's President at the Royal Court, reviewing bilateral relations and cooperation prospects, according to [SPA](https://spa.gov.sa/N2604388).
 
 **UAE**
-- UAE launched the [Naseej textile recycling](https://twitter.com/UAEmediaoffice) initiative as a strategic mandate to transition the textile sector toward a circular economic system.
-- MGX announced expansion of Campus AI project in France with partners Bpifrance and Mistral, according to the [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice).
+- Abu Dhabi and Amman stock exchanges launched the "Tabadul" trading platform, creating a direct link between the two markets, CNN Arabic [reported](https://arabic.cnn.com/middle-east/article/2026/06/01/amman-stock-exchange-abu-dhabi-market-tabadul-platform).
+- Dubai's Roads and Transport Authority recorded 8.2 million riders across public transport services during the recent Eid Al Adha holiday period from May 25-29.
 
 **Qatar**
-- Deputy Prime Minister and Foreign Minister appointed Majed Al Ansari as advisor and official spokesperson for the Foreign Ministry, according to [Al Ansari](https://twitter.com/majedalansari).
+- Qatar's new Prime Minister Mohammed bin Abdulrahman Al Thani was honored with his appointment, expressing commitment to serving the nation under the Emir's leadership, he said on [X](https://x.com/MBA_AlThani_).
+- Qatar announced its final squad for the 2026 World Cup, with coach Lopetegui approving the roster, Qatar News Agency [reported](https://ow.ly/uXO250Z6rFC).
 
 **Oman**
-- Sultan issued two royal decrees, including one promulgating the Law on Combating Cybercrime, according to [Oman News Agency](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security).
-- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister on reducing regional tensions, according to [Albusaidi](https://twitter.com/badralbusaidi).
+- Sultan Haitham issued two royal decrees: one promulgating a new cybercrime law and another amending provisions of the Cultural Heritage Law, Oman News Agency [reported](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security).
+- Prince William received Oman's Culture Minister Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral relations and the "Oman: The Jewel of Arabia" expedition project.
 
-**Bahrain**
-- Civil Defence rescued five children from a house fire in Aali without injuries, according to the [Interior Ministry](https://twitter.com/moi_bahrain).
-
-**Kuwait**
-- Multiple ministers congratulated the Crown Prince on the second anniversary of his appointment, according to [KUNA](https://twitter.com/kuna_en).
-
-**Yemen - IRG**
-- Presidential Leadership Council appointed Ahmed Hamid Lamlas as governor of Aden Governorate, according to [Saba News Agency](https://twitter.com/sabanew_).
-- Yemen Information Minister Al-Eryani met with the family of former President Hadi and thanked US Congressman Joe Wilson for introducing a defense cooperation amendment, according to [Al-Eryani](https://twitter.com/ERYANIM).
-
-**Yemen - STC**
-- Southern Transitional Council President Aidarous al-Zubaidi performed Umrah rituals, according to [al-Zubaidi](https://twitter.com/AidrosAlzubidi).
+**Yemen**
+- Mohammed Al-Jabir announced he will visit Sanaa with an Omani delegation to consolidate the truce and discuss prisoner exchanges between Yemeni factions, he said on [X](https://x.com/mohdsalj).
+- The IRG government condemned a UAE airstrike on National Army forces in Aden and Abyan, according to Saba News Agency.
 
 **Official Signals**
-- Saudi Foreign Minister Prince Faisal bin Farhan appreciated Trump's decision to give diplomacy a chance to end the war and restore maritime navigation security in the Strait of Hormuz, according to [Prince Faisal](https://twitter.com/FaisalbinFarhan).
-- UAE Foreign Minister Sheikh Abdullah bin Zayed highlighted the UAE's first-place ranking globally in AI talent concentration growth of 121% between 2019 and 2025, according to [Sheikh Abdullah](https://twitter.com/ABZayed).
+- Saudi Foreign Minister Prince Faisal praised Trump's decision to give diplomacy another chance to reach an agreement ending the war and restoring Strait of Hormuz navigation security, he said on [X](https://x.com/FaisalbinFarhan).
+- Bahrain's Crown Prince sent condolences to the Israeli Prime Minister and held a phone call to discuss regional developments, Bahrain News Agency [reported](http://ow.ly/tlWS50EBFEv).
 
 **Coverage Flags**
-- Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi leadership and multiple regional officials.
+- Several major Arabic outlets (Qatar News Agency, Al Ayam, Al Anba) showed security verification screens, indicating potential access restrictions.
+- Multiple international outlets (Financial Times, Wall Street Journal, Economist) also displayed security verification pages during homepage captures.
 
 **Sources**
+- [BBC Middle East](https://www.bbc.com/news/articles/crlpy8n7pr6o)
+- [Reuters Gulf](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
+- [AP Gulf](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33)
 - [Times of Oman](https://timesofoman.com/)
-- [Reuters Gulf](https://www.reuters.com/)
-- [AP Gulf](https://apnews.com/)
-- [BBC Middle East](https://www.bbc.com/)
-- [Google News Gulf (Arabic)](https://news.google.com/)
+- [Al Jazeera Arabic](https://www.aljazeera.net/)
+- [CNN Arabic](https://arabic.cnn.com/)
+- Official X/Twitter accounts of Saudi MFA, Prince Faisal bin Farhan, Qatar PM Al Thani, Mohammed Al-Jabir, UAE and Bahrain government accounts
