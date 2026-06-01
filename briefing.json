@@ -4,48 +4,18 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-06-01T16:10:47.540Z",
-    "generatedTimestamp": 1780330247540
+    "generated": "2026-06-01T15:11:05.831Z",
+    "generatedTimestamp": 1780326665831
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
     "totalStories": 50,
     "totalScreenshots": 66,
-    "elapsed": "566.9s"
+    "elapsed": "458.2s"
   },
   "stories": {
     "all": [
-      {
-        "headline": "WHO team reviews efforts made for Barka healthy city initiatives",
-        "url": "https://timesofoman.com//article/172461-who-team-reviews-efforts-made-for-barka-healthy-city-initiatives",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Mon, 01 Jun 2026 19:19:10 +0400",
-        "description": "Barka: A delegation from the World Health Organization (WHO) paid a visit to the Wilayat of Barka in the South Al Batinah Governorate as part of the field..."
-      },
-      {
-        "headline": "Omani delegation briefed on Belarus expertise in food security, industry",
-        "url": "https://timesofoman.com//article/172460-omani-delegation-briefed-on-belarus-expertise-in-food-security-industry",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Mon, 01 Jun 2026 19:11:32 +0400",
-        "description": "Minsk: A delegation from the Sultanate of Oman viewed the experience of the Republic of Belarus in the fields of food security, industry, and technology...."
-      },
-      {
-        "headline": "Driver steals car from man who offered help after accident in Oman",
-        "url": "https://timesofoman.com//article/172459-driver-steals-car-from-man-who-offered-help-after-accident-in-oman",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Mon, 01 Jun 2026 19:11:14 +0400",
-        "description": "MUSCAT: The South Al Batinah Governorate Police Command of the Royal Oman Police arrested an Arab national accused of stealing a citizen’s vehicle after..."
-      },
       {
         "headline": "Secretary-General highlights Shura role in fostering partnership",
         "url": "https://timesofoman.com//article/172458-secretary-general-highlights-shura-role-in-fostering-partnership",
@@ -117,6 +87,36 @@
         "description": "Muscat: His Majesty Sultan Haitham bin Tarik on Monday issued two Royal decrees, reading as follows:Royal Decree No. (61/2026) on the promulgation of the..."
       },
       {
+        "headline": "Forum highlights role of capital markets in supporting sustainable growth",
+        "url": "https://timesofoman.com//article/172451-forum-highlights-role-of-capital-markets-in-supporting-sustainable-growth",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Mon, 01 Jun 2026 16:15:04 +0400",
+        "description": "Muscat: Oman Capital Market Conference 2026, organised by Muscat Stock Exchange in collaboration with the Gulf Capital Market Association and State Street..."
+      },
+      {
+        "headline": "Royal Office Minister receives Australian Ambassador",
+        "url": "https://timesofoman.com//article/172450-royal-office-minister-receives-australian-ambassador",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Mon, 01 Jun 2026 15:45:32 +0400",
+        "description": "Muscat--- Gen. Sultan Mohammed Al Nu'amani, Minister of the Royal Office, received at his office today Miles Armitage, Non-resident Ambassador of Australia..."
+      },
+      {
+        "headline": "Ethiopia votes as ruling party eyes landslide win",
+        "url": "https://timesofoman.com//article/172449-ethiopia-votes-as-ruling-party-eyes-landslide-win",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Mon, 01 Jun 2026 15:41:42 +0400",
+        "description": "Addis Ababa: Polls opened in Ethiopia on Monday for elections that are widely expected to see Prime Minister Abiy Ahmed's Prosperity Party (PP) extend its..."
+      },
+      {
         "headline": "Saudi Aramco raises LPG OSPs by up to 3% for June, Sonatrach cuts prices by 18% and 31% - Reuters",
         "url": "https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/",
         "source": "Reuters Gulf",
@@ -137,6 +137,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVU"
       },
       {
+        "headline": "Kvaratskhelia named Champions League's best player, five from PSG in team of season - Reuters",
+        "url": "https://www.reuters.com/sports/soccer/kvaratskhelia-named-champions-leagues-best-player-five-psg-team-season-2026-05-31/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 15:45:43 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWxlUmpXTS1GSVNTazFNdGsyQjdaYlpfbGo4c3JwNGxjcW93V2dzeEdIZm53UzFNeFgxaWxFSE12OTI1S1FtSlpLemZGN2UwTzRtaTZRdDUtNDF2T2p3eGFmVi0zT0xSUEhvWFF"
+      },
+      {
         "headline": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2 - Reuters",
         "url": "https://www.reuters.com/sports/soccer/vinicius-brings-maracana-curtain-raiser-life-brazil-rout-panama-6-2-2026-05-31/",
         "source": "Reuters Gulf",
@@ -145,16 +155,6 @@
         "priority": "primary",
         "date": "Sun, 31 May 2026 23:50:09 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW9KS05TNmdxWm1WTTFzaUowTHVXNnNGMG1WSUJkVzFHa002dld3Q2ZEMmRMajZXNXd6M3NvdExyZ1dMUG5Bc1pscXhRakJJRm12eDdfZU91a1F0MndmQU9LaU5mV245TkgzVkF"
-      },
-      {
-        "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
-        "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 31 May 2026 19:51:45 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
       },
       {
         "headline": "Helenius the hero as Finland beat Swiss in ice hockey world final - Reuters",
@@ -187,6 +187,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHQxVmJuWVE2QlZQWG5ubkp6SGh1WnFQd1RzMUlJWW5rNUZPNDBtaUh0M2hsUmVoMFFBQnJqY1RaeGd4bEFWc3pWdzNIMmdYRk4xa1lyeEVRV1l3NC1ES2RNVFhXUmFPMkxMYVV"
       },
       {
+        "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
+        "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 31 May 2026 19:51:45 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
+      },
+      {
         "headline": "Norway stun Canada to win sensational bronze at world championship - Reuters",
         "url": "https://www.reuters.com/sports/soccer/norway-stun-canada-win-sensational-bronze-world-championship-2026-05-31/",
         "source": "Reuters Gulf",
@@ -207,23 +217,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2h"
       },
       {
-        "headline": "The Week in Breakingviews: The AI backlash arrives - Reuters",
-        "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 31 May 2026 22:45:23 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN6WFptcjZtemE1Nkd6TmlHSmxSWlJCTVhrMUd4SEtNdXp6cS1kakNTeWl3VWFUR1ZjallBem5nSWVfaFJJT3pOZVhRSGVvWFdleXEyWmFBS3MzX3FHdXg4NHBBZ2RQU0hoM29"
-      },
-      {
-        "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
+        "headline": "US bombs Iranian military sites and Tehran targets American troops in Kuwait - AP News",
         "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Mon, 01 Jun 2026 15:34:00 GMT",
+        "date": "Mon, 01 Jun 2026 14:49:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjVJLWNwc3ZkX1R2NDY0emhqYW1SUVFZd3FJNEVZcFBJcGJ2aFFrdUNOTEV6dzdVNUkyZmE1S3NjTXk1RmwwODhTRTgyeFJlMjIwMTA0VEZGVWl5N3p6YmFjM1RBWXl0UjhXTjN"
       },
       {
@@ -237,16 +237,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTgtN3J1YUpOTGhlZVNkM0VaMHFQQ3lvSU5RY0sxb3VndDk4cE93dUt4WE5RQ3R1VXVsYTFTdTFrbUJOUThRMnNHRHFTOGNYYVJPaFpxbVM5c1AtNG50RWUwUUZKTy0tYmV6YjN"
       },
       {
-        "headline": "Raymond Berry, Hall of Fame wide receiver, dies at the age of 93 - AP News",
-        "url": "https://apnews.com/article/raymond-berry-dies-colts-f8488f395f03470c8a5010eb2b331b89",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 14:19:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcElfY1ZBNm1lUnlNUWhteXczN1JpVlVPQjZTYzE3d1VWaWdfTTdwcGh3X0sycXhVOTM5RE5yWmNEbXAwQURMU2lIcXhONHNYWVdqSUNwWjJQd3lRYzRHRDhxWTdnSXllRDNSa1F"
-      },
-      {
         "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
         "source": "AP Gulf",
@@ -255,16 +245,6 @@
         "priority": "primary",
         "date": "Mon, 01 Jun 2026 07:50:52 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2Z"
-      },
-      {
-        "headline": "Kalinskaya beats Potapova in a super tiebreak to reach her first French Open quarterfinal - AP News",
-        "url": "https://apnews.com/article/tennis-roland-garros-french-open-sabalenka-osaka-0cbf7b17b7b979c181cf58c3cb84f363",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 12:36:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0hYZmZnRDlHSDdGaVotQ1dpRWtYc09DRVN0TUZFeng3THAwNTVSUWVFOEtCWjVUZHVBOFFxNFNWWXkwUUljbktoR0ZlekFaY1BaNlhGRG8tcU5BVUJCYWVGWDd2Q0M1ZExlVlR"
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
@@ -278,7 +258,7 @@
       },
       {
         "headline": "Pete Hegseth - AP News",
-        "url": "https://apnews.com/hub/pete-hegseth",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -288,7 +268,7 @@
       },
       {
         "headline": "Beijing - AP News",
-        "url": "https://apnews.com/hub/beijing",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -315,6 +295,26 @@
         "priority": "primary",
         "date": "Mon, 01 Jun 2026 10:35:13 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+      },
+      {
+        "headline": "US &amp; International Top News Stories Today - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWxDanZiUG45UXhVZnBNbU14bHpqVy1DOF9iSjFqcC0xazExaG9TUWFXT2kyQzRLZ0VNazNIaXF6Wg?oc=5",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 05:29:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWx"
+      },
+      {
+        "headline": "Serena Williams is returning to pro tennis at age 44 after nearly 4 years away from the sport - AP News",
+        "url": "https://apnews.com/article/serena-williams-comeback-tennis-b0696e1d76b0e7695d6e7d6fc4a78875",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 14:54:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQREpmYVhRTDhwb1cxVVJaUjg3eUFid0dpWW9tdF85VmdTeXNYa25BUGx0Sk8ydTllU3hOQmdzRWo1Z1NXR0Z0bVNINmJqM2cxVDhZOWhydnR6MHYzdUVoc3J5OThoX2VmMEZVMHd"
       },
       {
         "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -417,7 +417,7 @@
         "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire."
       },
       {
-        "headline": "Kuwait confronts missile and drone attacks and denounces the continued Iranian attacks - Al Jazeera Net",
+        "headline": "Kuwait confronts missile and drone attacks and denounces the continuation of Iranian attacks - Al Jazeera Net",
         "url": "https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
@@ -425,11 +425,22 @@
         "priority": "primary",
         "date": "Mon, 01 Jun 2026 11:31:34 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSXhFUnozSzMzNHlBcUZ0MFF5c2hXYWplb2hhdTZwakNiQ0tfV2tKVVU5dlYzTFZ0ZHpnbkx4TjBlSVgwWHd0dlM4QlNIbVQ4ZVIzOUdKUEFxallIS09xZ1F1emQyX1M3V0FtaGh",
-        "originalHeadline": "الكويت تتصدى لهجمات صاروخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+        "originalHeadline": "الكويت تتصدى لهجمات صا��وخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+      },
+      {
+        "headline": "A statement issued by the Ministry of Foreign Affairs, International Cooperation and Egyptians Abroad: Egypt condemns in the strongest terms the repeated attacks on the sisterly State of Kuwait. The Arab Republic of Egypt condemns in the strongest terms the sinful and repeated Iranian attacks that targeted the sisterly State of Kuwait, which represent a blatant violation - facebook.com",
+        "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FEgyptianCabinet%2Fphotos%2F%25D8%25A8%25D9%258A%25D8%25A7%25D9%2586-%25D8%25B5%25D8%25A7%25D8%25AF%25D8%25B1-%25D8%25B9%25D9%2586-%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%258A%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D8%25A7%25D9%2588%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2588%25D9%2584%25D9%258A-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25AA%25D8%25AF%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A3%25D8%25B4%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A8%25D8%25A7%2F1578805814289833%2F",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 14:38:40 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNT2ZlUmRDNTd0WDdzU2N6RTk2b3phZVVfcnVfMmswM3VRckN2UlZSRHJhaUFaeFpvVGpzTHpyNG5PcTN5eHd0NTJXcng0d2hhTUN4bWNqRGkzaFFjYndzbTByY09Ecm5zME5sMFI",
+        "originalHeadline": "بيان صادر عن وزارة الخارجية والتعاون الدولي والمصريين بالخارج: مصر تدين بأشد العبارات الهجمات المتكررة على دولة الكويت الشقيقة تدين جمهورية مصر العربية بأشد العبارات الهجمات الإيرانية الآثمة والمتكررة التي استهدفت دولة الكويت الشقيقة، والتي تمثل انتهاكاً صارخ - facebook.com"
       },
       {
         "headline": "Egypt condemns in the strongest terms the repeated Iranian attacks on Kuwait - alghad.tv",
-        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNFA0R1dlTmtBeUl6OU82bGlBM0VOTkhiTEZ6VjNvTkRtSDJjT1RFMElxTDVOUXh0RV8yRHEyU2tXcVNBXzQwYXBNcWRhOUxldS1hZWdvQWtZNEd2eEVnV3B2WWk4R0dvU2J0aWhIVGZlWl81czcwd0pHZjJEWlZVelBkVmYwU0hWM3lKX2FmYmhEeDI5ZmxPbEpFNnZMbHRmc1puR3NJTFhYQkRDdkV1dWR0VVJEZGc1aUlOX2hNb0pWUWZRSFJhTEt4ZWJYZFZ1a1hYbEw4YkVscjkwYXFadURHbDBrYnA5YWpWc3BETldOZlVFZ2MyLUNJRExxUFR2eFFQMHRSMERvamhaTnpWNkdGeW5BZ2pSYW5iUTZpRzJsN25kVkV2YXl5ZllVME0tSHd2NEV3NGIxWWVOUlZNMUFnbWtJbzVCd3J1TzAweklFWUdMN0xyYW1FZTh2TmhKZXQyam1GaHJVSUd4cUZSVDJkVDJqTlNPRzJKaU81djZMcm0zUkVRS1o4VVhCX25hQXFzZkVjVWxtRWZUNGJTTlZaVzVRM3d0Zkg4endRNlJHRGJsQWdqZ29uLVJ5WVpyNUVkdDBqSS1hbDM2Ny1ZV1hJQU8xMFh0eURHNm5DVzlXcF9WVDVPNWExRkY?oc=5",
+        "url": "https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -461,6 +472,17 @@
         "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي عبر منصة \"تبادل\" - العربية"
       },
       {
+        "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
+        "url": "https://validate.perfdrive.com/?ssa=2ff733db-6988-4562-9940-8bf79dbc0167&ssb=75790290945&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=f320d274-cf43-4396-aac3-c19c71ff74c7&ssk=botmanager_support@radware.com&ssm=12486099820733928101470501484100&ssn=c154ef73e146b95b509f086c182ae9972e8164c4eed2-acd2-4a82-b3a603&sso=a02e4925-34651368dda806ebcdf3ad7a764286226a422334d0e4bec9&ssp=88035177481780318745178038524942755&ssq=43334242666412126299326664168603080781806&ssr=MTcyLjE3Mi4yMDMuMzY=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTMxOTI0OTMtM2RhNC00YWQ1LWE1ZTMtNGYxNmE5MDdhMjdkMS0xNzgwMzI2NjY0NTg0MC1iM2RiMWQzZjZmN2UxNzk2MTAiLCJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNjRjNGVlZDItYWNkMi00YTgyLWI5MjUtMzQ2NTEzNjhkZGE4MS0xNzgwMzI2NjY0NTg0MC0wMDM3MzljMjU5ZGZlMmMzMGUzMTAifQ==",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 14:21:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
+        "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
+      },
+      {
         "headline": "European football: a new arena for competition between Qatar, the Emirates and Saudi Arabia? - Monte Carlo International",
         "url": "https://www.mc-doualiya.com/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20260601-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%B3%D8%A7%D8%AD%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D8%A8%D9%8A%D9%86-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
         "source": "Google News Gulf (Arabic)",
@@ -483,28 +505,6 @@
         "originalHeadline": "أبو الغيط يدين إستمرار العدوان الإيراني على الكويت - بوابة الأهرام"
       },
       {
-        "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
-        "url": "https://validate.perfdrive.com/?ssa=cd0a4bcd-e022-41c4-9ea2-8059e0897e76&ssb=09797274054&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=8c5f0c49-cf43-454e-9250-9abb911759d7&ssk=botmanager_support@radware.com&ssm=54718299889811867109951389885538&ssn=412f6bfb36d410c968a89fa3ed3f3ba7cf7ce133007a-4a0b-4314-84779f&sso=06735c74-a053a89d9d0d5a39407d1b6c46c60e455f8246d465d2edd2&ssp=95952788351780386071178037575346122&ssq=38159233024604081304230246304228470360786&ssr=NTIuMTU5LjI0NC44NQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTJjNzhlYjEtZDVlZS00MWJlLWEzZTItOWI5NzZhODdhZTE0MS0xNzgwMzMwMjQ2ODc5MC0wOGVjN2Y4ZDU0Njk1ODUxMTAiLCJfX3V6bWYiOiI3ZjkwMDBlMTMzMDA3YS00YTBiLTQzMTQtOGM3NC1hMDUzYTg5ZDlkMGQxLTE3ODAzMzAyNDY4NzkwLTAwM2ZjN2NjNWZhYTM0NWYzMWMxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20ifQ==",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 12:21:12 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
-        "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
-      },
-      {
-        "headline": "The UAE offers its condolences to South Korea for the victims of a factory explosion in Daejeon - France 24",
-        "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260601-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B5%D9%86%D8%B9-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AF%D8%A7%D9%8A%D8%AC%D9%88%D9%86",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 15:15:11 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwVBVV95cUxNcWhmWERpTnVxWThxTnNrdk1mUjFEWlV4c3hGRHJuU1pOS2tFRUY4YWh5NmFoM0VoQnhzWTBudXM0Njc0NXViUDVEclRSeV93bTljN2lzZzVGSVpaTXRPTDJKMHktREhvMi1uOTZ",
-        "originalHeadline": "الإمارات تعزي كوريا الجنوبية في ضحايا انفجار مصنع بمدينة دايجون - France 24"
-      },
-      {
         "headline": "The Bahraini government issues 3 decisions including regulating security services and supporting small projects - Mubasher Info",
         "url": "https://www.mubasher.info/news/4620318/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA-%D8%B5%D8%AF%D8%B1-3-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B4%D9%85%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9/",
         "source": "Google News Gulf (Arabic)",
@@ -517,7 +517,7 @@
       },
       {
         "headline": "Iranian attacks on Kuwait...wide Arab and Gulf condemnations - Al-Sharq News",
-        "url": "https://asharq.com/politics/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
+        "url": "https://asharq.com/iran/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
@@ -529,36 +529,6 @@
     ],
     "byCategory": {
       "oman": [
-        {
-          "headline": "WHO team reviews efforts made for Barka healthy city initiatives",
-          "url": "https://timesofoman.com//article/172461-who-team-reviews-efforts-made-for-barka-healthy-city-initiatives",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:19:10 +0400",
-          "description": "Barka: A delegation from the World Health Organization (WHO) paid a visit to the Wilayat of Barka in the South Al Batinah Governorate as part of the field..."
-        },
-        {
-          "headline": "Omani delegation briefed on Belarus expertise in food security, industry",
-          "url": "https://timesofoman.com//article/172460-omani-delegation-briefed-on-belarus-expertise-in-food-security-industry",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:11:32 +0400",
-          "description": "Minsk: A delegation from the Sultanate of Oman viewed the experience of the Republic of Belarus in the fields of food security, industry, and technology...."
-        },
-        {
-          "headline": "Driver steals car from man who offered help after accident in Oman",
-          "url": "https://timesofoman.com//article/172459-driver-steals-car-from-man-who-offered-help-after-accident-in-oman",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:11:14 +0400",
-          "description": "MUSCAT: The South Al Batinah Governorate Police Command of the Royal Oman Police arrested an Arab national accused of stealing a citizen’s vehicle after..."
-        },
         {
           "headline": "Secretary-General highlights Shura role in fostering partnership",
           "url": "https://timesofoman.com//article/172458-secretary-general-highlights-shura-role-in-fostering-partnership",
@@ -628,6 +598,36 @@
           "priority": "secondary",
           "date": "Mon, 01 Jun 2026 16:25:56 +0400",
           "description": "Muscat: His Majesty Sultan Haitham bin Tarik on Monday issued two Royal decrees, reading as follows:Royal Decree No. (61/2026) on the promulgation of the..."
+        },
+        {
+          "headline": "Forum highlights role of capital markets in supporting sustainable growth",
+          "url": "https://timesofoman.com//article/172451-forum-highlights-role-of-capital-markets-in-supporting-sustainable-growth",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 16:15:04 +0400",
+          "description": "Muscat: Oman Capital Market Conference 2026, organised by Muscat Stock Exchange in collaboration with the Gulf Capital Market Association and State Street..."
+        },
+        {
+          "headline": "Royal Office Minister receives Australian Ambassador",
+          "url": "https://timesofoman.com//article/172450-royal-office-minister-receives-australian-ambassador",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 15:45:32 +0400",
+          "description": "Muscat--- Gen. Sultan Mohammed Al Nu'amani, Minister of the Royal Office, received at his office today Miles Armitage, Non-resident Ambassador of Australia..."
+        },
+        {
+          "headline": "Ethiopia votes as ruling party eyes landslide win",
+          "url": "https://timesofoman.com//article/172449-ethiopia-votes-as-ruling-party-eyes-landslide-win",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 15:41:42 +0400",
+          "description": "Addis Ababa: Polls opened in Ethiopia on Monday for elections that are widely expected to see Prime Minister Abiy Ahmed's Prosperity Party (PP) extend its..."
         }
       ],
       "wire": [
@@ -652,6 +652,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVU"
         },
         {
+          "headline": "Kvaratskhelia named Champions League's best player, five from PSG in team of season - Reuters",
+          "url": "https://www.reuters.com/sports/soccer/kvaratskhelia-named-champions-leagues-best-player-five-psg-team-season-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 15:45:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWxlUmpXTS1GSVNTazFNdGsyQjdaYlpfbGo4c3JwNGxjcW93V2dzeEdIZm53UzFNeFgxaWxFSE12OTI1S1FtSlpLemZGN2UwTzRtaTZRdDUtNDF2T2p3eGFmVi0zT0xSUEhvWFF"
+        },
+        {
           "headline": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2 - Reuters",
           "url": "https://www.reuters.com/sports/soccer/vinicius-brings-maracana-curtain-raiser-life-brazil-rout-panama-6-2-2026-05-31/",
           "source": "Reuters Gulf",
@@ -660,16 +670,6 @@
           "priority": "primary",
           "date": "Sun, 31 May 2026 23:50:09 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW9KS05TNmdxWm1WTTFzaUowTHVXNnNGMG1WSUJkVzFHa002dld3Q2ZEMmRMajZXNXd6M3NvdExyZ1dMUG5Bc1pscXhRakJJRm12eDdfZU91a1F0MndmQU9LaU5mV245TkgzVkF"
-        },
-        {
-          "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
-          "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 19:51:45 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
         },
         {
           "headline": "Helenius the hero as Finland beat Swiss in ice hockey world final - Reuters",
@@ -702,6 +702,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHQxVmJuWVE2QlZQWG5ubkp6SGh1WnFQd1RzMUlJWW5rNUZPNDBtaUh0M2hsUmVoMFFBQnJqY1RaeGd4bEFWc3pWdzNIMmdYRk4xa1lyeEVRV1l3NC1ES2RNVFhXUmFPMkxMYVV"
         },
         {
+          "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
+          "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 19:51:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
+        },
+        {
           "headline": "Norway stun Canada to win sensational bronze at world championship - Reuters",
           "url": "https://www.reuters.com/sports/soccer/norway-stun-canada-win-sensational-bronze-world-championship-2026-05-31/",
           "source": "Reuters Gulf",
@@ -722,23 +732,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2h"
         },
         {
-          "headline": "The Week in Breakingviews: The AI backlash arrives - Reuters",
-          "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 22:45:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN6WFptcjZtemE1Nkd6TmlHSmxSWlJCTVhrMUd4SEtNdXp6cS1kakNTeWl3VWFUR1ZjallBem5nSWVfaFJJT3pOZVhRSGVvWFdleXEyWmFBS3MzX3FHdXg4NHBBZ2RQU0hoM29"
-        },
-        {
-          "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
+          "headline": "US bombs Iranian military sites and Tehran targets American troops in Kuwait - AP News",
           "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:34:00 GMT",
+          "date": "Mon, 01 Jun 2026 14:49:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjVJLWNwc3ZkX1R2NDY0emhqYW1SUVFZd3FJNEVZcFBJcGJ2aFFrdUNOTEV6dzdVNUkyZmE1S3NjTXk1RmwwODhTRTgyeFJlMjIwMTA0VEZGVWl5N3p6YmFjM1RBWXl0UjhXTjN"
         },
         {
@@ -752,16 +752,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTgtN3J1YUpOTGhlZVNkM0VaMHFQQ3lvSU5RY0sxb3VndDk4cE93dUt4WE5RQ3R1VXVsYTFTdTFrbUJOUThRMnNHRHFTOGNYYVJPaFpxbVM5c1AtNG50RWUwUUZKTy0tYmV6YjN"
         },
         {
-          "headline": "Raymond Berry, Hall of Fame wide receiver, dies at the age of 93 - AP News",
-          "url": "https://apnews.com/article/raymond-berry-dies-colts-f8488f395f03470c8a5010eb2b331b89",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcElfY1ZBNm1lUnlNUWhteXczN1JpVlVPQjZTYzE3d1VWaWdfTTdwcGh3X0sycXhVOTM5RE5yWmNEbXAwQURMU2lIcXhONHNYWVdqSUNwWjJQd3lRYzRHRDhxWTdnSXllRDNSa1F"
-        },
-        {
           "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
           "source": "AP Gulf",
@@ -770,16 +760,6 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 07:50:52 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2Z"
-        },
-        {
-          "headline": "Kalinskaya beats Potapova in a super tiebreak to reach her first French Open quarterfinal - AP News",
-          "url": "https://apnews.com/article/tennis-roland-garros-french-open-sabalenka-osaka-0cbf7b17b7b979c181cf58c3cb84f363",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 12:36:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0hYZmZnRDlHSDdGaVotQ1dpRWtYc09DRVN0TUZFeng3THAwNTVSUWVFOEtCWjVUZHVBOFFxNFNWWXkwUUljbktoR0ZlekFaY1BaNlhGRG8tcU5BVUJCYWVGWDd2Q0M1ZExlVlR"
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
@@ -793,7 +773,7 @@
         },
         {
           "headline": "Pete Hegseth - AP News",
-          "url": "https://apnews.com/hub/pete-hegseth",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -803,7 +783,7 @@
         },
         {
           "headline": "Beijing - AP News",
-          "url": "https://apnews.com/hub/beijing",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -830,6 +810,26 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 10:35:13 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "US &amp; International Top News Stories Today - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWxDanZiUG45UXhVZnBNbU14bHpqVy1DOF9iSjFqcC0xazExaG9TUWFXT2kyQzRLZ0VNazNIaXF6Wg?oc=5",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 05:29:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWx"
+        },
+        {
+          "headline": "Serena Williams is returning to pro tennis at age 44 after nearly 4 years away from the sport - AP News",
+          "url": "https://apnews.com/article/serena-williams-comeback-tennis-b0696e1d76b0e7695d6e7d6fc4a78875",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:54:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQREpmYVhRTDhwb1cxVVJaUjg3eUFid0dpWW9tdF85VmdTeXNYa25BUGx0Sk8ydTllU3hOQmdzRWo1Z1NXR0Z0bVNINmJqM2cxVDhZOWhydnR6MHYzdUVoc3J5OThoX2VmMEZVMHd"
         }
       ],
       "competitors": [
@@ -936,7 +936,7 @@
       ],
       "arabic_aggregate": [
         {
-          "headline": "Kuwait confronts missile and drone attacks and denounces the continued Iranian attacks - Al Jazeera Net",
+          "headline": "Kuwait confronts missile and drone attacks and denounces the continuation of Iranian attacks - Al Jazeera Net",
           "url": "https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -944,11 +944,22 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 11:31:34 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSXhFUnozSzMzNHlBcUZ0MFF5c2hXYWplb2hhdTZwakNiQ0tfV2tKVVU5dlYzTFZ0ZHpnbkx4TjBlSVgwWHd0dlM4QlNIbVQ4ZVIzOUdKUEFxallIS09xZ1F1emQyX1M3V0FtaGh",
-          "originalHeadline": "الكويت تتصدى لهجمات صاروخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+          "originalHeadline": "الكويت تتصدى لهجمات صا��وخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+        },
+        {
+          "headline": "A statement issued by the Ministry of Foreign Affairs, International Cooperation and Egyptians Abroad: Egypt condemns in the strongest terms the repeated attacks on the sisterly State of Kuwait. The Arab Republic of Egypt condemns in the strongest terms the sinful and repeated Iranian attacks that targeted the sisterly State of Kuwait, which represent a blatant violation - facebook.com",
+          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FEgyptianCabinet%2Fphotos%2F%25D8%25A8%25D9%258A%25D8%25A7%25D9%2586-%25D8%25B5%25D8%25A7%25D8%25AF%25D8%25B1-%25D8%25B9%25D9%2586-%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%258A%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D8%25A7%25D9%2588%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2588%25D9%2584%25D9%258A-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25AA%25D8%25AF%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A3%25D8%25B4%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A8%25D8%25A7%2F1578805814289833%2F",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:38:40 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNT2ZlUmRDNTd0WDdzU2N6RTk2b3phZVVfcnVfMmswM3VRckN2UlZSRHJhaUFaeFpvVGpzTHpyNG5PcTN5eHd0NTJXcng0d2hhTUN4bWNqRGkzaFFjYndzbTByY09Ecm5zME5sMFI",
+          "originalHeadline": "بيان صادر عن وزارة الخارجية والتعاون الدولي والمصريين بالخارج: مصر تدين بأشد العبارات الهجمات المتكررة على دولة الكويت الشقيقة تدين جمهورية مصر العربية بأشد العبارات الهجمات الإيرانية الآثمة والمتكررة التي استهدفت دولة الكويت الشقيقة، والتي تمثل انتهاكاً صارخ - facebook.com"
         },
         {
           "headline": "Egypt condemns in the strongest terms the repeated Iranian attacks on Kuwait - alghad.tv",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNFA0R1dlTmtBeUl6OU82bGlBM0VOTkhiTEZ6VjNvTkRtSDJjT1RFMElxTDVOUXh0RV8yRHEyU2tXcVNBXzQwYXBNcWRhOUxldS1hZWdvQWtZNEd2eEVnV3B2WWk4R0dvU2J0aWhIVGZlWl81czcwd0pHZjJEWlZVelBkVmYwU0hWM3lKX2FmYmhEeDI5ZmxPbEpFNnZMbHRmc1puR3NJTFhYQkRDdkV1dWR0VVJEZGc1aUlOX2hNb0pWUWZRSFJhTEt4ZWJYZFZ1a1hYbEw4YkVscjkwYXFadURHbDBrYnA5YWpWc3BETldOZlVFZ2MyLUNJRExxUFR2eFFQMHRSMERvamhaTnpWNkdGeW5BZ2pSYW5iUTZpRzJsN25kVkV2YXl5ZllVME0tSHd2NEV3NGIxWWVOUlZNMUFnbWtJbzVCd3J1TzAweklFWUdMN0xyYW1FZTh2TmhKZXQyam1GaHJVSUd4cUZSVDJkVDJqTlNPRzJKaU81djZMcm0zUkVRS1o4VVhCX25hQXFzZkVjVWxtRWZUNGJTTlZaVzVRM3d0Zkg4endRNlJHRGJsQWdqZ29uLVJ5WVpyNUVkdDBqSS1hbDM2Ny1ZV1hJQU8xMFh0eURHNm5DVzlXcF9WVDVPNWExRkY?oc=5",
+          "url": "https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -980,6 +991,17 @@
           "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي عبر منصة \"تبادل\" - العربية"
         },
         {
+          "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
+          "url": "https://validate.perfdrive.com/?ssa=2ff733db-6988-4562-9940-8bf79dbc0167&ssb=75790290945&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=f320d274-cf43-4396-aac3-c19c71ff74c7&ssk=botmanager_support@radware.com&ssm=12486099820733928101470501484100&ssn=c154ef73e146b95b509f086c182ae9972e8164c4eed2-acd2-4a82-b3a603&sso=a02e4925-34651368dda806ebcdf3ad7a764286226a422334d0e4bec9&ssp=88035177481780318745178038524942755&ssq=43334242666412126299326664168603080781806&ssr=MTcyLjE3Mi4yMDMuMzY=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTMxOTI0OTMtM2RhNC00YWQ1LWE1ZTMtNGYxNmE5MDdhMjdkMS0xNzgwMzI2NjY0NTg0MC1iM2RiMWQzZjZmN2UxNzk2MTAiLCJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNjRjNGVlZDItYWNkMi00YTgyLWI5MjUtMzQ2NTEzNjhkZGE4MS0xNzgwMzI2NjY0NTg0MC0wMDM3MzljMjU5ZGZlMmMzMGUzMTAifQ==",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:21:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
+          "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
+        },
+        {
           "headline": "European football: a new arena for competition between Qatar, the Emirates and Saudi Arabia? - Monte Carlo International",
           "url": "https://www.mc-doualiya.com/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20260601-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%B3%D8%A7%D8%AD%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D8%A8%D9%8A%D9%86-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
@@ -1002,28 +1024,6 @@
           "originalHeadline": "أبو الغيط يدين إستمرار العدوان الإيراني على الكويت - بوابة الأهرام"
         },
         {
-          "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
-          "url": "https://validate.perfdrive.com/?ssa=cd0a4bcd-e022-41c4-9ea2-8059e0897e76&ssb=09797274054&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=8c5f0c49-cf43-454e-9250-9abb911759d7&ssk=botmanager_support@radware.com&ssm=54718299889811867109951389885538&ssn=412f6bfb36d410c968a89fa3ed3f3ba7cf7ce133007a-4a0b-4314-84779f&sso=06735c74-a053a89d9d0d5a39407d1b6c46c60e455f8246d465d2edd2&ssp=95952788351780386071178037575346122&ssq=38159233024604081304230246304228470360786&ssr=NTIuMTU5LjI0NC44NQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTJjNzhlYjEtZDVlZS00MWJlLWEzZTItOWI5NzZhODdhZTE0MS0xNzgwMzMwMjQ2ODc5MC0wOGVjN2Y4ZDU0Njk1ODUxMTAiLCJfX3V6bWYiOiI3ZjkwMDBlMTMzMDA3YS00YTBiLTQzMTQtOGM3NC1hMDUzYTg5ZDlkMGQxLTE3ODAzMzAyNDY4NzkwLTAwM2ZjN2NjNWZhYTM0NWYzMWMxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20ifQ==",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 12:21:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
-          "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
-        },
-        {
-          "headline": "The UAE offers its condolences to South Korea for the victims of a factory explosion in Daejeon - France 24",
-          "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260601-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B5%D9%86%D8%B9-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AF%D8%A7%D9%8A%D8%AC%D9%88%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:15:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwVBVV95cUxNcWhmWERpTnVxWThxTnNrdk1mUjFEWlV4c3hGRHJuU1pOS2tFRUY4YWh5NmFoM0VoQnhzWTBudXM0Njc0NXViUDVEclRSeV93bTljN2lzZzVGSVpaTXRPTDJKMHktREhvMi1uOTZ",
-          "originalHeadline": "الإمارات تعزي كوريا الجنوبية في ضحايا انفجار مصنع بمدينة دايجون - France 24"
-        },
-        {
           "headline": "The Bahraini government issues 3 decisions including regulating security services and supporting small projects - Mubasher Info",
           "url": "https://www.mubasher.info/news/4620318/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA-%D8%B5%D8%AF%D8%B1-3-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B4%D9%85%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9/",
           "source": "Google News Gulf (Arabic)",
@@ -1036,7 +1036,7 @@
         },
         {
           "headline": "Iranian attacks on Kuwait...wide Arab and Gulf condemnations - Al-Sharq News",
-          "url": "https://asharq.com/politics/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
+          "url": "https://asharq.com/iran/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1070,6 +1070,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVU"
         },
         {
+          "headline": "Kvaratskhelia named Champions League's best player, five from PSG in team of season - Reuters",
+          "url": "https://www.reuters.com/sports/soccer/kvaratskhelia-named-champions-leagues-best-player-five-psg-team-season-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 15:45:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWxlUmpXTS1GSVNTazFNdGsyQjdaYlpfbGo4c3JwNGxjcW93V2dzeEdIZm53UzFNeFgxaWxFSE12OTI1S1FtSlpLemZGN2UwTzRtaTZRdDUtNDF2T2p3eGFmVi0zT0xSUEhvWFF"
+        },
+        {
           "headline": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2 - Reuters",
           "url": "https://www.reuters.com/sports/soccer/vinicius-brings-maracana-curtain-raiser-life-brazil-rout-panama-6-2-2026-05-31/",
           "source": "Reuters Gulf",
@@ -1078,16 +1088,6 @@
           "priority": "primary",
           "date": "Sun, 31 May 2026 23:50:09 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW9KS05TNmdxWm1WTTFzaUowTHVXNnNGMG1WSUJkVzFHa002dld3Q2ZEMmRMajZXNXd6M3NvdExyZ1dMUG5Bc1pscXhRakJJRm12eDdfZU91a1F0MndmQU9LaU5mV245TkgzVkF"
-        },
-        {
-          "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
-          "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 19:51:45 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
         },
         {
           "headline": "Helenius the hero as Finland beat Swiss in ice hockey world final - Reuters",
@@ -1120,6 +1120,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHQxVmJuWVE2QlZQWG5ubkp6SGh1WnFQd1RzMUlJWW5rNUZPNDBtaUh0M2hsUmVoMFFBQnJqY1RaeGd4bEFWc3pWdzNIMmdYRk4xa1lyeEVRV1l3NC1ES2RNVFhXUmFPMkxMYVV"
         },
         {
+          "headline": "Law changes that will come into effect at the 2026 World Cup - Reuters",
+          "url": "https://www.reuters.com/sports/soccer/law-changes-that-will-come-into-effect-2026-world-cup-2026-05-31/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 31 May 2026 19:51:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPem5YQzZWbk9Va0UxclU4TThHMHhCOU85QWdpdmY4ekFFQllrU29WWUJreXpBMVRVRFByYmNyOTI1aFBmcDROUE91aDN6T3cycnR1Rk1yMTE2NkNISmtVX1hPR2tINkJ2WDN1bHM"
+        },
+        {
           "headline": "Norway stun Canada to win sensational bronze at world championship - Reuters",
           "url": "https://www.reuters.com/sports/soccer/norway-stun-canada-win-sensational-bronze-world-championship-2026-05-31/",
           "source": "Reuters Gulf",
@@ -1140,23 +1150,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2h"
         },
         {
-          "headline": "The Week in Breakingviews: The AI backlash arrives - Reuters",
-          "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-31/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 31 May 2026 22:45:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN6WFptcjZtemE1Nkd6TmlHSmxSWlJCTVhrMUd4SEtNdXp6cS1kakNTeWl3VWFUR1ZjallBem5nSWVfaFJJT3pOZVhRSGVvWFdleXEyWmFBS3MzX3FHdXg4NHBBZ2RQU0hoM29"
-        },
-        {
-          "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
+          "headline": "US bombs Iranian military sites and Tehran targets American troops in Kuwait - AP News",
           "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:34:00 GMT",
+          "date": "Mon, 01 Jun 2026 14:49:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjVJLWNwc3ZkX1R2NDY0emhqYW1SUVFZd3FJNEVZcFBJcGJ2aFFrdUNOTEV6dzdVNUkyZmE1S3NjTXk1RmwwODhTRTgyeFJlMjIwMTA0VEZGVWl5N3p6YmFjM1RBWXl0UjhXTjN"
         },
         {
@@ -1170,16 +1170,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTgtN3J1YUpOTGhlZVNkM0VaMHFQQ3lvSU5RY0sxb3VndDk4cE93dUt4WE5RQ3R1VXVsYTFTdTFrbUJOUThRMnNHRHFTOGNYYVJPaFpxbVM5c1AtNG50RWUwUUZKTy0tYmV6YjN"
         },
         {
-          "headline": "Raymond Berry, Hall of Fame wide receiver, dies at the age of 93 - AP News",
-          "url": "https://apnews.com/article/raymond-berry-dies-colts-f8488f395f03470c8a5010eb2b331b89",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcElfY1ZBNm1lUnlNUWhteXczN1JpVlVPQjZTYzE3d1VWaWdfTTdwcGh3X0sycXhVOTM5RE5yWmNEbXAwQURMU2lIcXhONHNYWVdqSUNwWjJQd3lRYzRHRDhxWTdnSXllRDNSa1F"
-        },
-        {
           "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
           "source": "AP Gulf",
@@ -1188,16 +1178,6 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 07:50:52 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2Z"
-        },
-        {
-          "headline": "Kalinskaya beats Potapova in a super tiebreak to reach her first French Open quarterfinal - AP News",
-          "url": "https://apnews.com/article/tennis-roland-garros-french-open-sabalenka-osaka-0cbf7b17b7b979c181cf58c3cb84f363",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 12:36:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0hYZmZnRDlHSDdGaVotQ1dpRWtYc09DRVN0TUZFeng3THAwNTVSUWVFOEtCWjVUZHVBOFFxNFNWWXkwUUljbktoR0ZlekFaY1BaNlhGRG8tcU5BVUJCYWVGWDd2Q0M1ZExlVlR"
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
@@ -1211,7 +1191,7 @@
         },
         {
           "headline": "Pete Hegseth - AP News",
-          "url": "https://apnews.com/hub/pete-hegseth",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1221,7 +1201,7 @@
         },
         {
           "headline": "Beijing - AP News",
-          "url": "https://apnews.com/hub/beijing",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1248,6 +1228,26 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 10:35:13 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SjZyQ3FiLXBkb0RCcHBvWktDQmpMUHdyTXhHNGJTaUJGamt5OG9aVjJUdEFGRXUzcEk3bnFQekRQRjU1WTFTT09FQ0Z4TVlkSXE5X2lOVnhGalUyWk80?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "US &amp; International Top News Stories Today - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWxDanZiUG45UXhVZnBNbU14bHpqVy1DOF9iSjFqcC0xazExaG9TUWFXT2kyQzRLZ0VNazNIaXF6Wg?oc=5",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 05:29:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZl9hbHVRY1JTa2pNQldwTk9RUnkwRkdOVGp6bUxqNy01bUh2MU5CZUgwQ2NuSzR0empKWmNCMlFFRHZNVXo2OGZCVnpyXzhUZ202T0NDQmFfMXY1RDN4RDFpZE04UTBocFF1WWx"
+        },
+        {
+          "headline": "Serena Williams is returning to pro tennis at age 44 after nearly 4 years away from the sport - AP News",
+          "url": "https://apnews.com/article/serena-williams-comeback-tennis-b0696e1d76b0e7695d6e7d6fc4a78875",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:54:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQREpmYVhRTDhwb1cxVVJaUjg3eUFid0dpWW9tdF85VmdTeXNYa25BUGx0Sk8ydTllU3hOQmdzRWo1Z1NXR0Z0bVNINmJqM2cxVDhZOWhydnR6MHYzdUVoc3J5OThoX2VmMEZVMHd"
         },
         {
           "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -1350,7 +1350,7 @@
           "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire."
         },
         {
-          "headline": "Kuwait confronts missile and drone attacks and denounces the continued Iranian attacks - Al Jazeera Net",
+          "headline": "Kuwait confronts missile and drone attacks and denounces the continuation of Iranian attacks - Al Jazeera Net",
           "url": "https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1358,11 +1358,22 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 11:31:34 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQSXhFUnozSzMzNHlBcUZ0MFF5c2hXYWplb2hhdTZwakNiQ0tfV2tKVVU5dlYzTFZ0ZHpnbkx4TjBlSVgwWHd0dlM4QlNIbVQ4ZVIzOUdKUEFxallIS09xZ1F1emQyX1M3V0FtaGh",
-          "originalHeadline": "الكويت تتصدى لهجمات صاروخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+          "originalHeadline": "الكويت تتصدى لهجمات صا��وخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+        },
+        {
+          "headline": "A statement issued by the Ministry of Foreign Affairs, International Cooperation and Egyptians Abroad: Egypt condemns in the strongest terms the repeated attacks on the sisterly State of Kuwait. The Arab Republic of Egypt condemns in the strongest terms the sinful and repeated Iranian attacks that targeted the sisterly State of Kuwait, which represent a blatant violation - facebook.com",
+          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FEgyptianCabinet%2Fphotos%2F%25D8%25A8%25D9%258A%25D8%25A7%25D9%2586-%25D8%25B5%25D8%25A7%25D8%25AF%25D8%25B1-%25D8%25B9%25D9%2586-%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%258A%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D8%25A7%25D9%2588%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AF%25D9%2588%25D9%2584%25D9%258A-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B1%25D8%25AC%25D9%2585%25D8%25B5%25D8%25B1-%25D8%25AA%25D8%25AF%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A3%25D8%25B4%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A8%25D8%25A7%2F1578805814289833%2F",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:38:40 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwVBVV95cUxNT2ZlUmRDNTd0WDdzU2N6RTk2b3phZVVfcnVfMmswM3VRckN2UlZSRHJhaUFaeFpvVGpzTHpyNG5PcTN5eHd0NTJXcng0d2hhTUN4bWNqRGkzaFFjYndzbTByY09Ecm5zME5sMFI",
+          "originalHeadline": "بيان صادر عن وزارة الخارجية والتعاون الدولي والمصريين بالخارج: مصر تدين بأشد العبارات الهجمات المتكررة على دولة الكويت الشقيقة تدين جمهورية مصر العربية بأشد العبارات الهجمات الإيرانية الآثمة والمتكررة التي استهدفت دولة الكويت الشقيقة، والتي تمثل انتهاكاً صارخ - facebook.com"
         },
         {
           "headline": "Egypt condemns in the strongest terms the repeated Iranian attacks on Kuwait - alghad.tv",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQNFA0R1dlTmtBeUl6OU82bGlBM0VOTkhiTEZ6VjNvTkRtSDJjT1RFMElxTDVOUXh0RV8yRHEyU2tXcVNBXzQwYXBNcWRhOUxldS1hZWdvQWtZNEd2eEVnV3B2WWk4R0dvU2J0aWhIVGZlWl81czcwd0pHZjJEWlZVelBkVmYwU0hWM3lKX2FmYmhEeDI5ZmxPbEpFNnZMbHRmc1puR3NJTFhYQkRDdkV1dWR0VVJEZGc1aUlOX2hNb0pWUWZRSFJhTEt4ZWJYZFZ1a1hYbEw4YkVscjkwYXFadURHbDBrYnA5YWpWc3BETldOZlVFZ2MyLUNJRExxUFR2eFFQMHRSMERvamhaTnpWNkdGeW5BZ2pSYW5iUTZpRzJsN25kVkV2YXl5ZllVME0tSHd2NEV3NGIxWWVOUlZNMUFnbWtJbzVCd3J1TzAweklFWUdMN0xyYW1FZTh2TmhKZXQyam1GaHJVSUd4cUZSVDJkVDJqTlNPRzJKaU81djZMcm0zUkVRS1o4VVhCX25hQXFzZkVjVWxtRWZUNGJTTlZaVzVRM3d0Zkg4endRNlJHRGJsQWdqZ29uLVJ5WVpyNUVkdDBqSS1hbDM2Ny1ZV1hJQU8xMFh0eURHNm5DVzlXcF9WVDVPNWExRkY?oc=5",
+          "url": "https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1394,6 +1405,17 @@
           "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي عبر منصة \"تبادل\" - العربية"
         },
         {
+          "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
+          "url": "https://validate.perfdrive.com/?ssa=2ff733db-6988-4562-9940-8bf79dbc0167&ssb=75790290945&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=f320d274-cf43-4396-aac3-c19c71ff74c7&ssk=botmanager_support@radware.com&ssm=12486099820733928101470501484100&ssn=c154ef73e146b95b509f086c182ae9972e8164c4eed2-acd2-4a82-b3a603&sso=a02e4925-34651368dda806ebcdf3ad7a764286226a422334d0e4bec9&ssp=88035177481780318745178038524942755&ssq=43334242666412126299326664168603080781806&ssr=MTcyLjE3Mi4yMDMuMzY=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTMxOTI0OTMtM2RhNC00YWQ1LWE1ZTMtNGYxNmE5MDdhMjdkMS0xNzgwMzI2NjY0NTg0MC1iM2RiMWQzZjZmN2UxNzk2MTAiLCJyZCI6InNreW5ld3NhcmFiaWEuY29tIiwiX191em1mIjoiN2Y5MDAwNjRjNGVlZDItYWNkMi00YTgyLWI5MjUtMzQ2NTEzNjhkZGE4MS0xNzgwMzI2NjY0NTg0MC0wMDM3MzljMjU5ZGZlMmMzMGUzMTAifQ==",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 14:21:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
+          "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
+        },
+        {
           "headline": "European football: a new arena for competition between Qatar, the Emirates and Saudi Arabia? - Monte Carlo International",
           "url": "https://www.mc-doualiya.com/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/20260601-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%B3%D8%A7%D8%AD%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D8%A8%D9%8A%D9%86-%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
           "source": "Google News Gulf (Arabic)",
@@ -1416,28 +1438,6 @@
           "originalHeadline": "أبو الغيط يدين إستمرار العدوان الإيراني على الكويت - بوابة الأهرام"
         },
         {
-          "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
-          "url": "https://validate.perfdrive.com/?ssa=cd0a4bcd-e022-41c4-9ea2-8059e0897e76&ssb=09797274054&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Fstudio_one%2F1872524-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25AD%25D8%25B1%25D9%258A%25D9%2586-%25D8%25AA%25D8%25AD%25D9%2582%25D9%2582-%25D9%2582%25D8%25B6%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B1%25D8%25AA%25D8%25A8%25D8%25B7%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AB%25D9%2588%25D8%25B1%25D9%258A&ssi=8c5f0c49-cf43-454e-9250-9abb911759d7&ssk=botmanager_support@radware.com&ssm=54718299889811867109951389885538&ssn=412f6bfb36d410c968a89fa3ed3f3ba7cf7ce133007a-4a0b-4314-84779f&sso=06735c74-a053a89d9d0d5a39407d1b6c46c60e455f8246d465d2edd2&ssp=95952788351780386071178037575346122&ssq=38159233024604081304230246304228470360786&ssr=NTIuMTU5LjI0NC44NQ==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMTJjNzhlYjEtZDVlZS00MWJlLWEzZTItOWI5NzZhODdhZTE0MS0xNzgwMzMwMjQ2ODc5MC0wOGVjN2Y4ZDU0Njk1ODUxMTAiLCJfX3V6bWYiOiI3ZjkwMDBlMTMzMDA3YS00YTBiLTQzMTQtOGM3NC1hMDUzYTg5ZDlkMGQxLTE3ODAzMzAyNDY4NzkwLTAwM2ZjN2NjNWZhYTM0NWYzMWMxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20ifQ==",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 12:21:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTl",
-          "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
-        },
-        {
-          "headline": "The UAE offers its condolences to South Korea for the victims of a factory explosion in Daejeon - France 24",
-          "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260601-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B2%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B5%D9%86%D8%B9-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AF%D8%A7%D9%8A%D8%AC%D9%88%D9%86",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:15:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwVBVV95cUxNcWhmWERpTnVxWThxTnNrdk1mUjFEWlV4c3hGRHJuU1pOS2tFRUY4YWh5NmFoM0VoQnhzWTBudXM0Njc0NXViUDVEclRSeV93bTljN2lzZzVGSVpaTXRPTDJKMHktREhvMi1uOTZ",
-          "originalHeadline": "الإمارات تعزي كوريا الجنوبية في ضحايا انفجار مصنع بمدينة دايجون - France 24"
-        },
-        {
           "headline": "The Bahraini government issues 3 decisions including regulating security services and supporting small projects - Mubasher Info",
           "url": "https://www.mubasher.info/news/4620318/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA-%D8%B5%D8%AF%D8%B1-3-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B4%D9%85%D9%84-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9/",
           "source": "Google News Gulf (Arabic)",
@@ -1450,7 +1450,7 @@
         },
         {
           "headline": "Iranian attacks on Kuwait...wide Arab and Gulf condemnations - Al-Sharq News",
-          "url": "https://asharq.com/politics/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
+          "url": "https://asharq.com/iran/184975/%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
@@ -1461,36 +1461,6 @@
         }
       ],
       "secondary": [
-        {
-          "headline": "WHO team reviews efforts made for Barka healthy city initiatives",
-          "url": "https://timesofoman.com//article/172461-who-team-reviews-efforts-made-for-barka-healthy-city-initiatives",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:19:10 +0400",
-          "description": "Barka: A delegation from the World Health Organization (WHO) paid a visit to the Wilayat of Barka in the South Al Batinah Governorate as part of the field..."
-        },
-        {
-          "headline": "Omani delegation briefed on Belarus expertise in food security, industry",
-          "url": "https://timesofoman.com//article/172460-omani-delegation-briefed-on-belarus-expertise-in-food-security-industry",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:11:32 +0400",
-          "description": "Minsk: A delegation from the Sultanate of Oman viewed the experience of the Republic of Belarus in the fields of food security, industry, and technology...."
-        },
-        {
-          "headline": "Driver steals car from man who offered help after accident in Oman",
-          "url": "https://timesofoman.com//article/172459-driver-steals-car-from-man-who-offered-help-after-accident-in-oman",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Mon, 01 Jun 2026 19:11:14 +0400",
-          "description": "MUSCAT: The South Al Batinah Governorate Police Command of the Royal Oman Police arrested an Arab national accused of stealing a citizen’s vehicle after..."
-        },
         {
           "headline": "Secretary-General highlights Shura role in fostering partnership",
           "url": "https://timesofoman.com//article/172458-secretary-general-highlights-shura-role-in-fostering-partnership",
@@ -1560,6 +1530,36 @@
           "priority": "secondary",
           "date": "Mon, 01 Jun 2026 16:25:56 +0400",
           "description": "Muscat: His Majesty Sultan Haitham bin Tarik on Monday issued two Royal decrees, reading as follows:Royal Decree No. (61/2026) on the promulgation of the..."
+        },
+        {
+          "headline": "Forum highlights role of capital markets in supporting sustainable growth",
+          "url": "https://timesofoman.com//article/172451-forum-highlights-role-of-capital-markets-in-supporting-sustainable-growth",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 16:15:04 +0400",
+          "description": "Muscat: Oman Capital Market Conference 2026, organised by Muscat Stock Exchange in collaboration with the Gulf Capital Market Association and State Street..."
+        },
+        {
+          "headline": "Royal Office Minister receives Australian Ambassador",
+          "url": "https://timesofoman.com//article/172450-royal-office-minister-receives-australian-ambassador",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 15:45:32 +0400",
+          "description": "Muscat--- Gen. Sultan Mohammed Al Nu'amani, Minister of the Royal Office, received at his office today Miles Armitage, Non-resident Ambassador of Australia..."
+        },
+        {
+          "headline": "Ethiopia votes as ruling party eyes landslide win",
+          "url": "https://timesofoman.com//article/172449-ethiopia-votes-as-ruling-party-eyes-landslide-win",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Mon, 01 Jun 2026 15:41:42 +0400",
+          "description": "Addis Ababa: Polls opened in Ethiopia on Monday for elections that are widely expected to see Prime Minister Abiy Ahmed's Prosperity Party (PP) extend its..."
         }
       ],
       "tertiary": [],
@@ -1678,7 +1678,7 @@
           "originalText": "نقلت تعازي ومواساة القيادة -أيَّدها الله- لذوي فخامة الرئيس اليمني السابق عبدربه منصور هادي في وفاته -رحمه الله-.\nعزاؤنا لليمن قيادةً وشعبًا.\nعرفت فخامته قائدًا حكيمًا حريصًا على أمن واستقرار وطنه وتنميته وازدهاره.\nسائلًا اللّٰه أن يتغمده بواسع رحمته ومغفرته، ويسكنه فسيح جناته."
         },
         {
-          "text": "We thank God Almighty for honoring us with serving the Two Holy Mosques and caring for the pilgrims to His Sacred House. We ask God to accept from the pilgrims their Hajj, rituals, and obedience. \nWith the advent of the blessed Eid Al-Adha, we congratulate our people in this blessed country and our Islamic nation on this occasion, and we pray to Him, Glory be to Him, to make it a holiday of goodness, peace and stability for our nation.",
+          "text": "We thank God Almighty for honoring us with serving the Two Holy Mosques and caring for the pilgrims to His Sacred House. We ask God to accept from the pilgrims their Hajj, rituals, and obedience. \nWith the advent of the blessed Eid Al-Adha, we congratulate our people in this blessed country and our Islamic nation on this occasion, and we call on Him, Glory be to Him, to make it a holiday of goodness, peace and stability for our nation.",
           "timestamp": "2026-05-27T05:01:53.000Z",
           "permalink": "https://x.com/KingSalman/status/2059500314114331113",
           "originalText": "نشكر المولى عز وجل أن شرّفنا بخدمة الحرمين الشريفين، ورعاية حجاج بيته الحرام، سائلين الله أن يتقبل من الحجاج حجهم ونسكهم وطاعاتهم. \nومع حلول عيد الأضحى المبارك، نهنئ شعبنا في هذا الوطن المبارك وأمتنا الإسلامية بهذه المناسبة، وندعوه سبحانه أن يجعله عيد خير وسلام واستقرار على أمتنا"
@@ -1865,34 +1865,34 @@
       "language": "en",
       "tweets": [
         {
-          "text": "The Crown Prince offers his condolences by telephone to Nasser Abd Rabbuh Mansour Hadi on the death of his father, the former Yemeni president",
-          "timestamp": "2026-06-01T15:51:31.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061475741452128739",
-          "originalText": "ولي العهد يعزي هاتفيا ناصر عبدربه منصور هادي في وفاة والده الرئيس اليمني السابق"
-        },
-        {
-          "text": "News correspondent Ahmed Al-Masoudi: Kuwaiti air defenses responded this morning to missile attacks and enemy drones without causing any material or human damage.",
-          "timestamp": "2026-06-01T15:38:18.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061472412860821915",
-          "originalText": "مراسل الإخبارية أحمد المسعودي: الدفاعات الجوية الكويتية تصدت صباح اليوم لهجمات صاروخية وطائرات مسيرة معادية دون وقوع أي أضرار مادية أو بشرية"
-        },
-        {
-          "text": "The Kingdom condemns the Israeli aggression on Lebanese territory",
-          "timestamp": "2026-06-01T15:15:29.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061466673933090909",
-          "originalText": "المملكة تدين العدوان الإسرائيلي على الأراضي اللبنانية"
-        },
-        {
-          "text": "Professor of Political Media, Dr. Jareh Al-Murshidi: The Kingdom’s statement regarding stopping the aggression and the Israeli incursion into Lebanon is clear, as it continues its approach of condemning all attacks wherever they occur.",
-          "timestamp": "2026-06-01T15:07:32.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061464672377700421",
-          "originalText": "أستاذ الإعلام السياسي د.جارح المرشدي: بيان المملكة بشأن وقف العدوان والتوغل الإسرائيلي على لبنان واضح، حيث استمرت في نهجها بإدانة جميع الاعتداءات أينما كانت"
-        },
-        {
           "text": "News correspondent Marcel Karam: A short while ago...the absence of Israeli drones from the skies of the southern suburbs, and we do not know what that portends.",
           "timestamp": "2026-06-01T14:58:52.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2061462489292791967",
           "originalText": "مراسلة الإخبارية مارسيل كرم: قبل قليل.. غياب الطيران الإسرائيلي المسير عن سماء الضاحية الجنوبية ولا نعلم ما ينذر به ذلك"
+        },
+        {
+          "text": "Israel deepens its occupation of southern Lebanon and seizes the historic Beaufort Castle",
+          "timestamp": "2026-06-01T14:50:39.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061460424399147501",
+          "originalText": "إسرائيل تعمق احتلالها لجنوب لبنان وتستولي على قلعة الشقيف التاريخية"
+        },
+        {
+          "text": "News correspondent Marcel Karam: The number of Lebanese displaced from the southern suburbs has increased, and shelter centers in Beirut are full, as the authorities directed the displaced to other areas within the capital.",
+          "timestamp": "2026-06-01T14:29:40.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061455142742814867",
+          "originalText": "مراسلة الإخبارية مارسيل كرم: ارتفاع أعداد النازحين اللبنانيين من الضاحية الجنوبية، وامتلاء مراكز الإيواء في بيروت، حيث وجهت السلطات النازحين إلى مناطق أخرى داخل العاصمة"
+        },
+        {
+          "text": "CEO of Makkah Health Cluster, Dr. Hatem Al-Omari: Virtual services are unprecedented during the Hajj season and included several areas, as they contributed to alleviating the complications of cases",
+          "timestamp": "2026-06-01T14:29:29.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061455095431135534",
+          "originalText": "الرئيس التنفيذي لتجمع مكة الصحي د. حاتم العمري: الخدمات الافتراضية غير مسبوقة خلال موسم الحج وشملت عدة مجالات، حيث أسهمت في تخفيف مضاعفات الحالات"
+        },
+        {
+          "text": "The Kingdom puts human health first...\n\nThe health system succeeds in managing the Hajj season with high efficiency",
+          "timestamp": "2026-06-01T14:26:37.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061454374447046784",
+          "originalText": "المملكة تضع صحة الإنسان أولا..\n\nالمنظومة الصحية تنجح في إدارة موسم الحج بكفاءة عالية"
         }
       ]
     },
@@ -1906,12 +1906,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "Failure to implement storage conditions and requirements is a violation that requires punishment. \n\n#Safety_violation \n#Civil_Defense",
-          "timestamp": "2026-06-01T16:00:08.000Z",
-          "permalink": "https://x.com/SaudiDCD/status/2061477908472836449",
-          "originalText": "عدم تطبيق اشتراطات ومتطلبات التخزين مخالفة توجب العقوبة. \n\n#مخالفة_سلامة \n#الدفاع_المدني"
-        },
-        {
           "text": "#Civil_Defense in Hajj in 1448 AH...a collar of safety and a necklace of reassurance on the paths of the guests of God.\n#Success_of_the_Hajj_Season\n#God bless you",
           "timestamp": "2026-06-01T13:29:05.000Z",
           "permalink": "https://x.com/SaudiDCD/status/2061439897370534265",
@@ -1922,6 +1916,18 @@
           "timestamp": "2026-05-31T21:59:52.000Z",
           "permalink": "https://x.com/SaudiDCD/status/2061206049705656483",
           "originalText": "استمرار الجهود الميدانية لقوات #الدفاع_المدني بالحج بالمنطقة المركزية والمسجد النبوي بالمدينة المنورة.\n\n#نجاح_موسم_الحج\n#حياكم_الله"
+        },
+        {
+          "text": "#From_the_field",
+          "timestamp": "2026-05-31T16:00:06.000Z",
+          "permalink": "https://x.com/SaudiDCD/status/2061115511354634343",
+          "originalText": "#من_الميدان"
+        },
+        {
+          "text": "| A successful and safe Hajj.\n#Success_of_the_Hajj_Season\n#God bless you",
+          "timestamp": "2026-05-30T18:50:09.000Z",
+          "permalink": "https://x.com/SaudiDCD/status/2060795917096136990",
+          "originalText": "| حجٌ ناجحٌ وآمن.\n#نجاح_موسم_الحج\n#حياكم_الله"
         }
       ]
     },
@@ -1976,12 +1982,6 @@
       "language": "ar",
       "tweets": [
         {
-          "text": "The guests of the Custodian of the Two Holy Mosques program appreciate the Kingdom’s efforts in serving the Holy Qur’an.\n\nhttps://\nspa.gov.sa/N2604459\n#Sass_Haj47",
-          "timestamp": "2026-06-01T15:44:37.000Z",
-          "permalink": "https://x.com/SPAregions/status/2061474003659710625",
-          "originalText": "ضيوف برنامج خادم الحرمين يثمنون جهود المملكة في خدمة القرآن الكريم.\n\nhttps://\nspa.gov.sa/N2604459\n#واس_حج47"
-        },
-        {
           "text": "The city of pilgrims in Hail bids farewell to the guests of God after completing their rituals amid an integrated service system.\n\nhttps://\nspa.gov.sa/N2604403\n#Sass_Haj47",
           "timestamp": "2026-06-01T14:01:42.000Z",
           "permalink": "https://x.com/SPAregions/status/2061448102414836220",
@@ -2004,6 +2004,12 @@
           "timestamp": "2026-06-01T13:12:40.000Z",
           "permalink": "https://x.com/SPAregions/status/2061435766249492669",
           "originalText": "وزارة الخارجية تعرب عن إدانة المملكة للعدوان الإسرائيلي على أراضي الجمهورية اللبنانية الشقيقة، ورفضها القاطع للتوغل الإسرائيلي داخل أرض لبنان والاعتداء على سيادته.\n\nhttps://\nspa.gov.sa/N2604406\n#واس"
+        },
+        {
+          "text": "Ministry of Foreign Affairs: The Kingdom calls on the international community to assume its responsibility to stop this aggression, put an end to the Israeli military movements to expand into Lebanese territories, and stresses the importance of protecting the sovereignty of the Lebanese territories and the brotherly people of Lebanon in accordance with the relevant international agreements.\n#SPA",
+          "timestamp": "2026-06-01T13:14:27.000Z",
+          "permalink": "https://x.com/SPAregions/status/2061436212997505190",
+          "originalText": "وزارة الخارجية: المملكة تطالب المجتمع الدولي بالاضطلاع بمسؤوليته في وقف هذا العدوان، ووضع حد للتحركات الإسرائيلية العسكرية للتوسع في الأراضي اللبنانية، وتشدد على أهمية حماية سيادة الأراضي اللبنانية وشعب لبنان الشقيق وفقًا للاتفاقيات الدولية ذات الصلة.\n#واس"
         }
       ]
     },
@@ -2132,7 +2138,7 @@
           "originalText": "يوم عرفة .. يوم المغفرة والرحمة وإكمال الدين وتمام النعمة .. اللهم تقبل من حجاج بيتك .. وتقبل من جميع المسلمين والمسلمات . وأعده علينا أعواماً عديدة وأزمنة مديدة.."
         },
         {
-          "text": "During the retreat, we launched the first batch of artificial intelligence assistants in the field of procurement, taxes, customer happiness, and technical support. We also released a new batch from the federal artificial intelligence program. What we will develop today under the leadership and supervision of Sheikh Mansour bin Zayed and the national work teams is not only a government project.",
+          "text": "During the retreat, we launched the first batch of artificial intelligence assistants in the field of procurement, taxes, customer happiness, and technical support. We also released a new batch from the federal artificial intelligence program. What we will develop today under the leadership and supervision of Sheikh Mansour bin Zayed and the national work teams is not just a government project.",
           "timestamp": "2026-05-20T14:12:30.000Z",
           "permalink": "https://x.com/HHShkMohd/status/2057102168239509824",
           "originalText": "وأطلقنا خلال الخلوة الدفعة الأولى من مساعدي الذكاء الاصطناعي في مجال المشتريات والضرائب وسعادة المتعاملين والدعم التقني.. كما خرجنا دفعة جديدة من برنامج الذكاء الاصطناعي الاتحادي.. ما سنطوره اليوم تحت قيادة وإشراف الشيخ منصور بن زايد وفرق العمل الوطنية ليس مشروعاً حكومياً فقط.."
@@ -2144,7 +2150,7 @@
           "originalText": "حضرنا اليوم وأخي منصور بن زايد وسيف بن زايد الخلوة الوطنية لحكومة الإمارات في العاصمة أبوظبي لاستعراض وتطوير المنظومة الحكومية الجديدة القائمة على الذكاء الاصطناعي المساعد Agentic Ai.. أكثر من 400 مسؤول يشاركون في تطبيق ورسم ملامح تحويل نصف الحكومة وخدماتها وعملياتها إلى ذكاء"
         },
         {
-          "text": "We witnessed the honoring of the government work teams that won the second session of the Zeroing Bureaucracy Award... teams that made simplifying procedures and accelerating services a daily work culture, and established a government model that puts people first..\n\nWe congratulate the Ministry of Energy and Infrastructure team for winning the “Best Government Team” award... and we congratulate all the winners",
+          "text": "We witnessed the honoring of the government work teams that won the second cycle of the Zeroing Bureaucracy Award... teams that made simplifying procedures and accelerating services a daily work culture, and established a government model that puts people first..\n\nWe congratulate the Ministry of Energy and Infrastructure team for winning the “Best Government Team” award... and we congratulate all the winners",
           "timestamp": "2026-05-19T12:58:48.000Z",
           "permalink": "https://x.com/HHShkMohd/status/2056721231005769845",
           "originalText": "شهدنا تكريم فرق العمل الحكومية الفائزة بالدورة الثانية لجائزة تصفير البيروقراطية… فرق جعلت من تبسيط الإجراءات وتسريع الخدمات ثقافة عمل يومية، ورسخت نموذجاً حكومياً يضع الإنسان أولاً..\n\nنبارك لفريق وزارة الطاقة والبنية التحتية فوزه بجائزة “أفضل فريق حكومي” .. ونهنىء جميع الفائزين"
@@ -2241,7 +2247,7 @@
       "language": "en",
       "tweets": [
         {
-          "text": "تعلن قيادة حرس الرئاسة عن استقبال طلبات التجنيد للعسكريين مع الإعفاء من برنامج الخدمة الوطنية.\n\n#Ministry_of_Defence \n#UAE_Ministry_of_Defence\n#MOD\n#UAEMinistryOfDefence",
+          "text": "The Presidential Guard Command announces the reception of recruitment applications for military personnel with exemption from the National Service Program.\n\n#Ministry_of_Defence \n#UAE_Ministry_of_Defence\n#MOD\n#UAEMinistryOfDefence",
           "timestamp": "2026-05-28T09:19:20.000Z",
           "permalink": "https://x.com/modgovae/status/2059927490630758878",
           "originalText": "تعلن قيادة حرس الرئاسة عن استقبال طلبات التجنيد للعسكريين مع الإعفاء من برنامج الخدمة الوطنية.\n\n#وزارة_الدفاع \n#وزارة_الدفاع_الإماراتية\n#MOD\n#UAEMinistryOfDefence"
@@ -2496,7 +2502,7 @@
           "originalText": "مبارك لكم، سيدي حضرة صاحب السمو الشيخ \n@TamimBinHamad\n، وللشعب القطري، وللأمتين العربية والإسلامية، حلول عيد الأضحى المبارك، ونسأل الله سبحانه وتعالى أن يعيده علينا جميعًا بالخير والرحمة، وأن يديم الأمن والازدهار على دولة قطر وسائر دول العالم. وكل عام وأنتم بخير."
         },
         {
-          "text": "I congratulate citizens, residents and all the peoples of our entire Islamic nation on the blessed Eid Al-Adha, may God bring it back to everyone with goodness, tranquility and peace.",
+          "text": "I congratulate the citizens, residents and all other peoples of our Islamic nation on the blessed Eid Al-Adha, may God bring it back to everyone with goodness, tranquility and peace.",
           "timestamp": "2026-05-27T03:00:07.000Z",
           "permalink": "https://x.com/TamimBinHamad/status/2059469672114704888",
           "originalText": "أهنئ المواطنين والمقيمين وسائر شعوب أمتنا الإسلامية جمعاء بعيد الأضحى المبارك، أعاده الله على الجميع بالخير والطمأنينة والسلام."
@@ -2548,21 +2554,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "Ministry of Labor Launches Nationwide Awareness Campaign on Heat Stress Prevention\n#QNA  #Qatar\n\nhttps://\nbit.ly/4nXwOcw",
-          "timestamp": "2026-06-01T15:32:57.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061471066246037623"
-        },
-        {
-          "text": "#Qatar Expands Weekend Primary Healthcare Services with Addition of Al Waab Health Center\n#QNA  \n\nhttps://\nbit.ly/4dGaiBz",
-          "timestamp": "2026-06-01T15:30:51.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061470539168825706"
-        },
-        {
-          "text": "#QNA_Infographic |\nModerate Temperature Expected Tonight\n#QNA  #Qatar\n\nhttps://\nbit.ly/43byoOv",
-          "timestamp": "2026-06-01T15:13:10.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061466089012257023"
-        },
-        {
           "text": "Omani, Dutch FMs Stress Necessity to Intensify Diplomatic Efforts for Regional De-escalation\n#QNA  #Oman  #Netherlands \n\nhttps://\nbit.ly/4wW4iMt",
           "timestamp": "2026-06-01T14:27:51.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2061454684422869044"
@@ -2571,6 +2562,21 @@
           "text": "Ministry of Commerce and Industry Launches Commercial Activity Classification Update for Registered Companies\n#QNA  #Qatar  #Economy\n\nhttps://\nbit.ly/4u3Z5Qh",
           "timestamp": "2026-06-01T14:24:59.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2061453963501662583"
+        },
+        {
+          "text": "#Saudi Arabia Condemns Repeated Attacks on Kuwait, Reaffirms Full Support\n#QNA  \n\nhttps://\nbit.ly/3RT4095",
+          "timestamp": "2026-06-01T14:20:28.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061452828611067946"
+        },
+        {
+          "text": "HE Prime Minister and Minister of Foreign Affairs Meets #UAE Ambassador\n#QNA  #Qatar\n\nhttps://\nbit.ly/4wWJZ1H",
+          "timestamp": "2026-06-01T14:15:13.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061451505039716775"
+        },
+        {
+          "text": "The State of Qatar vehemently condemned the repeated Iranian attacks on Kuwait, labeling them a flagrant violation of Kuwait's sovereignty and the international rules-based order.\n#QNA  #Qatar \n\nhttps://\nbit.ly/4u5A3jG",
+          "timestamp": "2026-06-01T14:00:42.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061447851427668299"
         }
       ]
     },
@@ -2608,7 +2614,7 @@
           "originalText": "مبارك لكم، سيدي حضرة صاحب السمو الشيخ \n@TamimBinHamad\n، وللشعب القطري، وللأمتين العربية والإسلامية، حلول عيد الأضحى المبارك، ونسأل الله سبحانه وتعالى أن يعيده علينا جميعًا بالخير والرحمة، وأن يديم الأمن والازدهار على دولة قطر وسائر دول العالم. وكل عام وأنتم بخير."
         },
         {
-          "text": "I congratulate citizens, residents and all the peoples of our entire Islamic nation on the blessed Eid Al-Adha, may God bring it back to everyone with goodness, tranquility and peace.",
+          "text": "I congratulate the citizens, residents and all other peoples of our Islamic nation on the blessed Eid Al-Adha, may God bring it back to everyone with goodness, tranquility and peace.",
           "timestamp": "2026-05-27T03:00:07.000Z",
           "permalink": "https://x.com/TamimBinHamad/status/2059469672114704888",
           "originalText": "أهنئ المواطنين والمقيمين وسائر شعوب أمتنا الإسلامية جمعاء بعيد الأضحى المبارك، أعاده الله على الجميع بالخير والطمأنينة والسلام."
@@ -2655,12 +2661,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "The Kingdom of Bahrain condemns the targeting of the sister State of Kuwait by missile attacks and hostile Iranian drones. \nhttps://\nbit.ly/4dXrPUQ",
-          "timestamp": "2026-06-01T16:00:02.000Z",
-          "permalink": "https://x.com/bahdiplomatic/status/2061477885517439300",
-          "originalText": "مملكة البحرين تُدين استهداف دولة الكويت الشقيقة بهجمات صاروخية وطائرات مسيّرة إيرانية معادية \nhttps://\nbit.ly/4dXrPUQ"
-        },
-        {
           "text": "The Secretary of State receives a phone call from the Secretary of Foreign Affairs of the Republic of the Philippines\n\n\nhttp://\ntinyurl.com/23w8rg3q",
           "timestamp": "2026-05-30T20:55:25.000Z",
           "permalink": "https://x.com/bahdiplomatic/status/2060827445503176900",
@@ -2682,6 +2682,12 @@
           "timestamp": "2026-05-26T23:02:45.000Z",
           "permalink": "https://x.com/bahdiplomatic/status/2059409937005003123",
           "originalText": "وزير الخارجية يلتقي مع نائب رئيس الوزراء وزير الخارجية في جمهورية باكستان الإسلامية\n\nhttps://\nshorturl.at/48m6b"
+        },
+        {
+          "text": "The Minister of Foreign Affairs meets with the Minister of Foreign Affairs of the Kyrgyz Republic\n\nhttps://\nshorturl.at/kzdSJ",
+          "timestamp": "2026-05-26T23:01:46.000Z",
+          "permalink": "https://x.com/bahdiplomatic/status/2059409687263506551",
+          "originalText": "وزير الخارجية يلتقي مع وزير الخارجية في الجمهورية القرغيزية\n\nhttps://\nshorturl.at/kzdSJ"
         }
       ]
     },
@@ -2742,7 +2748,7 @@
           "originalText": "الدفاع المدني ينقذ 5 أطفال من حريق منزل في منطقة عالي\n\n\nhttps://\npolicemc.gov.bh/news/78966/"
         },
         {
-          "text": "Civil Defense rescued 5 children and was able to extinguish a fire that broke out in a house in the Aali area, without causing any injuries. Investigations are underway to find out the cause of the fire.",
+          "text": "Civil Defense rescued 5 children and was able to extinguish a fire that broke out in a house in the Aali area, without causing any casualties. Investigations are underway to find out the cause of the fire.",
           "timestamp": "2026-05-28T23:18:44.000Z",
           "permalink": "https://x.com/moi_bahrain/status/2060138734708830375",
           "originalText": "الدفاع المدني ينقذ 5 أطفال ويتمكن من إخماد حريق اندلع في منزل بمنطقة عالي ، دون وقوع إصابات، والتحريات جارية لمعرفة سبب اندلاع الحريق."
@@ -2790,29 +2796,29 @@
       "language": "en",
       "tweets": [
         {
-          "text": "Director General of the International Atomic Energy Agency Rafael Grossi & his accompanying delegation visits the #Kuwait Institute for Scientific Research.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306049\n…\n\n#KUNA",
-          "timestamp": "2026-06-01T15:51:52.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061475829947699343"
-        },
-        {
-          "text": "#Qatar strongly condemns the repeated Iranian attacks on Kuwait, describing them as a blatant violation of Kuwait's sovereignty & a flagrant breach of international law.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306048\n…\n\n#KUNA",
-          "timestamp": "2026-06-01T15:47:43.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061474784370725107"
-        },
-        {
-          "text": "Kuwaiti Ambassador to Austria & Permanent Representative to international organizations in Vienna, Talal Al-Fassam says Kuwait committed to strengthening criminal justice systems, combating crime in all its forms & supporting international cooperation to address emerging security",
-          "timestamp": "2026-06-01T15:39:59.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061472838314316194"
-        },
-        {
-          "text": "#Egypt condemns a wave of Iranian attacks against Kuwait, slamming the repetitive nature of the onslaught as a stark violation of Kuwait's sovereignty & security.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306031\n…\n\n#KUNA",
-          "timestamp": "2026-06-01T15:37:08.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061472119741952492"
-        },
-        {
           "text": "#Saudi Arabia strongly condemns & denounces what it described as repeated Iranian attacks against Kuwait.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306021\n…",
           "timestamp": "2026-06-01T14:07:59.000Z",
           "permalink": "https://x.com/kuna_en/status/2061449685777150064"
+        },
+        {
+          "text": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah receives Director General of the International Atomic Energy Agency Rafael Grossi.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306020\n…\n\n#KUNA",
+          "timestamp": "2026-06-01T14:06:18.000Z",
+          "permalink": "https://x.com/kuna_en/status/2061449261984719065"
+        },
+        {
+          "text": "KUNA AI News Bulletin\n\n#Kuna_Avatar\n#Kuna_Video",
+          "timestamp": "2026-06-01T13:44:48.000Z",
+          "permalink": "https://x.com/kuna_en/status/2061443851286368256"
+        },
+        {
+          "text": "Kuwait's Permanent Representative to UN & other international organizations in Geneva, Ambassador Nasser Al-Hayen says Iran's attacks on Kuwait & other countries in the region, in addition to the blockade of the Strait of Hormuz, constitute a direct threat to the global economy &",
+          "timestamp": "2026-06-01T13:30:59.000Z",
+          "permalink": "https://x.com/kuna_en/status/2061440374074225007"
+        },
+        {
+          "text": "#Oman condemns & denounces the attacks targeting #Kuwait, affirming its solidarity with the country & support for all measures it takes to preserve its security & stability.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306001\n…\n\n#KUNA",
+          "timestamp": "2026-06-01T13:11:17.000Z",
+          "permalink": "https://x.com/kuna_en/status/2061435414267810295"
         }
       ]
     },
@@ -2866,7 +2872,7 @@
           "permalink": "https://x.com/ONA_eng/status/1861103939133022332"
         },
         {
-          "text": "HH the Honorable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of the Sultan of #Oman She thanked them for their great contribution to the nation’s development.\n #Omani_Women's_Day",
+          "text": "HH the Honorable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of the Sultan of #Oman has addressed a message of greetings on the occasion of Omani Women’s Day—the 17th of October. She thanked them for their great contribution to the nation’s development.\n #Omani_Woman's_Day",
           "timestamp": "2022-10-17T03:06:27.000Z",
           "permalink": "https://x.com/ONA_eng/status/1581844059093864448",
           "originalText": "HH the Honourable Lady Assayida Ahd Abdullah Hamed Al Busaidi, Spouse of Sultan of #Oman, has addressed a message of greetings on the occasion of Omani Women’s Day—the 17th of October. She thanks them for their great contribution to the nation’s development.\n #يوم_المراه_العمانيه"
