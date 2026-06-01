@@ -1,62 +1,72 @@
 **Top News**
 
-- Kuwait faced Iranian missile and drone attacks while US forces struck Iranian military sites, officials confirmed ([AP](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d))
-- US President Donald Trump announced a halt to mutual attacks between Lebanon's Hezbollah and Israeli forces, Kuwait news agency KUNA reported ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/))
-- Saudi Arabia's Crown Prince offered condolences for the death of former Yemeni President Abd Rabbuh Mansour Hadi, the Ministry of Foreign Affairs said ([Twitter](https://twitter.com/KSAMOFA))
-- Iran's naval forces fired on US warships during reconnaissance missions in the Red Sea, Houthi spokesman Mohammed Abdulsalam claimed ([Twitter](https://twitter.com/abdusalamsalah))
-- Former Yemeni President Abd Rabbuh Mansour Hadi died, with condolences pouring in from Gulf leaders, according to official statements ([Twitter](https://twitter.com/spagov))
+- Kuwait faced Iranian missile and drone attacks overnight, prompting air defense responses and sirens across Kuwait City, according to ([AP](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)).
+
+- The United States struck Iranian military sites in retaliation, then downed additional missiles Tehran fired at US troops in Kuwait, the ([BBC reported](https://www.bbc.com/news/articles/crlpy8n7pr6o)).
+
+- Saudi Arabia condemned the Iranian attacks on Kuwait in the strongest terms, the Saudi Foreign Ministry stated in an ([official statement](https://twitter.com/KSAMOFA)).
+
+- OPEC+ is likely to raise its July oil output target despite Hormuz strait disruptions, sources told ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)).
+
+- Crown Prince Mohammed bin Salman offered condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently, the Saudi Press Agency ([reported](https://twitter.com/spagov)).
+
+- Qatar condemned the Iranian attacks on Kuwait and issued statements of support for Kuwaiti sovereignty, according to Arabic media ([reports](https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA)).
 
 **Energy & Economy**
 
-- Saudi Aramco raised LPG prices by up to 3% for June while Sonatrach cut prices by 18% and 31%, Reuters reported ([Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/))
-- OPEC+ will likely raise July oil output targets despite Strait of Hormuz disruption risks, sources told Reuters ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/))
-- Oil prices jumped over $6 following reports of halted US-Tehran exchanges and Hormuz blockade risks, Reuters reported ([Reuters](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/))
-- UAE economic growth reached 6.2% with GDP expected to rise to 1.9 trillion dirhams in 2025, the UAE Government Media Office announced ([Twitter](https://twitter.com/UAEmediaoffice))
+- Oil prices jumped over $6 following reports of halted US-Tehran exchanges and heightened Hormuz blockade risks, ([Reuters reported](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/)).
+
+- Saudi Aramco raised LPG prices by up to 3% for June while Algeria's Sonatrach cut prices by 18-31%, according to ([Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/)).
+
+- The UAE economy saw 6.2% new growth with GDP projected to reach 1.9 trillion dirhams in 2025, the UAE Government Media Office ([announced](https://twitter.com/UAEmediaoffice)).
+
+- The Amman Stock Exchange and Abu Dhabi Market activated their link via the Tabadul platform to enhance regional trading, ([CNN Arabic reported](https://arabic.cnn.com/middle-east/article/2026/06/01/amman-stock-exchange-abu-dhabi-market-tabadul-platform)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- The Ministry of Foreign Affairs condemned Israeli aggression on Lebanon and repeated Iranian attacks on Kuwait in separate statements ([Twitter](https://twitter.com/KSAMOFA))
-- Prince Khalid bin Salman conveyed condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death ([Twitter](https://twitter.com/kbsalsaud))
-- Saudi Ambassador to Yemen Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and ceasefire ([Twitter](https://twitter.com/mohdsalj))
+
+- The Kingdom promoted 327 Public Prosecution members at various judicial ranks, according to a royal ([order](https://twitter.com/spagov)).
+
+- Prince Khalid bin Salman conveyed Saudi condolences for former Yemeni President Hadi's death and met with UK National Security Adviser Jonathan ([Powell](https://twitter.com/kbsalsaud)).
+
+- Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy another chance for ending regional ([conflicts](https://twitter.com/FaisalbinFarhan)).
 
 **UAE**
-- President Sheikh Mohamed bin Zayed launched the Naseej textile circularity initiative to transition the sector toward a circular economic system, Abu Dhabi Media Office reported ([Twitter](https://twitter.com/ADMediaOffice))
-- Sheikh Mohammed bin Rashid announced the launch of AI assistants in procurement, taxes, customer happiness, and technical support during a government retreat ([Twitter](https://twitter.com/HHShkMohd))
 
-**Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani received appointment confirmation from Emir Sheikh Tamim bin Hamad Al Thani ([Twitter](https://twitter.com/MBA_AlThani_))
-- Former official Abdullah bin Hamad Al Attiyah died, with officials offering condolences for his contributions to Qatar's development ([Twitter](https://twitter.com/MBA_AlThani_))
+- Sheikh Mohammed bin Rashid issued a law establishing the Community Development Authority in ([Dubai](https://twitter.com/DXBMediaOffice)).
 
-**Bahrain**
-- The Kingdom condemned Iranian missile attacks and hostile drone strikes targeting Kuwait, the Ministry of Foreign Affairs said ([Twitter](https://twitter.com/bahdiplomatic))
-- Civil Defence rescued five children from a house fire in Aali area without casualties, the Interior Ministry reported ([Twitter](https://twitter.com/moi_bahrain))
+- The UAE launched the Naseej national textile recycling initiative to transition the sector toward a circular economic ([system](https://twitter.com/ADMediaOffice)).
+
+- Dubai's transport authority recorded 8.2 million riders across public transport during Eid Al Adha holiday ([period](https://twitter.com/DXBMediaOffice)).
+
+**Kuwait**
+
+- Multiple Kuwaiti ministers congratulated Crown Prince Sheikh Mishal on his second anniversary in office, KUNA ([reported](https://twitter.com/kuna_en)).
 
 **Oman**
-- Sultan Haitham issued two Royal decrees, one promulgating cybercrime law and another amending Cultural Heritage Law provisions, Oman News Agency reported ([Twitter](https://twitter.com/ONA_eng))
-- Foreign Minister Badr Albusaidi met with Iran's Deputy FM, reaffirming diplomatic engagement importance ([Twitter](https://twitter.com/badralbusaidi))
 
-**Yemen**
-- IRG Presidential Council renewed requests for Saudi intervention to stop UAE interference, Saba News Agency reported ([Twitter](https://twitter.com/sabanew_))
-- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG government ([Twitter](https://twitter.com/sabanew_))
-- Houthis announced successful heart valve installation without surgical intervention in Yemen ([Twitter](https://twitter.com/Moh_Alhouthi))
+- Sultan Haitham issued two royal decrees, including a new cybercrime law and amendments to the Cultural Heritage Law, Oman News Agency ([reported](https://twitter.com/ONA_eng)).
+
+- Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral ([relations](https://twitter.com/ONA_eng)).
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance to end regional conflicts and restore Strait of Hormuz navigation ([Twitter](https://twitter.com/FaisalbinFarhan))
-- Muslim World League condemned Iranian attacks on Kuwait, Qatar News Agency reported ([Twitter](https://twitter.com/QNAEnglish))
+- Saudi Foreign Minister Prince Faisal bin Farhan chaired an international conference in Paris on Palestinian statehood and the two-state ([solution](https://twitter.com/FaisalbinFarhan)).
+
+- UAE Foreign Minister Sheikh Abdullah bin Zayed highlighted that the UAE leads globally in artificial intelligence talent concentration with 121% growth between 2019-2025 ([data](https://twitter.com/ABZayed)).
 
 **Coverage Flags**
 
-- Multiple Gulf states issued coordinated condemnations of Iranian attacks on Kuwait, suggesting diplomatic coordination
-- Former Yemeni President's death prompted widespread regional condolences, highlighting continuing Gulf involvement in Yemen
+- Several major outlets (Financial Times, Wall Street Journal, Economist) experienced access issues during monitoring, limiting comprehensive coverage ([verification needed]).
 
 **Sources**
 
-- [Times of Oman](https://timesofoman.com)
-- [Reuters Gulf](https://www.reuters.com)
-- [AP Gulf](https://apnews.com)
-- [BBC Middle East](https://www.bbc.com)
-- [Kuwait News Agency KUNA](https://twitter.com/kuna_en)
-- [Qatar News Agency](https://twitter.com/QNAEnglish)
-- [Saudi MFA](https://twitter.com/KSAMOFA)
+- [Reuters Gulf](https://www.reuters.com/business/energy/)
+- [AP Gulf](https://apnews.com/)
+- [BBC Middle East](https://www.bbc.com/news/world/middle_east)
+- [Times of Oman](https://timesofoman.com/)
+- [Saudi Press Agency](https://twitter.com/spagov)
+- [UAE Government Media Office](https://twitter.com/UAEmediaoffice)
+- [Kuwait News Agency](https://twitter.com/kuna_en)
+- [Oman News Agency](https://twitter.com/ONA_eng)

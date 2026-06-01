@@ -1,27 +1,40 @@
-**Gulf Brief**
+**GULF NEWS BRIEFING — June 1, 2026**
 
-1. **Iranian attack on Kuwait.** Iran launched missile and drone attacks against Kuwait, prompting air defense responses and condemnation across the Gulf. US forces [struck Iranian](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) radar sites following the assault on American troops stationed there. Saudi Arabia's Foreign Ministry expressed "condemnation and denunciation in the strongest terms" of the Iranian strikes.
+**Major Conflict Developments**
 
-2. **OPEC+ production outlook.** Oil producers are likely to increase July output targets despite heightened regional tensions affecting the Strait of Hormuz, according to [Reuters sources](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/). Saudi Aramco separately raised LPG official selling prices by up to 3 percent for June deliveries.
+1. **Iran-US military exchange.** The United States bombed Iranian military sites following Tehran's missile attacks on American forces in Kuwait, according to [AP reports](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d). Sirens sounded over Kuwait City as Iranian missiles targeted US military positions. The BBC reported that Iran's attacks damaged 20 US military sites since the conflict began.
 
-3. **Crown Prince diplomatic outreach.** Saudi Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron to discuss bilateral cooperation and regional developments. The Crown Prince also met Chad's president at Al-Yamamah Palace and [offered condolences](https://spa.gov.sa/N2604388) to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently.
+2. **Kuwait condemns Iranian attacks.** Gulf states rallied behind Kuwait following the Iranian missile strikes. The Saudi Foreign Ministry [condemned the attacks](https://www.ksamofa.gov.sa) as "sinful and repeated Iranian aggression," while Bahrain denounced the targeting of Kuwait with "hostile Iranian drones." Kuwait's defense systems intercepted multiple projectiles during the assault.
 
-4. **Oman cybersecurity law.** Sultan Haitham issued two royal decrees, including one promulgating a new Law on Combating Cybercrime and another [amending provisions](https://timesofoman.com/article/172462-new-cyberlaw-to-enhance-omans-digital-security) of the Cultural Heritage Law. Foreign Minister Badr Albusaidi also held discussions with Iran's Deputy FM on diplomatic engagement and tension reduction.
+3. **Saudi Crown Prince diplomatic outreach.** Crown Prince Mohammed bin Salman received calls from French President Emmanuel Macron to discuss regional security and maritime navigation freedom. Foreign Minister Prince Faisal bin Farhan praised US President Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz security.
 
-5. **UAE textile initiative.** President Sheikh Mohamed bin Zayed launched Naseej, a national textile circularity initiative aimed at transforming the sector toward a circular economic system. The UAE Government Media Office announced the initiative as a strategic mandate supporting the transition from linear to sustainable textile [production models](https://twitter.com/UAEmediaoffice).
+**Energy Markets**
 
-6. **Israel-Lebanon escalation.** Israeli forces expanded ground operations in Lebanon, seizing strategic positions as Hezbollah conflict intensified. The BBC reports Israel ordered [strikes on Beirut](https://www.bbc.com/news/articles/c4g419e2xlvo) suburbs following escalating cross-border exchanges, raising regional security concerns.
+4. **Oil prices surge on Hormuz fears.** Oil jumped over $6 per barrel following reports of halted US-Tehran exchanges and potential Strait of Hormuz blockade risks, [Reuters reported](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/). OPEC+ sources indicated the group would likely raise July output targets despite the Hormuz disruption concerns.
 
-7. **Yemen diplomatic moves.** Saudi Ambassador to Yemen Mohammed al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire arrangements and support prisoner exchanges. The IRG in Yemen appointed Ahmed Hamid Lamlas as new governor of Aden Governorate.
+5. **Saudi Aramco adjusts LPG pricing.** Saudi Aramco raised its liquefied petroleum gas official selling prices by up to 3% for June deliveries, while Algeria's Sonatrach cut prices by 18% and 31%, according to [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/).
 
-8. **Qatar sports developments.** The country opened entries for the National Sports Day Award 2026 and announced expanded weekend primary healthcare services with the addition of Al Waab Health Center. Qatar also participated in the 35th UN Commission on Crime Prevention session [in Vienna](https://ow.ly/XSjg50Z6iMg).
+**Regional Developments**
 
-9. **Bahrain civil defense response.** Interior Ministry forces rescued five children from a house fire in the Aali area without casualties. Separately, Foreign Minister Dr. Abdullatif Al Zayani received a phone call from his Philippine counterpart to discuss bilateral relations.
+6. **Death of former Yemeni president.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from across the Gulf. Saudi Crown Prince Mohammed bin Salman called Hadi's son to express sympathy, while Prince Khalid bin Salman described the late leader as "a wise leader keen on his country's security and prosperity."
 
-10. **Former Yemeni president dies.** Abd Rabbuh Mansour Hadi, who served as Yemen's president during the transitional period, passed away. Multiple Gulf leaders, including Saudi Crown Prince Mohammed bin Salman, offered condolences to his family, with Information Minister Mohammed al-Eryani calling him a "wise leader."
+7. **Oman cybersecurity law enacted.** Sultan Haitham issued royal decrees promulgating a new cybercrime law and amending cultural heritage legislation, the [Oman News Agency reported](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security). The moves aim to enhance digital security following regional cyber threats.
 
-**Sources:**
-- [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-- [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
-- [BBC](https://www.bbc.com/news/articles/c4g419e2xlvo)
-- [Times of Oman](https://timesofoman.com/article/172462-new-cyberlaw-to-enhance-omans-digital-security)
+8. **UAE textile recycling initiative.** The UAE launched the "Naseej" National Initiative for Textile Circularity to transition the sector toward a circular economic system. The program supports the country's sustainability goals and was announced by the Abu Dhabi Media Office under presidential directives.
+
+**Lebanon-Israel Escalation**
+
+9. **Israeli strikes on Beirut suburbs.** Israeli Prime Minister Netanyahu ordered strikes on Beirut's southern suburbs as Hezbollah rockets hit northern Israel, the [BBC reported](https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss). The escalation followed Israel's seizure of a castle in Lebanon as part of its expanded ground offensive.
+
+10. **Abu Dhabi-Amman stock exchange link.** The UAE and Jordan activated a trading link between the Abu Dhabi Securities Exchange and Amman Stock Exchange through the "Tabadul" platform, according to CNN Arabic. The connection enhances cross-border investment opportunities between the two markets.
+
+**Sources**
+
+• [Reuters Gulf](https://www.reuters.com/business/energy/)
+• [AP Gulf](https://apnews.com)  
+• [BBC Middle East](https://www.bbc.com/news)
+• [Times of Oman](https://timesofoman.com)
+• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
+• [UAE Media Office](https://twitter.com/UAEmediaoffice)
+• [Qatar News Agency](https://www.qna.org.qa/en)
+• [Kuwait News Agency](https://www.kuna.net.kw)
