@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-01T14:02:53.330Z",
+  "updated": "2026-06-01T14:18:37.087Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "SAMA Licenses 'jak almuqaddimah Company' to Provide Consumer Finance",
+      "url": "https://www.spa.gov.sa/en/N2604438?type=news&uuid=N2604438",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-01T14:16:03.000Z"
+    },
     {
       "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
       "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&amp;at_campaign=rss",
@@ -10,7 +20,27 @@
       "category": "competitors",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-01T13:58:16.000Z"
+      "date": "2026-06-01T14:13:53.000Z"
+    },
+    {
+      "headline": "Passports Directorate at Madinah Airport Finalizes Departure Procedures for Pilgrims",
+      "url": "https://www.spa.gov.sa/en/N2604437?type=news&uuid=N2604437",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-01T14:10:56.000Z"
+    },
+    {
+      "headline": "DEWA, Etihad Rail explore areas of collaboration",
+      "url": "https://www.wam.ae/en/details/c0i8l6z-dewa-etihad-rail-explore-areas-collaboration",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-01T14:03:18.517Z"
     },
     {
       "headline": "Arab Parliament Speaker Condemns Iranian Attacks on Kuwait",
@@ -307,6 +337,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-01T12:15:04.000Z"
+    },
+    {
+      "headline": "Accusations of financing terrorism and transferring money abroad - Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOdWhGSkh3akUzSjRYZnkyaWd4YVp5bWlLR3R0Q1BxVVBSNHgyWGlDMmNrUVhwM3czRlViZDFjV1lIZVFZa2Vmamc2cm9UZl90WU5sMFl1U1lyMWRibzZxMEs2NVphOVBQRE1LUTljWFd1ZnpGSkUyVHQzdHRYNlZoVVl0V2lvazNfcGhadzU5MnVCcFNZX0pYTk1aOUFINmpqclZITXNnWHIzU0VnRDNER0daMVY2SFk3WjRlVmRuekNlNFBvZllmYU9uUjgtV1kwU01MVjVGdlBETUMzWElpSzQzSnZ3djkzaWlJZHZLcmtZazlFZzFfdVZXeldHVGlrV0VVQy1IZDgzVXlJUy0ySUlUcl9jWGJxTzF4NDNSSndTNnY2ODQzXzdGS1ZJVFp4V3VSaXdLR0lHVGRTM09GeDNIX3ZuYVR0TVhJV1VNaElNN0tldFhJTi1Pdi1RODMxOFJMWmlZeDlYeHhCYV8yaF83aS0tZG8?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-01T12:14:22.000Z",
+      "originalHeadline": "اتهامات بتمويل الإرهاب وتحويل أموال للخارج - سكاي نيوز عربية"
     },
     {
       "headline": "Saudi Arabia condemns the repeated Iranian attacks on Kuwait... and stresses that they undermine security and stability efforts - Youm7",
@@ -634,7 +675,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-01T11:31:34.000Z",
-      "originalHeadline": "الكويت تتصدى لهجمات صاروخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
+      "originalHeadline": "الكويت تتصدى له��مات صاروخية وطائرات مسيّرة وتندد باستمرار الهجمات الإيرانية - الجزيرة نت"
     },
     {
       "headline": "Health Ministry signs agreement to establish integrated pulmonary unit at Khoula Hospital",
@@ -2647,6 +2688,16 @@
       "date": "2026-06-01T06:05:14.000Z"
     },
     {
+      "headline": "Under directives of UAE President, National Initiative ‘Naseej’ launched to transform UAE’s textile sector into a circular economy priority",
+      "url": "https://www.wam.ae/en/details/c0i8kk5-under-the-directives-the-uae-president-national",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-01T06:00:00.000Z"
+    },
+    {
       "headline": "Iran targets American base in region after US strikes Iranian air defences",
       "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
       "source": "The Guardian",
@@ -2656,16 +2707,6 @@
       "language": "en",
       "date": "2026-06-01T06:00:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Under directives of UAE President, National Initiative ‘Naseej’ launched to transform UAE’s textile sector into a circular economy priority",
-      "url": "https://www.wam.ae/en/details/c0i8kk5-under-the-directives-the-uae-president-national",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-01T06:00:00.000Z"
     },
     {
       "headline": "Kuwait's air defenses respond to missile and drone attacks",
@@ -3167,46 +3208,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-01T04:21:33.000Z"
-    },
-    {
-      "headline": "French Open 2026: Alexander Zverev advances to 6th straight QFs",
-      "url": "https://timesofoman.com//article/172428-french-open-2026-alexander-zverev-advances-to-6th-straight-qfs",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-01T04:19:55.000Z"
-    },
-    {
-      "headline": "Iran reopens majority of underground missile sites: Report",
-      "url": "https://timesofoman.com//article/172427-iran-reopens-majority-of-underground-missile-sites-report",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-01T04:18:56.000Z"
-    },
-    {
-      "headline": "US says it struck Iranian military sites, Tehran responds with air base attack - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-01T04:17:00.000Z"
-    },
-    {
-      "headline": "US pushes new Israel-Lebanon ceasefire initiative amid ongoing tensions: Axios",
-      "url": "https://timesofoman.com//article/172426-us-pushes-new-israel-lebanon-ceasefire-initiative-amid-ongoing-tensions-axios",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-01T04:15:59.000Z"
     }
   ]
 }
