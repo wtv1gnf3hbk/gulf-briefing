@@ -1,67 +1,60 @@
 **Top News**
 
-- Saudi Arabia confirmed the death of former Yemeni President Abd Rabbuh Mansour Hadi as Prince Khalid bin Salman conveyed the kingdom's condolences, according to the [Saudi Press Agency](https://spa.gov.sa/N2603513).
-
-- Iran reopened the Strait of Hormuz to commercial shipping as the US and Iran reached a preliminary agreement, with US Vice President JD Vance saying the parties are "very close" to a deal but "not there yet," the [BBC reported](https://www.bbc.com/news/articles/c87qng40wz9o).
-
-- Oman's Foreign Ministry warned of a potential sea mine spotted west of the Strait of Hormuz, advising vessels to exercise extreme caution in the area, [CNN Arabic reported](https://arabic.cnn.com/middle-east/article/2026/05/31/oman-warning-sea-mine-west-hurmoz).
-
-- Saudi Arabia's ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate the ceasefire and support prisoner exchanges, according to his [official Twitter](https://twitter.com/mohdsalj) account.
-
-- The UAE announced 6.2% economic growth with GDP rising to 1.9 trillion dirhams in 2025, the [UAE Media Office](https://twitter.com/UAEmediaoffice) stated.
+- Kuwait confronted missile and drone attacks from Iran, leading to sirens over Kuwait City following US strikes on Iranian military sites ([AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d))
+- US bombed Iranian military sites after Tehran targeted American troops in Kuwait, according to the ([BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss))
+- Saudi Arabia strongly condemned what it described as repeated Iranian attacks against Kuwait, the ([Saudi MFA](https://twitter.com/KSAMOFA)) stated
+- Crown Prince Mohammed bin Salman received a phone call from French President Macron discussing bilateral cooperation and regional developments ([Saudi Press Agency](https://spa.gov.sa/N2604388))
+- Former Yemeni President Abd Rabbuh Mansour Hadi died, with Crown Prince Mohammed bin Salman offering condolences to his family ([Times of Oman](https://timesofoman.com//article/172455-oman-denounces-hostile-act-against-kuwait))
 
 **Energy & Economy**
 
-- Qatar Stock Exchange resumed official trading today following the Eid holiday, [Mubasher reported](https://www.mubasher.info/news/4619474).
-
-- Saudi company Mutlaq Al-Ghuwairi is seeking to raise 3 billion riyals from a 30% stock exchange offering, according to [Asharq Business](https://asharqbusiness.com/financial-markets/134643).
-
-- Dubai's DEWA commissioned 1,994 new 11kV substations in 2025, a 30% increase from 1,530 in 2024, the [Dubai Media Office](https://twitter.com/DXBMediaOffice) announced.
+- Saudi Aramco raised LPG prices by up to 3% for June, according to ([Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/))
+- Oil prices rose as US and Iran exchanged strikes, with Israel moving further into Lebanon ([Reuters](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/))
+- UAE activated electronic link between Amman Stock Exchange and Abu Dhabi Market via the "Tabadul" platform ([Al Arabiya](https://www.alarabiya.net/amp/aswaq/financial-markets/2026/06/01/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84))
 
 **Country Watch**
 
 **Saudi Arabia**
-- Interior Ministry reported arresting 8,090 violators of residency, work, and border security regulations in one week, according to its [official account](https://twitter.com/MOISaudiArabia).
-- The Hajj season concluded with pilgrims performing farewell circumambulation as services for issuing Umrah visas resumed through the Nisk application.
+- King Salman promoted 327 members of the Public Prosecution at various judicial ranks ([Saudi Press Agency](https://spa.gov.sa/N2604029))
+- Crown Prince Mohammed bin Salman met with Chad's President to review bilateral relations and cooperation prospects ([Saudi MFA](https://twitter.com/KSAMOFA))
 
 **UAE**
-- Sheikh Mohammed bin Rashid reviewed achievements in the tourism sector for 2025 and launched the first batch of AI assistants for government services, his [Twitter account](https://twitter.com/HHShkMohd) showed.
-- UAE ranked first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, Sheikh Abdulla bin Zayed [noted](https://twitter.com/ABZayed).
+- Sheikh Mohammed bin Rashid launched the first batch of AI assistants in procurement, taxes, customer happiness and technical support ([Sheikh Mohammed](https://twitter.com/HHShkMohd))
+- UAE achieved 6.2% new economic growth with GDP rising to 1.9 trillion dirhams in 2025 ([UAE Gov Media Office](https://twitter.com/UAEmediaoffice))
 
 **Qatar**
-- Prime Minister Mohammed bin Abdulrahman Al Thani was appointed by Emir Sheikh Tamim bin Hamad, according to his [official statement](https://twitter.com/MBA_AlThani_).
-
-**Bahrain**
-- Civil Defense rescued five children from a house fire in Aali area without injuries, the [Interior Ministry](https://policemc.gov.bh/en/news/78966/) reported.
-
-**Kuwait**
-- First groups of Hajj pilgrims returned to Kuwait Airways' T4 terminal in a joyful atmosphere, [KUNA reported](https://ow.ly/Lr8l30sW8QT).
+- Majed Al Ansari was appointed as advisor and official spokesman for the Ministry of Foreign Affairs ([Majed Al Ansari](https://twitter.com/majedalansari))
+- Qatar strongly condemned repeated Iranian attacks on Kuwait, calling them violations of sovereignty ([Qatar News Agency](https://twitter.com/QNAEnglish))
 
 **Oman**
-- Sultan Haitham bin Tarik offered Eid Al Adha prayers at Sultan Qaboos Mosque in Sohar, [ONA reported](http://n9.cl/adorv).
-- Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister reflecting the constructive nature of bilateral dialogue, according to his [Twitter](https://twitter.com/badralbusaidi).
+- Sultan Haitham issued two royal decrees on combating cybercrime and amending cultural heritage law ([Oman News Agency](https://twitter.com/ONA_eng))
+- Foreign Minister Badr Albusaidi met with Iran's Deputy FM, emphasizing diplomatic engagement ([Badr Albusaidi](https://twitter.com/badralbusaidi))
+
+**Bahrain**
+- Civil Defence rescued five children from a house fire in Aali area without casualties ([Bahrain Interior Ministry](https://twitter.com/moi_bahrain))
+
+**Kuwait**
+- Foreign Minister met with IAEA Director General Rafael Grossi ([Kuwait News Agency](https://twitter.com/kuna_en))
 
 **Yemen**
-- IRG President Al-Alimi received congratulatory messages from Saudi leadership on Yemen's National Day, [Saba News Agency](https://twitter.com/sabanew_) reported.
-- Houthi spokesman Mohammed Abdulsalam announced details of an agreement including canceling banking restrictions and resuming Yemenia flights to Jordan, his [Twitter](https://twitter.com/abdusalamsalah) showed.
+- IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate ([Saba News Agency](https://twitter.com/sabanew_))
 
 **Official Signals**
 
-- Saudi Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz security, according to his [official statement](https://twitter.com/FaisalbinFarhan).
-
-- UAE's Anwar Gargash criticized Turkey's Defense Minister for "provocative statements," saying relations are not managed by threats and there is no place for colonial illusions, his [Twitter](https://twitter.com/AnwarGargash) account stated.
+- Prince Faisal bin Farhan appreciated US President Trump's decision to give diplomacy a chance to end the war and restore maritime navigation security ([Prince Faisal](https://twitter.com/FaisalbinFarhan))
+- UAE's Sheikh Abdullah bin Zayed noted UAE is first in the world for AI talent concentration growth at 121% between 2019-2025 ([Sheikh Abdulla](https://twitter.com/ABZayed))
 
 **Coverage Flags**
 
-- Multiple Gulf outlets remain blocked or inaccessible today, limiting direct news verification from some key sources.
+- Multiple Gulf outlets are leading with the Iran-Kuwait attacks story, showing regional concern over maritime security
+- Several homepage screenshots were blocked or inaccessible, limiting visibility into some outlets' coverage priorities
 
 **Sources**
-- [Saudi Press Agency](https://spa.gov.sa)
-- [BBC Middle East](https://www.bbc.com/news)
-- [Reuters Gulf](https://www.reuters.com)
+
 - [Times of Oman](https://timesofoman.com)
-- [CNN Arabic](https://arabic.cnn.com)
-- [UAE Media Office](https://twitter.com/UAEmediaoffice)
-- [Qatar News Agency](https://twitter.com/QNAEnglish)
-- [Kuwait News Agency](https://twitter.com/kuna_en)
-- [Oman News Agency](https://twitter.com/ONA_eng)
+- [Reuters Gulf](https://www.reuters.com)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com/news)
+- [Saudi Press Agency](https://spa.gov.sa)
+- [Kuwait News Agency](https://kuna.net.kw)
+- [Qatar News Agency](https://qna.org.qa)
