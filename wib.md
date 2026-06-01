@@ -1,25 +1,28 @@
-**Saudi Arabia Hajj.** Saudi Arabia concluded the 1447 Hajj season with [over 1.7 million](https://www.reuters.com/pictures/journey-mecca-millions-gather-annual-hajj-pilgrimage-2026-05-28/) pilgrims participating in the pilgrimage to Mecca. Crown Prince Mohammed bin Salman received congratulations from regional leaders on the successful management of the religious gathering, according to the [Saudi Press Agency](https://spa.gov.sa).
+**Gulf Daily Brief — May 31, 2026**
 
-**US-Iran nuclear deal.** The United States and Iran appeared close to finalizing a nuclear agreement, though President Trump indicated America was ["not satisfied"](https://www.bbc.com/news/articles/c74dy9jw1q9o) with current terms. Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance, expressing appreciation for efforts to [restore security](https://twitter.com/FaisalbinFarhan) in the Strait of Hormuz to pre-February 28 conditions.
+1. **Former Yemeni President death.** Abd Rabbuh Mansour Hadi, former president of Yemen's internationally recognized government, [died, according to](https://twitter.com/spagov) Saudi Press Agency reports. Prince Khalid bin Salman conveyed condolences from Saudi leadership on behalf of the Kingdom. The IRG's Mohammed Al-Eryani called Hadi a wise leader committed to Yemen's security and development.
 
-**Yemen former president dies.** Former Yemeni President Abdrabbuh Mansour Hadi died at age 80 after governing mostly from exile during the country's civil war, according to [AP News](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8). The IRG leadership mourned Hadi's death, with officials describing his passing as ending "a national march full of giving, struggle, and notable patriotic stances."
+2. **Hajj season completion.** Nearly 1.9 million pilgrims completed the annual Hajj pilgrimage in Mecca, with Saudi authorities declaring the season a success. Prince Khalid bin Salman thanked God for the Kingdom's role serving Islam's holiest sites. The [Holy Sites](https://twitter.com/SPAregions) train transported passengers throughout the pilgrimage period before returning to dormancy until next year's Hajj.
 
-**Oman-US Hormuz tensions.** The United States warned Oman against facilitating tolls for the Strait of Hormuz, according to [Reuters reports](https://www.reuters.com/world/middle-east/us-warns-oman-not-engage-facilitating-tolls-strait-hormuz-2026-05-28/). Omani Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, reaffirming diplomatic engagement while emphasizing Oman's role in reducing regional tensions.
+3. **US-Iran nuclear talks.** President Trump met with advisers for what the BBC called a "final determination" on Iran, with no deal announced. Foreign Minister Prince Faisal bin Farhan praised Trump's [decision to](https://twitter.com/FaisalbinFarhan) give diplomacy additional opportunity to restore Strait of Hormuz navigation security to pre-February 28 conditions.
 
-**Qatar PM appointment.** Qatar's Emir appointed Mohammed bin Abdulrahman Al Thani as Prime Minister, who expressed gratitude for the trust placed in him and commitment to serving the nation under [His Highness's leadership](https://twitter.com/MBA_AlThani_). Majed Al Ansari was simultaneously appointed as advisor to the Deputy PM and official Foreign Ministry spokesman.
+4. **UAE economic growth.** The UAE economy expanded 6.2% with GDP rising to AED 1.9 trillion in 2025, according to official government media. Sheikh Abdulla bin Zayed highlighted the UAE leading globally in artificial intelligence talent concentration, [growing 121%](https://twitter.com/ABZayed) between 2019 and 2025.
 
-**Saudi July oil pricing.** Saudi Arabia may lower July crude oil prices to Asia as demand weakens, according to [Reuters energy reports](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/). The pricing adjustment reflects broader market conditions affecting global oil demand patterns. Japan's April oil imports hit their lowest levels since 1967 due to supply disruptions.
+5. **Qatar Prime Minister appointment.** Qatar's Emir Tamim bin Hamad Al Thani appointed Mohammed bin Abdulrahman Al Thani as Prime Minister. Al Thani expressed honor at the appointment and [commitment to](https://twitter.com/MBA_AlThani_) serving Qatar under the Emir's wise leadership. Majed Al Ansari was simultaneously appointed as advisor and official Foreign Ministry spokesman.
 
-**Yemen Hodeidah developments.** Saudi Ambassador to Yemen Mohammed Al Jabir announced his planned visit to Sanaa with an Omani delegation to consolidate the truce and ceasefire, according to his [Twitter statements](https://twitter.com/mohdsalj). The visit aims to support prisoner exchange processes and facilitate dialogue between Yemeni components for a comprehensive political solution.
+6. **Yemen maritime tensions.** Houthi spokesman Mohammed Abdulsalam accused US warships of hysterical firing during Yemeni naval reconnaissance operations in the Red Sea. He said an American missile exploded near a [Gabonese vessel](https://twitter.com/abdusalamsalah) while claiming Yemen's operations support Palestinians against Israeli actions in Gaza.
 
-**Bahrain condemns Iran attack.** Bahrain's Ministry of Foreign Affairs strongly condemned what it described as an Iranian attack on Kuwait, expressing solidarity with the Gulf state, according to [Bahrain diplomatic sources](https://twitter.com/bahdiplomatic). The kingdom called the action a violation of Kuwait's sovereignty and regional stability principles.
+7. **Saudi-Yemen relations.** Saudi ambassador Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire arrangements and discuss prisoner exchanges. He emphasized that [nearly 2](https://twitter.com/mohdsalj) million Yemenis work in Saudi Arabia, transferring over $4 billion annually to support families in Yemen.
 
-**UAE AI talent growth.** The UAE ranked first globally in artificial intelligence talent concentration, with growth of 121% between 2019 and 2025, according to [Sheikh Abdulla bin Zayed](https://twitter.com/ABZayed). The figure reflects the nation's strategic focus on building human capital and attracting global AI expertise as part of its future economic vision.
+8. **Oman diplomatic engagement.** Foreign Minister Badr Albusaidi held discussions with Iran's Deputy Foreign Minister, according to his Twitter account. The talks reflected what he called the ["constructive nature"](https://twitter.com/badralbusaidi) of Oman-Iran dialogue and reaffirmed diplomatic engagement to reduce regional tensions.
 
-**Regional Eid celebrations.** Gulf leaders extended Eid Al-Adha congratulations to Muslim communities worldwide following the conclusion of Hajj rituals. UAE Vice President Sheikh Mohammed bin Rashid and other regional officials emphasized themes of [peace, prosperity](https://twitter.com/HHShkMohd) and stability in their holiday messages to citizens and residents.
+9. **Bahrain fire rescue.** Bahrain's Civil Defense rescued five children from a house fire in the Aali area without injuries, according to the Interior Ministry. Investigations continue into the [cause of](https://twitter.com/moi_bahrain) the fire, which authorities successfully extinguished without casualties.
+
+10. **UAE infrastructure expansion.** Dubai Electricity and Water Authority commissioned 1,994 new 11kV substations in 2025, a 30% increase from 2024's 1,530 substations. The work comprised more than [1.45 million](https://twitter.com/DXBMediaOffice) working hours conducted according to the highest health and safety standards.
 
 **Sources**
-- [Reuters Gulf](https://www.reuters.com/business/energy/saudi-arabia-may-lower-july-oil-prices-asia-demand-weakens-2026-05-29/)
-- [AP Gulf](https://apnews.com/article/yemen-expresident-abdrabbuh-mansour-hadi-died-b3afd7b3679af14d335578e9560c7cd8)
-- [BBC Middle East](https://www.bbc.com/news/articles/c74dy9jw1q9o)
 - [Saudi Press Agency](https://spa.gov.sa)
+- [Emirates News Agency (WAM)](https://wam.ae)  
+- [BBC Middle East](https://www.bbc.com/news)
+- [Qatar News Agency](https://qna.qa)
+- [Times of Oman](https://timesofoman.com)
