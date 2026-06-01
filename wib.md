@@ -1,40 +1,28 @@
-**GULF NEWS BRIEFING — June 1, 2026**
+**Gulf Regional Briefing - June 1, 2026**
 
-**Major Conflict Developments**
+1. **Iran-US military confrontation.** Iran fired missiles at American forces in Kuwait following US airstrikes on Iranian military sites, according to [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d). Sirens sounded over Kuwait City during the exchange. Oil prices jumped more than 4% on concerns about shipping disruptions in the Strait of Hormuz, Reuters reports.
 
-1. **Iran-US military exchange.** The United States bombed Iranian military sites following Tehran's missile attacks on American forces in Kuwait, according to [AP reports](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d). Sirens sounded over Kuwait City as Iranian missiles targeted US military positions. The BBC reported that Iran's attacks damaged 20 US military sites since the conflict began.
+2. **Israel-Lebanon conflict escalation.** Lebanon said Hezbollah agreed to a reciprocal halt to attacks with Israel, per [BBC reporting](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss). The announcement came as Israeli forces continued ground operations in Lebanon and struck Beirut suburbs. Donald Trump claimed both sides had agreed to dial back fighting.
 
-2. **Kuwait condemns Iranian attacks.** Gulf states rallied behind Kuwait following the Iranian missile strikes. The Saudi Foreign Ministry [condemned the attacks](https://www.ksamofa.gov.sa) as "sinful and repeated Iranian aggression," while Bahrain denounced the targeting of Kuwait with "hostile Iranian drones." Kuwait's defense systems intercepted multiple projectiles during the assault.
+3. **Saudi condemnations.** Saudi Foreign Minister Prince Faisal bin Farhan posted that the kingdom "strongly condemns the Israeli aggression on Lebanese territory and its categorical rejection of the Israeli incursion." Separately, Saudi Arabia condemned repeated Iranian attacks on Kuwait, calling them "sinful."
 
-3. **Saudi Crown Prince diplomatic outreach.** Crown Prince Mohammed bin Salman received calls from French President Emmanuel Macron to discuss regional security and maritime navigation freedom. Foreign Minister Prince Faisal bin Farhan praised US President Trump's decision to give diplomacy a chance to end the war and restore Strait of Hormuz security.
+4. **OPEC production decision.** OPEC+ sources told [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) the group will likely raise July oil output targets despite disruption in the Strait of Hormuz. Saudi Aramco separately raised LPG prices by up to 3% for June while Sonatrach cut prices significantly.
 
-**Energy Markets**
+5. **Yemen former president dies.** Saudi Crown Prince Mohammed bin Salman offered condolences by phone to Nasser Abd Rabbuh Mansour Hadi on the death of his father, former Yemeni President Abd Rabbuh Mansour Hadi. The Saudi ambassador to Yemen Mohammed AlJabir said condolences were conveyed on behalf of Saudi leadership.
 
-4. **Oil prices surge on Hormuz fears.** Oil jumped over $6 per barrel following reports of halted US-Tehran exchanges and potential Strait of Hormuz blockade risks, [Reuters reported](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/). OPEC+ sources indicated the group would likely raise July output targets despite the Hormuz disruption concerns.
+6. **UAE economic growth.** UAE officials announced the economy grew 6.2% with gross domestic product expected to reach 1.9 trillion dirhams in 2025. Abu Dhabi Media Office reported that MGX and partners will expand AI computing capacity in France to 3 gigawatts through a second project site.
 
-5. **Saudi Aramco adjusts LPG pricing.** Saudi Aramco raised its liquefied petroleum gas official selling prices by up to 3% for June deliveries, while Algeria's Sonatrach cut prices by 18% and 31%, according to [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/).
+7. **Qatar World Cup squad.** Qatar announced its final squad for the 2026 World Cup, according to [Qatar News Agency](https://ow.ly/uXO250Z6rFC). The team selection was made by coach Lopetegui ahead of the tournament. Qatar also launched a new prime minister appointment with Mohammed bin Abdulrahman Al Thani taking the role.
 
-**Regional Developments**
+8. **Bahrain fire rescue.** Bahrain Civil Defense rescued five children from a house fire in the Aali area without injuries, the Interior Ministry reported. The incident prompted investigations into the cause of the blaze.
 
-6. **Death of former Yemeni president.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from across the Gulf. Saudi Crown Prince Mohammed bin Salman called Hadi's son to express sympathy, while Prince Khalid bin Salman described the late leader as "a wise leader keen on his country's security and prosperity."
+9. **Kuwait leadership anniversary.** Multiple Kuwaiti ministers congratulated Crown Prince Sheikh Meshal Al-Ahmad on the second anniversary of his appointment to office, with officials praising his role in achieving development aspirations for the Kuwaiti people.
 
-7. **Oman cybersecurity law enacted.** Sultan Haitham issued royal decrees promulgating a new cybercrime law and amending cultural heritage legislation, the [Oman News Agency reported](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security). The moves aim to enhance digital security following regional cyber threats.
+10. **Oman cybersecurity law.** Sultan Haitham issued two royal decrees, including one promulgating a new Law on Combating Cybercrime, according to [Oman News Agency](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security). The second decree amended provisions of the Cultural Heritage Law as part of digital security enhancements.
 
-8. **UAE textile recycling initiative.** The UAE launched the "Naseej" National Initiative for Textile Circularity to transition the sector toward a circular economic system. The program supports the country's sustainability goals and was announced by the Abu Dhabi Media Office under presidential directives.
-
-**Lebanon-Israel Escalation**
-
-9. **Israeli strikes on Beirut suburbs.** Israeli Prime Minister Netanyahu ordered strikes on Beirut's southern suburbs as Hezbollah rockets hit northern Israel, the [BBC reported](https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss). The escalation followed Israel's seizure of a castle in Lebanon as part of its expanded ground offensive.
-
-10. **Abu Dhabi-Amman stock exchange link.** The UAE and Jordan activated a trading link between the Abu Dhabi Securities Exchange and Amman Stock Exchange through the "Tabadul" platform, according to CNN Arabic. The connection enhances cross-border investment opportunities between the two markets.
-
-**Sources**
-
-• [Reuters Gulf](https://www.reuters.com/business/energy/)
-• [AP Gulf](https://apnews.com)  
-• [BBC Middle East](https://www.bbc.com/news)
-• [Times of Oman](https://timesofoman.com)
-• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-• [UAE Media Office](https://twitter.com/UAEmediaoffice)
-• [Qatar News Agency](https://www.qna.org.qa/en)
-• [Kuwait News Agency](https://www.kuna.net.kw)
+**Sources:**
+- [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
+- [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
+- [BBC](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)
+- [Times of Oman](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security)
+- [Qatar News Agency](https://ow.ly/uXO250Z6rFC)
