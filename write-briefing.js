@@ -112,10 +112,10 @@ function callClaudeOnce(prompt, systemPrompt = '', images = []) {
       err.retryable = true;
       reject(err);
     });
-    req.setTimeout(120000, () => {
+    req.setTimeout(300000, () => {
       req.destroy();
       const err = new Error('API timeout');
-      err.retryable = true;
+      err.retryable = false;
       reject(err);
     });
 
