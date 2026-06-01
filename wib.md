@@ -1,28 +1,27 @@
-**US-Iran Escalation.** The United States [struck Iranian](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) radar and military sites after Iran targeted American forces stationed in Kuwait with missiles and drones, according to AP News. The BBC reports that Iran damaged 20 US military sites since the war began, per satellite imagery analysis.
+**Gulf Brief**
 
-**Kuwait Under Attack.** Kuwait's air defenses intercepted Iranian missile and drone attacks without casualties, per [Al Jazeera reports](https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA). Saudi Arabia's Foreign Ministry condemned the "sinful and repeated Iranian attacks on the sister State of Kuwait," while Qatar, Egypt, and Bahrain issued similar condemnations calling the strikes violations of Kuwait's sovereignty.
+1. **Iranian attack on Kuwait.** Iran launched missile and drone attacks against Kuwait, prompting air defense responses and condemnation across the Gulf. US forces [struck Iranian](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) radar sites following the assault on American troops stationed there. Saudi Arabia's Foreign Ministry expressed "condemnation and denunciation in the strongest terms" of the Iranian strikes.
 
-**Former Yemeni President Dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from across the Gulf. Saudi Crown Prince Mohammed bin Salman telephoned Hadi's son to [offer condolences](https://spa.gov.sa/N2604388), calling the late president "a wise leader who was keen on the security, stability, development and prosperity of his country."
+2. **OPEC+ production outlook.** Oil producers are likely to increase July output targets despite heightened regional tensions affecting the Strait of Hormuz, according to [Reuters sources](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/). Saudi Aramco separately raised LPG official selling prices by up to 3 percent for June deliveries.
 
-**Saudi-French Diplomacy.** Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron to discuss bilateral cooperation and regional security efforts, including diplomatic initiatives to enhance maritime navigation security in the Strait of Hormuz, according to Saudi Press Agency.
+3. **Crown Prince diplomatic outreach.** Saudi Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron to discuss bilateral cooperation and regional developments. The Crown Prince also met Chad's president at Al-Yamamah Palace and [offered condolences](https://spa.gov.sa/N2604388) to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently.
 
-**Energy Market Moves.** Saudi Aramco [raised LPG prices](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/) by up to 3% for June while Algeria's Sonatrach cut prices by 18% and 31%. Oil prices rose more than 2% as Israel advanced deeper into Lebanon, Reuters reported.
+4. **Oman cybersecurity law.** Sultan Haitham issued two royal decrees, including one promulgating a new Law on Combating Cybercrime and another [amending provisions](https://timesofoman.com/article/172462-new-cyberlaw-to-enhance-omans-digital-security) of the Cultural Heritage Law. Foreign Minister Badr Albusaidi also held discussions with Iran's Deputy FM on diplomatic engagement and tension reduction.
 
-**Yemen Peace Efforts.** Saudi Ambassador to Yemen Mohammed Al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire agreements, support prisoner exchanges, and discuss dialogue between Yemeni factions for a comprehensive political solution.
+5. **UAE textile initiative.** President Sheikh Mohamed bin Zayed launched Naseej, a national textile circularity initiative aimed at transforming the sector toward a circular economic system. The UAE Government Media Office announced the initiative as a strategic mandate supporting the transition from linear to sustainable textile [production models](https://twitter.com/UAEmediaoffice).
 
-**UAE Economic Growth.** The UAE government announced 6.2% economic growth with GDP rising to 1.9 trillion dirhams during 2025. The UAE also activated an electronic trading link between the Amman Stock Exchange and Abu Dhabi Securities Exchange through the "Tabadul" platform.
+6. **Israel-Lebanon escalation.** Israeli forces expanded ground operations in Lebanon, seizing strategic positions as Hezbollah conflict intensified. The BBC reports Israel ordered [strikes on Beirut](https://www.bbc.com/news/articles/c4g419e2xlvo) suburbs following escalating cross-border exchanges, raising regional security concerns.
 
-**GCC Stock Markets.** The Amman Stock Exchange and Abu Dhabi Securities Exchange established an electronic trading link via the "Tabadul" platform, according to [Al Arabiya reports](https://www.alarabiya.net/amp/aswaq/financial-markets/2026/06/01/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84), facilitating cross-border investment flows between Jordan and the UAE.
+7. **Yemen diplomatic moves.** Saudi Ambassador to Yemen Mohammed al-Jabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire arrangements and support prisoner exchanges. The IRG in Yemen appointed Ahmed Hamid Lamlas as new governor of Aden Governorate.
 
-**Oman Royal Decrees.** Sultan Haitham issued two royal decrees: one promulgating the Law on Combating Cybercrime and another amending provisions of the Cultural Heritage Law, according to [Oman News Agency](https://omanannews.gov.om/index.ona?GetLang=2).
+8. **Qatar sports developments.** The country opened entries for the National Sports Day Award 2026 and announced expanded weekend primary healthcare services with the addition of Al Waab Health Center. Qatar also participated in the 35th UN Commission on Crime Prevention session [in Vienna](https://ow.ly/XSjg50Z6iMg).
 
-**Qatar Labor Initiative.** Qatar's Ministry of Labor launched a nationwide awareness campaign on heat stress prevention, expanding weekend primary healthcare services with the addition of Al Waab Health Center, [per QNA](https://bit.ly/4nXwOcw).
+9. **Bahrain civil defense response.** Interior Ministry forces rescued five children from a house fire in the Aali area without casualties. Separately, Foreign Minister Dr. Abdullatif Al Zayani received a phone call from his Philippine counterpart to discuss bilateral relations.
 
-**Sources**
+10. **Former Yemeni president dies.** Abd Rabbuh Mansour Hadi, who served as Yemen's president during the transitional period, passed away. Multiple Gulf leaders, including Saudi Crown Prince Mohammed bin Salman, offered condolences to his family, with Information Minister Mohammed al-Eryani calling him a "wise leader."
+
+**Sources:**
 - [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-- [Al Jazeera](https://www.aljazeera.net/news/2026/6/1/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D9%89-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA)
-- [Saudi Press Agency](https://spa.gov.sa/N2604388)
-- [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/)
-- [Al Arabiya](https://www.alarabiya.net/amp/aswaq/financial-markets/2026/06/01/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84)
-- [Oman News Agency](https://omanannews.gov.om/index.ona?GetLang=2)
-- [Qatar News Agency](https://bit.ly/4nXwOcw)
+- [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
+- [BBC](https://www.bbc.com/news/articles/c4g419e2xlvo)
+- [Times of Oman](https://timesofoman.com/article/172462-new-cyberlaw-to-enhance-omans-digital-security)

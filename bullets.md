@@ -1,55 +1,62 @@
 **Top News**
 
-- US forces struck Iranian radar sites after Iran targeted American troops in Kuwait with missiles and drones, according to the [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) and [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d).
-
-- Kuwait's air defenses intercepted Iranian missile and drone attacks without causing material or human damage, Al Ekhbariya TV [reported](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d).
-
-- Saudi Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron to discuss regional developments and diplomatic efforts to enhance security and maritime navigation, the Saudi Press Agency [announced](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
-
-- Yemen's former President Abd Rabbuh Mansour Hadi died, with Crown Prince Mohammed bin Salman personally offering condolences to Hadi's family by telephone, Saudi state media [confirmed](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
-
-- Iran's leader announced the country succeeded in installing the first heart valve without surgical intervention, according to [Houthi](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) officials.
+- Kuwait faced Iranian missile and drone attacks while US forces struck Iranian military sites, officials confirmed ([AP](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d))
+- US President Donald Trump announced a halt to mutual attacks between Lebanon's Hezbollah and Israeli forces, Kuwait news agency KUNA reported ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/))
+- Saudi Arabia's Crown Prince offered condolences for the death of former Yemeni President Abd Rabbuh Mansour Hadi, the Ministry of Foreign Affairs said ([Twitter](https://twitter.com/KSAMOFA))
+- Iran's naval forces fired on US warships during reconnaissance missions in the Red Sea, Houthi spokesman Mohammed Abdulsalam claimed ([Twitter](https://twitter.com/abdusalamsalah))
+- Former Yemeni President Abd Rabbuh Mansour Hadi died, with condolences pouring in from Gulf leaders, according to official statements ([Twitter](https://twitter.com/spagov))
 
 **Energy & Economy**
 
-- Saudi Aramco raised liquefied petroleum gas official selling prices by up to 3% for June, while Algeria's Sonatrach cut prices by 18% and 31%, [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/) reported.
-
-- Oil prices rose as tensions escalated between the US and Iran following the strikes in Kuwait, according to [Reuters](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/).
-
-- UAE announced its economy grew 6.2% with GDP expected to rise to 1.9 trillion dirhams during 2025, the UAE Government Media Office [said](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
+- Saudi Aramco raised LPG prices by up to 3% for June while Sonatrach cut prices by 18% and 31%, Reuters reported ([Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/))
+- OPEC+ will likely raise July oil output targets despite Strait of Hormuz disruption risks, sources told Reuters ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/))
+- Oil prices jumped over $6 following reports of halted US-Tehran exchanges and Hormuz blockade risks, Reuters reported ([Reuters](https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-moves-further-into-lebanon-2026-05-31/))
+- UAE economic growth reached 6.2% with GDP expected to rise to 1.9 trillion dirhams in 2025, the UAE Government Media Office announced ([Twitter](https://twitter.com/UAEmediaoffice))
 
 **Country Watch**
 
 **Saudi Arabia**
-- Saudi Arabia condemned Iranian attacks on Kuwait and condemned Israeli aggression on Lebanese territory, the Foreign Ministry [stated](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
-
-**Kuwait**  
-- Egypt condemned repeated Iranian attacks on Kuwait as violations of Kuwaiti sovereignty, according to [Youm7](https://www.youm7.com/story/2026/6/1/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D8%A3%D8%B4%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D9%82%D9%8A%D9%82%D8%A9/7434811).
+- The Ministry of Foreign Affairs condemned Israeli aggression on Lebanon and repeated Iranian attacks on Kuwait in separate statements ([Twitter](https://twitter.com/KSAMOFA))
+- Prince Khalid bin Salman conveyed condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death ([Twitter](https://twitter.com/kbsalsaud))
+- Saudi Ambassador to Yemen Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate the truce and ceasefire ([Twitter](https://twitter.com/mohdsalj))
 
 **UAE**
-- UAE activated an electronic link between Amman Stock Exchange and Abu Dhabi Securities Exchange through the "Tabadul" platform, [Al Arabiya](https://www.alarabiya.net/amp/aswaq/financial-markets/2026/06/01/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84) reported.
+- President Sheikh Mohamed bin Zayed launched the Naseej textile circularity initiative to transition the sector toward a circular economic system, Abu Dhabi Media Office reported ([Twitter](https://twitter.com/ADMediaOffice))
+- Sheikh Mohammed bin Rashid announced the launch of AI assistants in procurement, taxes, customer happiness, and technical support during a government retreat ([Twitter](https://twitter.com/HHShkMohd))
+
+**Qatar**
+- Prime Minister Mohammed bin Abdulrahman Al Thani received appointment confirmation from Emir Sheikh Tamim bin Hamad Al Thani ([Twitter](https://twitter.com/MBA_AlThani_))
+- Former official Abdullah bin Hamad Al Attiyah died, with officials offering condolences for his contributions to Qatar's development ([Twitter](https://twitter.com/MBA_AlThani_))
+
+**Bahrain**
+- The Kingdom condemned Iranian missile attacks and hostile drone strikes targeting Kuwait, the Ministry of Foreign Affairs said ([Twitter](https://twitter.com/bahdiplomatic))
+- Civil Defence rescued five children from a house fire in Aali area without casualties, the Interior Ministry reported ([Twitter](https://twitter.com/moi_bahrain))
 
 **Oman**
-- Oman's WHO team reviewed efforts for Barka healthy city initiatives, according to the [Times of Oman](https://timesofoman.com//article/172461-who-team-reviews-efforts-made-for-barka-healthy-city-initiatives).
+- Sultan Haitham issued two Royal decrees, one promulgating cybercrime law and another amending Cultural Heritage Law provisions, Oman News Agency reported ([Twitter](https://twitter.com/ONA_eng))
+- Foreign Minister Badr Albusaidi met with Iran's Deputy FM, reaffirming diplomatic engagement importance ([Twitter](https://twitter.com/badralbusaidi))
 
 **Yemen**
-- Yemen IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, [Saba News](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) reported.
+- IRG Presidential Council renewed requests for Saudi intervention to stop UAE interference, Saba News Agency reported ([Twitter](https://twitter.com/sabanew_))
+- Ahmed Hamid Lamlas was appointed as governor of Aden Governorate by the IRG government ([Twitter](https://twitter.com/sabanew_))
+- Houthis announced successful heart valve installation without surgical intervention in Yemen ([Twitter](https://twitter.com/Moh_Alhouthi))
 
 **Official Signals**
 
-- Saudi Defense Minister Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review bilateral cooperation and regional de-escalation efforts, his [official account](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss) confirmed.
-
-- UAE National Security Advisor Tahnoon bin Zayed met with US Congressman Josh Gottheimer to discuss strategic relations and regional issues, according to his [Twitter](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
+- Saudi Foreign Minister Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance to end regional conflicts and restore Strait of Hormuz navigation ([Twitter](https://twitter.com/FaisalbinFarhan))
+- Muslim World League condemned Iranian attacks on Kuwait, Qatar News Agency reported ([Twitter](https://twitter.com/QNAEnglish))
 
 **Coverage Flags**
 
-- Multiple Gulf news sites and international outlets are currently inaccessible due to technical issues or security verification requirements.
+- Multiple Gulf states issued coordinated condemnations of Iranian attacks on Kuwait, suggesting diplomatic coordination
+- Former Yemeni President's death prompted widespread regional condolences, highlighting continuing Gulf involvement in Yemen
 
 **Sources**
 
-- [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss)
-- [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-- [Reuters](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/)
-- [Times of Oman](https://timesofoman.com//article/172461-who-team-reviews-efforts-made-for-barka-healthy-city-initiatives)
-- [Al Arabiya](https://www.alarabiya.net/amp/aswaq/financial-markets/2026/06/01/)
-- [Youm7](https://www.youm7.com/story/2026/6/1/)
+- [Times of Oman](https://timesofoman.com)
+- [Reuters Gulf](https://www.reuters.com)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com)
+- [Kuwait News Agency KUNA](https://twitter.com/kuna_en)
+- [Qatar News Agency](https://twitter.com/QNAEnglish)
+- [Saudi MFA](https://twitter.com/KSAMOFA)
