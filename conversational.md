@@ -1,74 +1,56 @@
-The US launched [strikes on](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) Iranian military sites following Iran's missile attacks on American troops in Kuwait, marking a significant escalation in Gulf tensions. The BBC reports Iran [targeted US forces](https://www.bbc.com/news/articles/crlpy8n7pr6o) in Kuwait with missiles, prompting Washington to retaliate against Iranian radar installations. Sirens [sounded across](https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5) Kuwait City, underlining the gravity of the security situation.
+**US Strikes Iranian Military Targets After Iran Targets American Forces in Kuwait**
 
-OPEC+ is likely to proceed with raising July oil output targets despite the Strait of Hormuz disruption, [Reuters reports](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/), suggesting the cartel believes current supply constraints can be managed. The kingdom condemned Iran's attacks on Kuwait in the strongest terms, according to a [Saudi MFA statement](https://twitter.com/KSAMOFA), calling the strikes "sinful and repeated."
+Iran fired missiles at US military positions in Kuwait, prompting Washington to [bomb Iranian](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) radar sites in retaliation, according to the AP. The BBC reports [sirens sounded](https://www.bbc.com/news/articles/crlpy8n7pr6o) over Kuwait City following the American strikes on Iranian military installations. Both Reuters and the AP confirm the [escalation occurred](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) as tensions mount in the region.
 
-**Energy & Economy**
+The strikes come as regional shipping faces continued disruption. Al Jazeera reports that [Iran targeted](https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7) a ship heading to Qatar, according to navigational data. Regional travel restrictions are expanding, with Bahrain's Interior Ministry [banning its citizens](https://arabic.cnn.com/middle-east/article/2026/06/02/bahrains-interior-ministry-announces-travel-ban-on-citizens-to-iran-iraq) from traveling to Iran and Iraq due to security concerns. Meanwhile, three prisoners who [escaped from Kuwait](https://www.okaz.com.sa/variety/na/2250964) have been recaptured by security forces.
 
-• OPEC+ appears set to [raise July](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) oil production targets despite Hormuz shipping disruptions, Reuters reports, indicating confidence in market management capabilities.
+## **Energy & Economy**
 
-• Oman's oil price [edged up](https://timesofoman.com//article/172483-oman-oil-price-edges-up-by-35-cents-to-touch-9176) 35 cents to $91.76, according to Times of Oman.
+- **OPEC+ is likely to [raise oil](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) output targets for July despite ongoing Strait of Hormuz disruptions, according to Reuters sources**
 
-• Oman's largest fertilizer producer is [approaching an IPO](https://asharqbusiness.com/financial-markets/134867/%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86%D8%AA%D8%AC-%D8%A3%D8%B3%D9%85%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%B7%D8%B1%D8%AD-%D8%B9%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%85%D8%B3%D9%82%D8%B7/) on the Muscat Stock Exchange, per Asharq Bloomberg.
+- **Reuters reports that [Asia's imports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) of US crude oil have surged but cannot fully offset losses from the Hormuz crisis**
 
-• Asia's imports of US crude [surge but](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) cannot offset Hormuz losses, Reuters reports.
+- **Oman's OMIFCO announced plans to [offer 25%](https://timesofoman.com//article/172494-omifco-to-offer-25-of-its-shares-for-public-subscription-on-msx) of its shares for public subscription on the Muscat Securities Market**
 
-**Saudi Arabia**
+- **Oman and Belarus are [discussing ways](https://timesofoman.com//article/172493-oman-belarus-discuss-ways-to-boost-industrial-cooperation) to boost industrial cooperation between the two countries**
 
-• Crown Prince Mohammed bin Salman received a phone call from French President Macron to discuss cooperation and regional diplomatic efforts to enhance security and [maritime navigation](https://twitter.com/spagov), according to the Saudi Press Agency.
+## **Saudi Arabia**
 
-• Prince Khalid bin Salman conveyed [condolences to](https://twitter.com/kbsalsaud) the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death, describing him as a wise leader committed to Yemen's security and stability.
+Crown Prince Mohammed bin Salman received a phone call from French President Emmanuel Macron to discuss bilateral cooperation and regional developments, according to the Saudi Press Agency. The Crown Prince also offered condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death. Prince Khalid bin Salman met with UK National Security Adviser Jonathan Powell to review Saudi-British cooperation and coordinate on regional challenges. Foreign Minister Prince Faisal bin Farhan praised the US decision to give diplomacy a chance to restore maritime navigation in the Strait of Hormuz, according to his official Twitter account.
 
-• Foreign Minister Prince Faisal bin Farhan [appreciated President](https://twitter.com/FaisalbinFarhan) Trump's decision to give diplomacy a chance to restore maritime navigation in the Strait of Hormuz to its pre-February 28 state.
+## **UAE** 
 
-**UAE**
+The UAE announced the launch of its [National Textile](https://twitter.com/UAEmediaoffice) Recycling Initiative called #Naseej as part of President Sheikh Mohamed bin Zayed's directives to transition the textile sector toward a circular economic system. Sheikh Mohammed bin Rashid attended a national government retreat in Abu Dhabi focused on developing artificial intelligence systems for government operations, with more than 400 officials participating. The UAE Defense Ministry announced that Major General Muslim Al Rashidi received the US Special Operations Command Medal for his contributions to bilateral cooperation.
 
-• UAE leaders [congratulated the](https://wam.ae/a/b1n6twr) President of El Salvador on his re-election, according to WAM.
+## **Bahrain / Kuwait / Oman**
 
-• Sheikh Abdullah bin Zayed noted that the UAE is [first globally](https://twitter.com/ABZayed) in artificial intelligence talent concentration, growing 121% between 2019 and 2025.
+**Bahrain:** The Interior Ministry [prevented citizens](https://policemc.gov.bh/en/news/79019/) from traveling to Iran and Iraq due to ongoing security tensions. The ministry also announced that five children were rescued from a house fire in Aali.
 
-• Dubai's Roads and Transport Authority [opened applications](https://twitter.com/DXBMediaOffice) for its Academic Scholarship Programme covering 2026-2027 for Emirati high school graduates and university students.
+**Kuwait:** Security forces successfully [arrested three](https://kuna.net.kw/ArticleDetails.aspx?id=3306175) prisoners who had escaped in a coordinated operation. The Crown Prince marked his second anniversary in office, according to KUNA.
 
-**Bahrain**
+**Oman:** Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations. The "Oman: The Jewel of Arabia" expedition project was officially launched in London under royal patronage.
 
-• Bahrain [banned citizens](https://policemc.gov.bh/en/news/79019/) from traveling to Iran and Iraq due to ongoing security tensions, the Ministry of Interior announced.
+## **Yemen**
 
-• The kingdom [strongly condemned](https://bit.ly/4dXrPUQ) Iranian missile attacks on Kuwait, according to the Bahrain MFA.
+IRG officials mourned the death of former President Abd Rabbuh Mansour Hadi, with the Presidential Leadership Council receiving condolence messages from Saudi leadership. The IRG government condemned what it called UAE airstrikes on National Army forces in Aden and Abyan. Ahmed Hamid Lamlas was appointed as the new governor of Aden Governorate. The Houthi-controlled Saba News Agency reported on ongoing tensions, while Southern Transitional Council officials expressed support for their forces' security operations.
 
-**Kuwait / Oman**
+## **Official Signals**
 
-• KUNA's Acting Director General [congratulated Crown](https://kuna.net.kw/ArticleDetails.aspx?id=3306166) Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah on his second anniversary in office.
+- **Saudi Foreign Minister Prince Faisal bin Farhan tweeted appreciation for President Trump's decision to "give diplomacy a chance" on Hormuz navigation, calling it important for regional security**
 
-• Two Royal decrees issued in Oman: [one promulgates](https://twitter.com/ONA_eng) the Law on Combating Cybercrime while the second amends Cultural Heritage Law provisions.
+- **UAE Minister of State Anwar Gargash criticized Turkey's defense minister for making "provocative statements," calling it a "downfall for Turkish diplomacy" and rejecting "colonial illusions"**
 
-• Prince William of Wales [received HH](https://2u.pw/NpsltIe4) Sayyid Theyazin bin Haitham Al Said in Windsor Castle to discuss Oman-UK relations, according to ONA.
+## **Coverage Flags**
 
-**Yemen**
+International outlets are ahead of regional press on the Iran-Kuwait strike exchange, with AP and BBC providing more detailed coverage than available Gulf sources. The Strait of Hormuz shipping disruptions appear to be receiving more attention in energy trade publications than local news agencies.
 
-• Saudi Ambassador to Yemen Mohammed Al-Jabir announced he will [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate the truce, support prisoner exchanges, and discuss dialogue between Yemeni components.
+## **Sources**
 
-• IRG Information Minister Mohammed Al-Eryani [thanked US](https://twitter.com/ERYANIM) Congressman Joe Wilson for introducing an amendment to strengthen US-Yemen defense cooperation in the FY2027 defense budget.
-
-• Houthi spokesperson Mohammed Abdulsalam [published text](https://twitter.com/abdusalamsalah) of an agreement covering banking decisions, Yemenia Airlines flights to Jordan and Cairo, and other arrangements.
-
-**Official Signals**
-
-• Prince Faisal bin Farhan's appreciation of Trump giving "diplomacy a chance" on Hormuz navigation suggests Saudi optimism about de-escalation prospects, though the kingdom simultaneously condemned Iran's Kuwait attacks.
-
-• Saudi Ambassador Al-Jabir's announcement of a Sanaa visit with Omani mediation indicates renewed diplomatic momentum on Yemen, building on recent prisoner exchange progress.
-
-**Coverage Flags**
-
-International outlets are leading on the US-Iran military exchange in Kuwait, while regional press focuses heavily on condemnations and diplomatic responses. The disconnect between OPEC+ production planning and immediate Hormuz security concerns merits NYT attention.
-
-**Sources**
-
-• [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-• [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o)
-• [Reuters Gulf](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
-• [Times of Oman](https://timesofoman.com//article/172483-oman-oil-price-edges-up-by-35-cents-to-touch-9176)
-• [Asharq Bloomberg](https://asharqbusiness.com/financial-markets/134867/)
-• [Saudi MFA](https://twitter.com/KSAMOFA)
-• [Prince Faisal bin Farhan](https://twitter.com/FaisalbinFarhan)
-• [WAM](https://wam.ae/a/b1n6twr)
-• [Bahrain Interior Ministry](https://policemc.gov.bh/en/news/79019/)
-• [ONA](https://twitter.com/ONA_eng)
+- [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
+- [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o)
+- [Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/)
+- [Times of Oman](https://timesofoman.com/)
+- [Al Jazeera](https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7)
+- [CNN Arabic](https://arabic.cnn.com/middle-east/article/2026/06/02/bahrains-interior-ministry-announces-travel-ban-on-citizens-to-iran-iraq)
+- [KUNA](https://kuna.net.kw/)
+- [Bahrain Interior Ministry](https://policemc.gov.bh/en/news/79019/)

@@ -1,68 +1,63 @@
 **Top News**
 
-- US forces struck Iranian military sites after Iran fired missiles at American troops in Kuwait, sparking escalating regional tensions ([AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d))
-- Saudi Arabia condemned Iranian attacks on Kuwait and Israeli aggression in Lebanon through official Foreign Ministry statements ([Saudi MFA Twitter](https://twitter.com/KSAMOFA))
-- Bahrain banned citizens from traveling to Iran and Iraq due to ongoing security tensions, the Interior Ministry announced ([Bahrain MOI](https://policemc.gov.bh/en/news/79019/))
-- OPEC+ sources said the group will likely raise July oil output targets despite Strait of Hormuz disruptions, Reuters reported ([Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/))
-- Crown Prince Mohammed bin Salman discussed French cooperation and regional diplomatic efforts in a phone call with President Macron ([Saudi Press Agency](https://twitter.com/spagov))
-- Former Yemeni President Abd Rabbuh Mansour Hadi died, with Saudi officials offering condolences to his family ([Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud))
+- Iran targeted American forces in Kuwait with missiles following US strikes on Iranian military sites, according to the [BBC](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss).
+- OPEC+ will likely raise July oil output targets despite Hormuz Strait disruption, [Reuters reports](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/).
+- Bahrain banned citizens from traveling to Iran and Iraq due to current security tensions, the Ministry of Interior [announced](https://policemc.gov.bh/en/news/79019/).
+- Kuwait arrested all three escaped prisoners in a swift security operation, according to [KUNA](https://www.independentarabia.com/node/650268/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%AD%D9%83%D9%88%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%88%D9%85%D9%87%D8%B1%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%87%D8%B1%D9%88%D8%A8-3-%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%8A%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA).
+- Saudi Crown Prince Mohammed bin Salman received a phone call from French President Macron to discuss regional cooperation and maritime security, [SPA announced](https://spa.gov.sa/N2604388).
 
 **Energy & Economy**
 
-- Oman oil prices rose 35 cents to $91.76, according to Times of Oman ([Times of Oman](https://timesofoman.com//article/172483-oman-oil-price-edges-up-by-35-cents-to-touch-9176))
-- Oman's largest fertilizer producer approached an IPO on the Muscat Stock Exchange, Al Sharq with Bloomberg reported
-- Alphabet planned an $80 billion stock sale as AI spending surged, per Times of Oman ([Times of Oman](https://timesofoman.com//article/172484-alphabet-plans-80-billion-stock-sale-as-ai-spending-surges))
+- Asia increased US crude imports but cannot offset losses from Hormuz disruptions, [Reuters reports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/).
+- A ship targeted by Iran in the Gulf was heading to Qatar, according to [Al Jazeera](https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7).
+- Saudi Arabia ranked sixth globally in oil consumption at 3.325 million barrels per day, according to Al Ekhbariya TV infographics.
+- OMIFCO announced it will offer 25% of its shares for public subscription on MSX, [Times of Oman reports](https://timesofoman.com//article/172494-omifco-to-offer-25-of-its-shares-for-public-subscription-on-msx).
 
 **Country Watch**
 
 **Saudi Arabia**
-- Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy a chance for Strait of Hormuz navigation ([Prince Faisal Twitter](https://twitter.com/FaisalbinFarhan))
-- Ambassador Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to consolidate ceasefire efforts ([Mohammed AlJabir Twitter](https://twitter.com/mohdsalj))
-- King Salman promoted 327 public prosecutors at various judicial ranks ([Saudi Press Agency](https://twitter.com/spagov))
+- Crown Prince Mohammed bin Salman extended condolences to former Yemeni President Abd Rabbuh Mansour Hadi's family following his death, [SPA reported](https://spa.gov.sa/N2604388).
+- Foreign Minister Prince Faisal bin Farhan appreciated President Trump's decision to give diplomacy another chance in addressing regional conflicts, he [announced on X](https://x.com/FaisalbinFarhan).
 
 **UAE**
-- Sheikh Mohammed bin Rashid launched the first batch of AI assistants for procurement, taxes, and customer services ([Sheikh Mohammed Twitter](https://twitter.com/HHShkMohd))
-- The UAE ranked first globally in AI talent concentration growth at 121% between 2019-2025 ([Sheikh Abdulla bin Zayed Twitter](https://twitter.com/ABZayed))
-- Major General Muslim Mohammed Saeed Al Rashidi received a US Special Operations Command Medal ([UAE Defense Ministry](https://twitter.com/modgovae))
+- President Sheikh Mohamed bin Zayed and his deputies congratulated the nation on Eid Al-Adha, Tahnoon bin Zayed [tweeted](https://x.com/hhtbzayed).
+- Abu Dhabi Gaming partnered with Aspire to advance AI-driven game development, the Abu Dhabi Media Office [reported](https://x.com/ADMediaOffice).
 
 **Qatar**
-- Mohammed bin Abdulrahman Al Thani was honored by Emir Tamim's appointment as Prime Minister ([PM Al Thani Twitter](https://twitter.com/MBA_AlThani_))
-- Qatar's sewage network expanded by 207% over 12 years, according to Ashghal ([Qatar News Agency](https://twitter.com/QNAEnglish))
+- Prime Minister Mohammed bin Abdulrahman Al Thani expressed gratitude for his appointment by Emir Sheikh Tamim, he [announced on X](https://x.com/MBA_AlThani_).
+- Majed Al Ansari was appointed as advisor to the Prime Minister and official spokesman for the Ministry of Foreign Affairs.
 
 **Bahrain**
-- Five children were rescued from a house fire in Aali area without casualties, Civil Defense reported ([Bahrain MOI](https://policemc.gov.bh/en/news/78966/))
+- The government strongly condemned Iranian attacks on Kuwait and banned citizen travel to Iran and Iraq, the Interior Ministry [confirmed](https://policemc.gov.bh/en/news/79019/).
 
 **Kuwait**
-- Acting KUNA Director General congratulated Crown Prince Sheikh Sabah on his second anniversary in office ([KUNA](https://kuna.net.kw/ArticleDetails.aspx?id=3306166))
+- Security forces recaptured three escaped prisoners, including two sentenced to death and a drug smuggler, Independent Arabia [reported](https://www.independentarabia.com/node/650268/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%AD%D9%83%D9%88%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%88%D9%85%D9%87%D8%B1%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%87%D8%B1%D9%88%D8%A8-3-%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%8A%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA).
 
 **Oman**
-- Two royal decrees were issued covering cybercrime law and cultural heritage law amendments ([Oman News Agency](https://twitter.com/ONA_eng))
-- Prince William received HH Sayyid Theyazin bin Haitham Al Said at Windsor Castle ([Oman News Agency](https://twitter.com/ONA_eng))
+- Prince William received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations, [ONA reported](https://www.omanannews.gov.om/index.ona?GetL...).
+- Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, emphasizing diplomatic engagement, he [announced on X](https://x.com/badralbusaidi).
 
 **Yemen**
-- Yemeni IRG presidency renewed calls for Saudi intervention to stop Emirati interference, Saba News Agency reported
-- Ahmed Hamid Lamlas was appointed as Aden Governorate governor ([Saba IRG](https://twitter.com/sabanew_))
+- IRG Information Minister Mohammed Al-Eryani extended condolences for former President Hadi's death, [tweeting](https://x.com/ERYANIM) his contributions to Yemen's development.
+- STC President Aidarous al-Zubaidi congratulated citizens on Eid Al-Adha, according to STC [official channels](http://stcaden.com/news/10114).
 
 **Official Signals**
 
-- Foreign Minister Prince Faisal expressed Saudi appreciation for Trump's diplomatic approach to regional tensions and maritime security ([Prince Faisal Twitter](https://twitter.com/FaisalbinFarhan))
-- Bahrain Interior Ministry's travel ban to Iran and Iraq signals Gulf security coordination during regional tensions ([Bahrain MOI](https://policemc.gov.bh/en/news/79019/))
+- Saudi Arabia condemned Israeli aggression on Lebanon and Iranian attacks on Kuwait in separate Foreign Ministry [statements](https://x.com/KSAMOFA).
+- UAE leaders emphasized the country's AI talent concentration grew 121% between 2019 and 2025, ranking first globally, Sheikh Abdullah bin Zayed [noted](https://x.com/ABZayed).
 
 **Coverage Flags**
 
-- Several Gulf outlet homepages show access restrictions or security verification pages, limiting coverage visibility
-- Multiple official Twitter accounts provide primary source material for government positions on regional developments
+- Multiple GCC states issued travel warnings for Iran and Iraq following escalating regional tensions.
+- Energy markets remain volatile as Hormuz Strait disruptions continue affecting global oil flows.
 
 **Sources**
 
-- [Times of Oman](https://timesofoman.com/)
-- [Reuters Gulf](https://www.reuters.com)
+- [Times of Oman](https://timesofoman.com)
+- [Reuters Gulf](https://www.reuters.com)  
 - [AP Gulf](https://apnews.com)
 - [BBC Middle East](https://www.bbc.com)
-- [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-- [Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud)
-- [Prince Faisal bin Farhan Twitter](https://twitter.com/FaisalbinFarhan)
-- [Mohammed AlJabir Twitter](https://twitter.com/mohdsalj)
-- [Bahrain Interior Ministry](https://policemc.gov.bh)
-- [Qatar News Agency Twitter](https://twitter.com/QNAEnglish)
-- [Oman News Agency Twitter](https://twitter.com/ONA_eng)
+- [Independent Arabia](https://www.independentarabia.com)
+- [Sky News Arabia](https://www.skynewsarabia.com)
+- [Al Jazeera Net](https://www.aljazeera.net)
+- [CNN Arabic](https://arabic.cnn.com)
