@@ -1,73 +1,63 @@
-**Daily Gulf Briefing - June 2, 2026**
+**Saudi Arabia extends [condolences on](https://spa.gov.sa/N2604388) the death of former Yemeni President Abd Rabbuh Mansour Hadi, with Crown Prince Mohammed bin Salman offering sympathies to the family by telephone, per the Saudi Press Agency.** Prince Khalid bin Salman called Hadi "a wise leader who was keen on the security, stability, development and prosperity of his country," according to his [Twitter post](https://x.com/kbsalsaud). The death of the internationally recognized former president removes a key figure from Yemen's complex political landscape.
 
-The United States conducted airstrikes on Iranian military sites following Iranian missile attacks on U.S. troops stationed in Kuwait, marking a dangerous escalation in the ongoing regional conflict. [AP reports](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) that American forces then shot down additional missiles Tehran fired at troops in Kuwait after the strikes. Kuwait's cabinet [strongly condemned](https://twitter.com/kuna_en) the repeated Iranian missile and drone attacks targeting the country's territory, describing them as "a flagrant violation of Kuwait's sovereignty & security."
+US Secretary of State Marco Rubio said Washington [will not grant](https://kuna.net.kw/ArticleDetails.aspx?id=3306227) Iran sanctions relief in exchange for opening the Strait of Hormuz, according to Kuwait News Agency. This follows ongoing tensions that have disrupted shipping through the critical waterway. [Goldman Sachs expects](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/) refined fuel margins to remain elevated through 2026 due to the Hormuz disruption, Reuters reports.
 
-Foreign Minister Prince Faisal bin Farhan said Saudi Arabia "highly appreciates" President Trump's decision to [give diplomacy](https://twitter.com/FaisalbinFarhan) a chance to reach an agreement ending the war and restoring freedom of navigation in the Strait of Hormuz. [Reuters reports](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/) that Secretary of State Rubio told lawmakers the U.S. has not offered Iran sanctions relief to reopen the strait as the Iran conflict enters its fourth month.
+## **Energy & Economy**
 
-**Energy & Economy**
+• **Oil market outlook darkens**: [Goldman Sachs forecasts](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/) elevated refined fuel margins through 2026 as the Strait of Hormuz disruption continues to squeeze global supply chains, according to Reuters.
 
-• Oil markets remain volatile as [Reuters reports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) Asia's imports of U.S. crude surge but cannot offset losses from the blocked Strait of Hormuz.
+• **Asian crude imports surge**: [Asia's imports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) of US crude have surged but cannot offset losses from Hormuz shipping disruptions, Reuters reports.
 
-• [Reuters notes](https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/) Syria is receiving a windfall as airlines reroute flights over its airspace due to the Iran war.
+• **Kuwait market development**: [Goldman Sachs arranged](https://www.aljazeera.net/ebusiness/2026/6/2/%D8%BA%D9%88%D9%84%D8%AF%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%83%D8%B3-%D9%8A%D8%B1%D8%AA%D8%A8-%D8%A5%D8%AD%D8%AF%D9%89-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA) one of the largest listings on the Kuwait Stock Exchange, Al Jazeera reports.
 
-• Dubai [ranks first](https://twitter.com/DXBMediaOffice) regionally and 12th globally in the "Cities Shaping the Future" report, which identifies cities driving business growth.
+• **Abu Dhabi-Amman exchange link**: The [Abu Dhabi Securities Exchange](https://mediaoffice.abudhabi) partnered with Amman Stock Exchange to launch electronic trading through the Tabadul platform, according to Abu Dhabi Media Office.
 
-• [Al Jazeera reports](https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A) Qatar and Indonesia are strengthening their defense partnership.
+## **Country Watch**
 
-**Saudi Arabia**
+### **Saudi Arabia**
+• [Riyadh begins implementing](https://spa.gov.sa/N2605308) flexible working hours initiative for 50 employers across six locations in the capital, according to the Saudi Press Agency.
 
-• Narcotics Control [seized 845,087](https://twitter.com/MOISaudiArabia) amphetamine tablets hidden inside cardboard sheets in the Eastern Region.
+• [Drug seizure in Eastern Province](https://moi.gov.sa): Interior Ministry forces confiscated 845,087 amphetamine tablets hidden inside cardboard sheets.
 
-• The late former Yemeni President Abd Rabbuh Mansour Hadi passed away, with Crown Prince Mohammed bin Salman [offering condolences](https://twitter.com/spagov) to the family by telephone.
+### **UAE**
+• [Sheikh Abdulla bin Zayed](https://x.com/ABZayed) highlighted the UAE's global leadership in AI talent concentration, which grew 121% between 2019-2025.
 
-• Prince Khalid bin Salman [met with](https://twitter.com/kbsalsaud) UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional challenges.
+• [Dubai ranks first](https://x.com/DXBMediaOffice) regionally and 12th globally in the "Cities Shaping the Future Report" by Oliver Wyman Forum.
 
-**UAE**
+• UAE launched the [Naseej textile recycling](https://x.com/UAEmediaoffice) initiative to transition the textile sector toward a circular economic system.
 
-• The UAE [launched #Naseej](https://twitter.com/UAEmediaoffice), the National Initiative for Textile Circularity, under President Sheikh Mohamed bin Zayed's directives.
+### **Qatar** 
+• Foreign Minister Mohammed bin Abdulrahman Al Thani [met with Indonesian officials](https://gate.ahram.org.eg/News/5665822.aspx) to discuss joint military cooperation, Al-Ahram reports.
 
-• Sheikh Mohammed bin Rashid [announced](https://twitter.com/HHShkMohd) the launch of artificial intelligence assistants for procurement, taxes, and customer services as part of a new AI-powered government system.
+• [Qatar Foundation formed](https://ow.ly/NtKN50Z6P0P) three new study-abroad partnerships with US universities, according to QNA.
 
-• The Defense Ministry said the U.S. Special Operations Command [honored](https://twitter.com/modgovae) Major General Muslim Mohammed Saeed Al Rashidi with a medal recognizing contributions to bilateral cooperation.
+### **Bahrain / Kuwait / Oman**
+• Bahrain's Interior Ministry [banned citizens](https://policemc.gov.bh/en/news/79019/) from traveling to Iran and Iraq due to ongoing security tensions.
 
-**Qatar**
+• [Prince William received](https://2u.pw/NpsltIe4) Oman's Culture Minister Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral relations, according to Oman News Agency.
 
-• PM Mohammed bin Abdulrahman Al Thani was [appointed](https://twitter.com/MBA_AlThani_) as Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani.
+### **Yemen**
+• The IRG appointed [Ahmed Hamid Lamlas](https://sabannet.net) as governor of Aden Governorate, according to Saba News Agency.
 
-• Foreign Ministers from eight Arab and Muslim nations, including Qatar, [condemned](https://twitter.com/QNAEnglish) Israeli settler incursions into Al-Aqsa Mosque.
+• Southern Transitional Council leader Aidarous al-Zubaidi [performed Umrah](https://stcaden.com/news/10114) rituals, the STC announced.
 
-**Bahrain / Kuwait / Oman**
+## **Official Signals**
 
-• Bahrain's Interior Ministry [banned citizens](https://twitter.com/moi_bahrain) from traveling to Iran and Iraq due to ongoing security tensions.
+• **Saudi Foreign Minister Prince Faisal bin Farhan** [praised](https://x.com/FaisalbinFarhan) President Trump's decision to give diplomacy a chance, saying the Kingdom "highly appreciates" efforts to restore security in the Strait of Hormuz.
 
-• Oman's Foreign Minister [met with](https://twitter.com/badralbusaidi) Iran's Deputy FM, reaffirming the importance of diplomatic engagement to reduce regional tensions.
+• **UAE Minister Anwar Gargash** [criticized](https://x.com/AnwarGargash) Turkey's defense minister for "provocative statements," saying the logic of the Sublime Porte belongs in "the historical archive."
 
-• Prince William of Wales [received](https://twitter.com/ONA_eng) HH Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss Oman-UK relations.
+## **Coverage Flags**
 
-**Yemen**
+International outlets are focusing heavily on energy market implications of the Hormuz crisis, while regional media emphasizes diplomatic efforts to resolve tensions. The death of former Yemeni President Hadi received significant coverage across Gulf state media but limited attention in international press.
 
-• Saudi envoy Mohammed AlJabir [announced](https://twitter.com/mohdsalj) he will visit Sana'a with an Omani delegation to consolidate the truce and support prisoner exchanges.
+## **Sources**
 
-• IRG Information Minister Mohammed Al-Eryani [thanked](https://twitter.com/ERYANIM) U.S. Congressman Joe Wilson for introducing an amendment to strengthen U.S.-Yemen defense cooperation.
-
-• Houthi spokesperson Mohammed Abdulsalam [published](https://twitter.com/abdusalamsalah) the text of an agreement to cancel recent banking decisions and resume Yemenia Airlines flights between Sana'a and Jordan.
-
-**Official Signals**
-
-• Prince Faisal bin Farhan [chaired](https://twitter.com/FaisalbinFarhan) an International Conference on the Palestinian Issue in partnership with France's Foreign Minister, calling for implementation of the two-state solution.
-
-• Anwar Gargash [criticized](https://twitter.com/AnwarGargash) Turkey's Defense Minister for provocative statements, saying "there is no place for colonial illusions in this time."
-
-**Coverage Flags**
-
-International outlets are ahead on the Iran-Kuwait military escalation story, with detailed reporting on U.S. strikes and Iranian responses that merits dedicated NYT Gulf coverage.
-
-**Sources**
-
-• [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-• [Reuters](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/)
-• [Reuters](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/)
-• [Reuters](https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/)
-• [Al Jazeera](https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A)
-• Times of Oman
-• Google News Gulf (Arabic)
+• [Saudi Press Agency](https://spa.gov.sa)
+• [Reuters](https://www.reuters.com)
+• [Kuwait News Agency](https://kuna.net.kw)
+• [Al Jazeera](https://www.aljazeera.net)
+• [Qatar News Agency](https://qna.org.qa)
+• [Times of Oman](https://timesofoman.com)
+• [AP News](https://apnews.com)
+• [BBC](https://www.bbc.com)
