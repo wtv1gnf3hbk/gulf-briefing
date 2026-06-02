@@ -4,18 +4,38 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-06-02T14:11:38.022Z",
-    "generatedTimestamp": 1780409498022
+    "generated": "2026-06-02T15:12:55.099Z",
+    "generatedTimestamp": 1780413175099
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
     "totalStories": 50,
     "totalScreenshots": 66,
-    "elapsed": "501.0s"
+    "elapsed": "505.9s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "CAA issues heat advisory as temperatures soar across Oman",
+        "url": "https://timesofoman.com//article/172503-caa-issues-heat-advisory-as-temperatures-soar-across-oman",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Tue, 02 Jun 2026 19:03:22 +0400",
+        "description": "MUSCAT: Oman continues to experience scorching summer conditions on Tuesday, with temperatures reaching 48°C in several parts of the Sultanate, according..."
+      },
+      {
+        "headline": "Omani delegation seeks ties in farm, industry sector during Belarus visit",
+        "url": "https://timesofoman.com//article/172502-omani-delegation-seeks-ties-in-farm-industry-sector-during-belarus-visit",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Tue, 02 Jun 2026 18:14:42 +0400",
+        "description": "Minsk: A trade delegation from Oman Chamber of Commerce and Industry (OCCI), currently visiting the Republic of Belarus, paid a visit on Tuesday to the..."
+      },
       {
         "headline": "Oman, Libya sign MoU to enhance ties in oil and gas",
         "url": "https://timesofoman.com//article/172501-oman-libya-sign-mou-to-enhance-ties-in-oil-and-gas",
@@ -97,54 +117,14 @@
         "description": "Sur: Oman India Fertiliser Company (OMIFCO) announced on Tuesday in a press conference at its headquarters in the Wilayat of Sur, South Al Sharqiyah..."
       },
       {
-        "headline": "Oman, Belarus discuss ways to boost industrial cooperation",
-        "url": "https://timesofoman.com//article/172493-oman-belarus-discuss-ways-to-boost-industrial-cooperation",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Tue, 02 Jun 2026 15:41:23 +0400",
-        "description": "Minsk: The Sultanate of Oman and the Republic of Belarus on Tuesday discussed ways to enhance cooperation in the fields of industry and investment. A..."
-      },
-      {
-        "headline": "Royal Office Minister receives Algerian military official",
-        "url": "https://timesofoman.com//article/172492-royal-office-minister-receives-algerian-military-official",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Tue, 02 Jun 2026 15:40:28 +0400",
-        "description": "Muscat: General Sultan Mohammed Al Nu'amani, Minister of the Royal Office and Head of the Office of the Supreme Commander, received at his office today..."
-      },
-      {
-        "headline": "OPEC+ likely to raise July oil output target despite Hormuz disruption, sources say - Reuters",
-        "url": "https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 14:55:52 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDRBQ0ZxYXlGeHQtVFNWeG9zYmNXWnR2QWRwb2M4MHZwSENIbE9wcFlNdjNmWGtVdlpHWUw2NXZ4NUFpZTlRSDZlODdHLUY0RVpxQUlTeUV3dmh5Z3pXSVM1RzdIejZsZ3padHR"
-      },
-      {
         "headline": "Asia's imports of US crude surge, but can't offset Hormuz losses - Reuters",
         "url": "https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 11:31:55 GMT",
+        "date": "Tue, 02 Jun 2026 11:51:10 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTdKVkl0aWdaNFJ4bDJRVFhud09UMHN0dDFmMGk5d1U1ZlBQZUZmSlZmY3FFeXE1M0pfSVg4UHk3Z2htazU0OFlHcGNxWF8xWXNSWHJIQ2dJeFRVZlowMFFOTGNBaGVpNVlmbkV"
-      },
-      {
-        "headline": "Pictures of the month: May - Reuters",
-        "url": "https://www.reuters.com/pictures/pictures-month-may-2026-06-01/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 14:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZN1JaM21LMWhLa0VoTnN3ZENnWnc1SjBQTnJqN045TUYybjRMaFFrVmZWMW5wcG9ZbHhxNmFpbmJfU2J3akRESnVhV2hRenlQZGwzdFZNYk9CcWJTWUdYajFNSmluYzFvTnhlZW9"
       },
       {
         "headline": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut - Reuters",
@@ -163,18 +143,8 @@
         "sourceId": "reuters_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 12:01:40 GMT",
+        "date": "Tue, 02 Jun 2026 14:18:21 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnhHX3pib0VOUmUzRkNhT1VGQVRRVnBVeVc1eVgta1dMNDVGRVVTZ0Jtb21oYUIyYjg1b3BoY28zMHd1dVQza1hPa3pWMFBzRktIOVVmdG5zVGFHaHdRZjJrdWVNUVJ1cEZPa0d"
-      },
-      {
-        "headline": "Major investment pledges at Choose France summit - Reuters",
-        "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
       },
       {
         "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
@@ -215,6 +185,36 @@
         "priority": "primary",
         "date": "Tue, 02 Jun 2026 10:16:10 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOajN4aFNIUGNoVGM4WTlWMnY2Nkh0Zm5zSEpHekFsb3hvUGtReGxuaG53eVRyUnRKS0NHYkZuZEpYRDhaMDRwOGZzSG5nbjVEQXpSSnNvdnNkTFpzS3pobU5qeUlmQzlSM0NLUm9"
+      },
+      {
+        "headline": "Major Gulf markets mixed amid uncertainty over US-Iran peace negotiations - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-mixed-amid-uncertainty-over-us-iran-peace-negotiations-2026-06-02/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 08:29:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUp0NGF0Q1cxeDZNNWhxekNVSkVuTUdfQ29ZUDhOYkduOS02UWF6X0tEa2xDNGxIZXg0SElRVGNvRktCYUJwRlpsRDdJSFAxbDFwaXZKVWNWSDdnWjdsUmlPZDc2SlN2OEZYazh"
+      },
+      {
+        "headline": "4336.SE - | Stock Price &amp; Latest News - Reuters",
+        "url": "https://www.reuters.com/markets/companies/4336.SE/key-metrics/valuation/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 15:47:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5N0t2Y2ttTUlXS09BTlNKblhIRnJJUjhBUnNacHNFNU1GcTM0cTU5QzFjLUwxeWxpbVNoNS1md3FiLWFRWVphZ0I4Y2pmSlp1ZmRILXNBWGlQTGxJNEJMREJfdU9RZS1KcUJ1SXN"
+      },
+      {
+        "headline": "2210.SE - | Stock Price &amp; Latest News - Reuters",
+        "url": "https://www.reuters.com/markets/companies/2210.SE/key-metrics/management-effectiveness/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 15:34:28 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0E2emFHTzJSeTVnc3YtTDV3NDlPenRXdVd1SU5ZaU5wNnBVZXZ1WFZhSjVudmVtWl9FNlJGbThPNXFuOEhZTnN2b2FKc2gxNmhPZGg3Qk5xRTZHbGVuZ3RRRUxHcVFNSlFjdVV"
       },
       {
         "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -278,7 +278,7 @@
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
-        "url": "https://apnews.com/hub/apf-topnews?output=atom&p=16",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00ZHlVb2t3OW1GbENtTTkta3BJWUFuSTNkMVVfbW9DZzFxQmJkLWVQcUNVSUlGcFhIMHFMdWNwMWFZTkxVRTRqZk43NWlfS1BlNUJLU2ZOMWxRWWVhM1JrNg?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -288,7 +288,7 @@
       },
       {
         "headline": "Paris - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
+        "url": "https://apnews.com/hub/paris",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -307,14 +307,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5\" target=\"_blank\"&gt;War and unrest&"
       },
       {
-        "headline": "Hezbollah - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+        "headline": "Scheffler goes for 3 in a row at Memorial and Korda seeks an elusive U.S. Women's Open title - AP News",
+        "url": "https://apnews.com/article/memorial-us-womens-open-riviera-liv-golf-d20daa84340d1fc7ada823d89e94c7c8",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 12:02:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
+        "date": "Tue, 02 Jun 2026 13:02:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDFLUlB3Y0xIZVA4UzFiUi05bENMQnZOQ3ZpZldCQncyeDA0WlJGamMybG5jYmM5X0NDUVdOSng4elFpU2cycWY1WTZCdk0wQ0luMWNqcDc4RU15R1dPS0VGNG52WUFWQ25vbWp"
       },
       {
         "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
@@ -439,6 +439,17 @@
         "originalHeadline": "موروث قطر بوسائط عصرية - BBC"
       },
       {
+        "headline": "Qatar and Indonesia strengthen their defense partnership - Al Jazeera Net",
+        "url": "https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 14:40:13 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUURNODIxRk02Ykt2T25HRjIzUjVDb0NUTnk3ZF9wVXpJS3JSLVN1Z2dfdGhRSUdNVkYwMjdhbEMyUUhKZkdMbEVReGRwR1JEdlM5NkJ5ak5ZNWpTR2lFbjQ5N21OZmE2YzZWenB",
+        "originalHeadline": "قطر وإندونيسيا تعززان شراكتهما الدفاعية - الجزيرة نت"
+      },
+      {
         "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq - Sky News Arabia",
         "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp3MldKN013ZTkzQ3oxc1BhRDhwNVhNQXBWLW5rdnUxd2dwYWtmT05hdjZMNVRYUkdUUDRNdWtxY1RwMks0Y183RXlKUVZYdlJ3WG96WlVEVEFJZWdwNFVzckZCbWhIVDBNd0lsM3cwZ2VCZkZ3VWE5dlBmcmpQdDZZYzNtem5aWkdtRUlPdFZWZng5ZUE3bHZVOXZ1UEh1N0M1U3VrYl83bkc5MUp4c21pU0xUM2dnbEV6cmV6MXd2aFU1c1dIaXdmTV9rdUEwLVJxUHNOa093ZTZMODVPTWpNd01tc3N6MnZVS1VWR2UyU3l3Vk9EQThodWhzYm1jcFNJT0tKZWxFVlFQaDBPLV8yd9IB-wJBVV95cUxQM1pnS2p6NzhYUHc5RmNoR2JleFNaZXhla3dENnp4aWVaUzFHLVMxeVZuQ1I5ZzAzN0xrcWtiNDk5MXNKS3BFUUswSzBTMUJPNHhDWDZ5eFEydGhxVXBhU1lCb3phOGpTZ211VDNjeFY4Wm5sR3g0NzFPZkxTblY2WFNlQll4Q3dIZU5RZkRNQ1BlTWswVDNkSHByMHdUUmJ0czVhaWVaZVpIRjFuVVA1SlZBdURzV0hSZEs4NWFXNG42MHk2eGFxeG5xa2s2NHI4VlBkMWhIOGdBMk96QkJTQnFJSjA0Sks1ejVhTWh3VUNiVWpKX19XYmxrZGZpR2E3OE5UbEVSUlVmNVlJNmswaWhsZ3Zqdkd6aGtzQl9Gb2VqZkJSV19MbWhQd2ljUU55anRkOXI4MU9kQmdDdWh1U3VpamQ1aVBrVUpiTVNFWHBmTUprV0dzY2dtbXZOaU1ZVUNubVJSY3lKYi11NEpKMzJZOVFyTmNJdGZN?oc=5",
         "source": "Google News Gulf (Arabic)",
@@ -448,39 +459,6 @@
         "date": "Tue, 02 Jun 2026 10:46:25 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp",
         "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق - سكاي نيوز عربية"
-      },
-      {
-        "headline": "Navigational data.. The ship targeted by Iran in the Gulf was heading to Qatar - Al Jazeera Net",
-        "url": "https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 08:58:18 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV2RTQkR6c3BXX2tSYURreVlzV1cwLVpZc0djTUpIeFNVeHpUU21oTlNUdEhiVjg1bU9TaDZLajQ3eXBjZm1jbjVkTE9Yb0dBZi1oVW9HOFpmZzFmQlF0UGljb2xDN3Q0Wk9JdVd",
-        "originalHeadline": "بيانات ملاحية.. السفينة التي استهدفتها إيران في الخليج كانت متجهة إلى قطر - الجزيرة نت"
-      },
-      {
-        "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
-        "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 11:20:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
-        "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
-      },
-      {
-        "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
-        "url": "https://www.okaz.com.sa/variety/na/2250964",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 09:09:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
-        "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
       },
       {
         "headline": "Bahrain's Ministry of Interior announces a ban on citizens traveling to Iran and Iraq - CNN Arabic",
@@ -494,6 +472,39 @@
         "originalHeadline": "داخلية البحرين تعلن منع سفر المواطنين إلى إيران والعراق - CNN Arabic"
       },
       {
+        "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
+        "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 11:20:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
+        "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
+      },
+      {
+        "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
+        "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 10:07:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
+        "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
+      },
+      {
+        "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
+        "url": "https://www.okaz.com.sa/variety/na/2250964",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 09:09:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
+        "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
+      },
+      {
         "headline": "Bahrain Bourse hosts the largest financial markets technology forum - Mubasher Info",
         "url": "https://www.mubasher.info/news/4620885/%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84/",
         "source": "Google News Gulf (Arabic)",
@@ -505,30 +516,39 @@
         "originalHeadline": "بورصة البحرين تستضيف أكبر ملتقى لتكنولوجيا أسواق المال - معلومات مباشر"
       },
       {
-        "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
-        "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+        "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq due to the security situation - Al Sharq News",
+        "url": "https://asharq.com/politics/185100/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%B3%D9%81%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 10:09:32 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
-        "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
-      },
-      {
-        "headline": "The largest fertilizer producer in Oman is approaching an initial public offering on the Muscat Stock Exchange - Al Sharq Economy with Bloomberg",
-        "url": "https://asharqbusiness.com/financial-markets/134867/%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86%D8%AA%D8%AC-%D8%A3%D8%B3%D9%85%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%B7%D8%B1%D8%AD-%D8%B9%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%85%D8%B3%D9%82%D8%B7/",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 08:04:16 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxPODdUY0lSSXlWQ3d0WERWV2NuWXFuTmdHc0RuYmZnV1FmRXpzODdpNG9mS1ctbTg1SjgwV0JnLTJyM01SZGJ4RFBnZjJlVWhoel9wcTg0T3ctc1U2V2hjbGVtZmNNOU5RdC1LeFE",
-        "originalHeadline": "أكبر منتج أسمدة في عُمان يقترب من طرح عام أولي في بورصة مسقط - اقتصاد الشرق مع بلومبرغ"
+        "date": "Tue, 02 Jun 2026 12:28:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHA0VEJYc09fUmxyR1pLZHgzbEl3a3ZLVVdzaE4xSXNfUmRtZWhDTUJibjVaSmRWSlZQUE44bmpQU0xNX0JZMGprZjFZNjFmOUVfSmI3ZlAzUXR6bWJpQ1Q0UExiNV8tbDROUkd",
+        "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق بسبب الأوضاع الأمنية - الشرق للأخبار"
       }
     ],
     "byCategory": {
       "oman": [
+        {
+          "headline": "CAA issues heat advisory as temperatures soar across Oman",
+          "url": "https://timesofoman.com//article/172503-caa-issues-heat-advisory-as-temperatures-soar-across-oman",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 19:03:22 +0400",
+          "description": "MUSCAT: Oman continues to experience scorching summer conditions on Tuesday, with temperatures reaching 48°C in several parts of the Sultanate, according..."
+        },
+        {
+          "headline": "Omani delegation seeks ties in farm, industry sector during Belarus visit",
+          "url": "https://timesofoman.com//article/172502-omani-delegation-seeks-ties-in-farm-industry-sector-during-belarus-visit",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 18:14:42 +0400",
+          "description": "Minsk: A trade delegation from Oman Chamber of Commerce and Industry (OCCI), currently visiting the Republic of Belarus, paid a visit on Tuesday to the..."
+        },
         {
           "headline": "Oman, Libya sign MoU to enhance ties in oil and gas",
           "url": "https://timesofoman.com//article/172501-oman-libya-sign-mou-to-enhance-ties-in-oil-and-gas",
@@ -608,39 +628,9 @@
           "priority": "secondary",
           "date": "Tue, 02 Jun 2026 16:03:08 +0400",
           "description": "Sur: Oman India Fertiliser Company (OMIFCO) announced on Tuesday in a press conference at its headquarters in the Wilayat of Sur, South Al Sharqiyah..."
-        },
-        {
-          "headline": "Oman, Belarus discuss ways to boost industrial cooperation",
-          "url": "https://timesofoman.com//article/172493-oman-belarus-discuss-ways-to-boost-industrial-cooperation",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 15:41:23 +0400",
-          "description": "Minsk: The Sultanate of Oman and the Republic of Belarus on Tuesday discussed ways to enhance cooperation in the fields of industry and investment. A..."
-        },
-        {
-          "headline": "Royal Office Minister receives Algerian military official",
-          "url": "https://timesofoman.com//article/172492-royal-office-minister-receives-algerian-military-official",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 15:40:28 +0400",
-          "description": "Muscat: General Sultan Mohammed Al Nu'amani, Minister of the Royal Office and Head of the Office of the Supreme Commander, received at his office today..."
         }
       ],
       "wire": [
-        {
-          "headline": "OPEC+ likely to raise July oil output target despite Hormuz disruption, sources say - Reuters",
-          "url": "https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:55:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDRBQ0ZxYXlGeHQtVFNWeG9zYmNXWnR2QWRwb2M4MHZwSENIbE9wcFlNdjNmWGtVdlpHWUw2NXZ4NUFpZTlRSDZlODdHLUY0RVpxQUlTeUV3dmh5Z3pXSVM1RzdIejZsZ3padHR"
-        },
         {
           "headline": "Asia's imports of US crude surge, but can't offset Hormuz losses - Reuters",
           "url": "https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/",
@@ -648,18 +638,8 @@
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 11:31:55 GMT",
+          "date": "Tue, 02 Jun 2026 11:51:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTdKVkl0aWdaNFJ4bDJRVFhud09UMHN0dDFmMGk5d1U1ZlBQZUZmSlZmY3FFeXE1M0pfSVg4UHk3Z2htazU0OFlHcGNxWF8xWXNSWHJIQ2dJeFRVZlowMFFOTGNBaGVpNVlmbkV"
-        },
-        {
-          "headline": "Pictures of the month: May - Reuters",
-          "url": "https://www.reuters.com/pictures/pictures-month-may-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZN1JaM21LMWhLa0VoTnN3ZENnWnc1SjBQTnJqN045TUYybjRMaFFrVmZWMW5wcG9ZbHhxNmFpbmJfU2J3akRESnVhV2hRenlQZGwzdFZNYk9CcWJTWUdYajFNSmluYzFvTnhlZW9"
         },
         {
           "headline": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut - Reuters",
@@ -678,18 +658,8 @@
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 12:01:40 GMT",
+          "date": "Tue, 02 Jun 2026 14:18:21 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnhHX3pib0VOUmUzRkNhT1VGQVRRVnBVeVc1eVgta1dMNDVGRVVTZ0Jtb21oYUIyYjg1b3BoY28zMHd1dVQza1hPa3pWMFBzRktIOVVmdG5zVGFHaHdRZjJrdWVNUVJ1cEZPa0d"
-        },
-        {
-          "headline": "Major investment pledges at Choose France summit - Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
         },
         {
           "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
@@ -730,6 +700,36 @@
           "priority": "primary",
           "date": "Tue, 02 Jun 2026 10:16:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOajN4aFNIUGNoVGM4WTlWMnY2Nkh0Zm5zSEpHekFsb3hvUGtReGxuaG53eVRyUnRKS0NHYkZuZEpYRDhaMDRwOGZzSG5nbjVEQXpSSnNvdnNkTFpzS3pobU5qeUlmQzlSM0NLUm9"
+        },
+        {
+          "headline": "Major Gulf markets mixed amid uncertainty over US-Iran peace negotiations - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-mixed-amid-uncertainty-over-us-iran-peace-negotiations-2026-06-02/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 08:29:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUp0NGF0Q1cxeDZNNWhxekNVSkVuTUdfQ29ZUDhOYkduOS02UWF6X0tEa2xDNGxIZXg0SElRVGNvRktCYUJwRlpsRDdJSFAxbDFwaXZKVWNWSDdnWjdsUmlPZDc2SlN2OEZYazh"
+        },
+        {
+          "headline": "4336.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/4336.SE/key-metrics/valuation/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 15:47:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5N0t2Y2ttTUlXS09BTlNKblhIRnJJUjhBUnNacHNFNU1GcTM0cTU5QzFjLUwxeWxpbVNoNS1md3FiLWFRWVphZ0I4Y2pmSlp1ZmRILXNBWGlQTGxJNEJMREJfdU9RZS1KcUJ1SXN"
+        },
+        {
+          "headline": "2210.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/2210.SE/key-metrics/management-effectiveness/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 15:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0E2emFHTzJSeTVnc3YtTDV3NDlPenRXdVd1SU5ZaU5wNnBVZXZ1WFZhSjVudmVtWl9FNlJGbThPNXFuOEhZTnN2b2FKc2gxNmhPZGg3Qk5xRTZHbGVuZ3RRRUxHcVFNSlFjdVV"
         },
         {
           "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -793,7 +793,7 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://apnews.com/hub/apf-topnews?output=atom&p=16",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00ZHlVb2t3OW1GbENtTTkta3BJWUFuSTNkMVVfbW9DZzFxQmJkLWVQcUNVSUlGcFhIMHFMdWNwMWFZTkxVRTRqZk43NWlfS1BlNUJLU2ZOMWxRWWVhM1JrNg?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -803,7 +803,7 @@
         },
         {
           "headline": "Paris - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
+          "url": "https://apnews.com/hub/paris",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -822,14 +822,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5\" target=\"_blank\"&gt;War and unrest&"
         },
         {
-          "headline": "Hezbollah - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+          "headline": "Scheffler goes for 3 in a row at Memorial and Korda seeks an elusive U.S. Women's Open title - AP News",
+          "url": "https://apnews.com/article/memorial-us-womens-open-riviera-liv-golf-d20daa84340d1fc7ada823d89e94c7c8",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 12:02:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
+          "date": "Tue, 02 Jun 2026 13:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDFLUlB3Y0xIZVA4UzFiUi05bENMQnZOQ3ZpZldCQncyeDA0WlJGamMybG5jYmM5X0NDUVdOSng4elFpU2cycWY1WTZCdk0wQ0luMWNqcDc4RU15R1dPS0VGNG52WUFWQ25vbWp"
         }
       ],
       "competitors": [
@@ -958,6 +958,17 @@
           "originalHeadline": "موروث قطر بوسائط عصرية - BBC"
         },
         {
+          "headline": "Qatar and Indonesia strengthen their defense partnership - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 14:40:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUURNODIxRk02Ykt2T25HRjIzUjVDb0NUTnk3ZF9wVXpJS3JSLVN1Z2dfdGhRSUdNVkYwMjdhbEMyUUhKZkdMbEVReGRwR1JEdlM5NkJ5ak5ZNWpTR2lFbjQ5N21OZmE2YzZWenB",
+          "originalHeadline": "قطر وإندونيسيا تعززان شراكتهما الدفاعية - الجزيرة نت"
+        },
+        {
           "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq - Sky News Arabia",
           "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp3MldKN013ZTkzQ3oxc1BhRDhwNVhNQXBWLW5rdnUxd2dwYWtmT05hdjZMNVRYUkdUUDRNdWtxY1RwMks0Y183RXlKUVZYdlJ3WG96WlVEVEFJZWdwNFVzckZCbWhIVDBNd0lsM3cwZ2VCZkZ3VWE5dlBmcmpQdDZZYzNtem5aWkdtRUlPdFZWZng5ZUE3bHZVOXZ1UEh1N0M1U3VrYl83bkc5MUp4c21pU0xUM2dnbEV6cmV6MXd2aFU1c1dIaXdmTV9rdUEwLVJxUHNOa093ZTZMODVPTWpNd01tc3N6MnZVS1VWR2UyU3l3Vk9EQThodWhzYm1jcFNJT0tKZWxFVlFQaDBPLV8yd9IB-wJBVV95cUxQM1pnS2p6NzhYUHc5RmNoR2JleFNaZXhla3dENnp4aWVaUzFHLVMxeVZuQ1I5ZzAzN0xrcWtiNDk5MXNKS3BFUUswSzBTMUJPNHhDWDZ5eFEydGhxVXBhU1lCb3phOGpTZ211VDNjeFY4Wm5sR3g0NzFPZkxTblY2WFNlQll4Q3dIZU5RZkRNQ1BlTWswVDNkSHByMHdUUmJ0czVhaWVaZVpIRjFuVVA1SlZBdURzV0hSZEs4NWFXNG42MHk2eGFxeG5xa2s2NHI4VlBkMWhIOGdBMk96QkJTQnFJSjA0Sks1ejVhTWh3VUNiVWpKX19XYmxrZGZpR2E3OE5UbEVSUlVmNVlJNmswaWhsZ3Zqdkd6aGtzQl9Gb2VqZkJSV19MbWhQd2ljUU55anRkOXI4MU9kQmdDdWh1U3VpamQ1aVBrVUpiTVNFWHBmTUprV0dzY2dtbXZOaU1ZVUNubVJSY3lKYi11NEpKMzJZOVFyTmNJdGZN?oc=5",
           "source": "Google News Gulf (Arabic)",
@@ -967,39 +978,6 @@
           "date": "Tue, 02 Jun 2026 10:46:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp",
           "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق - سكاي نيوز عربية"
-        },
-        {
-          "headline": "Navigational data.. The ship targeted by Iran in the Gulf was heading to Qatar - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 08:58:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV2RTQkR6c3BXX2tSYURreVlzV1cwLVpZc0djTUpIeFNVeHpUU21oTlNUdEhiVjg1bU9TaDZLajQ3eXBjZm1jbjVkTE9Yb0dBZi1oVW9HOFpmZzFmQlF0UGljb2xDN3Q0Wk9JdVd",
-          "originalHeadline": "بيانات ملاحية.. السفينة التي استهدفتها إيران في الخليج كانت متجهة إلى قطر - الجزيرة نت"
-        },
-        {
-          "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
-          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 11:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
-          "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
-        },
-        {
-          "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
-          "url": "https://www.okaz.com.sa/variety/na/2250964",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 09:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
-          "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
         },
         {
           "headline": "Bahrain's Ministry of Interior announces a ban on citizens traveling to Iran and Iraq - CNN Arabic",
@@ -1013,6 +991,39 @@
           "originalHeadline": "داخلية البحرين تعلن منع سفر المواطنين إلى إيران والعراق - CNN Arabic"
         },
         {
+          "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
+          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 11:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
+          "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
+        },
+        {
+          "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
+          "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 10:07:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
+          "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
+        },
+        {
+          "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
+          "url": "https://www.okaz.com.sa/variety/na/2250964",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 09:09:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
+          "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
+        },
+        {
           "headline": "Bahrain Bourse hosts the largest financial markets technology forum - Mubasher Info",
           "url": "https://www.mubasher.info/news/4620885/%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84/",
           "source": "Google News Gulf (Arabic)",
@@ -1024,41 +1035,20 @@
           "originalHeadline": "بورصة البحرين تستضيف أكبر ملتقى لتكنولوجيا أسواق المال - معلومات مباشر"
         },
         {
-          "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
-          "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+          "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq due to the security situation - Al Sharq News",
+          "url": "https://asharq.com/politics/185100/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%B3%D9%81%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 10:09:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
-          "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
-        },
-        {
-          "headline": "The largest fertilizer producer in Oman is approaching an initial public offering on the Muscat Stock Exchange - Al Sharq Economy with Bloomberg",
-          "url": "https://asharqbusiness.com/financial-markets/134867/%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86%D8%AA%D8%AC-%D8%A3%D8%B3%D9%85%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%B7%D8%B1%D8%AD-%D8%B9%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%85%D8%B3%D9%82%D8%B7/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 08:04:16 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxPODdUY0lSSXlWQ3d0WERWV2NuWXFuTmdHc0RuYmZnV1FmRXpzODdpNG9mS1ctbTg1SjgwV0JnLTJyM01SZGJ4RFBnZjJlVWhoel9wcTg0T3ctc1U2V2hjbGVtZmNNOU5RdC1LeFE",
-          "originalHeadline": "أكبر منتج أسمدة في عُمان يقترب من طرح عام أولي في بورصة مسقط - اقتصاد الشرق مع بلومبرغ"
+          "date": "Tue, 02 Jun 2026 12:28:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHA0VEJYc09fUmxyR1pLZHgzbEl3a3ZLVVdzaE4xSXNfUmRtZWhDTUJibjVaSmRWSlZQUE44bmpQU0xNX0JZMGprZjFZNjFmOUVfSmI3ZlAzUXR6bWJpQ1Q0UExiNV8tbDROUkd",
+          "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق بسبب الأوضاع الأمنية - الشرق للأخبار"
         }
       ]
     },
     "byPriority": {
       "primary": [
-        {
-          "headline": "OPEC+ likely to raise July oil output target despite Hormuz disruption, sources say - Reuters",
-          "url": "https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:55:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDRBQ0ZxYXlGeHQtVFNWeG9zYmNXWnR2QWRwb2M4MHZwSENIbE9wcFlNdjNmWGtVdlpHWUw2NXZ4NUFpZTlRSDZlODdHLUY0RVpxQUlTeUV3dmh5Z3pXSVM1RzdIejZsZ3padHR"
-        },
         {
           "headline": "Asia's imports of US crude surge, but can't offset Hormuz losses - Reuters",
           "url": "https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/",
@@ -1066,18 +1056,8 @@
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 11:31:55 GMT",
+          "date": "Tue, 02 Jun 2026 11:51:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTdKVkl0aWdaNFJ4bDJRVFhud09UMHN0dDFmMGk5d1U1ZlBQZUZmSlZmY3FFeXE1M0pfSVg4UHk3Z2htazU0OFlHcGNxWF8xWXNSWHJIQ2dJeFRVZlowMFFOTGNBaGVpNVlmbkV"
-        },
-        {
-          "headline": "Pictures of the month: May - Reuters",
-          "url": "https://www.reuters.com/pictures/pictures-month-may-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 14:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZN1JaM21LMWhLa0VoTnN3ZENnWnc1SjBQTnJqN045TUYybjRMaFFrVmZWMW5wcG9ZbHhxNmFpbmJfU2J3akRESnVhV2hRenlQZGwzdFZNYk9CcWJTWUdYajFNSmluYzFvTnhlZW9"
         },
         {
           "headline": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut - Reuters",
@@ -1096,18 +1076,8 @@
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 12:01:40 GMT",
+          "date": "Tue, 02 Jun 2026 14:18:21 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnhHX3pib0VOUmUzRkNhT1VGQVRRVnBVeVc1eVgta1dMNDVGRVVTZ0Jtb21oYUIyYjg1b3BoY28zMHd1dVQza1hPa3pWMFBzRktIOVVmdG5zVGFHaHdRZjJrdWVNUVJ1cEZPa0d"
-        },
-        {
-          "headline": "Major investment pledges at Choose France summit - Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
         },
         {
           "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
@@ -1148,6 +1118,36 @@
           "priority": "primary",
           "date": "Tue, 02 Jun 2026 10:16:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOajN4aFNIUGNoVGM4WTlWMnY2Nkh0Zm5zSEpHekFsb3hvUGtReGxuaG53eVRyUnRKS0NHYkZuZEpYRDhaMDRwOGZzSG5nbjVEQXpSSnNvdnNkTFpzS3pobU5qeUlmQzlSM0NLUm9"
+        },
+        {
+          "headline": "Major Gulf markets mixed amid uncertainty over US-Iran peace negotiations - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-mixed-amid-uncertainty-over-us-iran-peace-negotiations-2026-06-02/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 08:29:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUp0NGF0Q1cxeDZNNWhxekNVSkVuTUdfQ29ZUDhOYkduOS02UWF6X0tEa2xDNGxIZXg0SElRVGNvRktCYUJwRlpsRDdJSFAxbDFwaXZKVWNWSDdnWjdsUmlPZDc2SlN2OEZYazh"
+        },
+        {
+          "headline": "4336.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/4336.SE/key-metrics/valuation/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 15:47:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5N0t2Y2ttTUlXS09BTlNKblhIRnJJUjhBUnNacHNFNU1GcTM0cTU5QzFjLUwxeWxpbVNoNS1md3FiLWFRWVphZ0I4Y2pmSlp1ZmRILXNBWGlQTGxJNEJMREJfdU9RZS1KcUJ1SXN"
+        },
+        {
+          "headline": "2210.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/2210.SE/key-metrics/management-effectiveness/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 15:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0E2emFHTzJSeTVnc3YtTDV3NDlPenRXdVd1SU5ZaU5wNnBVZXZ1WFZhSjVudmVtWl9FNlJGbThPNXFuOEhZTnN2b2FKc2gxNmhPZGg3Qk5xRTZHbGVuZ3RRRUxHcVFNSlFjdVV"
         },
         {
           "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -1211,7 +1211,7 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://apnews.com/hub/apf-topnews?output=atom&p=16",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00ZHlVb2t3OW1GbENtTTkta3BJWUFuSTNkMVVfbW9DZzFxQmJkLWVQcUNVSUlGcFhIMHFMdWNwMWFZTkxVRTRqZk43NWlfS1BlNUJLU2ZOMWxRWWVhM1JrNg?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1221,7 +1221,7 @@
         },
         {
           "headline": "Paris - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
+          "url": "https://apnews.com/hub/paris",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1240,14 +1240,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5\" target=\"_blank\"&gt;War and unrest&"
         },
         {
-          "headline": "Hezbollah - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+          "headline": "Scheffler goes for 3 in a row at Memorial and Korda seeks an elusive U.S. Women's Open title - AP News",
+          "url": "https://apnews.com/article/memorial-us-womens-open-riviera-liv-golf-d20daa84340d1fc7ada823d89e94c7c8",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 12:02:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
+          "date": "Tue, 02 Jun 2026 13:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDFLUlB3Y0xIZVA4UzFiUi05bENMQnZOQ3ZpZldCQncyeDA0WlJGamMybG5jYmM5X0NDUVdOSng4elFpU2cycWY1WTZCdk0wQ0luMWNqcDc4RU15R1dPS0VGNG52WUFWQ25vbWp"
         },
         {
           "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
@@ -1372,6 +1372,17 @@
           "originalHeadline": "موروث قطر بوسائط عصرية - BBC"
         },
         {
+          "headline": "Qatar and Indonesia strengthen their defense partnership - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 14:40:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUURNODIxRk02Ykt2T25HRjIzUjVDb0NUTnk3ZF9wVXpJS3JSLVN1Z2dfdGhRSUdNVkYwMjdhbEMyUUhKZkdMbEVReGRwR1JEdlM5NkJ5ak5ZNWpTR2lFbjQ5N21OZmE2YzZWenB",
+          "originalHeadline": "قطر وإندونيسيا تعززان شراكتهما الدفاعية - الجزيرة نت"
+        },
+        {
           "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq - Sky News Arabia",
           "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp3MldKN013ZTkzQ3oxc1BhRDhwNVhNQXBWLW5rdnUxd2dwYWtmT05hdjZMNVRYUkdUUDRNdWtxY1RwMks0Y183RXlKUVZYdlJ3WG96WlVEVEFJZWdwNFVzckZCbWhIVDBNd0lsM3cwZ2VCZkZ3VWE5dlBmcmpQdDZZYzNtem5aWkdtRUlPdFZWZng5ZUE3bHZVOXZ1UEh1N0M1U3VrYl83bkc5MUp4c21pU0xUM2dnbEV6cmV6MXd2aFU1c1dIaXdmTV9rdUEwLVJxUHNOa093ZTZMODVPTWpNd01tc3N6MnZVS1VWR2UyU3l3Vk9EQThodWhzYm1jcFNJT0tKZWxFVlFQaDBPLV8yd9IB-wJBVV95cUxQM1pnS2p6NzhYUHc5RmNoR2JleFNaZXhla3dENnp4aWVaUzFHLVMxeVZuQ1I5ZzAzN0xrcWtiNDk5MXNKS3BFUUswSzBTMUJPNHhDWDZ5eFEydGhxVXBhU1lCb3phOGpTZ211VDNjeFY4Wm5sR3g0NzFPZkxTblY2WFNlQll4Q3dIZU5RZkRNQ1BlTWswVDNkSHByMHdUUmJ0czVhaWVaZVpIRjFuVVA1SlZBdURzV0hSZEs4NWFXNG42MHk2eGFxeG5xa2s2NHI4VlBkMWhIOGdBMk96QkJTQnFJSjA0Sks1ejVhTWh3VUNiVWpKX19XYmxrZGZpR2E3OE5UbEVSUlVmNVlJNmswaWhsZ3Zqdkd6aGtzQl9Gb2VqZkJSV19MbWhQd2ljUU55anRkOXI4MU9kQmdDdWh1U3VpamQ1aVBrVUpiTVNFWHBmTUprV0dzY2dtbXZOaU1ZVUNubVJSY3lKYi11NEpKMzJZOVFyTmNJdGZN?oc=5",
           "source": "Google News Gulf (Arabic)",
@@ -1381,39 +1392,6 @@
           "date": "Tue, 02 Jun 2026 10:46:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxPWi1NU1huc1N2dlQ5TU9aeWZneC1JZHppd05HVTZOczFsYUp6NWNXT3hYUk8yMkFsT3IyRDIzQjB3WUtLYzRZYldRNkhTN3J5ZVR6T21fODMzTl9TNEhtWk1vb3cybXBEdEdHRlp",
           "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق - سكاي نيوز عربية"
-        },
-        {
-          "headline": "Navigational data.. The ship targeted by Iran in the Gulf was heading to Qatar - Al Jazeera Net",
-          "url": "https://www.aljazeera.net/news/2026/6/2/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87%D8%A7",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 08:58:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV2RTQkR6c3BXX2tSYURreVlzV1cwLVpZc0djTUpIeFNVeHpUU21oTlNUdEhiVjg1bU9TaDZLajQ3eXBjZm1jbjVkTE9Yb0dBZi1oVW9HOFpmZzFmQlF0UGljb2xDN3Q0Wk9JdVd",
-          "originalHeadline": "بيانات ملاحية.. السفينة التي استهدفتها إيران في الخليج كانت متجهة إلى قطر - الجزيرة نت"
-        },
-        {
-          "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
-          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 11:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
-          "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
-        },
-        {
-          "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
-          "url": "https://www.okaz.com.sa/variety/na/2250964",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 09:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
-          "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
         },
         {
           "headline": "Bahrain's Ministry of Interior announces a ban on citizens traveling to Iran and Iraq - CNN Arabic",
@@ -1427,6 +1405,39 @@
           "originalHeadline": "داخلية البحرين تعلن منع سفر المواطنين إلى إيران والعراق - CNN Arabic"
         },
         {
+          "headline": "Fitch: A new phase for securitization operations and asset-backed sukuks in the Saudi Arabian market",
+          "url": "https://www.alarabiya.net/aswaq/special-stories/2026/06/02/%D9%81%D9%8A%D8%AA%D8%B4-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D9%82-%D9%88%D8%A7%D9%84%D8%B5%D9%83%D9%88%D9%83-%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%88%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 11:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAVBVV95cUxNdzlSU2tpUDZkMU5DUnAyYllYZlo3LThadU1GbW5KTVZ4UDZ2dFFNcFlwc214dF9DOFlfaUQ3Z3pseThCVHpDRzMxN2o3dmF1aVh0aHJDR1FRNmg0c2p2U2diN3Z4al9TTnVBSzl",
+          "originalHeadline": "\"فيتش\": مرحلة جديدة لعمليات التوريق والصكوك المدعومة بالأصول في السوق السعودية - العربية"
+        },
+        {
+          "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
+          "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 10:07:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
+          "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
+        },
+        {
+          "headline": "Escaped inmates were arrested in Kuwait... and two firearms were seized from their possession - Okaz",
+          "url": "https://www.okaz.com.sa/variety/na/2250964",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 09:09:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiYzhSR1pTaWlnOEg1MkRtM2hxTnZYanpYWEo1d05RVEREQjN6SGFsTm1qYzFFSkV3WEZtQmVRZUxhQ19jeF92QmpXWk1tc2o1RW5TWtIBVEFVX3lxTE5yZE5YaTc5WXFqbDZ1XzA",
+          "originalHeadline": "القبض على النزلاء الهاربين في الكويت.. وضبط سلاحين ناريين بحوزتهم - عكاظ"
+        },
+        {
           "headline": "Bahrain Bourse hosts the largest financial markets technology forum - Mubasher Info",
           "url": "https://www.mubasher.info/news/4620885/%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84/",
           "source": "Google News Gulf (Arabic)",
@@ -1438,29 +1449,38 @@
           "originalHeadline": "بورصة البحرين تستضيف أكبر ملتقى لتكنولوجيا أسواق المال - معلومات مباشر"
         },
         {
-          "headline": "Ahmed Al-Kassar enters the history of the Saudi national team through the 2026 World Cup - Youm7",
-          "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/7435285",
+          "headline": "Bahrain prevents its citizens from traveling to Iran and Iraq due to the security situation - Al Sharq News",
+          "url": "https://asharq.com/politics/185100/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%B3%D9%81%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 10:09:32 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVThTYmtsdm1Namp0MlF6NEpZbjlHZFpieWluZHhLWnJmUWFtVFgyVVZJVDRmbFlhN1JSQ2F2d3EtLTl5bzdqNTRqbGsybVVTM2RLYXVBVlhycWhQS0VMT3VDOG9NYWhEV0U5aGt",
-          "originalHeadline": "أحمد الكسار يدخل تاريخ منتخب السعودية من بوابة كأس العالم 2026 - اليوم السابع"
-        },
-        {
-          "headline": "The largest fertilizer producer in Oman is approaching an initial public offering on the Muscat Stock Exchange - Al Sharq Economy with Bloomberg",
-          "url": "https://asharqbusiness.com/financial-markets/134867/%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86%D8%AA%D8%AC-%D8%A3%D8%B3%D9%85%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%B7%D8%B1%D8%AD-%D8%B9%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%85%D8%B3%D9%82%D8%B7/",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 08:04:16 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wNBVV95cUxPODdUY0lSSXlWQ3d0WERWV2NuWXFuTmdHc0RuYmZnV1FmRXpzODdpNG9mS1ctbTg1SjgwV0JnLTJyM01SZGJ4RFBnZjJlVWhoel9wcTg0T3ctc1U2V2hjbGVtZmNNOU5RdC1LeFE",
-          "originalHeadline": "أكبر منتج أسمدة في عُمان يقترب من طرح عام أولي في بورصة مسقط - اقتصاد الشرق مع بلومبرغ"
+          "date": "Tue, 02 Jun 2026 12:28:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHA0VEJYc09fUmxyR1pLZHgzbEl3a3ZLVVdzaE4xSXNfUmRtZWhDTUJibjVaSmRWSlZQUE44bmpQU0xNX0JZMGprZjFZNjFmOUVfSmI3ZlAzUXR6bWJpQ1Q0UExiNV8tbDROUkd",
+          "originalHeadline": "البحرين تمنع سفر مواطنيها إلى إيران والعراق بسبب الأوضاع الأمنية - الشرق للأخبار"
         }
       ],
       "secondary": [
+        {
+          "headline": "CAA issues heat advisory as temperatures soar across Oman",
+          "url": "https://timesofoman.com//article/172503-caa-issues-heat-advisory-as-temperatures-soar-across-oman",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 19:03:22 +0400",
+          "description": "MUSCAT: Oman continues to experience scorching summer conditions on Tuesday, with temperatures reaching 48°C in several parts of the Sultanate, according..."
+        },
+        {
+          "headline": "Omani delegation seeks ties in farm, industry sector during Belarus visit",
+          "url": "https://timesofoman.com//article/172502-omani-delegation-seeks-ties-in-farm-industry-sector-during-belarus-visit",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 18:14:42 +0400",
+          "description": "Minsk: A trade delegation from Oman Chamber of Commerce and Industry (OCCI), currently visiting the Republic of Belarus, paid a visit on Tuesday to the..."
+        },
         {
           "headline": "Oman, Libya sign MoU to enhance ties in oil and gas",
           "url": "https://timesofoman.com//article/172501-oman-libya-sign-mou-to-enhance-ties-in-oil-and-gas",
@@ -1540,26 +1560,6 @@
           "priority": "secondary",
           "date": "Tue, 02 Jun 2026 16:03:08 +0400",
           "description": "Sur: Oman India Fertiliser Company (OMIFCO) announced on Tuesday in a press conference at its headquarters in the Wilayat of Sur, South Al Sharqiyah..."
-        },
-        {
-          "headline": "Oman, Belarus discuss ways to boost industrial cooperation",
-          "url": "https://timesofoman.com//article/172493-oman-belarus-discuss-ways-to-boost-industrial-cooperation",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 15:41:23 +0400",
-          "description": "Minsk: The Sultanate of Oman and the Republic of Belarus on Tuesday discussed ways to enhance cooperation in the fields of industry and investment. A..."
-        },
-        {
-          "headline": "Royal Office Minister receives Algerian military official",
-          "url": "https://timesofoman.com//article/172492-royal-office-minister-receives-algerian-military-official",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 15:40:28 +0400",
-          "description": "Muscat: General Sultan Mohammed Al Nu'amani, Minister of the Royal Office and Head of the Office of the Supreme Commander, received at his office today..."
         }
       ],
       "tertiary": [],
@@ -1637,28 +1637,22 @@
       "language": "en",
       "tweets": [
         {
-          "text": "The Custodian of the Two Holy Mosques and His Highness the Crown Prince congratulate the President of the Italian Republic on the occasion of his country’s Republic Day.",
-          "timestamp": "2026-06-02T10:52:21.000Z",
-          "permalink": "https://x.com/KSAMOFA/status/2061762839870583009",
-          "originalText": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس الجمهورية الإيطالية بمناسبة ذكرى يوم الجمهورية لبلاده."
+          "text": "#statement | The Foreign Ministers of the Kingdom of Saudi Arabia, the Hashemite Kingdom of Jordan, the State of the United Arab Emirates, the State of Qatar, the Republic of Indonesia, the Islamic Republic of Pakistan, the Arab Republic of Egypt, and the Republic of Turkey condemn in the strongest terms the continued incursions of extremist settlers.",
+          "timestamp": "2026-06-02T15:01:00.000Z",
+          "permalink": "https://x.com/KSAMOFA/status/2061825417225343057",
+          "originalText": "#بيان | يدين وزراء خارجية كل من المملكة العربية السعودية، والمملكة الأردنية الهاشمية، ودولة الإمارات العربية المتحدة، ودولة قطر، وجمهورية إندونيسيا، وجمهورية باكستان الإسلامية، وجمهورية مصر العربية، والجمهورية التركية، بأشدّ العبارات استمرار اقتحامات المستوطنين المتطرفين"
         },
         {
-          "text": "#statement | The Ministry of Foreign Affairs expresses the Kingdom of Saudi Arabia’s condemnation of the Israeli aggression on the territory of the sisterly Lebanese Republic, and its categorical rejection of the Israeli incursion into the territory of Lebanon and the attack on its sovereignty.",
-          "timestamp": "2026-06-01T13:14:14.000Z",
-          "permalink": "https://x.com/KSAMOFA/status/2061436158052110822",
-          "originalText": "#بيان | تعرب وزارة الخارجية عن إدانة المملكة العربية السعودية للعدوان الإسرائيلي على أراضي الجمهورية اللبنانية الشقيقة، ورفضها القاطع للتوغل الإسرائيلي داخل أرض لبنان والاعتداء على سيادته."
+          "text": "His Highness the Minister of Foreign Affairs, Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n He receives a written message from His Excellency the Minister of Foreign Affairs of the Russian Federation, Mr. Sergei Lavrov, related to issues of common interest between the two countries.",
+          "timestamp": "2026-06-02T14:16:12.000Z",
+          "permalink": "https://x.com/KSAMOFA/status/2061814142424453590",
+          "originalText": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان \n@FaisalbinFarhan\n يتلقى رسالة خطية، من معالي وزير خارجية روسيا الاتحادية السيد سيرجي لافروف، تتصل بالموضوعات ذات الاهتمام المشترك بين البلدين."
         },
         {
-          "text": "#statement | The Ministry of Foreign Affairs expresses the Kingdom of Saudi Arabia’s condemnation and denunciation in the strongest terms of the sinful and repeated Iranian attacks on the sister State of Kuwait.",
-          "timestamp": "2026-06-01T09:42:03.000Z",
-          "permalink": "https://x.com/KSAMOFA/status/2061382762376953942",
-          "originalText": "#بيان | تعرب وزارة الخارجية عن إدانة المملكة العربية السعودية واستنكارها بأشد العبارات للهجمات الإيرانية الآثمة والمتكررة على دولة الكويت الشقيقة."
-        },
-        {
-          "text": "His Highness the Crown Prince received a phone call from the President of the French Republic, during which they reviewed the areas of joint cooperation between the two countries and ways to support and enhance them in a number of fields, and discussed developments in the situation in the region and the existing diplomatic efforts to enhance security and stability and what achieves the security and freedom of maritime navigation.",
-          "timestamp": "2026-05-31T18:41:05.000Z",
-          "permalink": "https://x.com/KSAMOFA/status/2061156024212414708",
-          "originalText": "سمو #ولي_العهد يتلقى اتصالًا هاتفيًا من رئيس الجمهورية الفرنسية، جرى خلاله استعراض مجالات التعاون المشترك بين البلدين وسبل دعمها وتعزيزها في عدد من المجالات، وبحث تطورات الأوضاع في المنطقة والجهود الدبلوماسية القائمة لتعزيز الأمن والاستقرار وما يحقق أمن وحرية الملاحة البحرية،"
+          "text": "#Riyadh | His Excellency the Undersecretary for Multiple International Affairs and the General Supervisor of the Ministry’s Agency for Economic and Development Affairs, Dr. #Abdulrahman_Al-Rassi, receives His Excellency the Ambassador of the Kyrgyz Republic to the Kingdom, Mr. Uluqbek Maribov, and they review issues of common interest.",
+          "timestamp": "2026-06-02T14:09:20.000Z",
+          "permalink": "https://x.com/KSAMOFA/status/2061812411997343997",
+          "originalText": "#الرياض | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يستقبل سعادة سفير الجمهورية القيرغيزية لدى المملكة السيد ألوقبيك ماريبوف، ويستعرضان الموضوعات ذات الاهتمام المشترك."
         }
       ]
     },
@@ -1865,6 +1859,18 @@
       "language": "en",
       "tweets": [
         {
+          "text": "The full story of the escape of 3 high-risk prisoners from the Central Prison in Kuwait",
+          "timestamp": "2026-06-02T14:56:36.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061824306250670504",
+          "originalText": "القصة الكاملة لهروب 3 سجناء شديدي الخطورة من السجن المركزي بالكويت"
+        },
+        {
+          "text": "Hidden in cardboard sheets..\n\n“Narcotics Control” seizes 845,087 amphetamine tablets in the Eastern Province",
+          "timestamp": "2026-06-02T14:06:31.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061811704313311290",
+          "originalText": "مخبأة في ألواح ورق مقوى ..\n\n\"مكافحة المخدرات\" تضبط 845,087 قرصا من مادة الإمفيتامين المخدر بالمنطقة الشرقية"
+        },
+        {
           "text": "Raising the nationalization rate to 70% in procurement professions in the private sector.\n\nDirector General of Localization of Business Sectors at the Ministry of Human Resources Eng. Ayman Shukr: Establishments that comply with the decision will be followed up automatically, and financial fines will be applied to violating establishments.",
           "timestamp": "2026-06-02T13:57:12.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2061809357646405970",
@@ -1881,18 +1887,6 @@
           "timestamp": "2026-06-02T13:32:52.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2061803234314883570",
           "originalText": "مراسل الإخبارية مهند الراوي: \n\nبعد تأجيل استمر 3 أشهر.. محكمة التاج البريطانية ستعقد غدا جلسة النطق في قضية مقتل الطالب السعودي محمد القاسم فيما سينظر في المرافعات الأخيرة وإمكانية تخفيف أو تشديد عقوبة الجاني"
-        },
-        {
-          "text": "The case of the murder of the Saudi student Muhammad Al-Qasim.. \n\nA day separates us from the sentencing hearing",
-          "timestamp": "2026-06-02T13:21:00.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061800250965168249",
-          "originalText": "قضية مقتل الطالب السعودي محمد القاسم.. \n\nيوم يفصلنا عن جلسة النطق في الحكم"
-        },
-        {
-          "text": "News correspondent Yasser Al-Jarhadi: New Arar port provides integrated services and comprehensive medical care for departing pilgrims",
-          "timestamp": "2026-06-02T12:52:00.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061792951043322132",
-          "originalText": "مراسل الإخبارية ياسر الجرهدي: منفذ جديدة عرعر يقدم خدمات متكاملة ورعاية طبية شاملة للحجاج المغادرين"
         }
       ]
     },
@@ -1905,6 +1899,12 @@
       "priority": "secondary",
       "language": "en",
       "tweets": [
+        {
+          "text": "(845,087) amphetamine tablets hidden inside cardboard sheets were seized in the Eastern Region.\n\n#War_on_drugs",
+          "timestamp": "2026-06-02T14:00:01.000Z",
+          "permalink": "https://x.com/MOISaudiArabia/status/2061810067176120630",
+          "originalText": "ضبط (845,087) قرصًا من مادة الإمفيتامين المخدر مخبأة داخل ألواح ورق مقوى في المنطقة الشرقية.\n\n#الحرب_على_المخدرات"
+        },
         {
           "text": "Failure to implement storage conditions and requirements is a violation that requires punishment. \n\n#Safety_violation \n#Civil_Defense",
           "timestamp": "2026-06-01T16:00:08.000Z",
@@ -1976,34 +1976,34 @@
       "language": "ar",
       "tweets": [
         {
-          "text": "The weaver bird in Asir... geometric precision and amazing behavior during the breeding season.\n\nhttp://\nspa.gov.sa/ar/w2604999\n#SPA",
-          "timestamp": "2026-06-02T12:11:54.000Z",
-          "permalink": "https://x.com/SPAqualitylife/status/2061782860445397434",
-          "originalText": "طائر الحبّاك في عسير... دقة هندسية وسلوك مدهش في موسم التكاثر.\n\nhttp://\nspa.gov.sa/ar/w2604999\n#واس"
+          "text": "The foreign ministers of the Kingdom and a number of Arab and Islamic countries condemn the continued incursions of Israeli extremist settlers into the Blessed Al-Aqsa Mosque/the Holy Mosque under the protection of Israeli forces, as well as the raising of the Israeli flag inside its courtyards. \n\nhttps://\nspa.gov.sa/N2605213\n#SPA",
+          "timestamp": "2026-06-02T15:00:09.000Z",
+          "permalink": "https://x.com/SPAregions/status/2061825199192883505",
+          "originalText": "وزراء خارجية المملكة وعدد من الدول العربية والإسلامية يدينون استمرار اقتحامات المستوطنين المتطرفين الإسرائيليين للمسجد الأقصى المبارك/ الحرم القدسي الشريف تحت حماية القوات الإسرائيلية، وكذلك رفع العلم الإسرائيلي داخل باحاته. \n\nhttps://\nspa.gov.sa/N2605213\n#واس"
         },
         {
-          "text": "The Emir of Riyadh and his deputy receive the director of education in the region.\n\nhttps://\nspa.gov.sa/N2605032\n#SPA",
-          "timestamp": "2026-06-02T14:00:00.000Z",
-          "permalink": "https://x.com/SPAregions/status/2061810063602266556",
-          "originalText": "أمير الرياض ونائبه يستقبلان مدير التعليم بالمنطقة.\n\nhttps://\nspa.gov.sa/N2605032\n#واس"
+          "text": "The Governor of Taif receives Eid al-Adha well-wishers from the governorate’s employees and its affiliated centers.\n\nhttps://\nspa.gov.sa/N2605074\n#SPA",
+          "timestamp": "2026-06-02T14:45:50.000Z",
+          "permalink": "https://x.com/SPAregions/status/2061821599234338908",
+          "originalText": "محافظ الطائف يستقبل المهنئين بعيد الأضحى من منسوبي المحافظة والمراكز التابعة لها.\n\nhttps://\nspa.gov.sa/N2605074\n#واس"
         },
         {
-          "text": "The Emir of Riyadh and his deputy receive the Director General of the Ministry of Health branch in the region.\n\nhttp://\nspa.gov.sa/ar/w2605034\n#SPA",
-          "timestamp": "2026-06-02T13:59:14.000Z",
-          "permalink": "https://x.com/SPAregions/status/2061809870722986261",
-          "originalText": "أمير الرياض ونائبه يستقبلان مدير عام فرع وزارة الصحة بالمنطقة.\n\nhttp://\nspa.gov.sa/ar/w2605034\n#واس"
+          "text": "The Emir of the Northern Border Region and his deputy receive the emirate’s employees congratulating Eid al-Adha.\n\nhttps://\nspa.gov.sa/N2605028\n#SPA",
+          "timestamp": "2026-06-02T14:44:15.000Z",
+          "permalink": "https://x.com/SPAregions/status/2061821200024641579",
+          "originalText": "أمير منطقة الحدود الشمالية ونائبه يستقبلان منسوبي الإمارة المُهنئين بعيد الأضحى.\n\nhttps://\nspa.gov.sa/N2605028\n#واس"
         },
         {
-          "text": "Stock market.\n\n#SPA",
-          "timestamp": "2026-06-02T13:52:27.000Z",
-          "permalink": "https://x.com/SPAeconomic/status/2061808163158950217",
-          "originalText": "سوق الأسهم.\n\n#واس"
+          "text": "King Khalid Airport Passports completes departure procedures for the guests of God.\n\nhttps://\nspa.gov.sa/N2605172\n#Sass_Haj47",
+          "timestamp": "2026-06-02T14:41:13.000Z",
+          "permalink": "https://x.com/SPAregions/status/2061820437936414808",
+          "originalText": "جوازات مطار الملك خالد تنهي إجراءات مغادرة ضيوف الرحمن.\n\nhttps://\nspa.gov.sa/N2605172\n#واس_حج47"
         },
         {
-          "text": "The Emir of the Riyadh Region and his deputy receive the President of the Execution Court and the President of the General Court in Riyadh.\n\nhttp://\nspa.gov.sa/ar/w2605026\n#SPA",
-          "timestamp": "2026-06-02T13:57:39.000Z",
-          "permalink": "https://x.com/SPAregions/status/2061809471366529036",
-          "originalText": "أمير منطقة الرياض ونائبه يستقبلان رئيس محكمة التنفيذ ورئيس المحكمة العامة بالرياض.\n\nhttp://\nspa.gov.sa/ar/w2605026\n#واس"
+          "text": "Rare archaeological reproductions in the Kingdom evoke the depth of history in the “Kuala Lumpur 2026 Book”.\n\nhttps://\nspa.gov.sa/N2605107\n#SPA",
+          "timestamp": "2026-06-02T14:26:01.000Z",
+          "permalink": "https://x.com/SPAqualitylife/status/2061816611904872543",
+          "originalText": "المستنسخات الأثرية النادرة في المملكة تستحضر عمق التاريخ في \"كتاب كوالالمبور 2026\".\n\nhttps://\nspa.gov.sa/N2605107\n#واس"
         }
       ]
     },
@@ -2341,6 +2341,11 @@
       "language": "en",
       "tweets": [
         {
+          "text": "The Knowledge Fund Establishment (KFE): Dubai Islamic Bank (DIB) commits AED 11 million to support the \"Dubai Schools\" project for the third consecutive year, reflecting a shared commitment to advancing national priorities and strategic initiatives with long-term social impact.",
+          "timestamp": "2026-06-02T14:24:56.000Z",
+          "permalink": "https://x.com/DXBMediaOffice/status/2061816339342512260"
+        },
+        {
           "text": "The Knowledge Fund Foundation in Dubai announces the renewal of its partnership with “Dubai Islamic” through a financial contribution of 11 million dirhams to the “Dubai Schools” project for the 2026/2027 academic year for the third year in a row, which reflects the joint commitment to supporting national and strategic initiatives that have a sustainable societal impact.",
           "timestamp": "2026-06-02T14:02:28.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2061810685798191403",
@@ -2361,11 +2366,6 @@
           "text": "Hamdan bin Mohammed visits Dubai Department of Economy and Tourism, where he was briefed on the department’s plans to further accelerate the pace of economic growth in the emirate. His Highness directed officials to continue to take steps to reinforce the emirate’s economic",
           "timestamp": "2026-06-02T12:26:51.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2061786620588872112"
-        },
-        {
-          "text": "Hamdan bin Mohammed: We remain committed to supporting the economy and tourism sector through practical measures, enhanced facilitation, and innovative solutions that strengthen Dubai’s future readiness and ability to adapt to change. We are confident in the capabilities of",
-          "timestamp": "2026-06-02T12:28:14.000Z",
-          "permalink": "https://x.com/DXBMediaOffice/status/2061786970884546609"
         }
       ]
     },
@@ -2415,31 +2415,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": "In the episode of #Sawalif_Al-Ouleen, learn about the jalbut, the story of this traditional boat, and its role in shaping an important aspect of the history of society and its deep-rooted relationship with the sea.\n\nTo watch the full episode, visit: \nhttps://\nyoutu.be/Oxm0coY19KQ?si\n=YIpzKkTjVdQ8Y_Ld\n…",
-          "timestamp": "2026-06-02T12:18:39.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061784560325804074",
-          "originalText": "في حلقة #سوالف_الأوليين، تعرفوا على الجالبوت وقصة هذا المركب التقليدي ودوره في تشكيل جانب مهم من تاريخ المجتمع وعلاقته المتجذّرة بالبحر.\n\nلمشاهدة الحلقة الكاملة، زوروا: \nhttps://\nyoutu.be/Oxm0coY19KQ?si\n=YIpzKkTjVdQ8Y_Ld\n…"
+          "text": "Khalifa bin Tahnoun bin Muhammad offers his condolences on the death of the late Saeed Suhail Al Mansouri, expressing his sincere condolences and sympathies to the family of the deceased, praying to the Almighty God to place him in spacious gardens, and to inspire his family and loved ones with patience and solace.",
+          "timestamp": "2026-06-02T14:45:49.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061821594402775172",
+          "originalText": "خليفة بن طحنون بن محمد يُقدِّم واجب العزاء في وفاة المغفور له سعيد سهيل المنصوري، معرباً عن صادق تعازيه ومواساته لأسرة الفقيد، داعياً المولى عزَّ وجلَّ أن يُسكنه فسيح جناته، وأن يُلهم أهله وذويه الصبر والسلوان."
         },
         {
-          "text": "In this Tales From The Past episode about the jalboot, learn the story of this traditional vessel, its role in shaping an important aspect of the community’s history, and its deep-rooted connection to the sea.\n\nTo watch the full episode, visit:",
-          "timestamp": "2026-06-02T12:18:41.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061784564922745175"
+          "text": "Khalifa bin Tahnoon bin Mohammed has offered condolences on the passing of Saeed Suhail Al Mansouri, extending deepest sympathies to the family for their loss, and wishing them courage and solace.",
+          "timestamp": "2026-06-02T14:45:50.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061821599096168875"
         },
         {
-          "text": ".\n@abudhabi_gaming\n has partnered with \n@aspireuae\n to advance AI-driven game development, aligning Abu Dhabi’s gaming ecosystem with advanced research capabilities, focusing on pioneering gamification projects, and enabling the sector to create new opportunities for innovation.",
-          "timestamp": "2026-06-02T09:01:13.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061734870783873287"
+          "text": "Khalifa bin Tahnoon bin Mohammed has offered condolences on the passing of Saeed Suhail Al Mansouri, at the mourning majlis at Majlis Al Rawdah in Al Ain Region.",
+          "timestamp": "2026-06-02T14:40:30.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061820257480941826"
         },
         {
           "text": "Read more:",
-          "timestamp": "2026-06-02T09:01:14.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061734875745710314"
+          "timestamp": "2026-06-02T14:40:32.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061820262736437474"
         },
         {
-          "text": "Abu Dhabi Games and Electronic Sports cooperates with Aspire, with the aim of supporting the development of electronic games supported by artificial intelligence, which contributes to enhancing integration between the gaming system in Abu Dhabi and research capabilities, with a focus on pioneering projects in the field of game development and providing new innovation opportunities in the sector.",
-          "timestamp": "2026-06-02T09:00:26.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061734674553246155",
-          "originalText": "\"أبوظبي للألعاب والرياضات الإلكترونية\" تتعاون مع \"أسباير\"، بهدف دعم تطوير الألعاب الإلكترونية المدعومة بالذكاء الاصطناعي، ما يسهم في تعزيز التكامل بين منظومة الألعاب في أبوظبي والقدرات البحثية، مع التركيز على مشاريع رائدة في مجال تطوير الألعاب وتوفير فرص ابتكار جديدة في القطاع."
+          "text": "Khalifa bin Tahnoun bin Mohammed offers his condolences on the death of the late Saeed Suhail Al Mansouri, during his visit to the condolence council in Al Rawda Council in the Al Ain region.",
+          "timestamp": "2026-06-02T14:40:05.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061820150643573244",
+          "originalText": "خليفة بن طحنون بن محمد يُقدِّم واجب العزاء في وفاة المغفور له سعيد سهيل المنصوري، خلال زيارته مجلس العزاء في مجلس الروضة في منطقة العين."
         }
       ]
     },
@@ -2553,29 +2553,29 @@
       "language": "en",
       "tweets": [
         {
-          "text": "#QNA_Infographic \nDepartment of Meteorology Warns of Strong Wind, High Sea Offshore Tonight #QNA #Qatar\n\nhttps://\nbit.ly/43HY0mh",
-          "timestamp": "2026-06-02T14:03:40.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061810988442153247"
+          "text": "Minister of State for Foreign Trade Affairs Meets #Pakistani Commerce Minister #QNA #Economy #Qatar\n\nhttps://\nbit.ly/4dVXEgz",
+          "timestamp": "2026-06-02T15:01:23.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061825511286796478"
         },
         {
-          "text": "Oil Inventories Could Reach Critical Levels Ahead of Peak Summer Demand, Says IEA\n#QNA \n\nhttps://\now.ly/XX5W50Z6GKx",
-          "timestamp": "2026-06-02T14:02:17.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061810639283114174"
+          "text": "Deputy Prime Minister and Minister of State for Defense Affairs Meets Indonesian Minister of Defense\n#QNA #Qatar #Indonesia\n\nhttps://\now.ly/PzEk50Z6InF",
+          "timestamp": "2026-06-02T14:46:31.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061821769028166132"
         },
         {
-          "text": "#Lekhwiya Signs Cooperation Framework to Host and Organize 2026 Search and Rescue Exercise\n#QNA\n\nhttps://\now.ly/T3xJ50Z6FlT",
-          "timestamp": "2026-06-02T13:31:02.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061802774346485860"
+          "text": "Palestinian Cabinet Urges World to Pressure Israel into Halting Settlement Construction Plans\n#QNA #Palestine\n\nhttps://\now.ly/Klxm50Z6I51",
+          "timestamp": "2026-06-02T14:37:14.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061819433526378633"
         },
         {
-          "text": "HE Prime Minister and Minister of Foreign Affairs Meets IAEA Director General\n#QNA #Qatar\n\nhttps://\now.ly/4xh750Z6Fh6",
-          "timestamp": "2026-06-02T13:28:38.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061802171058749814"
+          "text": "Saudi Stock Market Index Closes Higher\n#QNA #Economy\n\nhttps://\now.ly/ci9y50Z6Hi9",
+          "timestamp": "2026-06-02T14:15:50.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061814049680052717"
         },
         {
-          "text": "Muscat Stock Exchange Closes Lower\n#QNA #Economy\n\nhttps://\now.ly/uzox50Z6Eyo",
-          "timestamp": "2026-06-02T13:10:55.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061797713646096480"
+          "text": "#Sidra Medicine, #Zulal Wellness Resort Sign MoU to Elevate Wellness Programs #QNA \n\nhttps://\nbit.ly/4wZfrfL",
+          "timestamp": "2026-06-02T14:09:41.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061812499565969535"
         }
       ]
     },
@@ -2794,6 +2794,11 @@
       "language": "en",
       "tweets": [
         {
+          "text": "#Kuwait's Minister of Foreign Affairs held a phone call with Deputy Prime Minister & Foreign Minister of #Pakistan Mohammad Ishaq Dar, discussing regional developments.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306200\n…\n\n#KUNA",
+          "timestamp": "2026-06-02T14:21:34.000Z",
+          "permalink": "https://x.com/kuna_en/status/2061815491002261828"
+        },
+        {
           "text": "#UN Resident Coordinator in #Kuwait, Ghada Al-Taher congratulates His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah on the second anniversary in office.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306179\n…\n\n#KUNA",
           "timestamp": "2026-06-02T13:07:54.000Z",
           "permalink": "https://x.com/kuna_en/status/2061796953009053850"
@@ -2807,16 +2812,6 @@
           "text": "Acting Director General of #Kuwait News Agency Mohammad Al-Mannai congratulates His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah on the second anniversary in office.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306166\n…\n\n#KUNA",
           "timestamp": "2026-06-02T11:00:57.000Z",
           "permalink": "https://x.com/kuna_en/status/2061765004999668099"
-        },
-        {
-          "text": "#Oman & #Libya sign Memorandum of Understanding for joint oil & gas exploration activities\n\n \nhttp://\now.ly/gYqz30sWc3v\n\n#KUNA",
-          "timestamp": "2026-06-02T10:43:36.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061760637970080143"
-        },
-        {
-          "text": "Minister of the Amiri Diwan & Head of the Diwan of His Highness the Crown Prince receive #Australian Ambassador to #Kuwait Melissa Kelly on occasion of ending her tenure.\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3306161\n…\n\n#KUNA #Kuwait",
-          "timestamp": "2026-06-02T10:28:47.000Z",
-          "permalink": "https://x.com/kuna_en/status/2061756909007343977"
         }
       ]
     },
