@@ -1,55 +1,57 @@
-**Top News:**
-Iran's military escalation is dominating Gulf headlines today, with multiple missile and drone attacks targeting US forces in Kuwait as tensions reach new heights. According to [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d), the US bombed Iranian military sites before Tehran fired missiles at American troops stationed in Kuwait. [BBC News reports](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss) that Iran struck 20 US military sites since the conflict began. Kuwait's air defenses intercepted incoming Iranian missiles and drones targeting the emirate, with officials strongly condemning the attacks.
+## Gulf News Briefing - June 2, 2026
 
-The regional conflict continues expanding as Trump announced that [Israel and Hezbollah](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33) have agreed to dial back fighting. Meanwhile, OPEC+ is likely to [raise July oil](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) output targets despite the Strait of Hormuz disruption, according to Reuters sources.
+Regional tensions have escalated dramatically as the [US strikes Iranian](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) military sites following Iran's missile attacks on American forces in Kuwait, according to AP News. The [BBC reports](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss) that Iran targeted US troops stationed in Kuwait, prompting [sirens to sound](https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5) over Kuwait City. Meanwhile, President Trump announced that Lebanon's Hezbollah and Israel have agreed to [dial back fighting](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33), offering a potential de-escalation on one front as wider regional conflict threatens.
 
-**Energy & Economy**
-• OPEC+ expected to increase July oil output target despite ongoing Strait of Hormuz disruptions, with [sources telling Reuters](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) the group remains confident in production capabilities
-• Saudi Aramco [raised LPG prices](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/) by up to 3% for June while Algeria's Sonatrach cut prices by 18-31%, per Reuters
-• UAE economy projected for 6.2% growth with GDP rising to 1.9 trillion dirhams in 2025, according to [UAE media reports](https://twitter.com/UAEmediaoffice)
-• Airlines rerouting over Syrian airspace due to Iran conflict provides [windfall revenue](https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/) for Damascus, Reuters reports exclusively
+The strikes mark a significant escalation in the growing confrontation between Washington and Tehran, with Iranian attacks [damaging 20 US](https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss) military sites since the start of the current conflict, per BBC satellite analysis. Saudi Arabia's Foreign Ministry [strongly condemned](https://twitter.com/KSAMOFA) Iran's "sinful and repeated attacks on the sister State of Kuwait," while Foreign Minister Prince Faisal bin Farhan praised President Trump's decision to "give diplomacy a chance" to restore freedom of navigation in the Strait of Hormuz.
 
-**Country Watch**
+## Energy & Economy
+
+- Saudi Aramco [raised LPG prices](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/) by up to 3% for June, according to Reuters, while Algerian Sonatrach cut prices by 18% and 31%
+- OPEC+ is [likely to raise](https://www.reuters.com/business/energy/opec-likely-raise-july-oil-output-target-despite-hormuz-disruption-sources-say-2026-06-01/) July oil production targets despite Strait of Hormuz disruptions, sources tell Reuters
+- [Oil jumped more](https://ow.ly/qjOG50Z6tag) than 4% following the regional escalation, Qatar News Agency reports
+- [Gold in Saudi](https://www.youm7.com/story/2026/6/2/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%8A%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1%D9%87-%D9%85%D8%B9-%D8%AA%D8%B1%D9%82%D8%A8-%D9%85%D8%AD%D9%81%D8%B2%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/7434879) Arabia remains stable while awaiting new market stimuli, per Youm7
+
+## Country Watch
 
 **Saudi Arabia**
-• The [Saudi Foreign Ministry](https://twitter.com/KSAMOFA) condemned Israel's incursion into Lebanon and called for its immediate halt, while also denouncing Iranian attacks on Kuwait
-• Crown Prince Mohammed bin Salman received a phone call from French President Macron to discuss bilateral cooperation and regional developments, per [Saudi Press Agency](https://twitter.com/spagov)
-• Prince Khalid bin Salman conveyed condolences to the family of former Yemeni President Abd Rabbuh Mansour Hadi following [his death](https://twitter.com/kbsalsaud)
-• King Salman issued a royal order promoting 327 Public Prosecution members at various judicial ranks, according to [SPA reports](https://twitter.com/spagov)
+- Crown Prince Mohammed bin Salman received a phone call from French President Macron to discuss bilateral cooperation and regional diplomatic efforts, the [Saudi MFA announced](https://twitter.com/spagov)
+- Prince Khalid bin Salman [conveyed condolences](https://twitter.com/kbsalsaud) to the family of former Yemeni President Abd Rabbuh Mansour Hadi following his death
+- The kingdom's ambassador to Yemen Mohammed AlJabir will [visit Sanaa](https://twitter.com/mohdsalj) with an Omani delegation to consolidate ceasefire efforts and discuss prisoner exchanges
 
 **UAE**
-• UAE President Sheikh Mohamed bin Zayed launched [Naseej textile recycling initiative](https://twitter.com/UAEmediaoffice) to transition the sector toward circular economic system
-• MGX and strategic partners announced expansion of Campus AI project in France, aiming to develop up to 3GW of computing capacity, per [Abu Dhabi Media Office](https://twitter.com/ADMediaOffice)
-• Sheikh Mohammed bin Rashid issued law on Community Development Authority in Dubai, [Dubai Media Office reports](https://twitter.com/DXBMediaOffice)
+- MGX and partners announced [expansion of Campus](https://twitter.com/ADMediaOffice) AI in France, aiming to develop up to 3GW of computing capacity through a second site
+- Sheikh Mohammed bin Rashid launched the [first batch](https://twitter.com/HHShkMohd) of AI assistants in procurement, taxes, customer happiness, and technical support
+- Dubai's transport authority recorded [8.2 million riders](https://twitter.com/DXBMediaOffice) across public transport during the Eid Al-Adha holiday period
 
 **Qatar**
-• Prime Minister Mohammed bin Abdulrahman Al Thani was [newly appointed](https://twitter.com/MBA_AlThani_) by Emir Sheikh Tamim, expressing gratitude for the trust placed in him
-• Eight players excluded from Qatar's final squad for the 2026 World Cup, according to [CNN Arabic](https://arabic.cnn.com/sport/article/2026/06/02/qatar-national-team-world-cup)
+- Prime Minister Mohammed bin Abdulrahman Al Thani was [appointed by](https://twitter.com/MBA_AlThani_) Emir Sheikh Tamim, expressing gratitude for the trust placed in him
+- Qatar [discussed with Iran](https://www.aljazeera.net/amp/news/2026/6/2/%D9%82%D8%B7%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9) Pakistani mediation efforts regarding Lebanon developments, Al Jazeera reports
+- [Oil jumped more](https://ow.ly/qjOG50Z6tag) than 4% while [US stocks closed](https://ow.ly/Lwt250Z6sZH) higher, per QNA
 
 **Bahrain / Kuwait / Oman**
-• Bahrain condemned Iranian attacks on Kuwait, with [multiple statements](https://twitter.com/bahdiplomatic) from the Foreign Ministry
-• Oman issued two royal decrees: one promulgating cybercrime law and another amending cultural heritage provisions, [ONA reports](https://twitter.com/ONA_eng)
-• Omani Foreign Minister Badr Albusaidi held discussions with Iran's Deputy FM, reaffirming importance of [diplomatic engagement](https://twitter.com/badralbusaidi)
+- Bahrain [condemned Iran's targeting](https://bit.ly/4dXrPUQ) of Kuwait with missile attacks and hostile drones, according to the Foreign Ministry
+- Kuwaiti ministers [congratulated Crown Prince](https://twitter.com/kuna_en) Sheikh Mishal on his second anniversary in office
+- Two royal decrees were issued in Oman: one [promulgating cybercrime law](https://twitter.com/ONA_eng), another amending cultural heritage provisions
 
 **Yemen**
-• Saudi Ambassador Mohammed AlJabir announced plans to visit Sanaa with an Omani delegation to [consolidate the truce](https://twitter.com/mohdsalj) and support prisoner exchanges (IRG)
-• Presidential Leadership Council condemned UAE airstrikes on National Army forces in Aden and Abyan, according to [Saba News Agency](https://twitter.com/sabanew_) (IRG)
-• Houthis announced opening of the Marib-Sanaa Al-Fardha road, with Mohammed Ali Al Houthi calling for [continued dismantling](https://twitter.com/Moh_Alhouthi) of other crossings (Ansar Allah)
+- The IRG government [condemned UAE airstrikes](https://sabanew.net) on National Army forces in Aden and Abyan, calling them interference
+- Ahmed Hamid Lamlas was [appointed as governor](https://sabanew.net) of Aden Governorate by the IRG
+- Houthi leader Mohammed Abdulsalam outlined a [three-point agreement](https://twitter.com/abdusalamsalah) including banking decisions cancellation and Yemenia Airways flights resumption
 
-**Official Signals**
-• Foreign Minister Prince Faisal bin Farhan appreciated [Trump's decision](https://twitter.com/FaisalbinFarhan) to give diplomacy a chance to reach an agreement ending the war and restoring Strait of Hormuz security
-• UAE's Anwar Gargash criticized Turkish Defense Minister's statement as representing "new downfall" for Turkey's diplomacy, saying relations [cannot be managed](https://twitter.com/AnwarGargash) by threats and intimidation
+## Official Signals
 
-**Coverage Flags**
-International outlets appear ahead on Iran-Kuwait military escalation details, particularly satellite damage assessments and operational specifics that local Gulf press has not yet matched in depth.
+- Saudi Foreign Minister Prince Faisal bin Farhan [praised Trump's decision](https://twitter.com/FaisalbinFarhan) to give diplomacy a chance to reach an agreement ending the war and restoring Strait of Hormuz navigation freedom
+- Anwar Gargash criticized Turkey's defense minister for "provocative statements," saying there is "no place for colonial illusions in this time" and calling for Turkey to [stop interference](https://twitter.com/AnwarGargash) in Arab affairs
 
-**Sources**
-• [Reuters Gulf](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/)
-• [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
-• [BBC Middle East](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss)
-• [Times of Oman](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security)
-• [Saudi MFA Twitter](https://twitter.com/KSAMOFA)
-• [Prince Khalid bin Salman Twitter](https://twitter.com/kbsalsaud)
-• [UAE Media Office Twitter](https://twitter.com/UAEmediaoffice)
-• [Qatar PM Twitter](https://twitter.com/MBA_AlThani_)
-• [Bahrain MFA Twitter](https://twitter.com/bahdiplomatic)
+## Coverage Flags
+
+International outlets are leading on Iran-US confrontation details, particularly BBC and AP's comprehensive coverage of the Kuwait strikes and regional escalation. Arabic outlets focus more heavily on official condemnations and diplomatic responses, creating a coverage gap on tactical military developments that merits NYT attention.
+
+## Sources
+
+- [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
+- [BBC Middle East](https://www.bbc.com/news/articles/crlpy8n7pr6o)
+- [Reuters Gulf](https://www.reuters.com/business/energy/saudi-aramco-raises-lpg-osps-by-up-3-june-sonatrach-cuts-prices-by-18-31-2026-06-01/)
+- [Saudi MFA](https://twitter.com/KSAMOFA)
+- [Times of Oman](https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security)
+- [Al Jazeera Arabic](https://www.aljazeera.net/amp/news/2026/6/2/%D9%82%D8%B7%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A5
