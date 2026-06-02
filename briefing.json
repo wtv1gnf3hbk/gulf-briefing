@@ -4,28 +4,18 @@
     "owner": "Gulf Bureau Correspondent",
     "timezone": "Asia/Dubai",
     "description": "Daily news briefing covering all 6 GCC states + Yemen for an NYT correspondent",
-    "generated": "2026-06-02T07:08:37.740Z",
-    "generatedTimestamp": 1780384117740
+    "generated": "2026-06-02T06:11:47.670Z",
+    "generatedTimestamp": 1780380707670
   },
   "stats": {
     "sourceCount": 77,
     "successCount": 76,
     "totalStories": 50,
     "totalScreenshots": 66,
-    "elapsed": "447.3s"
+    "elapsed": "439.8s"
   },
   "stories": {
     "all": [
-      {
-        "headline": "OQ expands international footprint with Libyan energy pact",
-        "url": "https://timesofoman.com//article/172479-oq-expands-international-footprint-with-libyan-energy-pact",
-        "source": "Times of Oman",
-        "sourceId": "times_of_oman",
-        "category": "oman",
-        "priority": "secondary",
-        "date": "Tue, 02 Jun 2026 10:36:53 +0400",
-        "description": "Muscat: OQ Exploration and Production Company has signed a Memorandum of Understanding (MoU) with the Libyan Investment Authority (LIA) in Tripoli, the..."
-      },
       {
         "headline": "Travel and tourism firm in Muscat fined over OMR5,000 for breach of contract",
         "url": "https://timesofoman.com//article/172478-travel-and-tourism-firm-in-muscat-fined-over-omr5000-for-breach-of-contract",
@@ -117,6 +107,16 @@
         "description": "Tehran: Iranian Parliament Speaker Mohammad Bagher Ghalibaf has communicated to his Lebanese counterpart, Nabih Berri, that any prospective accord aimed at..."
       },
       {
+        "headline": "CBSE launches class 12 verification and re-evaluation portal after technical delay",
+        "url": "https://timesofoman.com//article/172469-cbse-launches-class-12-verification-and-re-evaluation-portal-after-technical-delay",
+        "source": "Times of Oman",
+        "sourceId": "times_of_oman",
+        "category": "oman",
+        "priority": "secondary",
+        "date": "Tue, 02 Jun 2026 07:58:51 +0400",
+        "description": "New Delhi: The Central Board of Secondary Education (CBSE) on Tuesday announced that its much-awaited verification and re-evaluation portal for Class 12..."
+      },
+      {
         "headline": "Journey to Mecca: Millions gather for annual hajj pilgrimage - Reuters",
         "url": "https://www.reuters.com/pictures/journey-mecca-scenes-annual-hajj-pilgrimage-2026-06-01/",
         "source": "Reuters Gulf",
@@ -145,16 +145,6 @@
         "priority": "primary",
         "date": "Mon, 01 Jun 2026 10:27:43 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGwyaG1UZzhrRDVMSklPdEQwUXA4MGZXc2c3a1pVVktwb0RONUw4NGxQUXFrUzZ6MjlYQXRaX0lxNHVycjgwaEhQU3RlajRLenJURzBQMHc3NVF0SEJsYlNZTWYwUFFUeGI4Q2l"
-      },
-      {
-        "headline": "Major investment pledges at Choose France summit - Reuters",
-        "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-        "source": "Reuters Gulf",
-        "sourceId": "reuters_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
       },
       {
         "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
@@ -207,14 +197,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGNFYlV4aUZzN0hCeVkzclRycFVZWk1LN29LZUJTNHBoNEpCRFZLRjM2UmFSQXltMFQxY1pnM1E4cUx5bDRCaDFoZ2sySWU5NUx2dDI1M2wtRVVKSW9GMHNLQlplVUZUMFUxMHR"
       },
       {
-        "headline": "(8012.SE) | Stock Price &amp; Latest News - Reuters",
-        "url": "https://www.reuters.com/markets/companies/8012.SE/charts/",
+        "headline": "7030.SE - | Stock Price &amp; Latest News - Reuters",
+        "url": "https://www.reuters.com/markets/companies/7030.SE/key-metrics/margins/",
         "source": "Reuters Gulf",
         "sourceId": "reuters_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Mon, 01 Jun 2026 13:14:44 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUhtbjUwX255ZXR2UllvbE5WZGxnVkFRNmRRTU9xZmV1a1FoUE9JQnZKbm1mcGtvVVdMcmlrSHdEeTRMR3dVSE1vZ0RuUE0zMXpUSVVuZ0Fic2RNY2FvUDEyVjVQMlNT?oc=5\" "
+        "date": "Mon, 01 Jun 2026 11:18:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44cDFpTDQ0dWVPSzBmLXVKTGRpN09kQS1rZFBPZE10c2x0aE5JaHc5LUpnZ01tN0V0U0RqZVdQanlGT2NzMVBOM0p2X0FvWTdUcTAwdVdhR25KWXFHemtSVXJrT3FhOGtfblE4LTU"
+      },
+      {
+        "headline": "4263.SE - | Stock Price &amp; Latest News - Reuters",
+        "url": "https://www.reuters.com/markets/companies/4263.SE/key-metrics/growth/",
+        "source": "Reuters Gulf",
+        "sourceId": "reuters_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 06:05:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TNWk0NUs2dG84cHJScG1BWU1yV0IyeEFLN1dYT3NkZHpuWVZ4WWF6VGpabXBJcHF2bXotX2xzRGs3aE5ET2UwTGdHNlJlcXJWLUp4bm9Bd1V1eEpFRkNRbkRqVG1LSnlvMlowR1h"
       },
       {
         "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -248,7 +248,7 @@
       },
       {
         "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
-        "url": "https://apnews.com/video/sirens-sound-over-kuwait-city-following-us-attacks-on-iranian-military-sites-0d738a219ea2491c927236206f86e381",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -258,7 +258,7 @@
       },
       {
         "headline": "War and unrest - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+        "url": "https://apnews.com/hub/war-and-unrest",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -278,37 +278,27 @@
       },
       {
         "headline": "US &amp; International Top News Stories Today - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5",
+        "url": "https://apnews.com/hub/apf-topnews?output=amp&p=5",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Mon, 01 Jun 2026 18:46:51 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5\" target=\"_bla"
+        "date": "Mon, 01 Jun 2026 23:57:51 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNi1NRFVJY19DaE14Y3ZVcWNRZjA1LVFnYnJ6bmZ3RC1aZUlscENmTnpnOExWT3B3WlhFemduV1ZLVUlaYkVBV2dWUVF2cEdjLXotMlRVSHNiLWpyOGc?oc=5\" target=\"_blan"
       },
       {
-        "headline": "Hezbollah - AP News",
-        "url": "https://apnews.com/hub/hezbollah",
+        "headline": "Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire. - AP News",
+        "url": "https://apnews.com/article/stock-markets-iran-nvidia-energy-oil-ba4257d9938ef6aea558db3010b4a53f",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 00:49:07 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
-      },
-      {
-        "headline": "Paris - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
-        "source": "AP Gulf",
-        "sourceId": "ap_gulf",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 20:10:11 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5\" target=\"_blank\"&gt;Paris&lt;/a&gt;&amp;nbsp;&amp;n"
+        "date": "Tue, 02 Jun 2026 03:38:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUgtMzUtb3E5V2g5QnZDcktfa0lLV0VuNXduUlVmRXhwWEd0T3ZsS0Z4NkJCb2Z2amFtV0I2RUxTSjJia0RSRVhwdmY3WUhEWi1VN29JMGtvb2xzVzBxMWpOdU54Tk5LTlNyYzE"
       },
       {
         "headline": "Pete Hegseth - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
+        "url": "https://apnews.com/hub/pete-hegseth",
         "source": "AP Gulf",
         "sourceId": "ap_gulf",
         "category": "wire",
@@ -317,24 +307,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5\" target=\"_blank\"&gt;Pete Hegseth&lt;/a&"
       },
       {
-        "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+        "headline": "Beijing - AP News",
+        "url": "https://apnews.com/hub/beijing",
+        "source": "AP Gulf",
+        "sourceId": "ap_gulf",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 10:58:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
+      },
+      {
+        "headline": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
         "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Middle East",
         "sourceId": "bbc_middleeast",
         "category": "competitors",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 06:04:55 GMT",
-        "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran."
-      },
-      {
-        "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
-        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Middle East",
-        "sourceId": "bbc_middleeast",
-        "category": "competitors",
-        "priority": "primary",
-        "date": "Mon, 01 Jun 2026 21:50:52 GMT",
-        "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor."
+        "date": "Mon, 01 Jun 2026 23:50:03 GMT",
+        "description": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon."
       },
       {
         "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -417,26 +407,25 @@
         "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership."
       },
       {
-        "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
-        "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
+        "headline": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
+        "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Middle East",
+        "sourceId": "bbc_middleeast",
+        "category": "competitors",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
-        "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+        "date": "Thu, 28 May 2026 19:21:20 GMT",
+        "description": "Former truck driver Jonathan Loadholt pleaded guilty to money laundering and stalking in the plot targeting activist Masih Alinejad."
       },
       {
-        "headline": "Qatar discusses with Iran Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY1TnctVGFGM2hRemY4cllOTERHWFplZ1MwWDh5M0NtOVhxd2x6cTBCT3o1YUcxcGo5UnVZUTludHZqUTdIR054bjlRQzUxZktURnNjdVUyYnlKMFppRU56cTlhcDFUZkYxVHhjYXJzYWNETVVTWXRiSlFqMW1KbVZqZE5yUGZzckJQNThTQUVBcHliWFBoRWNJTm9qMGlBTC1RNm0wQ2pvUG5reE9DLWZ2d18tdDc3WjJyd2LSAaYCQVVfeXFMUG9hLU56MUJZN1cwOFluWV9fQ3RFdndhY2ljcEM4VkNpd3lOZmhMV3JMdmNwa0JlY2UtamlrRjJsb0xLSFRUYUpQTVFzeG82ZUdXajAxb1FRck9OUlpaZ01KOHp5VlpLX2FtRW5iX3Y1TlNwMlU5SFJ3eFZYRDJPdm9GcXFJVGg4cWN1bW0ybkZaV2J3WVZoWkJrVFE1WThoRGhwUlVua2ZMSk5xMGE1VFlZdXlsNUlhQ2ZUT3Fqc0ItTnlmMmxWS2FlX09hOTBTZ1hHWElFSHJWNl9IcXprdVNPMGZ5UUYzMXAwcTJQbV9pcVptZUN0TVlVVTFWRjNkMVVvejdabi1zc3JvRzZCVHlTbkV3Vjg4YlZoZWttRzVFeXVBV2F3?oc=5",
+        "headline": "Qatar discusses with Iran the Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
+        "url": "https://www.aljazeera.net/news/2026/6/2/%D9%82%D8%B7%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
         "date": "Mon, 01 Jun 2026 23:40:14 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY",
-        "originalHeadline": "قطر تبحث مع إيران جهود الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
+        "originalHeadline": "قطر تبحث مع إيران جه��د الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
       },
       {
         "headline": "A source reveals to CNN about Qatar's \"efforts\" with the Trump administration to prevent Israel's attack on Beirut - CNN Arabic",
@@ -450,28 +439,6 @@
         "originalHeadline": "مصدر يكشف لـCNN عن \"جهود\" قطر مع إدارة ترامب لمنع هجوم إسرائيل على بيروت - CNN Arabic"
       },
       {
-        "headline": "Activating the electronic link between the Amman Stock Exchange and the Abu Dhabi Securities Market via the exchange platform - CNBC Arabia",
-        "url": "https://www.cnbcarabia.com/152855/2026/02/06/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 06:16:12 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAVBVV95cUxQTzNBUjluZmFEbks0QVFTQ2psU0N4aW1nZlFVSVd6bEliLUZyQ2lDeVl3RW1NMDA3UWlRdVRFcFM1YnNQejFITllaWXRjcy1maklPazdEbWpFYko1aERrNk1Cei1uMGppbUpNTFB",
-        "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي للأوراق المالية عبر منصة تبادل - CNBC عربية"
-      },
-      {
-        "headline": "“Technology Patterns” wins a contract from “Saudi Energy” worth 314.5 million riyals - Al Arabiya",
-        "url": "https://www.alarabiya.net/aswaq/companies/2026/06/02/%D8%A7%D9%86%D9%85%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%B9%D9%82%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D9%803145-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B1%D9%8A%D8%A7%D9%84",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 06:15:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxPUFFtY1VHd21pcF9SdE9lTWVMdUREOFVmelU3ZnAxSDFGTXNsWVIwcjRMaEJEY2p5ZEpKeUxVLUhCeWlkYUZQcFdfQlF4VzU4dzBWNm1MODBuM0djSGY0SGV5a2E4Y29neFBjNzl",
-        "originalHeadline": "\"أنماط التقنية\" تفوز بعقد من \"السعودية للطاقة\" بـ314.5 مليون ريال - العربية"
-      },
-      {
         "headline": "Gold prices in Qatar are moving within a narrow range amid anticipation of the direction of global markets - Youm7",
         "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%B7%D8%A7%D9%82-%D8%B6%D9%8A%D9%82-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B1%D9%82%D8%A8/7434878",
         "source": "Google News Gulf (Arabic)",
@@ -483,18 +450,7 @@
         "originalHeadline": "أسعار الذهب في قطر تتحرك داخل نطاق ضيق وسط ترقب اتجاه الأسواق العالمية - اليوم السابع"
       },
       {
-        "headline": "The UAE condemns the storming of Al-Aqsa Mosque and the raising of the Israeli flag - Sky News Arabia",
-        "url": "https://amp.skynewsarabia.com/middle-east/1872369-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%88%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
-        "source": "Google News Gulf (Arabic)",
-        "sourceId": "google_news_gulf_arabic",
-        "category": "arabic_aggregate",
-        "priority": "primary",
-        "date": "Tue, 02 Jun 2026 05:48:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZVZMTHlWVW5mN05RSmdCS1RMMkJBS0JOblNMV3k5S3VLenFESVZya0JQYTR3a0JhVW5ZT2Njc2NvdUVTZTRVbGJKVkFUOFNaaVZjd0g4a2VPa1VKSUdQUnZXdFhVekF3UHRzVDd",
-        "originalHeadline": "الإمارات تدين اقتحام المسجد الأقصى ورفع العلم الإسرائيلي - سكاي نيوز عربية"
-      },
-      {
-        "headline": "Infographic: The UAE’s foreign reserves declined by 8.5% in the first month of the Iran war - Al-Sharq Economy with Bloomberg",
+        "headline": "Infographic: The UAE’s foreign reserves decline by 8.5% in the first month of the Iran war - Eastern Economy with Bloomberg",
         "url": "https://asharqbusiness.com/economics/134819/%D8%A5%D9%86%D9%81%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9/",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
@@ -502,18 +458,18 @@
         "priority": "primary",
         "date": "Tue, 02 Jun 2026 04:31:29 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNy03SVpEeW9NTjVxUmZlamwxZVl6SGdjWDdwd3dMekNzTllPcDR2eWlYVEFxUkEtV0tKbloxd2RXa2NOQW9fWkZQZU1LOFgzOXF4NEVXSWNnRHhFaEVIMVBwVFJXT0V2b0JTVkZ",
-        "originalHeadline": "إنفوغراف: احتياطي الإمارات الأج��بي يتراجع 8.5% في أول شهر من حرب إيران - اقتصاد الشرق مع بلومبرغ"
+        "originalHeadline": "إنفوغراف: احتياطي الإمارات الأجنبي يتراجع 8.5% في أول شهر من حرب إيران - ��قتصاد الشرق مع بلومبرغ"
       },
       {
-        "headline": "Gold prices rise in the UAE today, Tuesday... and 21 karat records 467.41 dirhams - Mubasher Info",
-        "url": "https://www.mubasher.info/news/4620683/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A%D8%A7%D8%B1-21-%D9%8A%D8%B3%D8%AC%D9%84-467-41-%D8%AF%D8%B1%D9%87%D9%85/",
+        "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+        "url": "https://validate.perfdrive.com/?ssa=4c9c2aae-0426-42c2-a687-fee6dff0021f&ssb=84009293228&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Faldhahira%2F1872485-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25AA%25D9%2586%25D8%25AF%25D8%25AF-%25D8%25A8%25D8%25A7%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D8%25A7%25D9%2581%25D9%2587%25D8%25A7-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA&ssi=c119ebb8-cf43-48e5-a214-95a087f3da3d&ssk=botmanager_support@radware.com&ssm=09421371882207130106240422790908&ssn=e881026139d3ef14324fb8bed503212cc70edede2ab9-3980-4dba-bd7e1f&sso=fcd1c527-a3d02394f38593b32afa757f87347810a79ad81461836f47&ssp=57609335461780331354178030851878143&ssq=83327188070448310482280704634344502839060&ssr=NzQuMjM1LjEyMy4z&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBkZWRlMmFiOS0zOTgwLTRkYmEtYjUyNy1hM2QwMjM5NGYzODUxLTE3ODAzODA3MDQyNzgwLTAwM2ZkYjQyNzU1MTBlMjczMTYxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMTk1YjY1YWQtZGQ4OC00NzFmLWExNDUtOWNjNDZmZWVlMTU3MS0xNzgwMzgwNzA0Mjc4MC1hYzFiY2Y1MDY2ZTllNGZkMTAifQ==",
         "source": "Google News Gulf (Arabic)",
         "sourceId": "google_news_gulf_arabic",
         "category": "arabic_aggregate",
         "priority": "primary",
-        "date": "Tue, 02 Jun 2026 06:34:02 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxNaWx6MWtkS3NvNllPdVc1X1Focms0STBNbTRKTjV6cUxGNi1WWm1BUlgxOEF6VjlpQUZpanlyYkpPXzA1VTJiSXc1OC0xQ1BlUXM4eFFuQUlTcDdJYUN1b0ZWTjVpNk95b2dvUW5",
-        "originalHeadline": "أسعار الذهب ترتفع في الإمارات اليوم الثلاثاء.. وعيار 21 يسجل 467.41 درهم - معلومات مباشر"
+        "date": "Mon, 01 Jun 2026 23:53:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZ",
+        "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
       },
       {
         "headline": "Yemeni cultural heritage between civil conflicts and Israeli attacks - Al-Sharq News",
@@ -525,20 +481,54 @@
         "date": "Tue, 02 Jun 2026 05:41:18 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxOenFwcjFWdjJINmVjYVBMVzNoT0FxbVY1TThzbXI3X0hUSHRDRUhxOVU3VVBYLUJXUGxmWWJVMURXOTlpMzVNZkR1eEZBeUVxMk5iZzFncWFLc0JUaExxZFM5cm13QWRfeVJSdE5",
         "originalHeadline": "التراث الثقافي اليمني بين النزاعات الأهلية واعتداءات إسرائيل - الشرق للأخبار"
+      },
+      {
+        "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
+        "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
+        "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+      },
+      {
+        "headline": "Gold prices rise 1.21% in Kuwait - Mubasher Info",
+        "url": "https://www.mubasher.info/news/4620616/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-1-21-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 05:25:59 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQUUlHOHFiYVk1TGJReDY2Y1RSR0J6MVJKYll4dVdTbFFDZGlmUzR0ak1ZVlhaLXNtWGZnZnlqR2VPYTNzNFRiNE5fSTROd196LW9LbFVZcGlqUnh4XzJ5VVhSYWgyRGluSjFoTjg",
+        "originalHeadline": "أسعار الذهب ترتفع 1.21% في الكويت - معلومات مباشر"
+      },
+      {
+        "headline": "Learn about the most prominent matches of the “U-17 World Cup Qatar 2026” and their dates Arab TV - Arab TV",
+        "url": "https://www.alaraby.com/news/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A5%D9%84%D9%89-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AD%D8%AA-17-%D8%B3%D9%86%D8%A9-%D9%82%D8%B7%D8%B1-2026-%D9%88%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF%D9%87%D8%A7",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Mon, 01 Jun 2026 22:04:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgNBVV95cUxQaTV1MjVaZ24xdC1KOWhLTHpJMHB1Y05PcEg4dVh6ZmtnTW5MSEppMWVrbjhLcE82SmFXT1RfRkRQWjFJVUVoM3VkcVR1RWpGbkthWjVlOE1DYkdCRWFXVTg4YWpQQUFieDZma2Z",
+        "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
+      },
+      {
+        "headline": "The Prime Minister of Qatar and the Iranian Foreign Minister discuss by telephone mediation efforts between Washington and Tehran - Youm7",
+        "url": "https://www.youm7.com/story/2026/6/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9/7435138",
+        "source": "Google News Gulf (Arabic)",
+        "sourceId": "google_news_gulf_arabic",
+        "category": "arabic_aggregate",
+        "priority": "primary",
+        "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxNMWlSRFE1am9Hb3RZUk1BOHhBV1lBWFFQbHUxUURkaUVyUFA3djk3aWl4V3FIOGFWNlExUlcyUmMxRnZURUREZ2xQcHhtMXdteGFrWGtGTjUyei0xOU1uVy13THRaWGpzNTdLcXl",
+        "originalHeadline": "رئيس وزراء قطر ووزير خارجية إيران يبحثان هاتفيا جهود الوساطة بين واشنطن وطهران - اليوم السابع"
       }
     ],
     "byCategory": {
       "oman": [
-        {
-          "headline": "OQ expands international footprint with Libyan energy pact",
-          "url": "https://timesofoman.com//article/172479-oq-expands-international-footprint-with-libyan-energy-pact",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 10:36:53 +0400",
-          "description": "Muscat: OQ Exploration and Production Company has signed a Memorandum of Understanding (MoU) with the Libyan Investment Authority (LIA) in Tripoli, the..."
-        },
         {
           "headline": "Travel and tourism firm in Muscat fined over OMR5,000 for breach of contract",
           "url": "https://timesofoman.com//article/172478-travel-and-tourism-firm-in-muscat-fined-over-omr5000-for-breach-of-contract",
@@ -628,6 +618,16 @@
           "priority": "secondary",
           "date": "Tue, 02 Jun 2026 08:05:48 +0400",
           "description": "Tehran: Iranian Parliament Speaker Mohammad Bagher Ghalibaf has communicated to his Lebanese counterpart, Nabih Berri, that any prospective accord aimed at..."
+        },
+        {
+          "headline": "CBSE launches class 12 verification and re-evaluation portal after technical delay",
+          "url": "https://timesofoman.com//article/172469-cbse-launches-class-12-verification-and-re-evaluation-portal-after-technical-delay",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 07:58:51 +0400",
+          "description": "New Delhi: The Central Board of Secondary Education (CBSE) on Tuesday announced that its much-awaited verification and re-evaluation portal for Class 12..."
         }
       ],
       "wire": [
@@ -660,16 +660,6 @@
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 10:27:43 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGwyaG1UZzhrRDVMSklPdEQwUXA4MGZXc2c3a1pVVktwb0RONUw4NGxQUXFrUzZ6MjlYQXRaX0lxNHVycjgwaEhQU3RlajRLenJURzBQMHc3NVF0SEJsYlNZTWYwUFFUeGI4Q2l"
-        },
-        {
-          "headline": "Major investment pledges at Choose France summit - Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
         },
         {
           "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
@@ -722,14 +712,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGNFYlV4aUZzN0hCeVkzclRycFVZWk1LN29LZUJTNHBoNEpCRFZLRjM2UmFSQXltMFQxY1pnM1E4cUx5bDRCaDFoZ2sySWU5NUx2dDI1M2wtRVVKSW9GMHNLQlplVUZUMFUxMHR"
         },
         {
-          "headline": "(8012.SE) | Stock Price &amp; Latest News - Reuters",
-          "url": "https://www.reuters.com/markets/companies/8012.SE/charts/",
+          "headline": "7030.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/7030.SE/key-metrics/margins/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 13:14:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUhtbjUwX255ZXR2UllvbE5WZGxnVkFRNmRRTU9xZmV1a1FoUE9JQnZKbm1mcGtvVVdMcmlrSHdEeTRMR3dVSE1vZ0RuUE0zMXpUSVVuZ0Fic2RNY2FvUDEyVjVQMlNT?oc=5\" "
+          "date": "Mon, 01 Jun 2026 11:18:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44cDFpTDQ0dWVPSzBmLXVKTGRpN09kQS1rZFBPZE10c2x0aE5JaHc5LUpnZ01tN0V0U0RqZVdQanlGT2NzMVBOM0p2X0FvWTdUcTAwdVdhR25KWXFHemtSVXJrT3FhOGtfblE4LTU"
+        },
+        {
+          "headline": "4263.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/4263.SE/key-metrics/growth/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 06:05:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TNWk0NUs2dG84cHJScG1BWU1yV0IyeEFLN1dYT3NkZHpuWVZ4WWF6VGpabXBJcHF2bXotX2xzRGs3aE5ET2UwTGdHNlJlcXJWLUp4bm9Bd1V1eEpFRkNRbkRqVG1LSnlvMlowR1h"
         },
         {
           "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -763,7 +763,7 @@
         },
         {
           "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
-          "url": "https://apnews.com/video/sirens-sound-over-kuwait-city-following-us-attacks-on-iranian-military-sites-0d738a219ea2491c927236206f86e381",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -773,7 +773,7 @@
         },
         {
           "headline": "War and unrest - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+          "url": "https://apnews.com/hub/war-and-unrest",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -793,65 +793,55 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5",
+          "url": "https://apnews.com/hub/apf-topnews?output=amp&p=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 18:46:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5\" target=\"_bla"
+          "date": "Mon, 01 Jun 2026 23:57:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNi1NRFVJY19DaE14Y3ZVcWNRZjA1LVFnYnJ6bmZ3RC1aZUlscENmTnpnOExWT3B3WlhFemduV1ZLVUlaYkVBV2dWUVF2cEdjLXotMlRVSHNiLWpyOGc?oc=5\" target=\"_blan"
         },
         {
-          "headline": "Hezbollah - AP News",
-          "url": "https://apnews.com/hub/hezbollah",
+          "headline": "Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire. - AP News",
+          "url": "https://apnews.com/article/stock-markets-iran-nvidia-energy-oil-ba4257d9938ef6aea558db3010b4a53f",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 00:49:07 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
-        },
-        {
-          "headline": "Paris - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 20:10:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5\" target=\"_blank\"&gt;Paris&lt;/a&gt;&amp;nbsp;&amp;n"
+          "date": "Tue, 02 Jun 2026 03:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUgtMzUtb3E5V2g5QnZDcktfa0lLV0VuNXduUlVmRXhwWEd0T3ZsS0Z4NkJCb2Z2amFtV0I2RUxTSjJia0RSRVhwdmY3WUhEWi1VN29JMGtvb2xzVzBxMWpOdU54Tk5LTlNyYzE"
         },
         {
           "headline": "Pete Hegseth - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
+          "url": "https://apnews.com/hub/pete-hegseth",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 12:26:04 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5\" target=\"_blank\"&gt;Pete Hegseth&lt;/a&"
+        },
+        {
+          "headline": "Beijing - AP News",
+          "url": "https://apnews.com/hub/beijing",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 10:58:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
         }
       ],
       "competitors": [
         {
-          "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+          "headline": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
           "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Middle East",
           "sourceId": "bbc_middleeast",
           "category": "competitors",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:04:55 GMT",
-          "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran."
-        },
-        {
-          "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
-          "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Middle East",
-          "sourceId": "bbc_middleeast",
-          "category": "competitors",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 21:50:52 GMT",
-          "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor."
+          "date": "Mon, 01 Jun 2026 23:50:03 GMT",
+          "description": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon."
         },
         {
           "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -932,30 +922,29 @@
           "priority": "primary",
           "date": "Fri, 29 May 2026 09:17:35 GMT",
           "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership."
+        },
+        {
+          "headline": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
+          "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Middle East",
+          "sourceId": "bbc_middleeast",
+          "category": "competitors",
+          "priority": "primary",
+          "date": "Thu, 28 May 2026 19:21:20 GMT",
+          "description": "Former truck driver Jonathan Loadholt pleaded guilty to money laundering and stalking in the plot targeting activist Masih Alinejad."
         }
       ],
       "arabic_aggregate": [
         {
-          "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
-          "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
-          "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
-        },
-        {
-          "headline": "Qatar discusses with Iran Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY1TnctVGFGM2hRemY4cllOTERHWFplZ1MwWDh5M0NtOVhxd2x6cTBCT3o1YUcxcGo5UnVZUTludHZqUTdIR054bjlRQzUxZktURnNjdVUyYnlKMFppRU56cTlhcDFUZkYxVHhjYXJzYWNETVVTWXRiSlFqMW1KbVZqZE5yUGZzckJQNThTQUVBcHliWFBoRWNJTm9qMGlBTC1RNm0wQ2pvUG5reE9DLWZ2d18tdDc3WjJyd2LSAaYCQVVfeXFMUG9hLU56MUJZN1cwOFluWV9fQ3RFdndhY2ljcEM4VkNpd3lOZmhMV3JMdmNwa0JlY2UtamlrRjJsb0xLSFRUYUpQTVFzeG82ZUdXajAxb1FRck9OUlpaZ01KOHp5VlpLX2FtRW5iX3Y1TlNwMlU5SFJ3eFZYRDJPdm9GcXFJVGg4cWN1bW0ybkZaV2J3WVZoWkJrVFE1WThoRGhwUlVua2ZMSk5xMGE1VFlZdXlsNUlhQ2ZUT3Fqc0ItTnlmMmxWS2FlX09hOTBTZ1hHWElFSHJWNl9IcXprdVNPMGZ5UUYzMXAwcTJQbV9pcVptZUN0TVlVVTFWRjNkMVVvejdabi1zc3JvRzZCVHlTbkV3Vjg4YlZoZWttRzVFeXVBV2F3?oc=5",
+          "headline": "Qatar discusses with Iran the Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/6/2/%D9%82%D8%B7%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 23:40:14 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY",
-          "originalHeadline": "قطر تبحث مع إيران جهود الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
+          "originalHeadline": "قطر تبحث مع إيران جه��د الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
         },
         {
           "headline": "A source reveals to CNN about Qatar's \"efforts\" with the Trump administration to prevent Israel's attack on Beirut - CNN Arabic",
@@ -969,28 +958,6 @@
           "originalHeadline": "مصدر يكشف لـCNN عن \"جهود\" قطر مع إدارة ترامب لمنع هجوم إسرائيل على بيروت - CNN Arabic"
         },
         {
-          "headline": "Activating the electronic link between the Amman Stock Exchange and the Abu Dhabi Securities Market via the exchange platform - CNBC Arabia",
-          "url": "https://www.cnbcarabia.com/152855/2026/02/06/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:16:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAVBVV95cUxQTzNBUjluZmFEbks0QVFTQ2psU0N4aW1nZlFVSVd6bEliLUZyQ2lDeVl3RW1NMDA3UWlRdVRFcFM1YnNQejFITllaWXRjcy1maklPazdEbWpFYko1aERrNk1Cei1uMGppbUpNTFB",
-          "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي للأوراق المالية عبر منصة تبادل - CNBC عربية"
-        },
-        {
-          "headline": "“Technology Patterns” wins a contract from “Saudi Energy” worth 314.5 million riyals - Al Arabiya",
-          "url": "https://www.alarabiya.net/aswaq/companies/2026/06/02/%D8%A7%D9%86%D9%85%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%B9%D9%82%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D9%803145-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B1%D9%8A%D8%A7%D9%84",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:15:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxPUFFtY1VHd21pcF9SdE9lTWVMdUREOFVmelU3ZnAxSDFGTXNsWVIwcjRMaEJEY2p5ZEpKeUxVLUhCeWlkYUZQcFdfQlF4VzU4dzBWNm1MODBuM0djSGY0SGV5a2E4Y29neFBjNzl",
-          "originalHeadline": "\"أنماط التقنية\" تفوز بعقد من \"السعودية للطاقة\" بـ314.5 مليون ريال - العربية"
-        },
-        {
           "headline": "Gold prices in Qatar are moving within a narrow range amid anticipation of the direction of global markets - Youm7",
           "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%B7%D8%A7%D9%82-%D8%B6%D9%8A%D9%82-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B1%D9%82%D8%A8/7434878",
           "source": "Google News Gulf (Arabic)",
@@ -1002,18 +969,7 @@
           "originalHeadline": "أسعار الذهب في قطر تتحرك داخل نطاق ضيق وسط ترقب اتجاه الأسواق العالمية - اليوم السابع"
         },
         {
-          "headline": "The UAE condemns the storming of Al-Aqsa Mosque and the raising of the Israeli flag - Sky News Arabia",
-          "url": "https://amp.skynewsarabia.com/middle-east/1872369-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%88%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 05:48:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZVZMTHlWVW5mN05RSmdCS1RMMkJBS0JOblNMV3k5S3VLenFESVZya0JQYTR3a0JhVW5ZT2Njc2NvdUVTZTRVbGJKVkFUOFNaaVZjd0g4a2VPa1VKSUdQUnZXdFhVekF3UHRzVDd",
-          "originalHeadline": "الإمارات تدين اقتحام المسجد الأقصى ورفع العلم الإسرائيلي - سكاي نيوز عربية"
-        },
-        {
-          "headline": "Infographic: The UAE’s foreign reserves declined by 8.5% in the first month of the Iran war - Al-Sharq Economy with Bloomberg",
+          "headline": "Infographic: The UAE’s foreign reserves decline by 8.5% in the first month of the Iran war - Eastern Economy with Bloomberg",
           "url": "https://asharqbusiness.com/economics/134819/%D8%A5%D9%86%D9%81%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1021,18 +977,18 @@
           "priority": "primary",
           "date": "Tue, 02 Jun 2026 04:31:29 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNy03SVpEeW9NTjVxUmZlamwxZVl6SGdjWDdwd3dMekNzTllPcDR2eWlYVEFxUkEtV0tKbloxd2RXa2NOQW9fWkZQZU1LOFgzOXF4NEVXSWNnRHhFaEVIMVBwVFJXT0V2b0JTVkZ",
-          "originalHeadline": "إنفوغراف: احتياطي الإمارات الأج��بي يتراجع 8.5% في أول شهر من حرب إيران - اقتصاد الشرق مع بلومبرغ"
+          "originalHeadline": "إنفوغراف: احتياطي الإمارات الأجنبي يتراجع 8.5% في أول شهر من حرب إيران - ��قتصاد الشرق مع بلومبرغ"
         },
         {
-          "headline": "Gold prices rise in the UAE today, Tuesday... and 21 karat records 467.41 dirhams - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4620683/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A%D8%A7%D8%B1-21-%D9%8A%D8%B3%D8%AC%D9%84-467-41-%D8%AF%D8%B1%D9%87%D9%85/",
+          "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+          "url": "https://validate.perfdrive.com/?ssa=4c9c2aae-0426-42c2-a687-fee6dff0021f&ssb=84009293228&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Faldhahira%2F1872485-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25AA%25D9%2586%25D8%25AF%25D8%25AF-%25D8%25A8%25D8%25A7%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D8%25A7%25D9%2581%25D9%2587%25D8%25A7-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA&ssi=c119ebb8-cf43-48e5-a214-95a087f3da3d&ssk=botmanager_support@radware.com&ssm=09421371882207130106240422790908&ssn=e881026139d3ef14324fb8bed503212cc70edede2ab9-3980-4dba-bd7e1f&sso=fcd1c527-a3d02394f38593b32afa757f87347810a79ad81461836f47&ssp=57609335461780331354178030851878143&ssq=83327188070448310482280704634344502839060&ssr=NzQuMjM1LjEyMy4z&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBkZWRlMmFiOS0zOTgwLTRkYmEtYjUyNy1hM2QwMjM5NGYzODUxLTE3ODAzODA3MDQyNzgwLTAwM2ZkYjQyNzU1MTBlMjczMTYxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMTk1YjY1YWQtZGQ4OC00NzFmLWExNDUtOWNjNDZmZWVlMTU3MS0xNzgwMzgwNzA0Mjc4MC1hYzFiY2Y1MDY2ZTllNGZkMTAifQ==",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:34:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxNaWx6MWtkS3NvNllPdVc1X1Focms0STBNbTRKTjV6cUxGNi1WWm1BUlgxOEF6VjlpQUZpanlyYkpPXzA1VTJiSXc1OC0xQ1BlUXM4eFFuQUlTcDdJYUN1b0ZWTjVpNk95b2dvUW5",
-          "originalHeadline": "أسعار الذهب ترتفع في الإمارات اليوم الثلاثاء.. وعيار 21 يسجل 467.41 درهم - معلومات مباشر"
+          "date": "Mon, 01 Jun 2026 23:53:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZ",
+          "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
         },
         {
           "headline": "Yemeni cultural heritage between civil conflicts and Israeli attacks - Al-Sharq News",
@@ -1044,6 +1000,50 @@
           "date": "Tue, 02 Jun 2026 05:41:18 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxOenFwcjFWdjJINmVjYVBMVzNoT0FxbVY1TThzbXI3X0hUSHRDRUhxOVU3VVBYLUJXUGxmWWJVMURXOTlpMzVNZkR1eEZBeUVxMk5iZzFncWFLc0JUaExxZFM5cm13QWRfeVJSdE5",
           "originalHeadline": "التراث الثقافي اليمني بين النزاعات الأهلية واعتداءات إسرائيل - الشرق للأخبار"
+        },
+        {
+          "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
+          "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
+          "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+        },
+        {
+          "headline": "Gold prices rise 1.21% in Kuwait - Mubasher Info",
+          "url": "https://www.mubasher.info/news/4620616/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-1-21-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 05:25:59 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQUUlHOHFiYVk1TGJReDY2Y1RSR0J6MVJKYll4dVdTbFFDZGlmUzR0ak1ZVlhaLXNtWGZnZnlqR2VPYTNzNFRiNE5fSTROd196LW9LbFVZcGlqUnh4XzJ5VVhSYWgyRGluSjFoTjg",
+          "originalHeadline": "أسعار الذهب ترتفع 1.21% في الكويت - معلومات مباشر"
+        },
+        {
+          "headline": "Learn about the most prominent matches of the “U-17 World Cup Qatar 2026” and their dates Arab TV - Arab TV",
+          "url": "https://www.alaraby.com/news/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A5%D9%84%D9%89-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AD%D8%AA-17-%D8%B3%D9%86%D8%A9-%D9%82%D8%B7%D8%B1-2026-%D9%88%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF%D9%87%D8%A7",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 22:04:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgNBVV95cUxQaTV1MjVaZ24xdC1KOWhLTHpJMHB1Y05PcEg4dVh6ZmtnTW5MSEppMWVrbjhLcE82SmFXT1RfRkRQWjFJVUVoM3VkcVR1RWpGbkthWjVlOE1DYkdCRWFXVTg4YWpQQUFieDZma2Z",
+          "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
+        },
+        {
+          "headline": "The Prime Minister of Qatar and the Iranian Foreign Minister discuss by telephone mediation efforts between Washington and Tehran - Youm7",
+          "url": "https://www.youm7.com/story/2026/6/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9/7435138",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxNMWlSRFE1am9Hb3RZUk1BOHhBV1lBWFFQbHUxUURkaUVyUFA3djk3aWl4V3FIOGFWNlExUlcyUmMxRnZURUREZ2xQcHhtMXdteGFrWGtGTjUyei0xOU1uVy13THRaWGpzNTdLcXl",
+          "originalHeadline": "رئيس وزراء قطر ووزير خارجية إيران يبحثان هاتفيا جهود الوساطة بين واشنطن وطهران - اليوم السابع"
         }
       ]
     },
@@ -1080,16 +1080,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGwyaG1UZzhrRDVMSklPdEQwUXA4MGZXc2c3a1pVVktwb0RONUw4NGxQUXFrUzZ6MjlYQXRaX0lxNHVycjgwaEhQU3RlajRLenJURzBQMHc3NVF0SEJsYlNZTWYwUFFUeGI4Q2l"
         },
         {
-          "headline": "Major investment pledges at Choose France summit - Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
-          "source": "Reuters Gulf",
-          "sourceId": "reuters_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 15:03:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTUtZUdqSXJnVzVKNV9yTUNmaUx4bVZzR3ItOUMySVNDMXNRRVZjWWpzSER0Y2tIMDE3V0haSlRWeWJfYnBZeHJzdUJuS0s5bjc5VUx2RmJ6dl9tcG9va1EyblRrWWQwVjhqMWR"
-        },
-        {
           "headline": "Exclusive: Iran war hands Syria windfall as airlines reroute over its airspace - Reuters",
           "url": "https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/",
           "source": "Reuters Gulf",
@@ -1140,14 +1130,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGNFYlV4aUZzN0hCeVkzclRycFVZWk1LN29LZUJTNHBoNEpCRFZLRjM2UmFSQXltMFQxY1pnM1E4cUx5bDRCaDFoZ2sySWU5NUx2dDI1M2wtRVVKSW9GMHNLQlplVUZUMFUxMHR"
         },
         {
-          "headline": "(8012.SE) | Stock Price &amp; Latest News - Reuters",
-          "url": "https://www.reuters.com/markets/companies/8012.SE/charts/",
+          "headline": "7030.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/7030.SE/key-metrics/margins/",
           "source": "Reuters Gulf",
           "sourceId": "reuters_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 13:14:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUhtbjUwX255ZXR2UllvbE5WZGxnVkFRNmRRTU9xZmV1a1FoUE9JQnZKbm1mcGtvVVdMcmlrSHdEeTRMR3dVSE1vZ0RuUE0zMXpUSVVuZ0Fic2RNY2FvUDEyVjVQMlNT?oc=5\" "
+          "date": "Mon, 01 Jun 2026 11:18:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44cDFpTDQ0dWVPSzBmLXVKTGRpN09kQS1rZFBPZE10c2x0aE5JaHc5LUpnZ01tN0V0U0RqZVdQanlGT2NzMVBOM0p2X0FvWTdUcTAwdVdhR25KWXFHemtSVXJrT3FhOGtfblE4LTU"
+        },
+        {
+          "headline": "4263.SE - | Stock Price &amp; Latest News - Reuters",
+          "url": "https://www.reuters.com/markets/companies/4263.SE/key-metrics/growth/",
+          "source": "Reuters Gulf",
+          "sourceId": "reuters_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 06:05:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TNWk0NUs2dG84cHJScG1BWU1yV0IyeEFLN1dYT3NkZHpuWVZ4WWF6VGpabXBJcHF2bXotX2xzRGs3aE5ET2UwTGdHNlJlcXJWLUp4bm9Bd1V1eEpFRkNRbkRqVG1LSnlvMlowR1h"
         },
         {
           "headline": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
@@ -1181,7 +1181,7 @@
         },
         {
           "headline": "Sirens sound over Kuwait City following US attacks on Iranian military sites - AP News",
-          "url": "https://apnews.com/video/sirens-sound-over-kuwait-city-following-us-attacks-on-iranian-military-sites-0d738a219ea2491c927236206f86e381",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVpqRGpDaEdNbHcxejc3bThDUHlfOVRUQ09VM2dHUDlTejM0eVFQTWJzMzdhNGRfQV9sQUJia1VvYXhGbWhlN2tuaVpVbmcxazlYci1PbTNTQ3BWZHhaVTAxMXlNWkVkT0tvZ2ZlcG9pRGp2Qm9GNUpRWHpfd3V3TGZ1Mkh0TmJGdDFQSThiNllNVzY2MDRUelczZFEzYmdCOUZXOHBNZFVRLUhmbjMwd3NxYW95akVGVG5sTUhWTV9FNnFBbVFUUWtwT2ZHLWM?oc=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1191,7 +1191,7 @@
         },
         {
           "headline": "War and unrest - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+          "url": "https://apnews.com/hub/war-and-unrest",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1211,37 +1211,27 @@
         },
         {
           "headline": "US &amp; International Top News Stories Today - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5",
+          "url": "https://apnews.com/hub/apf-topnews?output=amp&p=5",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 01 Jun 2026 18:46:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtZTlpbjBoUks0U2h3ZnBoQzY5Y2g0ak9uUnMtamUzMEZSaEFXd2dUVlA2T3REb3lDSWVPb0M0ZTc4ZzFzcGlRN2F3YUNOVDMwaVp3ZGd4VEYzSmd5OEJn?oc=5\" target=\"_bla"
+          "date": "Mon, 01 Jun 2026 23:57:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNi1NRFVJY19DaE14Y3ZVcWNRZjA1LVFnYnJ6bmZ3RC1aZUlscENmTnpnOExWT3B3WlhFemduV1ZLVUlaYkVBV2dWUVF2cEdjLXotMlRVSHNiLWpyOGc?oc=5\" target=\"_blan"
         },
         {
-          "headline": "Hezbollah - AP News",
-          "url": "https://apnews.com/hub/hezbollah",
+          "headline": "Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire. - AP News",
+          "url": "https://apnews.com/article/stock-markets-iran-nvidia-energy-oil-ba4257d9938ef6aea558db3010b4a53f",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 00:49:07 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5\" target=\"_blank\"&gt;Hezbollah&lt;/a&gt;&amp;n"
-        },
-        {
-          "headline": "Paris - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
-          "source": "AP Gulf",
-          "sourceId": "ap_gulf",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 20:10:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5\" target=\"_blank\"&gt;Paris&lt;/a&gt;&amp;nbsp;&amp;n"
+          "date": "Tue, 02 Jun 2026 03:38:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUgtMzUtb3E5V2g5QnZDcktfa0lLV0VuNXduUlVmRXhwWEd0T3ZsS0Z4NkJCb2Z2amFtV0I2RUxTSjJia0RSRVhwdmY3WUhEWi1VN29JMGtvb2xzVzBxMWpOdU54Tk5LTlNyYzE"
         },
         {
           "headline": "Pete Hegseth - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
+          "url": "https://apnews.com/hub/pete-hegseth",
           "source": "AP Gulf",
           "sourceId": "ap_gulf",
           "category": "wire",
@@ -1250,24 +1240,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5\" target=\"_blank\"&gt;Pete Hegseth&lt;/a&"
         },
         {
-          "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+          "headline": "Beijing - AP News",
+          "url": "https://apnews.com/hub/beijing",
+          "source": "AP Gulf",
+          "sourceId": "ap_gulf",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 10:58:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1wcnpTX1liaHBsY1lKS1N1UmtEelpRWHo4QnhEM0xyRnZ0UUtkVUZXY01qc01WQk1uRzBWRWI2dEZ3ZXd0?oc=5\" target=\"_blank\"&gt;Beijing&lt;/a&gt;&amp;nbsp;&a"
+        },
+        {
+          "headline": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
           "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Middle East",
           "sourceId": "bbc_middleeast",
           "category": "competitors",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:04:55 GMT",
-          "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran."
-        },
-        {
-          "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
-          "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Middle East",
-          "sourceId": "bbc_middleeast",
-          "category": "competitors",
-          "priority": "primary",
-          "date": "Mon, 01 Jun 2026 21:50:52 GMT",
-          "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor."
+          "date": "Mon, 01 Jun 2026 23:50:03 GMT",
+          "description": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon."
         },
         {
           "headline": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
@@ -1350,26 +1340,25 @@
           "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership."
         },
         {
-          "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
-          "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
+          "headline": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York",
+          "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Middle East",
+          "sourceId": "bbc_middleeast",
+          "category": "competitors",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
-          "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+          "date": "Thu, 28 May 2026 19:21:20 GMT",
+          "description": "Former truck driver Jonathan Loadholt pleaded guilty to money laundering and stalking in the plot targeting activist Masih Alinejad."
         },
         {
-          "headline": "Qatar discusses with Iran Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY1TnctVGFGM2hRemY4cllOTERHWFplZ1MwWDh5M0NtOVhxd2x6cTBCT3o1YUcxcGo5UnVZUTludHZqUTdIR054bjlRQzUxZktURnNjdVUyYnlKMFppRU56cTlhcDFUZkYxVHhjYXJzYWNETVVTWXRiSlFqMW1KbVZqZE5yUGZzckJQNThTQUVBcHliWFBoRWNJTm9qMGlBTC1RNm0wQ2pvUG5reE9DLWZ2d18tdDc3WjJyd2LSAaYCQVVfeXFMUG9hLU56MUJZN1cwOFluWV9fQ3RFdndhY2ljcEM4VkNpd3lOZmhMV3JMdmNwa0JlY2UtamlrRjJsb0xLSFRUYUpQTVFzeG82ZUdXajAxb1FRck9OUlpaZ01KOHp5VlpLX2FtRW5iX3Y1TlNwMlU5SFJ3eFZYRDJPdm9GcXFJVGg4cWN1bW0ybkZaV2J3WVZoWkJrVFE1WThoRGhwUlVua2ZMSk5xMGE1VFlZdXlsNUlhQ2ZUT3Fqc0ItTnlmMmxWS2FlX09hOTBTZ1hHWElFSHJWNl9IcXprdVNPMGZ5UUYzMXAwcTJQbV9pcVptZUN0TVlVVTFWRjNkMVVvejdabi1zc3JvRzZCVHlTbkV3Vjg4YlZoZWttRzVFeXVBV2F3?oc=5",
+          "headline": "Qatar discusses with Iran the Pakistani mediation efforts and developments in the situation in Lebanon - Al Jazeera Net",
+          "url": "https://www.aljazeera.net/news/2026/6/2/%D9%82%D8%B7%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
           "date": "Mon, 01 Jun 2026 23:40:14 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOemw1WDduenBHV2QwZTczT2VnVEtVd1lSS3J0ZHprOEtVX19KeFRqOFh1eXJkTVdYR1RRSXpJemduVFg4S2dwSTNaOURYWW5NQ3JDWVotSE9ZLW41ZTlDUmZ6T015UF82RlA1ZjY",
-          "originalHeadline": "قطر تبحث مع إيران جهود الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
+          "originalHeadline": "قطر تبحث مع إيران جه��د الوساطة الباكستانية وتطورات الأوضاع بلبنان - الجزيرة نت"
         },
         {
           "headline": "A source reveals to CNN about Qatar's \"efforts\" with the Trump administration to prevent Israel's attack on Beirut - CNN Arabic",
@@ -1383,28 +1372,6 @@
           "originalHeadline": "مصدر يكشف لـCNN عن \"جهود\" قطر مع إدارة ترامب لمنع هجوم إسرائيل على بيروت - CNN Arabic"
         },
         {
-          "headline": "Activating the electronic link between the Amman Stock Exchange and the Abu Dhabi Securities Market via the exchange platform - CNBC Arabia",
-          "url": "https://www.cnbcarabia.com/152855/2026/02/06/%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%B3%D9%88%D9%82-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%84%D9%84%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:16:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAVBVV95cUxQTzNBUjluZmFEbks0QVFTQ2psU0N4aW1nZlFVSVd6bEliLUZyQ2lDeVl3RW1NMDA3UWlRdVRFcFM1YnNQejFITllaWXRjcy1maklPazdEbWpFYko1aERrNk1Cei1uMGppbUpNTFB",
-          "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي للأوراق المالية عبر منصة تبادل - CNBC عربية"
-        },
-        {
-          "headline": "“Technology Patterns” wins a contract from “Saudi Energy” worth 314.5 million riyals - Al Arabiya",
-          "url": "https://www.alarabiya.net/aswaq/companies/2026/06/02/%D8%A7%D9%86%D9%85%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%B9%D9%82%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A8%D9%803145-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B1%D9%8A%D8%A7%D9%84",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:15:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxPUFFtY1VHd21pcF9SdE9lTWVMdUREOFVmelU3ZnAxSDFGTXNsWVIwcjRMaEJEY2p5ZEpKeUxVLUhCeWlkYUZQcFdfQlF4VzU4dzBWNm1MODBuM0djSGY0SGV5a2E4Y29neFBjNzl",
-          "originalHeadline": "\"أنماط التقنية\" تفوز بعقد من \"السعودية للطاقة\" بـ314.5 مليون ريال - العربية"
-        },
-        {
           "headline": "Gold prices in Qatar are moving within a narrow range amid anticipation of the direction of global markets - Youm7",
           "url": "https://www.youm7.com/story/2026/6/2/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D8%A7%D8%AE%D9%84-%D9%86%D8%B7%D8%A7%D9%82-%D8%B6%D9%8A%D9%82-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B1%D9%82%D8%A8/7434878",
           "source": "Google News Gulf (Arabic)",
@@ -1416,18 +1383,7 @@
           "originalHeadline": "أسعار الذهب في قطر تتحرك داخل نطاق ضيق وسط ترقب اتجاه الأسواق العالمية - اليوم السابع"
         },
         {
-          "headline": "The UAE condemns the storming of Al-Aqsa Mosque and the raising of the Israeli flag - Sky News Arabia",
-          "url": "https://amp.skynewsarabia.com/middle-east/1872369-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%88%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
-          "source": "Google News Gulf (Arabic)",
-          "sourceId": "google_news_gulf_arabic",
-          "category": "arabic_aggregate",
-          "priority": "primary",
-          "date": "Tue, 02 Jun 2026 05:48:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8ANBVV95cUxOZVZMTHlWVW5mN05RSmdCS1RMMkJBS0JOblNMV3k5S3VLenFESVZya0JQYTR3a0JhVW5ZT2Njc2NvdUVTZTRVbGJKVkFUOFNaaVZjd0g4a2VPa1VKSUdQUnZXdFhVekF3UHRzVDd",
-          "originalHeadline": "الإمارات تدين اقتحام المسجد الأقصى ورفع العلم الإسرائيلي - سكاي نيوز عربية"
-        },
-        {
-          "headline": "Infographic: The UAE’s foreign reserves declined by 8.5% in the first month of the Iran war - Al-Sharq Economy with Bloomberg",
+          "headline": "Infographic: The UAE’s foreign reserves decline by 8.5% in the first month of the Iran war - Eastern Economy with Bloomberg",
           "url": "https://asharqbusiness.com/economics/134819/%D8%A5%D9%86%D9%81%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9/",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
@@ -1435,18 +1391,18 @@
           "priority": "primary",
           "date": "Tue, 02 Jun 2026 04:31:29 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNy03SVpEeW9NTjVxUmZlamwxZVl6SGdjWDdwd3dMekNzTllPcDR2eWlYVEFxUkEtV0tKbloxd2RXa2NOQW9fWkZQZU1LOFgzOXF4NEVXSWNnRHhFaEVIMVBwVFJXT0V2b0JTVkZ",
-          "originalHeadline": "إنفوغراف: احتياطي الإمارات الأج��بي يتراجع 8.5% في أول شهر من حرب إيران - اقتصاد الشرق مع بلومبرغ"
+          "originalHeadline": "إنفوغراف: احتياطي الإمارات الأجنبي يتراجع 8.5% في أول شهر من حرب إيران - ��قتصاد الشرق مع بلومبرغ"
         },
         {
-          "headline": "Gold prices rise in the UAE today, Tuesday... and 21 karat records 467.41 dirhams - Mubasher Info",
-          "url": "https://www.mubasher.info/news/4620683/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A%D8%A7%D8%B1-21-%D9%8A%D8%B3%D8%AC%D9%84-467-41-%D8%AF%D8%B1%D9%87%D9%85/",
+          "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+          "url": "https://validate.perfdrive.com/?ssa=4c9c2aae-0426-42c2-a687-fee6dff0021f&ssb=84009293228&ssc=https%3A%2F%2Fwww.skynewsarabia.com%2Fprogram%2Faldhahira%2F1872485-%25D8%25A7%25D9%2584%25D9%2583%25D9%2588%25D9%258A%25D8%25AA-%25D8%25AA%25D9%2586%25D8%25AF%25D8%25AF-%25D8%25A8%25D8%25A7%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D8%25A7%25D9%2581%25D9%2587%25D8%25A7-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE-%25D9%2588%25D8%25A7%25D9%2584%25D9%2585%25D8%25B3%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA&ssi=c119ebb8-cf43-48e5-a214-95a087f3da3d&ssk=botmanager_support@radware.com&ssm=09421371882207130106240422790908&ssn=e881026139d3ef14324fb8bed503212cc70edede2ab9-3980-4dba-bd7e1f&sso=fcd1c527-a3d02394f38593b32afa757f87347810a79ad81461836f47&ssp=57609335461780331354178030851878143&ssq=83327188070448310482280704634344502839060&ssr=NzQuMjM1LjEyMy4z&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBkZWRlMmFiOS0zOTgwLTRkYmEtYjUyNy1hM2QwMjM5NGYzODUxLTE3ODAzODA3MDQyNzgwLTAwM2ZkYjQyNzU1MTBlMjczMTYxMCIsInJkIjoic2t5bmV3c2FyYWJpYS5jb20iLCJ1em14IjoiN2Y5MDAwMTk1YjY1YWQtZGQ4OC00NzFmLWExNDUtOWNjNDZmZWVlMTU3MS0xNzgwMzgwNzA0Mjc4MC1hYzFiY2Y1MDY2ZTllNGZkMTAifQ==",
           "source": "Google News Gulf (Arabic)",
           "sourceId": "google_news_gulf_arabic",
           "category": "arabic_aggregate",
           "priority": "primary",
-          "date": "Tue, 02 Jun 2026 06:34:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxNaWx6MWtkS3NvNllPdVc1X1Focms0STBNbTRKTjV6cUxGNi1WWm1BUlgxOEF6VjlpQUZpanlyYkpPXzA1VTJiSXc1OC0xQ1BlUXM4eFFuQUlTcDdJYUN1b0ZWTjVpNk95b2dvUW5",
-          "originalHeadline": "أسعار الذهب ترتفع في الإمارات اليوم الثلاثاء.. وعيار 21 يسجل 467.41 درهم - معلومات مباشر"
+          "date": "Mon, 01 Jun 2026 23:53:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZ",
+          "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
         },
         {
           "headline": "Yemeni cultural heritage between civil conflicts and Israeli attacks - Al-Sharq News",
@@ -1458,19 +1414,53 @@
           "date": "Tue, 02 Jun 2026 05:41:18 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxOenFwcjFWdjJINmVjYVBMVzNoT0FxbVY1TThzbXI3X0hUSHRDRUhxOVU3VVBYLUJXUGxmWWJVMURXOTlpMzVNZkR1eEZBeUVxMk5iZzFncWFLc0JUaExxZFM5cm13QWRfeVJSdE5",
           "originalHeadline": "التراث الثقافي اليمني بين النزاعات الأهلية واعتداءات إسرائيل - الشرق للأخبار"
+        },
+        {
+          "headline": "Bahrain: Migrant workers without assistance despite being affected by the conflict - Human Rights Watch",
+          "url": "https://www.hrw.org/ar/news/2026/06/02/bahrain-migrant-workers-harmed-by-conflict-get-no-aid",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVS1zaHJTMjByRnhJVklRT3JMejNzTXJtSWtINk5VbzhidU94UWNPdzZ2bGdIakc4LTJFZXZUdXEyc3kwZHZaeEhyMHFwOFVGNFNCS3B2dzlFVURkQ0MtUnpNVmxOTGZsVlRITk9",
+          "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+        },
+        {
+          "headline": "Gold prices rise 1.21% in Kuwait - Mubasher Info",
+          "url": "https://www.mubasher.info/news/4620616/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-1-21-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 05:25:59 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQUUlHOHFiYVk1TGJReDY2Y1RSR0J6MVJKYll4dVdTbFFDZGlmUzR0ak1ZVlhaLXNtWGZnZnlqR2VPYTNzNFRiNE5fSTROd196LW9LbFVZcGlqUnh4XzJ5VVhSYWgyRGluSjFoTjg",
+          "originalHeadline": "أسعار الذهب ترتفع 1.21% في الكويت - معلومات مباشر"
+        },
+        {
+          "headline": "Learn about the most prominent matches of the “U-17 World Cup Qatar 2026” and their dates Arab TV - Arab TV",
+          "url": "https://www.alaraby.com/news/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A5%D9%84%D9%89-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AD%D8%AA-17-%D8%B3%D9%86%D8%A9-%D9%82%D8%B7%D8%B1-2026-%D9%88%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF%D9%87%D8%A7",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Mon, 01 Jun 2026 22:04:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgNBVV95cUxQaTV1MjVaZ24xdC1KOWhLTHpJMHB1Y05PcEg4dVh6ZmtnTW5MSEppMWVrbjhLcE82SmFXT1RfRkRQWjFJVUVoM3VkcVR1RWpGbkthWjVlOE1DYkdCRWFXVTg4YWpQQUFieDZma2Z",
+          "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
+        },
+        {
+          "headline": "The Prime Minister of Qatar and the Iranian Foreign Minister discuss by telephone mediation efforts between Washington and Tehran - Youm7",
+          "url": "https://www.youm7.com/story/2026/6/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9/7435138",
+          "source": "Google News Gulf (Arabic)",
+          "sourceId": "google_news_gulf_arabic",
+          "category": "arabic_aggregate",
+          "priority": "primary",
+          "date": "Tue, 02 Jun 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_ANBVV95cUxNMWlSRFE1am9Hb3RZUk1BOHhBV1lBWFFQbHUxUURkaUVyUFA3djk3aWl4V3FIOGFWNlExUlcyUmMxRnZURUREZ2xQcHhtMXdteGFrWGtGTjUyei0xOU1uVy13THRaWGpzNTdLcXl",
+          "originalHeadline": "رئيس وزراء قطر ووزير خارجية إيران يبحثان هاتفيا جهود الوساطة بين واشنطن وطهران - اليوم السابع"
         }
       ],
       "secondary": [
-        {
-          "headline": "OQ expands international footprint with Libyan energy pact",
-          "url": "https://timesofoman.com//article/172479-oq-expands-international-footprint-with-libyan-energy-pact",
-          "source": "Times of Oman",
-          "sourceId": "times_of_oman",
-          "category": "oman",
-          "priority": "secondary",
-          "date": "Tue, 02 Jun 2026 10:36:53 +0400",
-          "description": "Muscat: OQ Exploration and Production Company has signed a Memorandum of Understanding (MoU) with the Libyan Investment Authority (LIA) in Tripoli, the..."
-        },
         {
           "headline": "Travel and tourism firm in Muscat fined over OMR5,000 for breach of contract",
           "url": "https://timesofoman.com//article/172478-travel-and-tourism-firm-in-muscat-fined-over-omr5000-for-breach-of-contract",
@@ -1560,6 +1550,16 @@
           "priority": "secondary",
           "date": "Tue, 02 Jun 2026 08:05:48 +0400",
           "description": "Tehran: Iranian Parliament Speaker Mohammad Bagher Ghalibaf has communicated to his Lebanese counterpart, Nabih Berri, that any prospective accord aimed at..."
+        },
+        {
+          "headline": "CBSE launches class 12 verification and re-evaluation portal after technical delay",
+          "url": "https://timesofoman.com//article/172469-cbse-launches-class-12-verification-and-re-evaluation-portal-after-technical-delay",
+          "source": "Times of Oman",
+          "sourceId": "times_of_oman",
+          "category": "oman",
+          "priority": "secondary",
+          "date": "Tue, 02 Jun 2026 07:58:51 +0400",
+          "description": "New Delhi: The Central Board of Secondary Education (CBSE) on Tuesday announced that its much-awaited verification and re-evaluation portal for Class 12..."
         }
       ],
       "tertiary": [],
@@ -1865,12 +1865,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "Trump announces an agreement to stop attacks between Israel and Hezbollah",
-          "timestamp": "2026-06-02T07:01:23.000Z",
-          "permalink": "https://x.com/alekhbariyatv/status/2061704713989394632",
-          "originalText": "ترمب يعلن اتفاقا لوقف الهجمات بين إسرائيل وحزب الله"
-        },
-        {
           "text": "Live footage captures the spirituality of the Sanctuary on the 16th day of Dhu al-Hijjah",
           "timestamp": "2026-06-02T05:23:45.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2061680145736348130",
@@ -1893,6 +1887,12 @@
           "timestamp": "2026-06-02T03:16:12.000Z",
           "permalink": "https://x.com/alekhbariyatv/status/2061648044605497458",
           "originalText": "ضيوف برنامج خادم الحرمين الشريفين للحج والعمرة والزيارة يزورون مجمع الملك فهد لطباعة المصحف الشريف في المدينة المنورة"
+        },
+        {
+          "text": "More than 19,000 meters of pedestrian paths have been allocated in the area surrounding the Prophet’s Mosque to serve the guests of God.",
+          "timestamp": "2026-06-02T02:03:15.000Z",
+          "permalink": "https://x.com/alekhbariyatv/status/2061629689265873197",
+          "originalText": "تخصيص أكثر من 19 ألف متر من المسارات المخصصة للمشاة في المنطقة المحيطة بالمسجد النبوي لخدمة ضيوف الرحمن"
         }
       ]
     },
@@ -2335,17 +2335,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "Dubai World Trade Centre (DWTC) Free Zone has announced a strategic collaboration with DHL Express to support SMEs operating in the DWTC Free Zone by strengthening operations, enhancing resilience, and enabling expansion into global markets.",
-          "timestamp": "2026-06-02T06:51:28.000Z",
-          "permalink": "https://x.com/DXBMediaOffice/status/2061702218580213921"
-        },
-        {
-          "text": "Dubai World Trade Center Free Zone announces the conclusion of a strategic partnership with DHL Express, in a step that reflects its commitment to developing an integrated business system that enables small and medium-sized companies to grow, expand and compete globally. The partnership aims to provide practical support to small businesses",
-          "timestamp": "2026-06-02T06:50:37.000Z",
-          "permalink": "https://x.com/DXBMediaOffice/status/2061702008210599951",
-          "originalText": "المنطقة الحرة لمركز دبي التجاري العالمي تعلن عن إبرام شراكة استراتيجية مع شركة دي إتش إل إكسبرس (DHL Express)، في خطوة تعكس التزامها بتطوير منظومة أعمال متكاملة تمكّن الشركات الصغيرة والمتوسطة من النمو والتوسع والمنافسة عالميًا. وتهدف الشراكة إلى تقديم دعم عملي للشركات الصغيرة"
-        },
-        {
           "text": "Mohammed bin Rashid issues Law on Community Development Authority in Dubai.\n\n@CDA_Dubai",
           "timestamp": "2026-06-01T16:45:10.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2061489241180532948"
@@ -2355,6 +2344,11 @@
           "timestamp": "2026-06-01T16:34:28.000Z",
           "permalink": "https://x.com/DXBMediaOffice/status/2061486548672246192",
           "originalText": "محمد بن راشد يصدر قانوناً بشأن هيئة تنمِية المُجتمع في دبي.\n\n@CDA_Dubai"
+        },
+        {
+          "text": "Dubai's Roads and Transport Authority (RTA) records total ridership of 8.2 million riders across public transport and mobility services during the Eid Al Adha holiday period from 25 to 29 May.",
+          "timestamp": "2026-06-01T14:54:56.000Z",
+          "permalink": "https://x.com/DXBMediaOffice/status/2061461501358272890"
         }
       ]
     },
@@ -2404,31 +2398,31 @@
       "language": "en",
       "tweets": [
         {
-          "text": ".\n@PureHealthae\n has launched the University of Nicosia campus in Athens, Greece. The university introduces a next-generation model of healthcare education, embedding artificial intelligence, data analytics, and digital health into core clinical training.",
-          "timestamp": "2026-06-02T07:02:23.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061704966209937872"
-        },
-        {
-          "text": "Read more:",
-          "timestamp": "2026-06-02T07:02:24.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061704970907607443"
-        },
-        {
-          "text": "PureHealth Group inaugurates a new campus for the University of Nicosia in the Greek capital, Athens. The campus offers an advanced model of health education that integrates artificial intelligence, data analysis, and digital health into the core of clinical training.",
-          "timestamp": "2026-06-02T07:00:49.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061704575154024549",
-          "originalText": "مجموعة \"بيورهيلث\" تدشِّن حرماً جديداً لجامعة نيقوسيا في العاصمة اليونانية أثينا. الحرم يقدِّم نموذجاً متقدماً للتعليم الصحي يدمج الذكاء الاصطناعي وتحليل البيانات والصحة الرقمية في صميم التدريب السريري."
-        },
-        {
-          "text": "To read more:",
-          "timestamp": "2026-06-02T07:00:51.000Z",
-          "permalink": "https://x.com/ADMediaOffice/status/2061704579616833838",
-          "originalText": "لقراءة المزيد:"
-        },
-        {
           "text": ".\n@mgx_ai\n and strategic partners, Bpifrance and Mistral, will expand Campus AI in France, with a goal of developing up to 3GW of compute capacity nationwide through a second site. The expansion is expected to double the initial investment by the consortium and its partners.",
           "timestamp": "2026-06-01T19:58:52.000Z",
           "permalink": "https://x.com/ADMediaOffice/status/2061537987071185347"
+        },
+        {
+          "text": "Read more:",
+          "timestamp": "2026-06-01T19:58:53.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061537992561565990"
+        },
+        {
+          "text": "MGX, and its strategic partners BP France and Mistral, announce the expansion of the Campus AI project in France. The expansion aims to develop computing capabilities of up to 3 gigawatts nationwide through a second project site, doubling the size of the initial investment of the alliance and its partners.",
+          "timestamp": "2026-06-01T19:57:59.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061537765872029791",
+          "originalText": "\"إم جي إكس\"، وشركاؤها الاستراتيجيون \"بي بي فرانس\" و\"ميسترال\"، تعلن توسيع مشروع مجمَّع الذكاء الاصطناعي \"Campus AI\" في فرنسا. التوسُّع يهدف إلى تطوير قدرات حاسوبية تصل إلى 3 جيجاواط على مستوى الدولة من خلال موقع ثانٍ للمشروع، ما يضاعف حجم الاستثمار الأولي للتحالف وشركائه."
+        },
+        {
+          "text": "To read more:",
+          "timestamp": "2026-06-01T19:58:00.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061537771773370730",
+          "originalText": "لقراءة المزيد:"
+        },
+        {
+          "text": "Under the directives of the UAE President, the National Projects Office, \n@Economyae\n, Emirates Foundation, and Tadweer Group, have launched Naseej, a national initiative for textile circularity, to transition the textile sector toward a circular economic system.",
+          "timestamp": "2026-06-01T17:30:35.000Z",
+          "permalink": "https://x.com/ADMediaOffice/status/2061500670881264017"
         }
       ]
     },
@@ -2542,21 +2536,6 @@
       "language": "en",
       "tweets": [
         {
-          "text": "4 Killed, 20 Injured in Russian Attack Targeting Ukraine's Dnipropetrovsk Region\n#QNA  #Russia  #Ukraine\n\nhttps://\nbit.ly/4vI4cXF",
-          "timestamp": "2026-06-02T06:49:03.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061701612477780085"
-        },
-        {
-          "text": "#Gold Rises as US Yields Fall\n#QNA  #Economy\n\nhttps://\nbit.ly/3PEM4OZ",
-          "timestamp": "2026-06-02T06:27:53.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061696285946564792"
-        },
-        {
-          "text": "#QNA_Infographic |\nExchange Rates for Foreign Currencies in #Qatar, Tuesday, June 02, 2026\n#QNA  #Economy",
-          "timestamp": "2026-06-02T06:26:49.000Z",
-          "permalink": "https://x.com/QNAEnglish/status/2061696018802933766"
-        },
-        {
           "text": "#UN Condemns Escalation of Israeli Attacks in #Gaza Strip\n#QNA  #Palestine \n\nhttps://\nbit.ly/3PEE8xc",
           "timestamp": "2026-06-02T05:53:48.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2061687705747017772"
@@ -2565,6 +2544,21 @@
           "text": "EU Health Ministers Hold Extraordinary Meeting on #Ebola\n#QNA \n\nhttps://\nbit.ly/4a28aSk",
           "timestamp": "2026-06-02T05:49:05.000Z",
           "permalink": "https://x.com/QNAEnglish/status/2061686520059162747"
+        },
+        {
+          "text": "European Commissioner Calls for Ukraine's Integration into European Defence Union\n#QNA\n\nhttps://\nbit.ly/3QbGvYq",
+          "timestamp": "2026-06-02T05:44:31.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061685370714984511"
+        },
+        {
+          "text": "Euro-Med Monitor Warns of Israeli Military Escalation in #Lebanon\n#QNA  \n\nhttp://\nbit.ly/4v32G2p",
+          "timestamp": "2026-06-02T05:37:28.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061683595731685636"
+        },
+        {
+          "text": "#QNA_Infographic |\nWeather Forecast in Qatar | Tuesday Morning, June 02, 2026\n#QNA  #QAtar",
+          "timestamp": "2026-06-02T05:30:52.000Z",
+          "permalink": "https://x.com/QNAEnglish/status/2061681935458455744"
         }
       ]
     },
