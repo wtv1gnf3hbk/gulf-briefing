@@ -1,63 +1,21 @@
-**Saudi Arabia extends [condolences on](https://spa.gov.sa/N2604388) the death of former Yemeni President Abd Rabbuh Mansour Hadi, with Crown Prince Mohammed bin Salman offering sympathies to the family by telephone, per the Saudi Press Agency.** Prince Khalid bin Salman called Hadi "a wise leader who was keen on the security, stability, development and prosperity of his country," according to his [Twitter post](https://x.com/kbsalsaud). The death of the internationally recognized former president removes a key figure from Yemen's complex political landscape.
+Iran's [missile attacks](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/) on Kuwait triggered sharp regional condemnations Monday as the Strait of Hormuz crisis enters its fourth month. Kuwait's Cabinet [strongly condemned](https://kuna.net.kw/ArticleDetails.aspx?id=3306235) the repeated Iranian missile and drone attacks, describing them as a "dangerous escalation" and a "flagrant violation" of Kuwait's sovereignty. The attacks came while [US Secretary of State Marco Rubio](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/) testifies to lawmakers that America will not offer Iran sanctions relief to reopen the strategic waterway.
 
-US Secretary of State Marco Rubio said Washington [will not grant](https://kuna.net.kw/ArticleDetails.aspx?id=3306227) Iran sanctions relief in exchange for opening the Strait of Hormuz, according to Kuwait News Agency. This follows ongoing tensions that have disrupted shipping through the critical waterway. [Goldman Sachs expects](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/) refined fuel margins to remain elevated through 2026 due to the Hormuz disruption, Reuters reports.
+International outlets signal mixed progress on Lebanon-Israel tensions, with [Trump announcing](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33) that Israel and Hezbollah have agreed to dial back fighting following US mediation. However, [clashes continue](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&amp;at_campaign=rss) despite the partial ceasefire arrangement, with Israeli strikes still targeting southern Lebanon. Foreign Minister Prince Faisal bin Farhan welcomed Trump's diplomatic initiative, stating that [Saudi Arabia appreciates](https://twitter.com/FaisalbinFarhan) the US President's "decision to give diplomacy a chance to reach an acceptable agreement to end the war."
 
-## **Energy & Economy**
+## Energy & Economy
 
-• **Oil market outlook darkens**: [Goldman Sachs forecasts](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/) elevated refined fuel margins through 2026 as the Strait of Hormuz disruption continues to squeeze global supply chains, according to Reuters.
+• Goldman Sachs [expects elevated](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/) refined fuel margins through 2026 due to the Hormuz disruption, [Reuters reports](https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/).
 
-• **Asian crude imports surge**: [Asia's imports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) of US crude have surged but cannot offset losses from Hormuz shipping disruptions, Reuters reports.
+• Asia's imports of [US crude surge](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) but cannot offset Hormuz losses, according to [Reuters](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/).
 
-• **Kuwait market development**: [Goldman Sachs arranged](https://www.aljazeera.net/ebusiness/2026/6/2/%D8%BA%D9%88%D9%84%D8%AF%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%83%D8%B3-%D9%8A%D8%B1%D8%AA%D8%A8-%D8%A5%D8%AD%D8%AF%D9%89-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA) one of the largest listings on the Kuwait Stock Exchange, Al Jazeera reports.
+• [Al Jazeera reports](https://www.aljazeera.net/ebusiness/2026/6/2/%D8%BA%D9%88%D9%84%D8%AF%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%83%D8%B3-%D9%8A%D8%B1%D8%AA%D8%A8-%D8%A5%D8%AD%D8%AF%D9%89-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA) Goldman Sachs arranges one of the largest listings on the Kuwait Stock Exchange.
 
-• **Abu Dhabi-Amman exchange link**: The [Abu Dhabi Securities Exchange](https://mediaoffice.abudhabi) partnered with Amman Stock Exchange to launch electronic trading through the Tabadul platform, according to Abu Dhabi Media Office.
+• Abu Dhabi Ports Group [acquired Corredor](https://twitter.com/ADMediaOffice) Logística e Infraestrutura, Brazil's independent agri-bulk port terminal operator, for over AED 3 billion, marking the group's South American market entry.
 
-## **Country Watch**
+## Country Watch
 
-### **Saudi Arabia**
-• [Riyadh begins implementing](https://spa.gov.sa/N2605308) flexible working hours initiative for 50 employers across six locations in the capital, according to the Saudi Press Agency.
+**Saudi Arabia**
+Crown Prince Mohammed bin Salman [offered condolences](https://twitter.com/kbsalsaud) for former Yemeni President Abd Rabbuh Mansour Hadi's death, describing him as "a wise leader who was keen on the security, stability, development and prosperity of his country." The Kingdom [distributed 793 food baskets](https://twitter.com/SPAregions) in Khan Yunis, Gaza Strip, according to the Saudi Press Agency.
 
-• [Drug seizure in Eastern Province](https://moi.gov.sa): Interior Ministry forces confiscated 845,087 amphetamine tablets hidden inside cardboard sheets.
-
-### **UAE**
-• [Sheikh Abdulla bin Zayed](https://x.com/ABZayed) highlighted the UAE's global leadership in AI talent concentration, which grew 121% between 2019-2025.
-
-• [Dubai ranks first](https://x.com/DXBMediaOffice) regionally and 12th globally in the "Cities Shaping the Future Report" by Oliver Wyman Forum.
-
-• UAE launched the [Naseej textile recycling](https://x.com/UAEmediaoffice) initiative to transition the textile sector toward a circular economic system.
-
-### **Qatar** 
-• Foreign Minister Mohammed bin Abdulrahman Al Thani [met with Indonesian officials](https://gate.ahram.org.eg/News/5665822.aspx) to discuss joint military cooperation, Al-Ahram reports.
-
-• [Qatar Foundation formed](https://ow.ly/NtKN50Z6P0P) three new study-abroad partnerships with US universities, according to QNA.
-
-### **Bahrain / Kuwait / Oman**
-• Bahrain's Interior Ministry [banned citizens](https://policemc.gov.bh/en/news/79019/) from traveling to Iran and Iraq due to ongoing security tensions.
-
-• [Prince William received](https://2u.pw/NpsltIe4) Oman's Culture Minister Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral relations, according to Oman News Agency.
-
-### **Yemen**
-• The IRG appointed [Ahmed Hamid Lamlas](https://sabannet.net) as governor of Aden Governorate, according to Saba News Agency.
-
-• Southern Transitional Council leader Aidarous al-Zubaidi [performed Umrah](https://stcaden.com/news/10114) rituals, the STC announced.
-
-## **Official Signals**
-
-• **Saudi Foreign Minister Prince Faisal bin Farhan** [praised](https://x.com/FaisalbinFarhan) President Trump's decision to give diplomacy a chance, saying the Kingdom "highly appreciates" efforts to restore security in the Strait of Hormuz.
-
-• **UAE Minister Anwar Gargash** [criticized](https://x.com/AnwarGargash) Turkey's defense minister for "provocative statements," saying the logic of the Sublime Porte belongs in "the historical archive."
-
-## **Coverage Flags**
-
-International outlets are focusing heavily on energy market implications of the Hormuz crisis, while regional media emphasizes diplomatic efforts to resolve tensions. The death of former Yemeni President Hadi received significant coverage across Gulf state media but limited attention in international press.
-
-## **Sources**
-
-• [Saudi Press Agency](https://spa.gov.sa)
-• [Reuters](https://www.reuters.com)
-• [Kuwait News Agency](https://kuna.net.kw)
-• [Al Jazeera](https://www.aljazeera.net)
-• [Qatar News Agency](https://qna.org.qa)
-• [Times of Oman](https://timesofoman.com)
-• [AP News](https://apnews.com)
-• [BBC](https://www.bbc.com)
+**UAE**
+IAEA chief Rafael Grossi [praised the UAE's handling](https://news.google.com/rss/articles/CBMi2ANBVV95cUxNQUdwYW9JSnBuZWk2ZTlnM2Z0UFZsc3VETlZiV1VnekM1YXNtaTh0UXFnN055LWp5US1KMklCcXl2RWJ1ZF9KNFV5djlOaEZhZ0NjemIzOFI4enhSUWFlMUQ3QmdEU2NMQTRyYUtoVXB5bFB6cFVfTHl1ZmdIc0ZpbHBJTWFldVljczNxcHRkR3cxSXJKR01kZHk2VHdUYWVuUVE5RktIVTdaUXFjdUNGZGlrRFFlSUN0TmRtRjdSQ3lzWGluTkpmSlNqeDBnU0NPbi1KaGthblpnZ0VnVzhrTVhTVy0wYkFwakZQamVRWl9UUTJfZWNqSUZsXzdJcTI2Ync1N2YyRXZOOUJ3emd3bnBzV3FZWVhGb1hVODQwQjc3enpLU3ZYN1E1cFg5dTVTTGhPajBaNG1zdFQ1cG8yZFFXUy14c0VPSDhscjcyQm9LeTVSNnhEVTVqY053R0NPazcxYzFvODlZaDhTV2V3YkdmMTBWemZUSTI0b1BCRndYdG5vM0NEbzgyVktacjBNVm1zZllQcFVkeVBMSHFqUFh4YjJtdmZCWjZDODZpYVg0X1QyNWt2bmUzdERRal9mOGJIeXFwMGlnQVkxbFFEY1lURzAxM3Ju0gHeA0FVX3lxTE05eDNSTzRSZ3c4NFI5X3ViNXpzckI4SjQwdVZWZzJsQlhMYXNnQXo3QVBrMFdKMkU3STdLTlhOcU9vNWEzQV9zazlHTnl0M2l6cTE2bHJRMC1OMHR5Y0E1OXNmQTNSdngxZ3V2Mzc2ZVlERWhLdDZNdXdLUkRVZl9halA0X2F3S0ViS1o0OW5vNmY5NkFRV1UzZ3Nlb1JJajZXUjhmNDQ5UkZvRTlycDdwOEkxZkJxN0NpVVI1TGdRSVV2STZYbkk1RVIwNDJmT1otTTN4eF9nZ2dycDRkWU51YnZYTUcwbW5XT1E5dmVsS0s2WjdfLWpTOFQ2RHNOTnZ1XzdEYl8wclFIbkY5T0tmWWlNendoRUowM1JmVGhZSnhWNTk4LTRVN1N3dGZmeXRwLUlmbTNtcHNmYmZVT29UektRUVpTM1V6OGNBUW1JQ1pKZy1hRVFhSlpXZGtYUjRSbldtV3o0a0dSMkNCQnNSTWg5Q2M3OTBKWFVGODloTHFNU2JLYUN1NHRpZHVNck55M2lBY3AxdzExQXJRYk9rRmlUQ2YtWUJRQ1ViV2Q5QTAybFRCTTZ4MkIybllxLUo4eEcyb3BwMk9wUFBmN0tmZlNpSHp3bzVGWWYxN3c?oc=5) of the Iranian attack on the Barakah nuclear station, [Sky News Arabia reports](https://news.google.com/rss/articles/CBMi2ANBVV95cUxNQUdwYW9JSnBuZWk2ZTlnM2Z0UFZsc3VETlZiV1VnekM1YXNtaTh0UXFnN055LWp5US1KMklCcXl2RWJ1ZF9KNFV5djlOaEZhZ0NjemIzOFI4enhSUWFlMUQ3QmdEU2NMQTRyYUtoVXB5bFB6cFVfTHl1ZmdIc0ZpbHBJTWFldVljczNxcHRkR3cxSXJKR01kZHk2VHdUYWVuUVE5RktIVTdaUXFjdUNGZGlrRFFlSUN0TmRtRjdSQ3lzWGluTkpmSlNqeDBnU0NPbi1

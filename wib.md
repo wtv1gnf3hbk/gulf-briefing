@@ -1,30 +1,29 @@
-**Gulf Brief** • June 2, 2026
+**Gulf Briefing — June 2, 2026**
 
-1. **US-Iran nuclear talks.** US Secretary of State Marco Rubio confirmed that Washington will not offer Iran sanctions relief in exchange for reopening the Strait of Hormuz, according to [KUNA reports](https://kuna.net.kw/ArticleDetails.aspx?id=3306227). President Trump said negotiations between the US and Iran remain ongoing, stressing Tehran must conclude an agreement. Goldman Sachs expects elevated refined fuel margins through 2026 due to Hormuz disruptions.
+1. **Israel-Hezbollah partial ceasefire.** Israeli strikes continued on southern Lebanon despite a partial U.S.-brokered truce with Hezbollah accepting reduced fighting, according to [Trump's announcement](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33). Secretary of State Marco Rubio confirmed the U.S. has not offered Iran sanctions relief to reopen the Strait of Hormuz. Israeli Prime Minister Netanyahu faces criticism after Trump halted Israeli strikes on Beirut.
 
-2. **Saudi flexible work initiative.** The Royal Commission for Riyadh launched implementation of flexible working hours for 50 employers in six locations across the capital, per [Saudi Press Agency](https://spa.gov.sa/N2605308). The initiative aims to improve work-life balance and reduce traffic congestion. Crown Prince Mohammed bin Salman continues expanding Vision 2030 workplace reforms.
+2. **Saudi Crown Prince on Hajj success.** Crown Prince Mohammed bin Salman praised this year's Hajj season as successful despite regional circumstances, thanking God for enabling service to pilgrims and asking for acceptance of their rituals. King Salman issued a [royal order promoting](https://spa.gov.sa/N2604029) 327 Public Prosecution members across various judicial ranks. The King Salman Relief Center distributed 793 food baskets in Khan Yunis, Gaza Strip.
 
-3. **Yemen former president dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi leadership. Prince Khalid bin Salman conveyed sympathies to Hadi's family, calling him a wise leader committed to Yemen's security and stability. The IRG government praised his contributions to Yemen's development process.
+3. **Former Yemeni President Hadi dies.** Former Yemeni President Abd Rabbuh Mansour Hadi died, prompting condolences from Saudi Crown Prince Mohammed bin Salman and Qatari Prime Minister Mohammed bin Abdulrahman Al Thani. IRG Information Minister Mohammed Al-Eryani visited Hadi's family, while Saudi Ambassador to Yemen Mohammed AlJabir noted that [nearly 2 million Yemenis](https://twitter.com/mohdsalj) work in Saudi Arabia, transferring over $4 billion annually to Yemen.
 
-4. **Bahrain bans citizen travel.** Bahrain's Interior Ministry banned citizens from traveling to Iran and Iraq due to ongoing security tensions in the region, according to [ministry statements](https://policemc.gov.bh/en/news/79019/). The travel restriction reflects heightened regional security concerns. Kuwait's cabinet separately condemned repeated Iranian missile and drone attacks.
+4. **Hormuz Strait disruptions impact energy.** Asia's imports of U.S. crude have surged but cannot offset losses from Strait of Hormuz closures, according to [Reuters reporting](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/). Goldman Sachs expects elevated refined fuel margins through 2026 due to the Hormuz disruption. Iran stopped talking to mediators according to Iranian reports, though Trump says talks continue.
 
-5. **UAE textile recycling launch.** The UAE launched the National Textile Recycling Initiative "Naseej" under President Mohammed bin Zayed's directives, promoting transition to a circular economic system. The initiative aims to preserve resources and support sustainability in the textile sector. Dubai ranked first regionally in a global cities growth report.
+5. **Kuwait condemns Iranian attacks.** Kuwait's Cabinet strongly condemned repeated Iranian missile and drone attacks targeting the country's territory, describing them as dangerous escalation and flagrant violation of sovereignty. Bahrain's Interior Ministry banned citizens from traveling to Iran and Iraq due to ongoing security tensions, while [KUNA reported](https://kuna.net.kw/ArticleDetails.aspx?id=3306227) that U.S. Secretary of State Rubio affirmed no sanctions relief for Iran.
 
-6. **Oman-UK cultural expedition.** Prince William received Omani Culture Minister Sayyid Theyazin bin Haitham at Windsor Castle to launch the "Oman: The Jewel of Arabia" expedition project in London. The initiative builds on long-standing UK-Oman ties and promotes cultural exchange. Oman's Foreign Minister separately met Iran's Deputy Foreign Minister.
+6. **UAE artificial intelligence leadership.** The UAE ranks first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, according to [Sheikh Abdulla bin Zayed](https://twitter.com/ABZayed). Dubai ranked first regionally and 12th internationally in Oliver Wyman's "Cities Shaping the Future" report. The UAE launched the Naseej National Textile Recycling Initiative under President Sheikh Mohamed bin Zayed's directives.
 
-7. **Qatar PM appointment.** Mohammed bin Abdulrahman Al Thani was appointed Qatar's new Prime Minister by Emir Sheikh Tamim, expressing gratitude for the trust placed in him. The appointment continues Qatar's diplomatic leadership under the Al Thani family. Former Energy Minister Abdullah Al Attiyah died, prompting national condolences.
+7. **Abu Dhabi Ports major acquisition.** Abu Dhabi Ports Group acquired Corredor Logística e Infraestrutura, Brazil's independent agri-bulk port terminal operator, in a deal worth more than AED 3 billion. The acquisition marks the group's entry into South American markets and becomes its [largest transaction](https://twitter.com/ADMediaOffice) to date.
 
-8. **Saudi drug bust.** Saudi Interior Ministry seized 845,087 amphetamine tablets hidden inside cardboard sheets in the Eastern Region as part of ongoing anti-drug operations. Separately, 18 environmental law violators were arrested across multiple regions. Civil Defense forces continued Hajj season security operations.
+8. **Qatar diplomatic appointments.** Prime Minister Mohammed bin Abdulrahman Al Thani appointed Dr. Majed Al Ansari as advisor and official spokesman for the Foreign Ministry. Qatar extended condolences for the death of Abdullah bin Hamad Al Attiyah, described as one of the nation's loyal contributors to development.
 
-9. **Israel-Lebanon tensions persist.** Trump said Israel and Hezbollah agreed to dial back fighting, but clashes continued in southern Lebanon despite a partial US ceasefire plan. Foreign Minister Prince Faisal praised Trump's decision to give diplomacy a chance. Eight Arab and Muslim nations condemned Israeli settler incursions at Al-Aqsa Mosque.
+9. **Yemen governance developments.** The IRG appointed Ahmed Hamid Lamlas as governor of Aden Governorate, while Southern Transitional Council President Aidarous al-Zubaidi performed Umrah rituals in Mecca. Houthi official Mohammed Abdulsalam outlined a [recent agreement](https://twitter.com/abdusalamsalah) canceling bank restrictions and resuming Yemenia flights between Sanaa and Jordan.
 
-10. **Kuwait stock market listing.** Goldman Sachs arranged one of the largest listings on the Kuwait Stock Exchange, according to [Al Jazeera reports](https://www.aljazeera.net/ebusiness/2026/6/2/غولدمان-ساكس-يرتب-إحدى-أكبر-العمليات). The UAE's IAEA Director General praised the country's handling of an Iranian attack on the Barakah nuclear station. Both developments highlight Gulf financial market activity.
+10. **Oman diplomatic engagement.** Foreign Minister Badr Albusaidi met with Iran's Deputy Foreign Minister, reflecting the constructive nature of Oman-Iran dialogue and emphasizing diplomatic engagement to reduce regional tensions. Prince William of Wales received Oman's Culture Minister Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss bilateral relations.
 
-**Sources**
-• [Times of Oman](https://timesofoman.com)
-• [Reuters](https://www.reuters.com)
-• [BBC](https://www.bbc.com)
-• [KUNA](https://kuna.net.kw)
-• [Al Jazeera](https://www.aljazeera.net)
-• Saudi Press Agency
-• Official Twitter accounts of Gulf officials
+**Sources:**
+- [Reuters Gulf](https://www.reuters.com)
+- [AP News](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com)
+- [Saudi Press Agency](https://spa.gov.sa)
+- [Times of Oman](https://timesofoman.com)
+- Official Twitter accounts of Gulf government officials and ministries
