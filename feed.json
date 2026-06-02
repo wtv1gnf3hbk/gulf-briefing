@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T02:18:43.358Z",
+  "updated": "2026-06-02T02:33:59.524Z",
   "itemCount": 300,
   "items": [
     {
@@ -12,6 +12,41 @@
       "language": "ar",
       "date": "2026-06-02T01:59:29.000Z",
       "originalHeadline": "مصدر يكشف لـCNN عن \"جهود\" قطر مع إدارة ترامب لمنع هجوم إسرائيل على بيروت - CNN Arabic"
+    },
+    {
+      "headline": "Trump news at a glance : Trump mediates between Israel and Hezbollah in effort to salvage Iran peace talks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/01/trump-administration-news-latest-updates-today",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-02T01:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "One year until the French elections; Can anyone stop the far right?",
+      "url": "https://www.bbc.com/persian/articles/c626vgen8gno",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-02T01:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "یک سال تا انتخابات فرانسه ؛ آیا کسی می‌تواند راست افراطی را متوقف کند ؟"
+    },
+    {
+      "headline": "Trump: The agreement with Iran will probably be reached next week; Ghalibaf: We stop the talks and stand in front of Israel",
+      "url": "https://www.bbc.com/persian/live/cdxp3rnv5dwt",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-02T01:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترامپ : توافق با ایران احتمالا هفته آینده حاصل می‌شود ؛ قالیباف : گفتگوها را متوقف و جلوی اسرائیل می‌ایستیم"
     },
     {
       "headline": "Gold in Saudi Arabia maintains its stability while anticipating new market stimuli - Youm7",
@@ -226,16 +261,6 @@
       "date": "2026-06-02T00:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "ترامب يطرح توقعاً بشأن موعد التوصل إلى اتفاق مع إيران"
-    },
-    {
-      "headline": "Hezbollah - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-02T00:37:10.000Z"
     },
     {
       "headline": "Qassim University Scout Teams Earn 40 Excellence Medals, Seven Top Rankings",
@@ -577,7 +602,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-01T22:04:39.000Z",
-      "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
+      "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومو��عيدها | التلفزيون العربي - التلفزيون العربي"
     },
     {
       "headline": "Learn about the most prominent matches of the “U-17 World Cup Qatar 2026” and their dates Arab TV - Arab TV",
@@ -591,7 +616,7 @@
       "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
     },
     {
-      "headline": "\"Olam 5\" case; Controversy over the trial of pro-Palestinian activists in Germany",
+      "headline": "\"Olam 5\" file; Controversy over the trial of pro-Palestinian activists in Germany",
       "url": "https://www.bbc.com/persian/articles/c893jynq579o",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -637,6 +662,16 @@
       "originalHeadline": "رويترز : طهران تسعى لاتفاق محدود لكسب الوقت وإنعاش الاقتصاد دون تنازلات نووية"
     },
     {
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-01T21:25:22.000Z"
+    },
+    {
       "headline": "Ten o'clock | A ceasefire in Lebanon... and a confrontation over Iran’s attacks on Kuwait - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxQaHRlZkVWcnpUNWNYcENVdVdnQVg1dE94Q1ZRT2d5OHV3RU4xZlNmMW1JNVdZb1VBeWRWcUE3dTlETVZJVXJTWjNQYXFNYVhrNHlzY05qcjV4aDNSQ0J5d0JQSHktSHplN1lGdUVvNG82Vzl0Y2pwYl9kckFQU0Jjb0dMWHlnXzhVMnhDc2JGOXphX1F1QkwzNnpZSGlKNDkybHNJeGVjaU1fcHY3SzRNQUZyQWJiY1c4a1oxMng4dk1fbHZFZjF6SjRWNWNRamFMNmhSY1F0VlJPOUpROEFHMlhoNnY0czFLdmN6S2wzTmJTREFDVHRxOEZXeUJGZ0JJMmxUZWZsZ1pIWUFUb21CTEgwdllPVW1WU0lnYTFld2JoRm5XTm9GQXE5QnRsb1VucVFPR1pfbEtLQ25oT3p6aEpndlRiLThUcWF0LUxzT2ZPMTZfVGQ0ZE5vVmJIZVhRWUhqWUd6aXByNWMyRjZfTWJPWDhZOTNvNzJJLU5WRER6eGI4UEtPMFFxcFFTTFhzMXpsNHFsYWJHd2R3bkljMFR5Mi1QZGcyM05qcXFEblJoRW55bkstUkIyRHNpT2ZRN2wwd3g2V244VUo1Mk9MdzFPMk5jeUctZ0Z1cFRsQmtYeksyUzFLMDVXb3BXVWkyU0NyX2dpWXpfQkZCSXNwT25NRVpwWFVFSXk2TEpPX19hUlpibFVLZm5fbmk0REpVWURfY0RtVU8xX2JqUl9UTHZkSXfSAbQEQVVfeXFMUGh0ZWZFVnJ6VDVjWHBDVXVXZ0FYNXRPeENWUU9neTh1d0VOMWZTZjFtSTVXWW9VQXlkVnFBN3U5RE1WSVVyU1ozUGFxTWFYazR5c2NOanI1eGgzUkNCeXdCUEh5LUh6ZTdZRnVFbzRvNlc5dGNqcGJfZHJBUFNCY29HTFh5Z184VTJ4Q3NiRjl6YV9RdUJMMzZ6WUhpSjQ5MmxzSXhlY2lNX3B2N0s0TUFGckFiYmNXOGtaMTJ4OHZNX2x2RWYxeko0VjVjUWphTDZoUmNRdFZSTzlKUThBRzJYaDZ2NHMxS3ZjektsM05iU0RBQ1R0cThGV3lCRmdCSTJsVGVmbGdaSFlBVG9tQkxIMHZZT1VtVlNJZ2ExZXdiaEZuV05vRkFxOUJ0bG9VbnFRT0daX2xLS0NuaE96emhKZ3ZUYi04VHFhdC1Mc09mTzE2X1RkNGROb1ZiSGVYUVlIallHemlwcjVjMkY2X01iT1g4WTkzbzcySS1OVkREenhiOFBLTzBRcXBRU0xYczF6bDRxbGFiR3dkd25JYzBUeTItUGRnMjNOanFxRG5SaEVueW5LLVJCMkRzaU9mUTdsMHd4NlduOFVKNTJPTHcxTzJOY3lHLWdGdXBUbEJrWHpLMlMxSzA1V29wV1VpMlNDcl9naVl6X0JGQklzcE9uTUVacFhVRUl5NkxKT19fYVJaYmxVS2ZuX25pNERKVVlEX2NEbVVPMV9ialJfVEx2ZEl3?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -648,7 +683,7 @@
       "originalHeadline": "العاشرة | وقف النار في لبنان.. ومواجهة حول اعتداءات إيران على الكويت - العربية"
     },
     {
-      "headline": "The Saudi Foreign Ministry condemns Israel’s incursion into Lebanon and calls for it to be stopped immediately - Youm7",
+      "headline": "The Saudi Foreign Ministry condemns Israel’s incursion into Lebanon and calls for its immediate halt - Youm7",
       "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPUTFKVHVGN3psTnNmTGpXbFJ0ZGRaY05ENXJXaXh4VlZ4YlEzd1dhSnBIR2xxb1NQeHBiV1FKZHo0YlNfdUIzTllFTnJfNC1MNDQ4RlBldFZDcEtLR2NDMnloQnU4bXgzVVl1cXAyRkFCUDZqVmd5YTFpNFc3TDlIblFIMlFQZVRrQ1puS2dpenM2X0lhME5nLWUwWVBLUEExT2JDaDVwdzZabm9yc0dUYXVYVnBIdGk3b1YzZWd2RXRfMk54dXNrOURMUnhvZGJ2QW93ZkRyT1RhSlNmTE05T1piSHQ0dmFxM2pvaHMyQW1zVDNGdEhzUlVjU0t4ZnFBdGxFSDd3ZERKWFpueTY2RXBuSFcwSFoyTFFaSHN2NUVURU91allXR2tIOU01X1N3blhUejV0UWxwOVVrX2M3V3FBdWNaTWJ0YVg2NE1rNGMyUHZ0d3ZGaVkySTlXd0MxcXpEVnZHNGMxQzhGRDB1WURmSExEaGVOMmhwRGhmNXI5ZFVqcnZHelh6RjBPTWZ3MExHVGRNeVJ4aXpoYWlBUF9CRVNNa3pncXpQYU5qa090bjNTRExqX3dNbDRhYlBNMTlUcFEwbmNIZkpaamdUMW9XbUxiY2Y3am5xTGZLTURrdldLZ2lLNjZabjFfeWdSSUlOZk1aVkpVUUJ6SzkwYTJIcnXSAf8DQVVfeXFMTXRENmtBY3U4OGNLRG8yUlMtWHExREVJOF92cWxQRndaMVVWZVZoRlpRQ2xzV2hrc0VadnVSUDVvbHZROW5ZeF9UcVd6MnhnTHk5NWEtWElHTU9DY0ppeks0am9uZDdaa1l4emI0RVlqR0JBbnJYV3NmWV9xRnYwVkpCdlp3N3dkMnZHN0pvQ0R0VUVlZmtMWVZsMENSNndscW9qWlhwLWxjUDNIRElGVFRHMUdyQnM3RVQzVmQyZWVvNk5vQkUtQV9RNEt2dnE5ODhKYmViNk5ocTVlZlMxUEFNem5nQ04wb3Z4X2dTVG5VUnNqVlpRWlVuWHRoVW1wem13QjhPWTZJdGRReXl4SHM0VHJvNkFCN1YwMkJqN0pMSENiRWM0RVVzRkxtLUF0V0s0TkpGZ2JGbkRPczB4cVNTbXU1R3RVVklHbVh2b1dydDVhWXI5UnZPUl9MMWpPazRlNExFOVRXdEpQZkRIOURqTUtaTnljMHctNXBKa3BmZHhvYmdhNTc2d0g2Z3pCbU1pYlN1Nks3MG9ZakZjUHk0ekYxcmxabUF4aFVDa2lra05TcldVNnBiallNOUFaeWJuVTRwc1M4NmJYUnpGVVNPeVcwdkRER3dFUzJ2MldJWGdBWm9zeFo3VzQ3Tkd6b0YtY185akd2Y2kzXzJpVQ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -656,7 +691,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-01T21:21:00.000Z",
-      "originalHeadline": "الخارجية السعودية تدين توغل إسرائيل فى لب��ان وتدعو لوقفه فورا - اليوم السابع"
+      "originalHeadline": "الخارجية السعودية تدين توغل إسرائيل فى لبنان وتدعو لوقفه فورا - اليوم السابع"
     },
     {
       "headline": "Custodian of the Two Holy Mosques’ Gift of Holy Qurans Reaches Pilgrims Departing Through Prince Mohammad bin Abdulaziz International Airport",
@@ -756,6 +791,17 @@
       "originalHeadline": "قائمة منتخب قطر النهائية لكأس العالم 2026 - annahar.com"
     },
     {
+      "headline": "Iran Eyes Limited US Deal to Relieve Economic Strain and Buy Time",
+      "url": "https://english.aawsat.com/features/5279424-iran-eyes-limited-us-deal-relieve-economic-strain-and-buy-time",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-01T20:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Lebanon Says Israeli Strike Damages Hospital in Tyre as UN Alarmed by Escalation",
       "url": "https://english.aawsat.com/arab-world/5279438-lebanon-says-israeli-strike-damages-hospital-tyre-un-%E2%80%98alarmed%E2%80%99-escalation",
       "source": "Asharq al-Awsat (EN)",
@@ -780,17 +826,6 @@
     {
       "headline": "Türkiye Erdogan Distances Govt from Main Opposition Crisis , Warns Against Unrest",
       "url": "https://english.aawsat.com/world/5279421-t%C3%BCrkiye%E2%80%99s-erdogan-distances-govt-main-opposition-crisis-warns-against-unrest",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-01T20:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iran Eyes Limited US Deal to Relieve Economic Strain and Buy Time",
-      "url": "https://english.aawsat.com/features/5279424-iran-eyes-limited-us-deal-relieve-economic-strain-and-buy-time",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -907,7 +942,7 @@
       "originalHeadline": "مصر تدين بأشد العبارات الهجمات الإيرانية الآثمة على دولة الكويت - الاتحاد للأخبار"
     },
     {
-      "headline": "8 players excluded from Qatar's final roster for the 2026 World Cup - CNN Arabic",
+      "headline": "8 players excluded from Qatar’s final roster for the 2026 World Cup - CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDAzbXIwMEdaeTN2MTZwNUlCLXhjWGRJakQ5dFl1ZGJfeVFRb2Y2TWtxMUNGNTI0eEY0V1ZnTnVzaUZ6R2k2YXQyc2NPR2ZVVFZ4c0VYRGtDTXBoUWRxVGhyNk5uaGpRcWRHRGZRX1JOOVV4d2hBM2dDSmJORlJIeUVLY9IBjgFBVV95cUxOOFNLWDlabG55OVBEemp5WmhVdUVOTFcwSVRxYlk4d3BRUHhsUEhncGRocTNIRnZKaTdLaVVTMnBDUmhwODlCd0dicEVkM09wdi1RbUIzVWNLUmFBZFlENWVBTkprRHR2R0JOVTBFd1JFZHpDVlFpRmNXaWlzRHBlUFgyWEs4YjV3VVROT0RR?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -915,7 +950,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-01T20:15:44.000Z",
-      "originalHeadline": "استبعاد 8 لاعبين من القائمة النهائية لقطر في مونديال 2026 - CNN Arabic"
+      "originalHeadline": "استبعاد 8 لاعبين من ��لقائمة النهائية لقطر في مونديال 2026 - CNN Arabic"
     },
     {
       "headline": "8 players excluded from Qatar's final roster for the 2026 World Cup - CNN Arabic",
@@ -1436,7 +1471,7 @@
       "date": "2026-06-01T19:30:07.007Z"
     },
     {
-      "headline": "Saudi logistical paths...a “turning point” that re-engineers the concepts of supply security - Arabic",
+      "headline": "Saudi Arabia’s logistical routes...a “turning point” that re-engineers the concepts of supply security - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNUlI3SjY3aTRoM0RYNTkyZXNlQWp2VXp5V0tLMFNlRlZ6THNJQXFkVERtdTZyUWQ5dVFqeHE0UE9KTm5YV1pndGVOd2hVU09nX1k2bFV6SmJNaDFYNWtHbTljMDl1UzJXNlA4VWxhUnJ0b3V0YXNCNUpXNDVQd3NxajFBOEx6V1J5c3hORkh0MXgtUG5EUHRHNGh6NTdqRHB0cGowU0haUzRBR2FjemhTa3FWSG4yc3g0M1Fvb3J2QTdVMElSempWamhISHRjcjFhNVYxemJhSlhySEJXZzVxdjlJRUVDMndUc1VKNzBoalVxUjRWWGxlc2EyWEg2Smk2bkphbGpFaUNpQUpZTlNVTUVhazU2bnRnOHd6Y2lITzVBN1hFUlZWUkRZaFlpVENCV3Z2bUVlMElfOXlJZHBNaGtMZm1pc3hrN1JyWHlpVzhoMFdiTjE1N1BRdmJENV9YNkg2bjZTSE9ETUhmbm0tNEVES2duZTNCLUplc1lzRTVxQ0VieE9ONTFVUF9LM21uZk9ZazM4ZDVEOXJ0VkhaMTRka1h1NTVCeVVSSm1Ya281Umg2Q1BzVlVOUlZDTzlFM2JCNmczNHVJUlZGdXhIVUxJY0J3bUVTMko2aFR2dnF5U2txQTJncjhKSU5nN1l4Ujl1aHBmdzlFTmZ1QzRKWUswRVptTk1udGllUW5RZElockxxTFBUcFFGMktMc3plTF9TUXNXblNhM1d1TVh6SW91R1hPVEF2bFpfai1OMHQyVTZIQ0RWWNIByARBVV95cUxNUlI3SjY3aTRoM0RYNTkyZXNlQWp2VXp5V0tLMFNlRlZ6THNJQXFkVERtdTZyUWQ5dVFqeHE0UE9KTm5YV1pndGVOd2hVU09nX1k2bFV6SmJNaDFYNWtHbTljMDl1UzJXNlA4VWxhUnJ0b3V0YXNCNUpXNDVQd3NxajFBOEx6V1J5c3hORkh0MXgtUG5EUHRHNGh6NTdqRHB0cGowU0haUzRBR2FjemhTa3FWSG4yc3g0M1Fvb3J2QTdVMElSempWamhISHRjcjFhNVYxemJhSlhySEJXZzVxdjlJRUVDMndUc1VKNzBoalVxUjRWWGxlc2EyWEg2Smk2bkphbGpFaUNpQUpZTlNVTUVhazU2bnRnOHd6Y2lITzVBN1hFUlZWUkRZaFlpVENCV3Z2bUVlMElfOXlJZHBNaGtMZm1pc3hrN1JyWHlpVzhoMFdiTjE1N1BRdmJENV9YNkg2bjZTSE9ETUhmbm0tNEVES2duZTNCLUplc1lzRTVxQ0VieE9ONTFVUF9LM21uZk9ZazM4ZDVEOXJ0VkhaMTRka1h1NTVCeVVSSm1Ya281Umg2Q1BzVlVOUlZDTzlFM2JCNmczNHVJUlZGdXhIVUxJY0J3bUVTMko2aFR2dnF5U2txQTJncjhKSU5nN1l4Ujl1aHBmdzlFTmZ1QzRKWUswRVptTk1udGllUW5RZElockxxTFBUcFFGMktMc3plTF9TUXNXblNhM1d1TVh6SW91R1hPVEF2bFpfai1OMHQyVTZIQ0RWWA?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1444,7 +1479,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-01T19:23:05.000Z",
-      "originalHeadline": "مسارات السعودية اللوجيست��ة.. \"نقطة تحول\" تعيد هندسة مفاهيم أمن الإمدادات - العربية"
+      "originalHeadline": "مسارات السعودية اللوجيستية.. \"نقطة تحول\" تعيد هندسة مفاهيم أمن الإمدادات - العربية"
     },
     {
       "headline": "Quase 30 % das mortes por influenza no Brasil em 2026 foram registradas nas últimas 2 semanas : Doença do meu filho progrediu rápido demais",
@@ -3258,37 +3293,6 @@
       "language": "ar",
       "date": "2026-06-01T13:16:00.000Z",
       "originalHeadline": "تفعيل الربط الإلكتروني بين بورصة عمان وسوق أبوظبي عبر منصة \"تبادل\" - العربية"
-    },
-    {
-      "headline": "Journey to Mecca: Scenes from the annual hajj pilgrimage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHN2dDlUMV9Kak9ndW04eG15SzctbWhvUTNYOTJvcEpsR2tuWUFzZmhvSzlDanZRZ3o2aVR6aXpZNVI3WVN2T002UGJlakQtVjZHZjJFOHRwVUV5VHNPaHQ4aU53VEZsc0wzVjczWmcyYS00TmM5N3QxR1VHb052NUljT2NBSlk5VUdzQlBQenNIQQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-01T13:16:00.000Z"
-    },
-    {
-      "headline": "(8012.SE) | Stock Price &amp; Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUhtbjUwX255ZXR2UllvbE5WZGxnVkFRNmRRTU9xZmV1a1FoUE9JQnZKbm1mcGtvVVdMcmlrSHdEeTRMR3dVSE1vZ0RuUE0zMXpUSVVuZ0Fic2RNY2FvUDEyVjVQMlNT?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-01T13:14:44.000Z"
-    },
-    {
-      "headline": "#statement | The Ministry of Foreign Affairs expresses the Kingdom of Saudi Arabia’s condemnation of the Israeli aggression on the territory of the sisterly Lebanese Republic, and its categorical rejection of the Israeli incursion into the territory of Lebanon and the attack on i",
-      "url": "https://x.com/KSAMOFA/status/2061436158052110822",
-      "source": "Saudi MFA",
-      "sourceId": "twitter_ksamofa",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-01T13:14:14.000Z",
-      "originalHeadline": "#بيان | تعرب وزارة الخارجية عن إدانة المملكة العربية السعودية للعدوان الإسرائيلي على أراضي الجمهورية اللبنانية الشقيقة، ورفضها القاطع للتوغل الإسرائيلي داخل أرض لبنان والاعتداء على سيادته."
     }
   ]
 }
