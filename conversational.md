@@ -1,56 +1,73 @@
-Saudi Crown Prince MBS [offered condolences](https://spa.gov.sa/N2604388) by phone to the family of former Yemeni President Abd Rabbuh Mansour Hadi, who died recently, according to the Saudi Press Agency. Prince Khalid bin Salman separately [conveyed condolences](https://twitter.com/kbsalsaud) from the Saudi leadership, calling Hadi "a wise leader who was keen on the security, stability, development and prosperity of his country." The death of the internationally recognized former president removes a key figure from Yemen's complex political landscape, where his government has been backed by the Saudi-led coalition since the Houthis seized Sanaa in 2015.
+**Daily Gulf Briefing - June 2, 2026**
 
-Saudi authorities [seized 845,087](https://twitter.com/MOISaudiArabia) amphetamine tablets hidden inside cardboard sheets in the Eastern Province, the Interior Ministry announced. The operation represents one of the larger recent drug busts in the kingdom's ongoing anti-narcotics campaign.
+The United States conducted airstrikes on Iranian military sites following Iranian missile attacks on U.S. troops stationed in Kuwait, marking a dangerous escalation in the ongoing regional conflict. [AP reports](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d) that American forces then shot down additional missiles Tehran fired at troops in Kuwait after the strikes. Kuwait's cabinet [strongly condemned](https://twitter.com/kuna_en) the repeated Iranian missile and drone attacks targeting the country's territory, describing them as "a flagrant violation of Kuwait's sovereignty & security."
 
-## Energy & Economy
+Foreign Minister Prince Faisal bin Farhan said Saudi Arabia "highly appreciates" President Trump's decision to [give diplomacy](https://twitter.com/FaisalbinFarhan) a chance to reach an agreement ending the war and restoring freedom of navigation in the Strait of Hormuz. [Reuters reports](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/) that Secretary of State Rubio told lawmakers the U.S. has not offered Iran sanctions relief to reopen the strait as the Iran conflict enters its fourth month.
 
-• Asian crude imports from the US [have surged](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) but cannot offset shipping losses from potential Strait of Hormuz disruptions, Reuters reports, highlighting Asia's vulnerability to Gulf energy supply routes.
+**Energy & Economy**
 
-• The Saudi stock index [closed up](https://gate.ahram.org.eg/News/5665742.aspx) 6.03 points, according to Al-Ahram Gate.
+• Oil markets remain volatile as [Reuters reports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/) Asia's imports of U.S. crude surge but cannot offset losses from the blocked Strait of Hormuz.
 
-• Dubai's government app DubaiNow recorded [2.4 million users](https://twitter.com/DXBMediaOffice) in Q1 2026, representing 19.4% growth compared to the same period in 2025, with 380 services available.
+• [Reuters notes](https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/) Syria is receiving a windfall as airlines reroute flights over its airspace due to the Iran war.
 
-## Country Watch
+• Dubai [ranks first](https://twitter.com/DXBMediaOffice) regionally and 12th globally in the "Cities Shaping the Future" report, which identifies cities driving business growth.
+
+• [Al Jazeera reports](https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A) Qatar and Indonesia are strengthening their defense partnership.
 
 **Saudi Arabia**
-• [Eight Arab and Islamic](https://twitter.com/KSAMOFA) foreign ministers, including Prince Faisal bin Farhan, condemned Israeli settler incursions into Al-Aqsa Mosque compound, according to the Saudi Foreign Ministry.
-• The Custodian of the Two Holy Mosques [issued a royal order](https://spa.gov.sa/N2604029) promoting 327 members of the Public Prosecution at various judicial ranks, per the Saudi Press Agency.
+
+• Narcotics Control [seized 845,087](https://twitter.com/MOISaudiArabia) amphetamine tablets hidden inside cardboard sheets in the Eastern Region.
+
+• The late former Yemeni President Abd Rabbuh Mansour Hadi passed away, with Crown Prince Mohammed bin Salman [offering condolences](https://twitter.com/spagov) to the family by telephone.
+
+• Prince Khalid bin Salman [met with](https://twitter.com/kbsalsaud) UK National Security Adviser Jonathan Powell to discuss Saudi-British cooperation and regional challenges.
 
 **UAE**
-• The government [launched the Naseej](https://twitter.com/UAEmediaoffice) National Textile Recycling Initiative to transition the textile sector toward a circular economic system under President Sheikh Mohamed bin Zayed's directives.
-• Sheikh Mohammed bin Rashid announced the [first batch](https://twitter.com/HHShkMohd) of AI assistants in procurement, taxes, customer happiness and technical support during a government retreat attended by over 400 officials.
-• The US Special Operations Command [honored](https://twitter.com/modgovae) Major General Muslim Mohammed Saeed Al Rashidi with a medal for his contributions to bilateral defense cooperation.
+
+• The UAE [launched #Naseej](https://twitter.com/UAEmediaoffice), the National Initiative for Textile Circularity, under President Sheikh Mohamed bin Zayed's directives.
+
+• Sheikh Mohammed bin Rashid [announced](https://twitter.com/HHShkMohd) the launch of artificial intelligence assistants for procurement, taxes, and customer services as part of a new AI-powered government system.
+
+• The Defense Ministry said the U.S. Special Operations Command [honored](https://twitter.com/modgovae) Major General Muslim Mohammed Saeed Al Rashidi with a medal recognizing contributions to bilateral cooperation.
 
 **Qatar**
-• Qatar News Agency [reports](https://ow.ly/iYXF50Z6N6Q) Qatar's new football generation is ready for their first World Cup appearance at FIFA 2026.
-• Defense Minister strengthened ties with Indonesia, according to Al Jazeera Net.
+
+• PM Mohammed bin Abdulrahman Al Thani was [appointed](https://twitter.com/MBA_AlThani_) as Prime Minister by Emir Sheikh Tamim bin Hamad Al Thani.
+
+• Foreign Ministers from eight Arab and Muslim nations, including Qatar, [condemned](https://twitter.com/QNAEnglish) Israeli settler incursions into Al-Aqsa Mosque.
 
 **Bahrain / Kuwait / Oman**
-• Bahrain's Interior Ministry [banned citizens](https://policemc.gov.bh/en/news/79019/) from traveling to Iran and Iraq due to ongoing security tensions.
-• Kuwait's foreign minister [held talks](https://kuna.net.kw/ArticleDetails.aspx?id=3306200) with his Pakistani counterpart on regional developments, KUNA reports.
-• Prince William received [Omani Culture Minister](https://2u.pw/NpsltIe4) Sayyid Theyazin at Windsor Castle to discuss bilateral relations and the "Oman: The Jewel of Arabia" exhibition project.
+
+• Bahrain's Interior Ministry [banned citizens](https://twitter.com/moi_bahrain) from traveling to Iran and Iraq due to ongoing security tensions.
+
+• Oman's Foreign Minister [met with](https://twitter.com/badralbusaidi) Iran's Deputy FM, reaffirming the importance of diplomatic engagement to reduce regional tensions.
+
+• Prince William of Wales [received](https://twitter.com/ONA_eng) HH Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss Oman-UK relations.
 
 **Yemen**
-• The IRG presidency [renewed its request](https://sabanew_.png) to Saudi Arabia to intervene to stop Emirati interference, according to Saba News Agency.
-• Houthi spokesperson Mohammed Abdulsalam [announced an agreement](https://twitter.com/abdusalamsalah) to cancel recent banking decisions, resume Yemenia flights to Jordan and increase them to three daily.
-• Former field commander Tarik Saleh [stated](https://twitter.com/tarikyemen) his forces remain committed to their December 2017 battle against the Houthis.
 
-## Official Signals
+• Saudi envoy Mohammed AlJabir [announced](https://twitter.com/mohdsalj) he will visit Sana'a with an Omani delegation to consolidate the truce and support prisoner exchanges.
 
-• Foreign Minister Prince Faisal bin Farhan [praised](https://twitter.com/FaisalbinFarhan) Trump's decision to "give diplomacy a chance" to end the conflict and restore maritime navigation security in the Strait of Hormuz.
+• IRG Information Minister Mohammed Al-Eryani [thanked](https://twitter.com/ERYANIM) U.S. Congressman Joe Wilson for introducing an amendment to strengthen U.S.-Yemen defense cooperation.
 
-• UAE Minister of State Anwar Gargash [criticized](https://twitter.com/AnwarGargash) Turkey's defense minister for making "provocative statements," saying relations "are not managed by threats and intimidation" and urging Turkey to "stop its interference in Arab affairs."
+• Houthi spokesperson Mohammed Abdulsalam [published](https://twitter.com/abdusalamsalah) the text of an agreement to cancel recent banking decisions and resume Yemenia Airlines flights between Sana'a and Jordan.
 
-## Coverage Flags
+**Official Signals**
 
-Reuters appears ahead on the Iran-related shipping story, providing detailed analysis of Asian energy import patterns that local Gulf outlets have not matched. The death of former Yemeni President Hadi is receiving extensive Arabic-language coverage but limited English reporting beyond official statements.
+• Prince Faisal bin Farhan [chaired](https://twitter.com/FaisalbinFarhan) an International Conference on the Palestinian Issue in partnership with France's Foreign Minister, calling for implementation of the two-state solution.
 
-## Sources
+• Anwar Gargash [criticized](https://twitter.com/AnwarGargash) Turkey's Defense Minister for provocative statements, saying "there is no place for colonial illusions in this time."
 
+**Coverage Flags**
+
+International outlets are ahead on the Iran-Kuwait military escalation story, with detailed reporting on U.S. strikes and Iranian responses that merits dedicated NYT Gulf coverage.
+
+**Sources**
+
+• [AP News](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)
+• [Reuters](https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/)
 • [Reuters](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/)
-• [Saudi Press Agency](https://spa.gov.sa/N2604388)  
-• [Times of Oman](https://timesofoman.com)
-• [BBC Middle East](https://www.bbc.com/news/articles/c936zvne0l6o)
-• [Google News Gulf (Arabic)](https://www.aljazeera.net/news/2026/6/2/)
-• [Kuwait News Agency](https://kuna.net.kw)
-• [Qatar News Agency](https://ow.ly/iYXF50Z6N6Q)
+• [Reuters](https://www.reuters.com/world/middle-east/iran-war-hands-syria-windfall-airlines-reroute-over-its-airspace-2026-06-01/)
+• [Al Jazeera](https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A)
+• Times of Oman
+• Google News Gulf (Arabic)

@@ -1,52 +1,56 @@
 **Top News**
 
-- **Saudi Arabia** seized 845,087 amphetamine tablets hidden inside cardboard sheets in the Eastern Region ([Saudi Interior Ministry](https://twitter.com/MOISaudiArabia/status))
-- **UAE** announced its first place globally in artificial intelligence talent concentration growth at 121% between 2019 and 2025, according to Sheikh Abdulla bin Zayed ([Sheikh Abdulla bin Zayed](https://twitter.com/ABZayed))
-- **Saudi Arabia's** Crown Prince offered condolences to the son of former Yemeni President Abd Rabbuh Mansour Hadi, who died, according to Prince Khalid bin Salman ([Prince Khalid bin Salman](https://twitter.com/kbsalsaud))
-- **Oman's** Sultan left for a three-day state visit to Belgium to meet King Philippe Leopold Louis Marie ([Times of Oman](https://timesofoman.com//article/172505-ram-launches-public-policy-design-implementation-programme))
-- **Saudi Foreign Minister** Prince Faisal bin Farhan praised Trump's decision to give diplomacy a chance to end the war and restore freedom of navigation in the Strait of Hormuz ([Prince Faisal bin Farhan](https://twitter.com/FaisalbinFarhan))
-- **Qatar and Indonesia** strengthened their defense partnership, according to Al Jazeera Net ([Google News Gulf](https://www.aljazeera.net/news/2026/6/2/))
+- United States bombed Iranian military sites then downed missiles Tehran fired at troops in Kuwait, AP News reports ([AP](https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d)).
+- Iran stopped talking to mediators over Israel fighting Hezbollah in Lebanon, according to Iranian reports ([AP](https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982)).
+- Kuwait's cabinet strongly condemned repeated Iranian missile and drone attacks targeting the country's territory, describing them as a dangerous escalation, the Kuwait News Agency ([KUNA](https://kuna.net.kw)) reported.
+- Trump said Israel and Hezbollah agreed to dial back fighting while negotiations with Iran remained ongoing, AP News ([reports](https://apnews.com/article/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes-a4708d5ed8d75f74463ba88c1cabca33)).
+- Prince Khalid bin Salman conveyed condolences from Saudi leadership to the family of former Yemeni President Abd Rabbuh Mansour Hadi on his death, according to his ([Twitter](https://twitter.com/kbsalsaud)) account.
+- Saudi Arabia's Crown Prince received a phone call from French President Macron to discuss bilateral cooperation and regional security developments, Saudi Press Agency ([reported](https://spa.gov.sa)).
 
 **Energy & Economy**
 
-- **Asia's** imports of US crude surged but cannot offset losses from the Hormuz Strait closure, according to ([Reuters](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/))
-- **Saudi** stock market index closed up 6.03 points, Al-Ahram Gate reported ([Google News Gulf](https://gate.ahram.org.eg/News/5665742.aspx))
-- **UAE** launched the National Textile Recycling Initiative called Naseej as part of transitioning to a circular economic system ([UAE Gov Media Office](https://twitter.com/UAEmediaoffice))
+- Asia's imports of US crude surged but cannot offset Hormuz losses, Reuters ([reports](https://www.reuters.com/markets/commodities/asias-imports-us-crude-surge-cant-offset-hormuz-losses-2026-06-02/)).
+- Dubai ranked first regionally and 12th globally in the "Cities Shaping the Future" report identifying global cities driving business growth, Dubai Media Office ([announced](https://twitter.com/DXBMediaOffice)).
+- UAE is first globally in artificial intelligence talent concentration, growing 121% between 2019 and 2025, according to Sheikh Abdulla bin Zayed's ([Twitter](https://twitter.com/ABZayed)) account.
+- Qatar and Indonesia strengthened their defense partnership during high-level meetings, Al Jazeera ([reported](https://www.aljazeera.net/news/2026/6/2/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A)).
 
 **Country Watch**
 
 **Saudi Arabia**
-- **Saudi Arabia** promoted 327 members of the Public Prosecution at various judicial ranks through a royal order ([Saudi Press Agency](https://twitter.com/spagov))
+- Foreign Ministers from Saudi Arabia and eight Arab and Islamic countries condemned Israeli settler incursions into Al-Aqsa Mosque, Saudi MFA ([announced](https://twitter.com/KSAMOFA)).
+- Saudi narcotics control seized 845,087 amphetamine tablets hidden inside cardboard sheets in the Eastern Region, Interior Ministry ([reported](https://twitter.com/MOISaudiArabia)).
 
 **UAE**
-- **Dubai** reported 380 services and 2.4 million users on DubaiNow App during Q1 2026, representing 19.4% growth ([Dubai Media Office](https://twitter.com/DXBMediaOffice))
+- UAE launched the national textile recycling initiative Naseej to transition the textile sector to a circular economic system, according to UAE Government Media Office ([Twitter](https://twitter.com/UAEmediaoffice)).
+- US Special Operations Command honored Major General Muslim Al Rashidi with a medal recognizing contributions to US-UAE military cooperation, UAE Defense Ministry ([announced](https://twitter.com/modgovae)).
 
-**Qatar**
-- **Qatar's** new generation prepared for their first World Cup appearance at FIFA 2026 ([Qatar News Agency](https://twitter.com/QNAEnglish))
+**Qatar** 
+- Qatar appointed Mohammed bin Abdulrahman Al Thani as Prime Minister, according to his ([Twitter](https://twitter.com/MBA_AlThani_)) account.
+- Qatar's new generation is ready for its first World Cup appearance at FIFA 2026, Qatar News Agency ([reported](https://twitter.com/QNAEnglish)).
 
 **Bahrain**
-- **Bahrain** banned citizens from traveling to Iran and Iraq due to ongoing security tensions ([Bahrain Interior Ministry](https://twitter.com/moi_bahrain))
+- Bahrain Ministry of Interior banned citizens from traveling to Iran and Iraq due to ongoing security tensions, the ministry ([announced](https://policemc.gov.bh)).
 
-**Kuwait**
-- **Kuwait** recaptured three escaped prisoners, including two death row inmates and a drug smuggler ([Independent Arabia](https://www.independentarabia.com/node/650268/))
+**Oman**
+- Prince William of Wales received Sayyid Theyazin bin Haitham Al Said at Windsor Castle to discuss UK-Oman relations, Oman News Agency ([reported](https://twitter.com/ONA_eng)).
+- Oman's foreign minister met with Iran's deputy foreign minister, with both sides reaffirming the importance of diplomatic engagement, Badr Albusaidi ([tweeted](https://twitter.com/badralbusaidi)).
 
 **Yemen**
-- **Yemen's IRG** announced the appointment of Ahmed Hamid Lamlas as governor of Aden Governorate ([Saba News Agency](https://twitter.com/sabanew_))
+- IRG Information Minister Mohammed Al-Eryani met with the family of deceased former President Abd Rabbuh Mansour Hadi to offer condolences, according to his ([Twitter](https://twitter.com/ERYANIM)).
+- Houthi spokesperson Mohammed Abdulsalam announced a text of agreement to cancel recent banking decisions and resume Yemenia Airlines flights between Sanaa and Jordan, his ([Twitter](https://twitter.com/abdusalamsalah)) account showed.
 
 **Official Signals**
 
-- **Saudi and Arab Foreign Ministers** condemned Israeli extremist settlers storming Al-Aqsa Mosque and raising the Israeli flag in its courtyards ([Saudi MFA](https://twitter.com/KSAMOFA))
-- **UAE's** Sheikh Mohammed bin Rashid launched the first batch of AI assistants in procurement, taxes, customer happiness, and technical support during a government retreat ([Sheikh Mohammed bin Rashid](https://twitter.com/HHShkMohd))
+- Saudi Foreign Minister Prince Faisal bin Farhan highly appreciated Trump's decision to give diplomacy a chance to end the war and restore maritime navigation in the Strait of Hormuz, according to his ([Twitter](https://twitter.com/FaisalbinFarhan)).
+- UAE's Anwar Gargash criticized Turkey's Defense Minister for provocative statements, calling them a new downfall for Turkish diplomacy, his ([Twitter](https://twitter.com/AnwarGargash)) showed.
 
 **Coverage Flags**
 
-- Multiple Gulf news websites experienced access restrictions or security verification requirements today
+- Multiple outlet homepages showed Hajj coverage dominating Saudi media, with pilgrims returning to the Prophet's Mosque featured prominently.
 
 **Sources**
-
 - [Times of Oman](https://timesofoman.com)
 - [Reuters Gulf](https://www.reuters.com)
-- [BBC Middle East](https://www.bbc.com/news/world/middle_east)
-- [Saudi Press Agency](https://spa.gov.sa)
-- [Emirates News Agency](https://wam.ae)
-- [Qatar News Agency](https://qna.org.qa)
+- [AP Gulf](https://apnews.com)
+- [BBC Middle East](https://www.bbc.com)
+- [Google News Gulf (Arabic)](https://news.google.com)
