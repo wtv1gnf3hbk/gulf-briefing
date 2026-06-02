@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T07:17:38.054Z",
+  "updated": "2026-06-02T07:32:42.205Z",
   "itemCount": 300,
   "items": [
     {
@@ -10,7 +10,48 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-02T07:09:40.000Z"
+      "date": "2026-06-02T07:29:50.000Z"
+    },
+    {
+      "headline": "Islamic Affairs Ministry Distributes Custodian of the Two Holy Mosques' Gift of Quran Copies at Al-Hadithah Border Crossing",
+      "url": "https://www.spa.gov.sa/en/N2604804?type=news&uuid=N2604804",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-02T07:28:49.000Z"
+    },
+    {
+      "headline": "Sharjah Higher Committee for Digital Integration reviews government service development",
+      "url": "https://www.wam.ae/en/details/c0iu092-sharjah-higher-committee-for-digital-integration",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-02T07:25:22.031Z"
+    },
+    {
+      "headline": "Al-Jouf Region Ensures Seamless Departure of Pilgrims Following Hajj",
+      "url": "https://www.spa.gov.sa/en/N2604801?type=news&uuid=N2604801",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-02T07:21:40.000Z"
+    },
+    {
+      "headline": "Saudi Arabia records the birth of a rare animal for the first time in more than 100 years - CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWgxemZBeEZXS0l5bURkU3JIamgtaW94QnBhcHQyN01pRlpidVkxMWhHc2Rkd0lMZnMwbWVrN0VPZ2RxcVlUa3psZGowWGloTEJ2QVFtYmljTF9RRmM2QlRUUDh0Z3JpeWFva3ozYm9KbWxnRmVPMHRwNnJWd19YSFpRUHV1cFlJelpkRDBHZHgwYTQxUkHSAaABQVVfeXFMTnAwY0J4X0VRNS1mTlR2eGVmMzY2M3lNbU1FNzZsM2hlNHRqZGE2MkZRdmFWcmZ3LTR4d2djOGlwbjhYZHc4QS1jdlIzbUd6NndoRUV2M2JrUjBIQjVWdTJ6d3RSZ2hyVy1JU2ZfWkFNQ1o4VkxKOWpHeV9xeUhrRjBLVXdyQUY5bjkzNnNsZjRYYlJnQkFjRm9rcVp2NVlKcg?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-02T07:15:55.000Z",
+      "originalHeadline": "السعودية تسجل ولادة حيوان نادر لأول مرة منذ أكثر من 100 عام - CNN Arabic"
     },
     {
       "headline": "Gold in Bahrain awaits a break in stability as markets follow US data - Youm7",
@@ -110,6 +151,18 @@
       "originalHeadline": "\"أنماط التقنية\" تفوز بعقد من \"السعودية للطاقة\" بـ314.5 مليون ريال - العربية"
     },
     {
+      "headline": "Which one ends sooner? Oil reserves or war? How does Iran force Trump to make peace?",
+      "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-02T06:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "کدام زودتر تمام می‌شود ؛ ذخایر نفت یا جنگ ؟ ایران چگونه ترامپ را وادار به صلح می‌کند ؟"
+    },
+    {
       "headline": "Ukrainian Haiku Poet Finds Small Miracles in War",
       "url": "https://english.aawsat.com/culture/5279557-ukrainian-haiku-poet-finds-small-miracles-war",
       "source": "Asharq al-Awsat (EN)",
@@ -142,18 +195,6 @@
       "language": "en",
       "date": "2026-06-02T06:15:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Which one ends sooner? Oil reserves or war? How does Iran force Trump to make peace?",
-      "url": "https://www.bbc.com/persian/articles/cqlpny0ln0no",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-02T06:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "کدام زودتر تمام می‌شود ؛ ذخایر نفت یا جنگ ؟ ایران چگونه ترامپ را وادار به صلح می‌کند ؟"
     },
     {
       "headline": "Youth leaders at Warsaw Book Fair urge responsible AI use, promote intercultural dialogue",
@@ -548,7 +589,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-02T04:00:00.000Z",
-      "originalHeadline": "البحرين: العمال الوافدون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
+      "originalHeadline": "البحرين: العمال الواف��ون بلا إعانة رغم تضررهم من النزاع - Human Rights Watch"
     },
     {
       "headline": "The Prime Minister of Qatar and the Iranian Foreign Minister discuss by telephone mediation efforts between Washington and Tehran - Youm7",
@@ -827,16 +868,6 @@
       "originalHeadline": "العراقي محمد باقر الساعدي يؤكد براءته أمام محكمة أمريكية"
     },
     {
-      "headline": "Hezbollah - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-02T02:13:50.000Z"
-    },
-    {
       "headline": "Goldman Sachs expects elevated refined fuel margins through 2026 on Hormuz disruption - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWh5NzNLUUtUYV9LX2hiY0pWMGJ0OHl1Q0RYaW5scFN2dHJ2VEZvZU1IbElVRnlmTEN2bHROZU9oR2NySEhQYV92S0l4SzlCTFUyRGcza2I2VnRFZU9EYno4X3ZKemZaSllnYkMtVHR0SlVnNXBoNnN5VVdodHllTnJXMXM0bW8wTUZVVTRZbjJsNU54TmozMHYzTE1TNzBRSWxxNG9iS2cxc0ZMLTdldGpaOWVwamFBSy1oaEcwYlg?oc=5",
       "source": "Reuters Gulf",
@@ -920,6 +951,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-02T01:05:50.994Z"
+    },
+    {
+      "headline": "International efforts accelerate development of vaccine against Ebola’s Bundibugyo strain",
+      "url": "https://www.wam.ae/en/details/1792zzd-international-efforts-accelerate-development",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-02T01:05:30.713Z"
     },
     {
       "headline": "US stocks close higher",
@@ -1082,6 +1123,16 @@
       "date": "2026-06-02T00:59:08.881Z"
     },
     {
+      "headline": "US to issue commemorative coins for 2026 FIFA World Cup",
+      "url": "https://www.wam.ae/en/details/1792zyz-issue-commemorative-coins-for-2026-fifa-world-cup",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-02T00:58:50.669Z"
+    },
+    {
       "headline": "EU moves to tighten migration policies, establish external return centres",
       "url": "https://www.wam.ae/en/details/1792zyy-moves-tighten-migration-policies-establish",
       "source": "Emirates News Agency (WAM)",
@@ -1240,6 +1291,16 @@
       "date": "2026-06-02T00:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | تركي آل الشيخ : نزال The Comeback يعزز حضور المملكة كوجهة تستقطب أبرز الفعاليات العالمية"
+    },
+    {
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-02T00:00:48.000Z"
     },
     {
       "headline": "A scientific study reveals the “keys to happiness”",
@@ -1539,7 +1600,7 @@
       "originalHeadline": "تعرف إلى أبرز مباريات \"كأس العالم تحت 17 سنة قطر 2026\" ومواعيدها | التلفزيون العربي - التلفزيون العربي"
     },
     {
-      "headline": "\"Olam 5\" file; Controversy over the trial of pro-Palestinian activists in Germany",
+      "headline": "\"Olam 5\" case; Controversy over the trial of pro-Palestinian activists in Germany",
       "url": "https://www.bbc.com/persian/articles/c893jynq579o",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -3243,69 +3304,6 @@
       "language": "ar",
       "date": "2026-06-01T16:27:41.000Z",
       "originalHeadline": "حاج أردني يروي تفاصيل تعرضه لتوقف مفاجئ بالقلب ونجاح مدينة الملك عبدالله الطبية في إنقاذ حياته.\n\n#واس_حج47"
-    },
-    {
-      "headline": "The United States and Iran are exchanging accusations, and Kuwait is preparing for the possibility of being caught in the crossfire - France 24",
-      "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOY1QzRkNMdGFYb1RyRUhsaExaUWhlVHAzSE9za2N6R1VucVVhbUpyV2xYWmcxVlJFVHpKMTdQcWxUOFRZNWt6NHZqOHI3Yi10NUpTTUttTk13XzhxNUxuQzl3SmpPR21Mb3puSzRvcWYzeVUtM0Jfby01OUIwTHE0Uy1qWXI2Smx2aFZQckp1UWZ1MWw3TWR4UEVlWXltUVNFOGVoTmZpak82ZFVlWGsyNFJva1IyUmE4a2NQM0wyR2lBR1ZfM3dMYWh3ZDFGN3B1Rmh1bi1sdU9fdWxoYS1fY1ZPSlJlNW9nMm90WEk1VjRFdWRtRzVlb2ZvQjJaYUNuVEYybWhIZV9BSGVmaFdVVnp1enNaazNqTTZ3X3hHVlZPWERXUzRlaWh4ZnhQaTRONEQ0Q3pyMDZMT2pZZXpVRmt3aGdjLTNCYzJWRjZrUWc2Ny13NGVXekNBZE9RNGJVR3Z4dkRfVmNadmtlcWFyTGRJeEhPVzU3WTdRd2Nqa2NzQ1htUzFLMHhpanAtSV9DMHZyMEtMRTJaOFZqTmxubWp3MThTazh6QnBrRVp5YTJ1eGIyRUY2MFpDS3YwQzhjR1UyV09Hbi0xYVRzME5QSmdxRVhyRElwUS1wZlpsYWVwOS1UYlBBMHhjVFRzLXF3S0taQnhuWkJmQ3hoWDdpRGRlckxhbFVwY3I2VXJKVnhrREtxbXRFY1hJS3pPNU15LU5NTVdwNkdTcllWMnVEVXhrb3RBa1lrcl9kUUJfdzluSzYzZ3Z2WHd4UmlGY1kyUzVYemptbktfY1h6cnc5bHYtRGw0OEYxeV9xV0FUTXpRN3ZTbjczenF6dlJ0NWE5S0xiRGt5cHdjQWVu?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-01T16:17:45.000Z",
-      "originalHeadline": "الولايات المتحدة وإيران تتبادلان الاتهامات والكويت تستعد لاحتمال الوقوع في مرمى النيران - France 24"
-    },
-    {
-      "headline": "Heavy Rainfall Hits Jazan Region",
-      "url": "https://www.spa.gov.sa/en/N2604509?type=news&uuid=N2604509",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-01T16:16:17.000Z"
-    },
-    {
-      "headline": "The Prophet’s Mosque embodies an Islamic architectural legacy that extends throughout the ages.\n\nhttp://\nspa.gov.sa/ar/w2604490\n#Sass_Haj47",
-      "url": "https://x.com/SPAregions/status/2061481291447513626",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-01T16:13:35.000Z",
-      "originalHeadline": "المسجد النبوي يجسد إرثًا معماريًا إسلاميًا يمتد عبر العصور.\n\nhttp://\nspa.gov.sa/ar/w2604490\n#واس_حج47"
-    },
-    {
-      "headline": "The Governor of Taif follows up on the preparations of tourist sites in Al-Shifa.\n\nhttp://\nspa.gov.sa/ar/w2604486\n#SPA",
-      "url": "https://x.com/SPAregions/status/2061480967512969530",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-01T16:12:17.000Z",
-      "originalHeadline": "محافظ الطائف يتابع استعدادات المواقع السياحية في الشفا.\n\nhttp://\nspa.gov.sa/ar/w2604486\n#واس"
-    },
-    {
-      "headline": "New cyberlaw to enhance Oman's digital security",
-      "url": "https://timesofoman.com//article/172462-new-cyberlaw-to-enhance-omans-digital-security",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-01T16:12:16.000Z"
-    },
-    {
-      "headline": "Arab League Secretary-General Condemns Israeli Aggression against Lebanon",
-      "url": "https://www.spa.gov.sa/en/N2604504?type=news&uuid=N2604504",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-01T16:06:55.000Z"
     }
   ]
 }
