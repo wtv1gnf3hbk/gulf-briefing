@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-03T14:04:02.528Z",
+  "updated": "2026-06-03T14:17:45.688Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "RTA signs agreement with JAFZA to advance integrated road regulation in Dubai",
+      "url": "https://www.wam.ae/en/details/c0jfgf6-rta-signs-agreement-with-jafza-advance-integrated",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-03T14:12:06.245Z"
+    },
+    {
+      "headline": "Border Guards at Jadidat Arar Crossing Finalize Departure Procedures for Pilgrims",
+      "url": "https://www.spa.gov.sa/en/N2605882?type=news&uuid=N2605882",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-03T14:11:27.000Z"
+    },
+    {
+      "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-03T14:02:25.000Z"
+    },
+    {
+      "headline": "MoEI showcases National Data Center Observatory, signs MoU with 42 Abu Dhabi at Digital Readiness Retreat 2026",
+      "url": "https://www.wam.ae/en/details/c0jfgcd-moei-showcases-national-data-center-observatory",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-03T13:59:42.969Z"
+    },
     {
       "headline": "CPJ lists 10 steps to strengthen press freedom in Bangladesh",
       "url": "https://timesofoman.com//article/172554-cpj-lists-10-steps-to-strengthen-press-freedom-in-bangladesh",
@@ -33,6 +73,16 @@
       "date": "2026-06-03T13:51:23.960Z"
     },
     {
+      "headline": "Ukraine strikes St Petersburg oil terminal, naval base as Putin's 'Davos' gets under way - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXU1OFZuOUl3SEFtWTlaSzlzOTVNQVdreDdLaHVGcVdqeEM4aUY4MHg4Tmg3Z1FKb25kXzJuc2RoejFrcUhFcEsyYkxaenZnc0h0ZVhuN0UyLWthVUQzME5MV2swek5DeG9qaUh5U0dsdUhoallBUllBV1BHX0FucFRtWjhhbmU3TDFIYVhtWFNObTNyQkdydkMxVWJsbC00Z0h4eWR0SUdscFlrQVotbTFXUHBCR3V1bl85cmtqalFueEZaVnc?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-03T13:49:30.000Z"
+    },
+    {
       "headline": "G42, Banco Santander Sign MoU to explore strategic cooperation in artificial intelligence",
       "url": "https://www.wam.ae/en/details/c0jfgcb-g42-banco-santander-sign-mou-explore-strategic",
       "source": "Emirates News Agency (WAM)",
@@ -61,16 +111,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-03T13:46:24.000Z"
-    },
-    {
-      "headline": "One killed in Iranian drone strikes on Kuwait airport, local officials say",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-03T13:43:30.000Z"
     },
     {
       "headline": "Egypt condemns the Iranian attacks on Bahrain: they are sinful and a violation of the Kingdom’s sovereignty - Masrawy",
@@ -145,6 +185,54 @@
       "date": "2026-06-03T13:15:52.000Z"
     },
     {
+      "headline": "Record naturalization in Germany, with Syrians in the lead",
+      "url": "https://www.aljazeera.net/news/2026/6/3/%D8%AA%D8%AC%D9%86%D9%8A%D8%B3-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-03T13:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تجنيس قياسي في ألمانيا والسوريون في الصدارة"
+    },
+    {
+      "headline": "America imposes sanctions on the largest Iranian cryptocurrency platform",
+      "url": "https://www.aljazeera.net/ebusiness/2026/6/3/us-imposes-sanctions-iran-cryptocurrency",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-03T13:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أمريكا تفرض عقوبات على أكبر منصة إيرانية للعملات المشفرة"
+    },
+    {
+      "headline": "For the first time... an American state accuses OpenAI of deceiving and exploiting users",
+      "url": "https://www.aljazeera.net/tech/2026/6/3/%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%AA%D9%87%D9%85-%D8%A3%D9%88%D8%A8%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-03T13:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "للمرة الأولى .. ولاية أمريكية تتهم أوبن إيه آي بخداع المستخدمين واستغلالهم"
+    },
+    {
+      "headline": "7 questions about bloody confrontations between two allied Rapid Support tribes",
+      "url": "https://www.aljazeera.net/news/2026/6/3/7-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%AD%D9%88%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%AF%D8%A7%D9%85%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%82%D8%A8%D9%8A%D9%84%D8%AA%D9%8A%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-03T13:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "7 أسئلة حول مواجهات دامية بين قبيلتين حليفتين للدعم السريع"
+    },
+    {
       "headline": "Foreign Ministry: Saudi Arabia Condemns Iranian Aggression on Bahrain, Kuwait Sovereignty",
       "url": "https://www.spa.gov.sa/en/N2605818?type=news&uuid=N2605818",
       "source": "Saudi Press Agency",
@@ -207,7 +295,7 @@
       "date": "2026-06-03T13:09:47.000Z"
     },
     {
-      "headline": "Broad Arab condemnations of Iran’s attacks on Kuwait and Bahrain: We support the two countries in all measures - Al-Sharq News",
+      "headline": "Broad Arab condemnations of Iran's attacks on Kuwait and Bahrain: We support the two countries in all measures - Al-Sharq News",
       "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNakdRLTZNWXZPdHo2Z1AteTREOUJRVjJrMzU3RTFNWTlyVzQ5dUZ0R3ROS2VzZldqNHRSNWZUVldQQl9aeVl3NGpTSFA0UU1oNVZyemE1TTRmNU5ST3VyREJycG9YSl9mbGlZX3lvV2dDU2VocGlJZkJTUkRMLW5jOVpyZnlKal9NTV9CalJPZnBBRk5HT2kyaEdfMTdoMjhTQlRjbDR0WDZ0NGx0eEV4a3hhUXoycmlXSS1uX2ZhcmVHdjhsQXE4bjJIYkdrNjBHM1JCb1l2U0xEMXVkalBYZ0NrVGxVSmR6LWtaci1QNVlmc3NsWnI0YkwxTFJTaGZvdWhETmJwN2JhUUZJbXNnMGJtemt3MEl6dTZkdElITV9Gem8wZ2hVSHRmVmpDNjRZNFBKNTlhbTdBLVlIUWtvZzM0QkowWmpDalpJcFJNaXExSHNQRkZSaWF4cWxOS1VvYmtvVXZWUDQ2V19lT0FwQkQ5SE1zZ2RKVGdFLW5fZTdxWHlIUHNjYWJVZjJHeThYaUY0NWNkd29LWktmcFZySnlaZmw1d2FlcWlZcXctSWctNXFRUXc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -215,7 +303,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-03T13:06:22.000Z",
-      "originalHeadline": "إدانات عربية واسعة لهجمات إيران على الكويت والبح��ين: ندعم البلدين في كافة الإجراءات - الشرق للأخبار"
+      "originalHeadline": "إدانات عربية واسعة لهجمات إيران على الكويت والبحرين: ندعم البلدين في كافة الإجراءات - الشرق للأخبار"
     },
     {
       "headline": "GCC Secretary-General, German Minister of State Discuss Gulf-German Ties",
@@ -226,6 +314,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-03T13:02:24.000Z"
+    },
+    {
+      "headline": "Benjamin Netanyahu - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-03T13:01:06.000Z"
     },
     {
       "headline": "Taibah University Earns International Accreditation for Doctor of Pharmacy Program",
@@ -440,6 +538,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-03T12:20:35.000Z"
+    },
+    {
+      "headline": "President Sisi pays a fraternal visit for a few hours to the Emirates and Qatar - State Information Service",
+      "url": "https://news.google.com/rss/articles/CBMiqAZBVV95cUxPVFphaWkzeFZoME4xR0EzSUVFN0dxbUxVal9VM0liR1hOcHN1akhNb3dZaHBhVnVnRXFTLUIyWkhvNTQxazJ5YWZwdFJ5bGRxaldKbTZNZERzMlBkbi04S2JBcTFCYk92a1VBTHAxazE5OU9Dek5ocDZQb3BaU0FmRV9ROGxOckp5QXFaUFBCdGlEa0lsWE9FN0hBOGNXZHJKODQ3dVlETDRNdWU3WndmcmRGZzZZdHhveXVPNWcwYjRCSG9FT3NRRkVfNTAySzNpc1VhNVFZWlZBR0p0eHBDdUNvYXRtSHlIb2FKdlVjcGdERE1WSHNyMlI1VHI0ZFh6VlRXODNEMkgzbTV6aS1DcGFMZGEwOEh6S0M2eExhY2xfMUloa3dUM200TEVUdW5LNWwtaDFyc0NhdnMxenRtMUNqeEgzZ2ZiYTNQQXI3bDBTbll3RDVaNWt3TnFfSW9taV9zODROMk1mOWR1eTUyOFV3LURoZ0d5a0h6eC0xemlrUDZHRFR4eWlzWlNJMUswRFpDUlJRamkya2UwQU5RcVNZeW04M2ZxdG1ZQXdKVXhJaDNkdXhKT1Q5akptRVI2RHpWVlRrNGJCWTFMUWdxbFRjRFhfR0c5SG1QQ2dWbGZjT2w1cGYzVVA4d2RFM0hqMDVHbXNOR1lIYXkxdHk2OXN4bEtoZ2dLcUdWYmduZ1Q3UEhSTmdTanlwWWpkeEtiaHcxa3VkVTU1WGxVQ3V3NllJX01lRWN1X2ZjOHZCREFKTHdSQm1UbXI0cGRxbjlQdG9nRThSMDR1cF9nbEVpVkdDLXBjQ19pOHdYbmpIWkQyUk9GSUUyWjZhMGt0aWw4RnRSRE83NnJrSGJCaFo4QXcyblRIVURDYlM2Q19nSlVEUzdxbERFeG41eHN3c0UwQU02dHE5V3BJNThKTl8yZl80d29oYk82enZNcmFPWlBxVEJzVENia2JDdTR5ZGZqcnVYaXJKZmxaM1d0Qkk4VVRtdWtEcmFSRTAxVzdhTmZnUUhvQkN3am5tR2NQY0d0bzRnc1VYUFJUdzJmZnpZYlhtbU50VlZo?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-03T12:18:00.000Z",
+      "originalHeadline": "الرئيس السيسي يُجري زيارة أخوية لبضع ساعات إلى الإمارات وقطر - الهيئة العامة للاستعلامات"
     },
     {
       "headline": "Awqaf Dubai announces AED74.7 million in endowment returns for government, semi-government entities in 2025",
@@ -1075,16 +1184,6 @@
       "language": "en",
       "date": "2026-06-03T10:46:49.000Z",
       "originalHeadline": "الكويت:\n\n63 حالة إصابة وإجراء 7 عمليات جراحية كبرى إثر العدوان الإيراني"
-    },
-    {
-      "headline": "Ukraine strikes St Petersburg oil terminal, naval base as Putin's 'Davos' gets under way - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXU1OFZuOUl3SEFtWTlaSzlzOTVNQVdreDdLaHVGcVdqeEM4aUY4MHg4Tmg3Z1FKb25kXzJuc2RoejFrcUhFcEsyYkxaenZnc0h0ZVhuN0UyLWthVUQzME5MV2swek5DeG9qaUh5U0dsdUhoallBUllBV1BHX0FucFRtWjhhbmU3TDFIYVhtWFNObTNyQkdydkMxVWJsbC00Z0h4eWR0SUdscFlrQVotbTFXUHBCR3V1bl85cmtqalFueEZaVnc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-03T10:46:39.000Z"
     },
     {
       "headline": "El Nino could push temperatures higher, UN warns",
@@ -2954,16 +3053,6 @@
       "originalHeadline": "الصمت أكثر أماناً من الكلام .. شهادات صادمة حصلت عليها CNN لنساء يخشين الإبلاغ عن حوادث تحرش في الكونغرس"
     },
     {
-      "headline": "Benjamin Netanyahu - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-03T05:26:07.000Z"
-    },
-    {
       "headline": "All attacks on American forces failed: Why did Iran attack Bahrain and Kuwait?",
       "url": "https://www.bbc.com/urdu/articles/ceqp49rxe4do",
       "source": "BBC",
@@ -3119,93 +3208,6 @@
       "language": "ar",
       "date": "2026-06-03T04:44:33.000Z",
       "originalHeadline": "اضطرابات الشحن تكبح نمو القطاع غير النفطي في الإمارات خلال مايو - اقتصاد الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "Shipping disruptions curb the growth of the non-oil sector in the UAE during May - East Economy with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPd3k2RWRCUWFFRHVWNUhCWWE2SFpEb25YWTNESzhOaFg5cE9nWk1vc19pQ1pweGZ6dWpvWUlQMUQyQlN5MFE0SU9VR0VkMjU0MWVvLUlRd3VZRjNudHdfTno3S3ozV3ZQYnM4RWNQM0hYemozYzF0VDJBQU1tUEVaQ0RBcUJELXFmNWRCUUlrOS1hbklZV0lESVRCOTVXVVlPUTBZYWFhSDdOR3lIRkctN2NmWWV5Z0FzeG45V2ZWRTMyd0IyanpPVE90ZjJHS3dGM2FrbGxZQVBUUGEzOHQtUFNXemE2M3pYWGJOLWotN0NPRzJTenBKeEkxZEZIY2ROanhIZUUxYTNLdl9uZVBuaTNsRWZpdHotLWRfbzlHSzhwVzc1VmR5SFloZFowWkhLN0F2bVE5QVg1ZmtzYk10VXdvY3FOVFV4SURMeVJCTUs5X2gxcG11MExZNndYcnBGVldESlBR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-03T04:44:12.000Z",
-      "originalHeadline": "اضطرابات الشحن تكبح نمو القطاع غير النفطي في الإمارات خلال مايو - اقتصاد الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "Multiple nuclear operations in Iran have now halted amid ongoing conflict: IAEA chief",
-      "url": "https://timesofoman.com//article/172517-multiple-nuclear-operations-in-iran-have-now-halted-amid-ongoing-conflict-iaea-chief",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-03T04:43:20.000Z"
-    },
-    {
-      "headline": "US says forces foiled Iranian missile attacks on Gulf nations",
-      "url": "https://timesofoman.com//article/172516-us-says-forces-foiled-iranian-missile-attacks-on-gulf-nations",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-03T04:38:08.000Z"
-    },
-    {
-      "headline": "US: Standoff underway after bomb threat reported at a bank in California; 1 hostage released",
-      "url": "https://timesofoman.com//article/172515-us-standoff-underway-after-bomb-threat-reported-at-a-bank-in-california-1-hostage-released",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-03T04:34:14.000Z"
-    },
-    {
-      "headline": "US proposes fresh tariffs on 60 countries including India over export of goods made with forced labour",
-      "url": "https://timesofoman.com//article/172514-us-proposes-fresh-tariffs-on-60-countries-including-india-over-export-of-goods-made-with-forced-labour",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-03T04:30:47.000Z"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Custodian of the Two Holy Mosques: We were pleased with the keenness, dedication and mastery we saw from everyone in achieving the honor of serving the guests of God",
-      "url": "https://www.alriyadh.com/2191669",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-03T04:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | خادم الحرمين : سرّنا ما رأيناه من حرص وتفان وإتقان من الجميع في نيل شرف خدمة ضيوف الرحمن"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Residential real estate financing for individuals returned to an increase in April... after successive declines",
-      "url": "https://www.alriyadh.com/2191638",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-03T04:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | عودة التمويل العقاري السكني للأفراد للارتفاع في أبريل .. بعد تراجعات متتالية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Investment Fund pumps $17 billion into renewable energy projects",
-      "url": "https://www.alriyadh.com/2191637",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-03T04:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | صندوق الاستثمارات يضخ 17 مليار دولار في مشروعات الطاقة المتجددة"
     }
   ]
 }
