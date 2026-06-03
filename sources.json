@@ -500,6 +500,33 @@
       "notes": "Official KUNA English wire — state agency proxy (no working RSS)"
     },
     {
+      "id": "twitter_kuwait_mofa",
+      "name": "Kuwait MFA",
+      "type": "twitter",
+      "url": "https://x.com/MOFAKuwait",
+      "priority": "primary",
+      "category": "kuwait_twitter",
+      "notes": "Ministry of Foreign Affairs. Requested by bureau 2026-06-03."
+    },
+    {
+      "id": "twitter_kuwait_moh",
+      "name": "Kuwait Ministry of Health",
+      "type": "twitter",
+      "url": "https://x.com/KUWAIT_MOH",
+      "priority": "secondary",
+      "category": "kuwait_twitter",
+      "notes": "Ministry of Health. Requested by bureau 2026-06-03."
+    },
+    {
+      "id": "twitter_kuwait_cgc",
+      "name": "Kuwait Center for Government Communication",
+      "type": "twitter",
+      "url": "https://x.com/CGCKuwait",
+      "priority": "secondary",
+      "category": "kuwait_twitter",
+      "notes": "Official government communications body. Requested by bureau 2026-06-03."
+    },
+    {
       "_comment": "=== OMAN ==="
     },
     {

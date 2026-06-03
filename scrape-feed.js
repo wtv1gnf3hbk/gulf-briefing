@@ -251,13 +251,13 @@ const GDELT_QUERIES = [
     label: 'Gulf Arabic outlets',
     // Search Arabic-language articles from Gulf countries about Gulf topics
     query: '(domain:aawsat.com OR domain:alriyadh.com OR domain:okaz.com.sa OR domain:alarabiya.net OR domain:spa.gov.sa OR domain:arabic.cnn.com OR domain:aljazeera.net)',
-    params: 'mode=artlist&maxrecords=50&format=json&sort=datedesc',
+    params: 'mode=artlist&maxrecords=25&format=json&sort=datedesc',
   },
   {
     label: 'Gulf English wire',
     // English-language articles about Gulf from quality outlets
     query: '(Saudi OR UAE OR Qatar OR Kuwait OR Bahrain OR Oman OR Yemen OR Houthi OR Hormuz OR Aramco) (domain:reuters.com OR domain:wsj.com OR domain:ft.com OR domain:theguardian.com OR domain:bbc.com OR domain:english.aawsat.com)',
-    params: 'mode=artlist&maxrecords=50&format=json&sort=datedesc',
+    params: 'mode=artlist&maxrecords=25&format=json&sort=datedesc',
   },
 ];
 
@@ -587,9 +587,17 @@ async function main() {
     }
   }
 
-  // Sort by date (newest first), cap at MAX_ITEMS
+  // Sort by date (newest first), cap at MAX_ITEMS.
+  // Reserve a floor for twitter items so high-volume RSS/GDELT can't starve them.
+  // Strategy: fill up to TWEET_FLOOR twitter items first, then fill remaining
+  // slots with non-twitter items sorted by date.
+  const TWEET_FLOOR = 120;
   merged.sort((a, b) => new Date(b.date) - new Date(a.date));
-  const final = merged.slice(0, MAX_ITEMS);
+  const tweetItems = merged.filter(i => (i.category || '').includes('twitter'));
+  const nonTweetItems = merged.filter(i => !(i.category || '').includes('twitter'));
+  const reservedTweets = tweetItems.slice(0, TWEET_FLOOR);
+  const remaining = nonTweetItems.slice(0, MAX_ITEMS - reservedTweets.length);
+  const final = [...reservedTweets, ...remaining].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, MAX_ITEMS);
 
   // Write feed.json
   const feed = {
