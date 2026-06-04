@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-04T14:48:26.680Z",
+  "updated": "2026-06-04T15:02:37.835Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Shams Majlis strengthens media partnerships, sector growth",
+      "url": "https://www.wam.ae/en/details/c0k0w0p-shams-majlis-strengthens-media-partnerships-sector",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-04T14:54:55.324Z"
+    },
+    {
+      "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-04T14:54:22.000Z"
+    },
+    {
+      "headline": "KSrelief Continues Distributing Hot Meals in Gaza Strip",
+      "url": "https://www.spa.gov.sa/en/N2606642?type=news&uuid=N2606642",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-04T14:47:39.000Z"
+    },
     {
       "headline": "SMA, EPAA launch research-based mangrove planting initiative",
       "url": "https://www.wam.ae/en/details/c0k0w0o-sma-epaa-launch-research-based-mangrove-planting",
@@ -11,6 +41,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-04T14:41:49.651Z"
+    },
+    {
+      "headline": "Resilient Saudi economy proves a draw for wartime Gulf business - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sSlh5WkdPOGJtVkxMWWZnbFA4VGlNNWYxWGZPUTJfX0lDYjJ1bGoyRXI2cXhydTlNRThETzE4VnBKTkV2clVkZzVneFBBTjE5bno4bVNoNi1oTnIwWlZzelowRkVRMXM?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-04T14:38:57.000Z"
     },
     {
       "headline": "Amna Al Dahak: UAE championing resilience, adaptability to combat environmental degradation",
@@ -23,6 +63,28 @@
       "date": "2026-06-04T14:23:38.315Z"
     },
     {
+      "headline": "New Syria Defines Its Economic Identity : Partnership Replaces Privatization in Recovery Plan",
+      "url": "https://english.aawsat.com/business/5280448-new-syria-defines-its-economic-identity-%E2%80%98partnership%E2%80%99-replaces-privatization",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-04T14:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Russian Economy Minister to Asharq Al - Awsat : Russia is a Reliable Partner for Saudi Arabia",
+      "url": "https://english.aawsat.com/business/5280427-russian-economy-minister-asharq-al-awsat-russia-reliable-partner-saudi-arabia",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-04T14:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Industry Minister Discusses Cooperation in Industry, Mining at St. Petersburg Economic Forum",
       "url": "https://www.spa.gov.sa/en/N2606585?type=news&uuid=N2606585",
       "source": "Saudi Press Agency",
@@ -31,6 +93,54 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-04T14:00:38.000Z"
+    },
+    {
+      "headline": "Lebanon deepens the rift between Trump and Netanyahu",
+      "url": "https://www.okaz.com.sa/politics/na/2251258",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-04T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لبنان يعمّق الشرخ بين ترمب ونتنياهو"
+    },
+    {
+      "headline": "Obligated to pay... Bayoumi Fouad's ex-wife wins 3 alimony claims",
+      "url": "https://www.okaz.com.sa/culture/art/2251277",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-04T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ملزم بالدفع .. طليقة بيومي فؤاد تكسب 3 دعاوى نفقة"
+    },
+    {
+      "headline": "Trump: Parliament's vote is unpatriotic, has no value, and undermines the Iran negotiations",
+      "url": "https://www.okaz.com.sa/politics/na/2251261",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-04T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترمب : تصويت البرلمان غير وطني ولا قيمة له ويقوّض مفاوضات إيران"
+    },
+    {
+      "headline": "After life imprisonment for the son, two years in prison for the father of the student’s killer, Muhammad Al-Qasim",
+      "url": "https://www.okaz.com.sa/local/na/2251271",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-04T14:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد المؤبد للابن .. السجن عامين لوالد قاتل الطالب محمد القاسم"
     },
     {
       "headline": "Hamad Al Sharqi attends graduation of 302 Fujairah University students",
@@ -82,6 +192,65 @@
       "language": "ar",
       "date": "2026-06-04T13:46:24.000Z",
       "originalHeadline": "غرفة قطر تدشن الدليل التجاري والصناعي 2026–2025 - معلومات مباشر"
+    },
+    {
+      "headline": "In Afghanistan and Iraq.. Why are American planes unable to fly?",
+      "url": "https://www.aljazeera.net/politics/2026/6/4/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B7%D9%8A%D8%B1-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%81%D8%B4%D9%84",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-04T13:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "في أفغانستان والعراق .. لماذا تعجز الطائرات الأمريكية عن الطيران ؟"
+    },
+    {
+      "headline": "Are you missing protein without knowing it? 4 early warnings your body sends you Lifestyle",
+      "url": "https://www.aljazeera.net/lifestyle/2026/6/4/%D9%87%D9%84-%D9%8A%D9%86%D9%82%D8%B5%D9%83-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%AF%D9%88%D9%86-%D8%A3%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A-4",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-04T13:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل ينقصك البروتين دون أن تدري ؟.. 4 إنذارات مبكرة يرسلها لك جسمك | أسلوب حياة"
+    },
+    {
+      "headline": "Where does the bottom of the city lead Israel?",
+      "url": "https://www.aljazeera.net/opinions/2026/6/4/%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D9%86%D8%B8%D8%B1-%D8%A8%D9%86-%D8%BA%D9%81%D9%8A%D8%B1-%D9%81%D9%8A-%D9%88%D8%AC%D9%87",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-04T13:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إلى أين يقود قاع المدينة إسرائيل ؟"
+    },
+    {
+      "headline": "After a struggle with illness... the Imam of Al-Aqsa, Sheikh Walid Siam, passed away",
+      "url": "https://www.aljazeera.net/news/2026/6/4/%D8%A8%D8%B9%D8%AF-%D8%B5%D8%B1%D8%A7%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D8%B6-%D8%B1%D8%AD%D9%8A%D9%84-%D8%A5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-04T13:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد صراع مع المرض .. رحيل إمام الأقصى الشيخ وليد صيام"
+    },
+    {
+      "headline": "UAE.. HUB71 receives 27 startup companies to join the 18th group - Mubasher Info",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQemVEQk5BWTBlX2twdkhvZHJBVUY0WENzc3BLWmxXZlBTZnBfU2RBSm5jcm1Ka0JpVHVIbGNxbS1aeTJXdmJOcE1RZFllZHQ0bFkyNF92eG9pdjlKNXNQMm9Od1JjbC1iVmJLeldaZFZkX3RXQjVIRHA5Z2VsMmwtUG5NcnNaQktjb01yN2JkOE90RU4zWkJWWkltMkEwMGJNM1h1MktIMVhpcWRTRGxKT3B6cEVNNlFFQWVnYTJ3X2JjeWg3aHEzUXk3Ynp2anR1bnJUMmR5WW53RE5PR3hDSk95TEZSaEI2eUNieTZpVnctV2RJbjNwX2tZM1JSSjV4NHQtNGNlTXNLUEZSbWVrU0xMZFJ0cVFQaGlVaVdXWjlDUlE4c0NCN2JDdnc2QUxRbGxCRFFhckpxTUxKY0F6QUp5aWY1TGxsU2dLVXFIYVdLWnJ1ajEwMW4zOE9BZEFJZ25Kb0E4N0tJUHh2X1UxZzk5dHFBM3NVbDNjVmllTUNrdUU0cXpxWXAxREhUTUpjZnhZajBDMUZqTEZJVmJ4QWFSTEhndm1Vc1h3ZGxTdXloYzEyS192NmhHVXhPcDlERUQtNFMxZFI2emo3RnhYLTF3?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-04T13:41:22.000Z",
+      "originalHeadline": "الإمارات.. HUB71 تستقبل 27 شركة ناشئة للانضمام إلى المجموعة الـ18 - معلومات مباشر"
     },
     {
       "headline": "Vice Minister of Foreign Affairs Receives Norway's Special Envoy to Sudan",
@@ -568,7 +737,7 @@
       "date": "2026-06-04T11:15:28.000Z"
     },
     {
-      "headline": "At Computex 2026... Qualcomm opens the door to a new category of economical computers",
+      "headline": "At Computex 2026.. Qualcomm opens the door to a new category of economical computers",
       "url": "https://www.aljazeera.net/tech/2026/6/4/%D9%81%D9%8A-%D9%83%D9%88%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D9%83%D8%B3-2026-%D9%83%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%85-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -592,7 +761,7 @@
       "originalHeadline": "إذا استولى الذكاء الاصطناعي على الوظائف .. هل تنقذنا هذه الأفكار الخمس ؟"
     },
     {
-      "headline": "Ukrainian drones strike deep into Russia and damage to the St. Petersburg oil terminal",
+      "headline": "Ukrainian marches strike Russia and damage to the St. Petersburg oil station",
       "url": "https://www.aljazeera.net/news/2026/6/4/%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B9%D9%85%D9%82-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -601,7 +770,7 @@
       "language": "ar",
       "date": "2026-06-04T11:15:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "مسيّرات أوكرانية تضرب عمق روسيا وأضرار بمحطة سانت بطرسبرغ النفطية"
+      "originalHeadline": "مسيّرات أوكرانية تضرب ع��ق روسيا وأضرار بمحطة سانت بطرسبرغ النفطية"
     },
     {
       "headline": "From God's wisdom in affliction... Why is relief sometimes delayed?",
@@ -685,6 +854,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-04T11:01:37.093Z"
+    },
+    {
+      "headline": "Dozens wounded in Iranian raids targeting Kuwait Airport - CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaktva1kwdmcwVTRGek5SdE1BWV90SDhQenFIc245Y1c5YjJ5WmpWSUY2V3RzaExGMDItak5CUFFhTDBvYklMRWNsd0YtN1dWMVlITDJlRlk0OUF6Q2c4MklybVRZZElHZVdGRWVZMzYyZWh2eTI1ejlKa2RMcDhDc1BtSWtFRURuNUlFel9FMW9FMFRJd09aWGIwSTJjeUNBMG5TR3lDMDRBamNrMEpuTmY2R2FTY0XSAcIBQVVfeXFMTkUzdWVTVFA4WnpEWG9IZzZ1NHQ3T1hLWDdhQTJ6VjlBa2YxT2ZGSFFxdl9mOWhHNTVCUWtsa0wxY0JmeWNVb184OEFRZThKLUlIWTMtamxWWWZQaXQ2U3A1Skhja0dQNVBPRFdVUnE2MHhPbkhXR2VCd3RXYVhLdlZWU0hSMVlINWUtSVl4YThJMWtoem9mS1Y2eDZOMHowcEVyaV9KYUU1eW5OUG8wSEZkU0Vnc054TDhMVXMyNy0yalE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-04T10:58:00.000Z",
+      "originalHeadline": "عشرات الجرحى في غارات إيرانية استهدفت مطار الكويت - CNN Arabic"
     },
     {
       "headline": "Saudi Industry and Mining Ecosystem Showcases Investment Opportunities at SPIEF 2026",
@@ -1149,17 +1329,6 @@
       "language": "ar",
       "date": "2026-06-04T09:44:35.000Z",
       "originalHeadline": "بالأرقام.. كيف تفوقت عقارات الإمارات عالميا؟ - اقتصاد سكاي نيوز عربية"
-    },
-    {
-      "headline": "Dozens wounded in Iranian raids targeting Kuwait Airport - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaktva1kwdmcwVTRGek5SdE1BWV90SDhQenFIc245Y1c5YjJ5WmpWSUY2V3RzaExGMDItak5CUFFhTDBvYklMRWNsd0YtN1dWMVlITDJlRlk0OUF6Q2c4MklybVRZZElHZVdGRWVZMzYyZWh2eTI1ejlKa2RMcDhDc1BtSWtFRURuNUlFel9FMW9FMFRJd09aWGIwSTJjeUNBMG5TR3lDMDRBamNrMEpuTmY2R2FTY0XSAcIBQVVfeXFMTkUzdWVTVFA4WnpEWG9IZzZ1NHQ3T1hLWDdhQTJ6VjlBa2YxT2ZGSFFxdl9mOWhHNTVCUWtsa0wxY0JmeWNVb184OEFRZThKLUlIWTMtamxWWWZQaXQ2U3A1Skhja0dQNVBPRFdVUnE2MHhPbkhXR2VCd3RXYVhLdlZWU0hSMVlINWUtSVl4YThJMWtoem9mS1Y2eDZOMHowcEVyaV9KYUU1eW5OUG8wSEZkU0Vnc054TDhMVXMyNy0yalE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T09:44:26.000Z",
-      "originalHeadline": "عشرات الجرحى في غارات إيرانية استهدفت مطار الكويت - CNN Arabic"
     },
     {
       "headline": "In numbers... How did UAE real estate outperform globally? - Sky News Arabia",
@@ -2028,173 +2197,6 @@
       "language": "en",
       "date": "2026-06-04T06:15:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Faisal bin Farhan , Grossi Discuss Nuclear Non - proliferation",
-      "url": "https://english.aawsat.com/gulf/5280302-faisal-bin-farhan-grossi-discuss-nuclear-non-proliferation",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-04T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Konate Opens Up on Depression after Deaths of Jota and Father",
-      "url": "https://english.aawsat.com/sports/5280309-konate-opens-depression-after-deaths-jota-and-father",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-04T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Bahrain Arrests 15 People with Links to Iran IRGC",
-      "url": "https://english.aawsat.com/gulf/5280299-bahrain-arrests-15-people-links-iran%E2%80%99s-irgc",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-04T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Canadian Government Endorses Plan to Move Whales from Shuttered Park to US , Spain",
-      "url": "https://english.aawsat.com/varieties/5280305-canadian-government-endorses-plan-move-whales-shuttered-park-us-spain",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-04T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iraq Faces Delayed Showdown with Factions Rejecting State Arms Control",
-      "url": "https://english.aawsat.com/arab-world/5280298-iraq-faces-delayed-showdown-factions-rejecting-state-arms-control",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-04T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Abu Dhabi City Municipality to plant 5,000 new trees in 2026 to enhance sustainability",
-      "url": "https://www.wam.ae/en/details/c0k0vdj-abu-dhabi-city-municipality-plant-5000-new-trees",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-04T06:13:29.438Z"
-    },
-    {
-      "headline": "Kuwait publishes a video of the Iranian march attack on the passenger building at its international airport - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWFhZczh0Tk9TZGxXaWszNGx3b3hNdGdrSUdzV1ZmT1BEWFpUWVMza3lsVEZUd3dDNHVtVFNDQjU3SEJzazVyWW9EWHBabDJpZ2NxUzlBbGNDY1gtY1hnZE52Q21EQ1V2bnBiY2RRZUszeTYyTXlud0NQRWtEZjBnYXJkaEV1WTlPZmktc25HUC0zbkwzN2xvNlJ0azE1dElmWF9UUHFUUGdwVF90Y2FiRk5oTS1TZXNrSUNWbWd3cXdXSDVxRmU5OVowMGU4anI0aGlaRjVQUlN6X3ZKVjZQRGpVaURUcnNNRUJwZndnc0xOZkVULVlOcmRPb28yRjluTXE4Q0g2SVpfMXRMYWRMcG9aRnJ5NW14TW10Y3BCa0xETjExa01N0gGsAkFVX3lxTFBpazNXd2FSY2tGVTgzTmpLQ0RkNkcwMVNqaHVYdllVMzR4WWV4QnVFNzh2eXBiVDNrNFp6dlg4MzlvdFlxWXpFMzV5WDhZVk5VN2ZBdXljMGpVM2t4VGxwM1JVMjRiRlFINkZxV29fN2pJbm1VQXpQVTZxbTJRR3Q4c2F2VHFpa000ZFJBZDVDTmd5VVRLSXQ4a2NVb0pINjdfTHdRblBMa1hCZWxPVmtHNUhERGh2YTg2aVhEcmdMdWJZMGlMUWRkd1ZaVEFnZFhmeE93TjhLdW56dFlvWWZyNmtFSlBHSVozaDY0RWRsUjBJSGxwS3Y1UlpyU3duWFRxSHdjWmRJb21tQldiV1pKNVJEX1c4UGVXdFFyUUlSb2lZODlrNkdjdks3ag?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T06:06:20.000Z",
-      "originalHeadline": "الكويت تنشر فيديو هجوم المسيرة الإيرانية على مبنى الركاب بمطارها الدولي - الجزيرة نت"
-    },
-    {
-      "headline": "The UAE sets the Hijri New Year holiday for the public and private sectors - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPT2NSYzJMWE1PODY5ODZjXzM3Ti1UeW03aURzYjc4d1pvMXR0TkNCcjZQNm1GRTE0T1p2T3N2b1JBZzZKZkh5eFlmMC10SG02S1AxWUpMTHF5SERMeDEtdEhoLWpKMFRJbFk5akdRYjNwWTAxc0ZaWDdvcW1yQzQ3NjRfTnVleHVZZEdTWW1NVXFkM014aTYya0diNm0yaTMxVUlGVElPWEJyWVo4QU5kdUxQRXNEWnctamFVY0JZNzAxXzRidWNpcUc5RVJ4REl0TWRSemZrNkJIRDdpWDNpVGJzTEtCMlhRc2pWa2swYjRLTGd0YTBkT2hSSzh3QUhIU1pacHA1MW1qck84dmVFX0xYTmhlakk0STQ3UTJpVGRLV0FycWZBYVEwYzV5a1owQjFwdjBIQzNoTFhWLUx1Tmx5bVJYZ3padmt5WHlEckZsbDhEbmcwRFptVnROYm1jTFpzVzRyX19lZjBGSkJncjNiSmliVVdjZjRnYUc0c3pJYzRQS1F4cUNtS2RhMHhsaW95MzRMRml6YUdzUklMYVFMTEtmZDRGT3Jqb2c1UFpFaFM1eXM4aS10YTlORVNIRVo4cDhFcXdHVlNyRHlsaFJYOEJqVkhTM1F4R1ZWTUhESkZ0b0FNUTRNVTI2ejdJOExOOQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T05:53:59.000Z",
-      "originalHeadline": "الإمارات تحدد إجازة رأس السنة الهجرية للقطاعين العام والخاص - معلومات مباشر"
-    },
-    {
-      "headline": "Urgent | “World Health”: 359 infections and 61 deaths in the “Ebola” outbreak in Congo and Uganda",
-      "url": "https://www.okaz.com.sa/variety/na/2251223",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-04T05:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عاجل | « الصحة العالمية »: 359 إصابة و61 وفاة في تفشي « إيبولا » بالكونغو وأوغندا"
-    },
-    {
-      "headline": "Weather Forecast for Thursday",
-      "url": "https://www.spa.gov.sa/en/N2606251?type=news&uuid=N2606251",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-04T05:38:41.000Z"
-    },
-    {
-      "headline": "“An American missile struck Kuwait Airport.” Central Command responds to Iran - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmM1SVJUeVBHRlh2ZHo1Ty1UY09VaDJuamFSdXhrbFh6OWZIdmFzWks2WWJaMGZTV1pnalpfb1FQOXNrNTFUbXlybW1nV1dtT2lLbWdGNkVQTWhLd05PNWFidkdiTFl0Y053c1lWZWtJWGZmTlBxWDFhc1p3Q0s2VHBQbl9Ta2c0bWstbTZGUVlVUTZxTzBrbUZkQmNNRmp3QzhISUgyeVNYUjlZeTZLaNIBuwFBVV95cUxNaDBqQ2czN2lDQlU0SVJEWUVsZzktajlqdllMaVJ3djBNZTFXeWppeFExeDRCaXBMUmdRaHZkME0xQjlIbjc1b0U0V0JjdHR4UWc0WkRfUlEyRUMxR1NNQVhUNHp6ZjZUZ2hWeUVZa09tS1FnYjItUUYwZGxuR21faTZSdkNLVzd6X2x3VmduMjRyUTgzSmR2QzhZaDZZaTVZUzB2RUZxb255YnBFWUZ0dkRFQkc4aW1ZMDU0?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T05:36:05.000Z",
-      "originalHeadline": "\"صاروخ أمريكي ضرب مطار الكويت\"..القيادة المركزية ترد على إيران - CNN Arabic"
-    },
-    {
-      "headline": "Iran's Foreign Ministry spokesman responds to Rubio and the statement that Iranian agents are planning assassinations of the US President",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/04/iran-esmaeil-baqaei-response-rubio-assassination-us-politicians-plot",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T05:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "متحدث خارجية إيران يرد على روبيو وتصريح عملاء إيرانيون يخططون لاغتيالات منها للرئيس الأمريكي"
-    },
-    {
-      "headline": "The child Sarah is the latest victim.. This is how Israel erased a Palestinian family from the civil registry | policy",
-      "url": "https://www.aljazeera.net/politics/2026/6/4/%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%87%D9%83%D8%B0%D8%A7-%D9%85%D8%B3%D8%AD%D8%AA",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-04T05:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الطفلة سارة آخر الضحايا .. هكذا مسحت إسرائيل أسرة فلسطينية من السجل المدني | سياسة"
-    },
-    {
-      "headline": "Bahrain publishes photos of 15 people linked to the Revolutionary Guards in the case of Iranian agents",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/04/bahrain-photos-15-irgc-operatives-manama",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T05:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "البحرين تنشر صور 15 شخصا مرتبطين بالحرس الثوري بقضية عملاء إيران"
-    },
-    {
-      "headline": "The Qatari Central Bank announces the acceptance of the Hayman card in Bahrain - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQRVNURWdpc0hGdDZ3bVBJbWVISk54M2thdWU3WEQ5Ul9EZk43YTZCbWhmSXJZX2NsbHpiOU5FWE8tTDlsZExiVTVxSUlZNm1qTlBjNzA5UnN4MVVHSjdXSngyeGQ1cWVBbUd6LUpQU0ZCaUc1ZTJjQXpYTUVONC0wcVdXOGhSTkNmZlNGcEFtSUllRFhOZlhMU3VJWl9tVWdEd1dOTDVfM2xzS2N3YXp5MngtaU9nNmxRbFJxZ3RKYjZFTW8tUmVMajlBQlhQMDhWSDdTX3pPWDdRS01nYkE0TkY5Z1UxX2pVd2xjcDVKUWVGZ291LUJPU1FUOHc0SUVSQ1BqRTlYVFVaQXgwZDNPQVBSWFFUYkRqV0Y0bFFXZzJPYzRHTmM1RHU0bzVBMUM4OTNmenNMVWVSUWJoMFptVERXWERGZWRkTzVObTJkWnlqekhvSEdSQnZjQzUxTW9fVWhFcDY2MmNYWE1qV04xSDRWS3FqV3pKYTdIYk9wdXlhaF9jc2pXeDJidmJIeU5JTElqMkdWbjQxLWtWSmc?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-04T05:27:46.000Z",
-      "originalHeadline": "\"المركزي القطري\" يُعلن قبول بطاقة هيمان في البحرين - معلومات مباشر"
     },
     {
       "headline": "The Ministry of Defense, in cooperation with the ADNEC Group, held a media briefing for representatives of diplomatic missions and military attaches to the country, to review the details of the “46th International Congress of Military Medicine - Abu Dhabi 2026”, which the UAE is ",
