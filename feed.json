@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-07T21:17:59.625Z",
+  "updated": "2026-06-07T21:33:11.974Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Foreign Minister, Qatar's Prime Minister Discuss Regional Developments",
+      "url": "https://spa.gov.sa/en/N2608260?type=news&uuid=N2608260",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-07T21:25:49.000Z"
+    },
     {
       "headline": "Qatar in the 2026 World Cup| Al-Annabi, in the spirit of the Asian champion, plans to erase the past and write history - Al-Youm Electronic Portal",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVE83RmtuMkFGOVc1MlVPU2ttZ3pBNzg4RTctYk5ZZGtJZk1OcXBOTGhsb2MtN2s2LUl0TG9WNkpfMlF0YVR1c244OThvUFJpT19JMWtQVUw4M1JYYXZySFhGOTk3VkhBSkxHVzREdGgtRnQ4dUNNRy1SY0JMN3RtR2JNelU5TklmZ29BVGRxSHlWLXluTXIyYnFTQ1lmeVdUMnBPOU9VcUprc2RhZlFCbng1N00wdGI5RzBaaDcxOFh1WmE0RHFBMHhXSVdNdWpOSm9yZUVndGtVcXdhbE1BUmRBUThlQnRZR2JwczVGcFI3YkZza2cyVUxKdmlCX1dNby1fUFNvdG1pa3ZzRjZ5VVNWTzJTMlJ3M3N3bmZJUGJwSXZ2Ny1ndXlUUDdUTUpTTGx0a3FibzNRbW1mbm1VcWwwMGxfMnpTOENQUF9kRQ?oc=5",
@@ -12,6 +22,42 @@
       "language": "ar",
       "date": "2026-06-07T21:06:27.000Z",
       "originalHeadline": "قطر في كأس العالم 2026| \"العنابي\" بروح بطل آسيا يخطط لمحو الماضي وكتابة التاريخ - بوابة أخبار اليوم الإلكترونية"
+    },
+    {
+      "headline": "Two sources told CNN: Israel will respond forcefully to Iranian missiles",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/08/lebanon-israel-war-iran",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-07T21:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصدران لـ CNN : إسرائيل سترد بقوة على الصواريخ الإيرانية"
+    },
+    {
+      "headline": "Iran warns Israel of more painful attacks if it continues its attacks on Lebanon",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/08/lebanon-israel-war",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-07T21:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إيران تحذر إسرائيل من هجمات أشد إيلاما إذا واصلت هجماتها على لبنان"
+    },
+    {
+      "headline": "Trump's first comment on Iranian strikes against Israel",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/08/trump-tells-iran-to-get-back-to-the-table-in-wake-of-strikes-on-israel",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-07T21:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أول تعليق من ترامب على الضربات الإيرانية ضد إسرائيل"
     },
     {
       "headline": "Border Guard Welcomes AROYA Cruise Ship at Yanbu Commercial Port",
@@ -628,6 +674,39 @@
       "originalHeadline": "7 مشاريع طويلة تتأهل لسوق ��لإنتاج بمهرجان أفلام السعودية - المصري اليوم"
     },
     {
+      "headline": "Trump Says Wont Unfreeze Iran Assets Before Deal",
+      "url": "https://english.aawsat.com/world/5281409-trump-says-won%E2%80%99t-unfreeze-iran-assets-deal",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-07T17:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Algeria Extend Coach Petkovic Contract",
+      "url": "https://english.aawsat.com/sports/5281400-algeria-extend-coach-petkovic%E2%80%99s-contract",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-07T17:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Draft Resolution at IAEA Demands Iran Open Up on Sites , Uranium Stocks",
+      "url": "https://english.aawsat.com/world/5281392-us-draft-resolution-iaea-demands-iran-open-sites-uranium-stocks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-07T17:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Saudi Arabia KSrelief Distributes 25 , 000 Hot Meals in Gaza",
       "url": "https://english.aawsat.com/gulf/5281417-saudi-arabia%E2%80%99s-ksrelief-distributes-25000-hot-meals-gaza",
       "source": "Asharq al-Awsat (EN)",
@@ -663,39 +742,6 @@
     {
       "headline": "Saudi Arabia Concludes Participation at Kuala Lumpur International Book Fair",
       "url": "https://english.aawsat.com/culture/5281414-saudi-arabia-concludes-participation-kuala-lumpur-international-book-fair",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says Wont Unfreeze Iran Assets Before Deal",
-      "url": "https://english.aawsat.com/world/5281409-trump-says-won%E2%80%99t-unfreeze-iran-assets-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Algeria Extend Coach Petkovic Contract",
-      "url": "https://english.aawsat.com/sports/5281400-algeria-extend-coach-petkovic%E2%80%99s-contract",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Draft Resolution at IAEA Demands Iran Open Up on Sites , Uranium Stocks",
-      "url": "https://english.aawsat.com/world/5281392-us-draft-resolution-iaea-demands-iran-open-sites-uranium-stocks",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -771,7 +817,7 @@
       "originalHeadline": "جريدة الرياض | هيئة الأدب والنشر والترجمة تختتم مشاركة المملكة ضيف شرف معرض كوالالمبور الدولي للكتاب 2026"
     },
     {
-      "headline": "Al-Riyadh newspaper | The Masam project removes (798) mines from various Yemeni lands within a week",
+      "headline": "Al-Riyadh newspaper | The Masam project removes (798) mines from various Yemeni territories within a week",
       "url": "https://www.alriyadh.com/2192238",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -795,7 +841,7 @@
       "originalHeadline": "جريدة الرياض | انعقاد الاجتماع الوزاري الحادي والأربعين للدول الأعضاء في منظمة أوبك والدول المشاركة من خارجها"
     },
     {
-      "headline": "Al-Riyadh newspaper | The King Salman Relief Center distributes 720 cartons of dates to those affected in Deir ez-Zor, Syria",
+      "headline": "Al-Riyadh newspaper | The King Salman Relief Center distributes 720 cartons of dates to those affected in Deir ez-Zor, Soura.",
       "url": "https://www.alriyadh.com/2192237",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -804,7 +850,7 @@
       "language": "ar",
       "date": "2026-06-07T17:30:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | مركز الملك سلمان للإغاثة يوزّع 720 كرتون تمر للمتضررين في دير الزور بسوريا"
+      "originalHeadline": "جريدة الرياض | مركز الملك سلمان للإغاثة يوزّع 720 كرتون تمر للمتضررين في دير الزور بسور��ا"
     },
     {
       "headline": "Al-Riyadh newspaper | Seven OPEC+ decides to continue adjusting production by 188 thousand barrels per day as of July",
@@ -2940,54 +2986,6 @@
       "date": "2026-06-07T11:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "خديعة المليارات .. لماذا طردت أوبر ومايكروسوفت الذكاء الاصطناعي من مقراتها ؟"
-    },
-    {
-      "headline": "Weapons, animals, and torture videos...the secret of the downfall of Sabri Nakhnoukh and “the husband of an artist”",
-      "url": "https://www.okaz.com.sa/variety/na/2251586",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-07T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أسلحة وحيوانات وفيديوهات تعذيب .. سر سقوط صبري نخنوخ و « زوج فنانة »"
-    },
-    {
-      "headline": "Yalla Group concludes its qualitative participation in the Saudi Electronic Sports League 2026",
-      "url": "https://www.okaz.com.sa/economy/na/2251594",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-07T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مجموعة « يلا » تختتم مشاركتها النوعية في الدوري السعودي للرياضات الإلكترونية 2026"
-    },
-    {
-      "headline": "What awaits the Palestinians inside after the Kochav Yair operation?",
-      "url": "https://www.aljazeera.net/politics/2026/6/7/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%B9%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-07T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ما الذي ينتظر فلسطينيي الداخل بعد عملية كوخاف يائير ؟"
-    },
-    {
-      "headline": "When your child is diagnosed with autism...what happens to you?",
-      "url": "https://www.aljazeera.net/family/2026/6/7/%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%B4%D8%AE%D8%B5-%D8%B7%D9%81%D9%84%D9%83-%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D8%AF-%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AD%D8%AF%D8%AB",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-07T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عندما يشخص طفلك بالتوحد .. ما الذي يحدث لك أنت ؟"
     },
     {
       "headline": "Economic Relations Between Dubai and Africa\n\n\n@DxbChamberComm\n I \n@DubaiChambers",
