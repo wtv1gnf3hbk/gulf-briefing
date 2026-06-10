@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T19:48:46.414Z",
+  "updated": "2026-06-10T20:03:03.652Z",
   "itemCount": 300,
   "items": [
     {
@@ -44,6 +44,17 @@
       "language": "ar",
       "date": "2026-06-10T19:30:47.000Z",
       "originalHeadline": "«السعودية للاستثمار الجريء» تدعم تمويل الشركات ��لناشئة باستثمار جديد في صندوق «خوارزمي للاستثمار الجريء 2» - Fintechgate"
+    },
+    {
+      "headline": "Khan al - Ahmar : Last Tent in Battle for Greater Jerusalem",
+      "url": "https://english.aawsat.com/features/5282638-khan-al-ahmar-last-tent-battle-greater-jerusalem",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-10T19:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Abdullah bin Zayed receives US Permanent Representative to United Nations",
@@ -138,8 +149,56 @@
       "date": "2026-06-10T18:48:01.000Z"
     },
     {
+      "headline": "Netanyahu intends to run in the elections amid Trump's skepticism and the erosion of his popularity",
+      "url": "https://www.aljazeera.net/news/2026/6/10/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D8%AE%D9%88%D8%B6-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%B3%D8%B7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-10T18:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نتنياهو يعتزم خوض الانتخابات وسط تشكيك ترمب وتآكل شعبيته"
+    },
+    {
+      "headline": "What will happen to the children in room (2)? The execution of prisoners terrifies the Palestinians",
+      "url": "https://www.aljazeera.net/politics/2026/6/10/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%8A%D8%AD%D8%AF%D8%AB-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%BA%D8%B1%D9%81%D8%A9-2-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-10T18:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ماذا سيحدث للأطفال في الغرفة ( 2 )؟.. إعدام الأسرى يرعب الفلسطينيين"
+    },
+    {
+      "headline": "Europe is facing the highest temperature in its history and international alliances are forming to confront Trump",
+      "url": "https://www.aljazeera.net/politics/2026/6/10/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A3%D8%B9%D9%84%D9%89-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-10T18:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أوروبا تواجه أعلى حرارة بتاريخها وتحالفات دولية تتشكل لمواجهة ترمب"
+    },
+    {
+      "headline": "Exams under fire... Displaced students in Lebanon demand postponement of high school",
+      "url": "https://www.aljazeera.net/misc/2026/6/10/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%D8%A8-%D9%86%D8%A7%D8%B2%D8%AD%D9%88%D9%86-%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-10T18:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "امتحانات تحت النار .. طلاب نازحون في لبنان يطالبون بتأجيل الثانوية العامة"
+    },
+    {
       "headline": "Macron invites the leaders of Saudi Arabia, Egypt, Qatar and the UAE to the G7 summit to discuss the Iran-Arab war",
-      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPYk9PX05uZjFramFjOEpVSG5KQXh2cjJ0cm1aNXlIcEtzSm54cEpfS0cxSmE3TGtXbDlkNTctRUp1MVNId1FYcTVvcFpfeS1xRnEyZUZNampyekluZ19GZExMREtaOE1GWS1UbV91b1BfbEV1VHFkTGU1MzlTTzZrbFp1VDZSMjM0c3VBMjEwLWt2dHYxTlJOYVNtV2lJSGNWTXBpM0xCRC1jNERfYU04M2F5MUJVeno2ZWppbXRkbEYtMjlnam5VdG9qcnpfZ3UxcTRvZlE1NEgtVWRTdl9kdDB4MDcxdFNCNUxqWFFwcEJ0MW5XdVoyaFBtbEsyU3RrNVp4M2tEVnB0T0RQbEEyc21xTFA3blA5OXpWdjQtMGRqaVJ2eWJ1NVRJZTllWDhITXk1ZzNncXJ5ZEstRnEyWDhyN0ZHMEliX2N4U0UwRzZlUWZYaWk3U0RsZ1dzWnhZNDFxeHp3enZBc3ZpNzJjVmp3a1FnUVQ4eDdrdjMzLXpSR3RBZ1A1U1FLSjg0Y2pib1ZpNUJsOVJnWjV0UUR5T0lRNU9lb2d0bElxbk9GZ2QtLXUzNDI3NGt2SW9GeG9CQ2tfQmJTVUtBSkxKS1kxNmVuZ29hbzV5c25VZXRmRUFNSlA5RnpUUUthZVpNaG1wdUE5cy1ya1VQRmtGdlFNOUFMZHJDSjZCSUt2c0d1NDNnOUR0VjJwa3JDWGh5V1Y1RHRHX29jQ1VRSXFpc3ZFMlJhSm9WNURlQWJObGFkOWVqbElDb0HSAcYEQVVfeXFMT2JPT19ObmYxa2phYzhKVUhuSkF4dnIydHJtWjV5SHBLc0pueHBKX0tHMUphN0xrV2w5ZDU3LUVKdTFTSHdRWHE1b3BaX3ktcUZxMmVGTWpqcnpJbmdfRmRMTERLWjhNRlktVG1fdW9QX2xFdVRxZExlNTM5U082a2xadVQ2UjIzNHN1QTIxMC1rdnR2MU5STmFTbVdpSUhjVk1waTNMQkQtYzREX2FNODNheTFCVXp6NmVqaW10ZGxGLTI5Z2puVXRvanJ6X2d1MXE0b2ZRNTRILVVkU3ZfZHQweDA3MXRTQjVMalhRcHBCdDFuV3VaMmhQbWxLMlN0azVaeDNrRFZwdE9EUGxBMnNtcUxQN25QOTl6VnY0LTBkamlSdnlidTVUSWU5ZVg4SE15NWczZ3FyeWRLLUZxMlg4cjdGRzBJYl9jeFNFMEc2ZVFmWGlpN1NEbGdXc1p4WTQxcXh6d3p2QXN2aTcyY1Zqd2tRZ1FUOHg3a3YzMy16Ukd0QWdQNVNRS0o4NGNqYm9WaTVCbDlSZ1o1dFFEeU9JUTVPZW9ndGxJcW5PRmdkLS11MzQyNzRrdklvRnhvQkNrX0JiU1VLQUpMSktZMTZlbmdvYW81eXNuVWV0ZkVBTUpQOUZ6VFFLYWVaTWhtcHVBOXMtcmtVUEZrRnZRTTlBTGRyQ0o2QklLdnNHdTQzZzlEdFYycGtyQ1hoeVdWNUR0R19vY0NVUUlxaXN2RTJSYUpvVjVEZUFiTmxhZDllamxJQ29B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQQ0tRb21Da2I2bUhGQUtzVVpGb283ckpCVmY0VVpVaUpXeWZWMVB2WFBlV25TUXZMejR3dTQ2M05vMTA4eG1pZVRTOGMyWS1jLVM5MWp0d1NwQnk1QlpwZ1VmbnRSa3dVZkF1NTdCamxFdTY4THhtT1VuUkFyOHZ3OFRTNTRKdDR2bmhyRFRtbkVCV2lXSUlTM0FtMVRlTVhNMExlX2p5Wk1yOW1yaV9jenVHblVlRlBuNlZ5Sl8zV3V1elhHMzhwV2doSDl1UUllUjBHckt4a0RMNXdEWDkySjI4VWxXRDF2U1BhdXQtZ0xJblI0eUpBQWFybGlaUXpqaG56VUNTYUZ2Z0JOT3VQbmF0VE50OGxxbVJhaTBMZGg3c1BpWHBLcXpIZm9Ka2NFVVVxLURFeXlhcy1jVFFhZWVGNlBtazhZRHJLWGlrQzVkcmUteUlpUFp2MmdHODhDbEhMZ2JFRHp6bFpJV0ZDVEl1cnB4YkFDazN6dTEwVmZLTF9ZYTBQV0E3ME9HTU9ad29GSXRJLVIySUUxQWJ0RXJ0eUhzaGcxMWxQWmhEaHY3Y1FEeWUzWlJBOEFUeDFMb1hWRm9Da1ExNWJoQ1JVbmhENFQxUjI3dXp5UU9oOHNJRVI1VXFDT1dqeldESDd4MS1PMDdKM2c4ZUZEX01zZW5hM1FIUGJxaUtFMUxpWkRUcUtWNzNDano2QWoweWkxTzFNaHpvMUVuU1NhdjhqOU4tZEk3bzlGb2R4ZDJIU0zSAcYEQVVfeXFMT2JPT19ObmYxa2phYzhKVUhuSkF4dnIydHJtWjV5SHBLc0pueHBKX0tHMUphN0xrV2w5ZDU3LUVKdTFTSHdRWHE1b3BaX3ktcUZxMmVGTWpqcnpJbmdfRmRMTERLWjhNRlktVG1fdW9QX2xFdVRxZExlNTM5U082a2xadVQ2UjIzNHN1QTIxMC1rdnR2MU5STmFTbVdpSUhjVk1waTNMQkQtYzREX2FNODNheTFCVXp6NmVqaW10ZGxGLTI5Z2puVXRvanJ6X2d1MXE0b2ZRNTRILVVkU3ZfZHQweDA3MXRTQjVMalhRcHBCdDFuV3VaMmhQbWxLMlN0azVaeDNrRFZwdE9EUGxBMnNtcUxQN25QOTl6VnY0LTBkamlSdnlidTVUSWU5ZVg4SE15NWczZ3FyeWRLLUZxMlg4cjdGRzBJYl9jeFNFMEc2ZVFmWGlpN1NEbGdXc1p4WTQxcXh6d3p2QXN2aTcyY1Zqd2tRZ1FUOHg3a3YzMy16Ukd0QWdQNVNRS0o4NGNqYm9WaTVCbDlSZ1o1dFFEeU9JUTVPZW9ndGxJcW5PRmdkLS11MzQyNzRrdklvRnhvQkNrX0JiU1VLQUpMSktZMTZlbmdvYW81eXNuVWV0ZkVBTUpQOUZ6VFFLYWVaTWhtcHVBOXMtcmtVUEZrRnZRTTlBTGRyQ0o2QklLdnNHdTQzZzlEdFYycGtyQ1hoeVdWNUR0R19vY0NVUUlxaXN2RTJSYUpvVjVEZUFiTmxhZDllamxJQ29B?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -150,7 +209,7 @@
     },
     {
       "headline": "Macron invites the leaders of Saudi Arabia, Egypt, Qatar and the UAE to the G7 summit to discuss the Iran-Arab war",
-      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQQ0tRb21Da2I2bUhGQUtzVVpGb283ckpCVmY0VVpVaUpXeWZWMVB2WFBlV25TUXZMejR3dTQ2M05vMTA4eG1pZVRTOGMyWS1jLVM5MWp0d1NwQnk1QlpwZ1VmbnRSa3dVZkF1NTdCamxFdTY4THhtT1VuUkFyOHZ3OFRTNTRKdDR2bmhyRFRtbkVCV2lXSUlTM0FtMVRlTVhNMExlX2p5Wk1yOW1yaV9jenVHblVlRlBuNlZ5Sl8zV3V1elhHMzhwV2doSDl1UUllUjBHckt4a0RMNXdEWDkySjI4VWxXRDF2U1BhdXQtZ0xJblI0eUpBQWFybGlaUXpqaG56VUNTYUZ2Z0JOT3VQbmF0VE50OGxxbVJhaTBMZGg3c1BpWHBLcXpIZm9Ka2NFVVVxLURFeXlhcy1jVFFhZWVGNlBtazhZRHJLWGlrQzVkcmUteUlpUFp2MmdHODhDbEhMZ2JFRHp6bFpJV0ZDVEl1cnB4YkFDazN6dTEwVmZLTF9ZYTBQV0E3ME9HTU9ad29GSXRJLVIySUUxQWJ0RXJ0eUhzaGcxMWxQWmhEaHY3Y1FEeWUzWlJBOEFUeDFMb1hWRm9Da1ExNWJoQ1JVbmhENFQxUjI3dXp5UU9oOHNJRVI1VXFDT1dqeldESDd4MS1PMDdKM2c4ZUZEX01zZW5hM1FIUGJxaUtFMUxpWkRUcUtWNzNDano2QWoweWkxTzFNaHpvMUVuU1NhdjhqOU4tZEk3bzlGb2R4ZDJIU0zSAcYEQVVfeXFMT2JPT19ObmYxa2phYzhKVUhuSkF4dnIydHJtWjV5SHBLc0pueHBKX0tHMUphN0xrV2w5ZDU3LUVKdTFTSHdRWHE1b3BaX3ktcUZxMmVGTWpqcnpJbmdfRmRMTERLWjhNRlktVG1fdW9QX2xFdVRxZExlNTM5U082a2xadVQ2UjIzNHN1QTIxMC1rdnR2MU5STmFTbVdpSUhjVk1waTNMQkQtYzREX2FNODNheTFCVXp6NmVqaW10ZGxGLTI5Z2puVXRvanJ6X2d1MXE0b2ZRNTRILVVkU3ZfZHQweDA3MXRTQjVMalhRcHBCdDFuV3VaMmhQbWxLMlN0azVaeDNrRFZwdE9EUGxBMnNtcUxQN25QOTl6VnY0LTBkamlSdnlidTVUSWU5ZVg4SE15NWczZ3FyeWRLLUZxMlg4cjdGRzBJYl9jeFNFMEc2ZVFmWGlpN1NEbGdXc1p4WTQxcXh6d3p2QXN2aTcyY1Zqd2tRZ1FUOHg3a3YzMy16Ukd0QWdQNVNRS0o4NGNqYm9WaTVCbDlSZ1o1dFFEeU9JUTVPZW9ndGxJcW5PRmdkLS11MzQyNzRrdklvRnhvQkNrX0JiU1VLQUpMSktZMTZlbmdvYW81eXNuVWV0ZkVBTUpQOUZ6VFFLYWVaTWhtcHVBOXMtcmtVUEZrRnZRTTlBTGRyQ0o2QklLdnNHdTQzZzlEdFYycGtyQ1hoeVdWNUR0R19vY0NVUUlxaXN2RTJSYUpvVjVEZUFiTmxhZDllamxJQ29B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPYk9PX05uZjFramFjOEpVSG5KQXh2cjJ0cm1aNXlIcEtzSm54cEpfS0cxSmE3TGtXbDlkNTctRUp1MVNId1FYcTVvcFpfeS1xRnEyZUZNampyekluZ19GZExMREtaOE1GWS1UbV91b1BfbEV1VHFkTGU1MzlTTzZrbFp1VDZSMjM0c3VBMjEwLWt2dHYxTlJOYVNtV2lJSGNWTXBpM0xCRC1jNERfYU04M2F5MUJVeno2ZWppbXRkbEYtMjlnam5VdG9qcnpfZ3UxcTRvZlE1NEgtVWRTdl9kdDB4MDcxdFNCNUxqWFFwcEJ0MW5XdVoyaFBtbEsyU3RrNVp4M2tEVnB0T0RQbEEyc21xTFA3blA5OXpWdjQtMGRqaVJ2eWJ1NVRJZTllWDhITXk1ZzNncXJ5ZEstRnEyWDhyN0ZHMEliX2N4U0UwRzZlUWZYaWk3U0RsZ1dzWnhZNDFxeHp3enZBc3ZpNzJjVmp3a1FnUVQ4eDdrdjMzLXpSR3RBZ1A1U1FLSjg0Y2pib1ZpNUJsOVJnWjV0UUR5T0lRNU9lb2d0bElxbk9GZ2QtLXUzNDI3NGt2SW9GeG9CQ2tfQmJTVUtBSkxKS1kxNmVuZ29hbzV5c25VZXRmRUFNSlA5RnpUUUthZVpNaG1wdUE5cy1ya1VQRmtGdlFNOUFMZHJDSjZCSUt2c0d1NDNnOUR0VjJwa3JDWGh5V1Y1RHRHX29jQ1VRSXFpc3ZFMlJhSm9WNURlQWJObGFkOWVqbElDb0HSAcYEQVVfeXFMT2JPT19ObmYxa2phYzhKVUhuSkF4dnIydHJtWjV5SHBLc0pueHBKX0tHMUphN0xrV2w5ZDU3LUVKdTFTSHdRWHE1b3BaX3ktcUZxMmVGTWpqcnpJbmdfRmRMTERLWjhNRlktVG1fdW9QX2xFdVRxZExlNTM5U082a2xadVQ2UjIzNHN1QTIxMC1rdnR2MU5STmFTbVdpSUhjVk1waTNMQkQtYzREX2FNODNheTFCVXp6NmVqaW10ZGxGLTI5Z2puVXRvanJ6X2d1MXE0b2ZRNTRILVVkU3ZfZHQweDA3MXRTQjVMalhRcHBCdDFuV3VaMmhQbWxLMlN0azVaeDNrRFZwdE9EUGxBMnNtcUxQN25QOTl6VnY0LTBkamlSdnlidTVUSWU5ZVg4SE15NWczZ3FyeWRLLUZxMlg4cjdGRzBJYl9jeFNFMEc2ZVFmWGlpN1NEbGdXc1p4WTQxcXh6d3p2QXN2aTcyY1Zqd2tRZ1FUOHg3a3YzMy16Ukd0QWdQNVNRS0o4NGNqYm9WaTVCbDlSZ1o1dFFEeU9JUTVPZW9ndGxJcW5PRmdkLS11MzQyNzRrdklvRnhvQkNrX0JiU1VLQUpMSktZMTZlbmdvYW81eXNuVWV0ZkVBTUpQOUZ6VFFLYWVaTWhtcHVBOXMtcmtVUEZrRnZRTTlBTGRyQ0o2QklLdnNHdTQzZzlEdFYycGtyQ1hoeVdWNUR0R19vY0NVUUlxaXN2RTJSYUpvVjVEZUFiTmxhZDllamxJQ29B?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -433,7 +492,7 @@
       "originalHeadline": "هل يساعد النوم فعلاً على إنقاص الوزن ؟"
     },
     {
-      "headline": "Yemen - The Secretary-General renews his condemnation of the Houthis’ detention of employees of the United Nations and other parties - UN News",
+      "headline": "Yemen - The Secretary-General renews his condemnation of the Houthis’ detention of employees of the United Nations and others - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oZDFxU0VMVlV2SXJFVHZHRnh5ejlhd19qOS1FVDJHbjY3VzZaMEIxdy0tcFdXU0VPdV9tLXl5UDlyZDFOQmMwOGEzZ05GVTdiTTVXR1I3Yw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -441,7 +500,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-10T16:43:40.000Z",
-      "originalHeadline": "اليمن - الأمين العام يجدد إدانته لاحتجاز الحوثيين موظفين في الأمم المتحدة وجهات أخرى - UN News"
+      "originalHeadline": "اليمن - الأمين العام يجدد إدانته لاحتجاز الحوثيين موظفين في الأم�� المتحدة وجهات أخرى - UN News"
     },
     {
       "headline": "Scientific Bulletin - Saudi Arabia: Discovery of rock inscriptions bearing the name of the Caliph “Omar bin Al-Khattab” in Al-Mahd Governorate - Monte Carlo International",
@@ -597,6 +656,17 @@
       "language": "en",
       "date": "2026-06-10T16:08:58.000Z",
       "originalHeadline": "لطيفة بنت محمد تشهد توقيع اتفاقية تعاون بين هيئة الصحة في دبي و\"دبي الصحية\" من جهة، وشركة \"كراي\"، أكبر مزود للرعاية الصحية الرقمية في أوروبا، بهدف تعزيز التعاون وتبادل المعرفة في مجال التكنولوجيا الصحية والمبادرات المرتبطة بالابتكار الصحي، وذلك على هامش زيارة سموّها إلى ستوكهولم"
+    },
+    {
+      "headline": "Escalating threats put pressure on the path of understanding with Iran - Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVXg1NUl0Umd2Ml9FTE1xY1duSVJxUzNjT3M2aWx6TTZGazJ0aUpxakl2U25ldDcyanVmNFdFUURMZmktWVZlckNJdTc3emlYeFU5V1F3bjh3anphdTJVakVmVFRXeWVTcmJsdDFaVlVsTGt6NDBBNnZrV0N6c3pzNzVSbVB4dHFnN0ZENG1YWWtHYmpWVHlMTVZIWjJ2NEhGTmdYV25KLUhxTkRMQmozRjZ6OHVIbUVWSW1BY24yeF9jLXVhcDBxUTNlUDRkZzl5OUNZdmxINjU3ZF9Hb2lVNUJ5cDRBVE1oLTFsckRvaVF2WlZ0clRsT3dNMHVjV2ZsV19mZ2hKQ0RIcWoyTndCSlo4bG1GRmNMWkZoNmhrUHZhVXd0VnRFcTNnU2lUbXJXRzJQYmxzSXVIeU9mdlBuaWhGYU81c0htNzRPOWY2LU1HVVcwWVVRXzhLM3VQRFU?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-10T16:08:16.000Z",
+      "originalHeadline": "تصاعد التهديدات يضغط على مسار التفاهم مع إيران - سكاي نيوز عربية"
     },
     {
       "headline": "During Her Highness’s strategic visit to the Kingdom of Sweden, at the head of a high-level delegation that includes ministers and government officials, Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Digital Authority and Ericsson. The agr",
@@ -1162,7 +1232,7 @@
       "originalHeadline": "#المنامة | سمو وزير الخارجية الأمير #فيصل_بن_فرحان \n@FaisalbinFarhan\n يشارك في الاجتماع الوزاري المشترك للحوار الاستراتيجي بين مجلس التعاون لدول الخليج العربية وكندا."
     },
     {
-      "headline": "\"God is the guardian of Omar bin Al-Khattab\"... Saudi Arabia announces rock inscriptions bearing the name of the second Rightly Guided Caliph - Al Jazeera Net",
+      "headline": "\"God is the guardian of Omar bin Al-Khattab\"... Saudi Arabia announces rock inscriptions bearing the name of the second Rightly Guided Caliphs - Al Jazeera Net",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeDRseW9xcXFyZmdQLWdlbTU4Qmw1RFd5YkZieWVaLTl0NG1GVjA5TE5kcHd0eXBoa1duNmRJR1pSajgzTVQ0ZC1ONjBNZU1YdEYxX012Y2lqY2lyQW1QRHRudS1ManFvSV8tWmc5N2hlTUM1WThfOUlPQkVqQk5Mang4X0Q3OXNYTEFtVEhfd1Bpcjd6OW92QkZDRG94V3FqUmp0UmlFcDJHRHp6U1dCTDZ5ODZGQmpFYkxFeDlXQmk0cTU2VGZHbHFnZGx0WC01bEVWQjdQUkpFM0M2cTZMblVHdjI3bF9zRTBRMUNwTWV1clo5T2JxenJQRnoyM3hvcE9ZaGhhMHN6T0M5Y0g4bUN3QnItbnN3TTREM1MwekFHOHlWMUZ3d0tKZmpHOWVmcVpaVEFhQWtjaXNLNjNMWmRFdmhFSXI3OGs40gHQAkFVX3lxTE5GekVKaHIzQWVJOVo2empYTUg0YWhlUjFKV2lmQXljbUdqcXFEUDIyUC1FbUdRNTZyRFNPQlJfVHY1NDcxSFBEb1BEYW5KYWpqbkFvTVRmN3U2SWxjUm8zWFUzWnREUFgwbjRjeGxReUdhMlFCcUwyOHNDUEx6NS1raVVkNk0weER1V3BKQ1hRMnktMEFTX084SVdUU1g2MDZxWGVMU0JyaW9NYmVpR3EyMU02SEhGSGdkbzNhLW5NWEsxcVdwdTJ4aWg0YldIbkFLdExRZkxvR20xMkJtclJjR3E2Z1FoU0diZnRyUlNzcUhlcVduN1M5OFVtMEZFVUcwZzJvTFFpVmQ0RFU1X1ZWNVVRdElyVFc1cUdtR3VpdkUwWnU0bzg0cGtkbS1acnRqQnJSa21uaTl2MXBLcWRPUkRjWHJUWWZ5cWlOMmN6Yw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1170,7 +1240,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-10T15:10:42.000Z",
-      "originalHeadline": "\"الله ولي عمر بن ��لخطاب\".. السعودية تعلن عن نقوش صخرية تحمل اسم ثاني الخلفاء الراشدين - الجزيرة نت"
+      "originalHeadline": "\"الله ولي عمر بن الخطاب\".. السعودية تعلن عن نقوش صخرية تحمل اسم ثاني الخلفاء الراشدين - الجزيرة نت"
     },
     {
       "headline": "The railway connection between Saudi Arabia and Turkey is a strategic step to strengthen supply chains - Al Arabiya",
@@ -1946,6 +2016,17 @@
       "originalHeadline": "ترمب يُصعِّد ضد إيران : تأخرت في التوصّل إلى اتفاق وستدفع الثمن"
     },
     {
+      "headline": "Ronaldo na Messi - Ushindani ambao ulitawala soka kwa miongo miwili - lakini nani bora zaidi kati yao ?",
+      "url": "https://www.bbc.com/swahili/articles/c0ey1yjy3y7o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-10T13:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Massacre in Johannesburg... 12 dead and 9 injured in an armed attack",
       "url": "https://www.okaz.com.sa/variety/na/2252011",
       "source": "Okaz",
@@ -2004,17 +2085,6 @@
       "date": "2026-06-10T13:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "يشار .. حزب أسسه غريم نتنياهو لقيادة الوسط الإسرائيلي"
-    },
-    {
-      "headline": "Ronaldo na Messi - Ushindani ambao ulitawala soka kwa miongo miwili - lakini nani bora zaidi kati yao ?",
-      "url": "https://www.bbc.com/swahili/articles/c0ey1yjy3y7o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-10T13:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Washington is pressuring Europe to tighten travel restrictions due to the Ebola outbreak",
@@ -2655,16 +2725,6 @@
       "originalHeadline": "تلقى سمو ولي العهد الشيخ صباح خالد الحمد الصباح، حفظه الله، اليوم اتصالاً هاتفياً من معالي رئيس المجلس الأوروبي أنطونيو كوستا. وقد أعرب معاليه خلال الاتصال عن تضامن أوروبا الكامل ووقوفها إلى جانب دولة الكويت في أعقاب الهجمات الأخيرة التي شنتها إيران ووكلاؤها، مؤكداً أن"
     },
     {
-      "headline": "Belfast stabbing suspect in court after night of protests",
-      "url": "https://timesofoman.com//article/172851-belfast-stabbing-suspect-in-court-after-night-of-protests",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-10T11:50:12.000Z"
-    },
-    {
       "headline": "Statement issued by the Ministry of Foreign Affairs\nWednesday, June 10, 2026\n\nThe Ministry of Foreign Affairs expresses the State of Kuwait’s strong condemnation and denunciation of the sinful Iranian attacks that targeted the sisterly Kingdom of Bahrain and the sisterly Hashemit",
       "url": "https://x.com/MOFAKuwait/status/2064676356814741727",
       "source": "Kuwait MFA",
@@ -2674,59 +2734,6 @@
       "language": "en",
       "date": "2026-06-10T11:49:37.000Z",
       "originalHeadline": "بيان صادر عن وزارة الخارجية\nالأربعاء 10 يونيو 2026\n\nتُعرب وزارة الخارجية عن إدانة دولة الكويت واستنكارها الشديدين للاعتداءات الإيرانية الآثمة التي استهدفت مملكة البحرين الشقيقة والمملكة الأردنية الهاشمية الشقيقة، في انتهاكٍ سافرٍ لسيادة الدول وخرقٍ لقواعد القانون الدولي، وبما"
-    },
-    {
-      "headline": "Between caution and risk.. How many minutes will Lamine Jamal play in the match between Saudi Arabia and Spain? - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPSDhUa3VrRDlMT3NWZ0tRZ2lIS2N3QnZkSlBGVGVBdFJUU3FSREdGSGJpSGxQYkI3cjVRcFNpZ1BNWDFzSDJRVVU3ckhOYW8ySW1aQjF4bjFVX2FoRUFyVmtGZ29JUmJ1c0U0YnBfbzh1amFwSXlvRmJFRnJLYWZrQUFzV1o0WmJVc0hpamUzdkZYbE04Q1FRQldINU8xTmRuVkRlbVA5R2gwOG9odlowZlg0dWZkcTQ0M3BKck5mRzd0clFTdjU2R3pEQWRRUUtlZTZyc0JvTjd0NHM4Sy1tbnRhODNkcEJvZ09xZXBUZG4zbkF2d2c1VVF5bmg1dkVHaDhKOXFyZWZmczMySzVESlp0bEJDMU5WV3pWU2h4RFExV3Rpd3pnVUlLV2IxX20xOHVycHNtOW1FazRxVmpiQ2RYR1c4Sk5Mb3hUazZtRUx1UdIB1wJBVV95cUxPSUVKbUNjQWV5OUFZUE9CR1BXenMxQVhfR0NHc2FxTkVXX1k4ODMySkFiMVZ5TDExSkctbk9pMnBKOTc1dXhVci15dzFiR21UMUQtQi1sMndRbWtZLUtjdktRa0lMSXhqcUU0RENGQWp6ZTJ1eHVZTmVSV2Q1QXNMYmVVZlZscUZ5MV9HN01MSjgzQW43UlNqQTdDM1FPVzlYbWpLalNhNmw3VWtvakJkTWtMcXYyLVZST0E3ZEZOaWw0X2xzcXpYRWdma1VZc3JUOWVjR3YwcE9IcVgyaVUtQ21HTmpTQUpMWWZBc3BiLV84Xzh4QUl4akpmTFUwakY2Q2RGOFZhcU5sT2YxUFVhbGJ6ZkNkbzdvODhlNUZaWmJmYl9sNkxVcWwzQUdITVRIZV9vSGdaVlUtYzdtSWwxV0l4alBPSVRpZ2V1eVZrMHpRQ01PTGFR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-10T11:48:04.000Z",
-      "originalHeadline": "بين الحذر والمخاطرة.. كم دقيقة سيلعب لامين جمال في مباراة السعودية وإسبانيا؟ - الجزيرة نت"
-    },
-    {
-      "headline": "NASA picks first European astronaut for Artemis mission",
-      "url": "https://timesofoman.com//article/172850-nasa-picks-first-european-astronaut-for-artemis-mission",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-10T11:45:43.000Z"
-    },
-    {
-      "headline": "Largest FIFA World Cup in history to kick off Thursday in Mexico City",
-      "url": "https://www.wam.ae/en/details/c0nlhez-largest-fifa-world-cup-history-kick-off-thursday",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-10T11:45:13.765Z"
-    },
-    {
-      "headline": "Gold Falls to 11 - week Low as Oil Rises on Fresh US - Iran Hostilities",
-      "url": "https://english.aawsat.com/business/5282374-gold-falls-11-week-low-oil-rises-fresh-us-iran-hostilities",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-10T11:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "British Army : Guards on Cargo Ship off Yemen Aden Exchange Fire with Gunmen in Small Boat",
-      "url": "https://english.aawsat.com/arab-world/5282369-british-army-guards-cargo-ship-yemen%E2%80%99s-aden-exchange-fire-gunmen-small-boat",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-10T11:45:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Al Shifa...a mountainous summer destination between fog and nature.\n#SPA",
