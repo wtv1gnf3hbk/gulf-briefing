@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-10T17:04:24.517Z",
+  "updated": "2026-06-10T17:18:50.349Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Saudi Arabia Wins a Senior Position in the United Nations Committee on the Peaceful Uses of Outer Space",
+      "url": "https://spa.gov.sa/en/N2610286?type=news&uuid=N2610286",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-10T17:15:45.000Z"
+    },
+    {
+      "headline": "Muslim Council of Elders: Dialogue among civilizations fundamental pillar for promoting peace, understanding among peoples",
+      "url": "https://www.wam.ae/en/details/c0nlhwe-muslim-council-elders-dialogue-among-civilizations",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-10T17:04:01.247Z"
+    },
     {
       "headline": "Omani, Canadian foreign ministers discuss strengthening ties, regional developments",
       "url": "https://timesofoman.com//article/172874-omani-canadian-foreign-ministers-discuss-strengthening-ties-regional-developments",
@@ -31,6 +51,29 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-10T16:47:30.351Z"
+    },
+    {
+      "headline": "Does sleep really help you lose weight?",
+      "url": "https://aawsat.com/%D8%B5%D8%AD%D8%AA%D9%83/5282586-%D9%87%D9%84-%D9%8A%D8%B3%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%86%D9%88%D9%85-%D9%81%D8%B9%D9%84%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A5%D9%86%D9%82%D8%A7%D8%B5-%D8%A7%D9%84%D9%88%D8%B2%D9%86%D8%9F",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-10T16:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل يساعد النوم فعلاً على إنقاص الوزن ؟"
+    },
+    {
+      "headline": "Yemen - The Secretary-General renews his condemnation of the Houthis’ detention of employees of the United Nations and other parties - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oZDFxU0VMVlV2SXJFVHZHRnh5ejlhd19qOS1FVDJHbjY3VzZaMEIxdy0tcFdXU0VPdV9tLXl5UDlyZDFOQmMwOGEzZ05GVTdiTTVXR1I3Yw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-10T16:43:40.000Z",
+      "originalHeadline": "اليمن - الأمين العام يجدد إدانته لاحتجاز الحوثيين موظفين في الأمم المتحدة وجهات أخرى - UN News"
     },
     {
       "headline": "Scientific Bulletin - Saudi Arabia: Discovery of rock inscriptions bearing the name of the Caliph “Omar bin Al-Khattab” in Al-Mahd Governorate - Monte Carlo International",
@@ -610,16 +653,6 @@
       "language": "en",
       "date": "2026-06-10T15:27:16.000Z",
       "originalHeadline": "وزير الخارجية الأمير فيصل بن فرحان يشارك في اجتماع الدورة ١٦٧ للمجلس الوزاري لمجلس التعاون المنعقد في البحرين"
-    },
-    {
-      "headline": "As US and Iran trade strikes, Trump says Tehran will ‘pay the price’ for stalled talks - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-10T15:25:00.000Z"
     },
     {
       "headline": "Saudi-backed Riyadh Air lands maiden flight as Iran conflict rages - Reuters",
@@ -1464,6 +1497,16 @@
       "originalHeadline": "صافرة هندوراسية.. الكشف عن حكام مباراة قطر وسويسرا في كأس العالم - يلاكورة"
     },
     {
+      "headline": "As US and Iran trade strikes, Trump says Tehran will ‘pay the price’ for stalled talks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-10T13:19:00.000Z"
+    },
+    {
       "headline": "Northern Governor lauds Royal Support and Interior Ministry’s security efforts for Ashoora season\n\nhttps://\npolicemc.gov.bh/en/news/79273/",
       "url": "https://x.com/moi_bahrain/status/2064698372120879144",
       "source": "Bahrain Interior Ministry",
@@ -1915,7 +1958,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-10T12:46:51.000Z",
-      "originalHeadline": "الكويت ��دين وتستنكر الاعتداءات الإيرانية الآثمة على البحرين والأردن - الهيئة الوطنية للإعلام"
+      "originalHeadline": "الكويت تدين وتستنكر الاعتداءات الإيرانية الآثمة على البحرين والأردن - الهيئة الوطنية للإعلام"
     },
     {
       "headline": "His Highness the Amir Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah, may God protect and preserve him, received a phone call this afternoon from His Majesty King Charles III, King of the friendly United Kingdom of Great Britain and Northern Ireland, during which the good historical re",
@@ -2210,6 +2253,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-10T11:55:06.161Z"
+    },
+    {
+      "headline": "China's imports of major commodities show price remains key driver - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-10T11:52:22.000Z"
     },
     {
       "headline": "Today, His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah, may God protect him, received a phone call from His Excellency the President of the European Council, Antonio Costa. During the call, His Excellency expressed Europe’s full solidarity and support for the ",
@@ -2688,58 +2741,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-10T11:26:30.000Z"
-    },
-    {
-      "headline": "Saudi Arabia appoints Princess Maha to lead Future Investment Initiative Institute - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGp1eVJlNzdzUmN5NkFvS243SUZXNEdKNGVTUVNFcWROY0hjSHpUZEV3bDZQY3JoNUo5SGlhY21FVXZJYk51clRBcXotejFVbzdsaTllNGQyLTRFaUtkWngyTUg1U1NOVjFwR3J2Vlk4aVE2NElwdFdpM1JUbllGT211ZU9WV25ZSFNCVE96Wlc3RHFjNTlLVUNpc1FieEZTZzdtVHJRbVRSTlpOUUN4RDBsUWRaMy1HMUMxdi1jek9kWnY2NlJ3bEZtdWNoZw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-10T11:23:44.000Z"
-    },
-    {
-      "headline": "Arab Diar postpones the offering of its shares in the Saudi market - Al Sharq with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQQnNiVWRpZkdkbk1uX25iMm1BZWV2NTgtLWlrcktrcldZMkxZSnBsdl9NLW9waENsNXFSVVNXamt3RTJiQmJ3YnNQdmwwd2pvV1Niay1KbkJLOTlESnYwS1FhM1lzblpxRXgyM0xiRmRuUUdOa09iME5BVTdSU2RQM0NIX1RNR2JRYUdEZFdTd3RMQVFuTG1hR3NKOHQ2N05nOVRHcjFiRGM1UGpram5YWFAwczJPOHh6ak5RVFhxWF9CeGdwbmhzX0xsd0tqQ2g2MXBGdVFGRHhhWjRvVy1vb2V3YlVSbXMzb0pFcUdUTW5UZzB5UmFqV2V3T2pzVzdrUmdxbmJJRTRyNTMwdkNYUG5aOVV1aHJmQWtfVEtpUDFHemNtd0I3TkkzOG9EOFdpM19yU3JXMEIxb3NwTkphM09JUjBRemNIaVJjU29EWWRmTTRPVFRsRll4azRvNGtDNEN4N0Y5Si1lbTJGYXhLS1hvSmlJaXpibUU5UkZLVFl0c1Vpd2x4S2RZR0JNemswcElTbFJfN0dZd3gtLTdIQ3l1QzNlRUV2ODFJZmZvbzRmYWpi?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-10T11:22:29.000Z",
-      "originalHeadline": "الديار العربية تؤجل طرح أسهمها في السوق السعودية - الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "China's imports of major commodities show price remains key driver - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnFfckNXcWNYaXBqQVNraHlTdzJucHRlM3p1bWhzSElsWXMwMUJ5MjBsX0UzYjdoZGN5SVdwSzhTeXc1eHZ0Z0hBWHBiM3RKeFBxZlNyTUNUVmxEY0VFUjNtWi02bXdTbkFXQno4QlBSOGs2dUYtVTY4bjM4bzU4WEdIS01yUXZEaXhhT1BmQ293dTlTdmpxZE1RNDBtRURacHFPQ0pSblVfUGdUcTFmRWFvVGptUC0zakNvOW0xbWpHNGplQUlTMEx2TQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-10T11:18:08.000Z"
-    },
-    {
-      "headline": "The Saudi Foreign Minister arrives in Bahrain to attend the Gulf Cooperation Council meeting - Al Sharq News",
-      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPOWdNeERfUm15S2g2SlkzNGR6SkF2cmROenZFUnN1Z1lUYXVtQ2VDV0lnRGZPSi1yMkxwbzZMSzlyWUljMnNOdDdGb2piSVNHSFJGcFlvbElLZFd5MDhQT0ZwRXZGUGtNZnAtTDBTOXRxTUZkMjJUdldtRnZjR0pXTFRyYjhjWEFteXNwVUZGMzJ6MlZYalRXQXc3T3BqQ18tZ2hWU0ROT1FKdXJ3WGx5WDM3YnlTbXFqdHprdHBNNkFjdS13S2E5d1dtcGkxWTdNelZ5NFdVSmhSTzlud0JhRTd4TVowdTR5MlJzbnpkYVFKNHBqcHlGMzVUNFZ0WndFandTVU16cU03NFhGdE42ZXZqcjNkcE9SOXhjTXRxTm5PVVJjQTBEV0g4czJlTlZrU3Q3akI4SlF1Y091N0lIQ2RRRWlrSEVCcDRLTThETFdHVG9VTWRVelQzeHNfbS1hemVQSnA3Zk1PR0ZJdWdYS2h2ZGpjQUQtTGE4OUZDVGY4RTltZ3ktRnQxc21xc0RIdllwWFk0Mkd5OC16SnN3TEJfcTVSajRpdDgwektFa1hZU3FvdkNocjVCdHpyVXZidDNFcmhXVDUwRGw2QjNPdW1VR05ndUlKaGFYYmZFdFNNeDdTc0hEeGZfRzhTYk0?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-10T11:09:04.000Z",
-      "originalHeadline": "وزير الخارجية السعودي يصل البحرين لحضور اجتماع مجلس التعاون الخليجي - الشرق للأخبار"
-    },
-    {
-      "headline": "8060.SE - | Stock Price &amp; Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WQjNfR1F4cHp0VUJ0WHVxc01HWjE2TkNhVUJoWS15dTRhQTVnT0VrNW8yVXZodE1DWEpSUG5vQmxVNXFid25sX2RTR1c4bzBlUUZiNFVQY19QWENnYnlhV2VHMHhaUUNUSVhMVzI3WExGMVlrZV9rWnYzb2Q?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-10T11:07:50.000Z"
     },
     {
       "headline": "Al Shifa...a mountainous summer destination between fog and nature.\n#SPA",
