@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-10T20:18:40.104Z",
+  "updated": "2026-06-10T20:32:56.580Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "MWL Condemns Iranian Aggression Against Bahrain, Kuwait, and Jordan",
+      "url": "https://spa.gov.sa/en/N2610396?type=news&uuid=N2610396",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-10T20:27:48.000Z"
+    },
+    {
+      "headline": "HRH the Crown Prince Directs Resumption of Lebanese Exports to Saudi Arabia Following Positive Steps Taken by Beirut",
+      "url": "https://spa.gov.sa/en/N2610395?type=news&uuid=N2610395",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-10T20:25:41.000Z"
+    },
     {
       "headline": "KSrelief Distributes 800 Food Baskets in Afghanistan",
       "url": "https://spa.gov.sa/en/N2610388?type=news&uuid=N2610388",
@@ -11,6 +31,29 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-10T20:04:37.000Z"
+    },
+    {
+      "headline": "Iran's President: Washington's threat to target vital infrastructure shows inability",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/10/irans-president-says-us-threats-to-hit-critical-infrastructure-show-weakness",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-10T20:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رئيس إيران : تهديد واشنطن باستهداف البنى التحتية الحيوية يظهر عجزًا"
+    },
+    {
+      "headline": "Trump Vows Attacks on Iran for Playing the US over Peace Deal",
+      "url": "https://english.aawsat.com/world/5282531-trump-vows-attacks-iran-%E2%80%98playing%E2%80%99-us-over-peace-deal",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-10T20:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Saudi Arabia wins a senior position in the United Nations Committee on the Uses of Outer Space - Al Sharq News",
@@ -118,7 +161,7 @@
       "originalHeadline": "السعودية بجانب مصر وإيطاليا وكاب فيردي في «مونديال اليد» - الشرق الأوسط"
     },
     {
-      "headline": "Former Qatari goalkeeper: The participation of 8 Arab teams in the World Cup represents an extension of the gains of the 2022 World Cup - Al-Ahram Gate",
+      "headline": "Former Qatar goalkeeper: The participation of 8 Arab teams in the World Cup represents an extension of the gains of the 2022 World Cup - Al-Ahram Gate",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Tk90d0VEdjVGaENwZ2RzTEsxS0lIdks3WDN0T0o5VU12NDF4Y2FxWFlRTVF3Y2kwamdsYWNnWXlTR1c0b0xsWnRGMmxKTWVRRWU4QWVn?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -126,7 +169,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-10T19:20:00.000Z",
-      "originalHeadline": "حارس مرمى قطر الأسبق: مشاركة 8 منتخبات عربية في كأس الع��لم يمثل امتدادًا لمكاسب مونديال 2022 - بوابة الأهرام"
+      "originalHeadline": "حارس مرمى قطر الأسبق: مشاركة 8 منتخبات عربية في كأس العالم يمثل امتدادًا لمكاسب مونديال 2022 - بوابة الأهرام"
     },
     {
       "headline": "Arab Parliament Speaker Condemns Knesset Approval of Bill on Palestinian Clearance Revenues",
@@ -157,6 +200,18 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-10T18:48:01.000Z"
+    },
+    {
+      "headline": "Exams under fire... Displaced students in Lebanon demand postponement of high school",
+      "url": "https://www.aljazeera.net/misc/2026/6/10/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%D8%A8-%D9%86%D8%A7%D8%B2%D8%AD%D9%88%D9%86-%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-10T18:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "امتحانات تحت النار .. طلاب نازحون في لبنان يطالبون بتأجيل الثانوية العامة"
     },
     {
       "headline": "Netanyahu intends to run in the elections amid Trump's skepticism and the erosion of his popularity",
@@ -193,18 +248,6 @@
       "date": "2026-06-10T18:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "أوروبا تواجه أعلى حرارة بتاريخها وتحالفات دولية تتشكل لمواجهة ترمب"
-    },
-    {
-      "headline": "Exams under fire... Displaced students in Lebanon demand postponement of high school",
-      "url": "https://www.aljazeera.net/misc/2026/6/10/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%D8%A8-%D9%86%D8%A7%D8%B2%D8%AD%D9%88%D9%86-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-10T18:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "امتحانات تحت النار .. طلاب نازحون في لبنان يطالبون بتأجيل الثانوية العامة"
     },
     {
       "headline": "Macron invites the leaders of Saudi Arabia, Egypt, Qatar and the UAE to the G7 summit to discuss the Iran-Arab war",
@@ -1242,7 +1285,7 @@
       "originalHeadline": "#المنامة | سمو وزير الخارجية الأمير #فيصل_بن_فرحان \n@FaisalbinFarhan\n يشارك في الاجتماع الوزاري المشترك للحوار الاستراتيجي بين مجلس التعاون لدول الخليج العربية وكندا."
     },
     {
-      "headline": "\"God is the guardian of Omar bin Al-Khattab\"... Saudi Arabia announces rock inscriptions bearing the name of the second Rightly Guided Caliph - Al Jazeera Net",
+      "headline": "\"God is the guardian of Omar bin Al-Khattab\"... Saudi Arabia announces rock inscriptions bearing the name of the second Rightly Guided Caliphs - Al Jazeera Net",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeDRseW9xcXFyZmdQLWdlbTU4Qmw1RFd5YkZieWVaLTl0NG1GVjA5TE5kcHd0eXBoa1duNmRJR1pSajgzTVQ0ZC1ONjBNZU1YdEYxX012Y2lqY2lyQW1QRHRudS1ManFvSV8tWmc5N2hlTUM1WThfOUlPQkVqQk5Mang4X0Q3OXNYTEFtVEhfd1Bpcjd6OW92QkZDRG94V3FqUmp0UmlFcDJHRHp6U1dCTDZ5ODZGQmpFYkxFeDlXQmk0cTU2VGZHbHFnZGx0WC01bEVWQjdQUkpFM0M2cTZMblVHdjI3bF9zRTBRMUNwTWV1clo5T2JxenJQRnoyM3hvcE9ZaGhhMHN6T0M5Y0g4bUN3QnItbnN3TTREM1MwekFHOHlWMUZ3d0tKZmpHOWVmcVpaVEFhQWtjaXNLNjNMWmRFdmhFSXI3OGs40gHQAkFVX3lxTE5GekVKaHIzQWVJOVo2empYTUg0YWhlUjFKV2lmQXljbUdqcXFEUDIyUC1FbUdRNTZyRFNPQlJfVHY1NDcxSFBEb1BEYW5KYWpqbkFvTVRmN3U2SWxjUm8zWFUzWnREUFgwbjRjeGxReUdhMlFCcUwyOHNDUEx6NS1raVVkNk0weER1V3BKQ1hRMnktMEFTX084SVdUU1g2MDZxWGVMU0JyaW9NYmVpR3EyMU02SEhGSGdkbzNhLW5NWEsxcVdwdTJ4aWg0YldIbkFLdExRZkxvR20xMkJtclJjR3E2Z1FoU0diZnRyUlNzcUhlcVduN1M5OFVtMEZFVUcwZzJvTFFpVmQ0RFU1X1ZWNVVRdElyVFc1cUdtR3VpdkUwWnU0bzg0cGtkbS1acnRqQnJSa21uaTl2MXBLcWRPUkRjWHJUWWZ5cWlOMmN6Yw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1250,7 +1293,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-10T15:10:42.000Z",
-      "originalHeadline": "\"الله ولي عمر بن ��لخطاب\".. السعودية تعلن عن نقوش صخرية تحمل اسم ثاني الخلفاء الراشدين - الجزيرة نت"
+      "originalHeadline": "\"الله ولي عمر بن الخطاب\".. السعودية تعلن عن نقوش صخرية تحمل اسم ثاني الخلفاء الراشدين - الجزيرة نت"
     },
     {
       "headline": "The railway connection between Saudi Arabia and Turkey is a strategic step to strengthen supply chains - Al Arabiya",
@@ -1678,16 +1721,6 @@
       "date": "2026-06-10T14:02:41.000Z"
     },
     {
-      "headline": "Homicide - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBILWlfdlN0dW1EbWx6RzNrWmw0R0djSmZSZHQ3d2dtWkczYmtmdkJ6UWZkN1B4ZzM1ZENvRkQwQ3dLeUwwYmc?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-10T14:01:18.000Z"
-    },
-    {
       "headline": "Salesforce: Office employees in Saudi Arabia show great confidence in artificial intelligence - Fintechgate",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdmxDZnE4WU9BRXFJMmp2ZVZBSjFBX28yWlR0Y1hCSWppVm1RVHk5ZDhycE5RM3VydlZsMUE1Q0NGVU5DUTNEOER2ektyUk42WXBWdFJYWTVYQnBlc3dyV24yS2FXMmxoZmRPZWc0TDJiaGxpcnFHenk2ZVJ4TUVoWEhPX2ZneU10am9naEZKMXJ0MVZrdlVzNDBvSVhuWmhGOW05Z1VqZUdkbURHUDd5U25jMWFjQUFnOWFmcHNBQTlTX1FTd2FQMkVGQWllVHhROUFHZnhIekFidGVRMWRMSWhxOTkxcTRCWnBSY3l0VmlRZjBZVl9sTGhBUUw3dmFYWnllLTNOREtjUnN1N0V6ZG8wbXRJTzdPeHZHRHlOUWJmamZPNnNJdTc3bDJaUVNSWGVqWEZlYUNOcE1kZklSZ0Nn?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2012,6 +2045,17 @@
       "originalHeadline": "احتجاجات مؤيدة لفلسطين تعطل افتتاح معرض برلين للطيران والفضاء"
     },
     {
+      "headline": "Ronaldo na Messi - Ushindani ambao ulitawala soka kwa miongo miwili - lakini nani bora zaidi kati yao ?",
+      "url": "https://www.bbc.com/swahili/articles/c0ey1yjy3y7o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-10T13:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "The number of oil tankers crossing the Suez Canal increased by 28%",
       "url": "https://www.aljazeera.net/ebusiness/2026/6/10/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%B1%D8%A9-%D9%84%D9%82%D9%86%D8%A7%D8%A9",
       "source": "Al Jazeera Arabic",
@@ -2034,17 +2078,6 @@
       "date": "2026-06-10T13:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "ترمب يُصعِّد ضد إيران : تأخرت في التوصّل إلى اتفاق وستدفع الثمن"
-    },
-    {
-      "headline": "Ronaldo na Messi - Ushindani ambao ulitawala soka kwa miongo miwili - lakini nani bora zaidi kati yao ?",
-      "url": "https://www.bbc.com/swahili/articles/c0ey1yjy3y7o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-10T13:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Massacre in Johannesburg... 12 dead and 9 injured in an armed attack",
@@ -2680,38 +2713,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-10T11:59:00.386Z"
-    },
-    {
-      "headline": "A survey by “SNB Capital” nominates the preferred sectors for investing in Saudi-Arab stocks",
-      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQcW45OHc1eFNwNDBHa0FvQTRUM2habVBvUW9lSE9ld1VidHJ3STNKdTBHcjBaR280RVRoY0FaMkJhTXhJY09CZEdBdlltVmsxV05iZVpicnJ5dVE0eXNMUjN2VXRWWDlmQ0JvMXpGajNmQU5CR2kxRTM1WFR5WDB0OFd6NVJXYUdNRk5mMEllTDVWcmllRU9xMVc3ako2eno4QzVfeUxsNUNHUkw4R2N3OHE1ZmJhcmNJNzRXdnpDVFhId1dyaDFKTUQ4bVJ5cTlnWi1vMFpCTkF0MTlfMEV5VlpnRFJoVHBZSlE5dGxuZjJFcTBPMXBJcGhxdF85ZjJ1elFDTDRqRWdURFhLTFZkZUxiaFp6ek4xNkxFOEJQOUlWT1hMQk5WV2lsM29kb0JxTnB6SWdBbHd1ZWdZSEU0N204bmNONGNjM21kaUQtZF83U3hXSDk4S1NYdUU5TlR5a2pNUDJscmJpTGJlX1hoYk5nSlQ4UmRyT2R4NWxXT00xSlpNT055dmlFZGRaODAtYl9JTWY5XzZVLTg2T3Z5VzlCeXlhQk9EWlozN0twU0JQeVVPOVMtM21lQW41UVpZTUdIZ0ZEYURtZEk4NkZQdTRUM0RCNTlseDFSVmI3aF94LWdNZHJNekFHVmI3R1ozYVVuVFFtWEhNNnVqRVpSdjhGUlQ4WW1KMmlyUldvbzV5ZjUxSmlwNTQ0bTZQcjQtUEsyVVhiYzUzanRaUUYydkU0bUZMUdIBtgRBVV95cUxQcW45OHc1eFNwNDBHa0FvQTRUM2habVBvUW9lSE9ld1VidHJ3STNKdTBHcjBaR280RVRoY0FaMkJhTXhJY09CZEdBdlltVmsxV05iZVpicnJ5dVE0eXNMUjN2VXRWWDlmQ0JvMXpGajNmQU5CR2kxRTM1WFR5WDB0OFd6NVJXYUdNRk5mMEllTDVWcmllRU9xMVc3ako2eno4QzVfeUxsNUNHUkw4R2N3OHE1ZmJhcmNJNzRXdnpDVFhId1dyaDFKTUQ4bVJ5cTlnWi1vMFpCTkF0MTlfMEV5VlpnRFJoVHBZSlE5dGxuZjJFcTBPMXBJcGhxdF85ZjJ1elFDTDRqRWdURFhLTFZkZUxiaFp6ek4xNkxFOEJQOUlWT1hMQk5WV2lsM29kb0JxTnB6SWdBbHd1ZWdZSEU0N204bmNONGNjM21kaUQtZF83U3hXSDk4S1NYdUU5TlR5a2pNUDJscmJpTGJlX1hoYk5nSlQ4UmRyT2R4NWxXT00xSlpNT055dmlFZGRaODAtYl9JTWY5XzZVLTg2T3Z5VzlCeXlhQk9EWlozN0twU0JQeVVPOVMtM21lQW41UVpZTUdIZ0ZEYURtZEk4NkZQdTRUM0RCNTlseDFSVmI3aF94LWdNZHJNekFHVmI3R1ozYVVuVFFtWEhNNnVqRVpSdjhGUlQ4WW1KMmlyUldvbzV5ZjUxSmlwNTQ0bTZQcjQtUEsyVVhiYzUzanRaUUYydkU0bUZMUQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-10T11:59:00.000Z",
-      "originalHeadline": "استطلاع لـ\"SNB Capital\" يرشح القطاعات المفضلة للاستثمار في الأسهم السعودية - العربية"
-    },
-    {
-      "headline": "A survey by “SNB Capital” nominates the preferred sectors for investing in Saudi-Arab stocks",
-      "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxOWjBLXzNmU0Q2a05HajlkeHZMNy1NUzVsbDdBTGFkY2V0aFI5SzJPNXVNT2VhelhQak5XTkZrSlFHd1J5dWhOblhEbG4zbnJKQTRaLWJwM0VPdm13X3k1d29OYWpfRjVNWGgxTG92N043ZmlMY01CbWd0ejZ1UGU0N01LS0pfYkp4Z0dXTS1BYzh2Tmc1cnF5TVVJaHctVENhYnItQjZObGN4S2NaMDRTekFwcS04akNjblp2SEtLZWhva1RzX2FPT0dYWU95cGtCeHBsZzhJbElzeWJHMW8tV2NiU1NodkFkaDA4dnBYdUdCaUFxTUtxN0J1N0RFWHdyeVNTcTdDOW12c1A5c0pLMmxnekhDZGtHdnVFRUVmZmV1bnl4UUJrWnQyOEhHdHFlVzBOR3F4dmI0WjN2Q3ZyUzR5cmNCT0pfU1ZNMzJMZVJlcUhwWnM2Q1prUnJYSTk3YWsxVTlPVlZxZHB6eWQ4NzFXVkZpSDVkMmVmN29XOEZpSXdVX0o3VVVoeTFFdUNydWNlZk1uaU90R29xbElwVTBEY0pGQnFfenFDTjZ0c0dSRWtadzMybGY3TjVWNWZhSkpvT29iNF9GTzRoZFh1cDAxRV9qN2ViSkpTZEhMSVZCOWpjemZQNVEzeWM4M2YyWXVBY1VaMTdzcmhSNWdWRThNeHVTQ0pBWi1jLThzdk1vaVF4b0JLWWZFMjBHcWFHRzJqcXA1M1hORkptQUtzcdIBtgRBVV95cUxQcW45OHc1eFNwNDBHa0FvQTRUM2habVBvUW9lSE9ld1VidHJ3STNKdTBHcjBaR280RVRoY0FaMkJhTXhJY09CZEdBdlltVmsxV05iZVpicnJ5dVE0eXNMUjN2VXRWWDlmQ0JvMXpGajNmQU5CR2kxRTM1WFR5WDB0OFd6NVJXYUdNRk5mMEllTDVWcmllRU9xMVc3ako2eno4QzVfeUxsNUNHUkw4R2N3OHE1ZmJhcmNJNzRXdnpDVFhId1dyaDFKTUQ4bVJ5cTlnWi1vMFpCTkF0MTlfMEV5VlpnRFJoVHBZSlE5dGxuZjJFcTBPMXBJcGhxdF85ZjJ1elFDTDRqRWdURFhLTFZkZUxiaFp6ek4xNkxFOEJQOUlWT1hMQk5WV2lsM29kb0JxTnB6SWdBbHd1ZWdZSEU0N204bmNONGNjM21kaUQtZF83U3hXSDk4S1NYdUU5TlR5a2pNUDJscmJpTGJlX1hoYk5nSlQ4UmRyT2R4NWxXT00xSlpNT055dmlFZGRaODAtYl9JTWY5XzZVLTg2T3Z5VzlCeXlhQk9EWlozN0twU0JQeVVPOVMtM21lQW41UVpZTUdIZ0ZEYURtZEk4NkZQdTRUM0RCNTlseDFSVmI3aF94LWdNZHJNekFHVmI3R1ozYVVuVFFtWEhNNnVqRVpSdjhGUlQ4WW1KMmlyUldvbzV5ZjUxSmlwNTQ0bTZQcjQtUEsyVVhiYzUzanRaUUYydkU0bUZMUQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-10T11:59:00.000Z",
-      "originalHeadline": "استطلاع لـ\"SNB Capital\" يرشح القطاعات المفضلة للاستثمار في الأسهم السعودية - العربية"
-    },
-    {
-      "headline": "Oman Commercial Arbitration Centre unveils its new corporate identity",
-      "url": "https://timesofoman.com//article/172852-oman-commercial-arbitration-centre-unveils-its-new-corporate-identity",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-10T11:56:16.000Z"
     },
     {
       "headline": "Today, His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah, may God protect him, received a phone call from His Excellency the President of the European Council, Antonio Costa. During the call, His Excellency expressed Europe’s full solidarity and support for the ",
