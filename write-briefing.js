@@ -56,7 +56,7 @@ function callClaudeOnce(prompt, systemPrompt = '', images = []) {
     const messages = [{ role: 'user', content: userContent }];
 
     const body = JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
+      model: 'claude-sonnet-4-6',
       max_tokens: 2500,
       system: systemPrompt,
       messages
