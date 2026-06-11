@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-11T05:09:07.251Z",
+  "updated": "2026-06-11T05:19:01.362Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Once an Arab oil embargo victim, US becomes world's top oil exporter - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnFreTE1OUdkNnV2TjRsZ0hvUHZYaURYVmFMZjBqcXZRUEFIWVVCbmlFNC1TY1o5WnRma3lCeE5HZzhORU9pZXh0Q2o0U25MQW5kdElPSnBMWXNwLWxlZHlXWE5uMnFsSlVaMW1oQUVpaHFWU2Zxemg3YkttbDh6emx3Z2YzNUF3WGNCcTdfeXFnU3ViMlM3OGJ3T3kwWkZqZUsyRHZ1QkpzUFJGOWZrNmNQSzNMc241SHc?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-11T05:04:00.000Z"
+    },
     {
       "headline": "SIH, UOS advance heritage collaboration",
       "url": "https://www.wam.ae/en/details/179mag7-sih-uos-advance-heritage-collaboration",
@@ -106,6 +116,18 @@
       "date": "2026-06-11T04:18:24.000Z"
     },
     {
+      "headline": "Kuwait announces the interception of hostile objects... and Bahrain sounds sirens",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/11/kuwait-intercepts-hostile-objects-sirens-sound-in-bahrain",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-11T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الكويت تعلن اعتراض أجسام معادية .. والبحرين تطلق صافرات الإنذار"
+    },
+    {
       "headline": "UN Approves Saudi Green Building Forum Event for 2026 High-Level Political Forum Official Program",
       "url": "https://spa.gov.sa/en/N2610536?type=news&uuid=N2610536",
       "source": "Saudi Press Agency",
@@ -114,17 +136,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-11T04:09:00.000Z"
-    },
-    {
-      "headline": "El Mundial más caro y más politizado : 4 claves del conflictivo megatorneo en Norteamérica",
-      "url": "https://www.bbc.com/mundo/articles/cd0mgg47ry3o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Newsweek: Why is Trump unable to curb Netanyahu? | policy",
@@ -149,6 +160,17 @@
       "date": "2026-06-11T04:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بعد هجمات إيرانية .. صفارات إنذار في البحرين واعتراضات جوية بالكويت"
+    },
+    {
+      "headline": "El Mundial más caro y más politizado : 4 claves del conflictivo megatorneo en Norteamérica",
+      "url": "https://www.bbc.com/mundo/articles/cd0mgg47ry3o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T04:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Bahrain: Air defense systems intercept and destroy Iranian air attacks in the country’s skies - Al-Ahram Gate",
@@ -291,18 +313,6 @@
       "originalHeadline": "الكويت: الدفاعات الجوية تتصدى لأهداف معادية - سكاي نيوز عربية"
     },
     {
-      "headline": "Centcom: The new round of attacks on Iran has ended; Iran announced the attack on American bases",
-      "url": "https://www.bbc.com/persian/live/cy49nklnj23t",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T02:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سنتکام : دور جدید حملات به ایران پایان یافت ؛ ایران از حمله به پایگاه‌های آمریکا خبر داد"
-    },
-    {
       "headline": "After Trump's statement, the US Army announces the end of the strikes on Iran",
       "url": "https://arabic.cnn.com/middle-east/article/2026/06/11/us-has-finished-latest-round-of-strikes-in-iran-central-command-says",
       "source": "CNN Arabic",
@@ -325,6 +335,18 @@
       "date": "2026-06-11T02:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "انقسامات وذعر في البيت الأبيض .. 6 أسرار عن فضيحة إبستين"
+    },
+    {
+      "headline": "Centcom: The new round of attacks on Iran has ended; Iran announced the attack on American bases",
+      "url": "https://www.bbc.com/persian/live/cy49nklnj23t",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T02:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سنتکام : دور جدید حملات به ایران پایان یافت ؛ ایران از حمله به پایگاه‌های آمریکا خبر داد"
     },
     {
       "headline": "Out of the box | Lebanon thanks Saudi Arabia after resuming exports.. and the United Nations criticizes Hamas - Al Arabiya",
@@ -368,7 +390,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T01:52:00.000Z",
-      "originalHeadline": "إيران تجدد اعتداءاتها على البحرين والكويت والأردن - العربية"
+      "originalHeadline": "إيران تجدد اعتداءاتها على البحرين والكويت والأردن - ا��عربية"
     },
     {
       "headline": "Al-Riyadh newspaper | The Shura Council discusses the annual reports of government agencies",
@@ -2288,16 +2310,6 @@
       "date": "2026-06-10T15:59:57.000Z"
     },
     {
-      "headline": "Saudi Arabia Reaffirms Commitment to Promoting Rights and Inclusion of Persons with Disabilities",
-      "url": "https://spa.gov.sa/en/N2610218?type=news&uuid=N2610218",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-10T15:57:59.000Z"
-    },
-    {
       "headline": "US-Qatar Business Council (USQBC) Doha, International Finance Corporation (IFC) Launch Roadmap to Boost Investments in Agriculture \n#QNA #Qatar\n\nhttps://\nbit.ly/3Si3zFz",
       "url": "https://x.com/QNAEnglish/status/2064738235532693648",
       "source": "Qatar News Agency",
@@ -2413,16 +2425,6 @@
       "language": "en",
       "date": "2026-06-10T15:50:13.000Z",
       "originalHeadline": "حكومة الإمارات تعقد ورشة عمل حول تطبيق الذكاء الاصطناعي المساعد بمشاركة أكثر من 50 وزارة وجهة اتحادية"
-    },
-    {
-      "headline": "Kazakh Prime Minister Receives Industry and Mineral Resources Minister",
-      "url": "https://spa.gov.sa/en/N2610208?type=news&uuid=N2610208",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-10T15:48:09.000Z"
     },
     {
       "headline": "The Custodian of the Two Holy Mosques and His Highness the Crown Prince offer their condolences to the President of the Philippines for the victims of the earthquake that struck the south of his country.",
