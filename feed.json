@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-11T20:18:51.244Z",
+  "updated": "2026-06-11T20:32:49.987Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Saudi Arabia and France Sign Joint Action Program to Advance Tourism Cooperation",
+      "url": "https://spa.gov.sa/en/N2611154?type=news&uuid=N2611154",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T20:28:39.000Z"
+    },
+    {
+      "headline": "Foreign Minister Receives French President's Adviser for Middle East and North Africa",
+      "url": "https://spa.gov.sa/en/N2611151?type=news&uuid=N2611151",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T20:21:32.000Z"
+    },
     {
       "headline": "Foreign Minister Holds Phone Call with Portuguese Foreign Minister",
       "url": "https://spa.gov.sa/en/N2611149?type=news&uuid=N2611149",
@@ -52,6 +72,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-11T19:47:05.289Z"
+    },
+    {
+      "headline": "UK defence funding crisis has been a long time coming",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T19:45:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Abdullah bin Zayed holds phone call with Kuwait’s Foreign Minister",
@@ -494,17 +525,6 @@
       "originalHeadline": "الكويت تبعث رسالة احتجاج جديدة لـ \"إيكاو\" بشأن \"اعتداءات إيران\" على مطارها - العربية"
     },
     {
-      "headline": "Zaidi Urges Sharaa to Boost Baghdad - Damascus Coordination",
-      "url": "https://english.aawsat.com/arab-world/5282998-zaidi-urges-sharaa-boost-baghdad-damascus-coordination",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-11T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "German Players to Pay for 600 Fan Stadium Trip amid Soaring Transport Costs",
       "url": "https://english.aawsat.com/sports/5282925-german-players-pay-600-fans-stadium-trip-amid-soaring-transport-costs",
       "source": "Asharq al-Awsat (EN)",
@@ -527,6 +547,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Zaidi Urges Sharaa to Boost Baghdad - Damascus Coordination",
+      "url": "https://english.aawsat.com/arab-world/5282998-zaidi-urges-sharaa-boost-baghdad-damascus-coordination",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-11T17:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Egypt Signs Deal to Transfer Shares in Wataniya 172 Fuel Stations to Taqa Arabia",
       "url": "https://english.aawsat.com/business/5282967-egypt-signs-deal-transfer-shares-wataniya-172-fuel-stations-taqa-arabia",
       "source": "Asharq al-Awsat (EN)",
@@ -535,6 +566,17 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-06-11T17:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Three ships attacked by the US in three days : What we know",
+      "url": "https://www.bbc.com/news/articles/crlw3k5l3k4o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T17:30:00.000Z",
       "tier": "gdelt"
     },
     {
@@ -584,17 +626,6 @@
       "date": "2026-06-11T17:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "صحيفة روسية : ترسانة فرنسا زادت عشرات الرؤوس النووية خلال أشهر"
-    },
-    {
-      "headline": "Three ships attacked by the US in three days : What we know",
-      "url": "https://www.bbc.com/news/articles/crlw3k5l3k4o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T17:30:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Saudi Arabia, Kazakhstan Sign MoU to Enhance Mining Cooperation",
@@ -649,6 +680,16 @@
       "date": "2026-06-11T17:15:54.000Z"
     },
     {
+      "headline": "US lawmakers seek $750 million for Ukraine, rename Pentagon 'Department of War' in defense bill - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGlsUV9wSVM1UnE0dlRXc2I3TEl0bUZpUVFyNmhOT3ZfLVhzdkdqcEl6UUlHVDdVMDlSV1EzUTFKSjA2cEZVekZsVHVURHVjTEJPcDRaeThKM2d1VjAyX1ZBbjV2MHgxR0tRVmhMSHB3S1AyNS1vT0JENlpYQTh5d2RDQTkzNFl6Nm9DdGZLaDNUckZxOWlCanpEOVpLcFlzRjBnZGZUdEdlVnFyMjFtWXlqeENMTFZaNno3cVA0TkRPTGJ3ZzExSTBfUmdKT1NOR0d0cjdPSQ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-11T17:13:59.000Z"
+    },
+    {
       "headline": "Saudi Arabia and Indonesia are discussing enhancing tourism cooperation and increasing visitor traffic between the two countries - Mubasher Info",
       "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxNc0JIMEF4MHg5TGIwZWJpY0MwbHJZRkpwMlZDN01nc1RRcWtPWkJKU1gxSFAxYmxoQnM3QThlNlBEU0xVN21RNXJxRl91eHhxOUpDTmp2VTc4MGt1UnVZQ243bkVFMG5ubnVtdUh5WEc4T0RqLUhqZEFpLWtjd2lOdlBEa09MUDMxVk1nd3F2QlpZNjVCZF8wRml5bTJYd1BLTVdUcU1TczlzVXM3cXRST3F5b0ZSZTF4QWNQaWIwdzNDWDRQVEVPd3ktVFg4bmRFOVozX1JUaHVaSF9vRE1FeFJaZXZ0cDE1UHVoVVVIRk9OMUwtX3JXdzlmYXozUlNfWWRuMkpZck1VR3RDOVV4YmxxRjV3bVhxZkxQRDBvdEJZRGRiQ3kteUVJODhSSXcxNk1QaGkzQXhpY0tINWVpZl90MXJYc09GM1YyTXk1ZDhlWXJuV25wRGdOcVJWUHRIUHNFdnBHNVlMZXdWazNBVmhqWU8yRDhJTF9FTk5GTWl5XzFGUHBBUS0yTFJlVlVKMzdEbzNrQ250NEpUOUFQdlIzSGpjMjQzVzlKN2hGRkViUXVuU2toWFlYUWdzQTczWWYxSTVMM3VkRGlIODhwVmxRN2g2c0pwXzg1RzZqRXhUbVJCWWVibjhVdW51SUNielpXWU9DQkhOOHotYVlocC1SVWtuR1Q5eGZ6ak5hX29BaUVfZExqRWs1bW4tLXRmcEFNS2lIbjlkQTI2ZTV5eWh2by1hQjJMcHpqeGY0VHBoOTQzMjh4V1NOQnBZYTVId3J5NzU3UWdQRlNWbVI4X2p5UENjR3QwVDNYWUV6R3RPd2RuLTh6WF9SVXk5cE1qc2tXQzkxVQ?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -701,16 +742,6 @@
       "date": "2026-06-11T17:00:00.000Z"
     },
     {
-      "headline": "US lawmakers seek $750 mln for Ukraine, rename Pentagon 'Department of War' in defense bill - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGlsUV9wSVM1UnE0dlRXc2I3TEl0bUZpUVFyNmhOT3ZfLVhzdkdqcEl6UUlHVDdVMDlSV1EzUTFKSjA2cEZVekZsVHVURHVjTEJPcDRaeThKM2d1VjAyX1ZBbjV2MHgxR0tRVmhMSHB3S1AyNS1vT0JENlpYQTh5d2RDQTkzNFl6Nm9DdGZLaDNUckZxOWlCanpEOVpLcFlzRjBnZGZUdEdlVnFyMjFtWXlqeENMTFZaNno3cVA0TkRPTGJ3ZzExSTBfUmdKT1NOR0d0cjdPSQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-11T16:55:10.000Z"
-    },
-    {
       "headline": "US producer prices spike in May as soaring energy prices fuel largest yearly jump since 2022 - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkxCZWVnYlhJU3o3WkJJYS1KTGlyQXJBckhKQ29jNWY3TUdSR3NCdWUyNkpETGZtODg0Y3ZBRkxaNkZtSkNMVFgzdWVlZnlGci13TDdNMzhGM0FjY2VtZDN6U0NHa0hXc2loOVdmNnBfenJzdlhIS3ZOQm9HOTFPTEhBWG9zYzF6d0hXTFhQN2xidjhJZ2Z0MWFLN2hxRXc?oc=5",
       "source": "AP Gulf",
@@ -721,7 +752,7 @@
       "date": "2026-06-11T16:51:00.000Z"
     },
     {
-      "headline": "The Oman International Financial Center begins its work with three independent operating, regulatory and settlement bodies - CNBC Arabia",
+      "headline": "The Oman International Financial Center begins its work with three independent operating, management and settlement bodies - CNBC Arabia",
       "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxOUUR2NDRZMW1nb1d3ekFzVEgzSEgwemlzVV9IeS1uVmhVbEY4dzROSjlsTjBxaFkxaEhXUXlaZmFqUXNEZTFveFQ2RG9mV3N4T2h3cEczZUJTeHplRUk1Q2tTMlVDcjU2UkVHLVFad0hWNkllcUtRZ0JBWVlqR3I0WTQtbGVoaXhhdmxxXzhGY09PRTJzYkhFREllVUhQODRpMDJtS0gzN296UWwxaUF1VVctZU5EYzdpdHBpSVNpdHJxamJEaUk1RUlCZzJjTi1yYlBQQXBBOElKUHNVM0s2UHdsU1k4QW5FZXdBUEc5UzRUaTlNOFd4RWp0WS1oTEdyT2RQamdhMHZiVFpPcTlRWmFfeDhrRkNkVWhfS3NBcGZDdjA3MGQ5cjFKVlNlR0Z4b2RwNlI1czhiZGNFX2U0UHRhbEZ6S1NuLTdOZmxQbmtOc3U1TWxaYzJqRE5DU21TOTloNUIwSktVWGtYaTBNaFFQdVRpbXdmLUJOWU94OTZJT1piTjBISzdka3E1a3FqWXlpcUtiNTl5ZHI5NUNGMUJwbElkakpUVUVpeUFwd0V4NXl2OG91eDFabFJOXzNPa0ZCQ0xZZUZMaTV5ZVdNUTllWXpET01RSTB3S1JmbHhPZU1oT0cwT0JBWnQtejNwYjJUVmFJYUVyeHRSS3BjWjI2T0hhRGVRLUxyUjRiWmJLY09vNkluNndYZ0hBQkJtYVNtdXhjMU5vdVdOSEtPYm5WUjZBQ3pHZmZ1eVlRWDE4eEkwNl9VMHNGYUUyektlOTROcHEwelFxeDBwU3ZWbzZqRmEzVjJBVE16SXgyUDl4V2tXX2NjOEhaTXM5d0tfakxEM2s5Vktjc1lJWU1r?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -729,7 +760,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T16:50:08.000Z",
-      "originalHeadline": "مركز عُمان المالي العالمي يبدأ عمله بثلاث هيئات مستقلة للتشغيل والتنظيم والتسوية - CNBC عربية"
+      "originalHeadline": "مركز عُمان المالي العالمي يبدأ عمله بثلاث هيئات مستقلة للتشغيل والتن��يم والتسوية - CNBC عربية"
     },
     {
       "headline": "Ahmed Hamouda: Thunder obtained initial approval for a brokerage license in the Saudi market - Hapi Newspaper",
@@ -830,6 +861,29 @@
       "date": "2026-06-11T16:08:00.000Z"
     },
     {
+      "headline": "Three Indian sailors were killed in the US attack on an oil tanker off the coast of Oman",
+      "url": "https://www.bbc.com/persian/articles/cpd3nvx1djjo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سه ملوان هندی در حمله آمریکا به یک نفتکش در سواحل دریای عمان کشته شدند"
+    },
+    {
+      "headline": "Cassette tapes were the voice notes of my youth , bringing tales from the diaspora to our living room | Shadi Khan Saif",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/cassette-tapes-voice-notes-of-my-youth",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-11T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Al-Riyadh newspaper | The Ministry of Energy announces the winners of licenses to establish, operate, and distribute liquid petroleum gas facilities",
       "url": "https://www.alriyadh.com/2192971",
       "source": "Alriyadh",
@@ -876,29 +930,6 @@
       "date": "2026-06-11T16:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | نيمار يواصل الغياب عن تدريبات منتخب البرازيل"
-    },
-    {
-      "headline": "Three Indian sailors were killed in the US attack on an oil tanker off the coast of Oman",
-      "url": "https://www.bbc.com/persian/articles/cpd3nvx1djjo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سه ملوان هندی در حمله آمریکا به یک نفتکش در سواحل دریای عمان کشته شدند"
-    },
-    {
-      "headline": "Cassette tapes were the voice notes of my youth , bringing tales from the diaspora to our living room | Shadi Khan Saif",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/cassette-tapes-voice-notes-of-my-youth",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T16:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Al-Riyadh newspaper | Calm down and relax Infantino defends FIFA over World Cup visa crisis",
@@ -1852,7 +1883,7 @@
       "originalHeadline": "الكويت: أضرار مادية محدودة بعد التعامل مع 24 مسيرة إيرانية خلال 48 ساعة - الشرق للأخبار"
     },
     {
-      "headline": "Escalating threats put pressure on the path of understanding with Iran - Sky News Arabia",
+      "headline": "The escalation of threats puts pressure on the path of understanding with Iran - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVXg1NUl0Umd2Ml9FTE1xY1duSVJxUzNjT3M2aWx6TTZGazJ0aUpxakl2U25ldDcyanVmNFdFUURMZmktWVZlckNJdTc3emlYeFU5V1F3bjh3anphdTJVakVmVFRXeWVTcmJsdDFaVlVsTGt6NDBBNnZrV0N6c3pzNzVSbVB4dHFnN0ZENG1YWWtHYmpWVHlMTVZIWjJ2NEhGTmdYV25KLUhxTkRMQmozRjZ6OHVIbUVWSW1BY24yeF9jLXVhcDBxUTNlUDRkZzl5OUNZdmxINjU3ZF9Hb2lVNUJ5cDRBVE1oLTFsckRvaVF2WlZ0clRsT3dNMHVjV2ZsV19mZ2hKQ0RIcWoyTndCSlo4bG1GRmNMWkZoNmhrUHZhVXd0VnRFcTNnU2lUbXJXRzJQYmxzSXVIeU9mdlBuaWhGYU81c0htNzRPOWY2LU1HVVcwWVVRXzhLM3VQRFU?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1860,7 +1891,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T12:29:58.000Z",
-      "originalHeadline": "تصاعد التهديدات يضغط على مسار التفاهم مع إيران - سكاي نيوز عربية"
+      "originalHeadline": "تصاعد التهديدات يضغ�� على مسار التفاهم مع إيران - سكاي نيوز عربية"
     },
     {
       "headline": "Qatar strongly condemns the renewed Iranian attacks on Jordan, Bahrain and Kuwait - Nile News Channel",
@@ -2109,39 +2140,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-11T11:31:47.099Z"
-    },
-    {
-      "headline": "Nomura: A state of caution dominates the Saudi Stock Exchange due to the geopolitical situation - Al-Sharq with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNSzlpa09remNhY1d3elZfNk1tVDYwbFFERTFtMEhzYXJPWElta0xlWERmRHJPc1FJV2FUZVM3M2NISHVBUlF6RXNDdkxBYzNqeHdSOTVuUkNWYi1hQjdzUUdYZ2xEbmtGbG5FSjdPT2lmcjRJLW8wMlBMRXl2QnZDRWlPd2R4NlBzSXN6N0xHSVJ3YWgwU1I2NGJ5M3lwSC1VX0FhZF9FZmhqQTNrUUdPT0xvRHVXNFRpNURXcG8tb3FUR0QzaDZ0N3hsYVRGOUZJaFBZcnl1RlBWdTAxX2pwLWZoUURSVlhIQlRxSkctcFpYNndwckZ4S3F0QWFaYkd2MXM1dTBLckEyamxQcHVNSWo2Rnl2b1FnaHdfNTZ4dC1tY1F3MnMyaTBKZEJsU2t4elgyZEZVVUJBZm1CZTJHa3pZNmZwaTRNVk0xbU1tMFR1SUhGZXpOQUNMV2xlQTVCYk83MjVkS2VLZHA5UUwxYTFTTndBU1R2R0VkczVRVC1ZSWF3U1oxZ3FqTzRLMEJXeWs0TVM1REREVDhSYXhMYmlkRmdUTHJiZVE4YjVwdjNRTjRtTkZtMnJNa004bzhCbE1mSWt4OHNVV1BsWXAtN3EwaTZieFhuOGNpLVlGQmJRWHNKbmR0Zkt1R3NMRnI0Ym5DakVlZUF0dWk0WXlhaA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T11:30:58.000Z",
-      "originalHeadline": "نومورا: حالة من الحذر تسيطر على بورصة السعودية بسبب الوضع الجيوسياسي - الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "Kuwait and the Sultanate of Oman stress the importance of unifying efforts and exchanging experiences to support the process of joint Gulf action - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfeFJnUmZ1NGFxOFd1M1NXQlMtTHh3VWFiZ0xoUU5RSVBSWGFRVTBLMk5ZSVJYYWJWTlVJOTk0VnBuSE1tMm5aYmxheExaOWQ5amwxbGdn?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T11:30:00.000Z",
-      "originalHeadline": "الكويت وسلطنة عمان تؤكدان أهمية توحيد الجهود وتبادل الخبرات لدعم مسيرة العمل الخليجي المشترك - بوابة الأهرام"
-    },
-    {
-      "headline": "The Bahrain Stock Exchange closes Thursday’s trading lower with pressure from 3 sectors - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOQVRLd01fcmt3WjFCRXcxRWRWVU16Z0s1aE5peWNLWG9SRnFrU3Z6SVZGU3FyV3RqekdtZnRmUGNkNTY2eF9pa3VCNmhqcHNGcUtBOUNJSGlOOHAxaWtwdXBSSkR2WkRsM0ZtSm5UbW8zSEx5RklkUDBRT0Nva2dfYmx1V0R4ZXF4SXpVT01BMUhWaGg5LWoxS3diU1hvSEZMelZzM3o5OFJjRlRkbUJMRjM1V21RbUltb1o3SFIxNVlnX01odVVhOWtrWVlNdGdKSUI0eV9ISTJrSXprR0QzQ1VDRUFWSnFwRzZ6ZjZXdWNJYWdPeVZkU2huVGhOMk9jbTN0X04zMnAxaUxwV1lCNU13RFdvMVRBbnpkQmd5VXVvOThyZHZtQXh1NjFYT01IczVXTnJhMmhmY3dzaXFnelMzSERCQ3dtOUsyYzB4MVNLLVBDQ1dDbEI3T3l3Q1c1bF9remZqNEhfcEIxd0NvTURhcHdDd2dwV3prb1I3R19jSWRlV2hzOTVob0ZHaDlmakRIZi1Zdm9EcHhxNUFwQW81MnlYa1ZxQzJqMVRNOXY2YzJBempMcHpQc3o4eUsyNGVhT0RR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T11:26:02.000Z",
-      "originalHeadline": "بورصة البحرين تغلق تعاملات الخميس منخفضة بضغط 3 قطاعات - معلومات مباشر"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
