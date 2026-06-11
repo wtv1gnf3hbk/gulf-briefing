@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T23:16:35.279Z",
+  "updated": "2026-06-11T23:32:52.280Z",
   "itemCount": 300,
   "items": [
     {
@@ -270,7 +270,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-11T21:29:08.000Z"
+      "date": "2026-06-11T21:23:39.000Z"
     },
     {
       "headline": "Military strikes on water facilities in Iran may constitute a war crime , experts say",
@@ -393,54 +393,6 @@
       "originalHeadline": "أمير قطر يبحث في اتصال مع ترمب مستجدات الأوضاع بالمنطقة - الجزيرة نت"
     },
     {
-      "headline": "The Crown Prince apologizes for participating in the G7 summit",
-      "url": "https://www.okaz.com.sa/local/saudi-arabia/2252212",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-11T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ولي العهد يعتذر عن المشاركة في قمة مجموعة الدول الـ 7"
-    },
-    {
-      "headline": "The King Salman Center launches vital projects to end the water crisis",
-      "url": "https://www.okaz.com.sa/politics/na/2252226",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-11T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "« مركز الملك سلمان » يدشن مشاريع حيوية تنهي أزمة المياه"
-    },
-    {
-      "headline": "It is not a voice, nor the sun, nor a queen.. “Asala” is a special identity and an independent school",
-      "url": "https://www.okaz.com.sa/culture/art/2252223",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-11T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ليست صوتاً ولا شمساً ولا ملكة .. « أصالة » هوية خاصة ومدرسة مستقلة"
-    },
-    {
-      "headline": "The Salman Relief Center distributes 200 food baskets in Farah Province, Afghanistan",
-      "url": "https://www.okaz.com.sa/local/saudi-arabia/2252217",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-11T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مركز « سلمان للإغاثة » يوزّع 200 سلة غذائية في ولاية فراه بأفغانستان"
-    },
-    {
       "headline": "Saudi Arabia and Kazakhstan conclude a memorandum of understanding to enhance cooperation in the mining sector",
       "url": "https://www.okaz.com.sa/economy/saudi/2252213",
       "source": "Okaz",
@@ -465,7 +417,7 @@
       "originalHeadline": "وزارة الصحة تعلن عن مرونة في ساعات الدوام الرسمي لتمكين الموظفين من مؤازرة المنتخب السعودي"
     },
     {
-      "headline": "The Minister of Foreign Affairs makes a phone call to his Portuguese counterpart",
+      "headline": "The Foreign Minister makes a phone call with his Portuguese counterpart",
       "url": "https://www.okaz.com.sa/local/saudi-arabia/2252222",
       "source": "Okaz",
       "sourceId": "gdelt_okaz_com_sa",
@@ -474,7 +426,7 @@
       "language": "en",
       "date": "2026-06-11T20:30:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "وزير الخار��ية يجري اتصالاً هاتفياً بنظيره البرتغالي"
+      "originalHeadline": "وزير الخارجية يجري اتصالاً هاتفياً بنظيره البرتغالي"
     },
     {
       "headline": "How do continents separate? Is Africa no longer an exciting exception?",
@@ -523,6 +475,54 @@
       "date": "2026-06-11T20:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "وزير الخارجية يبحث مع مستشارة الرئيس الفرنسي مستجدات الأوضاع في المنطقة"
+    },
+    {
+      "headline": "The Crown Prince apologizes for participating in the G7 summit",
+      "url": "https://www.okaz.com.sa/local/saudi-arabia/2252212",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-11T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ولي العهد يعتذر عن المشاركة في قمة مجموعة الدول الـ 7"
+    },
+    {
+      "headline": "The King Salman Center launches vital projects to end the water crisis",
+      "url": "https://www.okaz.com.sa/politics/na/2252226",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« مركز الملك سلمان » يدشن مشاريع حيوية تنهي أزمة المياه"
+    },
+    {
+      "headline": "It is not a voice, nor the sun, nor a queen.. “Asala” is a special identity and an independent school",
+      "url": "https://www.okaz.com.sa/culture/art/2252223",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ليست صوتاً ولا شمساً ولا ملكة .. « أصالة » هوية خاصة ومدرسة مستقلة"
+    },
+    {
+      "headline": "The Salman Relief Center distributes 200 food baskets in Farah Province, Afghanistan",
+      "url": "https://www.okaz.com.sa/local/saudi-arabia/2252217",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-11T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مركز « سلمان للإغاثة » يوزّع 200 سلة غذائية في ولاية فراه بأفغانستان"
     },
     {
       "headline": "Saudi Arabia and France Sign Joint Action Program to Advance Tourism Cooperation",
@@ -1861,7 +1861,7 @@
       "originalHeadline": "اليمن يجدد رفضه استخدام أراضيه لتهديد ملاحة البحر الأحمر - العربية"
     },
     {
-      "headline": "Oman tightens penalties for insulting the Sultan and spreading rumors online - BBC",
+      "headline": "Oman tightens penalties for insulting the Sultan and spreading rumors on the Internet - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JV1V4WTRJbXpqWEhtOXRqc25qWVVwYm95ZkxYdEItWGdUNmNxNUIyVDIybzByZi1EOEN0WktzdXIzTkUyRlo3TFRMeGJmWmpHbFIxZ0lpR1RVT2Fh0gFiQVVfeXFMTy1pRG1ncUZCZlRFaGluYTR6VDJjOUxSR2NFU1ZHT0g0UDZYTVFOYjVQbWFseXZheWJvSTZ4cVBpTzA0SzhDTU5YSGk3X0luXy1Bb1EyRm5VajRoMWdVamhScWc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1869,7 +1869,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T14:42:31.000Z",
-      "originalHeadline": "عُمان تشدد العقوبات على المس بالسلطان ونشر الشائعات عبر الإنترنت - BBC"
+      "originalHeadline": "عُمان تشدد العقوبات على المس بالسلطان ونشر الشائعات عبر الإنتر��ت - BBC"
     },
     {
       "headline": "Too sick to work, but can they prove it? New Medicaid rule worries patients - AP News",
