@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T00:46:31.864Z",
+  "updated": "2026-06-12T01:02:52.660Z",
   "itemCount": 300,
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-12T00:12:51.000Z"
+      "date": "2026-06-12T00:48:27.000Z"
     },
     {
       "headline": "Opening of Canada-US bridge that Trump threatened to block is delayed over unresolved 'issues' - AP News",
@@ -21,42 +21,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-11T23:59:00.000Z"
-    },
-    {
-      "headline": "United Nations: Settler violence has reached a record level in the West Bank news",
-      "url": "https://www.aljazeera.net/news/2026/6/12/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%A3%D9%84%D9%81-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-11T23:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الأمم المتحدة : عنف المستوطنين بلغ مستوى قياسيا في الضفة | أخبار"
-    },
-    {
-      "headline": "Trump and Tehran's naive dream",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5283086-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%AD%D9%84%D9%85-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D8%B0%D8%AC",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-11T23:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ترمب وحلم طهران الساذج"
-    },
-    {
-      "headline": "Barter war",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5283089-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%8A%D8%B6%D8%A9",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-11T23:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حرب المقايضة"
     },
     {
       "headline": "Between the martyrdom of Saleh and the liberation of Naji...the mother of the two legends, Al-Jaafrawi, returns to Gaza after treatment in Doha",
@@ -140,6 +104,42 @@
       "date": "2026-06-11T23:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "عُمر من « نقش زهير » إلى « نقش المهد »"
+    },
+    {
+      "headline": "United Nations: Settler violence has reached a record level in the West Bank news",
+      "url": "https://www.aljazeera.net/news/2026/6/12/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%A3%D9%84%D9%81-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-11T23:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الأمم المتحدة : عنف المستوطنين بلغ مستوى قياسيا في الضفة | أخبار"
+    },
+    {
+      "headline": "Trump and Tehran's naive dream",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5283086-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%AD%D9%84%D9%85-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D8%B0%D8%AC",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T23:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترمب وحلم طهران الساذج"
+    },
+    {
+      "headline": "Barter war",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5283089-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%8A%D8%B6%D8%A9",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-11T23:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حرب المقايضة"
     },
     {
       "headline": "Under the directives of the President of the State...the UAE provides urgent relief aid to those affected by the floods of the Euphrates River in Syria - alwatan.ae",
@@ -560,7 +560,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T20:38:50.000Z",
-      "originalHeadline": "أمير قطر يبحث في اتص��ل مع ترمب مستجدات الأوضاع بالمنطقة - الجزيرة نت"
+      "originalHeadline": "أمير قطر يبحث في اتصال مع ترمب مستجدات الأوضاع بالمنطقة - الجزيرة نت"
     },
     {
       "headline": "Political blame game follows as screwworm parasite threatens cattle in Texas - AP News",
@@ -2001,7 +2001,7 @@
       "originalHeadline": "اليمن يجدد رفضه استخدام أراضيه لتهديد ملاحة البحر الأحمر - العربية"
     },
     {
-      "headline": "Oman tightens penalties for insulting the Sultan and spreading rumors online - BBC",
+      "headline": "Oman tightens penalties for insulting the Sultan and spreading rumors on the Internet - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JV1V4WTRJbXpqWEhtOXRqc25qWVVwYm95ZkxYdEItWGdUNmNxNUIyVDIybzByZi1EOEN0WktzdXIzTkUyRlo3TFRMeGJmWmpHbFIxZ0lpR1RVT2Fh0gFiQVVfeXFMTy1pRG1ncUZCZlRFaGluYTR6VDJjOUxSR2NFU1ZHT0g0UDZYTVFOYjVQbWFseXZheWJvSTZ4cVBpTzA0SzhDTU5YSGk3X0luXy1Bb1EyRm5VajRoMWdVamhScWc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -2009,7 +2009,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-11T14:42:31.000Z",
-      "originalHeadline": "عُمان تشدد العقوبات على المس بالسلطان ونشر الشائعات عبر الإنترنت - BBC"
+      "originalHeadline": "عُمان تشدد العقوبات على المس بالسلطان ونشر الشائعات عبر الإنتر��ت - BBC"
     },
     {
       "headline": "Too sick to work, but can they prove it? New Medicaid rule worries patients - AP News",
