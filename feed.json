@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-12T05:18:40.628Z",
+  "updated": "2026-06-12T05:33:40.543Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Oman, EU stress diplomacy to ease regional tensions",
+      "url": "https://timesofoman.com//article/172912-oman-eu-stress-diplomacy-to-ease-regional-tensions",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-06-12T05:29:42.000Z"
+    },
     {
       "headline": "Iran condemns US attacks on commercial vessel that killed three Indian sailors",
       "url": "https://timesofoman.com//article/172911-iran-condemns-us-attacks-on-commercial-vessel-that-killed-three-indian-sailors",
@@ -53,6 +63,16 @@
       "language": "ar",
       "date": "2026-06-12T04:41:15.000Z",
       "originalHeadline": "طرح \"سبيس إكس\" يعيد إلى الواجهة رهان \"المعمر\" السعودية المثير للجدل على الذكاء الاصطناعي - الشرق مع بلومبرغ"
+    },
+    {
+      "headline": "Gold set for weekly loss as inflation, rate hike fears persist",
+      "url": "https://www.wam.ae/en/details/c0osc29-gold-set-for-weekly-loss-inflation-rate-hike-fears",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-12T04:25:03.256Z"
     },
     {
       "headline": "Weather Forecast for Friday",
@@ -1260,6 +1280,16 @@
       "date": "2026-06-11T20:15:40.207Z"
     },
     {
+      "headline": "UAE President awards Order of the Union to Martin L Edelman",
+      "url": "https://www.wam.ae/en/details/179ofjl-uae-president-awards-order-the-union-martin",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-11T20:13:49.924Z"
+    },
+    {
       "headline": "39th Arab Inter-Parliamentary Union Conference Commends Saudi Arabia's Support for Arab and Islamic Causes and Regional Stability",
       "url": "https://spa.gov.sa/en/N2611147?type=news&uuid=N2611147",
       "source": "Saudi Press Agency",
@@ -2174,41 +2204,6 @@
       "date": "2026-06-11T16:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "سه ملوان هندی در حمله آمریکا به یک نفتکش در سواحل دریای عمان کشته شدند"
-    },
-    {
-      "headline": "Cassette tapes were the voice notes of my youth , bringing tales from the diaspora to our living room | Shadi Khan Saif",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/cassette-tapes-voice-notes-of-my-youth",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-11T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Ministry of Energy announces the winners of licenses to establish, operate, and distribute liquid petroleum gas facilities",
-      "url": "https://www.alriyadh.com/2192971",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | وزارة الطاقة تعلن الفائزين برخص إنشاء وتشغيل مرافق وتوزيع غاز البترول السائل"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Oil declines as tensions and supply disruptions escalate",
-      "url": "https://www.alriyadh.com/2192972",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | النفط يتراجع مع تصاعد حدة التوترات واضطرابات الإمدادات"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
