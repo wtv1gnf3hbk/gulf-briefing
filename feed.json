@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-12T10:46:48.101Z",
+  "updated": "2026-06-12T10:48:39.384Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Chips and ships - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmwta1h5SDdtaVNFWUxGUG9EcFNnV01famUwVmlCR0hXa3F5Mzd3cmFVQWYwaEw4MWhBT1RnbVpjclp1VmxPQTFiQjdtMDVaTUxzUU1sbE1sOEgwMlg5OHBYdnJfWWRLbVBYTWU2aG82Z0NPMThJNkwzNThsWGFqOGxyNGV4TmhhMWdXUUQyOE1QZUtuSzRZ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-12T10:42:05.000Z"
+    },
+    {
+      "headline": "What does an analysis of satellite images reveal about the damage caused by US strikes on Iranian military bases?",
+      "url": "https://www.bbc.com/urdu/articles/c20yn6kmekzo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-12T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سیٹلائٹ تصاویر کا تجزیہ ایرانی فوجی اڈوں پر امریکی حملوں سے ہونے والے نقصان کے بارے میں کیا بتاتا ہے ؟"
+    },
     {
       "headline": "Travel prices snatch some World Cup fans from the stands - Al Sharq with Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQT21mYm56ZHQ4MWw4dDBHUk9pYWVxYTd3dU9fOXJWb3UzUVVEaXJibzd1OVcyZFN1UkZsMEFBMTVHekN6YTVHNVI3QWZZaGdwaFJ4N000X2R5TVBiQ1BxdE8xTGZFUTRXMFlnOFFCYjFwV0JNeWNnS25PVy14ZGZTMDl5MFROSEl6U3d1VG13R0puWXY1OUYwOE5MX0FaQk81NkF2MUtXMU5zN29fcUNPZnE4NlFTeFNUd09NUkhMZ01na2I0M1g2Q1lKWTdxLVNKRGdCcTI5NWp3RVNMaTJSVWswaGstWEZBYkRUXzBXOC1CZGFOSlNOZGJFaTRzTy1UM20yaTNBZlRXdmtjZHlz?oc=5",
@@ -34,8 +56,41 @@
       "date": "2026-06-12T10:04:44.277Z"
     },
     {
+      "headline": "Dollar Steadies as Traders Weigh Prospects for Iran Ceasefire",
+      "url": "https://english.aawsat.com/business/5283192-dollar-steadies-traders-weigh-prospects-iran-ceasefire",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-12T10:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Cairo to Host Fourth Quadrilateral Meeting on Iran War",
       "url": "https://english.aawsat.com/arab-world/5283179-cairo-host-fourth-quadrilateral-meeting-iran-war",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-12T10:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump and Tehran Foolish Dream",
+      "url": "https://english.aawsat.com/opinion/5283139-trump-and-tehran%E2%80%99s-foolish-dream",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-12T10:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Qlayaat Airport in Lebanon … When Geography Reclaims its Role",
+      "url": "https://english.aawsat.com/opinion/5283160-qlayaat-airport-lebanon%E2%80%A6-when-geography-reclaims-its-role",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -71,17 +126,6 @@
     {
       "headline": "What to Know About the Growing Opposition to Trump Family - Linked Resort in Albania",
       "url": "https://english.aawsat.com/features/5283205-what-know-about-growing-opposition-trump-family-linked-resort-albania",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-12T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump and Tehran Foolish Dream",
-      "url": "https://english.aawsat.com/opinion/5283139-trump-and-tehran%E2%80%99s-foolish-dream",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -140,17 +184,6 @@
     {
       "headline": "Iran Media : Draft US Deal Sees Release of $24 Bn Frozen Assets",
       "url": "https://english.aawsat.com/world/5283212-iran-media-draft-us-deal-sees-release-24-bn-frozen-assets",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-12T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Dollar Steadies as Traders Weigh Prospects for Iran Ceasefire",
-      "url": "https://english.aawsat.com/business/5283192-dollar-steadies-traders-weigh-prospects-iran-ceasefire",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -274,17 +307,6 @@
       "originalHeadline": "هل ينجح نتنياهو في ضبط ائتلافه بعد الانتخابات ؟"
     },
     {
-      "headline": "Qlayaat Airport in Lebanon … When Geography Reclaims its Role",
-      "url": "https://english.aawsat.com/opinion/5283160-qlayaat-airport-lebanon%E2%80%A6-when-geography-reclaims-its-role",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-12T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "“A country participating in the annihilation of Gaza.” Abu Trika expects the 2026 World Cup to fail - Al Jazeera Net",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX181UGE4eXA0UC1QaDNJOTdLZ2xkRmlCSHAxeG9vSmZRRDN5amhndnhXd1pIS0wwM0Q1aHZOMjJENFlnX2FITW9teklSY3cyUTRtMDlNTmZhYjZmazE5NVpKaVhGRlp6ZC1MXzVrOU1QazFuQVFUcDExMkU1TUd3dVAwcUQtaHJkWk5GX19SVXBkTVhJbGJXUy1DUkhRdEQ2cUluVXZxUUdmQ3hUMlJCRWpULW43UGtqMkxSZUo2TkswVzlGZnBxTEJUSC1oVlo3MzdUTTY0d2VsbWRXcm9YN0ZfMW1hcUNEcDlIWnlXcTFFUVdMMmNQdkNBbGdVeHQtVE1sU00yWDlfaEZlWWxKOE8yUGlQNWd2Q29jYWI5N2Z1MzIyVDg4OTdvTHI4ZUpRV3RJM1BqMWNEV0l1dGItQ3dxWFZTQVQwbHdGVGRNVFhxdTZz0gHaAkFVX3lxTE9MSGY4Z3M1TWtVVlNzWThxSmMzYllSSkVrVVJ4TFM5WW5RcDF5cFY2M0swWEtydmlnNm0xTV9JYnZLY0Zpc21vU1gtQ1pILU0tT2FQSGJ5S0gyS2d4aHB3VXFhbnBFMVVqaW9FRUhWU1FsMFh2RlU5VmNLdDZia2VnOGFPRmtTdFVXTHh1S2N2cjVJd1FpNEc5LTNSdGNBUkdkRGlIYTA1eGxkazU0dXNveTBQNUtyZHdIQl9IUUQ1RUdteWR3MGJIWXRPRmV0cTQ2QmJjY1NnRS1ZbDBydElUdm8wUktYeTB6bTRvMnloajJlTmhtcWd6c2gyNUN3a0VqM1JydUpoS3g4WDBXSW1VeEUzWmFtcVJNcEJYd1Z5WEw5czZmRzBOcW42anFPdjlUT1Z4MHlUZDVJdFZmRVN4bFBESkNRenZzMm94NVJIODFRRXRfVDdReHc?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -294,6 +316,27 @@
       "language": "ar",
       "date": "2026-06-12T09:57:41.000Z",
       "originalHeadline": "\"بلد مشارك في إبادة غزة\".. أبو تريكة يتوقع فشل مونديال 2026 - الجزيرة نت"
+    },
+    {
+      "headline": "US tanker strike : Indian families mourn death of sailors killed in attack",
+      "url": "https://www.bbc.com/news/articles/cx24vlj2nvyo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-12T09:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Under directives of UAE President and patronage of Hazza bin Zayed, 2nd Al Ain Camel Racing Festival to take place at Al Rawda Racetrack in Al Ain Region",
+      "url": "https://www.wam.ae/en/details/c0oscgl-under-directives-uae-president-and-patronage-hazza",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-12T09:40:18.791Z"
     },
     {
       "headline": "Tips for sleeping despite feeling active",
@@ -352,7 +395,7 @@
       "date": "2026-06-12T08:59:33.789Z"
     },
     {
-      "headline": "Mohammed bin Salman apologizes for attending the G7 summit with a statement explaining the reason - CNN Arabic",
+      "headline": "Mohammed bin Salman excuses himself from attending the G7 summit with a statement explaining the reason - CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFFMVGkyWmg1VDNnZm00UVlpT2lLc1k4enMxaDhCb2JvT3U2bzcxLVJPc3hoSEZjajctRzdVb1pVcVctZ2lCTmlpNnQwZG1XVVFGU056b2RxLWhNTUVYMmc3eUFxRVVfRURlcFlyaVd3RXVQa1lGaTdCblBEdmNRS0duTnRnRGJsOEQ5V1h0Qm5helNOcXpLNFhjdmJlWXRDVzdRTnNFWnJTcjEx0gG3AUFVX3lxTFBQYXpWYlBPRDEzLWVZbFVldlBpMEMxbWhBWTF1SGFGWkJxLU91czd1VVp5RnlVcEZqaWhWN0FZN25OSFRxQkFxTkNqV1NKa3Zrb3pMVFMzbllGMFFqRUxPRmxEU3c2dm1XTXNhQ043MUZiZzQ4X2swM2dhbFI5UnJuamloUUxCbkYxMjE5TFp5SkpBTmUxOHpxbTVUS3lYa0RuN1FSV0g5N1hKdWswd0V5SWlwZXN0dw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -360,7 +403,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-12T08:44:49.000Z",
-      "originalHeadline": "محمد بن سلمان يعتذر عن حضور قمة مجموعة السبع ببيان يوضح السبب - CNN Arabic"
+      "originalHeadline": "محمد بن سلمان يع��ذر عن حضور قمة مجموعة السبع ببيان يوضح السبب - CNN Arabic"
     },
     {
       "headline": "Australia coach Popovic extends contract until 2027 Asian Cup - Reuters",
@@ -395,7 +438,7 @@
       "date": "2026-06-12T08:29:33.000Z"
     },
     {
-      "headline": "Qatar vs. Switzerland in the World Cup... Date, broadcast channels, and the two expected lineups - Al Jazeera Net",
+      "headline": "Qatar vs. Switzerland in the World Cup... date, broadcast channels, and the two expected lineups - Al Jazeera Net",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMVg2U3RDbWZNMUthcURwLXZlNGctaUsxOFhJREJfWjExS1NMbkdYakZnS2ZWeGxjRDI1QjhKdDE5cXl4TXo5eDJOZDJRbVVUWm82SEN0Q0xMT3U3M1dpN09xN2J2VERZb0RmamE1dVZVNFNYSFRnUkdPYjdqODY3Tm5qbGRVQ0loOTRTN3BXV1lUYzJlbjkyX3gzbVRUeHlDQk92WU0zeHpIc2VYUTFiZURiUkVGZ2NSQ1lja0F1YkFRWXBMM2pBYUg5RWNxM3FDUTZCX1VPbDBGLVpGeDItTERrbTMxZzNtQnFhVDM1Y0lxS2Z3aWNDelBxWjJjM3ZReTVaZWpQLVhGYVnSAZACQVVfeXFMTWFlV2wxdUJYSTZSLXJIVzBIZ2dWaTNDb1EzdjR4LW9vdXdDTVk2LV9wVGdoTlMtSThNYXFjZVNMSk94bl9nTHl4dzduS2RDdUh5eDVxZDFpLVNPaVMwMnJtcG9TdTBnNzhrU0k1MjExbTA5VmhTVUJIazdISzBIdjV1SGpaZDRGczhXWEIwOUJuSVVOckJpMnNKYzBvNEc2aW1wcktPTk5mNVVlQUlHU1BHbXJWT1dzTjBEOW1NVTdWNm9EX1JtTXlQUG1Rd1B1MG9kSngzeDdhQmRUTTVfTVA0ZUFOSmJOZTlpSGY2UjdTbVdfTjg1eGFvb09CalFPNVM5UWpoV3F3NlFXRTJuQXc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -403,7 +446,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-12T08:26:15.000Z",
-      "originalHeadline": "قطر ضد سويسرا في كأس العال��.. الموعد والقنوات الناقلة والتشكيلتان المتوقعتان - الجزيرة نت"
+      "originalHeadline": "قطر ضد سويسرا في كأس العالم.. الموعد والقنوات الناقلة والتشكيلتان المتوقعتان - الجزيرة نت"
     },
     {
       "headline": "Saudi Arabia's top scorer.. Who is the star of the Mexican World Cup opening, Quiñones? - CNN Arabic",
@@ -439,17 +482,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Kharg ... A Pivotal Island for Iran",
-      "url": "https://english.aawsat.com/features/5283173-kharg-pivotal-island-iran",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-12T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Pokémon Go data trained AI that could assist military drones in war zones",
       "url": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
       "source": "The Guardian",
@@ -474,6 +506,17 @@
     {
       "headline": "Oil Extends Losses as Trump Calls Off Planned Strikes on Iran",
       "url": "https://english.aawsat.com/business/5283130-oil-extends-losses-trump-calls-planned-strikes-iran",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-12T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Kharg ... A Pivotal Island for Iran",
+      "url": "https://english.aawsat.com/features/5283173-kharg-pivotal-island-iran",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -2164,51 +2207,6 @@
       "language": "ar",
       "date": "2026-06-11T21:45:44.000Z",
       "originalHeadline": "السعودية تعيد فتح أسواقها للصادرات اللبنانية - الشرق للأخبار"
-    },
-    {
-      "headline": "The US President and the Crown Prince of Kuwait stress the importance of enhancing security and stability in the region - National Media Authority",
-      "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxObzZuM1puNFhXS0drTkFOcFZneE9ZbUl4N0UxYmZNRXliRmZ6QUFNSnRpY3hBelpxVGNPNWs5eDlhejlaRjJEUml0U09Xc1FSQ09pc280SmVfYlRoZm1xTXJJZGJlSVBQTENlX3htY2h5bnl1aTY4d0E5MEh6MGtNbVJOeW45d3NHcTk1Um1WT0tDcDcwVzJlbjFveG9iVXY1dENtZEY4VDItQkR4ajh4MWlXZDZhdUJRR1RpOVJEZ3UwbkhoTGRkd2hrbVpYOUpuQXJSSUJ6UVhRVFgyc3BZVVpDOER0bFJsM1J3MGpOemx3Z1lvQzRpY1REWEpnUUtsX0lOdF83NGwtZVFRcy16T3FNYmVucEN2UGl2RXlsSGFaUU1BcGp3R1VMbU1iQ0VEeU8zS19JdHl5d3dtbE5OenZRZVR1My1ET0NzT0NmeUNCc0pNWmpsYzJENXp6cDU1aE1zelhNT3pYY3dqM2RHekRzbjhEaW5Fd1Vza21MVEN0elppR0w3azNMMlFLZVVYTFBMU2doWDdZUFJYRHBaYjBZaVZEQl83QWpyWU0wU2VWR2FMeG1SWTUtU3d3VnZrZVZtT3U2bmNXTkZGcjhYT3VxWUdBeWVqM2hla3hpMTBfbkJ0ODZWelIwUnU2aURQMGlDeHdTNWlJQ21yXzlpUk53VGladGlOekhQWGswS0lzaHdNODQ5clZaNVdRdWI5NHd5TzhlZC1oN0VROWhubDhIVDZhNndIZFFNQnBmemRqQTA0eU9GLTRyZXloTDVtWGxpejRYV1hlMG5BNUVaczRRaGlFYnFfalJmOTk5N0VjX0VxMmRwcWlYMmU2YjNPMzVvTg?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T21:35:39.000Z",
-      "originalHeadline": "الرئيس الأمريكي وولي عهد الكويت يؤكدان أهمية تعزيز الأمن والاستقرار بالمنطقة - الهيئة الوطنية للإعلام"
-    },
-    {
-      "headline": "Netanyahu was surprised.. A source reveals to CNN what happened in Israel after Trump announced an imminent agreement with Iran",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/12/trumps-social-post-on-agreement-with-iran-surprises-netanyahu-israeli-source-says",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T21:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نتنياهو تفاجأ .. مصدر يكشف لـCNN عما حدث في إسرائيل بعد إعلان ترامب عن اتفاق وشيك مع إيران"
-    },
-    {
-      "headline": "An Iranian official responds after Trump threatens to seize Khark Island",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/11/iran-will-deliver-crushing-painful-response-if-us-attacks-kharg-island-official-warns",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-11T21:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مسؤول إيراني يرد بعد تهديد ترامب بالاستيلاء على جزيرة خارك"
-    },
-    {
-      "headline": "Argentina’s inflation slows to 8-month low in a boost for President Milei - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV014MGJjS0g0NGhmcVFoV2FobWpZeTJPNUhLNTFCWWpMTkF6NThtR2xrdDBCVUNERVg1eTY4LVZoMlpkLVc4M1ZoWVlyS2ZUcVlTOWtMcVJaUmJjd0NPZDgxdk9JcDRIR3NONU4yU0s2b0otOTFhNnRsNHA0U1cwNy1XN1l6UmtFZDRFZGxzbFBCRVlhbm5Ha2toS215ME8wdEZERHhTZWVra3NDTndPRjN0WmVwU2s?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-11T21:21:00.000Z"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
