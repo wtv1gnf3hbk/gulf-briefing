@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14T12:18:16.081Z",
+  "updated": "2026-06-14T12:33:11.888Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Over 23.5 million youth account for 38.2% of GCC population: GCC-Stat",
+      "url": "https://www.wam.ae/en/details/c0pz7w4-over-235-million-youth-account-for-382-gcc",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-14T12:19:48.999Z"
+    },
     {
       "headline": "Three Emirati aid convoys entered Gaza carrying 544 tonnes of relief supplies as part of 'Operation Chivalrous Knight 3'",
       "url": "https://www.wam.ae/en/details/c0pz7w3-three-emirati-aid-convoys-entered-gaza-carrying",
@@ -285,6 +295,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-14T11:10:46.000Z"
+    },
+    {
+      "headline": "Britain detains sanctioned oil tanker believed to be linked to Russia’s shadow fleet - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUU5FVnhnZ3MyZFc0SUdCYlZNb0ZqOVBmaVBleTE2WDFWY1NqYmFrdEhTY3JhZWVlRlRWLUxaaGhSWGZIVklVTkVXYXlMaEdxYlRfUUl1ZFJ2ek5NOFJuZEdVMnRxN213TUtESXAxSnM1Y3RwV21oVzBvZnVocG9nTWRRQk04VUZnS2FBeFpVenI3VzdLZFhXTDd5Q3NXdw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-14T11:10:00.000Z"
     },
     {
       "headline": "Chinese official visits Maritime Security Centre",
@@ -673,16 +693,6 @@
       "originalHeadline": "تعادل إيجابي بين قطر وسويسرا - سكاي نيوز عربية"
     },
     {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-14T09:51:48.000Z"
-    },
-    {
       "headline": "4326.SE - | Stock Price &amp; Latest News - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jWHZ0T3MtZEJmdVZkRkFJLWhqcV9wQ0l4eFQxLVctc1VkcmVlcS1qVFlDOGFtcTRwdTZBSWl1QWtPNGZTRFFKTjFQVnpqNVJnY1RjXy1WX2tzTmhXcUNCTXQ4QmEtd1VLZ2M1RXplb0Z2ZHdVRWFsRktR?oc=5",
       "source": "Reuters Gulf",
@@ -800,7 +810,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-14T09:04:17.000Z",
-      "originalHeadline": "��لأسهم القيادية تدفع بورصة السعودية للارتفاع وسط تفاؤل بانتهاء حرب إيران - جريدة البورصة"
+      "originalHeadline": "الأسهم القيادية تدفع بورصة السعودية للارتفاع وسط تفاؤل بانتهاء حرب إيران - جريدة البورصة"
     },
     {
       "headline": "Indian vessel Virat 1 reported missing off Oman coast; search underway for 14 crew",
@@ -859,6 +869,16 @@
       "date": "2026-06-14T09:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الكويت .. تقارير عن القبض على النائب السابق صالح عاشور وشقيقه والداخلية ترد"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-14T08:54:20.000Z"
     },
     {
       "headline": "Oman Sail and bp Oman Celebrate the Successful Completion of the Second Edition of SailFree",
@@ -2191,28 +2211,6 @@
       "date": "2026-06-13T22:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تحقيق للجزيرة يكشف خرائط التوسع الإسرائيلي في غزة ولبنان وسوريا"
-    },
-    {
-      "headline": "issue17365",
-      "url": "https://aawsat.com/files/pdf/issue17365/",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-13T22:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "“God is Great.” Turki Al-Sheikh comments on Qatar’s draw with Switzerland - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTdGWU9NTXpRd0dkeDMxUWFVN0VlRlVDdjJmQ1JrRXhFR1dTbE51TC1WWEpUa3hZTGk5VXFrM3cyUXFUaXRHODdwMDhYcDBfOUJsNjBHNWxwUXE3am9vQzhuUV9NTzNyd3pQZ3p4Tl9MQjNXLU5yV21qTmZWR3d1TE1LcklWR2NnVXhzN2ZuWG1jcEVpY0HSAaABQVVfeXFMUFNORE5MdVRRb1NBaHJIcmFDcnR6dEZQU0dERVplNXJ5d0NvMVFGdUZ3Y0xoQl9RUFlDcmdNN3l1d2lzTWhhR3JoRlBXbFFmN2dDOVJ3UjhsZy1yeW1FU2pmcnNVZkNEdllIRmFhaWpKcklKX21MeDI4b2RBU24yV1FXaTEyMFRHYWNEVWQ4SjEyemFJWnlqR2Y4c1c1aVA0bQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-13T22:43:13.000Z",
-      "originalHeadline": "\"الله أكبر\".. تركي آل الشيخ يعلق على تعادل قطر مع سويسرا - CNN Arabic"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
