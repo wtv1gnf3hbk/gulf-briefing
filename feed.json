@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14T09:17:59.390Z",
+  "updated": "2026-06-14T09:32:13.109Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "WOAH Approves Saudi Arabia's Rabies Control Program",
+      "url": "https://spa.gov.sa/en/N2612116?type=news&uuid=N2612116",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-14T09:27:56.000Z"
+    },
     {
       "headline": "Saudi Arabia, Kazakhstan Explore Joint Mining Investment Opportunities at AMM Congress",
       "url": "https://spa.gov.sa/en/N2612114?type=news&uuid=N2612114",
@@ -11,6 +21,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-14T09:07:24.000Z"
+    },
+    {
+      "headline": "Leading stocks push the Saudi Stock Exchange higher amid optimism about the end of the Iran war - Al Borsa Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jbzBGVVFkYm4zT2NHYk41MnVnT3BBX0tlcDBIR0p0TC1hRk9ha0lEZFhjNWhma2EtNnhCLU91N1NjSllnNEF2bGZJam9FRDZIbUViR0VLWWpQVE0?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-14T09:04:17.000Z",
+      "originalHeadline": "الأسهم القيادية تدفع بورصة السعودية للارتفاع وسط تفاؤل بانتهاء حرب إيران - جريدة البورصة"
     },
     {
       "headline": "Indian vessel Virat 1 reported missing off Oman coast; search underway for 14 crew",
@@ -84,6 +105,17 @@
       "language": "ar",
       "date": "2026-06-14T08:21:07.000Z",
       "originalHeadline": "الإمارات تنشئ الهيئة الاتحادية للذكاء الاصطناعي والبيانات - Fintechgate"
+    },
+    {
+      "headline": "Kuanzia Idi Amin hadi Hissène Habré : Tawala tano zilizotikisa Afrika kwa mauaji na ukatili",
+      "url": "https://www.bbc.com/swahili/articles/ckg4x1q1117o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-14T08:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Leading stocks push the Saudi Stock Exchange higher amid optimism about the end of the conflict - Al-Sharq with Bloomberg",
@@ -278,6 +310,18 @@
       "originalHeadline": "توقعات \"موديز\" تضع اقتصاد الإمارات أمام أكبر انكماش منذ 1986.. لكن التصنيف مستقر - الشرق مع بلومبرغ"
     },
     {
+      "headline": "Iran clarified its red lines for the agreement, will Israel accept them?",
+      "url": "https://www.bbc.com/urdu/articles/c39y14pzmj3o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-14T06:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ایران نے معاہدے کے لیے اپنی ریڈ لائنز واضح کر دیں ، کیا اسرائیل انھیں قبول کرے گا ؟"
+    },
+    {
       "headline": "Urgent | A different kind of beggar... A Chinese robot begs passers-by using a “QR Code”!",
       "url": "https://www.okaz.com.sa/variety/na/2252488",
       "source": "Okaz",
@@ -312,18 +356,6 @@
       "date": "2026-06-14T06:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بعد تهديد بالتصعيد .. ما هو « عرض اللحظة الأخيرة » الذي أنقذ المستشفيات البريطانية ؟"
-    },
-    {
-      "headline": "Iran clarified its red lines for the agreement, will Israel accept them?",
-      "url": "https://www.bbc.com/urdu/articles/c39y14pzmj3o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-14T06:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ایران نے معاہدے کے لیے اپنی ریڈ لائنز واضح کر دیں ، کیا اسرائیل انھیں قبول کرے گا ؟"
     },
     {
       "headline": "Death toll from Philippines earthquake rises to 61",
@@ -2171,42 +2203,6 @@
       "language": "ar",
       "date": "2026-06-13T18:45:36.000Z",
       "originalHeadline": "بث مباشر.. مشاهدة مباراة قطر وسويسرا الآن في كأس العالم 2026 - 365Scores"
-    },
-    {
-      "headline": "Gwyneth Paltrow is facing criticism after appearing in a luxury real estate advertisement in Israel",
-      "url": "https://arabic.cnn.com/entertainment/article/2026/06/13/gwyneth-paltrows-israeli-real-estate-advertisement",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-13T18:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "غوينيث بالترو تواجه انتقادات بعد ظهورها في إعلان عقاري فاخر بإسرائيل"
-    },
-    {
-      "headline": "Among them are Al-Sisi and Mohammed bin Zayed.. Official: Trump will meet leaders from the Middle East at the G7 summit",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/13/trump-middle-eastern-leaders-g7-france",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-13T18:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بينهم السيسي ومحمد بن زايد .. مسؤول : ترامب سيلتقي قادة من الشرق الأوسط في قمة مجموعة السبع"
-    },
-    {
-      "headline": "Ahmed Al-Sharaa explains the truth about the news of Syria’s entry into Lebanon",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/13/al-sharaa-denies-reports-of-syria-entering-lebanon",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-13T18:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أحمد الشرع يوضح حقيقة أنباء دخول سوريا إلى لبنان"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
