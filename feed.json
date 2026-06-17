@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-17T08:18:12.609Z",
+  "updated": "2026-06-17T08:32:17.973Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Abu Dhabi Youth Business Council organises economic programme in Shanghai",
+      "url": "https://www.wam.ae/en/details/c0rried-abu-dhabi-youth-business-council-organises",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-17T08:31:03.171Z"
+    },
+    {
+      "headline": "Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-17T08:27:51.000Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-17T08:26:22.000Z"
+    },
+    {
+      "headline": "The UAE Banks Federation organizes the fifth edition of the “Cyber ​​Maneuvers 2026” - Fintechgate",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYzJZeG9BOGdmcWlqUDNnajZqX283UGstZnRLZHJsU1lDWjIzSnVkakZWSmNkckNzdUt2TjFSX29TOG5hMDdTT1dreUU0ZWdLang4TU8ybEhWWXE3MEVJb1JDQzdtQ0tlN1FzcHBJQWpnOGVYYVhfNGE1RjZXb3ZaUzI3RVpadTBrSTNfUVJDODFIWVZFMng1UmhlZjlMdkxzSHNDOXdZOS0xSG8wQ2JrdkFFSnRoWWVIODk0cTZrTEY5WnhSMnZqd0I0Y3VQLTJJT3ZVX2FtYVJsS0ZEaEZfTlo4NVg4cS1TQnpkLUIyRFhmRjJyUVJ3Y2t1SnFINnJGZ3BBVE5zS0Z5ZGFPSXhGZktWSElvNWVPUVBTdUZPandmVkFjdVlEMTc2bGhRNks5OWcxbDhJbDVTMkVUcHRxUGNIYw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T08:19:15.000Z",
+      "originalHeadline": "«اتحاد مصارف الإمارات» ينظم النسخة الخامسة «للمناورات السيبرانية 2026» - Fintechgate"
+    },
     {
       "headline": "Ajman Ruler honours police for securing seven regional, international awards",
       "url": "https://www.wam.ae/en/details/c0rriec-ajman-ruler-honours-police-for-securing-seven",
@@ -13,14 +54,15 @@
       "date": "2026-06-17T08:16:40.423Z"
     },
     {
-      "headline": "Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
+      "headline": "1 Killed when Small Plane Crashes on Texas Highway",
+      "url": "https://english.aawsat.com/world/5285111-1-killed-when-small-plane-crashes-texas-highway",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
       "language": "en",
-      "date": "2026-06-17T07:56:36.000Z"
+      "date": "2026-06-17T08:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Florida - AP News",
@@ -41,16 +83,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-17T07:52:10.115Z"
-    },
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-17T07:41:33.000Z"
     },
     {
       "headline": "The IMF expects Oman’s economy to grow by 3.7% during 2026 - Arabic",
@@ -75,7 +107,7 @@
       "originalHeadline": "مونديال 2026.. بوعلام خوخي رجل المناسبات الكبرى مع قطر - بوابة الأهرام"
     },
     {
-      "headline": "مونديال 2026: بوعلام خوخي رجل المناسبات الكبرى مع قط�� - مونت كارلو الدولية",
+      "headline": "World Cup 2026: Boualem Khoukhi, the man of major occasions with Qatar - Monte Carlo International",
       "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQdUp4dGVRSTdZUnQ4MVV1Z3BmVVF6M20taUZOTTJhakJQalNFLVMyamNCVDdJVzV5NnpCTlBwckU3SGhRaFJvRWpXcTBZVG5aVkpzenptOE1BZXNGRVJsYlZiQ2xJRVFLXzJPRVptVVdQZnBuZW5sRzYxSm45OVpPbEU1SlYwNFhsZmFFcWZVWUx5amFaQWNJSnhDcDZmVWw1NWNTX2s5TERpV3k4X3lXYUVhQmpkX1pzZG40Qnk0M2J5bmxvWUVsR29lTUJXaDRsZXp0WERGeEE4SjBhaVM3NDdpblJxQmE3WWtUTFVYa1dVOVJyVC1FZUJkMUNJVzlYa20weEd2bUZqUzZVNnQtUU9WSkJybHhCd1l2UHd2YVZ2eF9hT0M4U2drMGpEbUZTaGx2Q0p3cGR6ZDFJUDctSTh3QkpkT25SUjRmY1JBSWkzNUh0bTNqeGo3eFVRTnVoWTMtSndDSk50WUEtbExDMzZIM1dGT1NBZ1ZLV2FKS2JJU0lDeWNjNzU1REo5ZkNIQ09kYUlibmRTSHo0MEduLVI4SkEtRkpUZEhWeG5hLTJTLThkWHUyaDNyWHRLYjJNbjBpdjVjU2paQzVmWW52c05UVUFvWDM2bWdUdHFPU3NDb19ZSFdzM1BIWjRCVVpDbHBpNUg1WVNQdXNrTVZfNWRQOGlfTUZGWjlSX0F5R2NWSVVweV9J?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -83,7 +115,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T07:24:09.000Z",
-      "originalHeadline": "مونديال 2026: بوعلام خوخي رجل المناسبات الكبرى مع قط�� - مونت كارلو الدولية"
+      "originalHeadline": "مونديال 2026: بوعلام خوخي رجل المناسبات الكبرى مع قطر - مونت كارلو الدولية"
     },
     {
       "headline": "734 million dirhams in cinema revenues in the Emirates in 2025 - Economy Sky News Arabia",
@@ -241,7 +273,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T06:30:00.000Z",
-      "originalHeadline": "لماذا تتحول الشركات الناشئة في مصر إل�� السعودية والإمارات؟ - Masrawy"
+      "originalHeadline": "لماذا تتحول الشركات الناشئة في مصر إلى السعودية والإمارات؟ - Masrawy"
     },
     {
       "headline": "Italy intends to deploy an air defense system in Türkiye",
@@ -312,17 +344,6 @@
       "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
     },
     {
-      "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T05:45:00.000Z",
-      "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
-    },
-    {
       "headline": "Holland: Crazy Missy",
       "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/5285103-%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF-%D9%85%D9%8A%D8%B3%D9%8A-%D9%85%D8%AC%D9%86%D9%88%D9%86",
       "source": "Asharq al-Awsat",
@@ -333,6 +354,17 @@
       "date": "2026-06-17T05:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "هالاند : ميسي مجنون"
+    },
+    {
+      "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T05:45:00.000Z",
+      "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
     },
     {
       "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
@@ -464,7 +496,7 @@
       "date": "2026-06-17T04:50:17.999Z"
     },
     {
-      "headline": "Trump: Mohammed bin Zayed is a “warrior,” indicating his position on the IAEA agreement - CNN Arabic",
+      "headline": "Trump: Mohammed bin Zayed is a \"warrior\", indicating his position on the Iran agreement - CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTRVekdON0JmS1dSS0pEUmR1cWZMZlR4d1M0Q20xNTQxeFluWk15QjB5RE1QYU9oeEh2d3dWVmp0OEs5R2VscXdadHhkaVl2Z2hsTC1rTFpHMk9CRkxiNzVOdXVlR1lXYnV4UnBBNjFnenFucXRpbjI1d0pSbmM5aEw2Wm5ISl81VWlOMlQ3MGh2Rnp5c0hLTHVQYkYySWVmeFJnX2I2MzlSbW_SAbYBQVVfeXFMUGhEQUN3REVHSEdFVXF5c0tQNnRNaHZOd2M4d1NqYzFJbGRYQWlmZHIyaHNHemhDOE92UFBiSjRycG1INW5tUFVXOER4NUNuSGpXN1ZrekxidDRvQUpELUZoUUM2Y1VETlN0M2xsQkgya3FGMUFVa3F4bUVIYjBkS085Z3h5MGljU294NDY3c3d1UnFjUzVLSzVUdzhuX0Q3cDY3LWFkUzI4UDRsNkhfNGdBejNMbnc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -472,7 +504,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T04:49:02.000Z",
-      "originalHeadline": "ترامب: محمد بن زايد \"محارب\" مبينا الموقف من اتفاق إي��ان - CNN Arabic"
+      "originalHeadline": "ترامب: محمد بن زايد \"محارب\" مبينا الموقف من اتفاق إيران - CNN Arabic"
     },
     {
       "headline": "Messi hat-trick equals goalscoring record as Argentina beat Algeria",
@@ -504,6 +536,17 @@
       "language": "ar",
       "date": "2026-06-17T04:36:51.000Z",
       "originalHeadline": "مصر... طلب عاجل لمنع استحواذ الإمارات على الإسكندرية للحاويات - العربي الجديد"
+    },
+    {
+      "headline": "The UAE is discussing with the European Union enhancing cooperation in 4 areas - Mubasher Info",
+      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPU1I3blEwREp1M1pZQVZlSXQxNFRKNWV4RFJaaXVBUTZXTUNOaEZUcU91TF9DR1p6d2RvR1hUclhlZ0R6XzZ4VW15Zm4tU2J3cTBCV3pTWHppZGVRNFJBSkRlNmw2QlhXb0tyVEkteWdxb1dQT2ZXOEVBcnpUOXZESkJNNmxUa0tITUdzVlczNEp4WjdIQ21HTUJIa291WHMzVGlxR1dwRXdEV2FLZ0NleGpSU2pUWjFwTGlpLWljMzcyOWswbGw2b1lxRE1JZlBubUNCUDVqRjFQMXpyQTBSbUNVOU93UWpvczl3cjg3eEdfeDRHbjNQcUszV2RfRVEwZXlxdmJLNFczZnJ6cEFNdENGZl9JVWEtWU1kMkJhY3JsV3JGQXZKUXBOZE45NXd0Uk1DejdnVVRvNm40VmlDZENiU1A5YTNCZTU0RUFPSWxWZTYwMy1wcTJ6N09WNzh2Sk1hY2xzOGNMQXhmMko1aEdaekN1RS1IVll0b2YtcFNRblI0cW1DSmpFa1E2aXBSbUFKd3Z4ZDZLNGJxVktxYS03OWVadU1JZEVyeWctWTBCbFdSaWRoei0teS01Y3N2cm5US19IbVFLUkdGV0FlLXVCa0pkZTFreGNzOXVsTjZUZ1pDdE1rWXNIZ05fd1dqTGM5Rm0yczJCeWd6SEgzOGExSDJEYVRzemVuRnBhSHd6SlNmeENKSQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T04:32:43.000Z",
+      "originalHeadline": "الإمارات تبحث مع الاتحاد الأوروبي تعزيز التعاون في 4 مجالات - معلومات مباشر"
     },
     {
       "headline": "The UAE is discussing with the European Union enhancing cooperation in 4 areas - Mubasher Info",
@@ -651,26 +694,6 @@
       "date": "2026-06-17T03:06:49.000Z"
     },
     {
-      "headline": "Volodymyr Zelenskyy - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-17T03:03:41.000Z"
-    },
-    {
-      "headline": "Keir Starmer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-17T03:03:41.000Z"
-    },
-    {
       "headline": "'Strait of Hormuz belongs to Iran, its management to remain our responsibility'",
       "url": "https://timesofoman.com//article/173133-strait-of-hormuz-belongs-to-iran-its-management-to-remain-our-responsibility",
       "source": "Times of Oman",
@@ -681,7 +704,7 @@
       "date": "2026-06-17T03:01:28.000Z"
     },
     {
-      "headline": "السع��دية وفرنسا تبحثان سبل تعزيز علاقات التعاون - اليوم السابع",
+      "headline": "Saudi Arabia and France discuss ways to enhance cooperation relations - Youm7",
       "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQQnVkbkh1UXdUeV9TQTVyUmpOcUtUcTV1YnQ2aUpDWUptOGtzczR3eURscXZYamZrYm8temNhN3hqaEUxTVl0Zk5vMHRRWWI0N1ZPYk16TWs5ZnRVd1NPcTdfaGQ1Ykowc25HbXl3XzIxSHd0THFYQVY5TFBpMG9PRGszdlV5anFrV0k5bXlHZVVrZnMyVU1kVnhPYkVSU2NMZC0wd21QX0dXX2dVSGlPYnFrVzY5eFZyZktPOXZHVnVOX1lPSndWRDBCNUJGR053WDRGSjh6TkplQlZSLTRQejNwWjh5NFNBcDJlSUtJc1NyV0p0ekR1ZGxLUS04TGFuYVF3am9YMk9NRHJWTG95MTROekhtVENZRGo4VzR1Z016eU1VYUV2ZXUzMS1yZ2lESmMyakFEOUZqTE9QU2dKQXZmNjg2RVVEd1RpeTJEOWEtdXlISThUckRuOGhtekk5RmpWWU1uX3FCN3hLZERVY0h4R2tuemxZcnFTdVpzSWRLekRHR0lOWG50T0VidE92S0lwc3FKb0xkOHBxeF9pTEYxSlowRFl6bkHSAaQDQVVfeXFMTktWZll2QTB5bzhBM19mdW9zUXFFV2gtV0dOYnNiSXl6cHNhb2xmNG9RVksxdG9YazdvUVhHem1wZTFUYWlSUHhJRzhfcGFoVVhjdkQ5Qkx1M01zcVhjU0tuN1NlRmFIQ08xcC1ZRmxjQjlMTDJ6NXBPQk9hYmRCMlptVktPdTY0YzlBaWFCRFJXWFNTTm84V3dGRUxJMXpZNXhweDhFQnZZdUZZTldwN1N4dU1yck9CdEdGV3BzZDBoTGhTZllocWpFdzF1YTJ1VzlMU1ZRQmN5WTk5bjNRRDh5S1pLOUVPOWJxVU5tRkJXM1RZZ0Z1dkxVTm1TTjVUdklLc21kLU9DaHhMajN0VndMdXloMk10Yy12SGM4OXk4RnlfTWdKY2g0RnQxRzNxZEs5ay1kQVA5SFA0bFhwQXBZZzRWOFVFdng1VDBBMWFLcWVEQ24wZ0piOGY0U0UxYWNaRmZxYXU4VHpzd2otZS0xU0JSbHl5WXV3UDdzZG40bEFGWFJYYlk3UEpIeXhUWG1uenRjOS1EdXB2b1MydlFJc2Fq?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -689,7 +712,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T03:00:00.000Z",
-      "originalHeadline": "السع��دية وفرنسا تبحثان سبل تعزيز علاقات التعاون - اليوم السابع"
+      "originalHeadline": "السعودية وفرنسا تبحثان سبل تعزيز علاقات التعاون - اليوم السابع"
     },
     {
       "headline": "Al-Riyadh newspaper | The occupation has killed about a thousand Palestinians since the ceasefire",
@@ -812,7 +835,7 @@
       "originalHeadline": "جريدة الرياض | ارتفاع طفيف في أسعار النفط"
     },
     {
-      "headline": "Al-Riyadh newspaper | 1447 AH, the year of the Saudi global presence and the making of international budgets",
+      "headline": "Al-Riyadh newspaper | 1447 AH, the year of the Saudi global presence and the making of international balances",
       "url": "https://www.alriyadh.com/2193770",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -821,7 +844,7 @@
       "language": "ar",
       "date": "2026-06-17T03:00:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | 1447هـ عام الحضور السعودي العالمي وصناعة ال��وازنات الدولية"
+      "originalHeadline": "جريدة الرياض | 1447هـ عام الحضور السعودي العالمي وصناعة التوازنات الدولية"
     },
     {
       "headline": "Al-Riyadh newspaper | The American President: The text of the agreement with Iran will be announced soon",
@@ -1142,6 +1165,26 @@
       "language": "ar",
       "date": "2026-06-17T01:20:39.000Z",
       "originalHeadline": "أستراليا تخفف تحذيرات السفر إلى الشرق الأوسط بعد اتفاق أميركا وإيران - الشرق للأخبار"
+    },
+    {
+      "headline": "Volodymyr Zelenskyy - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-17T01:17:13.000Z"
+    },
+    {
+      "headline": "Keir Starmer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-17T01:15:07.000Z"
     },
     {
       "headline": "One killed, dozens injured after strong earthquake strikes central Indonesia",
@@ -2183,47 +2226,6 @@
       "language": "en",
       "date": "2026-06-16T19:45:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Emirates National Schools in Sharjah celebrates seventh graduation ceremony for 158 students",
-      "url": "https://www.wam.ae/en/details/c0r63on-emirates-national-schools-sharjah-celebrates",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-16T19:41:46.056Z"
-    },
-    {
-      "headline": "Abu Dhabi Excellence Award for People of Determination Inclusion – Damj honours winners of inaugural cycle",
-      "url": "https://www.wam.ae/en/details/c0r63om-abu-dhabi-excellence-award-for-people",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-16T19:33:49.956Z"
-    },
-    {
-      "headline": "Industry and Mineral Resources Ecosystem Participates in Eurosatory Defense and Security Exhibition in Paris",
-      "url": "https://spa.gov.sa/en/N2614042?type=news&uuid=N2614042",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-16T19:32:29.000Z"
-    },
-    {
-      "headline": "A surprise behind depriving Owais of the best player title and Valverde being crowned - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNRXdzd3VsUlFMMmRZZ2lDNDFvcHFhUmxkX2Y2bE5jQ1drU2ZPMEVMNFNPSHlJNV8yZ2h0S001UkFJSDdhRlBCbXVSQXlTQlNoQ1BoVDRWMEJfMkdQaFBnTXhVdk9SbUFNUjduaEtlV0l5Ry1Gemx2YzVfY2pnN1l4UGFZVHF5aERQWkVRQUF1TV9CSlJDNjRMT1lmYkFKR3F6SU11SFl4OXB2SFQwVVZxQkJqTGgxWFlpR0o0TGhzRzVmVUZlS0NaMk1IS0hKYU1FWVVFc0pmal9XWGhoSmpMX3l6UmhLQUxad1lnRWFUV0pLZnQyWlFuTW5vQVFNLVlJN3NuVnE1WDNlWXBrTTQyR1VFb2pRa0ZtNXR2U09lcmZaM2l2c0tfNTNoUE1XZHRKV2xtaml3Q283Tmx1dWxXZWpWVzdkY0FmeER2dXVlWUZ1cW9QN1kwanoyNE9SMWdrTTFSNTZXU1VHM2RqVjJ1eEtvZG5MQ2hHOHlwaGNqWV9ET0dnbllEamVIeF9VakRwQ0JlMllsRDh5dllDZENtQlI0N0xDLVJ1dWFnQl9GWllUandzd3pTRVFXSXJ1NUJJZjdKTXYyLUVZdUdVNEVFM3hQZWJHblVJT2cxb2ZrdF9BYVhIWmfSAeADQVVfeXFMUEFtNUh6aDVwSlBKWnBnam9pRmRlMDJzc0J5b3BwUXNJbUgxYXVBZGRtT20yY2ZPQ0MwbDUtaU90VmlwNFdyd1J5QUVEbGstZXBZd2M1UDEzdmp6aVlNUVJpVXVYNW1wWWZkS0gzeUdpOTVQNVBqb0FrOFBNaGpiWkc2eUE0QlZTcFFEVlVDTEhqd2RYa1VQSEdUVjhCSC1TQnExNC03d3FfN1haSUdYcmtjWHNzOXRwUUtTM3kzbFVyWXpnTHJrRFlhOGxfSU9oLU9aNEJZd0YtN3lETEpLZU43T1dZZ21FT3p5czNTQVE5bk9xQ2hFYWNzckNsWGlaclBQbjR3S3RocnRsREtvZHpydkFyeFhmYnNoX0ZCNHhnWHZyVFVvMjVUOWM2azB5U3plUzdoMDRQcUpYN2JHUWdsNEE0b19VQnVqcUc4VWxUR3hkTjNYNU5YcXlBaWFYNU1hY0J5RGlLTEdXX0VDbFY5WXhFZGZjRHk0anAxQWlyQ29JN2lXY0FnMlIyUWwydVNmcW41a29qZXRxekZscXRDdjc4TE03YkpFX1Qwdk9yY1VVSU9lN1ZFX0lrdkpTUWdJRkJGcnRhY0VJVndzM1Q3bWVUWFlpUWdjWmw3MW02?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-16T19:32:00.000Z",
-      "originalHeadline": "مفاجأة وراء حرمان ا��عويس من لقب أفضل لاعب وتتويج فالفيردي - اليوم السابع"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
