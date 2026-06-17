@@ -1,17 +1,7 @@
 {
-  "updated": "2026-06-17T07:33:06.637Z",
+  "updated": "2026-06-17T07:48:07.943Z",
   "itemCount": 300,
   "items": [
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-17T07:28:07.000Z"
-    },
     {
       "headline": "Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
@@ -20,7 +10,28 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-17T07:25:39.000Z"
+      "date": "2026-06-17T07:41:34.000Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-17T07:41:33.000Z"
+    },
+    {
+      "headline": "World Cup 2026.. Boualem Khoukhi, the man of major occasions with Qatar - Al-Ahram Gate",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZFZ5cmozeGxMajVXejEtZHAxd1J5S2hlU19vam0teEFfeXpZWFF1UWxJVjdfYWQ1Yi1QV0E0MmNLMlFvbmtUZE80MFJpX0plMzI4bi1n?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T07:34:00.000Z",
+      "originalHeadline": "مونديال 2026.. بوعلام خوخي رجل المناسبات الكبرى مع قطر - بوابة الأهرام"
     },
     {
       "headline": "734 million dirhams in cinema revenues in the Emirates in 2025 - Sky News Arabia",
@@ -105,7 +116,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T06:55:28.000Z",
-      "originalHeadline": "بورصة قطر ترتفع في المستهل مع ترقب قرار أسعار الفائدة - معلومات مباشر"
+      "originalHeadline": "بورصة قطر ترتفع في المستهل مع ترقب قرار أسعار الفائدة - ��علومات مباشر"
     },
     {
       "headline": "Austria return from long World Cup absence with nervy 3-1 win over Jordan",
@@ -182,18 +193,6 @@
       "originalHeadline": "إيطاليا تعتزم نشر منظومة دفاع جوي في تركيا"
     },
     {
-      "headline": "Mohammed bin Zayed is a warrior and the position on the Iran agreement.. Video of Trump meeting with the President of the Emirates",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/17/trump-viral-vidro-mohamed-bin-zayed-warrior-iran-deal",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T06:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "محمد بن زايد محارب والموقف من اتفاق إيران .. فيديو ترامب بلقاء رئيس الإمارات"
-    },
-    {
       "headline": "Egypt... Footage showing Sisi hugging Trump and those he met on the sidelines of the G7 summit",
       "url": "https://arabic.cnn.com/middle-east/article/2026/06/17/egypt-sisi-viral-photos-g7-meetings",
       "source": "CNN Arabic",
@@ -206,6 +205,18 @@
       "originalHeadline": "مصر .. لقطات ترصد السيسي وعناق ترامب ومن التقى على هامش قمة مجموعة السبع"
     },
     {
+      "headline": "Mohammed bin Zayed is a warrior and the position on the Iran agreement.. Video of Trump meeting with the President of the Emirates",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/17/trump-viral-vidro-mohamed-bin-zayed-warrior-iran-deal",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T06:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "محمد بن زايد محارب والموقف من اتفاق إيران .. فيديو ترامب بلقاء رئيس الإمارات"
+    },
+    {
       "headline": "KSrelief Supplies 6.9 Million Liters of Water in Yemen's Al-Hudaydah in April",
       "url": "https://spa.gov.sa/en/N2614199?type=news&uuid=N2614199",
       "source": "Saudi Press Agency",
@@ -216,7 +227,18 @@
       "date": "2026-06-17T05:53:27.000Z"
     },
     {
-      "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
+      "headline": "Qatar returns gas tankers to the Middle East in preparation for opening the Strait of Hormuz - East Economy with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOUmo5cmg1N1V1eHlVb1JCRHRkYS1YRXBBMi1HUDZmRmtOZ1Z6eDFvT3RmUUMzcXBOcG15cExxS3JWVDNvWUliNU05TE5qazFYTlc3RWZCdzVZbUJUYXpVZXRmMU9SRHFGOUVVVDV4TW1xYUV1NENScVdsa0tiVHRUb0JjTnZDMm5SVll0aG8tbUtOXzg3T0pQOTRqV1hicTBlWW1zcUVjMDdvYU96MUpqRWx3MTZqVW9IQy12X0cyWWdodzNsQUhIdUgyN3VwRmlNUm5aRUZ3X1RpYTliTW5sVjBpUk5HclpjX2FZa21lcDIxdGhaZnZPNlBZSjNZVl9WUXE2RWhCSTNjQ3hBRmdjdmgzSG9GbUVwTTlyaEJoRk9ocW9HZDdzc3ZpRmpOM2VVTDBiR0FPY1RXTUxveFdyeGprdGVVM2FIdU1SbVVtRDN5UjNocGltWU5lS2NOVmR1ck1yaVBuNmpaWDd3Z0RXSGdIZWR0Tmplb21vX1d5blVhcWdyN05HS3RVZ2w4LTNWUk9yVjVZUHBuOEt3Q280VDNLcmZ2bjVwUkV0S1lGMUw3UndDN0FSdGJXZWJXeUFVNG40V2FjelNlWFFRb3pmbks0RGRFRm8?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-17T05:46:41.000Z",
+      "originalHeadline": "قطر تُعيد ناقلات الغاز إلى الشرق الأوسط استعداداً لفتح مضيق هرمز - اقتصاد الشرق مع بلومبرغ"
+    },
+    {
+      "headline": "Conditions for obtaining a long-term residence permit in Kuwait for a period of 15 years - Arabic",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNWHF1bDBCS3lOdUdJWE94blhEX3hNNHpZdjhaRkJ4SVZYSVJRejRVYzNNUXNBTXhWcE0wUDkwUEpuemQ2a3VxSTBtR3g2LVlqcnotNU04VWRxODN1MlJCRldWdHdpbjZnaldsaExfdUNlUGhWb1VnWURfbVJxSWdIYjVMQmVoT2ZZVE9VU0ZwUmtSVVVsYXBBVzZDSkw3b2tkLXVGejM0eEgzaVNpdlFkNHUzWWlpWGFIT2lWSGsxcEFreUFpajFDQml5VUxUR0I4a1F0RFBGQ2hUUHV0ZFFLRXpENGNaelVpNFhDMjlVN290OTVnQUpNOXpfT3JkdGsxNWlncXZVUTViNnBqSkF1bzNHYjlaYnNGaEFaeWdDMFhFNy1BX1VHb1FsQnk2Ym80eTRoSnNsOHhGX1pRaWlJc2hseDBjS1llYmZLaXJCMnk2WHFLLUpxY3hUSkEzQUZta01oQk1wT3pjaTZ5MnFzS1RjWVZWWHJnX0FMV2c2UjJNOEdSYkhHV3B6UHBvc3BVd1FkeC1Ya21aTG9mRjV6eGpzdzXSAaQDQVVfeXFMTVhxdWwwQkt5TnVHSVhPeG5YRF94TTR6WXY4WkZCeElWWElSUXo0VWMzTVFzQU14VnBNMFA5MFBKbnpkNmt1cUkwbUd4Ni1ZanJ6LTVNOFVkcTgzdTJSQkZXVnR3aW42Z2pXbGhMX3VDZVBoVm9VZ1lEX21ScUlnSGI1TEJlaE9mWVRPVVNGcFJrUlVVbGFwQVc2Q0pMN29rZC11RnozNHhIM2lTaXZRZDR1M1lpaVhhSE9pVkhrMXBBa3lBaWoxQ0JpeVVMVEdCOGtRdERQRkNoVFB1dGRRS0V6RDRjWnpVaTRYQzI5VTdvdDk1Z0FKTTl6X09yZHRrMTVpZ3F2VVE1YjZwakpBdW8zR2I5WmJzRmhBWnlnQzBYRTctQV9VR29RbEJ5NmJvNHk0aEpzbDh4Rl9aUWlpSXNobHgwY0tZZWJmS2lyQjJ5NlhxSy1KcWN4VEpBM0FGbWtNaEJNcE96Y2k2eTJxc0tUY1lWVlhyZ19BTFdnNlIyTThHUmJIR1dwelBwb3NwVXdRZHgtWGttWkxvZkY1enhqc3c1?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -224,18 +246,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-17T05:45:00.000Z",
-      "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
-    },
-    {
-      "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T05:45:00.000Z",
-      "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
+      "originalHeadline": "شروط الحصول على إقا��ة طويلة في الكويت لمدة 15 سنة - العربية"
     },
     {
       "headline": "Holland: Crazy Missy",
@@ -251,7 +262,7 @@
     },
     {
       "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF0gGkA0FVX3lxTE1YcXVsMEJLeU51R0lYT3huWERfeE00ell2OFpGQnhJVlhJUlF6NFVjM01Rc0FNeFZwTTBQOTBQSm56ZDZrdXFJMG1HeDYtWWpyei01TThVZHE4M3UyUkJGV1Z0d2luNmdqV2xoTF91Q2VQaFZvVWdZRF9tUnFJZ0hiNUxCZWhPZllUT1VTRnBSa1JVVWxhcEFXNkNKTDdva2QtdUZ6MzR4SDNpU2l2UWQ0dTNZaWlYYUhPaVZIazFwQWt5QWlqMUNCaXlVTFRHQjhrUXREUEZDaFRQdXRkUUtFekQ0Y1p6VWk0WEMyOVU3b3Q5NWdBSk05el9PcmR0azE1aWdxdlVRNWI2cGpKQXVvM0diOVpic0ZoQVp5Z0MwWEU3LUFfVUdvUWxCeTZibzR5NGhKc2w4eEZfWlFpaUlzaGx4MGNLWWViZktpckIyeTZYcUstSnFjeFRKQTNBRm1rTWhCTXBPemNpNnkycXNLVGNZVlZYcmdfQUxXZzZSMk04R1JiSEdXcHpQcG9zcFV3UWR4LVhrbVpMb2ZGNXp4anN3NQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -261,15 +272,15 @@
       "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
     },
     {
-      "headline": "Qatar returns gas tankers to the Middle East in preparation for opening the Strait of Hormuz - East Economy with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOUmo5cmg1N1V1eHlVb1JCRHRkYS1YRXBBMi1HUDZmRmtOZ1Z6eDFvT3RmUUMzcXBOcG15cExxS3JWVDNvWUliNU05TE5qazFYTlc3RWZCdzVZbUJUYXpVZXRmMU9SRHFGOUVVVDV4TW1xYUV1NENScVdsa0tiVHRUb0JjTnZDMm5SVll0aG8tbUtOXzg3T0pQOTRqV1hicTBlWW1zcUVjMDdvYU96MUpqRWx3MTZqVW9IQy12X0cyWWdodzNsQUhIdUgyN3VwRmlNUm5aRUZ3X1RpYTliTW5sVjBpUk5HclpjX2FZa21lcDIxdGhaZnZPNlBZSjNZVl9WUXE2RWhCSTNjQ3hBRmdjdmgzSG9GbUVwTTlyaEJoRk9ocW9HZDdzc3ZpRmpOM2VVTDBiR0FPY1RXTUxveFdyeGprdGVVM2FIdU1SbVVtRDN5UjNocGltWU5lS2NOVmR1ck1yaVBuNmpaWDd3Z0RXSGdIZWR0Tmplb21vX1d5blVhcWdyN05HS3RVZ2w4LTNWUk9yVjVZUHBuOEt3Q280VDNLcmZ2bjVwUkV0S1lGMUw3UndDN0FSdGJXZWJXeUFVNG40V2FjelNlWFFRb3pmbks0RGRFRm8?oc=5",
+      "headline": "Conditions for obtaining long-term residency in Kuwait for 15 years - Arabic",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHdhRmR6Y0wwWm1zNG5WZVljZ1lBR1g3U3FoTDcxZkpveTFVWFJUT19KekV4M2pfbTVPLTdKNXd3NEhTdnVCMEVHNlgwc2R0U2ZDaXlERTRzQzByN2sxRmF4eTBWOVNZMk5YRXd4WnlvcGt2cG9uQm9ZN29UUndRQlhTd3YzSGNSM0R2VEdlQ20tV013Z2dsUnpWNktIZkJFcWh3ZGNwMk81OW1oTFVpUUczYTRzdERCVXlVcFBDRkpyMm9BZnE1MkdpZ2xTd0g1VVVsZ0NEQlRZME8ybkJjazJzQ1hvMFVjU2t3WTJZTjBPWXRTRVg3UkNrTThtemJ2V1RQUUcwaTNwQ3VHQ3BUdmlBVHp6NF91M0R0SFk1NUo5aElyVmhvLWxpYXgtM1A5N0d1VTUySFJMRFdRQl9JY3k4d2Rja1JJbHY2cE5vVk1nbU50ZkYwQWdzZ1JDbWF6VUhrcDJId1R0cjhpZTBpVm9Ic2wwYjUtNndSc19mWTdzY0QzWTN0ZDkzQUItdGswaklZUktUVEVwTXJRdFdF0gGkA0FVX3lxTE1YcXVsMEJLeU51R0lYT3huWERfeE00ell2OFpGQnhJVlhJUlF6NFVjM01Rc0FNeFZwTTBQOTBQSm56ZDZrdXFJMG1HeDYtWWpyei01TThVZHE4M3UyUkJGV1Z0d2luNmdqV2xoTF91Q2VQaFZvVWdZRF9tUnFJZ0hiNUxCZWhPZllUT1VTRnBSa1JVVWxhcEFXNkNKTDdva2QtdUZ6MzR4SDNpU2l2UWQ0dTNZaWlYYUhPaVZIazFwQWt5QWlqMUNCaXlVTFRHQjhrUXREUEZDaFRQdXRkUUtFekQ0Y1p6VWk0WEMyOVU3b3Q5NWdBSk05el9PcmR0azE1aWdxdlVRNWI2cGpKQXVvM0diOVpic0ZoQVp5Z0MwWEU3LUFfVUdvUWxCeTZibzR5NGhKc2w4eEZfWlFpaUlzaGx4MGNLWWViZktpckIyeTZYcUstSnFjeFRKQTNBRm1rTWhCTXBPemNpNnkycXNLVGNZVlZYcmdfQUxXZzZSMk04R1JiSEdXcHpQcG9zcFV3UWR4LVhrbVpMb2ZGNXp4anN3NQ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-06-17T05:41:18.000Z",
-      "originalHeadline": "قطر تُعيد ناقلات الغاز إلى الشرق الأوسط استعداداً لفتح مضيق هرمز - اقتصاد الشرق مع بلومبرغ"
+      "date": "2026-06-17T05:45:00.000Z",
+      "originalHeadline": "شروط الحصول على إقامة طويلة في الكويت لمدة 15 سنة - العربية"
     },
     {
       "headline": "Industrial production in Qatar declines by 2% in the first quarter of 2026 - CNBC Arabia",
@@ -433,7 +444,7 @@
     },
     {
       "headline": "The UAE is discussing with the European Union enhancing cooperation in 4 areas - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPUEJIVzdCVFlmeHZHV3VrbVlYRzM0eUxnZ1h5MUhNRUNSUnhmVlVEOUFBU25NMzl4MkphQVRHQXVzQ1BmalhBc2VuMFJYRzNiUUp0NDRVSWdaMVRBRm1DUDNyOXRsRE9EQjdUdjB4WFpTTFdja0x6S3hFQzRzbVdWb25nNkdXdVBFV0k2MmJhX3d3Si1yZ0o2WWNLNjh2U1BJaExITlNqb3ZSTThWT0swVG82eXdiMXNPZHFMZVV3dW54OXFnRnI0Z1Y5cTB6NVgyQ0wxdG9tTVNuS01pQVdnLVdjYWhfYWRqYXZoV2NGTWNxSnhTeERNbS1CcHpEY3FJZUZlNTdkMzB4N3hqYlVMSmZtU2pzUjRFakdsMVFtWnJYamY3c1l5WXhQbUtCYzdGUE1tdHozeWc4cnRMazItVjUyQVBzN2NOYnV2clgxeDFPMEJ5RzFwSHBEMzY4WjUtWHlGYV83WnIyMUo0V2VJRmZFaVdKaTBDNFlFYy1RaEdKS3EtbEVnczNLTW90Z2gzdDQ4NHdfZUR1MTlHakFxSW1nNG13bHF3MTdKaEduLUxibHlsSXBRWW9zd0w5WWJIVDF4b1FyQU5PcHVUR29FWlBpUEtOcWVmeFlPUTI1WnZkTGVHR3B6TDJjZ05UckpOTU1DQzNmdjk3Nnp5M0dTVGtMaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNTXdQUmpzRG43bzNrTloxbTRBcWFuNkZGZVJHaTdpSGNZMGdqZlJnaXJUZjJ5eG82M3FLUUYxVWo4aXlDWW5TNS1NQ2hRbUtZZW1OZ25Kbk8xM3hZWW9Md3Y5TDZXZUVXN01RODRoZ3RUR3o1LXRvM2hONm1BemZhWDVwQ3hmenJnamlrNDJ4QkdKUF9BbDBfcFdTOWVtOTRQeWFyYTZZcmVJWXhiQ0NHQzhpSllha3hEVzBmd3BXNGI4c0NmNVkzNXpIRk54Q0dNUWhTT1ZzRl92YnhhdDNIRXotYVRULXVDUjcyZnJENmFDbHZLYUU3SmUtdkkxZXRnbGVnNG54ZjZVXzY3dnFDaXlvdWtjR25mb3FVQUVfYXIxV2JHLThyNVQ1WjYzSFhUd05wdzNLVkpCdktZRnpmZkgtZjQxU3ByYnRJaHVxOUVhY0p3N243cU0yUVUtaHotcFJQU2U0c2hkeXJIaVlGZTk1ZVk4YVpsUVlmbTg4LUlfeC13RXdSdTlVdE1CQ3Y0VmJ2Q3FrX2FlQ211VVpFMVV3RllBS1BLX0VVaGYxYzUtaUJ4Y0lOVFIxNHNaaGtYbEFfSzMyUktnWG5pY1drMVJSaFVmMmgxYVBNWlJEZzBGV0hRZDUw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -444,7 +455,7 @@
     },
     {
       "headline": "The UAE is discussing with the European Union enhancing cooperation in 4 areas - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNTXdQUmpzRG43bzNrTloxbTRBcWFuNkZGZVJHaTdpSGNZMGdqZlJnaXJUZjJ5eG82M3FLUUYxVWo4aXlDWW5TNS1NQ2hRbUtZZW1OZ25Kbk8xM3hZWW9Md3Y5TDZXZUVXN01RODRoZ3RUR3o1LXRvM2hONm1BemZhWDVwQ3hmenJnamlrNDJ4QkdKUF9BbDBfcFdTOWVtOTRQeWFyYTZZcmVJWXhiQ0NHQzhpSllha3hEVzBmd3BXNGI4c0NmNVkzNXpIRk54Q0dNUWhTT1ZzRl92YnhhdDNIRXotYVRULXVDUjcyZnJENmFDbHZLYUU3SmUtdkkxZXRnbGVnNG54ZjZVXzY3dnFDaXlvdWtjR25mb3FVQUVfYXIxV2JHLThyNVQ1WjYzSFhUd05wdzNLVkpCdktZRnpmZkgtZjQxU3ByYnRJaHVxOUVhY0p3N243cU0yUVUtaHotcFJQU2U0c2hkeXJIaVlGZTk1ZVk4YVpsUVlmbTg4LUlfeC13RXdSdTlVdE1CQ3Y0VmJ2Q3FrX2FlQ211VVpFMVV3RllBS1BLX0VVaGYxYzUtaUJ4Y0lOVFIxNHNaaGtYbEFfSzMyUktnWG5pY1drMVJSaFVmMmgxYVBNWlJEZzBGV0hRZDUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPUEJIVzdCVFlmeHZHV3VrbVlYRzM0eUxnZ1h5MUhNRUNSUnhmVlVEOUFBU25NMzl4MkphQVRHQXVzQ1BmalhBc2VuMFJYRzNiUUp0NDRVSWdaMVRBRm1DUDNyOXRsRE9EQjdUdjB4WFpTTFdja0x6S3hFQzRzbVdWb25nNkdXdVBFV0k2MmJhX3d3Si1yZ0o2WWNLNjh2U1BJaExITlNqb3ZSTThWT0swVG82eXdiMXNPZHFMZVV3dW54OXFnRnI0Z1Y5cTB6NVgyQ0wxdG9tTVNuS01pQVdnLVdjYWhfYWRqYXZoV2NGTWNxSnhTeERNbS1CcHpEY3FJZUZlNTdkMzB4N3hqYlVMSmZtU2pzUjRFakdsMVFtWnJYamY3c1l5WXhQbUtCYzdGUE1tdHozeWc4cnRMazItVjUyQVBzN2NOYnV2clgxeDFPMEJ5RzFwSHBEMzY4WjUtWHlGYV83WnIyMUo0V2VJRmZFaVdKaTBDNFlFYy1RaEdKS3EtbEVnczNLTW90Z2gzdDQ4NHdfZUR1MTlHakFxSW1nNG13bHF3MTdKaEduLUxibHlsSXBRWW9zd0w5WWJIVDF4b1FyQU5PcHVUR29FWlBpUEtOcWVmeFlPUTI1WnZkTGVHR3B6TDJjZ05UckpOTU1DQzNmdjk3Nnp5M0dTVGtMaw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -2141,6 +2152,16 @@
       "originalHeadline": "مفاجأة وراء حرمان ا��عويس من لقب أفضل لاعب وتتويج فالفيردي - اليوم السابع"
     },
     {
+      "headline": "Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-16T19:17:10.000Z"
+    },
+    {
       "headline": "KSrelief Distributes 1,000 Food Baskets in Afghanistan",
       "url": "https://spa.gov.sa/en/N2614029?type=news&uuid=N2614029",
       "source": "Saudi Press Agency",
@@ -2201,27 +2222,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-16T18:49:26.000Z"
-    },
-    {
-      "headline": "HRH the Crown Prince Receives Written Message from Chechen Republic President",
-      "url": "https://spa.gov.sa/en/N2614012?type=news&uuid=N2614012",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-16T18:46:44.000Z"
-    },
-    {
-      "headline": "The Canadian team arrives in Vancouver in preparation for facing Qatar and Switzerland, amid an atmosphere full of confidence - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdnlORmpxN2FJOVVENFdleTdRUjU3MUdTSEhETU16eG9HVUF0MnlYck5TbWJrOXRCS1loLUpKY1c3bk51OVNtNzc5SlJOR2lIX3c3U1VR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-16T18:39:00.000Z",
-      "originalHeadline": "المنتخب الكندي يصل فانكوفر استعدادًا لمواجهة قطر وسويسرا وسط أجواء مفعمة بالثقة - بوابة الأهرام"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
