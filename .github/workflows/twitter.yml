@@ -40,6 +40,13 @@ jobs:
         run: npx playwright install chromium
 
       - name: Scrape tweets into feed.json
+        env:
+          # Logged-in X session cookies (Option B). Without these, X serves a
+          # login wall and every handle returns 0 tweets. Set via:
+          #   gh secret set X_AUTH_TOKEN --repo wtv1gnf3hbk/gulf-briefing
+          #   gh secret set X_CT0        --repo wtv1gnf3hbk/gulf-briefing
+          X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
+          X_CT0: ${{ secrets.X_CT0 }}
         run: node generate-briefing.js --twitter-only
 
       - name: Commit feed.json

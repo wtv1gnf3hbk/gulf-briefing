@@ -610,12 +610,22 @@ async function main() {
   // sanity warnings) live in lib/scrape-twitter.js.
   if (TWITTER_ONLY) {
     const sources = config.sources.filter(s => !s._comment && s.type === 'twitter');
-    await runTwitterOnly({
+    const res = await runTwitterOnly({
       sources,
       countryMap: COUNTRY_MAP,
       feedPath: FEED_PATH,
       maxItems: MAX_FEED_ITEMS,
     });
+    // Fail loudly (Option D): a total wipeout across all handles means the X
+    // scrape is broken (login wall / expired auth), not a quiet "nothing new".
+    // Exit non-zero so the workflow goes red and alerting fires, instead of the
+    // old green-forever behavior that hid an 8-day outage.
+    if (res && res.totalWipeout) {
+      console.error(`\nFAIL: 0/${res.attempted} Twitter handles produced any tweets — X scrape is broken.`);
+      console.error('See lib/scrape-twitter.js (Option B: set X_AUTH_TOKEN / X_CT0).');
+      process.exitCode = 1;
+      return;
+    }
     console.log('SUCCESS');
     return;
   }
