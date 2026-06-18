@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-18T08:33:15.032Z",
+  "updated": "2026-06-18T08:46:57.620Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Emirates NBD announces the completion of the acquisition of 60% of the Indian RBL - Hapi Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNOE9SblBZeUVhOVhndnFmVkFuQjZCTVJTWXY3LUxNVWY2UnJIWlhjc3dvOGhzQmlQbVpuWmgtb3JTUXFCSVpBVERRSWc2WWk1Rkh5WVNQbFdJX1FNdHdJRHd2T25QRjNXaXVzWFlJUElNS2gwM2FhSDh1cWoxR19PaHQ3YTVqd2VVYWdBRlJPakZOZXJJRzFRQlpqUlQ5VXc2ZDF5ZG9LSEd4b2Z2SlpDQlZiSWk4SzhSZ250ZmdqbHBLY3Bta0NIbU9zUUtZMzhKRXU5U1psOXRPSkhyMWxrSEJzWGlYVFRsYXlmaXZGdEtMX0h0bnJLUHpRbnRUajhUbG1VMGVXYy1NZmc5NnpyTExPSy1BcmNqdTR1dUhkd1RBYXVWWGc2a25NdE9ZaFY4WVZyV00tbVRSeHBIQzNnN3hCZmpMUm1IS2tKd21MNzh0ZkE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-18T08:33:24.000Z",
+      "originalHeadline": "الإمارات دبي الوطني يعلن إتمام الاستحواذ على 60% من آر.بي.إل الهندي - جريدة حابي"
+    },
     {
       "headline": "Saudi Arabia Calls for Enhanced Global Cooperation to Tackle Humanitarian Challenges",
       "url": "https://spa.gov.sa/en/N2614991?type=news&uuid=N2614991",
@@ -11,6 +22,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-18T08:29:52.000Z"
+    },
+    {
+      "headline": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUGFqaVdKMktUd1FnZ1hzR1ZNS19fRjFHQVY2XzBEc0s2LWR6aHk2OUZGN2dSdEZJMTBtdzdiRTdNOW4zQ1FZRnFSVVVGa1pNSVJUdVkwa3RNckhCMWJGQzlMSExXMjc5WkE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-18T08:29:22.000Z"
     },
     {
       "headline": "Iran war - AP News",
@@ -212,7 +233,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-18T07:25:00.000Z",
-      "originalHeadline": "موعد مباراة قطر وكند�� في كأس العالم والقنوات الناقلة - بوابة الأهرام"
+      "originalHeadline": "موعد مباراة قطر وكندا في كأس العالم والقنوات الناقلة - بوابة الأهرام"
     },
     {
       "headline": "Canadian national team captain Alphonso Davies is ready to face Qatar in the 2026 World Cup - Al-Ahram Gate",
@@ -444,6 +465,16 @@
       "language": "en",
       "date": "2026-06-18T06:30:00.000Z",
       "tier": "gdelt"
+    },
+    {
+      "headline": "Switzerland says talks planned for Friday between Iran and U.S. - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZlUmREdTRwV2dYNHVFZm1DckNhXzBGUWwzaEpOVXRCOHdiOEV2WHdTdkR3ZE5PMTVGekItdHNmTTdSQmw4UWwydXZiZDdwaVBfNTJGR1VlanE0dUJfT3ZNejRlMXlYMWwyNEVtU3NqcnJQOG92bGxsNERITmRidm14U29iUWJGTU5qOFo2NEtBcndabW1CNV85T2RjMWZrdVliWDViS09ScW8?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-18T06:23:00.000Z"
     },
     {
       "headline": "US, Iran sign agreement to end war",
@@ -1861,7 +1892,7 @@
       "originalHeadline": "تفاهمنامه ایران و آمریکا حاوی چیست ؟ - BBC News فارسی"
     },
     {
-      "headline": "Trump and doctors signed the memorandum",
+      "headline": "Trump and the doctors signed the memorandum",
       "url": "https://www.bbc.com/persian/live/clyxwl459j9t",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -2209,39 +2240,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-17T23:20:58.447Z"
-    },
-    {
-      "headline": "Iranian Foreign Ministry: The Strait of Hormuz is the responsibility of Iran and Oman - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qMWVKelNhaFdWcDZiV2t2d0ZCeWRqaVhIWUVkdHpZMl9aZXBlQmtDWDd2STlSR09YaUFmWlZsclZHbUhXUTFINVRXUUhKUDdDZElEUER3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T23:09:00.000Z",
-      "originalHeadline": "الخارجية الإيرانية: مضيق هرمز مسئولية إيران وعمان - بوابة الأهرام"
-    },
-    {
-      "headline": "Qatar and the UAE sign a memorandum of understanding to protect shared security data and information - Al Bawaba News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ia2M1elkyX3dLTmVqS1FtRWlELXJDZEl1cy1UTndDeUxxQi1PeTZfcGwyOG5SNV95T1JOa3Z4ZmZyQWstVEFfWEtXbGY?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T23:09:00.000Z",
-      "originalHeadline": "قطر والإمارات توقعان مذكرة تفاهم لحماية البيانات والمعلومات الأمنية المشتركة - البوابة نيوز"
-    },
-    {
-      "headline": "Iran: Deadly drone attacks on Bahrain and Saudi Arabia should be investigated as war crimes - New Research - Amnesty International",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTC1hR2tRTmZ1RDNuVlVYMHRBbDROM3d1Q3h3Y0hPYUhNNXdoaUdWbXlwZmlBbzJnb0Y4YU44RDBoNGRrU2xGOWVzazhzWmhlVXQzZTJDaGphMGg5RjFweUNoVzZFS1ZxdGVGaHo3ZEJfQlItVHpPY1NFVkwwUWtjbkhNdVpmbzF6ZGVqSFdwcjc2bTdWV185LTVUdmZmNlZjLUFCaTlNS2g0empYUG9iZXNPWVRwVXVCaFhueDZsdmE2QW81cnV6X3lLb3BLWmtkdjlwVzNkZw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-17T23:01:00.000Z",
-      "originalHeadline": "إيران: ينبغي التحقيق في الهجمات المميتة بمسيّرات على البحرين والسعودية باعتبارها جرائم حرب - بحث جديد - Amnesty International"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
