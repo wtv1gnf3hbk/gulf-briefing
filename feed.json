@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-18T17:32:12.274Z",
+  "updated": "2026-06-18T17:47:07.873Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Benin Ambassador to Saudi Arabia Visits IMCTC Headquarters and Praises Its Efforts and Programs",
+      "url": "https://spa.gov.sa/en/N2615469?type=news&uuid=N2615469",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-18T17:46:18.000Z"
+    },
+    {
+      "headline": "Theyab bin Mohamed bin Zayed attends reception for Al Neyadi, Al Shamsi, Al Dhaheri weddings",
+      "url": "https://www.wam.ae/en/details/c0scyr8-theyab-bin-mohamed-bin-zayed-attends-reception-for",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-18T17:35:55.083Z"
+    },
+    {
+      "headline": "Dubai Silicon Oasis, noon Minutes form strategic partnership to accelerate tech innovation, startup growth",
+      "url": "https://www.wam.ae/en/details/c0scyr7-dubai-silicon-oasis-noon-minutes-form-strategic",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-18T17:34:52.551Z"
+    },
     {
       "headline": "NATO approves update of nuclear capabilities",
       "url": "https://www.wam.ae/en/details/c0scyr6-nato-approves-update-nuclear-capabilities",
@@ -132,6 +162,54 @@
       "language": "ar",
       "date": "2026-06-18T17:01:53.000Z",
       "originalHeadline": "بريطانيا ترفع تحذيرات السفر إلى الإمارات وقطر والبحرين والكويت - معلومات مباشر"
+    },
+    {
+      "headline": "A recent study: The cold confuses the nasal defenses and paves the way for viruses",
+      "url": "https://www.aljazeera.net/health/2026/6/18/%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B9%D8%A9-%D9%81%D9%8A-%D8%AC%D8%B3%D9%8A%D9%85%D8%A7%D8%AA-%D9%86%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D8%AD%D9%85%D9%8A%D9%86%D8%A7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-18T17:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دراسة حديثة : البرد يربك دفاعات الأنف ويمهد الطريق للفيروسات"
+    },
+    {
+      "headline": "Arab normalization with Damascus... the return of the regime and the continued suffering of Syrians",
+      "url": "https://www.aljazeera.net/blogs/2026/6/18/%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%85%D8%B9-%D8%AF%D9%85%D8%B4%D9%82-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-18T17:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "التطبيع العربي مع دمشق .. عودة النظام وبقاء معاناة السوريين"
+    },
+    {
+      "headline": "Vance: We are ready for any scenario with Iran... and no lifting of sanctions",
+      "url": "https://www.okaz.com.sa/politics/na/2253253",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-18T17:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "فانس : جاهزون لأي سيناريو مع إيران .. ولا رفع للعقوبات"
+    },
+    {
+      "headline": "From condemnation to sanctions... Will the Western position on Israeli settlement change?",
+      "url": "https://www.aljazeera.net/blogs/2026/6/18/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D9%86%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%87%D9%84-%D9%8A%D8%AA%D8%BA%D9%8A%D8%B1",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-18T17:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "من الإدانة إلى العقوبات .. هل يتغير الموقف الغربي من الاستيطان الإسرائيلي ؟"
     },
     {
       "headline": "Britain cancels directives to avoid travel to the Emirates, Qatar, Bahrain and Kuwait - Youm7",
@@ -460,17 +538,6 @@
       "originalHeadline": "«السعودية» تواصل الهيمنة السيبرانية عالميًا وتحافظ على صدارة مؤشر الأمن السيبراني للعام الثالث على التوالي - Fintechgate"
     },
     {
-      "headline": "Hatari tatu zinazotishia makubaliano ya Iran na Marekani",
-      "url": "https://www.bbc.com/swahili/articles/cwydj4l9zj4o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-18T15:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "After the memorandum of understanding between America and Iran.. How many ships have crossed the Strait of Hormuz so far?",
       "url": "https://arabic.cnn.com/middle-east/article/2026/06/18/vessels-traversed-strait-of-hormuz-thursday",
       "source": "CNN Arabic",
@@ -517,6 +584,17 @@
       "date": "2026-06-18T15:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مصر تشيد بـ حكمة ترامب : التفاهم الأمريكي الإيراني خطوة لخفض التوتر بالشرق الأوسط"
+    },
+    {
+      "headline": "Hatari tatu zinazotishia makubaliano ya Iran na Marekani",
+      "url": "https://www.bbc.com/swahili/articles/cwydj4l9zj4o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-18T15:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Yas Association for Culture, Arts and Theater announces launch of first stand-up comedy team",
@@ -605,7 +683,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-18T15:12:16.000Z",
-      "originalHeadline": "الكويت تستهدف رفع إنتاج النفط إلى مليوني برميل يومياً خلال أسبوع - الشرق مع بلومبرغ"
+      "originalHeadline": "الكويت تستهدف رفع إنتاج النفط إلى مليوني برميل يوم��اً خلال أسبوع - الشرق مع بلومبرغ"
     },
     {
       "headline": "The UAE is the first Arab country to ban social media platforms for children under 15 years old - Monte Carlo International",
@@ -662,8 +740,30 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Israel Seized More Land from Neighbors since 2023 than it Has in Decades",
+      "url": "https://english.aawsat.com/arab-world/5285696-israel-seized-more-land-neighbors-2023-it-has-decades",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-18T15:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Saudi Medical Team Successfully Separates Filipino Conjoined Twins after Six - Hour Surgery",
       "url": "https://english.aawsat.com/gulf/5285687-saudi-medical-team-successfully-separates-filipino-conjoined-twins-after-six-hour",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-18T15:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel Military Says will Keep Operating in South Lebanon",
+      "url": "https://english.aawsat.com/arab-world/5285709-israel-military-says-will-keep-operating-south-lebanon",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -686,28 +786,6 @@
     {
       "headline": "Saudi Arabia Ranks 3rd Globally in Creation of Firms",
       "url": "https://english.aawsat.com/business/5285652-saudi-arabia-ranks-3rd-globally-creation-firms",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-18T15:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Israel Seized More Land from Neighbors since 2023 than it Has in Decades",
-      "url": "https://english.aawsat.com/arab-world/5285696-israel-seized-more-land-neighbors-2023-it-has-decades",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-18T15:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Israel Military Says will Keep Operating in South Lebanon",
-      "url": "https://english.aawsat.com/arab-world/5285709-israel-military-says-will-keep-operating-south-lebanon",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -740,7 +818,7 @@
     },
     {
       "headline": "Data: India's imports of UAE oil in May exceeded pre-war levels - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxPZmVsUGp2RXlfd3ppNjREZkhoT0V5NUYzZ1ZOMXBIalJILURJMlIzUm5WN3BvS1VYM1ZYZkJCU3RlUHJBbE9vaVQ3RmgzdDVNNVllUE5QM2RmbGIzOG50MmVsNi1nM0x3TENkdmRYOGQ5SVFfTnlkTjFsWjhhMmJ6LWhYUDN3MHU4ZEZ4Y3UwR1A1eG8tOEpOMFQxS3NKMmM4VWRxR2xwc0E3cWh1bzdadWllTFl2Mk4wTjNGVHg3akRLMk02ajMzMjVUOW1FUVhDb1pGckdFWkdCZGlLaE9fNTNWX1Z0dXRDQ3MtYS1IRHNuNDBkeF9NamdNR1kwUUItdFd1TXVKMWFXOG5GazdMWVZ3VHRoS0VRQzhsaTZLZTVFYTlzam5vVm8zdDVPeFhoSktOQkdrV29rejZTNEpoTENZSDVabHFOT0JLSWNEd2hYejNwcnRjWmtnb2o1WEc2TDdNX1R6QWVmTEw2ZjFVbHBZNzZNX0k4b3hqSDRURmtpSnhDY0tNbHdjZlR2emJjRU1GUUNISzFUUjlwXzRLb0NPN0QwbHdNLUl6cTV5aDNoLUQtcE0wTWZDQWpwUDVNcEl5TEZ1QlNzcUwyaUVWbEUtSHcwYW9Od2ZjeWVPcldBWmd5c1Z0cC1Xb1J4b0hUNmV0VWVjTUlGdGNfZnFKWVZJbWlsR0NqX0xRODRQSjZmeGxnMXpxRjAxTkIyR0czVHJHdDNHdDBJLWtldS1EZmhJMEVPU1pYdW0ySVhVeFVOb0JTMVhod29HSFNrZXFRLTB30gHTBEFVX3lxTE9mZWxQanZFeV93emk2NERmSGhPRXk1RjNnVk4xcEhqUkgtREkyUjNSblY3cG9LVVgzVlhmQkJTdGVQckFsT29pVDdGaDN0NU01WWVQTlAzZGZsYjM4bnQyZWw2LWczTHdMQ2R2ZFg4ZDlJUV9OeWROMWxaOGEyYnotaFhQM3cwdThkRnhjdTBHUDV4by04Sk4wVDFLc0oyYzhVZHFHbHBzQTdxaHVvN1p1aWVMWXYyTjBOM0ZUeDdqREsyTTZqMzMyNVQ5bUVRWENvWkZyR0VaR0JkaUtoT181M1ZfVnR1dENDcy1hLUhEc240MGR4X01qZ01HWTBRQi10V3VNdUoxYVc4bkZrN0xZVndUdGhLRVFDOGxpNktlNUVhOXNqbm9WbzN0NU94WGhKS05CR2tXb2t6NlM0SmhMQ1lINVpscU5PQktJY0R3aFh6M3BydGNaa2dvajVYRzZMN01fVHpBZWZMTDZmMVVscFk3Nk1fSThveGpINFRGa2lKeENjS01sd2NmVHZ6YmNFTUZRQ0hLMVRSOXBfNEtvQ083RDBsd00tSXpxNXloM2gtRC1wTTBNZkNBanBQNU1wSXlMRnVCU3NxTDJpRVZsRS1IdzBhb053ZmN5ZU9yV0FaZ3lzVnRwLVdvUnhvSFQ2ZXRVZWNNSUZ0Y19mcUpZVkltaWxHQ2pfTFE4NFBKNmZ4bGcxenFGMDFOQjJHRzNUckd0M0d0MEkta2V1LURmaEkwRU9TWlh1bTJJWFV4VU5vQlMxWGh3b0dIU2tlcVEtMHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOVzFGYWNVUkRhV1lMQ3Y4VFNGMEJjMDNEdzQ5SDB3MnRtOGJwZkxKYzZQNkdhWmpEVDZGNGNBSzByWDhTX3g5NmF3dlRJSzExSC1WQmVYd0lya2JPYmxGV2V0U0NMNENDNUpjQ011Q3B3Q054TnZ6WVhjRjdGQm9mZWh1MS1GTzZBQW01SE94RDNrVElFTXU2eGVpdkVhSXprRFhPNkd2MnNoWjdzZjZoSFJDMVlBVEhEWmdMUUlNME1TX1puN203ZmwxN3puTzJRWmxRbEZ5U216aVI5ZkFpcWMwTHZFR1VrZUp0NXVGY1BZS1RyTlBlR094bG8ySTNGdzNQSkFTY0RvZVlMZXA1TXFCUGJRLVllb0xVeDU3dnZrQUJiYmZiRzIyWFhxWEtTM2kwT09JMmdRenQ1Z21tdmpnWHotUGZFbGZSZm9RTUNwa1V0RDlnT3Y3ZDJwTG0zYU11Y1E0bmduT1BoSWlzd1JZcEg1aHlYaXA2SXo4dzA2Uy1PV0tIWDVFeFBNZnJ3X0VORTdTNExxNjFHMzVXeTFzR2YxV09mLTc5ZDhUZ1NOZXVtNjVqbUZIX09vSjBwQVVxQlVxLVcwQzRrXzlvY3dMalg4SXI2dXFNOE9MQzJ2bVpRaThoek9Za2JBa01MYlRSN3l1U2ZnZjA1SDZBV2V5cWtRbzNNbnh5aUJ1OEJ2d3FpbTFUUTFrSk9zUk1UMUxyZ2FyUUN3ak5zRmlSV2ZRLXdJTGItbUFiWkFsM2NCU0k4RDcydWFROHBDQdIB0wRBVV95cUxPZmVsUGp2RXlfd3ppNjREZkhoT0V5NUYzZ1ZOMXBIalJILURJMlIzUm5WN3BvS1VYM1ZYZkJCU3RlUHJBbE9vaVQ3RmgzdDVNNVllUE5QM2RmbGIzOG50MmVsNi1nM0x3TENkdmRYOGQ5SVFfTnlkTjFsWjhhMmJ6LWhYUDN3MHU4ZEZ4Y3UwR1A1eG8tOEpOMFQxS3NKMmM4VWRxR2xwc0E3cWh1bzdadWllTFl2Mk4wTjNGVHg3akRLMk02ajMzMjVUOW1FUVhDb1pGckdFWkdCZGlLaE9fNTNWX1Z0dXRDQ3MtYS1IRHNuNDBkeF9NamdNR1kwUUItdFd1TXVKMWFXOG5GazdMWVZ3VHRoS0VRQzhsaTZLZTVFYTlzam5vVm8zdDVPeFhoSktOQkdrV29rejZTNEpoTENZSDVabHFOT0JLSWNEd2hYejNwcnRjWmtnb2o1WEc2TDdNX1R6QWVmTEw2ZjFVbHBZNzZNX0k4b3hqSDRURmtpSnhDY0tNbHdjZlR2emJjRU1GUUNISzFUUjlwXzRLb0NPN0QwbHdNLUl6cTV5aDNoLUQtcE0wTWZDQWpwUDVNcEl5TEZ1QlNzcUwyaUVWbEUtSHcwYW9Od2ZjeWVPcldBWmd5c1Z0cC1Xb1J4b0hUNmV0VWVjTUlGdGNfZnFKWVZJbWlsR0NqX0xRODRQSjZmeGxnMXpxRjAxTkIyR0czVHJHdDNHdDBJLWtldS1EZmhJMEVPU1pYdW0ySVhVeFVOb0JTMVhod29HSFNrZXFRLTB3?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -751,7 +829,7 @@
     },
     {
       "headline": "Data: India's imports of UAE oil in May exceeded pre-war levels - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxOVzFGYWNVUkRhV1lMQ3Y4VFNGMEJjMDNEdzQ5SDB3MnRtOGJwZkxKYzZQNkdhWmpEVDZGNGNBSzByWDhTX3g5NmF3dlRJSzExSC1WQmVYd0lya2JPYmxGV2V0U0NMNENDNUpjQ011Q3B3Q054TnZ6WVhjRjdGQm9mZWh1MS1GTzZBQW01SE94RDNrVElFTXU2eGVpdkVhSXprRFhPNkd2MnNoWjdzZjZoSFJDMVlBVEhEWmdMUUlNME1TX1puN203ZmwxN3puTzJRWmxRbEZ5U216aVI5ZkFpcWMwTHZFR1VrZUp0NXVGY1BZS1RyTlBlR094bG8ySTNGdzNQSkFTY0RvZVlMZXA1TXFCUGJRLVllb0xVeDU3dnZrQUJiYmZiRzIyWFhxWEtTM2kwT09JMmdRenQ1Z21tdmpnWHotUGZFbGZSZm9RTUNwa1V0RDlnT3Y3ZDJwTG0zYU11Y1E0bmduT1BoSWlzd1JZcEg1aHlYaXA2SXo4dzA2Uy1PV0tIWDVFeFBNZnJ3X0VORTdTNExxNjFHMzVXeTFzR2YxV09mLTc5ZDhUZ1NOZXVtNjVqbUZIX09vSjBwQVVxQlVxLVcwQzRrXzlvY3dMalg4SXI2dXFNOE9MQzJ2bVpRaThoek9Za2JBa01MYlRSN3l1U2ZnZjA1SDZBV2V5cWtRbzNNbnh5aUJ1OEJ2d3FpbTFUUTFrSk9zUk1UMUxyZ2FyUUN3ak5zRmlSV2ZRLXdJTGItbUFiWkFsM2NCU0k4RDcydWFROHBDQdIB0wRBVV95cUxPZmVsUGp2RXlfd3ppNjREZkhoT0V5NUYzZ1ZOMXBIalJILURJMlIzUm5WN3BvS1VYM1ZYZkJCU3RlUHJBbE9vaVQ3RmgzdDVNNVllUE5QM2RmbGIzOG50MmVsNi1nM0x3TENkdmRYOGQ5SVFfTnlkTjFsWjhhMmJ6LWhYUDN3MHU4ZEZ4Y3UwR1A1eG8tOEpOMFQxS3NKMmM4VWRxR2xwc0E3cWh1bzdadWllTFl2Mk4wTjNGVHg3akRLMk02ajMzMjVUOW1FUVhDb1pGckdFWkdCZGlLaE9fNTNWX1Z0dXRDQ3MtYS1IRHNuNDBkeF9NamdNR1kwUUItdFd1TXVKMWFXOG5GazdMWVZ3VHRoS0VRQzhsaTZLZTVFYTlzam5vVm8zdDVPeFhoSktOQkdrV29rejZTNEpoTENZSDVabHFOT0JLSWNEd2hYejNwcnRjWmtnb2o1WEc2TDdNX1R6QWVmTEw2ZjFVbHBZNzZNX0k4b3hqSDRURmtpSnhDY0tNbHdjZlR2emJjRU1GUUNISzFUUjlwXzRLb0NPN0QwbHdNLUl6cTV5aDNoLUQtcE0wTWZDQWpwUDVNcEl5TEZ1QlNzcUwyaUVWbEUtSHcwYW9Od2ZjeWVPcldBWmd5c1Z0cC1Xb1J4b0hUNmV0VWVjTUlGdGNfZnFKWVZJbWlsR0NqX0xRODRQSjZmeGxnMXpxRjAxTkIyR0czVHJHdDNHdDBJLWtldS1EZmhJMEVPU1pYdW0ySVhVeFVOb0JTMVhod29HSFNrZXFRLTB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxPZmVsUGp2RXlfd3ppNjREZkhoT0V5NUYzZ1ZOMXBIalJILURJMlIzUm5WN3BvS1VYM1ZYZkJCU3RlUHJBbE9vaVQ3RmgzdDVNNVllUE5QM2RmbGIzOG50MmVsNi1nM0x3TENkdmRYOGQ5SVFfTnlkTjFsWjhhMmJ6LWhYUDN3MHU4ZEZ4Y3UwR1A1eG8tOEpOMFQxS3NKMmM4VWRxR2xwc0E3cWh1bzdadWllTFl2Mk4wTjNGVHg3akRLMk02ajMzMjVUOW1FUVhDb1pGckdFWkdCZGlLaE9fNTNWX1Z0dXRDQ3MtYS1IRHNuNDBkeF9NamdNR1kwUUItdFd1TXVKMWFXOG5GazdMWVZ3VHRoS0VRQzhsaTZLZTVFYTlzam5vVm8zdDVPeFhoSktOQkdrV29rejZTNEpoTENZSDVabHFOT0JLSWNEd2hYejNwcnRjWmtnb2o1WEc2TDdNX1R6QWVmTEw2ZjFVbHBZNzZNX0k4b3hqSDRURmtpSnhDY0tNbHdjZlR2emJjRU1GUUNISzFUUjlwXzRLb0NPN0QwbHdNLUl6cTV5aDNoLUQtcE0wTWZDQWpwUDVNcEl5TEZ1QlNzcUwyaUVWbEUtSHcwYW9Od2ZjeWVPcldBWmd5c1Z0cC1Xb1J4b0hUNmV0VWVjTUlGdGNfZnFKWVZJbWlsR0NqX0xRODRQSjZmeGxnMXpxRjAxTkIyR0czVHJHdDNHdDBJLWtldS1EZmhJMEVPU1pYdW0ySVhVeFVOb0JTMVhod29HSFNrZXFRLTB30gHTBEFVX3lxTE9mZWxQanZFeV93emk2NERmSGhPRXk1RjNnVk4xcEhqUkgtREkyUjNSblY3cG9LVVgzVlhmQkJTdGVQckFsT29pVDdGaDN0NU01WWVQTlAzZGZsYjM4bnQyZWw2LWczTHdMQ2R2ZFg4ZDlJUV9OeWROMWxaOGEyYnotaFhQM3cwdThkRnhjdTBHUDV4by04Sk4wVDFLc0oyYzhVZHFHbHBzQTdxaHVvN1p1aWVMWXYyTjBOM0ZUeDdqREsyTTZqMzMyNVQ5bUVRWENvWkZyR0VaR0JkaUtoT181M1ZfVnR1dENDcy1hLUhEc240MGR4X01qZ01HWTBRQi10V3VNdUoxYVc4bkZrN0xZVndUdGhLRVFDOGxpNktlNUVhOXNqbm9WbzN0NU94WGhKS05CR2tXb2t6NlM0SmhMQ1lINVpscU5PQktJY0R3aFh6M3BydGNaa2dvajVYRzZMN01fVHpBZWZMTDZmMVVscFk3Nk1fSThveGpINFRGa2lKeENjS01sd2NmVHZ6YmNFTUZRQ0hLMVRSOXBfNEtvQ083RDBsd00tSXpxNXloM2gtRC1wTTBNZkNBanBQNU1wSXlMRnVCU3NxTDJpRVZsRS1IdzBhb053ZmN5ZU9yV0FaZ3lzVnRwLVdvUnhvSFQ2ZXRVZWNNSUZ0Y19mcUpZVkltaWxHQ2pfTFE4NFBKNmZ4bGcxenFGMDFOQjJHRzNUckd0M0d0MEkta2V1LURmaEkwRU9TWlh1bTJJWFV4VU5vQlMxWGh3b0dIU2tlcVEtMHc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -1077,7 +1155,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-18T13:48:05.000Z",
-      "originalHeadline": "الإمارات تح��د سن استخدام وسائل التواصل الاجتماعي عند 15 عاماً - الشرق للأخبار"
+      "originalHeadline": "الإمارات تحدد سن استخدام وسائل التواصل الاجتماعي عند 15 عاماً - الشرق للأخبار"
     },
     {
       "headline": "DoH’s designated Centres of Excellence deliver specialised care to more than 3,000 complex cases",
@@ -1722,7 +1800,7 @@
       "originalHeadline": "الكويت: ارتفاع الرقم القياسي لأسعار المنتجين بنسبة 41.42% في الربع الأول من العام الجاري - جريدة البورصة"
     },
     {
-      "headline": "The escalation of threats puts pressure on the path of understanding with Iran - Sky News Arabia",
+      "headline": "Escalating threats put pressure on the path of understanding with Iran - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVXg1NUl0Umd2Ml9FTE1xY1duSVJxUzNjT3M2aWx6TTZGazJ0aUpxakl2U25ldDcyanVmNFdFUURMZmktWVZlckNJdTc3emlYeFU5V1F3bjh3anphdTJVakVmVFRXeWVTcmJsdDFaVlVsTGt6NDBBNnZrV0N6c3pzNzVSbVB4dHFnN0ZENG1YWWtHYmpWVHlMTVZIWjJ2NEhGTmdYV25KLUhxTkRMQmozRjZ6OHVIbUVWSW1BY24yeF9jLXVhcDBxUTNlUDRkZzl5OUNZdmxINjU3ZF9Hb2lVNUJ5cDRBVE1oLTFsckRvaVF2WlZ0clRsT3dNMHVjV2ZsV19mZ2hKQ0RIcWoyTndCSlo4bG1GRmNMWkZoNmhrUHZhVXd0VnRFcTNnU2lUbXJXRzJQYmxzSXVIeU9mdlBuaWhGYU81c0htNzRPOWY2LU1HVVcwWVVRXzhLM3VQRFU?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1730,7 +1808,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-18T12:41:43.000Z",
-      "originalHeadline": "تصاعد التهديدات يضغط ع��ى مسار التفاهم مع إيران - سكاي نيوز عربية"
+      "originalHeadline": "تصاعد التهديدات يضغط على مسار التفاهم مع إيران - سكاي نيوز عربية"
     },
     {
       "headline": "Sultan bin Ahmed witnesses MoU signing between Judicial Deptartment and DIFC Courts",
@@ -2134,78 +2212,6 @@
       "language": "ar",
       "date": "2026-06-18T11:14:39.000Z",
       "originalHeadline": "وزير خارجية السعودية يعلق وسط جدل أي دول خليجية ستمول إعادة بناء إيران - CNN Arabic"
-    },
-    {
-      "headline": "The Emir of Qatar sends a written message to the President of Singapore - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNT3hPTTFMOTFPU195S0N4Y1JOYllmQkpZRy1WRUZNSTdDSldpbkVha1FEeW5xZHIwVkdreXFzSDZ6ekQzaHF6aFNTRFQ2UG9mdHZxVFpXSkt0MjlTaEFDVXJPTklycW5NdHp3NENpRkg4c3JLMjJMUEJsQ085UHVoZjRaSmFXWi1obWNnMFBtZHozM1JTbFZMdjhkSDYyS0c0aFBpbl9nN3c1bHdhZGI4SVJJQWgwZDVMRWQ3dmZxeFhaUDROZ1B3aVk3S1p1MGlUMkVlWEpKM2V5R1hZdmVkd0dHaEVKZXp4dmpfdS1CbWd2TzVBQ2Q4Ymk0R1RZN28wTU00Mk5WQlJXUkZvVDY1dlluWDRTcmgzQW5uWXBhajdMLTVXbnpWUDJnd2dxZk8tZ3N5SGJ4TlpTZV92T25mNnlMUnZSR3BGUWw2MXZvVG5SWV9LX0dxQUtzZXVzU1l2RGR4R3VmRXhPMzNvcm5IeVdJVQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T11:13:59.000Z",
-      "originalHeadline": "أمير قطر يبعث رسالة خطية إلى رئيس سنغافورة - معلومات مباشر"
-    },
-    {
-      "headline": "Hegseth announces review of US troops in Europe, scorns some allies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzBLSHdEcWROVjZ5QTVWX2RGcG93Tng5OTZrWVVYUmVfczktSVJMSHY5ZHUwTEhfT21TandJeTVJQnMtWjhLWjNyQlRqWTE3Z19KN0dOVEFyMDMtM2FucjluN3dEY3BYaEdBcE5UeVJqb3BGa0Exa0gySnBqemttV3BWWExXMlpfbVdUWkE3enVGT1JyWEpKMkZCUF95TmlUUU04TFVmMGF1cF9mSEJGY3pNOA?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-18T11:09:29.000Z"
-    },
-    {
-      "headline": "Ministry of Tourism Releases 2025 Annual Statistical Report, Announcing Record SAR304 Billion in Total Tourism Spending",
-      "url": "https://spa.gov.sa/en/N2615138?type=news&uuid=N2615138",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-18T11:01:16.000Z"
-    },
-    {
-      "headline": "Three arrested for drug trafficking in Barka",
-      "url": "https://timesofoman.com//article/173191-three-arrested-for-drug-trafficking-in-barka",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-18T10:51:20.000Z"
-    },
-    {
-      "headline": "Saudi culture at the Beijing International Book Fair - Al Sharq News",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNRDN2MEtyc2NoRzl0Z21qRTZLcjlxUEVsV1FCdTJNNV9GQ0hpWGNNN0hTTWlfd1pRZnlwOVFrUGEwS0ppRWVtN0N4NVViZVJGcXRvc2hlWXNFWE12WlZDSVRrSnVSWk5nR0gwdkxyM0NlZXB6QkN3RmxBRDhDUzh1bFh6VmlfVHhpTkRFM3pWcThoa3lUMFlLVVJQMnRQN1JvU3BTeWtRQ2dMRkJocDNPUkRPMzVhV1pwRUYzQjU4MlUtbHVJZXJVR0xTZjFodjNZU0xSTjdwWGFpczFZNFF1Z3d4SVZfclhhdFI2aWxZd3ZYbkJfM2dPWnhpaHRoSzBzM1ZQY0RtRVhFeE93ZkMwMm9wcjVGZ0txVXNTU1NXZlNDZEZkZFRVbVBBVUFRZkQxTm1KLUhMcWphV2Y3MG1PdHVJUDAyblBLc2tRVWNsRUlzTUw0QnJMOTV2bVdDMnhGVW02RU53em0tZXFQTWtudGV3UjVUSGRiemVv?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T10:49:23.000Z",
-      "originalHeadline": "الثقافة السعودية في معرض بكين الدولي للكتاب - الشرق للأخبار"
-    },
-    {
-      "headline": "Wild Plants Reflect Northern Borders Region's Environmental Identity",
-      "url": "https://spa.gov.sa/en/N2615115?type=news&uuid=N2615115",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-18T10:47:12.000Z"
-    },
-    {
-      "headline": "Florida - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VR1BZZDhWRnBHb3hncWNPQ2VyMUx0QU9XU0dEbTdtOTdicnJTbEZyTUNkV3NTMlZ0TVJKMWc4QjFMaFRB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-18T10:46:50.000Z"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
