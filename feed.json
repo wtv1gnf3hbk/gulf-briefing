@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-19T20:02:16.129Z",
+  "updated": "2026-06-19T20:16:57.627Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "FIFA Fan Festival at World Cup 2026 empowers people to become lifesavers with CPR training",
+      "url": "https://www.wam.ae/en/details/17a5ktu-fifa-fan-festival-world-cup-2026-empowers-people",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-19T20:08:02.884Z"
+    },
+    {
+      "headline": "Saudi Arabia Condemns Terrorist Attack on Niamey International Airport",
+      "url": "https://spa.gov.sa/en/N2616007?type=news&uuid=N2616007",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-19T20:04:54.000Z"
+    },
+    {
+      "headline": "Emirates Global Endurance Village unveils international endurance racing series in over 10 nations",
+      "url": "https://www.wam.ae/en/details/17a5ktt-emirates-global-endurance-village-unveils",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-19T20:04:32.398Z"
+    },
     {
       "headline": "Youngest Emirati athlete wins by knockout in first professional boxing match in Dubai",
       "url": "https://www.wam.ae/en/details/c0syehg-youngest-emirati-athlete-wins-knockout-first",
@@ -132,18 +162,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "There is no scope for petroleum levy: Has the price of petrol in Pakistan decreased as much as it was increased?",
-      "url": "https://www.bbc.com/urdu/articles/c04yek5n12wo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-19T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "پیٹرولیم لیوی کی کوئی گنجائش نہیں : کیا پاکستان میں پیٹرول کی قیمت اُتنی ہی کم ہوئی ہے جتنی بڑھائی گئی تھی ؟"
-    },
-    {
       "headline": "Iran confirms the postponement of the meeting. Switzerland and Pakistan deny the existence of obstacles to the negotiations",
       "url": "https://www.aljazeera.net/news/2026/6/19/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%A3%D8%AC%D9%8A%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7",
       "source": "Al Jazeera Arabic",
@@ -238,6 +256,18 @@
       "originalHeadline": "علقت على اجتماع سويسرا .. الخارجية الإيرانية : بدء مفاوضات الاتفاق النهائي مع أمريكا مشروط بتنفيذ هذه البنود"
     },
     {
+      "headline": "There is no scope for petroleum levy: Has the price of petrol in Pakistan decreased as much as it was increased?",
+      "url": "https://www.bbc.com/urdu/articles/c04yek5n12wo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-19T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "پیٹرولیم لیوی کی کوئی گنجائش نہیں : کیا پاکستان میں پیٹرول کی قیمت اُتنی ہی کم ہوئی ہے جتنی بڑھائی گئی تھی ؟"
+    },
+    {
       "headline": "Dubai Press Club concludes third phase of ‘Dubai Content Creators Programme’",
       "url": "https://www.wam.ae/en/details/c0syeen-dubai-press-club-concludes-third-phase-‘dubai",
       "source": "Emirates News Agency (WAM)",
@@ -246,17 +276,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-19T18:26:23.327Z"
-    },
-    {
-      "headline": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
-      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-19T18:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Al-Riyadh newspaper | Yamal: I am not ready to play 90 minutes against Saudi Arabia",
@@ -365,6 +384,17 @@
       "date": "2026-06-19T18:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | القوات البحرية تُعوّم سفينة جلالة الملك « المدينة »"
+    },
+    {
+      "headline": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
+      "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-19T18:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "UAE Pavilion concludes successful participation at Eurosatory 2026 with over 12,500 vsitors",
@@ -648,7 +678,7 @@
     },
     {
       "headline": "Olmo: We want to score the largest number of goals against Saudi Arabia... and we passed the Cape Verde-Yallakoura match",
-      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxObjRId2dCME5LWi1zdm1tUVdGTU9oUnJlWHZJNExCQjlENTlieUg4UTdTVDFGWENseG1oZ3UzSVlBMWVPRnpOYno1N21qMm5CTHJNZ3d3bmJZS2dFVjd5N1pYeDcwMm5MSkpGSEF0elNMS0JaRmN1QmdzajJFa0RmSVowYmJoLTFDZlcyaTRmdzFTME1DVE5ubU5YelZtbE50cVpKSzBpQks1T2g1MWtFTnFndkxpYktFY003d1RieU9pSXJXZnJFalVmbWd1R2k5WVJkN0hFRXNBTUlSMDRxNjA3RDA4NGFaNVRaRmVmM0VSZFl3YzVhWm5OdXBVRUdHNk8zVW9uVU9hVy1ZSzVxMlozbWhxNXptMDJDSkxEaDkxR2RyZW11RUxCUE9ORjdqT3R6Z1drNkJiUzl6TTFaMkZOcEJFa3ZpZHJwV3NYREx3MFpCeG5GcF9McFpIOFhZOXNhRXp4RTVDLVdzQ3NqRVphYkhxV2FDbmtsdU9jS21JUzFvQklEUm1fVnliN3cyZXduTTJDOVpyT0FoTzJlRzJmZk04MDlrSkZmTVJXYndIeGlZWG9hYm5qUnhqdEVvV29Hb2RoVnBXZ3hQY3pEaWJsSVhGSHl4R3Vfa0FvTlZtenVvN0lPR195TWx4WWNHZERVQWpTajJ2UDg4cUh1amh5U3RKaUwwaTZMZ1N5SnVlY0NTc0tMY3MzZ0NBaFoySlZ1NHZrWnVjb1lhQmUyc1RaRmtmYVllWGZwTFZ0QlU4NnRmMm5UdVlfZ2FQQW8tNXM0MnZaVURUTVNOSTRhOXJ1c2lPbFFjWC1UcFBfOGcxTjTSAfgEQVVfeXFMTkI1bHdSdTYwZWR4eWN6QmVLemF3b3FUNzhDQ2tvdXFkTFd4cUswYnRXQ3hSRW01eXBBUnFkdUZidktSOTN6ZklKcE9NRlFPdURyVFVYVWhBSk5tbXJtQ3JVZHFZMjZPY3ZLa1VnMGpKck1jbFpFbXpZT0hGeHVfa3FGMi1wc1A5V01RbG9FOEF3YmNzNFRic3ZfSVBTVkdvUFpqTThuTXZsQU9hRi13eG5nalFidHlBUjVraEV5WklVQmJxVm0xQzlzMEhSZHU4YkdvTHFnOFppd3k5VGEwcjEzSHJjZVI3UDN2dU1Jc3lQRHJ3WHlNbTZ2SXRpakg0UXZIb0lfeS1LcTBaUnRpY0pWSnZWT1NyX3AzQnlaN2NIZWtZaU5UOURFXzZzdDAyUjlyZmlMQmFwQktGd3B6c0J0UTdsUXk2SXZwQ0hSVXRsSTZ1VUl1RUxLenVmZXhmNkRJQ1dabVY3UnZ6NDNXMGtIX2pvYkhiMVEyc08xTVJZQXJRSXpmQWVuVml0VDJTV0ZsaURYN19wX3pTTUJBNGVfNU1nczRicmhtdDBjOGtWMldlNE5Zc2Q5UGRsWmtpa1NOVDVwcDVRTDJXYXJWcjFNUWo5RXMwOXNEUFhZNzVHb3FnMjA1bXJiYkhydEd4eXYyOU4yS1NFeUt0RXNjLWdwSkJtb3I2MmdRbGhJOWJnb1Fhc0xuT001YVJZMFRmNHVYVFFCdERHY3J4eW84Z1dKdVFTNERJR2JCZ3VkYmRfMnpQelEyajdJTlRreWg4bGlPTnZ5VEVtUHJfVndFVy1PMHloTWRMak51UEdEX3lMTFRHU3ZrMU8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOQjVsd1J1NjBlZHh5Y3pCZUt6YXdvcVQ3OENDa291cWRMV3hxSzBidFdDeFJFbTV5cEFScWR1RmJ2S1I5M3pmSUpwT01GUU91RHJUVVhVaEFKTm1tcm1DclVkcVkyNk9jdktrVWcwakpyTWNsWkVtellPSEZ4dV9rcUYyLXBzUDlXTVFsb0U4QXdiY3M0VGJzdl9JUFNWR29QWmpNOG5NdmxBT2FGLXd4bmdqUWJ0eUFSNWtoRXlaSVVCYnFWbTFDOXMwSFJkdThiR29McWc4Wml3eTlUYTByMTNIcmNlUjdQM3Z1TUlzeVBEcndYeU1tNnZJdGlqSDRRdkhvSV95LUtxMFpSdGljSlZKdlZPU3JfcDNCeVo3Y0hla1lpTlQ5REVfNnN0MDJSOXJmaUxCYXBCS0Z3cHpzQnRRN2xReTZJdnBDSFJVdGxJNnVVSXVFTEt6dWZleGY2RElDV1ptVjdSdno0M1cwa0hfam9iSGIxUTJzTzFNUllBclFJemZBZW5WaXRUMlNXRmxpRFg3X3BfelNNQkE0ZV81TWdzNGJyaG10MGM4a1YyV2U0TllzZDlQZGxaa2lrU05UNXBwNVFMMldhclZyMU1RajlFczA5c0RQWFk3NUdvcWcyMDVtcmJiSHJ0R3h5djI5TjJLU0V5S3RFc2MtZ3BKQm1vcjYyZ1FsaEk5YmdvUWFzTG5PTTVhUlkwVGY0dVhUUUJ0REdjcnh5bzhnV0p1UVM0RElHYkJndWRiZF8yelB6UTJqN0lOVGt5aDhsaU9OdnlURW1Qcl9Wd0VXLU8weWhNZExqTnVQR0RfeUxMVEdTdmsxT9IB-ARBVV95cUxOQjVsd1J1NjBlZHh5Y3pCZUt6YXdvcVQ3OENDa291cWRMV3hxSzBidFdDeFJFbTV5cEFScWR1RmJ2S1I5M3pmSUpwT01GUU91RHJUVVhVaEFKTm1tcm1DclVkcVkyNk9jdktrVWcwakpyTWNsWkVtellPSEZ4dV9rcUYyLXBzUDlXTVFsb0U4QXdiY3M0VGJzdl9JUFNWR29QWmpNOG5NdmxBT2FGLXd4bmdqUWJ0eUFSNWtoRXlaSVVCYnFWbTFDOXMwSFJkdThiR29McWc4Wml3eTlUYTByMTNIcmNlUjdQM3Z1TUlzeVBEcndYeU1tNnZJdGlqSDRRdkhvSV95LUtxMFpSdGljSlZKdlZPU3JfcDNCeVo3Y0hla1lpTlQ5REVfNnN0MDJSOXJmaUxCYXBCS0Z3cHpzQnRRN2xReTZJdnBDSFJVdGxJNnVVSXVFTEt6dWZleGY2RElDV1ptVjdSdno0M1cwa0hfam9iSGIxUTJzTzFNUllBclFJemZBZW5WaXRUMlNXRmxpRFg3X3BfelNNQkE0ZV81TWdzNGJyaG10MGM4a1YyV2U0TllzZDlQZGxaa2lrU05UNXBwNVFMMldhclZyMU1RajlFczA5c0RQWFk3NUdvcWcyMDVtcmJiSHJ0R3h5djI5TjJLU0V5S3RFc2MtZ3BKQm1vcjYyZ1FsaEk5YmdvUWFzTG5PTTVhUlkwVGY0dVhUUUJ0REdjcnh5bzhnV0p1UVM0RElHYkJndWRiZF8yelB6UTJqN0lOVGt5aDhsaU9OdnlURW1Qcl9Wd0VXLU8weWhNZExqTnVQR0RfeUxMVEdTdmsxTw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -659,7 +689,7 @@
     },
     {
       "headline": "Olmo: We want to score the largest number of goals against Saudi Arabia... and we passed the Cape Verde-Yallakoura match",
-      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOQjVsd1J1NjBlZHh5Y3pCZUt6YXdvcVQ3OENDa291cWRMV3hxSzBidFdDeFJFbTV5cEFScWR1RmJ2S1I5M3pmSUpwT01GUU91RHJUVVhVaEFKTm1tcm1DclVkcVkyNk9jdktrVWcwakpyTWNsWkVtellPSEZ4dV9rcUYyLXBzUDlXTVFsb0U4QXdiY3M0VGJzdl9JUFNWR29QWmpNOG5NdmxBT2FGLXd4bmdqUWJ0eUFSNWtoRXlaSVVCYnFWbTFDOXMwSFJkdThiR29McWc4Wml3eTlUYTByMTNIcmNlUjdQM3Z1TUlzeVBEcndYeU1tNnZJdGlqSDRRdkhvSV95LUtxMFpSdGljSlZKdlZPU3JfcDNCeVo3Y0hla1lpTlQ5REVfNnN0MDJSOXJmaUxCYXBCS0Z3cHpzQnRRN2xReTZJdnBDSFJVdGxJNnVVSXVFTEt6dWZleGY2RElDV1ptVjdSdno0M1cwa0hfam9iSGIxUTJzTzFNUllBclFJemZBZW5WaXRUMlNXRmxpRFg3X3BfelNNQkE0ZV81TWdzNGJyaG10MGM4a1YyV2U0TllzZDlQZGxaa2lrU05UNXBwNVFMMldhclZyMU1RajlFczA5c0RQWFk3NUdvcWcyMDVtcmJiSHJ0R3h5djI5TjJLU0V5S3RFc2MtZ3BKQm1vcjYyZ1FsaEk5YmdvUWFzTG5PTTVhUlkwVGY0dVhUUUJ0REdjcnh5bzhnV0p1UVM0RElHYkJndWRiZF8yelB6UTJqN0lOVGt5aDhsaU9OdnlURW1Qcl9Wd0VXLU8weWhNZExqTnVQR0RfeUxMVEdTdmsxT9IB-ARBVV95cUxOQjVsd1J1NjBlZHh5Y3pCZUt6YXdvcVQ3OENDa291cWRMV3hxSzBidFdDeFJFbTV5cEFScWR1RmJ2S1I5M3pmSUpwT01GUU91RHJUVVhVaEFKTm1tcm1DclVkcVkyNk9jdktrVWcwakpyTWNsWkVtellPSEZ4dV9rcUYyLXBzUDlXTVFsb0U4QXdiY3M0VGJzdl9JUFNWR29QWmpNOG5NdmxBT2FGLXd4bmdqUWJ0eUFSNWtoRXlaSVVCYnFWbTFDOXMwSFJkdThiR29McWc4Wml3eTlUYTByMTNIcmNlUjdQM3Z1TUlzeVBEcndYeU1tNnZJdGlqSDRRdkhvSV95LUtxMFpSdGljSlZKdlZPU3JfcDNCeVo3Y0hla1lpTlQ5REVfNnN0MDJSOXJmaUxCYXBCS0Z3cHpzQnRRN2xReTZJdnBDSFJVdGxJNnVVSXVFTEt6dWZleGY2RElDV1ptVjdSdno0M1cwa0hfam9iSGIxUTJzTzFNUllBclFJemZBZW5WaXRUMlNXRmxpRFg3X3BfelNNQkE0ZV81TWdzNGJyaG10MGM4a1YyV2U0TllzZDlQZGxaa2lrU05UNXBwNVFMMldhclZyMU1RajlFczA5c0RQWFk3NUdvcWcyMDVtcmJiSHJ0R3h5djI5TjJLU0V5S3RFc2MtZ3BKQm1vcjYyZ1FsaEk5YmdvUWFzTG5PTTVhUlkwVGY0dVhUUUJ0REdjcnh5bzhnV0p1UVM0RElHYkJndWRiZF8yelB6UTJqN0lOVGt5aDhsaU9OdnlURW1Qcl9Wd0VXLU8weWhNZExqTnVQR0RfeUxMVEdTdmsxTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxObjRId2dCME5LWi1zdm1tUVdGTU9oUnJlWHZJNExCQjlENTlieUg4UTdTVDFGWENseG1oZ3UzSVlBMWVPRnpOYno1N21qMm5CTHJNZ3d3bmJZS2dFVjd5N1pYeDcwMm5MSkpGSEF0elNMS0JaRmN1QmdzajJFa0RmSVowYmJoLTFDZlcyaTRmdzFTME1DVE5ubU5YelZtbE50cVpKSzBpQks1T2g1MWtFTnFndkxpYktFY003d1RieU9pSXJXZnJFalVmbWd1R2k5WVJkN0hFRXNBTUlSMDRxNjA3RDA4NGFaNVRaRmVmM0VSZFl3YzVhWm5OdXBVRUdHNk8zVW9uVU9hVy1ZSzVxMlozbWhxNXptMDJDSkxEaDkxR2RyZW11RUxCUE9ORjdqT3R6Z1drNkJiUzl6TTFaMkZOcEJFa3ZpZHJwV3NYREx3MFpCeG5GcF9McFpIOFhZOXNhRXp4RTVDLVdzQ3NqRVphYkhxV2FDbmtsdU9jS21JUzFvQklEUm1fVnliN3cyZXduTTJDOVpyT0FoTzJlRzJmZk04MDlrSkZmTVJXYndIeGlZWG9hYm5qUnhqdEVvV29Hb2RoVnBXZ3hQY3pEaWJsSVhGSHl4R3Vfa0FvTlZtenVvN0lPR195TWx4WWNHZERVQWpTajJ2UDg4cUh1amh5U3RKaUwwaTZMZ1N5SnVlY0NTc0tMY3MzZ0NBaFoySlZ1NHZrWnVjb1lhQmUyc1RaRmtmYVllWGZwTFZ0QlU4NnRmMm5UdVlfZ2FQQW8tNXM0MnZaVURUTVNOSTRhOXJ1c2lPbFFjWC1UcFBfOGcxTjTSAfgEQVVfeXFMTkI1bHdSdTYwZWR4eWN6QmVLemF3b3FUNzhDQ2tvdXFkTFd4cUswYnRXQ3hSRW01eXBBUnFkdUZidktSOTN6ZklKcE9NRlFPdURyVFVYVWhBSk5tbXJtQ3JVZHFZMjZPY3ZLa1VnMGpKck1jbFpFbXpZT0hGeHVfa3FGMi1wc1A5V01RbG9FOEF3YmNzNFRic3ZfSVBTVkdvUFpqTThuTXZsQU9hRi13eG5nalFidHlBUjVraEV5WklVQmJxVm0xQzlzMEhSZHU4YkdvTHFnOFppd3k5VGEwcjEzSHJjZVI3UDN2dU1Jc3lQRHJ3WHlNbTZ2SXRpakg0UXZIb0lfeS1LcTBaUnRpY0pWSnZWT1NyX3AzQnlaN2NIZWtZaU5UOURFXzZzdDAyUjlyZmlMQmFwQktGd3B6c0J0UTdsUXk2SXZwQ0hSVXRsSTZ1VUl1RUxLenVmZXhmNkRJQ1dabVY3UnZ6NDNXMGtIX2pvYkhiMVEyc08xTVJZQXJRSXpmQWVuVml0VDJTV0ZsaURYN19wX3pTTUJBNGVfNU1nczRicmhtdDBjOGtWMldlNE5Zc2Q5UGRsWmtpa1NOVDVwcDVRTDJXYXJWcjFNUWo5RXMwOXNEUFhZNzVHb3FnMjA1bXJiYkhydEd4eXYyOU4yS1NFeUt0RXNjLWdwSkJtb3I2MmdRbGhJOWJnb1Fhc0xuT001YVJZMFRmNHVYVFFCdERHY3J4eW84Z1dKdVFTNERJR2JCZ3VkYmRfMnpQelEyajdJTlRreWg4bGlPTnZ5VEVtUHJfVndFVy1PMHloTWRMak51UEdEX3lMTFRHU3ZrMU8?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -912,7 +942,7 @@
     },
     {
       "headline": "What do Qatar's chances of qualifying for the round of 32 of the World Cup look like? - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY05XU2RPdV96ZGRtNE1vOEhwUUdFRzRkbDE3bFh4QXdTeEZ2T242c3IybEtpTnNsNG5iTS1pVEJNaWdUMm1hdlNYdUxPZXF1cC13VElVYnNubS1FZmN2SkRRblpOT3BwV3NjSDlMSmIwX0RGNmhjMGp0eDNrUGtLbjdzWTN6QWRsTUZIUktOSmNaRDZ4QmF2U0RkSGnSAZwBQVVfeXFMT2NOV1NkT3VfemRkbTRNbzhIcFFHRUc0ZGwxN2xYeEF3U3hGdk9uNnNyMmxLaU5zbDRuYk0taVRCTWlnVDJtYXZTWHVMT2VxdXAtd1RJVWJzbm0tRWZjdkpEUW5aTk9wcFdzY0g5TEpiMF9ERjZoYzBqdHgza1BrS243c1kzekFkbE1GSFJLTkpjWkQ2eEJhdlNEZEhp?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzV2U3ROVU44b25BTGNENWFMM0NBOFpfNjZUWG04d3hXWFhBMDhJQ3FFZHVBY3l4LVZVd0ZETXBwZnYzZl9TUjdqbWYxeWJjb0duMUI1WWJQN21yY1E5eFBpd2hvc0tnRkdUMG45NkR3bzJsY0tRRmtrcFNuTWVtMG9sSUM1Z0lSXzVWVDNtbWdrQdIBnAFBVV95cUxPY05XU2RPdV96ZGRtNE1vOEhwUUdFRzRkbDE3bFh4QXdTeEZ2T242c3IybEtpTnNsNG5iTS1pVEJNaWdUMm1hdlNYdUxPZXF1cC13VElVYnNubS1FZmN2SkRRblpOT3BwV3NjSDlMSmIwX0RGNmhjMGp0eDNrUGtLbjdzWTN6QWRsTUZIUktOSmNaRDZ4QmF2U0RkSGk?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -923,7 +953,7 @@
     },
     {
       "headline": "What do Qatar's chances of qualifying for the round of 32 of the World Cup look like? - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzV2U3ROVU44b25BTGNENWFMM0NBOFpfNjZUWG04d3hXWFhBMDhJQ3FFZHVBY3l4LVZVd0ZETXBwZnYzZl9TUjdqbWYxeWJjb0duMUI1WWJQN21yY1E5eFBpd2hvc0tnRkdUMG45NkR3bzJsY0tRRmtrcFNuTWVtMG9sSUM1Z0lSXzVWVDNtbWdrQdIBnAFBVV95cUxPY05XU2RPdV96ZGRtNE1vOEhwUUdFRzRkbDE3bFh4QXdTeEZ2T242c3IybEtpTnNsNG5iTS1pVEJNaWdUMm1hdlNYdUxPZXF1cC13VElVYnNubS1FZmN2SkRRblpOT3BwV3NjSDlMSmIwX0RGNmhjMGp0eDNrUGtLbjdzWTN6QWRsTUZIUktOSmNaRDZ4QmF2U0RkSGk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY05XU2RPdV96ZGRtNE1vOEhwUUdFRzRkbDE3bFh4QXdTeEZ2T242c3IybEtpTnNsNG5iTS1pVEJNaWdUMm1hdlNYdUxPZXF1cC13VElVYnNubS1FZmN2SkRRblpOT3BwV3NjSDlMSmIwX0RGNmhjMGp0eDNrUGtLbjdzWTN6QWRsTUZIUktOSmNaRDZ4QmF2U0RkSGnSAZwBQVVfeXFMT2NOV1NkT3VfemRkbTRNbzhIcFFHRUc0ZGwxN2xYeEF3U3hGdk9uNnNyMmxLaU5zbDRuYk0taVRCTWlnVDJtYXZTWHVMT2VxdXAtd1RJVWJzbm0tRWZjdkpEUW5aTk9wcFdzY0g5TEpiMF9ERjZoYzBqdHgza1BrS243c1kzekFkbE1GSFJLTkpjWkQ2eEJhdlNEZEhp?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -1014,7 +1044,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-19T15:31:00.000Z",
-      "originalHeadline": "تذاكر مجانية لجماهير السعودية قبل مواجهة إسبانيا في كأس العالم 2026 - اليوم السابع"
+      "originalHeadline": "تذاكر مجانية لجماهي�� السعودية قبل مواجهة إسبانيا في كأس العالم 2026 - اليوم السابع"
     },
     {
       "headline": "Sultan's Armed Forces Shooting Team wins top honors at UK championships",
@@ -2185,37 +2215,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-19T10:37:34.984Z"
-    },
-    {
-      "headline": "EXCLUSIVE: White House delays release of US voting machine study as midterms near - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdKZTh6WVhBclJwYXlNZ3NUNkZoTlpldEt1TGlpZzZMdjNzeGZaQUdXWXZPaHNUcloxRWhxY1N4anNvUUkxOUZtaTdkY2Z5RDhoRmh6enlCMXIzdHdta0FVb09RNTgzLVhtTlNaeXRENmtBZ1NYSU1SV3B0cmZaZndQUUV5WkdQNGlDYW9GMmhiakV3bGN4OXZZakZCTHpaYTBzWnNCeEptZw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-19T10:31:58.000Z"
-    },
-    {
-      "headline": "The UAE and France discuss enhancing cooperation in “tourism, aviation, and small and medium enterprises” - France 24",
-      "url": "https://news.google.com/rss/articles/CBMipAZBVV95cUxOUVFQY016UTdZQUR4bnY3ZXJNT1FGYk9tb3l4dUc3bHAzSzUzYWlIRG44MmtDVDZHUEQ4U1RtTXFneTZ5OTBaZjloN0dYOVNfOEQ3RnEzQ1VXYndxbGNnSWZsdjVnODk0TUxGdzRIQjNYT3J3N2dSU1RkRGtTcFE3bmhJTlU5LTV1Y0t0TFdSeVRteG1OSGVaTTZZbExWQXFiRmtOQlZCRFNMY0hTTktBeHRqaTNkRW5Xak5FV0pBTHJuUzQxZ3ZNVlpBR05vQUV3XzI4cW1kQUJ1cFFlWk94TEFJV1BXcVh6bllWOFZPRWVHcnZGYUIzLWFHOVlsN0c4QlpaLUlpc3NDcE5xQ1cxbTBKMWxodzg1RHBqZlZRLUlpNlVQUUZqdC1CX2lqVW4xVHBGaFZST0htOVoxWG51NTA4NmIwWnB6blY2dXhRMjNhemJ3WTNaNy1VVkprR3hRS3U4RzlROWVZcG04ejR5SzJTVjhDcGFDWVlBbTcwZXNGYXV0czJzUmRYVl9DTG9SQ3BiTEdxbGdhQ1k1S3NEUlZValcxcFBZQVRtQ0FqMkEwSGdncFp6eTdGU0cwYXFJSkt0ZDFEdlRxMk05WWxuT2EtUFJ5SWNlcDlfVlhMVFROOW43YzJXRTBPTEMtRUFwWnFwcmVldmc1S0NDb25YS1hRTkIzZWp4S0s4cHlqWk93ck9tV0pReFFCVTU1aDJXZm4wZjZoeXlET2lJakxUeGdDU0ttXzBaclBEb0V5c3JHMHVlZUZtbDRaLTExd2RfenU1d0xJQ3VrRnpoOHVpLTduWDBnSDZ1OGJnQjZyVGhiM1h5amZvOHRPdmwwRldNOGppSFBJNkd4dXVIM1EwSnNObWw4cmR3T2duVkhneXRsQ25MaTFKRU51eUo1anZ1a3Y1V1N5YS1BNXo4SzVwNFRSSF9EYkx4V1lPZ2FDaVVfa3F0YjNpM3R4VHUzMjVPTXM1bm8tdkJTeXpEUkRHUTByS2U1OWpVdkMzZW1yRFRLdXFPTkpRc2VmSnVmcExqcXhMcmZSbDl5QTVWUnlQckliblY?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-19T10:17:08.000Z",
-      "originalHeadline": "الإمارات وفرنسا تبحثان تعزيز التعاون في \"السياحة والطيران والمشاريع الصغيرة والمتوسطة\" - France 24"
-    },
-    {
-      "headline": "Abu Dhabi doctors successfully diagnose, treat one-in-a-million rare disease",
-      "url": "https://www.wam.ae/en/details/c0sydrj-abu-dhabi-doctors-successfully-diagnose-treat",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-19T10:15:27.464Z"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
