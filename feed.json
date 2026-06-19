@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-19T21:32:10.153Z",
+  "updated": "2026-06-19T21:47:04.629Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Scattered Rain Falls in Al-Baha Region",
+      "url": "https://spa.gov.sa/en/N2617025?type=news&uuid=N2617025",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-19T21:34:07.000Z"
+    },
+    {
+      "headline": "Trump unveils Air Force One from Qatar - Al Sharq News",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNTlZzZ3BwUHZmZ1MtSl9SZUFtZUE4czhfNFcxaWdVQjRlS2taekEydFBBQTU2dWhSenRrOVFBTGRrZFlpMGFmTmNFX1BPNmN0NEVNNmJTTk1NVzRhOFJuWGZtYzFXQVhmNGFlQ3FhQnBNb19wR2pLZmNqY1FUeDdrTmpBenc2a1BrcldwM0lUSVpzTTVOU1lWeVJBWldJNEhxSkVIR2lsNDFGRlhLV3h3dGFEYTAxOGdTLWRqVDNFSlVCWTFLZFpzOUlrd0E3cDFhTk9sQ05hZ1NSZHg2MXlna3pRQUZfa212c2tVam5vWXUyR1FuTVFQdTJLZDg4Wm90UGkyUVJ6NktWYnFiSGdPbV9Ec1ZpTV9qNEl5WGtxMlJKcmJBSTV1VkhORk1DYUZYRG16OFZsMjNKVDZGZjRZMkJNcGFCd3k4UDIwZ21tdmszby0yTEpYZTY0MnBZSVNNdUVXak5zdk93cDdGcnN5YXJkV1pUeU9LdUJUaTBncEF4WktqZWNsQzVwRmUxdw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-19T21:28:05.000Z",
+      "originalHeadline": "ترمب يكشف النقاب عن طائرة الرئاسة الهدي�� من قطر - الشرق للأخبار"
+    },
     {
       "headline": "UAE’s Bishrelt advances to women’s under-52kg judo semi-finals at Ulaanbaatar Grand Slam",
       "url": "https://www.wam.ae/en/details/17a5ku3-uae’s-bishrelt-advances-women’s-under-52kg-judo",
@@ -42,7 +63,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-19T20:49:47.000Z",
-      "originalHeadline": "عمرو أديب: مباراة قطر وكندا أغرب مباراة في النسخة الحالية من ك��س العالم - بوابة الشروق"
+      "originalHeadline": "عمرو أديب: مباراة قطر وكندا أغرب مباراة في النسخة الحالية من كأس العالم - بوابة الشروق"
     },
     {
       "headline": "The UAE strongly condemns the terrorist attack on the capital’s airport in Niger - UAE Ministry of Foreign Affairs",
@@ -277,7 +298,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-19T18:37:53.000Z",
-      "originalHeadline": "ولي العهد السعودي وملك البحرين يبحثان تطورات الأوضاع الإ��ليمية - معلومات مباشر"
+      "originalHeadline": "ولي العهد السعودي وملك البحرين يبحثان تطورات الأوضاع الإقليمية - معلومات مباشر"
     },
     {
       "headline": "Lebanese , Intl Contacts Contain South Lebanon Security Slide",
@@ -451,7 +472,7 @@
       "language": "ar",
       "date": "2026-06-19T18:15:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | ترمب : إيران لن تحصل على أي أموال ولا حتى 10 سنتات"
+      "originalHeadline": "جريدة الرياض | ترمب : إيران لن تحصل على أي أموال و��ا حتى 10 سنتات"
     },
     {
       "headline": "Al-Riyadh newspaper | Thwarting the smuggling of (182,700) tablets subject to medical circulation regulation and (22) kg of hashish in Jazan",
@@ -476,18 +497,6 @@
       "date": "2026-06-19T18:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | النرويج تحظر الذكاء الاصطناعي في المدارس الابتدائية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Türkiye bans giant World Cup screens",
-      "url": "https://www.alriyadh.com/2194183",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-19T18:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | تركيا تمنع شاشات المونديال العملاقة"
     },
     {
       "headline": "Al-Riyadh newspaper | Arsenal begins its English Premier League title defense campaign against Coventry",
@@ -524,6 +533,18 @@
       "date": "2026-06-19T18:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | القوات البحرية تُعوّم سفينة جلالة الملك « المدينة »"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Türkiye bans giant World Cup screens",
+      "url": "https://www.alriyadh.com/2194183",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-19T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تركيا تمنع شاشات المونديال العملاقة"
     },
     {
       "headline": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
@@ -1069,6 +1090,16 @@
       "originalHeadline": "وزير خارجية اليمن الأسبق للجلسة سرية: الفوضى الخلاقة كانت شعارا لإخفاء المخططات - اليوم السابع"
     },
     {
+      "headline": "Global financial crime FATF watchdog adds Iraq and Bosnia to 'grey list' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVkxLThxbEFwSGZwNC1BczVhWEdMWUc1UDdYOVJ0WGNaYThTQU4wT0kxZVAtUWxteko4QWY2VlJHeVNuMzZBdk5YM1hwbW0wR196Qjh2TEcxQm81c2RlTlVEaV9aR2lhQlljLXgwclMzWUdabTNKRE5NOXNDcXh3alNJaU1GYzlWNXYtU1Y1MlNyeXFhUGcxMnlfZXE5VEpIRDFHTVlURG9rMmk1Q2ZPYnRXWDNQOGc5?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-19T16:12:04.000Z"
+    },
+    {
       "headline": "The Saudi Crown Prince and the King of Bahrain discuss regional-Arab developments",
       "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQNVhCNERyelNvd0VxMjRnQy04MHRxZXlYNDFydU0yVDlQaHBhNXJWQ0ZMaXVneGQ5c1A0cWRYbFVyZkFJeHlDbGJPSHd2N1B6MjhDcXpKOEs5UGY4SmlNZFhwTFNOOUF2VTVkeEt0OXZnZTlndGE5RjBQYjZRSkFSWU0wNWNWMGljekhMTTJCYkcyY3VWMlJ5R2xCdUZudVQzdkdJRUFoV3dNX01KVThpU18tbS04bmNGMG5MSUxMVFpfWTYtaFVyTWtBbER1aUtnTTRKcEtlVzRhQ1VhNDA4X0Fma0RpMGRXMm9fdmtSWnd3SHdWSWZDR25lTldSRXUzWEZJMDNCTTY2RWVPaTdWS3Rzb0dsT1U2TXpydEVtVkw1UHJMVWpURGdfUXFYejhhQVR6U2t3eTJxZXJlMWRoQjlMaXF4UFVBbThqVng4NW9TUl81SGttaExUajRfTVJYWElhLUF2b1BYaVpKR2dlQ2s0STh0czNJZW1zTXNNZnZZNTE0MFVWdk9XYkU0Z3A2STdOVEdlMXB2TUprdFV0enZmckxYTVR4WE5Wekc4QUNCaUNLSk41a2J5THRpR0pobTlpVVV6LUFBSU9CUUozY2FLVkc2X2FheTlyNzgyZWY1RE9PM0pOX0ZtYXBEaUtaOGpXQjhZNEZoak4ya0l6UG9CVF9fQdIBhgRBVV95cUxQNVhCNERyelNvd0VxMjRnQy04MHRxZXlYNDFydU0yVDlQaHBhNXJWQ0ZMaXVneGQ5c1A0cWRYbFVyZkFJeHlDbGJPSHd2N1B6MjhDcXpKOEs5UGY4SmlNZFhwTFNOOUF2VTVkeEt0OXZnZTlndGE5RjBQYjZRSkFSWU0wNWNWMGljekhMTTJCYkcyY3VWMlJ5R2xCdUZudVQzdkdJRUFoV3dNX01KVThpU18tbS04bmNGMG5MSUxMVFpfWTYtaFVyTWtBbER1aUtnTTRKcEtlVzRhQ1VhNDA4X0Fma0RpMGRXMm9fdmtSWnd3SHdWSWZDR25lTldSRXUzWEZJMDNCTTY2RWVPaTdWS3Rzb0dsT1U2TXpydEVtVkw1UHJMVWpURGdfUXFYejhhQVR6U2t3eTJxZXJlMWRoQjlMaXF4UFVBbThqVng4NW9TUl81SGttaExUajRfTVJYWElhLUF2b1BYaVpKR2dlQ2s0STh0czNJZW1zTXNNZnZZNTE0MFVWdk9XYkU0Z3A2STdOVEdlMXB2TUprdFV0enZmckxYTVR4WE5Wekc4QUNCaUNLSk41a2J5THRpR0pobTlpVVV6LUFBSU9CUUozY2FLVkc2X2FheTlyNzgyZWY1RE9PM0pOX0ZtYXBEaUtaOGpXQjhZNEZoak4ya0l6UG9CVF9fQQ?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -1109,7 +1140,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-19T16:08:33.000Z",
-      "originalHeadline": "كيف تبدو حظوظ قطر با��تأهل إلى دور الـ32 من كأس العالم؟ - CNN Arabic"
+      "originalHeadline": "كيف تبدو حظوظ قطر بالتأهل إلى دور الـ32 من كأس العالم؟ - CNN Arabic"
     },
     {
       "headline": "What do Qatar's chances of qualifying for the round of 32 of the World Cup look like? - CNN Arabic",
@@ -2177,38 +2208,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-19T11:21:50.531Z"
-    },
-    {
-      "headline": "US-Iran peace accord sparks hope; Palestine urges PM Modi to act as mediator",
-      "url": "https://timesofoman.com//article/173211-us-iran-peace-accord-sparks-hope-palestine-urges-pm-modi-to-act-as-mediator",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-19T11:21:03.000Z"
-    },
-    {
-      "headline": "Kuwait aims to raise production to two million barrels per day within a week - Economy Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQVGZRTlVmVWoyREFCNUZ2RE5xdVVMWDJvWEdpV2dwTmREN2Z5eEtfbmEtNTdKc3VxU0dqYWNTNzJBdks3dGYzeHlQNFJUc3lrZlFFUzZrVlZuUXQyRGs1X2t4QS1oWjBPZ2h0OTFrM2JudzVIWjBkSHBELTV2WWdaMXFlQ2dzZEt0bmp5aVE4N3dPQUF5VjluOEJZZ1JZa19hR1EwUUl0MEVDNDIxa2pTRjBobk5keEtBelBnTVhvUmlkb2VoQkdDblNWVFV5cmcwWkdKQUpUTGFwR29sTmoyTzROM0FhU1h1NF8zMjRMY1BlSHJHdmNVcGlUd1h5eHdRZ21PSlhSVnVqNmFmbUEyUkc5Ym5tYTV0UWJXb1h5Z0NuLXJyUDk5OGVTcHBQZ25HOXZnbXU3QUNYQUlsMHVRdmY3R05GVEpWdmRGRUV1STRpUUFGbi1WMDZRVExXYlR3akNZYlNiZFdRUVQteE4xMnRDcW9xTmI3TFlqS19BbFV5RWhKeGRDNkd6Zl9zLTBFOXZ5WU9HRk9zYk5EZERXNXNLNHpFTjBMcDlsSWRITTV0ZW1iSjVvbw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-19T11:18:47.000Z",
-      "originalHeadline": "الكويت تستهدف رفع الإنتاج إلى مليوني برميل يومياً خلال أسبوع - اقتصاد سكاي نيوز عربية"
-    },
-    {
-      "headline": "Kuwait aims to raise production to two million barrels per day within a week - Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOb09taXZiQ0R5UDhEMG1ZN1hGWHlGUU9vaTU4eE1OWHg2S0c0UWtVVXh0X2RpU0JXc1ZXRXFzNWNFYzZOWVFKU3h3ai1KNDNKelFlWHd5ZkFNUkRlSm1hN20zUXYzcThGMWREUXlXc0prTHhsSDVlSXBvdldsbTlfZFVablhKZ2FPSWtzTDhXRTRub1UtTUFTVmMxY19yQWJhSUw2ektaN0xseTFYXzh2di11Z1BCdkhsUnhZYUU1NGZ2ZEJMNTNHdzZDS2FtSHV6TEJYUkp0SXRzaXVNczFONjNjbXVfR0F1Nm1NVG4yQlRyeVhnSXNod2l3UTBCbEVJckJWT1RHdm9nZlR0R290S0xrVUs4LXBZSWV2SWQyTWRqMFhfS0ZwOFBJOThpWV8tZHlxRnlQRm0xTmFVWW14TDhHUERPYzQxSFFOZXhWZjBfQkotWUhFbWlUcEMwZTcxLVAxN0hONEtTNXVtZHQ2OFhHUndvYy1VVEhqV3dZMGZzUHJWMC04NF9tTUNmMm5QTUpDbXpVcmRWRC1pM2I1UDFUYkU3VlVZN3VsZ3c2U284YXpLdzFidDZyVTfSAcIDQVVfeXFMTXMtdDlWNkJ6R0E0SFVDcVJzN3ZTWkQ1RjVVY1BvNDM4NlVYS25FYlpobDZwRXB6bDE0ZVBQRmQ0Ym9XU3Q5SFpfQ0lKS3oxVHczOGdUMU90YW40OTlISWlzeWVmRTc1UExWRzJfV0hUZzZXbTRjdC15T21WOEVfNEtnVlEwSmxoRFhSNGxSQUZPb0xlRG52dGR6MTZUNDViaTdaVFM2UTJPVEpIZjhZbjZEQ3dZX1Q5d21DX3VhM0s2d1RRR2VQT1F2YTRtSkx1VzA1YldYN0RqbHprcldubjJQX1NicEtMeGZBN2s5SUJhakY4UlVSb2pFY2VoZWxQR3V1aHJ2eXJDS1lnZ3d4S3loWEMzZTlUNnMxRVMyM3pMdVFXc1F5dTN5dHB6RFpjNlhjUjFJWUdVYTBnWkkxTDJHbUl0bWRwN215b2VfVDZJeUYtbTZUV2FxZ01jS2I1OHpyOF9GWUV5WXJfbmdZQjdoMWlDYkFxeUlWbV9MdTdJT3hZc0wzQ0lJQUNGakI4OGpTZnZCdl9kdGd6V0p1NTduY2RDeWc4UVZjaGx3WmU5RUF1TElEZzExTmZjMWszbkt3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-19T11:18:18.000Z",
-      "originalHeadline": "الكويت تستهدف رفع الإنتاج إلى مليوني برميل يومياً خلال أسبوع - سكاي نيوز عربية"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
