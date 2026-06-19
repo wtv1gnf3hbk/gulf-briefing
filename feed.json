@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-19T14:18:06.598Z",
+  "updated": "2026-06-19T14:31:09.469Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Saudi Ambassador Presents Credentials to Lebanese President",
+      "url": "https://spa.gov.sa/en/N2615829?type=news&uuid=N2615829",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-19T14:24:43.000Z"
+    },
     {
       "headline": "Silal Group, Delphy join forces to elevate local capabilities across UAE's food, agriculture sector",
       "url": "https://www.wam.ae/en/details/c0sye3a-silal-group-delphy-join-forces-elevate-local",
@@ -11,6 +21,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-19T14:06:13.034Z"
+    },
+    {
+      "headline": "Generation 5 Holding, Hanwha Aerospace sign landmark teaming agreement to manufacture K9 Howitzer in UAE",
+      "url": "https://www.wam.ae/en/details/c0sye39-generation-holding-hanwha-aerospace-sign-landmark",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-19T14:05:03.750Z"
     },
     {
       "headline": "Saudi Pavilion Concludes Participation at Eurosatory 2026 in Paris",
@@ -250,6 +270,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-19T12:11:05.099Z"
+    },
+    {
+      "headline": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-19T12:07:32.000Z"
     },
     {
       "headline": "HRH the Crown Prince Congratulates King of Spain on Anniversary of Accession to the Throne",
@@ -734,6 +764,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-19T09:44:14.000Z"
+    },
+    {
+      "headline": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-19T09:38:44.000Z"
     },
     {
       "headline": "Mahdi: There is great confidence from foreign investors in the UAE markets - Economy Sky News Arabia",
@@ -1365,6 +1405,16 @@
       "date": "2026-06-19T05:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "نائب ترامب يوجه رسالة شديدة اللهجة إلى مسؤولين إسرائيليين : لو كنت مكانكم لما هاجمت الرئيس الأمريكي"
+    },
+    {
+      "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-19T05:33:59.000Z"
     },
     {
       "headline": "What effect will the agreement between Iran and America have on Türkiye's economy?",
@@ -2155,62 +2205,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-18T23:37:32.510Z"
-    },
-    {
-      "headline": "Clashes, expulsion, and an attempt at an apology...a horrific injury to a Canadian player in the Qatar match - Yallakoora",
-      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQa1U2VUNqdkRva3FLSEVjdUE4NzI4UWxuTUM2WEd4TllBamk5bFpsdUtJRGEzc21NcVNMZlROZzF2ZmdaRERIcW1GOFB1bkc3ZkRLSTZUTUppei11YmRvV1dsbTdOLTlnYnk0NkhiUjhOVnN4TFp5S1ZlaTUzZ0hMOE1iUW1Ea2VCaWozM0JFZk5pYUg3RlQ1R29rdDl0ZEljUS1GMGU5QU1qZENhRkFkbl93MngzbDB2aUc0UVBDODMxMlp2VkxrMUh5Ums5TVRob3pfNGkwbXlhNGRhakNUMW1RTjZhU2xKa0o4bFBYZVRoZW5zd2hkUFdjUF9QN2V6VngtYVZSR1RHa2ZjU3h6QU5XX0x5US1MbWxOcXJPNk5RWGhJRS1SNk41MjlqaDZ5V3dqVHg5VU1TeFZJVGdJTFllRzNfZTNuekdZRGFNNkV5NlZCN2w0ZGFiOUpyaTZfRlR3NEFIOW1zREhLWXFMWHVwdHY2X0tlMDduaE5pbklJT2N1NFExazlJRnVnTGNmQ1pLeTIwZmt4VkM0SHdnVFhqQnRJeUUxR0xKZ0RhX1NqY2M3M3dPdGNERGdidDNfV1BFbWVBV25Tb00teUFJQUYtdS1jdFJfVnU0MTIwVzRNczByQWhvTGg4WWhhN0t6SzdsX19ONmpqRGZrNlNRei1DdVlOZkhVQm4yWmI1aFE1NFFQQ2txSXRza1EzZXoxWU9Za0RFRzbSAa4EQVVfeXFMTV90UUh5WTdPcl9MTEZhVHU0UV9zejlsd1FSWklsT3R0NWF3S0txQmhHbWY4UnpISmQ4cGo1Z0liNW94Ymg5Y1FkXzlJakVaN3dSR2ptOERWV0xYcTMzcEVGVTB5Zk5PMzZXZmlvQTZZMVJNSW83ZzFlRW9IOEdYamVUSUxIN1dRNGRfNTQ1WmgtWEF1Z0tFME1HNzFuMFpNSmFyNzIzWm1UNy1mRTAyazFuYWlkbFhjZXhHZjlHelg2NmJNekhCdlZVczVQWnVUclJFdkF6WTU5dmlUdXZSbHN5aGxrMTh0MTdTd3NKMnhEcjhaTHVJd3hDb0UtdXJLeFhRT3VybFRodzZlTEVKRHF3dDJoanpwQm0xUmlkUU9nTkFMaDFpeEs0TW1DdHVkNDI2d0xrb0hDaGhURDZxVjRoQV9TbExyUWdiYTV5Rk1yQXY5azNDV09MQVFMY19zbmFGQW9iNHR1VG4yTXJEY0xKQXpRem9paHJCNkl3UXFkR3ZrZklkaTFsNzFYbjRJZFhoRmI3bzZnWEFLNE1oM2pjQng4Q09mZzI3dVh2OVhLdm9KemRMQW9xRk04UVhmWEQwWVl2eGVBTUp1MEFPSmFsSXE5RnpBVFBGWERfQ2lkUUVqX0ZCb3QySENZRERJSGYzdklQSEJ5UkMzYlBlT3p6YjhMZk80NlY4RnVQNVR5OWJBSmY5dXFpVHhETU9VVHo3Njc1bWo0N211RDhR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T23:36:00.000Z",
-      "originalHeadline": "اشتباكات وطرد ومحاولة اعتذار.. إصابة مروعة للاعب كندا في مباراة قطر - يلاكورة"
-    },
-    {
-      "headline": "Canada's fourth wonderful goal against Qatar in the World Cup - Championships",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IR0hrM0FTRTFiUFNTdlIwZEZZcnpvYmxvaVRkQllpMkRBR1YyaHZUTjZPak1hUXQ4R1RadVZFN2lSeUxJM0cyZ2tB0gFPQVVfeXFMUGRVUzhjeUctZHFSZ2UtaUthdjVBYVdKVlJOOGFQbGlZM09QTFRjRTBkaEVHRTVPdU9NY0t1em5sM1RDSDVYeGFyakZFLUphNA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T23:34:00.000Z",
-      "originalHeadline": "هدف كندا الرابع الرائع في مرمي قطر بكاس العالم - بطولات"
-    },
-    {
-      "headline": "He went out on a stretcher.. A Canadian player suffered a horrific injury against Qatar (photos) - Masrawy",
-      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxOSEdqeGJ5UFhzMXljRkZRY0EyZHNtdUJFLWhmSmY4RlhqQUZRNWg0cUFKTHBiODhmc2ptN2tzbWdtR3BrRTlHOFNRalFJenB3TmhsTTg2eVNhTGJoZ1lQcjg2NGdGUE12TElBSllSbTE4MU93aWNOYmJkRXh5eGh4d0tFcE9sdUtfUm1NRmFEVW5pUktJSmpHSzRzR2VxU3JBMUFZcDlhdElxV3pIU0I3dkxtQTFjdmFiZVkxUE4xY3kzdmZtX3JHYy1PU25JS3RTb1hVUTFHNzJLcnJNa0s4TE4tY1hWOVJqQmxxRU5fT3ZFajJvb1lQVlNQdThKRHVyOTR6NVZ0VXBYSjNGWERJZmZ4eWZ1YkJDakdYMW1HcVQ1SHRZcmc2bTYtYnl2TTVZY01DSHZVOHVESTZnZWJlbWNWcU4yZGloWkdjX1lyUzlrdm5QNHJ1VjNYblhGOERyTlBrcGtsd0YwLUpiZFpfdTQxVkZXN0tqZjc0bGMzd2oxTm1oYzBqWHpMajNhUXk1djJuQ1NMMWdfWWxhSFRiTmM4M193NTY1YTFxLTJoc0pXWmdSVXd6RjFkUlFWUnExZ3owWTZ3SEtpSFNUaWlPOXpyYUhDelNCRWg1SVdmaEtvcGRoNkRZMVRNZ3AzX0Y0VnN6bzY5RkQ5LVdnbHF6MUxn0gGHBEFVX3lxTE9XWXFKa05ucF9pMEUzT0dnRHRxQnZpenhYYzYwSC12WGVXTUhYRWNMS3FyQm9pNDZiQmlqeVhVM0dTVWxDY2x2Z2xjdFlGVGlhUnBnUTFEbmhFQ0tMYmhudHJKU1dfUGtldzJwS1FUVktzMW9DOGVERzZPUVh4RkVNWG5RS3BpSktYRlZzZlphSzV0TFdzOWpDTDRNaXdWMmNSdXUyUjR0MldJdHAxQkIyQmd4cHFiNE1XR2JaalZEaVdGOVlCR2ZFeFRFVlZUMDViRmdndVAxTU9PZEd5dFhkTFJ2NU4tcE9oR2lPM3BZOGdBYVN3WlhRSUJia2txaVdFQXN1V3FmY0xNUUpsY2lNcTFRVWJfckREN3lrZFFZOFN4T0lCSXNIV09vemhkbXNwQzhOcjdfc0RuV0l1NWFRaU0zblluVzZtWFJHY1RkNmRPZmpSbjZQcTQ0RGV4S0JuMkcyaWI0THAwVHNFNUZVS2dOOWZWdWgxV191QWtqbWN0TGI4SmVDLWdXbXJHRklwTTJNVWJYVThwbnlnQzJrWXJJYTM1MThsZDVnR0dsQWpOU1lhZ0MxcEx5N1VXVkh1QWtudmJ1VUJFMzN4ZU9VQnFOSHVIbjNrUm4wNTljTmRVUkF2aEE3aDBIY3FDVzNhNDRKMXNsSWpKWHdBQVZqeDVubzJxZw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T23:33:10.000Z",
-      "originalHeadline": "خرج علي نقالة.. لاعب كندا يتعرض لإصابة مروعة أمام قطر (صور) - Masrawy"
-    },
-    {
-      "headline": "Eye on judgment Qatar's matches are a subject of controversy... 3 decisions in one game destroy Al-Anabi's match against Canada - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNa3c5ZFpHbl9BcExkd01HZWJBNlBqZWtIdmN4c3YwTUpUT2NpZWlac2xpbXlDbTZIaTMtblpjN3h3VEJQWVl0Qm9wTTIxaHhTV0tjdlRwbkN1bFg4VVhBSTljWWhLZzRWdHh4dUVFRjM5SFZUc0FyMDN0Ql9UWXdKNFFoWk4waEVvMlhKMXoxd2lDenpTTjhiZ0RmOWlCbUoyZWFjZG9aaU5IRjk5Sy1kbVlmTzItQUw1OUJmYmVUcW1fYTI1Z1VMTVR1UmhIUFdRWXJaT25kelRrQ01LWHpaSFZyWUZ6YWRtRkkzdHVJb01aNEd2SEZueEhLSk0zMDEzRjZCa3BrN05FYkNaVTF6ZVR3dGF2WU8zVF9aTFFmZG5WUFJraFlpa053RXJfaklfTXlRWjRBWk9LTWhWS3JJb2dWd2E3T2s1Z19RMFY2SkZfWG04QlFoSDNOeHEzMWRBeVl1Z1RITENPVnE1NHZvYg?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-18T23:30:08.000Z",
-      "originalHeadline": "عين على الحكم | مباريات قطر عنوانًا للجدل.. 3 قرارات في لعبة واحدة تدمر العنابي أمام كندا - Goal.com"
-    },
-    {
-      "headline": "Accidents, but not traffic",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5285878-%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%84%D9%83%D9%86%D9%87%D8%A7-%D9%85%D9%88%D8%B4-%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-18T23:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حوادث لكنها « موش » مرورية"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
