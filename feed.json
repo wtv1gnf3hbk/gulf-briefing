@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T10:02:38.686Z",
+  "updated": "2026-06-20T10:18:25.386Z",
   "itemCount": 300,
   "items": [
     {
@@ -10,7 +10,27 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-20T09:57:10.000Z"
+      "date": "2026-06-20T10:10:40.000Z"
+    },
+    {
+      "headline": "Over 15,200 Residency, Labor, Border Violations Recorded in One Week",
+      "url": "https://spa.gov.sa/en/N2617175?type=news&uuid=N2617175",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-20T10:07:50.000Z"
+    },
+    {
+      "headline": "Mohammed bin Rashid approves restructuring of ECI Board of Directors under chairmanship of Thani Al Zeyoudi",
+      "url": "https://www.wam.ae/en/details/c0tjtdd-mohammed-bin-rashid-approves-restructuring-eci",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-20T10:06:16.486Z"
     },
     {
       "headline": "Ministry of Education previews pioneering AI practices in Korea",
@@ -66,6 +86,18 @@
       "originalHeadline": "الإمارات وكوريا تبحثان تعزيز التعاون في التعليم والذكاء الاصطناعي - معلومات مباشر"
     },
     {
+      "headline": "The President of Bolivia declares a state of emergency after 50 days of protests... and the army moves to restore order",
+      "url": "https://arabic.cnn.com/world/article/2026/06/20/bolivias-president-declares-emergency-over-blockade-crisis",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-20T09:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رئيس بوليفيا يعلن حالة الطوارئ بعد 50 يومًا من الاحتجاجات .. والجيش يتحرك لاستعادة النظام"
+    },
+    {
       "headline": "UAE President’s Cup makes history at San Siro with first-ever Group 1 Arabian race",
       "url": "https://www.wam.ae/en/details/c0tjtai-uae-president’s-cup-makes-history-san-siro-with",
       "source": "Emirates News Agency (WAM)",
@@ -74,6 +106,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-20T09:13:46.606Z"
+    },
+    {
+      "headline": "Tomorrow.. the summer solstice announces the beginning of summer astronomically - Arabic",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNcGR0eFBlSVYteXJlVWcxRWJSVlVobzhMTlNIdFkyakNvQXF1NDlRaVpvVExTRlp0T0tvcW1KQkZzdkRuNWwzVFU5NHh4c1NpNjJOcXZrOWFUaFhCOUFNV3BTcFdJUXI2b1JscTlUdGV4RXBQd1BXVzh6WDdjRExNWXpkZEpDaGJrM2ZiWXFlTlBueVJZRVZCY3otVlFSTTZnNFZ4ZUh4cUVTcU5XamlRRklIcDJyczU1ejMtdzFmaHctWkdmLWdOVFJXdmtUU3ZPcVRBamNhMkoxZVRuTzZGNU0yMUlMdGdRVXQ3b1U3OG5lRjhUU1JfNHhHa09LczNwSEZjc25xRjhMZkNjT3dKZFllM2dKY2ZGei1OZm1IM3ZLbENEcUI3aF9hNElZRnlyWnA0Y3FyajlVZzZDYVRjX1VmM3BwWl9MdlVWVlB5T09oaDFxZng0elQzMHN5YTh6VEFWSndvU2xXbmRwVDhaVm5Dc2JrVUV0WmtIcXJHbEtoWUNaYUhVVVhGb2kwQdIBjgNBVV95cUxNcGR0eFBlSVYteXJlVWcxRWJSVlVobzhMTlNIdFkyakNvQXF1NDlRaVpvVExTRlp0T0tvcW1KQkZzdkRuNWwzVFU5NHh4c1NpNjJOcXZrOWFUaFhCOUFNV3BTcFdJUXI2b1JscTlUdGV4RXBQd1BXVzh6WDdjRExNWXpkZEpDaGJrM2ZiWXFlTlBueVJZRVZCY3otVlFSTTZnNFZ4ZUh4cUVTcU5XamlRRklIcDJyczU1ejMtdzFmaHctWkdmLWdOVFJXdmtUU3ZPcVRBamNhMkoxZVRuTzZGNU0yMUlMdGdRVXQ3b1U3OG5lRjhUU1JfNHhHa09LczNwSEZjc25xRjhMZkNjT3dKZFllM2dKY2ZGei1OZm1IM3ZLbENEcUI3aF9hNElZRnlyWnA0Y3FyajlVZzZDYVRjX1VmM3BwWl9MdlVWVlB5T09oaDFxZng0elQzMHN5YTh6VEFWSndvU2xXbmRwVDhaVm5Dc2JrVUV0WmtIcXJHbEtoWUNaYUhVVVhGb2kwQQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-20T09:07:00.000Z",
+      "originalHeadline": "غدًا.. الانقلاب الصيفي يعلن بداية الصيف فلكياً - العربية"
     },
     {
       "headline": "Autumn Transforms Jazan into Lush Landscape of Green Mountains and Flowing Valleys",
@@ -490,17 +533,6 @@
       "date": "2026-06-20T07:13:44.423Z"
     },
     {
-      "headline": "TV tonight : Jon Snow defies Alzheimer in the most moving way imaginable | Television & radio",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/tv-tonight-jon-snow-defies-alzheimers-in-the-most-moving-way-imaginable",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-20T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "The prison is full of children. A Palestinian boy recounts the details of his 20-month detention",
       "url": "https://www.aljazeera.net/politics/2026/6/20/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%85%D9%84%D9%8A%D8%A1-%D8%A8%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D8%AA%D9%89-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%8A%D8%B1%D9%88%D9%8A",
       "source": "Al Jazeera Arabic",
@@ -535,6 +567,17 @@
       "date": "2026-06-20T07:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تقارير : واشنطن تتواصل مع المعارضة الإسرائيلية بحثا عن بدائل لنتنياهو"
+    },
+    {
+      "headline": "TV tonight : Jon Snow defies Alzheimer in the most moving way imaginable | Television & radio",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/20/tv-tonight-jon-snow-defies-alzheimers-in-the-most-moving-way-imaginable",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-20T07:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Gold in Bahrain continues to stabilize with a decline in demand for safe havens - Youm7",
@@ -1283,7 +1326,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-19T23:46:28.000Z",
-      "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
+      "originalHeadline": "��لكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
     },
     {
       "headline": "Bahrain hosts a high-level diplomatic meeting between America and the Gulf states - Al-Youm Electronic Portal",
@@ -2163,47 +2206,6 @@
       "language": "ar",
       "date": "2026-06-19T19:39:04.000Z",
       "originalHeadline": "القوات الجوية الأمريكية تكشف عن ��ائرة بوينغ 747-8 المُهداة من قطر لتكون الطائرة الرئاسية الأمريكية المؤقتة - i24NEWS"
-    },
-    {
-      "headline": "1320.SE - | Stock Price &amp; Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnFDMlBNY01IcGJFMW1YbmF6Z0FkUGZzMjFiU0hCNmZwY1QyemYtNVJyVUFsQkctUDZDNldVWWJQTFNCdHBqSDRsMzBCM1k3RmV0dE9zRHdMZ0tYSmk0OVlkYXpGbWhNQi16eGxDMmViVi15c1EwRWk2ZnF1VmVWSmx1aGJIQjlK?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-19T19:38:54.000Z"
-    },
-    {
-      "headline": "KSrelief Distributes 26,300 Meals in Gaza Strip",
-      "url": "https://spa.gov.sa/en/N2615985?type=news&uuid=N2615985",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-19T19:33:15.000Z"
-    },
-    {
-      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-19T19:27:12.000Z"
-    },
-    {
-      "headline": "The Prime Minister of Canada celebrates the victory over Qatar in the World Cup and supports Koné - Yallakoora",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNb0ZMRjV2Wko1T3hzYzRuaFpGOXQxVElpcGpzVzhfcjFWa2g2OXhxcmNRdnZOWXpTTE9lVWs3YWZnaGFEeXNaU05iZGtsUjVoSFp2cVNKQ3pRNVdUTVVCbmFMZ2FkRW5FZWE0U2pmaVA5TTJIMHVMajhXYXhmMnZZTVlxMUdFNHNKZnpsVTFRUGI1LXBpSm83ai1jazc3b3RLYXFKR1hJaDJjYzFlV3cySXVYVmREUVVuLWxQZkxQbW02TlBRM1dyeVZJNHRrSFNBdER2QXdQY2Yxb0JDN2VIdFUtN1BYcXB4a2NfQTVOZkQxelFFZXFwWUNZMktuNlNjajJQY2JBbWRsVVRGNXA3WmczTklFakIxUDUtaDFaa1hBdzlJd1lvNUlLZnJ2TzBqQ05rZGR5VnFoVkJ2d3VnTXRaVG5KOWFyZ0hHOUd5bTFaN0t4dmFuUzcwcF9IUHotNnlNcE93QjNOd05IZi1FVjlZaGdtTUNTMURaRlFKai0zSk4zbGZsS3NQc0xNSzVlcTl6TzNLT3c3VFUxN2xBRjNQNWlYU2ZMTFF1b01fX2dHN1VMdjlfLTRQYU8ySWplRXJnckxpMDlTR3ExZXQzZENiblBKd05vRm1GZ2duLU43eXdmU2ZuWEdSa3EyTlVuOEpxcldyckg4SUhlOWZrRWE2N1dCTzJ6RnfSAY8EQVVfeXFMUHphdDN1MVdSYVNkNTBQT2pTcHg1X1UwT3dkNnRmWXdqUEVVYjJ5MXROcDZLT19iWDFDbkx5SUxVMXNuTk1aUzd0MU5LTzg0LWkwRmNYMXg0OTR1S3NCNUdqLTNUUXRkaWt6MGZGTHJoN0pHU3lVV0RmSXVudXF3Z0hjWklHZDlYWU1NTktVdDN6bzRHT2ZkQldBU2IxWVBXWkxmVUNkcm5Ddmgybi1GZ2s4RFZtUE5sYVFtMFpXY3lDYkJ4ZTZGTUFSNGxHTHZvcW5hR21OY1RESVVtd2l5eFJBUnpjTVI2aFpfRjI0c2d3RDI3OUJqYXprN3Jac2x2RWIzLTRJM095M2pZNUxPWEpTUXFIb0Q1RkpmNGNZWmhaVjFyZGNNdDZZODRzQTlBWHlReXdmQTFob2hwLWN1cXlGV3VGNzEtTVYxRmJ1Y3ozb1pycEx4bHBDT1ktLWFoNXViSmhjd2tnOF9QWmViQ3N5T0FMYUFkMHFoNHdvZFFkWnlfcUhiRGE0ZExTaG9sV1FFOXVGODUyZHNsN1BXX1RNeGJXU09yTTlPOWxwZmw5UGhCd1lBNFZKUXBiVWN0VWZ0MDRjRW1YMzNOUVZGOUJHLU5nVjBsb3J0LUx5SUU5dHpCTGJKcEF1RGJLOExVQ2VPOVB5RXoxZ3U5UWRJQWlacXZUd0UtZG5PZlNuUnM?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-19T19:22:00.000Z",
-      "originalHeadline": "رئيس وزراء كندا يحتفي بالفوز على قطر في كأس العالم ويدعم كونيه - يلاكورة"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
