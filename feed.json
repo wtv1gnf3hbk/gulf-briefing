@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-21T22:47:02.767Z",
+  "updated": "2026-06-21T23:03:43.702Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "GCC Secretary General Receives Italian Ambassador to Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2618008?type=news&uuid=N2618008",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-21T22:57:57.000Z"
+    },
     {
       "headline": "Saudi Arabia Provides $23.761 Billion in Support for Refugees, Visitors, Displaced Persons Worldwide",
       "url": "https://spa.gov.sa/en/N2617998?type=news&uuid=N2617998",
@@ -124,7 +134,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-21T21:19:49.000Z",
-      "originalHeadline": "قطر تعلن وقوع ان��جار داخلي في مصنع بمنطقة رأس لفان - الشرق للأخبار"
+      "originalHeadline": "قطر تعلن وقوع انفجار داخلي في مصنع بمنطقة رأس لفان - الشرق للأخبار"
     },
     {
       "headline": "An operational malfunction causes an explosion and fire at the Barzan gas facility in Qatar - Al Sharq with Bloomberg",
@@ -527,39 +537,6 @@
       "date": "2026-06-21T19:09:53.000Z"
     },
     {
-      "headline": "Israel PM Says Troops to Stay in South Lebanon as Long as Necessary",
-      "url": "https://english.aawsat.com/arab-world/5286696-israel-pm-says-troops-stay-south-lebanon-%E2%80%98-long-necessary%E2%80%99",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T19:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Arabia , Egypt , Pakistan , Türkiye Push for Swift Progress in US - Iran Talks",
-      "url": "https://english.aawsat.com/gulf/5286797-saudi-arabia-egypt-pakistan-t%C3%BCrkiye-push-swift-progress-us-iran-talks",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T19:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Vance Meets Top Iranian Officials as US Looks to Get Negotiations Back on Track",
-      "url": "https://english.aawsat.com/world/5286615-vance-meets-top-iranian-officials-us-looks-get-negotiations-back-track",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T19:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Returning to Vice City... everything we know about GTA 6 before its release",
       "url": "https://www.aljazeera.net/tech/2026/6/21/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%84%D9%89-%D9%81%D8%A7%D9%8A%D8%B3-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%83%D9%84-%D9%85%D8%A7-%D9%86%D8%B9%D8%B1%D9%81%D9%87-%D8%B9%D9%86-%D8%AC%D9%8A",
       "source": "Al Jazeera Arabic",
@@ -632,6 +609,17 @@
       "originalHeadline": "صادرات النفط العراقي نحو أمريكا تهبط إلى الصفر"
     },
     {
+      "headline": "Israel PM Says Troops to Stay in South Lebanon as Long as Necessary",
+      "url": "https://english.aawsat.com/arab-world/5286696-israel-pm-says-troops-stay-south-lebanon-%E2%80%98-long-necessary%E2%80%99",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-21T19:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Two martyrs, including a child, in Israeli bombing of Gaza",
       "url": "https://www.aljazeera.net/news/2026/6/21/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84%D8%A9-%D8%A8%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89",
       "source": "Al Jazeera Arabic",
@@ -642,6 +630,28 @@
       "date": "2026-06-21T19:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "شهيدان بينهما طفلة بقصف إسرائيلي على غزة"
+    },
+    {
+      "headline": "Saudi Arabia , Egypt , Pakistan , Türkiye Push for Swift Progress in US - Iran Talks",
+      "url": "https://english.aawsat.com/gulf/5286797-saudi-arabia-egypt-pakistan-t%C3%BCrkiye-push-swift-progress-us-iran-talks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-21T19:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Vance Meets Top Iranian Officials as US Looks to Get Negotiations Back on Track",
+      "url": "https://english.aawsat.com/world/5286615-vance-meets-top-iranian-officials-us-looks-get-negotiations-back-track",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-21T19:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Starmer Is on the Precipice as Pressure Builds for the united kingdom Leader to Resign",
@@ -2230,18 +2240,6 @@
       "date": "2026-06-21T14:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "محتجون في السويداء : مهلة 5 أيام لتأمين العودة إلى قرى الريف الغربي"
-    },
-    {
-      "headline": "Before Mars samples reach Earth... scientists call for building a biowall on the moon",
-      "url": "https://www.aljazeera.net/science/2026/6/21/%D9%82%D8%A8%D9%84-%D8%A3%D9%86-%D8%AA%D8%B5%D9%84-%D8%B9%D9%8A%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%AE-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-21T14:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "قبل أن تصل عينات المريخ إلى الأرض .. علماء يدعون لبناء جدار حيوي على القمر"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
