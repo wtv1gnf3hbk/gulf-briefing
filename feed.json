@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T04:33:29.235Z",
+  "updated": "2026-06-22T04:47:28.861Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,42 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-22T04:29:00.000Z"
+    },
+    {
+      "headline": "The “umbilical cord” is cut off... the passing of novelist Samira Al-Mana",
+      "url": "https://www.okaz.com.sa/culture/na/2253690",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-22T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« حبل السرة » ينقطع .. رحيل الروائية سميرة المانع"
+    },
+    {
+      "headline": "The Emir of Riyadh offers his condolences to the children of Badr bin Hazza Al-Dawish on the death of their father",
+      "url": "https://www.okaz.com.sa/people-situations/na/2253684",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-22T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أمير الرياض يعزّي أبناء بدر بن هزاع الدويش في وفاة والدهم"
+    },
+    {
+      "headline": "3 Israelis were killed in a plane crash near Washington",
+      "url": "https://www.okaz.com.sa/variety/na/2253692",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-22T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصرع 3 إسرائيليين في تحطم طائرة قرب واشنطن"
     },
     {
       "headline": "Sharjah Club retains UAE table tennis title",
@@ -53,6 +89,114 @@
       "language": "ar",
       "date": "2026-06-22T03:45:46.000Z",
       "originalHeadline": "قطر: 54 مصابا و18 مفقودا في حادث انفجار بمنطقة رأس لفان الصناعية - الهيئة الوطنية للإعلام"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | A cooperation agreement between “Thebes” and “King Faisal Specialist”...",
+      "url": "https://www.alriyadh.com/2194474",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | اتفاقية تعاون بين « طيبة » و « الملك فيصل التخصصي ».."
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Aramco expands its storage capabilities to enhance the reliability of its global supplies",
+      "url": "https://www.alriyadh.com/2194498",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | أرامكو توسع طاقاتها التخزينية لتعزيز موثوقية إمداداتها العالمية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Arab League confirms its rejection of any plans to liquidate the role of UNRWA",
+      "url": "https://www.alriyadh.com/2194506",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الجامعة العربية تؤكد رفض أي مخططات لتصفية دور الأونروا"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | After exceeding the ownership target, the Kingdom is moving to increase the housing supply",
+      "url": "https://www.alriyadh.com/2194494",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | بعد تجاوز مستهدف التملك .. المملكة تتجه إلى زيادة المعروض السكني"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Saudi national team is under the microscope of the international press",
+      "url": "https://www.alriyadh.com/2194511",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المنتخب السعودي تحت مجهر الصحافة العالمية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Activating comprehensive access to enhance the readiness of facilities in the Eastern Province",
+      "url": "https://www.alriyadh.com/2194476",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تفعيل الوصول الشامل لتعزيز جاهزية المنشآت بالشرقية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The foot teams of the General Authority for the Affairs of the Two Holy Mosques continue to provide field services to visitors of the Prophet’s Mosque",
+      "url": "https://www.alriyadh.com/2194510",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الفرق الراجلة للهيئة العامة للعناية بشؤون الحرمين تواصل تقديم خدماتها الميدانية لزوار المسجد النبوي"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Growth in issuance of licenses for entrepreneurial projects by 271%",
+      "url": "https://www.alriyadh.com/2194491",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | نمو إصدار رخص المشروعات الريادية 271 %"
+    },
+    {
+      "headline": "Morning victory... Oh Egypt",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/5286938-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-22T03:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "صباح النصر ... يا مصر"
     },
     {
       "headline": "Iran frustrate Belgium in goalless draw",
@@ -107,6 +251,17 @@
       "originalHeadline": "قطر: 54 مصاباً و18 مفقوداً في حادث مصنع برأس لفان- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء - تسنیم"
     },
     {
+      "headline": "Trump news at a glance : President threatens to restart attacks on Iran even as Vance cites progress in talks",
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/trump-administration-latest-updates-today",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-22T03:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Gold in the UAE moves quietly with the start of the week’s trading - Youm7",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOVjd2TVNkMHQ4RjR5S3hVcmdVTjhsU2Jpcy1hQVlYcGl5NF94REF1ZkVvZUN1YWdEQWNMdnRBVm9lc0w3Y05IMGVocjV2VWhBM3k1QnZwZGh0R1NLeWZwQ1VJWTJBUmtrcC1vdXlfNENia1hEb3FQakwyYW14NGRpaWZPZDR1X2x0M25Xbi1aZTdyUVZHWGp2MUtLWUxzWndsRUpLM1l2RXI2dm1KSDVaODBETVp3WGdfSS1uaHM2bFBvYkNxT3dWVWwzWnRFYm8xZFhDb0tsdFQzNzlqT3pkRHZVczJOcDM4Z3ItSXZObDZ2b0Y4SWJjLVBZdHNWZmxOWmJQMEU1NzEyTmZpQmpnalNYYm45c1drWlZMYXZCMUNJRF91Q2kxaVExVzZEcEpHZkg2TGJ6RDRVcTlFYXJEa3BvUWM5RmlMejZ5XzU2eHlSenJmMG5rYmt2WG1YcDFIM3pkTFRCQXhaWklqTUdfZE00XzFYVUw0VnlYcFVvWk5PNldZNzBsR1pGRHNtUjFHajJMUFdmSy0yajJHOGpOZVpxVll1SXR1aUpITXZqa1hiZmRMUGVGNFd1MnIzZlBVTFZ5YzdSTXd0cU1lYkgxV01HeF85MEVZY3VRZ9IB1wNBVV95cUxQRV9ObkRvSXU2N2loRUFRYzB0OVd2d0N0eGxMQ0RpT0RUQkRweEtjeXROa3I1cmxrcTlFd2twRlVmN0NCWk00NmF2MEdOaHUxd1ZJSUZWZ3BlZVktSE5zOG1mV2tEQlBLbE9qTzlxY3FCWkwwanFBVVQwc0k1NklYSEtBWEM0MVQ0VEJpMWhYZ3A0YVV2R3VKZDJnQVh0MWVaWUV3RGJMV3p3RG1LSmRCUF9GYnBsTVBWeVNwbDhuRzB2LTBGZXFvS3lkbzFjVDBtekQwQXpQakpYT093QmpIVVU5WnlQel9EcG1vQVNKdWhvbUNJdVJlOU1STDlUcW1ha0x5cnZPbGtpYXVlTUg3a3djV3NHbGdTX1Z5Snh1R2x2eGtaNE9UZThoUEhmU05Lc0xMazNOZ0hFNWpEeERqWHR2ZGNMZVpxaWRBRndrR212b0xXb1lDODJ1RkNTUGhsNWloUGljVkFLR1cxTjNnLURKMFlCUjhydHNpdW5UYkdQc182SGdUakF0blN3bWF6bjBBUm5McFRCS09mWFJpTmkyd3BXLVRFSF9jcFNLRFVVZ0t2OGpibWFmMGdhR2d4ZnJUVC1WeFBHV1BqUXhGZVFMMDQ4R0E?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -126,6 +281,18 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-22T02:45:27.000Z"
+    },
+    {
+      "headline": "Iran, US talks: Agreement to create a cell to end military operations in Lebanon, talks will continue",
+      "url": "https://www.bbc.com/urdu/live/c802dyn53jlt",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-22T02:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ایران ، امریکہ مذاکرات : لبنان میں فوجی کارروائیوں کے خاتمے کے لیے سیل بنانے پر اتفاق ، بات چیت جاری رہے گی"
     },
     {
       "headline": "RBI overhauls Lead Bank Scheme after review, issues new guidelines",
@@ -199,7 +366,7 @@
       "date": "2026-06-22T02:28:57.000Z"
     },
     {
-      "headline": "Qatar: 54 injured and 18 missing in an explosion in the industrial zone - Al Arabiya",
+      "headline": "Qatar: 54 injured and 18 missing in an explosion in the Arab Industrial Zone",
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNTWk4dUhvcUZmNjBKM0FNTFh2LUwtWlI1S0ZLdTZ0OWVfRnRPT1NfSm0tcmw1ekEwYUdIYVdwZDhkTGNJb2RnWEh5UDNxT2JoOFVjdkxpWmRmeGZpaHVJRkRiU0hiOHpNbFB3cm5TRWw1bjRsdzZvTzV3bVZuYmM4MkFDOTdJX3hRLXM4YldBMTlvbGRONGw5TTNsT2tpeEdOME5NMVB2NktfOEdDYUR0MEFoZ1JYY3lwR1JLRk9pcGdFZ1FZbldMbExvU1FJcXF6X190S1hiYnAySnRZUElRTWdDa1g2dzcyLTBnZHdVZEFCaDZ5R3FNa1lLWkt3WlJuUXZBcXlmc2FvclMzSGNwaE5xOTNJNjhuTmtwX0VORkJ3aU14a050YXU2OS1jNFJPYTdNWFFIWEJYWWlTU1c1MWJ0M2l5OXpaVWMydWxrUnZRTGxxN2dnbU9Hem9KUnQ4TDNKNWNzMUJsU2NlbVlCSEJYZ1pjWHVSbUhvcWhVTVNFempvc0xTdVAxTkRwUzB4aGpYcHIySmZDdkdpYXJXZ0tial83Y1pxWGFfR1A2X0VZYjFCcUVSanVvUS1uTmU2a0RTRkNWZ3ZDNW1VZ1RwVjNyb2ZKVWlPcTlkM3dCUVpWRnZQNnlOUzBIckYwczN4c2RvenU1dnlYUWVhdER1TVBWdWltNUh50gGOBEFVX3lxTE9nMW9DSURLT3BuR2RpcjZsV1FtWDFubEZzTk43cnpfUGZQYWpkUGRIUVJpWmpkSlY1S3ZSV1llNFBJRGk4T1d4cVpfR1d3Q3pJNDdUVWZxUXF3VXFqQmt1ME9HdExCckJtLWVPZDZVQWdpcU5OM3R6V0Y4OW1zNGtMamp0S2t2bW1xZHJaYTVKOHh5VlNqT2dxTmtNb1RxSF9mc1lHWnBKekR6cFRYQ3JBVkNvbVJrQ1hWQmY5MmJLclA4eVY3SU9INXN0Wi03dERlbjNfamVxVF9BTVNFY0VpRkFYUDJwLVg4bUFnZUU2SUFZbVUzbVNTYU9NVkktUHVmT3REZ0RXZGQ5LUZGUkxVbzZMRE9MTlgycHVQVUg0RzJZM2NYU0tldklTM2t0M2tOY1ZubWFPNDA2WmZHZ0hhYzdET3pqM2tXal9HNHEwRTFDVGdKQ1FDZkxKZEpnamRvUmZmQUtKdHRCNXMtcjk4bktCaTBUbG9kbFBmVjhHS0ZfR09rX0tzQTNJODRwNzMyTEltNVlGanZOLWxYV1pXa1BmbE5uV2ZtSXVFU09CdTBsQWM4OGEzM2FiXzBCMUZSaWxDOXgyTlZ2UVl1Ujdnd0sxNURpTTVsdDBiX2w0MFhGd2RWZjNzYnhlOE9JYnJjRVE1TzBMMWp6MExiMWJYQzd0NFZRUmpVUHE2aHc?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -207,7 +374,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-22T02:22:06.000Z",
-      "originalHeadline": "قطر : 54 مصابا و18 مفقودا في انفجار بالمنطقة الصناعية - العربية"
+      "originalHeadline": "قطر : 54 مصابا و18 ��فقودا في انفجار بالمنطقة الصناعية - العربية"
     },
     {
       "headline": "Qatar: 54 injured and 18 missing after an explosion in a factory - Sky News Arabia",
@@ -779,7 +946,7 @@
       "originalHeadline": "انفجار في أحد مصانع منطقة رأس لفان.. و\"قطر للطاقة\" تعلق - CNN Arabic"
     },
     {
-      "headline": "Qatar announces an internal explosion in a factory in the Ras Laffan area - Al Sharq News",
+      "headline": "Qatar announces an internal explosion in a factory in the Ras Laffan area - Al-Sharq Al-Akhar",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWURFNDl3WUx3N1M4QndXcmJaeElvbmhUdnhfcV93NEdHVHdfR2c0VllUNlktbUJUd3hTdWVfbFhhRWVfS2JYdmhIWERJOHFjRlZrU3lHWmNSdzd4eHV5U1FnYUsxTFRmUk1xYTBFdXhIWXg4MGJhTGlvZWQtVExjXzBoMmV1Q0tnTmlIMmdYTUVNRmRIZ0dlSUZOMERKRElCVVJ3VEdqb0F6bE50YVVxSUplTGJIV1RnQkVwWHdFZkl2YXlzVEZ0S29GWVNjYW14NFZqalhlb1QyU2ZzTldIRy15aGJjT2FHVGwyYnJ6SFJYbV92bDRWN1NudHZvdVhYRzJLLW9tY3NocEN1RDVlN1JiOWFsTXIxcktWRXJ0SVR0NWVPOUNDSEpEVlo3M25uSjYxU1FyWk10cUxndE1kX1V3RVZXX2VHLU9tWHVha0JvTFRTZndINHZ1a2VDdngwcV9RODFaRFgwajRHeHlQSkVoaXhRcm5SYXJMelppRExnaWdIU2tReERYSTl1Tm01Z1hTeUtqeXBUbHNpUDI0?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -787,7 +954,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-21T21:19:49.000Z",
-      "originalHeadline": "قطر تعلن وقوع انفجار داخلي في مصنع بمنطقة رأس لفان - الشرق للأخبار"
+      "originalHeadline": "قطر تعلن وقوع انفجار داخلي في مصنع بمنطقة رأس لفان - الشرق للأخ��ار"
     },
     {
       "headline": "An operational malfunction causes an explosion and fire at the Barzan gas facility in Qatar - Al Sharq with Bloomberg",
@@ -2078,168 +2245,6 @@
       "language": "ar",
       "date": "2026-06-21T16:26:00.000Z",
       "originalHeadline": "«سجدة شكر» أول رد فعل من لامين يامال بعد هدفه فى مرمى السعودية.. فيديو - اليوم السابع"
-    },
-    {
-      "headline": "“Sajda Shukr” is the first reaction from Lamine Yamal after his goal against Saudi Arabia.. Video - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORm5TYW1oMXQyaW9UYXVHYXp5TWNpYm42Y3NXYlh0RHFBc3lOQ1g0YnVfX3E1RmRYY1ZmQmEyZ0FDaW00TzVTVW1yZG5OUVlULTVHbV9nbTJvNzdPeFpSV21vbkp6czJkOHlZQmxueUhTRTV4ZGxPMGFrZkRRQVVBMS0xaTA3UENKTExBb0JraF9TOWtpX2RKLWhmd3NFLVBiS3hZYzV0R19IWEtWQ0VzNGlvbW9KcFBTRGF4UzlUQkE5VVRnQVdmUDkzR0toNGhKWWFDV2lxX1VuOElrdHNwTGlZbElkUkdZMGVtbzJxbDQ2WHZVQkUybXFhMFNtTWJsb29IYUJITjJwcDdTN1lhakEtblRJLXo4VERoSFJVdGVEc0VVeENxblFlc25xaE5wTEVoYk11WWdlVGRrNEVQNkg2ZTFsclVudVZ5c1Rzb2VlbWxGbjQ2UHVrVUMxeWZnY1FnOGZKM3Q0bFpGckZTQVNrMTBMRktSLUlpeEFQdVo2cTdWNFE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T16:26:00.000Z",
-      "originalHeadline": "«سجدة شكر» أول رد فعل من لامين يامال بعد هدفه فى مرمى السعودية.. فيديو - اليوم السابع"
-    },
-    {
-      "headline": "Spain vs. Saudi Arabia.. El Matador scores two consecutive braces and leads 3-0 (video) - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNRlJmSzMtY2xFTTZsdWotMFBoQ0JOZUE4cjFfdUJmS1RtYjlUdUdHeV9lLUw0Mjd4cFIyQksweEoweC1sSEpwM2hDSl9MclB5OERhbmFwZko1amszVTMzZ3d3alhjWmRfTmV6RGZxX2R3RW44bUdlRUdwWHR6cC1oRTZmaWZOZ3l5cEdWX0JPbXAxQ29iaVU4UUIybnNTQlh1eTRodWpDN0R5a2JBNHJNNGtkSmp4YWhGYlE2MGZrYmtKTjEzRk92M2FnQk5GS2JmUmowazJlTHlDYVdJcU1qR0tTVHZrQURNS2U1b3hsdWhDbG44WGtXUlRwcGtubkRwTVdKeU5oTVljdjBWWXhrOXV1UXlWM21fZXE5eHFaTFJ5bERZUk4waEU4WUNiRE56ZFhaOW1YYVBJZHVPejVhaTdBWTlLZFNBNzlNSlh0Y2MyYW1iSUpqWTVmRGluYWFtQXM1WU04N1pyTWk3eEJmTE1oamRpT1RPUFp4Njh1RFBsRXd5Rl8yU1kzQlcwZVoyMFAteFpkaWotaEg2V2RQeGs4RldiS2gwQzlDdnkzc0hYVnhFTEstWFh3M1lwTWVkQlBidk9mVzlXR0hjQkVScWlKcU04OXc3aWJCc0htVnNPZVp0N19Nb05MVVltT05R0gHrA0FVX3lxTE5Jang2OExidHp0dmI5empFNDBka2VjVnBMOGhyWE5YWFphY0hidVJydVVNZXlJWlpuTWlXZGJDZS13SmJEUU1ldmRKd3VhLXByZWQtal9zTFBHSEp5R2pBSFN0Umg4cDBJb3IzUzJJRHlMVVdQZjZ4cnRjUWRqX2JzMjNsNFdLZG5QUjhfUmVjdkd2ZUxRNDBhZ1lvVl9HRllsUm0yc2d0MWZmU21EWlZtOHFURW15TzJFbTU0b2l1R19ERFRwcFR5Y0JoREVGVmZabjdFd05sdk1DUGR0X0poeFdnTjNYZ25pLTRlLW9ta1RQNE1wRDhURzJDcWNRaU1oZEFseE1YTGF3X2ZscndhV2tEbEFQZFJlRzd0NmNUcFlNZWpDUVROS3BfZmRERFRQV3dvR19oOWdhRjVVX3Q3WXZ4al9vQ3BiMmFPY1kwdnMtSE55azZtTk9DcTlpWXJnb1NUUWpjeFd2YzRzN1JWQ0IyWi1RSmk4R2lyV0daeFEzRVF6VUJjZUxpZFB4Y0k4bjgtVG9iN2Q4SHZfVTlWdF95WmV3Z0Q3MzFyeDJnTk8zS0pZRF9hNy1ab2NLRTAwaW9mN2hCRWNLWHNEQkxuSTk5M0FZMTY3bktxTS1FR2RfY3M5NE5pU0ow?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T16:26:00.000Z",
-      "originalHeadline": "إسبانيا ضد السعودية.. الماتادور يسجل ثنائية متتالية ويتقدم 3-0 (فيديو) - اليوم السابع"
-    },
-    {
-      "headline": "Goals of the match between Spain and Saudi Arabia in the World Cup - Championships",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSZDZ2OWxkWFhXb0VRVnpwNjRsY0YwZG9Lc2NBb2FMMlpBRzVPR3pFTkNZQkh2b0pNN1VfMTZWOVJwWmdIeDhncEln0gFPQVVfeXFMTWc0enlBUGc5SF9NMUJlWXZ3T1FQOVJpVjlkVUo4R2Rvcm5MQWYxUkdoUkRMU3pXeHVlU1hGcGVLbVFjYjZodmdEeFFuRjkzTQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T16:22:00.000Z",
-      "originalHeadline": "اهداف مباراة اسبانيا والسعودية في كأس العالم - بطولات"
-    },
-    {
-      "headline": "Lamine Yamal's goal against Saudi Arabia in the World Cup - Championships",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kZko1MTNKc0VxS0xBbUZoOWktVERoLXBHUEtlWnlQd1B4MEhQZ2JJZ0p6QUM1bGhjSl81alhHeWNqUks4Q2VqdTd30gFPQVVfeXFMTl92YW53Uk4zYjd4Ync4VlVFY0lRV3pMRHhXTnRITGFGcU43MUFIa1ptbnRVbGdYemVTaWlXVC1fU3pCdFRtR2xveFlua0ZiUQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T16:20:00.000Z",
-      "originalHeadline": "هدف لامين يامال في مرمي السعودية بكأس العالم - بطولات"
-    },
-    {
-      "headline": "3020.SE - | Stock Price &amp; Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1JhdHdwRURlVzZ3Umc1U0Y0UTlsMUxDSWZxT1RpUjY5WElrY0FYM1NISE9rNWhsSjlrLThDNDdHajdPYmFTa1VBR1ZHZVNCa2tfamRsNXVtN3V2Z0ZETEtHcFZOMEU0emthRDVSTFFWaUI0OTJoUVpCb3l5MHU1OFhjUlJiYVB1SVNDNUgwd3E?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-21T16:17:33.000Z"
-    },
-    {
-      "headline": "The person who caused the Karim Abdel Aleem incident surrenders himself to the security authorities",
-      "url": "https://www.okaz.com.sa/culture/art/2253616",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المتسبب في حادثة كريم عبد العليم يسلم نفسه للجهات الأمنية"
-    },
-    {
-      "headline": "After his health condition deteriorated, Fadel Shaker’s son demands his father’s release",
-      "url": "https://www.okaz.com.sa/culture/art/2253618",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد تدهور حالته الصحية .. نجل فضل شاكر يطالب بالإفراج عن والده"
-    },
-    {
-      "headline": "After his release from prison, “Al-Bunni Adam Plumber” opens a new center despite the warnings",
-      "url": "https://www.okaz.com.sa/variety/na/2253608",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد خروجه من السجن .. « سمكري البني آدمين » يفتتح مركزًا جديدًا رغم التحذيرات"
-    },
-    {
-      "headline": "The death of Walid Al-Farraj’s father, and prayers will be prayed for him tomorrow at Al-Furqan Mosque in Dammam",
-      "url": "https://www.okaz.com.sa/people-situations/na/2253612",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وفاة والد وليد الفراج والصلاة عليه غداً في جامع الفرقان بالدمام"
-    },
-    {
-      "headline": "The Minister of Foreign Affairs participates in the Quartet meeting in Cairo",
-      "url": "https://www.okaz.com.sa/local/saudi-arabia/2253604",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وزير الخارجية يشارك في الاجتماع الرباعي بالقاهرة"
-    },
-    {
-      "headline": "The Minister of Justice sponsors the graduation of the fifth batch of the Higher Diploma in Judicial Studies",
-      "url": "https://www.okaz.com.sa/local/saudi-arabia/2253617",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وزير العدل يرعى تخريج الدفعة الخامسة من الدبلوم العالي للدراسات القضائية"
-    },
-    {
-      "headline": "Urgent | Pakistani Foreign Minister: What is coming is more difficult in the course of the talks between Washington and Tehran",
-      "url": "https://www.okaz.com.sa/politics/na/2253600",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عاجل | وزير خارجية باكستان : القادم أصعب في مسار المحادثات بين واشنطن وطهران"
-    },
-    {
-      "headline": "For the first time...the delegations of America and Iran face to face in Switzerland",
-      "url": "https://www.okaz.com.sa/politics/na/2253613",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لأول مرة .. وفدا أمريكا وإيران وجهاً لوجه في سويسرا"
-    },
-    {
-      "headline": "Recreational agriculture",
-      "url": "https://www.okaz.com.sa/economy/na/2253610",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الزراعة الترفيهية"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
