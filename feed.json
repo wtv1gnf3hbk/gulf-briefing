@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-22T15:03:46.636Z",
+  "updated": "2026-06-22T15:16:14.286Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Al Wafa Centre showcases craft skills of participants",
+      "url": "https://timesofoman.com//article/173372-al-wafa-centre-showcases-craft-skills-of-participants",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-06-22T15:14:06.000Z"
+    },
+    {
+      "headline": "Kuwait expresses its full sympathy and solidarity with Qatar in the explosion of the Ras Laffan industrial facility - Al-Ahram Gate",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RlpPLUFyTm1NUGQ0U0JTUEdFUVppb3EydE5pVEl4TDd6U1hlV0xpTFE4M3ptMmhWRUVkRVowR1l0ZXZSVURvSWlYbDV1RHAyeXlHMmR3?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T15:09:00.000Z",
+      "originalHeadline": "الكويت تعرب عن تعاطفها وتضامنها الكامل مع قطر في انفجار منشأة رأس لفان الصناعية - بوابة الأهرام"
+    },
+    {
+      "headline": "Royal Reserve Documents First Confirmed Black-winged Kite Nesting in King Abdulaziz Reserve",
+      "url": "https://spa.gov.sa/en/N2618493?type=news&uuid=N2618493",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-22T15:08:15.000Z"
+    },
+    {
+      "headline": "Ahmed bin Mohammed honours national media organisations, Emirati media leaders, content creators",
+      "url": "https://www.wam.ae/en/details/c0uqozm-ahmed-bin-mohammed-honours-national-media",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-22T15:04:18.605Z"
+    },
     {
       "headline": "Bodour Al Qasimi celebrates 842 AUS graduates",
       "url": "https://www.wam.ae/en/details/c0uqozl-bodour-qasimi-celebrates-842-aus-graduates",
@@ -63,6 +104,16 @@
       "date": "2026-06-22T14:49:55.000Z"
     },
     {
+      "headline": "US authorizes Iranian oil sales amid talks on final peace deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-22T14:46:30.000Z"
+    },
+    {
       "headline": "Sri Lanka logs over 1000 dengue cases in 24 hours",
       "url": "https://timesofoman.com//article/173370-sri-lanka-logs-over-1000-dengue-cases-in-24-hours",
       "source": "Times of Oman",
@@ -71,6 +122,30 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-22T14:45:11.000Z"
+    },
+    {
+      "headline": "Electronic chips...a new arena for strategic competition between China and the United States",
+      "url": "https://www.aljazeera.net/encyclopedia/2026/6/22/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B3%D8%A7%D8%AD%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-22T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الرقائق الإلكترونية .. ساحة جديدة للتنافس الاستراتيجي بين الصين والولايات المتحدة"
+    },
+    {
+      "headline": "The Sharia approach in Lebanon after Trump’s idea... realistic priorities and complications?",
+      "url": "https://www.aljazeera.net/news/2026/6/22/%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D9%81%D9%83%D8%B1%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-22T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مقاربة الشرع في لبنان بعد فكرة ترمب .. واقعية أولويات وتعقيدات ؟"
     },
     {
       "headline": "Zayed University students complete sustainability field research programme in Thailand",
@@ -93,7 +168,7 @@
       "date": "2026-06-22T14:29:50.000Z"
     },
     {
-      "headline": "Saudi oil exports fall to the lowest level since 2002 - Al Jazeera",
+      "headline": "Saudi oil exports fall to their lowest level since 2002 - Al Jazeera Net",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPMHc3UldYdFlXT2xTOV94Q0pLbDNkOU94SUdOejgtdkRFSFl3S1Z5MW9BaUtrOUdUeXE3U21jV3Roa2haaC1UU3lMdVdpeUNNdHlLSHBtQlY3al9UTlhMMGVmRi1raVVXUmk0MnJmN1dwSFBRcDF5YVBoVnBSYUxWNkVaV05uT0p5TnZxM2MyMVBuWklSWVA4cjNyd21WRFg4R2EwaVAyUXF2SjhsbkU1T2VJaFBhdjU4SE1rV00tX2J2M1pwSUEyYTlTVXp2eXU3M1Q4LTVkMGE5N0NCa1JJOVNEZzdta2JteWlrdjBkYkZmZk5WOUk2TmVzY3V1SXlJY2dDbWllaTNYcDlRODhnUEUtTlkySWFLRWdpN1dObmFnUGU4ZGdJZ1p0d0RfSnFteHhzMkdMcEM2ZjJWcWJn0gHEAkFVX3lxTFBJOGZybFZpY1VSaWZXOXRiVjc2eS11SzRkYUhLUzA1Zm9YYkFaaW5aVXpsaDRKQ3hJbVpObUNzVHhQajdVYV94UUJkeE1CSlVYSllzd2Z3VmU3QWRyN0syMkg2bF93dFNfdXRMREpKR0hod2l2MFlWT3E3TTdMQUFFY0lhTHhrbjZJWV9mWXdqQU50Z0JvR0VkcFFDVWl6SS1MaFlQUWg1a1dNZlJGY2c5ejNMcEZXcTNCQ3Z1X1hnSVY3ajlLeG8xUXpFLTlOLWhaYmNZLVpFOEN6ZGVjdk8zZ0NPNlMzOE9tSmd1dkItd0xmQkVmOHRkSGI5bzJRaC1rTXZydjBQZk1xcEw5UkFMNnQ2eEl5VjZWeG05NTY3MGZ6SUxqcUxKUXRpSHJQVHV1WWZZMk1PZWNRRl9VVEpmQkxrYg?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -101,7 +176,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-22T14:28:37.000Z",
-      "originalHeadline": "صادرات النفط السعودية تهبط لأدنى مستوى منذ عام 2002 - الجزيرة ن��"
+      "originalHeadline": "صادرات النفط السعودية تهبط لأدنى مستوى منذ عام 2002 - الجزيرة نت"
     },
     {
       "headline": "Maqsoud Kruse participates in high-level engagements at European Parliament",
@@ -209,7 +284,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-06-22T14:13:21.000Z",
+      "date": "2026-06-22T14:13:06.000Z",
       "originalHeadline": "قطر.. 13 ضحية وعشرات المصابين في حادث انفجار بمنطقة رأس لفان الصناعية - الشرق للأخبار"
     },
     {
@@ -262,6 +337,17 @@
       "language": "ar",
       "date": "2026-06-22T14:00:29.000Z",
       "originalHeadline": "غرفة قطر تبحث تعزيز التعاون الأقتصادي والتجاري مع وفد فنلندي - معلومات مباشر"
+    },
+    {
+      "headline": "Kombe la Dunia 2026 : Jinsi BBC inavyoziorodhesha timu zote baada ya mzunguko wa kwanza wa mechi",
+      "url": "https://www.bbc.com/swahili/articles/cp36en6dnx1o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-22T14:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "MoHAP sets out national roadmap to eliminate HPV-related diseases",
@@ -427,7 +513,7 @@
       "date": "2026-06-22T13:32:30.443Z"
     },
     {
-      "headline": "Lebanese exports to Saudi Arabia are likely to return to pre-ban levels - Al Sharq with Bloomberg",
+      "headline": "Lebanese exports to Saudi Arabia are likely to return to pre-ban levels - Sharq Economy with Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPSWwyY3lnemREVWdnbU5Qa2Rjd19fd0VqTzliaUFXdm0zNnRHRFR5MFQ1TGdYaHcxY1lLaDE0WHRCSmoyZEVDYy05ZkhSbVJnRWpRR2o4MVlFZ0thNE80bEhmb19BSEh2b053NlRCSk5BdHJpVDYwVU5NSHU3cTlGZ2NLRVBGQ2ZsLThaNFBRazBsYW1uVU1MUVFscFhNLWQ0a3FaVjZBV1NZd0U2S2xmbWFaZGt2Q1VycUpMdzZHXy1WUDlmU0IxM0tFWVMzY2VSMF9rekswV2FmU3J0MGptWXo4ZEprSVJQS2diTEZtXzBDd0JVNHZaWlAzc0lnWDhtNU1IaFNIUU1aLWhyazNvcUVxWjVfRlkyRzVaWUJ0bkFBQmh1MDhpRzFnc3RxWUczSkczZzkwQndjMHRVRFpZdDl4dzJaT1FNUDJBcWdHdWdmUW5rdHdwVGY0UDZQSlhYdFJYeEVJNVM5S0hBcHF0b013WmJaMm1JNHI2YndQeWgwWHFZT01xbm14VjRrVHFHbjJfbG1FTWNKMGxhU3FtTUFhVEJTa0dfM3VlSmpxZTdhdHlWc19HemVnS25hNV9Ld29CcDlMOHE3d0k5V2lRRTVkQTRJa0JlSG85d0U0bmUxQUczWXdGN3RJOTBIRzUwQ3VieHUxV1U3UQ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -435,7 +521,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-22T13:30:48.000Z",
-      "originalHeadline": "الصادرات اللبنانية إلى السعودية مرشحة للعودة إلى مستويات ما قبل الحظر - الشرق مع بلومبرغ"
+      "originalHeadline": "الصادرات اللبنانية إلى السعودية مرشحة للعودة إلى مستويات ما قبل الحظر - اقتصاد الشرق مع بلومبرغ"
     },
     {
       "headline": "Trump's deputy talks about an important achievement that occurred in Switzerland regarding the Iranian nuclear weapon",
@@ -490,16 +576,6 @@
       "language": "ar",
       "date": "2026-06-22T13:26:27.000Z",
       "originalHeadline": "الصادرات اللبنانية إلى السعودية مرشحة للعودة إلى مستويات ما قبل الحظر - اقتصاد الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "US issues Iran-related general license for oil sales - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-22T13:22:15.000Z"
     },
     {
       "headline": "Qatar: 13 people died in the explosion in the Ras Laffan area - Al Arabiya",
@@ -2077,89 +2153,6 @@
       "date": "2026-06-22T08:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الترفيه .. صناعة الفرح وأحد وجوه التحول السعودي"
-    },
-    {
-      "headline": "Alienation and meaning-making in the experience of the Arab intellectual..",
-      "url": "https://www.okaz.com.sa/articles/authors/2253665",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الغربة وصناعة المعنى في تجربة المثقف العربي .."
-    },
-    {
-      "headline": "So that the Gulf does not get stung twice!",
-      "url": "https://www.okaz.com.sa/articles/authors/2253670",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حتى لا يُلدغ الخليج مرتين !"
-    },
-    {
-      "headline": "Despite the differences and estrangement...an unexpected message from David Beckham to his son",
-      "url": "https://www.okaz.com.sa/variety/na/2253706",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "رغم الخلافات والقطيعة .. رسالة غير متوقعة من ديفيد بيكهام لابنه"
-    },
-    {
-      "headline": "An airplane wing cuts the neck of a French paratrooper in mid-air",
-      "url": "https://www.okaz.com.sa/variety/na/2253704",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جناح طائرة يقطع رقبة مظلي فرنسي في الجو"
-    },
-    {
-      "headline": "France and Israel... years of friendship and rivalry",
-      "url": "https://www.okaz.com.sa/articles/authors/2253669",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "فرنسا وإسرائيل .. سنوات الود والخصام"
-    },
-    {
-      "headline": "Scientific surprise: Between the ages of 30 and 40, the immune system begins to gradually weaken",
-      "url": "https://www.okaz.com.sa/variety/na/2253701",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-22T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مفاجأة علمية : بين 30 و40 عاماً .. الجهاز المناعي يبدأ بالضعف تدريجياً"
-    },
-    {
-      "headline": "The UAE and South Korea are discussing enhancing cooperation in 5 sectors - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOOFAyU0V6dnlydl9wRjhBM2stbGdUcWFibHBXNnlSZ0U3ZjU2OWJUYVYzR0JaV2lvbGZFY3MxY1VZd2ZjTG80TE9zZkpKNExSWjZEU3JSdTl0aWItUUVId0lqdXhHTkhjR19kUkpUeE1CaUdiakI1dF9wNzR6QTJwYXZtWEhlSVM5Zy1NQmwybU5IcmVxNGgwRmxyX2gwTmlFY3JiSjBnRTdLSllnNXFLeFd0Q25Kb3p2dDA1a2d6UzFQTk04REt6VlpBNlpBbjIxQ0JvN1FiLXFZMFJ2WTRXaFJVRVpJMHdxTXVLdHZ2OTZjZW1hSUVBbGdMZHRkUWVCUlVjR1hFUG1oX0YzOU15WEphb3h3NXcwaVU1NDkxcHU2cEhCdVpSd2lENGVtQ3RUa29xMlpVN1ljOThKU0lhbFlwVUVTWFhkR3JYeGw5OHVNazJWWDZsTzk5ZjFZaWdjUThTdUE0am1oTjRORkJQcVhRT25jelFmR0RIX25mTGVUTklST3ZUSG1kV0YydGdDODQ4aUVrNW1zRVpVOVo4RE1MZi10cXFRcjJkc3NIT2xXbk03aVJDcjBBalJyVUI3WEJ4NzZKX05Fay1QQXNiVjZlQlZsZllfU1ozcU1R?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-22T08:43:37.000Z",
-      "originalHeadline": "الإمارات وكوريا الجنوبية تبحثان تعزيز التعاون في 5 قطاعات - معلومات مباشر"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
