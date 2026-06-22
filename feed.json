@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-22T08:18:32.529Z",
+  "updated": "2026-06-22T08:33:33.244Z",
   "itemCount": 300,
   "items": [
     {
-      "headline": "Nahyan bin Mubarak attends graduation of Taryam American Private School's 10th cohort",
-      "url": "https://www.wam.ae/en/details/c0uqof7-nahyan-bin-mubarak-attends-graduation-taryam",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
+      "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
       "language": "en",
-      "date": "2026-06-22T08:16:09.089Z"
+      "date": "2026-06-22T08:27:33.000Z"
     },
     {
       "headline": "Iran war - AP News",
@@ -20,7 +20,17 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-22T08:11:37.000Z"
+      "date": "2026-06-22T08:25:48.000Z"
+    },
+    {
+      "headline": "Nahyan bin Mubarak attends graduation of Taryam American Private School's 10th cohort",
+      "url": "https://www.wam.ae/en/details/c0uqof7-nahyan-bin-mubarak-attends-graduation-taryam",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-22T08:16:09.089Z"
     },
     {
       "headline": "Uruguay vs. Cape Verde.. Find out the Saudi Arabia group standings - Youm7",
@@ -84,14 +94,39 @@
       "date": "2026-06-22T07:48:55.356Z"
     },
     {
-      "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
+      "headline": "Ayesha Omar: How theft of beach photos during vacation hurt the actress",
+      "url": "https://www.bbc.com/urdu/articles/c5yzl8jeqz4o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
       "language": "en",
-      "date": "2026-06-22T07:43:07.000Z"
+      "date": "2026-06-22T07:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عائشہ عمر : چھٹیوں کے دوران ساحل سمندر پر لی گئی تصاویر کی چوری نے اداکارہ کو کیسے نقصان پہنچایا"
+    },
+    {
+      "headline": "Ali Raza Beranvand: Discussions about the Iranian goalkeeper in the FIFA World Cup, which was also praised by Araqchi and Qalibaf.",
+      "url": "https://www.bbc.com/urdu/articles/c30yz8756jzo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-22T07:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "علی رضا بیرانوند : فیفا ورلڈ کپ میں ایرانی گول کیپر کے چرچے جنھیں عراقچی اور قالیباف نے بھی داد دی"
+    },
+    {
+      "headline": "Gold prices rose in the UAE today, Monday, and 21 karat gold recorded 433.46 dirhams - Mubasher Info",
+      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNYmNvWTMyMDNnZGZaRjl6NFg5eWVPaVNVR29rc3pSd3RuNW5hVlhYa0RiYWlMVkZiV2o1Z1pScklPNEdNQW9tY0VyQ3FXVG5GQlB3czBuanBNWG1PaDFMX0lNenZuQjhIRmRDLTByNC1MNXhqR2F5TDBGVHVSQlVYOS14VzlyRWhzbDNTcXZ2TjYwSlF4TzhtdV9QMWNKR3lJMFVXQTRkN2wtYkVHMFg4cmlMc2x3cTd0aGpSTkRTb01XcUk2U24tWkdpRTVwdm10UnItNk45enBsV3ZsWHZrM0tORndFSkh0RkdENlZsc1VlcFlTNEM5UWk3YkxTM0VIU0hrRDRHN1FuVVJJeWlYLWVHcTFYaFlQcXpqZlhCSUlUcGxab2VFamhEZG5EeVp0ejRCRUQ4eDFLMHVNTktseGE3dWQ4a0gwN2JJajhrODJmUDBnS2xPT3lKRmJJMDVNSlJ5SG5Qam9ZSEpETVNtdGFPTk9NbnFlWnp5cEQzSHE1dFR2ZTdKMEtOWHFQTnIyUm9abjBBSWVJZlFHcGQ5UE1TeTVjaVNRMUpIaGx5ZzN4MjItS1dkd0Z0WVhtRTZhVVVGX0lGaHExdkYwdzE2UEFYem1aS0lUX2VtcHRkaW1wdHd0TmVZNkV0clhJWC1EYm9yQUctYWItMDBlenhiRHJ3Yw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T07:41:32.000Z",
+      "originalHeadline": "ارتفاع أسعار الذهب في الإمارات اليوم الاثنين.. وعيار 21 يسجل 433.46 درهم - معلومات مباشر"
     },
     {
       "headline": "MoHRE reaffirms June 30 deadline for H1 private sector Emiratisation targets",
@@ -478,6 +513,17 @@
       "date": "2026-06-22T04:49:45.000Z"
     },
     {
+      "headline": "Qatar returns empty gas tankers to the country in preparation for restoring its exports via Hormuz - Al-Sharq with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQLU93SldjVC1TaHRpazlvMWhZSE9tVHctSExXVE1HQm56VFJ3aEtJeVYxenFjMnctNWlTX1JmNjREQUlkMGVIaXhYVVBCdDRzV0hDWHdlemxadkthWHNoLUZtMTF0UEtXSjBQQ3BFTG51c3gxVUZ0cGRTRlNKcTVzOTNWamZ4dlA1WmtUX3JVSnlyS1lGLVRyT0NXVkVKVlYyUzBXeXg3bHdaVEV1UzViRUoweHFsNUV1TVpFTV9hZkQ5dTJZUjhwV1o3WWJtWkVZV0ZUZHFBcVh4anFVSFA3ZmJka3JQZWVtSUt5b0wzLUFHWlZqaWtCY3hnOWFRV3J2Y1R4d19GY0xaek5hdVNUN1g2dlg1T1Bwd1dSaGhoUGY5MzRKZnh1TDlOd2R6TFBQVDNBNEtiMlFkUHNJMUluV3JwUFowN096SFlydmNNWWRaaWctWHVoaHpfSzBsckZKTFUtcmNwMTFvQS1jemhuSlQ5akxDM2E2RFBiSW1MMlRCQWEzZ2FJRG5WQ01xbzR1RFdna2FZUnE3dEJCRFdjYW5FQTdKSl9UbmtSMkRXMkltWUlKbEFrdE5lQlhuaXNrc3BJS1lxTmRsTHhnMldCdkFVZHlYNmJGdDA1cXBpVEtHMmw5ZlE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T04:48:51.000Z",
+      "originalHeadline": "قطر تعيد ناقلات غاز فارغة إلى البلاد تمهيداً لاستعادة صادراتها عبر هرمز - الشرق مع بلومبرغ"
+    },
+    {
       "headline": "Weather Forecast for Monday",
       "url": "https://spa.gov.sa/en/N2618056?type=news&uuid=N2618056",
       "source": "Saudi Press Agency",
@@ -573,17 +619,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-22T03:54:00.000Z"
-    },
-    {
-      "headline": "Qatar returns empty gas tankers to the country in preparation for restoring its exports via Hormuz - Al-Sharq with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQLU93SldjVC1TaHRpazlvMWhZSE9tVHctSExXVE1HQm56VFJ3aEtJeVYxenFjMnctNWlTX1JmNjREQUlkMGVIaXhYVVBCdDRzV0hDWHdlemxadkthWHNoLUZtMTF0UEtXSjBQQ3BFTG51c3gxVUZ0cGRTRlNKcTVzOTNWamZ4dlA1WmtUX3JVSnlyS1lGLVRyT0NXVkVKVlYyUzBXeXg3bHdaVEV1UzViRUoweHFsNUV1TVpFTV9hZkQ5dTJZUjhwV1o3WWJtWkVZV0ZUZHFBcVh4anFVSFA3ZmJka3JQZWVtSUt5b0wzLUFHWlZqaWtCY3hnOWFRV3J2Y1R4d19GY0xaek5hdVNUN1g2dlg1T1Bwd1dSaGhoUGY5MzRKZnh1TDlOd2R6TFBQVDNBNEtiMlFkUHNJMUluV3JwUFowN096SFlydmNNWWRaaWctWHVoaHpfSzBsckZKTFUtcmNwMTFvQS1jemhuSlQ5akxDM2E2RFBiSW1MMlRCQWEzZ2FJRG5WQ01xbzR1RFdna2FZUnE3dEJCRFdjYW5FQTdKSl9UbmtSMkRXMkltWUlKbEFrdE5lQlhuaXNrc3BJS1lxTmRsTHhnMldCdkFVZHlYNmJGdDA1cXBpVEtHMmw5ZlE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-22T03:50:29.000Z",
-      "originalHeadline": "قطر تعيد ناقلات غاز فارغة إلى البلاد تمهيداً لاستعادة صادراتها عبر هرمز - الشرق مع بلومبرغ"
     },
     {
       "headline": "Qatar: 54 injured and 18 missing in an explosion accident in the Ras Laffan Industrial Area - National Media Authority",
@@ -725,6 +760,16 @@
       "date": "2026-06-22T03:39:01.000Z"
     },
     {
+      "headline": "(2120.SE) | Stock Price &amp; Latest News - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUbDdPVFlrcHFCTzhwTjV0a2FjdjBPTnBRaDhlcmQ1UWtuaWp2S0FDdnZKY3hzQWpwQ004amJRRDRXSDFtOHNRTlA3UzRMSmZwd0gzdlBGRGN3cWlienNoZEZlTXNxUlhr?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-22T03:34:48.000Z"
+    },
+    {
       "headline": "Uruguay struggles in first 2 matches as Suárez watches from the stands - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDNjbjEtVzBibVFLNGJFTmtpYmIwRVJFU3hJcUw0V0wzU19Qc3lXeTVDZGYySU5ZMUVlQ01kR3lIWmh5ekIyQ1dfejI5MDNzWTktNEtOYnI3eFh5Sk1sNUc4d21FcXVYVXA2NXdjbDdkTlJJMU93Y0pnNTlZd2RndVNkZGg2TnpGaFhhLWltNDFETFk?oc=5",
       "source": "AP Gulf",
@@ -831,7 +876,7 @@
       "date": "2026-06-22T02:38:24.000Z"
     },
     {
-      "headline": "Qatar: 54 injured and 18 transported following an explosion in a factory - Sky News Arabia",
+      "headline": "Qatar: 54 injured and 18 missing after an explosion in a factory - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxObmNmWmRBa1dqaWh3ZDI3QjNDTzFKd3VmZGs0S2pzR2VpQ0M2QmJuXzh2Yl9YclBQTks2eklfVWJGRzNueVdJMmlkVk51MGN0VTNrNjh2VGNnRG9rQlFfY1hESzRwZkxrZ2lyXzNLemJXcS1BcWxtUXZMeGdLX2dIMkxTTTJ2TUtmajNMZVdPaXBqdnB4QmQ5RG5aSk10Y1FnRUtKNFBnd2pOcjhQaDZxVHFLN0M3Wm5aTDhJVnJzQ1hpMHBpTmhhbGV0eWtlNExXMW93R0NhTTFVbndacmxjd1RYQlVUTW5KZFVDZ1lmdGM0VkgxREhOcWFWNDdSYktlNzZfMWZOdkNmZ0p6RmRwSXd4SlhXZGdKQmFrVVR2bTk4bC11OTVWOVA5OTk3ZzN6MDZzZUVWYmRHdG9VeTNqUm9WMUotZ3duQ25JUFRTT0pQcjBYNDVIWkU1aE5sUmZTM2ZxMmNRVXBFRDBHWi1TWjU4Ujg1REZVcC1wM3pHWdIBhANBVV95cUxQbmlJWlRJanJJQ1hKOHRfY01pY2t0MVRJRUdGTy1pUG9BYXgwYzMzMHlzYnB0amg2TWdjSERUTE1jOVFkZHZhMWRqaFd0by00MUpMV1JMWVFhNnoycjNDRWRmdDJkbTZkdXBHYXNmVGxpekczZGwtaTNUSFhqU2t3M0dOa293TkdZUldTX1ZTUXNFNzg0UG5fNTZYeU40RzloM0FTNGs3M0g2WmFJWVRNQVByUW1nNHRmMHpNS08zeG5kcjJaRDdESm44M0EyOEhOWEVkWE5qN041Wk5HYTlNams2VlgzMVY5QmNraEtUcnpyOXoxYllac2dqcUlXRzNjTVBrMXFuT3B6YTJGX20wQjA1WnI3T05TNUpGRDh6ek4yVFRTeGRMblNMNjI0OHZiQ0o1elJyelhIX3Vnck9EZURzSGNZbEs4dWM1THFrV3drRnhKSXc5TlJaLWVoc0dyWGVvZTQ4WkU4Mm9PemQ2RE5ERHlqdjNtWHEwU3NoT3FXVnRk?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -839,7 +884,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-22T02:37:09.000Z",
-      "originalHeadline": "قطر: 54 مصابا و18 م��قودا إثر انفجار في أحد المصانع - سكاي نيوز عربية"
+      "originalHeadline": "قطر: 54 مصابا و18 مفق��دا إثر انفجار في أحد المصانع - سكاي نيوز عربية"
     },
     {
       "headline": "54 injured and 18 missing as a result of an explosion that occurred in a factory in the Ras Laffan Industrial Area in Qatar - Masrawy",
@@ -2163,53 +2208,6 @@
       "language": "ar",
       "date": "2026-06-21T18:19:00.000Z",
       "originalHeadline": "\"بعد رباعية إسبانيا\".. موعد مباراة السعودية المقبلة في كأس العالم - يلاكورة"
-    },
-    {
-      "headline": "World Cup 2026: Saudi Arabia loses 4 times to Spain - France 24",
-      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOUERvMVpOX0hRSDRER2J4Q21GQzZ6dDFDQmZrSFNnc242Wi0yUHFnNWtUQ2NwRzlaVTcxeFlaVi1BNjU1dk4zSmlHSlYycFhVbGZ4VjFuYlI1SGhyZEFERzdFejFZVW9MS3U2X1VaT3pIdklPUzdVTUxDQWwxRURHbnZlbkZIM0luQzdrNVlETWZsZDQ5dER2MkVlMmpObmc3dkt4d2t4M3hjX2p1NkRQTDdUSjMyczJQTGx5OFJPb3pjWWZMT1FpcUpCamhMa2dDUTRUMVRZTDhzZzNMUGNCQXk2U0ZEOEctTEI2UnBsVmVfME5DRUlOdlRJRHJlcXlRMXNZT1NiVUd2RGQ3TEhweFVhbFk2SjhGUGFubEtDenR4dEFLMUZqZ1o2UzgtdHR4ZjhOXzI5TU5DM2FGLTkyMnZOZFFnSzZMOXRxT2lvQnlIQlp2UTBvc1loN19tQk9RNmNKTGYzbkE2SXYxZEhzaE9IQTBqeHc2eW10RjZGS1Z1Yy01NkY0VTUzSGpqUzhrd3VKVjVmM3NWSXY2MGtQS2dnTnZMenU2N21iek5QZ1ZORmJpUV9WVTZGTGFBZzcwMUFyNmprTlM0RnFydTJ0d1NFenJmVm9iOE5GZWl1U0lvejV5aGJVaEhFd0pYUlZxaENNWUFia2ZKcFRJT1djWEIyTk53amtTdWFuR1Yyc0tHQlNOT1lVZFVOaS1QeVVkQXpuZGl3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T18:15:13.000Z",
-      "originalHeadline": "مونديال 2026: السعودية تخسر برباعية ثقيلة أمام إسبانيا - France 24"
-    },
-    {
-      "headline": "The horizon of the novelist and the horizon of the reader",
-      "url": "https://aawsat.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/5286823-%D8%A3%D9%81%D9%82-%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D9%8A-%D9%88%D8%A3%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A6-%D8%A7%D9%84%D9%85%D8%AA%D9%84%D9%82%D9%8A",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T18:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أفق الروائي وأفق القارئ المتلقي"
-    },
-    {
-      "headline": "“Ghosts of Motherhood”… Passion and Crime",
-      "url": "https://aawsat.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/5286822-%D8%A3%D8%B4%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-21T18:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "« أشباح الأمومة »... العاطفة والجريمة"
-    },
-    {
-      "headline": "Syria: A former colonel was arrested in Saydnaya prison involved in executions and torture",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/21/syria-former-colonel-arrested-saydnaya-prison-executions-abuses-torture",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T18:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سوريا : القبض على عقيد سابق بسجن صيدنايا متورط في الإعدامات والتعذيب"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
