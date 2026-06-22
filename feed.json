@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-22T04:18:22.969Z",
+  "updated": "2026-06-22T04:33:29.235Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Monday",
+      "url": "https://spa.gov.sa/en/N2618056?type=news&uuid=N2618056",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-22T04:29:00.000Z"
+    },
     {
       "headline": "Sharjah Club retains UAE table tennis title",
       "url": "https://www.wam.ae/en/details/17a9v7r-sharjah-club-retains-uae-table-tennis-title",
@@ -11,6 +21,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-22T04:13:03.254Z"
+    },
+    {
+      "headline": "Qatar and Pakistan announce a “line of communication” between America and Iran regarding Hormuz - CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzd2UEFZWWFmTFdmRU5CdmFTUFhkVnRYV3otNlFGQTNsZTc4YlNGZ1g5eHp3M196RGp4ZHlaMnZIcGs0OFY0WlE3eHJlZldCc2M5RU5fSTRRMXVzRFlaUUVPeC1rWWJYU1FldkN3ZkU1S3FYSU8xT3Jzd1NpVTBYZXZOWDBkMWhlY0ktMDdqMXBPak03SWZfUktSUW9UbDZXd3pYWmdUbzQxcDhYS1p2QkJmNmlsSVZmZnkwUW1qbUI4cllad0tTeXVtd2Q4MHFuaXfSAdwBQVVfeXFMUEVQbkljaFBVTHF6ZTlGYm9XYnFGX2s5R2IyRTZQOFZWRzMzbWJiSEd6WWV4MXVkRVkzSnp1S0xNU2c4c3FMV2pZd09TWXZpTWJ0U2pPTGVQRVF6dzJpWmtCMlBMb0xVN1NSM0toWk1XUm1PQS11X25lTl80ZnVWQVpHNkducXhDQklRUHFTdWZReXBYVXlBMXRaWktiVGVyclBxREtPQUl4azJ0RFBzTWpGSVZuRzIzRFJ6VDM2WGs0Q3NyNzFYYWZzMmx4NzIxRnFlTkdEaU84V25sSw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-22T04:10:05.000Z",
+      "originalHeadline": "قطر وباكستان تُعلنان عن \"خط اتصال\" بين أمريكا وإيران بشأن هرمز - CNN Arabic"
     },
     {
       "headline": "Australian police uncover 3 tons of cocaine - AP News",
@@ -2219,29 +2240,6 @@
       "date": "2026-06-21T16:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الزراعة الترفيهية"
-    },
-    {
-      "headline": "A groom from outside the artistic community... Heba Al-Hussein celebrates her wedding",
-      "url": "https://www.okaz.com.sa/culture/art/2253620",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-21T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عريس من خارج الوسط الفني .. هبة الحسين تحتفي بعقد قرانها"
-    },
-    {
-      "headline": "Against Saudi Arabia.. Lamine Yamal scores his first goal in the World Cup - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPTVZpYklmUGVxWnAyMmpkQXFidm9HT0pSMHk1cDU5cDZRMVJCNGpZOVpneEN1T3ZIeUhZRl9OUVlrVkQ5LTRUOUF0a3NVRmJZUEdMRXVkZFBNVFFUQ2dCYjExUERMYmhRWHhXWWw4V0FqMFA3eXlTTzJFM1pBOUFPRHlWTlcxZnZqb0ZXeUlVQVpWdVdScFN6SGM0SDZISnQ3UGQ1ZVdVcUZvdWk3ZHlZaHNGcmVjalVHVVJEZVdrNDNZOXFsOWFOUEFzUDhISFhwZWNQMHlNZlAwb05seUUyVEdZY3hzLTNpSm9oTl9HREJqSFZXNFRQZWNpX3FSQjBSWEJzQjFvZ25PclpBc2FlSDRnZk9IOWxuZm13dW5SNkxPOTRMTnFScVpQNlJjUnd3bTFXeFpOS2RqLWVlVFJaZEw1c2oxTmdYb0xaNVFySWh6VU12ODVuNkRIYUJFM0xrQkhueHpHRk1rbUozVHI1Q1YyM2xTNk5YbTV1aWxYbFo2NXpvTmRLYUxCYnU4WUhpQURSY0UwcFZwazZSS1ZmRDYzQ0FHdktQNW1wQ1dnX3FqVFN1eVVkaXNVbEZFT0piajZzRDRRc0NzODBMNWw0bGExYkFsN0XSAdcDQVVfeXFMT01WaWJJZlBlcVpwMjJqZEFxYnZvR09KUjB5NXA1OXA2UTFSQjRqWTlaZ3hDdU92SHlIWUZfTlFZa1ZEOS00VDlBdGtzVUZiWVBHTEV1ZGRQTVRRVENnQmIxMVBETGJoUVh4V1lsOFdBajBQN3l5U08yRTNaQTlBT0R5Vk5XMWZ2am9GV3lJVUFaVnVXUnBTekhjNEg2SEp0N1BkNWVXVXFGb3VpN2R5WWhzRnJlY2pVR1VSRGVXazQzWTlxbDlhTlBBc1A4SEhYcGVjUDB5TWZQMG9ObHlFMlRHWWN4cy0zaUpvaE5fR0RCakhWVzRUUGVjaV9xUkIwUlhCc0Ixb2duT3JaQXNhZUg0Z2ZPSDlsbmZtd3VuUjZMTzk0TE5xUnFaUDZSY1J3d20xV3haTktkai1lZVRSWmRMNXNqMU5nWG9MWjVRckloelVNdjg1bjZESGFCRTNMa0JIbnh6R0ZNa21KM1RyNUNWMjNsUzZOWG01dWlsWGxaNjV6b05kS2FMQmJ1OFlIaUFEUmNFMHBWcGs2UktWZkQ2M0NBR3ZLUDVtcENXZ19xalRTdXlVZGlzVWxGRU9KYmo2c0Q0UXNDczgwTDVsNGxhMWJBbDdF?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-21T16:15:00.000Z",
-      "originalHeadline": "أمام السعودية.. لامين يامال يسجل أول أهدافه في كأس العالم - العربية"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
