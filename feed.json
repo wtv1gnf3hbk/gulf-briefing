@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-24T17:18:32.995Z",
+  "updated": "2026-06-24T17:32:35.621Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Riyadh Mayor, Tokyo Governor Discuss Cooperation in Digital Transformation, Smart Cities",
+      "url": "https://spa.gov.sa/en/N2620163?type=news&uuid=N2620163",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-24T17:26:31.000Z"
+    },
+    {
+      "headline": "Supreme Council for Financial and Economic Affairs awards ADNOC, partners concession to develop gas cap at Bab FieldS",
+      "url": "https://www.wam.ae/en/details/c0vxkdo-supreme-council-for-financial-and-economic-affairs",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-24T17:24:19.070Z"
+    },
+    {
+      "headline": "World Cup: Qatar faces Bosnia in the struggle of last hope, and Morocco chases the lead from Haiti - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWGxQNnM0eHU5eFlLN0xIWXRwSFFyS2UxWGtKcEc3Rlp0QzBkWWU1WHI4RkRTaTI2eUFpX19IQkpZVWs0MzhzVExQUVhFd0xNTVE2YzBDWQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T17:23:58.000Z",
+      "originalHeadline": "كأس العالم: قطر تواجه البوسنة في صراع الأمل الأخير، والمغرب يطارد الصدارة من بوابة هايتي - BBC"
+    },
     {
       "headline": "Hadhramaut Governor Commends Saudi Housing and Agricultural Projects in Yemen",
       "url": "https://spa.gov.sa/en/N2620159?type=news&uuid=N2620159",
@@ -149,6 +180,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-24T16:00:14.000Z"
+    },
+    {
+      "headline": "Saudi Arabia determines where foreigners can own real estate - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0NhWklsM2RKaEJKQmRGWk9aQzVuM0ZpLU5VRWx5S1MyNFdjMno4ZWIybEdDTnE1SHlxT1RSSl9xOXhKYnptbnREOElvY2NEdVFrRTVkbnN5b1NCSFNmU0h2VklYbjRTVVVXUzlrSUFUU0xTVzhBOWp0bHBzOTJfcTRMSkbSAYoBQVVfeXFMTjlQcTByYnNDOTJVbjNaQVMza2t4YkpzNExiWHJCaFN5TENMaS02c19BSzVsTHlfVGJzRDJfaDBDbFpCWmxMLVlHZGpiNTU2d1RwMUstcHB5YnYxNnlxTXZYWnd2bXFSQ1huU0JOMDhtYmhHdkh5MDBsRkpzd2labExjakw2Y0dqalRB?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T15:56:58.000Z",
+      "originalHeadline": "السعودية تحدد أماكن تملك الأجانب للعقارات - الجزيرة نت"
     },
     {
       "headline": "EXCLUSIVE: US to move forward with Turkey jet engine sales ahead of NATO summit, sources say - Reuters",
@@ -486,7 +528,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-24T15:27:00.000Z",
-      "originalHeadline": "سلطان عمان ورئيس وزرا�� قطر يبحثان آخر المستجدات الإقليمية - بوابة الأهرام"
+      "originalHeadline": "سلطان عمان ورئيس وزراء قطر يبحثان آخر المستجدات الإقليمية - بوابة الأهرام"
     },
     {
       "headline": "Emirates SkyCargo expands freighter network across East, Southeast Asia",
@@ -610,7 +652,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-24T14:57:00.000Z",
-      "originalHeadline": "البحرين تجدد الترحيب بجهود التوصل لتسوية سلمية ومستدامة بين إيران وأمريكا - بوابة الأهرام"
+      "originalHeadline": "البحرين تجدد الترحيب بجهود التوصل لتسوية سلمية ومستدامة ��ين إيران وأمريكا - بوابة الأهرام"
     },
     {
       "headline": "Al Bustan Palace Hotel to close for major renovation from July 1, 2026",
@@ -2126,54 +2168,6 @@
       "date": "2026-06-24T09:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الذهب عند أدنى مستوى في أسبوعين مع ارتفاع الدولار"
-    },
-    {
-      "headline": "A journey into the unknown... brokers, security risks, and imaginary prices for travel from Gaza",
-      "url": "https://www.aljazeera.net/politics/2026/6/24/%D8%B1%D8%AD%D9%84%D8%A9-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D9%85%D8%AC%D9%87%D9%88%D9%84-%D8%B3%D9%85%D8%A7%D8%B3%D8%B1%D8%A9-%D9%88%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T09:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "رحلة نحو المجهول .. سماسرة ومخاطر أمنية وتسعيرة خيالية للسفر من غزة"
-    },
-    {
-      "headline": "Pakistan: Our efforts continue, and the agreement includes a direct line of communication between Tehran and Washington",
-      "url": "https://www.aljazeera.net/news/2026/6/24/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T09:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "باكستان : جهودنا مستمرة والاتفاق يشمل خط تواصل مباشر بين طهران وواشنطن"
-    },
-    {
-      "headline": "Summoning an ambassador and talking... Will the tension between Burkina Faso and the European Union reach a dead end?",
-      "url": "https://www.aljazeera.net/news/2026/6/24/%D8%A7%D8%B3%D8%AA%D8%AF%D8%B9%D8%A7%D8%A1-%D8%B3%D9%81%D9%8A%D8%B1-%D9%88%D8%AA%D9%84%D8%A7%D8%B3%D9%86-%D9%87%D9%84-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1-%D8%A8%D9%8A%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T09:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "استدعاء سفير وتلاسن .. هل يدخل التوتر بين بوركينا فاسو والاتحاد الأوروبي نفقا مسدودا ؟"
-    },
-    {
-      "headline": "China's Alibaba is suing the Pentagon over its blacklisting",
-      "url": "https://www.aljazeera.net/ebusiness/2026/6/24/%D8%B9%D9%84%D9%8A-%D8%A8%D8%A7%D8%A8%D8%A7-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A8%D8%B3%D8%A8%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T09:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "علي بابا الصينية تقاضي البنتاغون بسبب إدراجها في القائمة السوداء"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
