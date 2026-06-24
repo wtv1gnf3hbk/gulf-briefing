@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T23:48:12.641Z",
+  "updated": "2026-06-24T00:02:31.280Z",
   "itemCount": 300,
   "items": [
     {
@@ -100,29 +100,6 @@
       "originalHeadline": "وثيقة استخباراتية: قطر بوابة إيران للالتفاف على العقوبات ودعم اقتصادي وعسكري متصاعد - i24NEWS"
     },
     {
-      "headline": "issue17375",
-      "url": "https://aawsat.com/files/pdf/issue17375/",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-23T22:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | “Salman Relief” launches a volunteer medical project to treat oncology and hematology for children in Damascus",
-      "url": "https://www.alriyadh.com/2194795",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-23T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | « سلمان للإغاثة » يدشّن المشروع الطبي التطوعي لعلاج الأورام وأورام الدم للأطفال في دمشق"
-    },
-    {
       "headline": "Al-Riyadh newspaper | The Kingdom distributes (530) food baskets to support food security in Gaza",
       "url": "https://www.alriyadh.com/2194791",
       "source": "Alriyadh",
@@ -169,6 +146,29 @@
       "date": "2026-06-23T22:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | وزير الثقافة يشكر القيادة على تحويل الأرشيف إلى مركز ذاكرة"
+    },
+    {
+      "headline": "issue17375",
+      "url": "https://aawsat.com/files/pdf/issue17375/",
+      "source": "Asharq al-Awsat",
+      "sourceId": "gdelt_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-23T22:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | “Salman Relief” launches a volunteer medical project to treat oncology and hematology for children in Damascus",
+      "url": "https://www.alriyadh.com/2194795",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-23T22:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | « سلمان للإغاثة » يدشّن المشروع الطبي التطوعي لعلاج الأورام وأورام الدم للأطفال في دمشق"
     },
     {
       "headline": "Saudi stocks closed lower on Tuesday, led by CGS - Al Mal newspaper",
@@ -786,6 +786,16 @@
       "originalHeadline": "بدء تملك الأجانب للعقار في السعودية.. الفئات المؤهلة وخطوات التقديم والرسوم - العربية"
     },
     {
+      "headline": "Soccer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-23T18:47:14.000Z"
+    },
+    {
       "headline": "Joseph Aoun: We will only accept the end of the Israeli occupation of southern Lebanon",
       "url": "https://arabic.cnn.com/middle-east/article/2026/06/23/israeli-occupation-of-southern-lebanon-must-end-lebanese-president",
       "source": "CNN Arabic",
@@ -1077,17 +1087,7 @@
       "date": "2026-06-23T17:49:59.000Z"
     },
     {
-      "headline": "Soccer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-23T17:48:13.000Z"
-    },
-    {
-      "headline": "Why is Saudi Arabia pumping billions of dollars into sports? - dw.com",
+      "headline": "Why is Saudi Arabia pumping billions of dollars into sports? -DW.com",
       "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNQzZ1THdzeXRuTHRyQ1MtdmVsSjc5Y3RTSlVlY3pnaVpaci1EbHlFOUNid0RLX3ZudjFsZzVVNW9LNVRUVmU4RVdCQXZwUDdNRHNfNzdXY3hnWkpnc3huZXh2Z2czRUNSMEhra2xhdlNTY0c0YjAycllHT1ZWX1YxVGxsN1l1R1l4Q2ZhMklFY3ZaVjVHbFFQUjhvRmpZT3JEYmx2N2NYWFNyLXBaSEFEWDdKUDhxNE5xb1V0UHhTcXlpbVFoclIzdzE0NEd3SGhTV3dWVFN3NzJVTlo5bjJCTnRCbEhUWGV4VG14ajBMNzV4TGRJMEpVekRNbWJRM2d3ZEFJUnZ4Vk9VejctTTZSc015WjIyd3RsUHlUbUk2d0VfQ3JEU3RQalJxYTR4cXhBOXZtRXdQbEw2LTJKZmFobm0ybHc4SEFiamN1V3hLdkVvQ085YVZ3OHNOYjJiT1lRdWdsUkRtUmQ5WUhmYlVmZmtackdfUlMzd3NrUGF1cm9YUTlkMVVCbmhkTVlieXRoZ1lsX2JyeG1vWUhEemt1VTJJMjlLTHMyaXgzOHZSSHZfcExveDNzZXJkSUo2NnZ3ZldnRWs3M21TdE1rYm9ydHVyOU9teHRtVWpIeXc4enRjUDc4d1dXclVJb3dESnkwQTMwWTUzS0ZvZE9iclkzS0I5aFZHa3lxeU9CM2hR0gGOBEFVX3lxTE1DNnVMd3N5dG5MdHJDUy12ZWxKNzljdFNKVWVjemdpWlpyLURseUU5Q2J3REtfdm52MWxnNVU1b0s1VFRWZThFV0JBdnBQN01Ec183N1djeGdaSmdzeG5leHZnZzNFQ1IwSGtrbGF2U1NjRzRiMDJyWUdPVlZfVjFUbGw3WXVHWXhDZmEySUVjdlpWNUdsUVBSOG9GallPckRibHY3Y1hYU3ItcFpIQURYN0pQOHE0TnFvVXRQeFNxeWltUWhyUjN3MTQ0R3dIaFNXd1ZUU3c3MlVOWjluMkJOdEJsSFRYZXhUbXhqMEw3NXhMZEkwSlV6RE1tYlEzZ3dkQUlSdnhWT1V6Ny1NNlJzTXlaMjJ3dGxQeVRtSTZ3RV9DckRTdFBqUnFhNHhxeEE5dm1Fd1BsTDYtMkpmYWhubTJsdzhIQWJqY3VXeEt2RW9DTzlhVnc4c05iMmJPWVF1Z2xSRG1SZDlZSGZiVWZma1pyR19SUzN3c2tQYXVyb1hROWQxVUJuaGRNWWJ5dGhnWWxfYnJ4bW9ZSER6a3VVMkkyOUtMczJpeDM4dlJIdl9wTG94M3NlcmRJSjY2dndmV2dFazczbVN0TWtib3J0dXI5T214dG1Vakh5dzh6dGNQNzh3V1dyVUlvd0RKeTBBMzBZNTNLRm9kT2JyWTNLQjloVkdreXF5T0IzaFE?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1095,7 +1095,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-23T17:46:37.000Z",
-      "originalHeadline": "لماذا تضخ السعودية مليارات الدولارات في الرياضة؟ - dw.com"
+      "originalHeadline": "لماذا تضخ السعودية مليارات الدولارات في الرياضة؟ - DW.com"
     },
     {
       "headline": "Why is Saudi Arabia pumping billions of dollars into sports? - DW.com",
@@ -1613,6 +1613,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-23T16:22:18.975Z"
+    },
+    {
+      "headline": "TotalEnergies must invest in Gulf pipelines to bypass Hormuz, CEO says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2M3bTFqYWVyQmJ2enUyVEZXcEVzQzZwdXl5Z21LbWNEcUxueFBValpvb21DaVdoc3pRLXRCMUcyajZJOTFpRlBpYnFqREtCeHAxTkdfU0thZEhkdkI0SW9SMks2Q3phNEtXcWVMMDJWWEluNGVlY2czM1FkcjNVSGF5LXdrNmNXd0UybEdOemFoMUI3QWx1MTZ1S1dFTk96VXM1ZzM2NVdvTHF4blREa0x0bE9Vdw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-23T16:21:43.000Z"
     },
     {
       "headline": "The UAE Cyber ​​Security Council to launch a center of excellence to enhance the cyber security system in the country, cooperates with Commvault - Fintechgate",
@@ -2200,18 +2210,6 @@
       "date": "2026-06-23T14:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "أمنستي تدعو الاتحاد الأوروبي للتخلي عن خطط متهورة لترحيل الأفغان"
-    },
-    {
-      "headline": "The three scenarios about Hemedti's fate",
-      "url": "https://www.aljazeera.net/opinions/2026/6/23/%D8%AD%D9%85%D9%8A%D8%AF%D8%AA%D9%8A-%D8%A3%D9%8A%D9%86-%D9%8A%D8%B9%D9%8A%D8%B4-%D9%88%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-23T14:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "السيناريوهات الثلاثة حول مصير حميدتي"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
