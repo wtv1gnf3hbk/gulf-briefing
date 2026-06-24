@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-24T13:33:42.129Z",
+  "updated": "2026-06-24T13:48:29.472Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Saudi Stock Exchange Ends Trading Lower",
+      "url": "https://spa.gov.sa/en/N2619996?type=news&uuid=N2619996",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-24T13:47:27.000Z"
+    },
+    {
+      "headline": "Mauritania, OPEC Fund Sign Two Financing Agreements Worth USD195 Million",
+      "url": "https://spa.gov.sa/en/N2619992?type=news&uuid=N2619992",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-24T13:44:26.000Z"
+    },
+    {
+      "headline": "CBUAE imposes a financial penalty of AED20 million on branch of foreign bank",
+      "url": "https://www.wam.ae/en/details/c0vxk21-cbuae-imposes-financial-penalty-aed20-million",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-24T13:40:53.710Z"
+    },
+    {
+      "headline": "University of Sharjah climbs 45 spots in QS World University Rankings 2027",
+      "url": "https://www.wam.ae/en/details/c0vxk20-university-sharjah-climbs-spots-world-university",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-24T13:40:38.334Z"
+    },
+    {
+      "headline": "RTA opens applications for 2026 Ajyal Summer Internship Programme for Emirati students",
+      "url": "https://www.wam.ae/en/details/c0vxk1z-rta-opens-applications-for-2026-ajyal-summer",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-24T13:40:27.578Z"
+    },
+    {
+      "headline": "Abu Dhabi Chamber organises 'Al Marfa Entrepreneurs Forum for Leadership and Empowerment'",
+      "url": "https://www.wam.ae/en/details/c0vxk1y-abu-dhabi-chamber-organises-al-marfa-entrepreneurs",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-24T13:28:24.998Z"
+    },
     {
       "headline": "ICBA graduates 21 Arab women leaders from AWLA’s fourth cohort",
       "url": "https://www.wam.ae/en/details/c0vxk1x-icba-graduates-arab-women-leaders-from-awla’s",
@@ -463,30 +523,6 @@
       "date": "2026-06-24T11:46:00.000Z"
     },
     {
-      "headline": "Trump's reaction to the approval of the Senate plan to stop the war with Iran; This decision was made at the worst possible time",
-      "url": "https://www.bbc.com/persian/articles/cy4ejwkpq57o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-24T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "واکنش ترامپ به تصویب طرح سنا برای توقف جنگ با ایران ؛ در بدترین زمان ممکن این تصمیم گرفته شد"
-    },
-    {
-      "headline": "The match between Iran and Egypt in the World Cup; How does the national team advance?",
-      "url": "https://www.bbc.com/persian/articles/clyx70kzeego",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-24T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بازی ایران و مصر در جام جهانی ؛ تیم ملی چگونه صعود می‌کند ؟"
-    },
-    {
       "headline": "Bold fashion of the stars steals the spotlight at the Saint Laurent men's show",
       "url": "https://arabic.cnn.com/style/article/2026/06/24/bold-celebrity-looks-at-saint-laurent-mens-show-in-paris",
       "source": "CNN Arabic",
@@ -569,6 +605,30 @@
       "date": "2026-06-24T11:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تدشين محطة ركاب قطار الاتحاد في أبوظبي .. أولى الرحلات تنطلق بعد أيام"
+    },
+    {
+      "headline": "Trump's reaction to the approval of the Senate plan to stop the war with Iran; This decision was made at the worst possible time",
+      "url": "https://www.bbc.com/persian/articles/cy4ejwkpq57o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-24T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "واکنش ترامپ به تصویب طرح سنا برای توقف جنگ با ایران ؛ در بدترین زمان ممکن این تصمیم گرفته شد"
+    },
+    {
+      "headline": "The match between Iran and Egypt in the World Cup; How does the national team advance?",
+      "url": "https://www.bbc.com/persian/articles/clyx70kzeego",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-24T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بازی ایران و مصر در جام جهانی ؛ تیم ملی چگونه صعود می‌کند ؟"
     },
     {
       "headline": "Ministry of Agriculture expands Arabica coffee cultivation across Dhofar",
@@ -767,6 +827,17 @@
       "language": "ar",
       "date": "2026-06-24T11:04:21.000Z",
       "originalHeadline": "تدشين أكبر مصنع لإعادة تدوير الألمنيوم في الإمارات - معلومات مباشر"
+    },
+    {
+      "headline": "Saudi Arabia's Aviles raises $650 million in bonds maturing in 2031 - Al Sharq with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPODVsU0lqakF2QVVONjF5dHFpdHZTb2dPWTBjYVZabGx4bXZpXzJPSjBCN18yVkNnbzgxekQtMHQ3UEZpenlBdGF1VjFLbzVMT3BoSS1aeEF5VGJ4VFdFendUcFZEQW82bG5hVlVZbkNSdVdKWFM1REZWWnF0cjdUNThxdi1EeHRNOHNYaU9uQkxwcEIzTElZb0NiQ3l1VXg0eUl0SGtsdHJyVE5DdUFTVUF6TmR0RTZFZlpUSGdhNE04cEFYTGpOSnBPWElQMUdYZzFoM1AzVm0zWTd4WXpZX2Uxb1ZhaGExQmNVWmhyRTRzWEJqNEdRYmd1YzJ2QWFHTmQxRUM4YnR3dUhBVENGYWJaNTdCbDFWV1Atd2xXM0NjcEdINmRMRGJIeTBpWEtsb0dFbFRGZ215Snk2T3NDZHQxLVN1enllV3FHZEFNYnFCSnJXcDlQMVQxenUyTkZyUGZuZmUzdlIwZnItVmk0V1JxbWJJUmc1RVJnamY0SUxxaE1qVEVmelVPQV9nUUVEdXhhTzFma0w4WVdNSV80dUhEbUlxd2VDTVVURXhoVXdWSElHd3V4SElRQlR5QktkVGJkZUhzLVJmMHJ3c1poMjNJR2pMc1Jz?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T11:03:25.000Z",
+      "originalHeadline": "\"أفيليس\" السعودية تجمع 650 مليون دولار من سندات تستحق في 2031 - الشرق مع بلومبرغ"
     },
     {
       "headline": "Saudi Arabia's Aviles raises $650 million in bonds maturing in 2031 - Al Sharq with Bloomberg",
@@ -1510,16 +1581,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "THE ASSOCIATED PRESS - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T08:41:38.000Z"
-    },
-    {
       "headline": "More than 16,000 Emiratis benefit from GPSSA's ‘Shourak’ service",
       "url": "https://www.wam.ae/en/details/c0vxjmx-more-than-16000-emiratis-benefit-from-gpssas",
       "source": "Emirates News Agency (WAM)",
@@ -1538,6 +1599,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-24T08:38:10.000Z"
+    },
+    {
+      "headline": "THE ASSOCIATED PRESS - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-24T08:38:08.000Z"
     },
     {
       "headline": "National Guard Commander, Russian counterpart discuss strengthening cooperation",
@@ -2108,89 +2179,6 @@
       "language": "en",
       "date": "2026-06-24T06:45:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Arabia announces the execution of 5 Ethiopians in one drug-related case",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/24/saudi-executes-5-ethiopians-drug-case",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "السعودية تعلن إعدام 5 أثيوبيين تعزيرا بقضية واحدة تتعلق بمخدرات"
-    },
-    {
-      "headline": "Watch a Democratic candidate's reaction when he learned he won in a live interview on CNN",
-      "url": "https://arabic.cnn.com/world/article/2026/06/24/brad-lander-dan-goldman-congress-primary-democrats-new-york",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "شاهد رد فعل مرشح ديمقراطي عندما علم بفوزه بمقابلة مباشرة على CNN"
-    },
-    {
-      "headline": "A Saudi prince responds to Youssef Zidane and his statement about the story of the elephant in Mecca and that Abraha was a saint",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/24/saudi-prince-viral-response-yousif-zaidan-elephant-kaaba-mecca",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أمير سعودي يرد على يوسف زيدان وتصريح قصة الفيل في مكة وأبرهة كان قديسا"
-    },
-    {
-      "headline": "In pictures: The largest warship in North Korean history enters service",
-      "url": "https://arabic.cnn.com/world/article/2026/06/24/north-korea-jump-starts-naval-buildup-by-commissioning-its-largest-ever-warship",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بالصور .. أكبر سفينة حربية بتاريخ كوريا الشمالية تدخل الخدمة"
-    },
-    {
-      "headline": "Two authors share with CNN what happened when they asked Trump if he was the most powerful president in history",
-      "url": "https://arabic.cnn.com/world/article/2026/06/24/trump-asked-if-hes-the-most-powerful-president-digivid",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مؤلفان يشاركان لـCNN ما حدث عندما سألا ترامب عما إذا كان أقوى رئيس في التاريخ"
-    },
-    {
-      "headline": "\"Energy Agency\": The UAE recovers 85% of its oil exports before the agreement between Washington and Tehran - Al-Sharq with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOeHAyNVktZTVfUXBrQ29jb0lJekJETzl0WnBXS0tLSTFjellSbjR0X3NjYm5MQ0ZyLUNpV3M2ekpWZDM4VlBjaHVXdHJlLTRsZ0paMWliOEhubHY4MFFXMTJ2cl9NNXg3djVPOEJIRXgzSkp6VTgwVzliV2JTYkVueGZnRndKZUdhYXc2VFZTZk9SRVBWTmpPR25Mb0E2b2ZpMlNXNkJNRWFFUG82U2FVX0xMcjhvZHlTYVdXU3FsYXZSemJuZ0VCVDRONi12bjZpS2VxUFFLLWs2dFhpcXpVZkUyN2tnQTg4N0JSM0Qxc0FxN1YzcmtMVXFfVEpqS0lId2Z4ek9OYkhJb09oNTJMbGdnVEdMcjNaNFY2VDZOc0t1cXBwak1VUG83VWU2XzRFSTB0Q0ROdkdrazFtaGN4alNUNnBPQzB3X1N4SGp5ZHVQWk84R2RrUVpGYU1GQUFjZGxDR19qamF3UUo0SFlDLXktNE9qQmM0Y2F1enlZTDVEbElLbmQ3Q29RZDY5ckxJTmpqT2JQaC1hRzktckVIMDNZUmUxQTlxbXdIU2p6aV9iRV9CRVdaWmJJNlVQOWJYTm1lczVOaXE2dkg1T1Rr?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T06:40:08.000Z",
-      "originalHeadline": "\"وكالة الطاقة\": الإمارات تستعيد 85% من صادراتها النفطية قبل اتفاق واشنطن وطهران - الشرق مع بلومبرغ"
-    },
-    {
-      "headline": "The Prime Minister of Qatar talks about the understandings between Hormuz, Lebanon, and the investment fund in Iran",
-      "url": "https://www.aljazeera.net/news/2026/6/24/%D8%B9%D8%A7%D8%AC%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%82%D8%B7%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%D8%A7-%D8%B2%D8%A7%D9%84",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T06:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "رئيس وزراء قطر يتحدث عن تفاهمات هرمز ولبنان وصندوق الاستثمار في إيران"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
