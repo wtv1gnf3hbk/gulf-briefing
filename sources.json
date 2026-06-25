@@ -565,6 +565,16 @@
       "notes": "Official ONA English wire — state agency proxy (no working RSS)"
     },
     {
+      "id": "twitter_ona_ar",
+      "name": "Oman News Agency (Arabic)",
+      "type": "twitter",
+      "url": "https://x.com/OmanNewsAgency",
+      "priority": "primary",
+      "category": "oman_twitter",
+      "language": "ar",
+      "notes": "Official ONA Arabic main account — posts Hormuz/Iran joint statements first; auto-translated"
+    },
+    {
       "id": "twitter_albusaidi",
       "name": "Badr Albusaidi",
       "type": "twitter",
