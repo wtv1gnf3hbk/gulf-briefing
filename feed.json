@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:55:47.335Z",
+  "updated": "2026-06-25T22:02:22.950Z",
   "itemCount": 300,
   "items": [
     {
@@ -72,6 +72,17 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-06-25T21:15:52.000Z"
+    },
+    {
+      "headline": "Drone Strikes Continue to Claim Civilian Lives in Sudan",
+      "url": "https://english.aawsat.com/arab-world/5288568-drone-strikes-continue-claim-civilian-lives-sudan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-25T21:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "KSrelief Delivers 25 Tons of Dates to Kazakhstan as Saudi Gift",
@@ -148,6 +159,16 @@
       "originalHeadline": "السعودية تعلق السفر إلى 3 دول إفريقية احترازيا من إيبولا - بوابة الشروق"
     },
     {
+      "headline": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUTZKclQ3bUlxRmJPSWxBRTNLSm1lLWQ0YUktc05hUVZPQ2ZCZFZ1TEEtZXR0SUItMWN4WERudzJuRUFrN2h4bl9vUER0NEFmb2E5Mkl3RTMzdjZmeHpWakZveTVhcjk3QUdBUDc2c3pia1RDTFZ4Sk96U01MY3otcG82aHU0NXV1cXA4cHFjYzZoYmZFeWR6dlZ0R3lzcHFNdnlpcXVTYm0?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T20:49:00.000Z"
+    },
+    {
       "headline": "On behalf of Prince Saud bin Musaeed.. The Governor of Jeddah witnesses the graduation of the fourth batch of the \"Red Sea Professional Training Program\".\n\nhttps://\nspa.gov.sa/N2621037\n#واس",
       "url": "https://x.com/SPAregions/status/2070247074906423455",
       "source": "Saudi Press Agency (Regions)",
@@ -157,18 +178,6 @@
       "language": "ar",
       "date": "2026-06-25T20:45:40.000Z",
       "originalHeadline": "On behalf of Prince Saud bin Musaeed.. The Governor of Jeddah witnesses the graduation of the fourth batch of the \"Red Sea Professional Training Program\".\n\nhttps://\nspa.gov.sa/N2621037\n#واس"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Kingdom suspends travel and entry for those coming from Congo, Uganda and South Sudan as a precaution to confront “Ebola”",
-      "url": "https://www.alriyadh.com/2195166",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T20:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | المملكة تعلق السفر والدخول للقادمين من الكونغو وأوغندا وجنوب السودان احترازياً لمواجهة « إيبولا »"
     },
     {
       "headline": "Al-Riyadh newspaper | Suspension of a health practitioner’s license to practice after violating the approval and instructions for using the “exosome” product.",
@@ -205,6 +214,18 @@
       "date": "2026-06-25T20:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | بيان خليجي - أميركي : رفض فرض أي رسوم أو محاولة السيطرة على مضيق هرمز"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Kingdom suspends travel and entry for those coming from Congo, Uganda and South Sudan as a precaution to confront “Ebola”",
+      "url": "https://www.alriyadh.com/2195166",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T20:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المملكة تعلق السفر والدخول للقادمين من الكونغو وأوغندا وجنوب السودان احترازياً لمواجهة « إيبولا »"
     },
     {
       "headline": "#Dar_AlFunoun_AbuDhabi",
@@ -697,6 +718,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-25T18:15:43.000Z"
+    },
+    {
+      "headline": "Florida - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VR1BZZDhWRnBHb3hncWNPQ2VyMUx0QU9XU0dEbTdtOTdicnJTbEZyTUNkV3NTMlZ0TVJKMWc4QjFMaFRB?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T18:08:53.000Z"
     },
     {
       "headline": "Ministry of Education launches NOVA project to advance comprehensive AI-driven institutional transformation",
@@ -1391,7 +1422,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-25T16:01:00.000Z",
-      "originalHeadline": "أسعار خيالية لتذاكر مباراة السعودية والرأس الأخضر في المونديال - بوابة الأهرام"
+      "originalHeadline": "أسعار خيالية لتذاكر م��اراة السعودية والرأس الأخضر في المونديال - بوابة الأهرام"
     },
     {
       "headline": "The Minister of State for Foreign Affairs receives the Italian Ambassador to the Kingdom.\n\nhttps://\nspa.gov.sa/N2620874\n#SPA",
@@ -1787,6 +1818,16 @@
       "date": "2026-06-25T15:11:02.213Z"
     },
     {
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T15:09:11.000Z"
+    },
+    {
       "headline": "Sheikh Zayed Grand Mosque Centre continues to receive submissions for 'Dhay' photography competition",
       "url": "https://www.wam.ae/en/details/c0wiztc-sheikh-zayed-grand-mosque-centre-continues-receive",
       "source": "Emirates News Agency (WAM)",
@@ -2020,6 +2061,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-25T14:42:32.000Z"
+    },
+    {
+      "headline": "Keir Starmer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T14:41:16.000Z"
     },
     {
       "headline": "(Anti-Corruption and Economic and Cyber Security): Woman detained after posting content on social media that infringes on one of the sects\n\n\nhttps://\npolicemc.gov.bh/news/79689/",
@@ -2648,16 +2699,6 @@
       "date": "2026-06-25T13:19:06.000Z"
     },
     {
-      "headline": "Keir Starmer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-25T13:11:56.000Z"
-    },
-    {
       "headline": "Lean Technologies and Zeina launch the first one-click banking payment experience in the UAE within the framework of open finance - Wamda",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1lvUkxCYjZGeWJ3NDJkRU1zbndGQk9hOGtIX3MtNndtWGwzamJPalFURW00QVktdXFERHVwYnRtLWI0MzVnRTVadnNwX1pCTEdhMUltbmVaekdmamc3bnlHWWgzcy1iSjdYbDB6b19TVmNDZ21ZdTBEYnRXM3BmMko0LXFkRHp2S0R3NVd3S0dyMTZEbFduakNCZ0V4Q0U5?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2926,67 +2967,6 @@
       "date": "2026-06-25T12:35:13.000Z"
     },
     {
-      "headline": "His Highness the Prime Minister Thursday expressed sincere condolences & heartfelt sympathy to Acting President of #Bolivarian Republic of #Venezuela Delcy Rodriguez, over victims of two earthquakes that struck Venezuela.\n\n\nhttp://\now.ly/vOLb30sWMbh\n#Kuna\n#kuwait",
-      "url": "https://x.com/kuna_en/status/2070123403202203917",
-      "source": "Kuwait News Agency (KUNA)",
-      "sourceId": "twitter_kuna_en",
-      "category": "kuwait_twitter",
-      "country": "Kuwait",
-      "language": "en",
-      "date": "2026-06-25T12:34:15.000Z"
-    },
-    {
-      "headline": "The Sultanate of #Oman marks the World Maritime Day. The event underscores the vital role of seafarers in supporting global trade and ensuring the regular functioning of supply chains. It also highlights the status of maritime transport as a cornerstone of sustainable economic",
-      "url": "https://x.com/ONA_eng/status/2070123300425187492",
-      "source": "Oman News Agency",
-      "sourceId": "twitter_ona_eng",
-      "category": "oman_twitter",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-25T12:33:50.000Z"
-    },
-    {
-      "headline": "Over 1.4 million amphetamine narcotic pills seized at the northern borders hidden inside a rock-crushing machine \"crusher\"",
-      "url": "https://x.com/alekhbariyatv/status/2070123122947145910",
-      "source": "Al Ekhbariya TV",
-      "sourceId": "twitter_alekhbariya",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-25T12:33:08.000Z"
-    },
-    {
-      "headline": "His Highness the Crown Prince Thursday expressed sincere condolences & heartfelt sympathy to Acting President of the #Bolivarian Republic of #Venezuela Delcy Rodriguez, over victims of two earthquakes that struck Venezuela.\n\n\nhttp://\now.ly/qhgW30sWMb5\n#Kuna\n#kuwait",
-      "url": "https://x.com/kuna_en/status/2070123036641038496",
-      "source": "Kuwait News Agency (KUNA)",
-      "sourceId": "twitter_kuna_en",
-      "category": "kuwait_twitter",
-      "country": "Kuwait",
-      "language": "en",
-      "date": "2026-06-25T12:32:47.000Z"
-    },
-    {
-      "headline": "Ministry of Health: The seven health clusters begin sending transfer requests for the second batch to Ministry of Health employees to the health clusters.\n\nhttp://\nspa.gov.sa/ar/w2620694\n#واس",
-      "url": "https://x.com/SPAregions/status/2070122863458140570",
-      "source": "Saudi Press Agency (Regions)",
-      "sourceId": "twitter_spa_regions",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-25T12:32:06.000Z",
-      "originalHeadline": "Ministry of Health: The seven health clusters begin sending transfer requests for the second batch to Ministry of Health employees to the health clusters.\n\nhttp://\nspa.gov.sa/ar/w2620694\n#واس"
-    },
-    {
-      "headline": "Muscat Stock Exchange \"MSX 30\" index closes at 7,316.65 points, down 31.8 points, or 0.43 percent, from the previous session's close of 7,348.49 points.\n\n\nhttps://\nn9.cl/oylsx",
-      "url": "https://x.com/ONA_eng/status/2070122799734428084",
-      "source": "Oman News Agency",
-      "sourceId": "twitter_ona_eng",
-      "category": "oman_twitter",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-25T12:31:51.000Z"
-    },
-    {
       "headline": "OPAZ Board of Directors holds its third meeting for 2026",
       "url": "https://timesofoman.com//article/173505-opaz-board-of-directors-holds-its-third-meeting-for-2026",
       "source": "Times of Oman",
@@ -2997,26 +2977,6 @@
       "date": "2026-06-25T12:31:49.000Z"
     },
     {
-      "headline": "His Highness the Amir expressed sincere condolences & heartfelt sympathy to Acting President of the #Bolivarian Republic of #Venezuela Delcy Rodriguez, over victims of two earthquakes that struck Venezuela.\n\n\nhttp://\now.ly/yPPw30sWMb1\n#Kuna\n#Kuwait",
-      "url": "https://x.com/kuna_en/status/2070122588953513991",
-      "source": "Kuwait News Agency (KUNA)",
-      "sourceId": "twitter_kuna_en",
-      "category": "kuwait_twitter",
-      "country": "Kuwait",
-      "language": "en",
-      "date": "2026-06-25T12:31:00.000Z"
-    },
-    {
-      "headline": "CEO of Qatari Diar Discusses Prospects for Cooperation with Ambassador of Kyrgyzstan. #QNA\n#Qatar #Economy\n\nhttps://\now.ly/RuIA50ZgP7P",
-      "url": "https://x.com/QNAEnglish/status/2070122444052988154",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-06-25T12:30:26.000Z"
-    },
-    {
       "headline": "Transport Authority Celebrates over 3,000 Saudi Seafarers on Day of the Seafarer",
       "url": "https://spa.gov.sa/en/N2620725?type=news&uuid=N2620725",
       "source": "Saudi Press Agency",
@@ -3025,17 +2985,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-25T12:30:23.000Z"
-    },
-    {
-      "headline": "Seized more than (1.4) million amphetamine narcotic pills hidden inside a machine used for crushing rocks (a crusher) in the northern border region.\n\n#War_on_drugs",
-      "url": "https://x.com/MOISaudiArabia/status/2070122337215631480",
-      "source": "Saudi Interior Ministry",
-      "sourceId": "twitter_moi_saudi",
-      "category": "saudi_twitter",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-25T12:30:00.000Z",
-      "originalHeadline": "Seized more than (1.4) million amphetamine narcotic pills hidden inside a machine used for crushing rocks (a crusher) in the northern border region.\n\n#الحرب_على_المخدرات"
     },
     {
       "headline": "Researchers : Master Key Vaccine Technique May Prevent Next Pandemic",
@@ -3079,16 +3028,6 @@
       "date": "2026-06-25T12:27:29.000Z"
     },
     {
-      "headline": "The Board of Directors of the Public Authority for Special Economic Zones and Free Zones holds its third meeting for 2026. The Board discussed the preliminary directives regarding the corporate governance of the Public Establishment for Industrial Estates and the Special Economic",
-      "url": "https://x.com/ONA_eng/status/2070121499701461343",
-      "source": "Oman News Agency",
-      "sourceId": "twitter_ona_eng",
-      "category": "oman_twitter",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-25T12:26:41.000Z"
-    },
-    {
       "headline": "HM The Sultan condoles President of Venezuela",
       "url": "https://timesofoman.com//article/173501-hm-the-sultan-condoles-president-of-venezuela",
       "source": "Times of Oman",
@@ -3097,16 +3036,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-25T12:25:45.000Z"
-    },
-    {
-      "headline": "Qatar Football Association (QFA) Secretary General to #QNA: #Qatar's #World_Cup Campaign Had Positives, Fans Set Exemplary Image\n\nhttps://\now.ly/2tTV50ZgP5z",
-      "url": "https://x.com/QNAEnglish/status/2070121128845045850",
-      "source": "Qatar News Agency",
-      "sourceId": "twitter_qna_eng",
-      "category": "qatar_twitter",
-      "country": "Qatar",
-      "language": "en",
-      "date": "2026-06-25T12:25:12.000Z"
     },
     {
       "headline": "Oman affirms its support for US-Iran MoU, success of its objectives to achieve peace",
@@ -3119,14 +3048,85 @@
       "date": "2026-06-25T12:24:12.000Z"
     },
     {
-      "headline": "At GCC-US Ministerial Meeting in Manama, I reaffirmed Oman’s support for all peace initiatives and our commitment to dialogue, regional stability, and freedom of navigation as pillars of security and prosperity.",
-      "url": "https://x.com/badralbusaidi/status/2070120664078712929",
-      "source": "Badr Albusaidi",
-      "sourceId": "twitter_albusaidi",
-      "category": "oman_twitter",
-      "country": "Oman",
+      "headline": "The UAE grants an entry visa upon arrival to nationals of 6 countries residing outside it - UAE Ministry of Foreign Affairs",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWxJUFNxb1JtT1dVWDZEMU9ETU1VQ0NwRWllOWhDSDIwcE9TMy1ScHl1YkhDX2loZVA3cmxBWkotWmxGcHdWcl9uRUdJM1l1QVZhTkVVeDFlajl4Mnc4a01oZy1KMlR5NGFWM3FaZGlFQU9VLWlucDJpWUdCRHc0alRCZEVrdlU?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T12:21:36.000Z",
+      "originalHeadline": "الإمارات تمنح تأشيرة دخول عند الوصول لرعايا 6 دول مقيمين خارجها - وزارة الخارجية الإماراتية"
+    },
+    {
+      "headline": "Investopia Global – Tashkent advances UAE–Uzbekistan investment partnerships",
+      "url": "https://www.wam.ae/en/details/c0wizkf-investopia-global-tashkent-advances-uae–uzbekistan",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
       "language": "en",
-      "date": "2026-06-25T12:23:21.000Z"
+      "date": "2026-06-25T12:05:06.705Z"
+    },
+    {
+      "headline": "Hamdan bin Mohammed approves new Dubai Municipality projects to enhance quality of life in emirate",
+      "url": "https://www.wam.ae/en/details/c0wizhm-hamdan-bin-mohammed-approves-new-dubai",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T11:59:05.390Z"
+    },
+    {
+      "headline": "TikTok influencer charged with Dubai murder",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T11:58:44.000Z"
+    },
+    {
+      "headline": "International University of Africa Commends Kingdom’s Educational Support in Africa",
+      "url": "https://spa.gov.sa/en/N2620703?type=news&uuid=N2620703",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T11:53:36.000Z"
+    },
+    {
+      "headline": "1.3 Million Pomegranate Trees in Kingdom Produce 39,700 Tons During Summer Season",
+      "url": "https://spa.gov.sa/en/N2620696?type=news&uuid=N2620696",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T11:43:07.000Z"
+    },
+    {
+      "headline": "Riyadh Governor Receives Indian Ambassador on Occasion of Tenure's End",
+      "url": "https://spa.gov.sa/en/N2620690?type=news&uuid=N2620690",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T11:40:06.000Z"
+    },
+    {
+      "headline": "UAE GSU’s Ali Alshimmari Highly Commended at Reuters Energy Industry Awards 2026",
+      "url": "https://www.wam.ae/en/details/c0wizhh-uae-gsu’s-ali-alshimmari-highly-commended-reuters",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T11:37:19.006Z"
     }
   ]
 }
