@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-25T17:02:25.802Z",
+  "updated": "2026-06-25T17:18:17.081Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Minister of State for Foreign Affairs Receives Panamanian Ambassador to Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2620923?type=news&uuid=N2620923",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T17:14:32.000Z"
+    },
+    {
+      "headline": "Minister of State for Foreign Affairs Receives Italian Ambassador to Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2620921?type=news&uuid=N2620921",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T17:09:57.000Z"
+    },
+    {
+      "headline": "Khalifa University’s TelecomGPT-R1 tops GSMA Leaderboard with 89.6% score, leading global AI models",
+      "url": "https://www.wam.ae/en/details/c0wizz4-khalifa-university’s-telecomgpt-r1-tops-gsma",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T17:09:02.102Z"
+    },
     {
       "headline": "Sharjah Digital Department marks graduation of inaugural Digital Transformation Expert cohort",
       "url": "https://www.wam.ae/en/details/c0wizwb-sharjah-digital-department-marks-graduation",
@@ -55,6 +85,16 @@
       "date": "2026-06-25T16:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "فوائد تناول الشمام لمرضى الكوليسترول"
+    },
+    {
+      "headline": "Ahmed bin Saeed witnesses opening of new manufacturing unit at Dubai Silicon Oasis",
+      "url": "https://www.wam.ae/en/details/c0wizw9-ahmed-bin-saeed-witnesses-opening-new",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T16:26:37.730Z"
     },
     {
       "headline": "A cargo ship was hit by an unknown missile southeast of the coast of Oman - Youm7",
@@ -548,6 +588,16 @@
       "date": "2026-06-25T15:29:54.000Z"
     },
     {
+      "headline": "Trump shouting match with Republican senator clouds US push to sell Iran deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T15:28:50.000Z"
+    },
+    {
       "headline": "HE Prime Minister and Minister of Foreign Affairs Holds Telephone Conversation with Acting President of #Venezuela. #QNA\n#Qatar\n\nhttps://\now.ly/3G2S50Zh42m",
       "url": "https://x.com/QNAEnglish/status/2070165181359907177",
       "source": "Qatar News Agency",
@@ -707,6 +757,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-25T15:00:10.189Z"
+    },
+    {
+      "headline": "Qatar bids farewell to the World Cup - Al-Ahram Gate",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pcmpaWVU1MXF2dVFCRENod1lod2NCMXNuby1ZMU5BVDVFek9uak9DOUZHUlZBNEs4QVN6M3pzYjNDbXpVUlkxc2I4dGM2SmZKYnlYMDIyaDZzSTIzN0FF?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T15:00:00.000Z",
+      "originalHeadline": "قطر تُودع المونديال - بوابة الأهرام"
     },
     {
       "headline": "Saudi Arabia..GDP growth in 2025 confirms the continued success of economic reform programs - Mubasher Info",
@@ -1573,16 +1634,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-25T12:52:54.000Z"
-    },
-    {
-      "headline": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-25T12:52:28.000Z"
     },
     {
       "headline": "#QNA_Infographic |\n#Qatar_Stock_Exchange (QSE) Index Closes Lower. #QNA\n#Qatar #Economy\n\nhttps://\now.ly/ZKfC50ZgQ7z",
@@ -3005,6 +3056,17 @@
       "date": "2026-06-25T10:36:23.000Z"
     },
     {
+      "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZYLVE0Mmx3Qzl5X0t6bHpfRmNibnFHN3lhWDg1Z3d5VXNMRVczeDFBY3lfLV9QMTE1TVhEV1MtQUFKVmxXb0RVVmFLTHVQS3h1YzRlVE5qY01sLTlEQVlDVDFZWmRUdEV1S211SEhLcDJCMGhBSjhMWmdiUXItLWN0Mld5MEVXUXcyOG1TSjJiVlN0czhHMEZsZFl4NlpFZTI3b2wxd2IzSVlXd0NjVkxGX3doVE9hRHptRlhnVU1uWnE5Y1BfeFZpVW1fNkNyVVhZY1prWXNRTnRqOEdLWFJZVEtxNjdvRGUxYVN3ZWpLc245bTM0OThOeGJrSnUyNVNtM29ZaC1JV0VMNjJTN3ZWa1FZYW1TMVlTazBPMkRMUmtnUVF6OTljdHVGYjRDVmROc0xJTDFD?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T10:33:24.000Z",
+      "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
+    },
+    {
       "headline": "#The Sultanate of Oman affirms its support for the memorandum of understanding signed between the United States of America and the Islamic Republic of Iran, and the importance of achieving its objectives for the sake of realizing the desired peace, restoring freedom of navigation",
       "url": "https://x.com/OmanNewsAgency/status/2070092649848332722",
       "source": "Oman News Agency (Arabic)",
@@ -3089,73 +3151,6 @@
       "date": "2026-06-25T10:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "حجم أرباح قد يصدمك .. ترتيب أكثر صناع المحتوى جنيا للمال على الانترنت بقائمة فوربس"
-    },
-    {
-      "headline": "A fishing rope wrapped around its tail... Watch the moment a small humpback whale is freed",
-      "url": "https://arabic.cnn.com/travel/article/2026/06/25/entangled-whale-freed-from-fishing-gear",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "التفّ حبل للصيد حول ذيله .. شاهد لحظة تحرير حوت أحدب صغير"
-    },
-    {
-      "headline": "Behind the scenes of 70 minutes of tension in the Capitol...an angry confrontation between Trump and Cassidy over Iran",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/25/trumps-capitol-visit-devolves-shouting-match-gop-senator-primary-fight",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كواليس 70 دقيقة من التوتر في الكابيتول .. مواجهة غاضبة بين ترامب وكاسيدي بسبب إيران"
-    },
-    {
-      "headline": "A surprising result: Omega-3 supplements do not enhance memory or cognitive abilities as we thought",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/06/25/omega-3-fish-oil-algae-supplement-wellness",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نتيجة مفاجِئة .. مكملات أوميغا 3 لا تعزز الذاكرة أو القدرات الإدراكية كما اعتقدنا"
-    },
-    {
-      "headline": "Florida - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VR1BZZDhWRnBHb3hncWNPQ2VyMUx0QU9XU0dEbTdtOTdicnJTbEZyTUNkV3NTMlZ0TVJKMWc4QjFMaFRB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-25T10:12:11.000Z"
-    },
-    {
-      "headline": "10 nationalities capture 92.4% of the labor market in Kuwait - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZTVlRnJUWEltWlMxbmw3YkJYSFpaUTc0RWNJQXh0ZERheUltQ21nMFRWUGNSUktxRlJCTEhweGd2UGtMcHhFcjJMRWx1bTB1NU9TYXFGZkZraUhaS3VYUDZBLS1TQUlEdEdUX0xxN0dCb21FV3lncXA1YVNFMTJYMU04Q0hCU25VdFRVb1BERC1hbnhueDZHWXlLbGVEVmNxZUlteGJfbWQ0RHRrTC01N2lGNi1YQ1R6ZE5wZTZJVlFxaVZpYlE0ZElrVDhERkdrLVVfLW52TVBCQkZ3WEhpcGR5ekRmY2M2bmsyX0x1Skt3X3Q3a0xIQ1IyVllYT1RHeHUta1pBOWNHd0tQa2VLR0p1cUR5SVpsRUY3VjUxY3NUd0ZtV2NDLXoxcjRQUWxOd3pEUHdZalVTZkF3Nmh2U0k3QW9ieUsySmpkTi1FZU4xN1ZrWlZTOEV3NnpQNEhMWjJBNUpR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T10:10:42.000Z",
-      "originalHeadline": "10 جنسيات تقتنص 92.4% من حجم سوق العمل في الكويت - معلومات مباشر"
-    },
-    {
-      "headline": "Planning a Japan trip? Visa costs to jump fivefold from July",
-      "url": "https://timesofoman.com//article/173497-planning-a-japan-trip-visa-costs-to-jump-fivefold-from-july",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-25T10:05:55.000Z"
     }
   ]
 }
