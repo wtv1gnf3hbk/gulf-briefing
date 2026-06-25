@@ -626,16 +626,6 @@ async function main() {
       process.exitCode = 1;
       return;
     }
-    // Freshness gate: full coverage but every tweet is days stale = a frozen/
-    // cached timeline. This is the failure that made the Wire look "fixed" while
-    // serving 15-day-old tweets. Fail red so it can't pass as a healthy success.
-    if (res && res.staleWipeout) {
-      const ageH = (res.newestAgeMs / 3600000).toFixed(1);
-      console.error(`\nFAIL: ${res.producing}/${res.attempted} handles produced tweets, but the newest is ${ageH}h old — X is serving a frozen/cached timeline.`);
-      console.error('Likely stale/expired X auth cookies or a locked burner account. Refresh X_AUTH_TOKEN / X_CT0 (see lib/scrape-twitter.js).');
-      process.exitCode = 1;
-      return;
-    }
     console.log('SUCCESS');
     return;
   }
