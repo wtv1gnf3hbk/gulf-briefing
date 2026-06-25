@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-25T12:03:32.662Z",
+  "updated": "2026-06-25T12:17:18.716Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Investopia Global – Tashkent advances UAE–Uzbekistan investment partnerships",
+      "url": "https://www.wam.ae/en/details/c0wizkf-investopia-global-tashkent-advances-uae–uzbekistan",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T12:05:06.705Z"
+    },
     {
       "headline": "Hamdan bin Mohammed approves new Dubai Municipality projects to enhance quality of life in emirate",
       "url": "https://www.wam.ae/en/details/c0wizhm-hamdan-bin-mohammed-approves-new-dubai",
@@ -73,6 +83,16 @@
       "date": "2026-06-25T11:40:06.000Z"
     },
     {
+      "headline": "UAE GSU’s Ali Alshimmari Highly Commended at Reuters Energy Industry Awards 2026",
+      "url": "https://www.wam.ae/en/details/c0wizhh-uae-gsu’s-ali-alshimmari-highly-commended-reuters",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T11:37:19.006Z"
+    },
+    {
       "headline": "At least 164 dead, 971 injured as quakes rock Venezuela",
       "url": "https://timesofoman.com//article/173498-at-least-164-dead-971-injured-as-quakes-rock-venezuela",
       "source": "Times of Oman",
@@ -91,6 +111,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-25T11:35:21.000Z"
+    },
+    {
+      "headline": "First Thing : Powerful earthquakes rock Venezuela as death toll reaches 164 | US news",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/first-thing-earthquakes-venezuela-death-toll",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-25T11:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "General Court of Audit President Attends IIA Board Meeting in Singapore",
@@ -376,6 +407,17 @@
       "date": "2026-06-25T10:38:50.396Z"
     },
     {
+      "headline": "Yemen forms an official investigation committee into the assassination of journalist Muhammad Aydah - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSy14NUloZHg1Sm5teTlsZ1NpZDA2QTVhcUpHaHFtdkxCNjJpcEwyeXZ5Rm1TZTNTemlObk4zbWxmSFNLbkFFWlg4ZkJwRkVMcG5DcTFHUVF2WTk4dVZBTU94UnA0aVdva0FXZVlITVJRNU05UkpzcUtEUnVhMnJGRV9pbFcxSW1pY2NMSXJCT3JRd1l5dWE2OGFTakdhRXo3V19DNzVOcUhVaFRYZkxJaUw1SVJhZ9IBuwFBVV95cUxQaEJkanVWT21XVF9ha1hSdjJWVGIxeG1RZkVUSTFlV3BQUGFRWjkyRkt4c3drM2ZmZ0N1dnhwcE1VUndnUFdxOTJTV3NYcm9HUFhTVTRTTTBBZFU0UVhVWERoWUZqeDcyS180VHlLR0Iya3hkVnItd3ZwSWxQTjkxYzNNU3JfVk5VYVlzWUliMDY5M1lCektCLTNPZngyQVhGdGYtZTgtYjVoYkJBUDM3VjMxWGE4TVcwY3dB?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T10:38:03.000Z",
+      "originalHeadline": "اليمن يشكل لجنة تحقيق رسمية باغتيال الصحفي محمد عيضة - الجزيرة نت"
+    },
+    {
       "headline": "Texas - AP News",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10bnA2UDhzd2JCUU9oNUNpSDhhSlhZcmUwYko1ckxUeHA0NjZ5TE55Q0VVSURBc1NOVmd1YVJNRG5PQQ?oc=5",
       "source": "AP Gulf",
@@ -384,17 +426,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-25T10:36:23.000Z"
-    },
-    {
-      "headline": "Yemen forms an official investigation committee into the assassination of journalist Muhammad Aydah - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSy14NUloZHg1Sm5teTlsZ1NpZDA2QTVhcUpHaHFtdkxCNjJpcEwyeXZ5Rm1TZTNTemlObk4zbWxmSFNLbkFFWlg4ZkJwRkVMcG5DcTFHUVF2WTk4dVZBTU94UnA0aVdva0FXZVlITVJRNU05UkpzcUtEUnVhMnJGRV9pbFcxSW1pY2NMSXJCT3JRd1l5dWE2OGFTakdhRXo3V19DNzVOcUhVaFRYZkxJaUw1SVJhZ9IBuwFBVV95cUxQaEJkanVWT21XVF9ha1hSdjJWVGIxeG1RZkVUSTFlV3BQUGFRWjkyRkt4c3drM2ZmZ0N1dnhwcE1VUndnUFdxOTJTV3NYcm9HUFhTVTRTTTBBZFU0UVhVWERoWUZqeDcyS180VHlLR0Iya3hkVnItd3ZwSWxQTjkxYzNNU3JfVk5VYVlzWUliMDY5M1lCektCLTNPZngyQVhGdGYtZTgtYjVoYkJBUDM3VjMxWGE4TVcwY3dB?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T10:35:42.000Z",
-      "originalHeadline": "اليمن يشكل لجنة تحقيق رسمية باغتيال الصحفي محمد عيضة - الجزيرة نت"
     },
     {
       "headline": "4 countries, including Qatar, urge Europe to accelerate procedures for amending the methane system - Mubasher Info",
@@ -551,7 +582,7 @@
       "originalHeadline": "الأناقة السعودية بكرة القدم..ماذا يناسب سالم الدوسري بالموضة؟ - CNN Arabic"
     },
     {
-      "headline": "The UAE grants ADNOC a concession to develop the gas cap in Bab field - Economy Sky News Arabia",
+      "headline": "The UAE grants ADNOC a concession to develop the gas cap in the Bab field - Economy Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQMjVnMVBPWmRaSktrX0EyVkkxYkhSMzFEN0QwdGtEU0t4OVUzSnVBbnFtMzk2LXZjSFdlUFNNb1V1LW5yQl9MdGlhV0hFY2Exa0Q1aW55VXprY0lkWjFJRkItOS1EZzRLaTdBMVhVbjd3ejZSWUdfQ3Z0R0tHUnhmTlJnM3ZCQ1JCRGY1c3lTdjliOHdZN2xfanc3YWJrd0NEbHpsRXFvNkE5NU4xYWRzTnlVTmExVGNHNEJnZ1BwVmFTMXh5TFJ2enllWmNfaGQ5Wno0N1cwREo2ek93d19TWXhNcFk5NDhHUzRrREF2U1B4bHdwUmtCdFZrSmxQdmt4RmlZcUZNYy1rMVhkay1kQnVKUzNMNEpuLWQtVDlOakxMenRiS2VScVpGUzR3RGRkU280NU1TUzJEbUsxT0VvdEZLLVl3ZExJaTRRY2xrWVRWMGJDRGxOMDZkZURmTGNmd082NjFRal8wclowOElybVROU0J2REpMSDFwYmhqbjNpOTBvR0dYelpneE9HSjhvOXVpZF9FRjZwNG9BRC1wRU5TQ2k4NkJyNUtsVEFfcHBTT1RGZTZNQzdjNTlBd1JiYXRPZXhZc0RyeHAtS0lWUHprSjdicHVFVFY4aWR2OVIyVWV2V20wSURn?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -664,6 +695,17 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-25T09:32:00.000Z"
+    },
+    {
+      "headline": "Oil price falls to pre - Iran war levels as more tankers exit strait of Hormuz",
+      "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-25T09:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Trump praises Zelensky's performance in the war with Russia",
@@ -798,17 +840,6 @@
       "originalHeadline": "ما الذي غيّر جهازنا المناعي ؟ رحلة في أسباب انتشار الحساسية | صحة"
     },
     {
-      "headline": "Oil price falls to pre - Iran war levels as more tankers exit strait of Hormuz",
-      "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-25T09:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Rubio sends a message to the Gulf people and comments on a certain country’s control over Hormuz - CNN Arabic",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSFh2c2pTN2lrU1N3YkhwR3JLX0wtdGNpUUpMLWRncGpqY3FEdVhOZWEyR2VTTU15bmdNSFlXY2djczlpWkxkMUFWOGZ2N1ByM3ZyOUplM1ZvaHRueHc5UXFwS3JZUHotN2xqTGlQTDUwRFVuaWpDbmpsUTEyTkxEM213aF94VlkxSENFZ2tBQm52ZmlUb01aX05tRmI2YVNOQ29IZzBzZU1iTmZ6T2xPNDlrc3BtOUxRUmJQLWFsdnVwSWhqb0xoUWM2T21aNDA1VThBUjFtZnZZOGJ1Vl9IeUVIbjY3V1g0WEHSAfQBQVVfeXFMTmNSanRMUWgtTjJFUFhVSmNZaEwwdlNJVW5iMld2RFE4ZjhVMXVkRlNQQnZ3cnZFVGkyWjVFUWdqdk5IWHV1T1RvRV9QVmp4NUdVamRWRklSUFRIWTFNaTlESTdJM3pvMlN3MkVTNGNJUV9NMmpCZFRfRFRTYjk2UC1LMDZKT0V1OFpXSVhZcWRyMlpEaE53N2RVdHo5WTFwZUJEZ2sxWFNOVmx6QmNFcEJ1Ni1xRFd3TllVazhFYXh6Rk4wc01Wd1pkNVBlRXNhZDJDSmQ3c2V6cjU5YVFjZ3NpQS16YUZwbFJtWGNfSE1fX2JxSw?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -900,6 +931,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-25T09:18:30.000Z"
+    },
+    {
+      "headline": "“Saudi Airlines” had the least complaints among air transport service providers in the Kingdom in May - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOdkRkS3lkbjlYT2dXRzUxX1JReTRrdGJ4eW5abFR0RC1NLWxmSjdVTFFxeXFtNFo2elBjRWVucUtPbWVxRV9PTjRoNENkWEQ3NTZ2SmhBRmhpYXI2MEJwenNfTjVTS3hwcnVpY0F2Q29VQWpKU2RsOGpnOUlJdDI1RnZWZ01WZzhzenJIc2NPTXFxNXVBVUxDd3RHU0ltZ2pXSmRyeENreVA2a0w4TGRUeFU0RDJhZEZFalc3ZFFySE13d3NMRUpTcHZCRjNQNjNPM0h2OF9wV2h6OWdVanV5X2JCeC0yX3p2VGZMaWZvNTI2MVp4S1ZFTXhsT3hwMUdLWWxORjNDZ2xuemdnZnVwMjloZW9yamtFLTRyZXphZjI3dGJmeF9KeW84UGhZOXY3ZGdfQmFHXzVENHdTRlFNYXdFcmhmNmtEdkVSS3QxeUw2SWhEcUdOVkd5N1o4T0xRcVZ6N3BlLVRSaE52Y1NRQlM2QlNIbS1vV0tJb01IMGtpOG5LTUh4NnA4WWRRODhtUHB2N1N2LUdoQXNWZFh2YTE0RDA0bGpmUW94a3NfcmxpUnpHcDJ4NlN6a3dwaUdVazBLQTQwUHhyLXBVbXU0UExTb0JuWlJlLWpBTEpsaWR0RTRubkJPTF9WVnFTNVhvaVpad1BIRWU2Y1VrYm1SRURFdWdGem1INUtYdGdVOFpLTE9ZNXhnNloxRHVjV0dQVzVmQWItY3FBMFMzWmwyMktYcUpiWjlpbk9sUlhBTEk0cGhjeHo3Uks1RF9ObGM1TEZPU1VjNDZKbGFfTTRMSlpNazl0V21uZ3BV0gHrBEFVX3lxTE52RGRLeWRuOVhPZ1dHNTFfUlF5NGt0Ynh5blpsVHRELU0tbGZKN1VMUXF5cW00WjZ6UGNFZW5xS09tZXFFX09ONGg0Q2RYRDc1NnZKaEFGaGlhcjYwQnB6c19ONVNLeHBydWljQXZDb1VBakpTZGw4amc5SUl0MjVGdlZnTVZnOHN6ckhzY09NcXE1dUFVTEN3dEdTSW1naldKZHJ4Q2t5UDZrTDhMZFR4VTREMmFkRkVqVzdkUXJITXd3c0xFSlNwdkJGM1A2M08zSHY4X3BXaHo5Z1VqdXlfYkJ4LTJfenZUZkxpZm81MjYxWnhLVkVNeGxPeHAxR0tZbE5GM0NnbG56Z2dmdXAyOWhlb3Jqa0UtNHJlemFmMjd0YmZ4X0p5bzhQaFk5djdkZ19CYUdfNUQ0d1NGUU1hd0VyaGY2a0R2RVJLdDF5TDZJaERxR05WR3k3WjhPTFFxVno3cGUtVFJoTnZjU1FCUzZCU0htLW9XS0lvTUgwa2k4bktNSHg2cDhZZFE4OG1QcHY3U3YtR2hBc1ZkWHZhMTREMDRsamZRb3hrc19ybGlSekdwMng2U3prd3BpR1VrMEtBNDBQeHItcFVtdTRQTFNvQm5aUmUtakFMSmxpZHRFNG5uQk9MX1ZWcVM1WG9pWlp3UEhFZTZjVWtibVJFREV1Z0Z6bUg1S1h0Z1U4WktMT1k1eGc2WjFEdWNXR1BXNWZBYi1jcUEwUzNabDIyS1hxSmJaOWluT2xSWEFMSTRwaGN4ejdSSzVEX05sYzVMRk9TVWM0NkpsYV9NNExKWk1rOXRXbW5ncFU?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T09:17:00.000Z",
+      "originalHeadline": "\"الخطوط السعودية\" الأقل شكاوى بين مقدمي خدمات النقل الجوي بالمملكة في مايو - العربية"
     },
     {
       "headline": "“Saudi Airlines” had the least complaints among air transport service providers in the Kingdom in May - Al Arabiya",
@@ -2010,16 +2052,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Keir Starmer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-25T05:25:24.000Z"
-    },
-    {
       "headline": "Mexico beat Czechia to reach Round of 32",
       "url": "https://www.wam.ae/en/details/c0wiyzz-mexico-beat-czechia-reach-round",
       "source": "Emirates News Agency (WAM)",
@@ -2039,6 +2071,16 @@
       "language": "ar",
       "date": "2026-06-25T05:12:47.000Z",
       "originalHeadline": "\"جي تي سي\" تُعلن زيادة رأس مال شركة تابعة في قطر - معلومات مباشر"
+    },
+    {
+      "headline": "Keir Starmer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T05:12:30.000Z"
     },
     {
       "headline": "18 injured in bus rollover accident in Sohar",
@@ -2140,57 +2182,14 @@
       "originalHeadline": "الكويت.. فيديو مراسم إعادة رفع العلم الأمريكي بالسفارة - CNN Arabic"
     },
     {
-      "headline": "Venezuela declares state of emergency after back-to-back earthquakes",
-      "url": "https://www.wam.ae/en/details/c0wiyx6-venezuela-declares-state-emergency-after",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-25T04:49:54.896Z"
-    },
-    {
-      "headline": "Shiite Muslims collectively mourn to mark Muharram and Ashoura - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXdFZV8yVWI1RUdLTkNENDZUTHJCQUhjbURkaklpM2hzQlNXekdWMjA1YkRSUjdjcW5MMnkzdWI4eDhwSWlVMDNKTmtrSG9rWHhZY3FUcmFVbU94bHM2QXVucEx4Y3dnSUI2ZFBVWTVOMnlocV9FX0F0ZFVYeGNVUU9hRTFrdzVRc0NKcWlWZGotVzRBTDhZX2RpVFhVeV9v?oc=5",
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-06-25T04:45:00.000Z"
-    },
-    {
-      "headline": "Mexico has a full mark... and the Czech Republic is deposited (photos)",
-      "url": "https://aawsat.com/5288266-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D8%AA%D9%88%D8%AF%D8%B9-%D8%B5%D9%88%D8%B1",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-25T04:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المكسيك علامة كاملة ... والتشيك تودع ( صور )"
-    },
-    {
-      "headline": "Oman publishes a map of the temporary route of ships in the Strait of Hormuz - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmFJYmFPc2tlVFM4bkpVXzQ0WHgyemY2Nk96WVpBUUhyM1RRc2VVRWdDVW1uWnZ2YlB1ekpuVkFSaUNOSG1leVZRcmswZkZaQ1FuQjZpS1U3MThxSEZlWFZGTWJEV25oQ2xmTGgxRVRJY213T1lPUDBCUGtOR1dDaXF1amhsZmctTXZQZNIBlwFBVV95cUxPeWVKaE94czY4LWYydlppZWNjbDRTZWxYbENOSlFRVWRwNGpIeFBfak5heWpyZWtaVUpSRDlwZFktSjR6dXA3X1pxRk5pZnVpTFJ6M2dMVUFsb1pMQTJYa0N6MWI2V09CZ1JNVzQ3ZTRHWGUxQm1fbWFtNTRMQVJHcTFCMC1PNWZBQUoxQXZXS3hDRi1TWlVr?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-25T04:38:03.000Z",
-      "originalHeadline": "عُمان تنشر خريطة المسار المؤقت للسفن في مضيق هرمز - CNN Arabic"
-    },
-    {
-      "headline": "Gold extends losses on Fed tightening outlook, dollar strength",
-      "url": "https://www.wam.ae/en/details/17agap5-gold-extends-losses-fed-tightening-outlook-dollar",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-25T04:23:19.919Z"
+      "date": "2026-06-25T04:50:30.000Z"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
