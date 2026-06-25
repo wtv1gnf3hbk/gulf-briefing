@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-25T05:47:17.005Z",
+  "updated": "2026-06-25T06:02:18.130Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Thursday",
+      "url": "https://spa.gov.sa/en/N2620443?type=news&uuid=N2620443",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-25T05:47:48.000Z"
+    },
     {
       "headline": "Trump pledges US aid for Venezuela quake; as USGS projects quake death toll reaching 100,000",
       "url": "https://timesofoman.com//article/173491-trump-pledges-us-aid-for-venezuela-quake-as-usgs-projects-quake-death-toll-reaching-100000",
@@ -21,6 +31,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-25T05:33:53.486Z"
+    },
+    {
+      "headline": "Tetesi za soka Ulaya Alhamisi 25 . 06 . 2025 : Gusto , Rogers , Angus , Bowen",
+      "url": "https://www.bbc.com/swahili/articles/c4gy7l3j34go",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-25T05:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "GTC announces an increase in the capital of a subsidiary in Qatar - Mubasher Info",
@@ -88,6 +109,17 @@
       "date": "2026-06-25T05:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "روبيو يؤكد مراعاة مصالح الحلفاء في مفاوضات إيران والتمسك بحرية الملاحة بهرمز"
+    },
+    {
+      "headline": "The President of the UAE discusses strategic cooperation relations with the US Secretary of State - Mubasher Info",
+      "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxNYlJKcDRQRzUzdnhhMVMyNGFVdDFMaUM3alktVU9taklsYlJTTnVKUHNxV3hsRzBUOU5RV3FBWU5CZWNJRFhfb0hldWN6QmYtM0o0dDlaWUYzcU5CUzJzcXhoejFtX1hnekhXcHJUMXVmbVN1Q0tuaVgxVGhqLXFNX2Zha19NY2dVbGVFWkFHSWd2czd2clVvQzB0MVg1T0ZBQjJTeU5vN29yMTMyd3dUa29uQnRaelBDSlpiX1VZdTZpaEdxX3VhZUkxODFHalpvVGtpVXVQOUt2b196NFhkZ0Z1SXEwX2hZdldkTTlqQm4tbTRNWDVGU3BIdU54X05RY2xTaXI5Z3ZFUmJfVDdYb2lELXdwQlR1NlFmOG1TTmdfUEp2VWswelFGZEZWTWhnN2J1bmk1VHkzQUpVNEdNN0Zyekh1OC1WOGZ3N1VSbzZxOUdyazA2czlaR2Y3SWFnSGdIV1ZXeHFlQ1JUSktKdlhfS3VsSmQ2V081SkRvWDFkRk9zd1FvM3YyWFdSOC1Kd0Y2eVhsODdHTTctMElxTnpPTFQtNFI0amYzWHhjNnEwUzJVNGJPUnc1RnpvZVBldElTZmxoV0ZmS1F4bHVZeGtjbG5wY2tQQWY2UDdkcHFOUFBXb3ozZUh3UmhGcDJCSnp5WGtRMThrTDNUNXIzNE80dGQwZG9ZX0N4ajgtTWdVakU5VHdSRDNyajVJNVVudE5oNUxLQU1pNWp4UWxLVnY0VHFJWi01TENzd1pjRjFCX1VsN2JmaWFqVXBmQQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T04:56:57.000Z",
+      "originalHeadline": "رئيس الإمارات يبحث مع وزير الخارجية الأمريكي علاقات التعاون الاستراتيجي - معلومات مباشر"
     },
     {
       "headline": "The President of the UAE discusses strategic cooperation relations with the US Secretary of State - Mubasher Info",
@@ -372,6 +404,16 @@
       "date": "2026-06-25T02:12:16.000Z"
     },
     {
+      "headline": "Oil prices fall as supply concerns ease, Brent drops to US$73.34 per barrel",
+      "url": "https://www.wam.ae/en/details/17agaoj-oil-prices-fall-supply-concerns-ease-brent-drops",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T02:04:04.163Z"
+    },
+    {
       "headline": "Iraq and the UAE discuss ways to strengthen relations and support stability efforts - Youm7",
       "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOeDJ3VUN5eXllWUUyb1U3VnFtcmhZdU1aUkJ4blJINnNoZ1NYSjhyYldmMVA2M1phbW1kdU9ONjY5bUNvbjhCZGhqR2dTZnd1U2tMU2J4WTlmUkpXSDNQT3l0RjBFenlZeXVwME5tSk9iRDdZSkpoQUFlT3FMbGlRX2FBZm1Ka0tYbDZQR25Qc1hzTmVMRy1RdER3RklfNmpmY1VLak9TRmEtMThSaEdJM3M1ZkVSMHY0N0IwcUxNckxKeFhxaTAteW9MV1V3dnJVZWRVRThVeDU2SFVFMlRvbzk1dl9hVjZNdVB0SG9qQnROYlpjRmllMWJycEhlWG9yZW5TMU5JZGktVkxNaUN2dDVYRThVWlh5alo5MTRHbWsxUGpRYUhkeFVQZUtEbElTVWZKM19ic1RXUW5GU0FDUkQ3VnhCT1Z0NHEzb1hsaEVtM3NjbjhpWnMyUDBKSVFvWnBTN3dVWlRNNW5lcjUzdFA1NHBFZm5LUTQ3VDdtemI5Nng3WGV5X01wSWFoYy05b2IwaEJHeWZYNFBSTzdpSTBWRjNDV3FpaXJ5R0R4SGtQdlJCeTI2a05JOWxieWZfWWVKRUNlbVVzQnhrUi1pMS10NXJpeURwVFFsRTNJMmd2WnprNFNkcWlXVHg5aHVVWXNLUm9tRVpZbEJ3QkhjNEFiV2VkSmdMZVhwOVZwNUpKalFm?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -630,6 +672,16 @@
       "originalHeadline": "الذهب فى السعودية يترقب إشارات جديدة من الفيدرالى الأمريكى وسط هدوء نسبى بالأسواق - اليوم السابع"
     },
     {
+      "headline": "Morocco fight back to beat Haiti, reach World Cup last 32",
+      "url": "https://www.wam.ae/en/details/17aganx-morocco-fight-back-beat-haiti-reach-world-cup",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-25T00:58:47.555Z"
+    },
+    {
       "headline": "In a letter obtained by CNN, details of the Trump administration’s request from Congress for additional funding due to the costs of the Iran war",
       "url": "https://arabic.cnn.com/world/article/2026/06/25/trump-administration-asks-congress-for-876-billion-in-supplemental-funding-mostly-for-iran-war",
       "source": "CNN Arabic",
@@ -830,6 +882,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-24T23:29:56.000Z"
+    },
+    {
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-24T23:18:34.000Z"
     },
     {
       "headline": "Khaled bin Abdullah honours Sharjah Excellence Award winners",
@@ -1413,7 +1475,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-24T21:00:00.000Z",
-      "originalHeadline": "قطر تخسر من الب��سنة والهرسك 3-1 وتودع كأس العالم من الدور الأول رسميًا - اليوم السابع"
+      "originalHeadline": "قطر تخسر من البوسنة والهرسك 3-1 وتودع كأس العالم من الدور الأول رسميًا - اليوم السابع"
     },
     {
       "headline": "Ranking of the Qatar group in the World Cup after the defeat against Bosnia and Herzegovina and the end of the third round - Championships",
@@ -1661,16 +1723,6 @@
       "language": "ar",
       "date": "2026-06-24T19:55:00.000Z",
       "originalHeadline": "قطر تتأخر أمام البوسنة والهرسك 2-1 في الشوط الأول - اليوم السابع"
-    },
-    {
-      "headline": "Hezbollah - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T19:53:03.000Z"
     },
     {
       "headline": "Moment by moment.. Qatar vs. Bosnia and Herzegovina in the World Cup 0-2 - Masrawy",
@@ -1971,6 +2023,16 @@
       "date": "2026-06-24T18:55:56.000Z"
     },
     {
+      "headline": "Keir Starmer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-24T18:55:03.000Z"
+    },
+    {
       "headline": "Officially... FIFA decides to suspend the Qatar national team player - Kooora",
       "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQbWZ1OFFjbFJwT2RtMzNQVlhLYVFvUk9zWFZfVk9nUWN1WW9zTTl5LTRMdWtPeG95X21ZSzlCTUdXV2tLNzN3YkN1SHpwcTFxRHh1YzZaVldESWJoTHQyU2ZhdHpqTmJ5N3l6eDVOTGFFS0FhVVRoOEtYdHlwWFc5MS1mNzFZSlJPaTdaTTF4aGNycUZnRWVtZnRDSHNwbm94MzBITTVaRWJqNXFEdFdFSk9iNmhiTEQ5My1DQlRKZGRPc096ZXdoZ2hGM19FUFBhU3RYZ2p1Y0IwUmx1WkVVNmlXSWpoc2ptelYwc0VLVzdpZWhsWGl4Wloxd04zVDhPdFByM1R1dGY3MkE5RVduWjI5bWg5WkJEU0NrNDluSC1UQThBcVVpUEJsZERjRlZONzYzQkZCYWVPemhiOFUxTF9jMWRQZ0ZySGdUeWt1V2JRa1hXX29qZzM3ZFFNeXJ1dlpLdndQQzBEREpmMlh5RFlYVUVjLW1ISldwQ1FERDFyZXk5TE1NYmZRUTM4VjI5b3FKbmNUczFJY0o4OTc4SDRZVEpneDA1dzY5dGRBN09LTEE?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2123,16 +2185,6 @@
       "originalHeadline": "بث مباشر لحظة بلحظة: مباراة قطر والبوسنة والهرسك في كأس العالم 2026 - العين الإخبارية"
     },
     {
-      "headline": "Keir Starmer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T18:33:21.000Z"
-    },
-    {
       "headline": "Summary and goals of today’s match between Qatar and Bosnia in the 2026 World Cup (1-3) - Al-Masry Al-Youm",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zY0pVeDRCbkJSZkZDRENtMV95SUlsMXc4VUNhMU9KVkhLUjBDdTd2MVd2MFBWQlVEYXlnZmNxZHl3OGREZGtZN09QUHY2N2QzX1V5TGswbGo3WUpTaERZ0gFjQVVfeXFMT1owYV9FaDVuNE1PeGlzZk5lZlRkVG5KUHFQLXFvalpUQThoYmVVbmxvTmVGY213bnhNaWRFZnBkRHNEM0Zyc1hKc1lDVFpMZ0wxRklJYWVONjdXSWlsN1FDeHgw?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2214,66 +2266,6 @@
       "date": "2026-06-24T18:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تحليل .. لماذا يثير اتفاق ترامب وإيران قلق حلفائه الخليجيين ؟"
-    },
-    {
-      "headline": "Why did the Iranian revolution continue and the Nasserite project decline?",
-      "url": "https://www.aljazeera.net/blogs/2026/6/24/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لماذا استمرت الثورة الإيرانية وتراجع المشروع الناصري ؟"
-    },
-    {
-      "headline": "Collective awareness and its role in slowing down social change",
-      "url": "https://www.aljazeera.net/blogs/2026/6/24/%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D8%B4%D9%83%D9%84-%D8%A7%D9%84%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A-%D9%88%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B5%D8%B9%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الوعي الجمعي ودوره في إبطاء التغيير الاجتماعي"
-    },
-    {
-      "headline": "Football and capitalism... How does the sports industry produce the illusions of the masses?",
-      "url": "https://www.aljazeera.net/blogs/2026/6/24/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%88%D8%A7%D9%84%D8%B1%D8%A3%D8%B3%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D8%AA%D9%86%D8%AA%D8%AC-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كرة القدم والرأسمالية .. كيف تنتج صناعة الرياضة أوهام الجماهير ؟"
-    },
-    {
-      "headline": "Between poker and chess... How did the war force America and Iran to negotiate?",
-      "url": "https://www.aljazeera.net/blogs/2026/6/24/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D9%83%D8%B1-%D9%88%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D9%83%D9%8A%D9%81-%D8%A3%D8%AC%D8%A8%D8%B1%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-06-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بين البوكر والشطرنج .. كيف أجبرت الحرب أمريكا وإيران على التفاوض ؟"
-    },
-    {
-      "headline": "The head of the Aqaba Special Authority talks to CNN about the partnership with Abu Dhabi Ports and the most prominent projects in the region",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/24/jordan-shadi-al-majali-partnership-with-abu-dhabi-ports-and-the-regions-key-projects",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "رئيس سلطة العقبة الخاصة يتحدث لـCNN عن الشراكة مع موانئ أبوظبي وأبرز مشاريع المنطقة"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
