@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T05:18:20.527Z",
+  "updated": "2026-06-25T05:32:28.117Z",
   "itemCount": 300,
   "items": [
     {
@@ -76,6 +76,18 @@
       "language": "ar",
       "date": "2026-06-25T04:26:02.000Z",
       "originalHeadline": "شاهد البث المباشر - الشرق للأخبار"
+    },
+    {
+      "headline": "Iran and the United States: Why does Tehran link the fate of the agreement to Hezbollah?",
+      "url": "https://www.bbc.com/arabic/articles/cy9rn2d1l3zo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-25T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إيران والولايات المتحدة : لماذا تربط طهران مصير الاتفاق بحزب الله ؟"
     },
     {
       "headline": "Qatar and Saudi Arabia discuss developments in the region - Youm7",
@@ -486,6 +498,16 @@
       "originalHeadline": "جريدة الرياض | قطر تخسر أمام البوسنة والهرسك وتودع كأس العالم من الدور الأول"
     },
     {
+      "headline": "Qatar - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yYzgzN3JmTU9fYm1DOWRLVF94ektPbTBzYzB3VW1QeVBwbUhmUEdZNE1iUklKN1AxajczNVQ3bFl1dw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-25T01:24:47.000Z"
+    },
+    {
       "headline": "Friedman: The Iran war has a political essence and its key is oil, not missiles policy",
       "url": "https://www.aljazeera.net/politics/2026/6/25/%D9%81%D8%B1%D9%8A%D8%AF%D9%85%D8%A7%D9%86-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AC%D9%88%D9%87%D8%B1%D9%87%D8%A7-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A",
       "source": "Al Jazeera Arabic",
@@ -508,16 +530,6 @@
       "date": "2026-06-25T01:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "حلّل يا دويري .. القسام تكشف هوية صاحب العبارة التي هزّت المنصات"
-    },
-    {
-      "headline": "Qatar - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yYzgzN3JmTU9fYm1DOWRLVF94ektPbTBzYzB3VW1QeVBwbUhmUEdZNE1iUklKN1AxajczNVQ3bFl1dw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-25T01:14:19.000Z"
     },
     {
       "headline": "Gold in Saudi Arabia awaits new signals from the US Federal Reserve amid relative calm in the markets - Youm7",
@@ -721,6 +733,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-24T23:17:02.130Z"
+    },
+    {
+      "headline": "Keir Starmer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-24T23:16:38.000Z"
     },
     {
       "headline": "Analysts comment to CNN about Rubio not going to Israel on his first visit to the region after the Iran war",
@@ -970,14 +992,15 @@
       "date": "2026-06-24T22:43:31.000Z"
     },
     {
-      "headline": "Hezbollah - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T22:35:48.000Z"
+      "headline": "Ajman - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFg5RUJjeEc5WU1xMDRuSmVjWXpnb05nUGUzT0dVc2MtOHNmNFdjdk94UV9VbWRCZ0FzYjhyeEdUUFo3UDZNR0dRbE9Wd0RQZkxUUWZKeGhPd3Y4UjlLQzdKQ0xtYmJwTmlTb1FURW02bG1OWjZfOGs0d3RjOHJZbUlYOE1paGJYekVYRw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T22:35:51.000Z",
+      "originalHeadline": "عجمان - FotMob"
     },
     {
       "headline": "The road stops at the groups.. Qatar is out of the World Cup - Sky News Arabia",
@@ -1000,6 +1023,17 @@
       "language": "ar",
       "date": "2026-06-24T22:17:24.000Z",
       "originalHeadline": "مقتل مراسل العربية والحدث محمد عيضة بانفجار عبوة ناسفة في اليمن - Masrawy"
+    },
+    {
+      "headline": "Yemen to the Security Council: There is no political process without restoring the state and confining weapons to its hands - West Coast",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iLVJaQUZEZ1lBLXRhQVNla3ZnT3VlVTMzY3U0ZnVhSjNidzhoQkVwVmdueEViT3JGbmF2WjF5ZG10a3M2TkNRZEhEcWZzb0U?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T22:17:00.000Z",
+      "originalHeadline": "اليمن لمجلس الأمن: لا عملية سياسية دون استعادة الدولة وحصر السلاح بيدها - الساحل الغربي"
     },
     {
       "headline": "Rubio from Kuwait: We will not do anything that weakens the security of our allies in the Gulf - Al Jazeera Net",
@@ -1250,6 +1284,16 @@
       "date": "2026-06-24T21:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | وزير النقل ونظيره الأميركي يبحثان توسيع مجالات الشراكة في البلدين"
+    },
+    {
+      "headline": "Hezbollah - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bkhleWNOZ0pJYTJHRXhUdkJTRnY5QWNTOEtlWHA3OENON3BzS28wdGI4ZFcteDk4MTg3V0FwbEpSaXJib2Fj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-24T21:14:29.000Z"
     },
     {
       "headline": "Video: After Tunisia and Jordan.. Bosnia is harsh on Qatar and ousts it from the World Cup - Kooora",
@@ -1576,6 +1620,17 @@
       "originalHeadline": "هدف البوسنة والهرسك الاول في مرمي قطر بكأس العالم - بطولات"
     },
     {
+      "headline": "Saudi Arabia declares tomorrow, Monday, the first of Dhu al-Hijjah, and Tuesday, May 26, as Arafah Day - West Coast",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oV2VkRXUxYjBlN2Uzb1pWamk4RVJfUDVuWmVmaVlLUWtwQ3Y3RjN0SmtYX0tuSldBbTl1djFIeDI3eTFjLWVBd1hVREFlWHc?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T19:38:56.000Z",
+      "originalHeadline": "السعودية تعلن غداً الاثنين غرة ذي الحجة والثلاثاء 26 مايو يوم عرفة - الساحل الغربي"
+    },
+    {
       "headline": "Goals of the match between Qatar and Bosnia and Herzegovina (1-3) World Cup - Championships",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2Q2tMZHBxTHh0X0hYMVNrbkZEQy02Q2lCdXEza1JHbTNYbHFpbU9jYzQwZmNKVHNuYmRNc2ZqNEVXbnVwalcybEln0gFPQVVfeXFMTlpqS2tpUlZLUHJWaXZRSm5nZzZsQVVxRXV4elVqUjI2LTVyT0dGRVNHTXNpQV9SRExmeFpnbHdsZnRZajFsUWN0ckZzdGkwaw?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -1849,6 +1904,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-24T18:48:01.230Z"
+    },
+    {
+      "headline": "Kano Cultural Organization organizes a lecture on psychological stability in the midst of challenges - alwatannews.net",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPUUY0SFBvVFVoSE1FSjYtc3Zjc2Jxd0hwZC1iMGc5RHU1bUpqQVpSRmRqN21SZC1sVDl1dXlrNlN2U0lpeWFZT2ZRNW9Fb2tEVWM4RWhyeGMyWnpfRHpiMDluMmZGS3BseHowcmRhYm1yLXEyUTAyU0dZc0xkYkh2cUFkYV9FT0tGeFpiSWV3MHh6akROTk5hZnJFM3ZnY2lwOXJlWEtBb1Y5Qm5sOV9qMFNwNzZFX29GakU3NURQWkhsTkt5aXlLMExzVkRNQXZnRzdTSDRYa2xtdkxTbGhud0VzbWNsOUhSOW1hM05qVHIxU3QtS1ZEMEZ5SmY0cDUzLWdZT3RObTBzTGc3VWFINVhvaEtTVm1HcGFZYlROZjBmd1ZxejBhTmd6cGdhS0syaUoyNkRFaE9wUi1yQ052eGh2ZVppSTRzZVh0RXhrY0dUM1lJRGZDeDBQcDNwc0NOV01raElrVHV2SHJrRUtTZnNGWEhYeGhoREVJMndZaU5NcFcxcTl4ZDQ3OHh3dDJZV3Z5UG00akc4QU1MZGdYN0M1TWlaMk9aeE9YdXhwSzZYdnlHWTBYNklieGZ1VlpXYmplaXhseVVEbjdWZGRUNmVFZWdRSVnSAVRBVV95cUxPdXRPUkRYaGhaUXNkdGJhTHAyZXFCSlAtcUVkaGpPaVZvR0FwZVQ5eGJMM2RXbmJYYXVFV0t1R19iR0RCTGtiMVdOMGdMcWlmZEU4VHc?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T18:47:47.000Z",
+      "originalHeadline": "كانو الثقافي ينظم محاضرة الثبات النفسي في خضم التحديات - alwatannews.net"
     },
     {
       "headline": "Foreign Minister Holds Phone Call with Iranian Foreign Minister",
@@ -2147,16 +2213,6 @@
       "originalHeadline": "التشكيل الرسمي لمواجهة البوسنة والهرسك ضد قطر في كأس العالم 2026 - اليوم السابع"
     },
     {
-      "headline": "Keir Starmer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sbENiTjhFM1NJcUtjZ1JlZUItcU5jYkM1STA3OEpldm5jT1lySDk3UEZpSmNES05oRjU3bkFIMGQwOVZoODVsbmd5OA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T18:14:16.000Z"
-    },
-    {
       "headline": "Live broadcast of the Qatar vs. Bosnia and Herzegovina match in the 2026 World Cup - annahar.com",
       "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPRjdnQjZYbVVMYWY2SThtYWFlOUplS01yRHI5dk1vdHV5alpEYUxVNWFKYkllUngwWTRfVmJGNFZrMlhucFRhYVpONnJLNXV3aVNMR2trT2xzYVFvZFJKdzdXZXduUUpYNDJfUVNxbFdYRUZNQVJsLVBjc2hSWldMeTJLUjVvUXVDYTJUR19BS1VlaW1fRnhtQ1R6VnJyNTY3U21kcV9KUHU3SmFHZGR6eHpIQW4tWVA0R0w4ZzBzMDgtSXhsUG1QR3NIOXBsTm53VTF6MFZ5dGE1dzNxMERIbXZOSC1RN0RucGRlZHQ0emJYQkcxcTNTclB3WVljNWVQQ1FaWXRBX2xndUgxZGJJSnpPSklMNmxONHRmM2lhN1JpT1Fuc2dQZExQYzBXU1FWTXpwWGpIRm5WcDZhTDdEWEdyYVNEWmw0ZjJIczY3VEZ5T0hZYmpuUDNleXlvV3lSc1NKOHZPUVR5bGpqengwMlJpYURfM3dnSWkzY1pjMTNCTUt3bERqNVlqN2d6M2I0eHh4RjQ1Z0swcm5PRmV1NFdPekhBOGFtbVp3a3lFb0tJdlpXTDFad3Jsd2FJb2VZN2c?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2190,6 +2246,28 @@
       "originalHeadline": "مباشر مباراة قطر ضد البوسنة والهرسك في جولة الحسم بكأس العالم (0-0) - المصري اليوم"
     },
     {
+      "headline": "The Diary - Settlements and the Emirates - Arab TV",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOcHh2QlVYWmhNTDdKNlVmWkE2M2RBQVFGeVRlNnVUVkRVSldMNWlfTGE0eElUc0hVaEVBQkRYQTZRakpnZXpRYUJjSU9YWnlPeG5rbkVQZFRKT1ZyVzNNMUdmQUd3MFZhejJaRC1VSlRZdkFzZHkxT2hreFAzZVc1MjJoSk53WE5hR09YTmtCa0RiU0c1NFJ4Tk9HZTJjaVBONHpkRVQzV0IyQmVnaFBCNXZvbUlrMTJncHBmTXZuRVhNRkNBM2xHcDVBNmY5Y0RwNGh0ZFRBSTJOSFV0d0JQNUtsZUk0WGg1MFV0djAtWmZOaHV1d1daUWs0UmdBZS1CSFNTbmdjTmowakRsM2o3SWVGUWUyRC13cEpFYXlkXzdyQmY1Y3N6NlJDTnBRSVQwMHRtV3d1YzVVQmh4cEE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T18:02:31.000Z",
+      "originalHeadline": "اليوميات - المستوطنات والإمارات - التلفزيون العربي"
+    },
+    {
+      "headline": "Yemen condemns the Knesset’s approval of the law on executing prisoners... and the Council of Scholars warns - West Coast",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uaTBkcjZJdXpGaW1yVzVFT3A4eklXNHB0eUF3aHA0U2phNllEU0ZYMVZESVpnc2xnLVJnTlhGbThlWC1QUW9LTW82a2FGUnM?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-24T17:56:34.000Z",
+      "originalHeadline": "اليمن يدين إقرار الكنيست قانون إعدام الأسرى.. وهيئة العلماء تحذر - الساحل الغربي"
+    },
+    {
       "headline": "Saudi Defense announces the destruction of 6 ballistic missiles launched towards Prince Sultan Air Base - West Coast",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBROW1TLTdDNUJRQkpJVnhla0E5ekN1UFdPbHhQOXJtMkVvTmNydU9zNU93czEyay1QczQ2Z3ZxU0ZDTW5Id2lYRURrcWo5enM?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2199,82 +2277,6 @@
       "language": "ar",
       "date": "2026-06-24T17:56:19.000Z",
       "originalHeadline": "الدفاع السعودية تعلن تدمير 6 صواريخ باليستية أُطلقت باتجاه قاعدة الأمير سلطان الجوية - الساحل الغربي"
-    },
-    {
-      "headline": "Arab Parliament Speaker Stresses Need for Solidarity to Confront Regional Challenges",
-      "url": "https://spa.gov.sa/en/N2620174?type=news&uuid=N2620174",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-24T17:51:44.000Z"
-    },
-    {
-      "headline": "Qatar's Madibo given five-match ban for tackle that injured Canada's Kone - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEJVcVllLXNwS2pLUm1Hck1sRzViMnRJLWs5Vmk0RUVBdlBXV1JyOWFzTHBZWm9hM28yU2RZRHVmWGxQaW05dnVBajFhUHJCQ1k2NUhSM01xV3lmQ0k3OHg3eTV3d3pfcFdqZVk2dVEteklIeldLRE11TXlyRlBXNks5VVVfSkZTcVQtWFd3NzJUcXAwaWlNZnRzWEY5QmxreUlLSF83RllRZjZUbDlWZUJHNGc5YjJE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-24T17:51:43.000Z"
-    },
-    {
-      "headline": "Qatar formation... Akram Afif and Edmilson lead the attack against Bosnia and Herzegovina in the World Cup - Yallakoora",
-      "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxPUW0yT1FCeGRPWm5PTWUtbWNVN0tmZVdtejJvN1E0TF9leFVyN3hmZm95OEVWNmVIbGVoUThHbUtGb3RVOVhTM2x5Vlc0ZXpkY2hpRXZqeGxvY1NRcmFacVdDTVRna1Nvcmk1NmlaM3p5RTdNRk5iZlpBTjF2NnFKTVRZdXFfVnE0NWhYUzRPalJneGJyMlZ0TmFTRW1Ec2RuWGJ1Y2k4WjJNdVBKQVhwODRWODBBNXVGZW10eGpTTXYwbGxIcmE3d19TOWVOcmE5a1JfQzFQOVRUeHpiMlY3bl9KeHU2R0VUTWszWjZ1OTRSOHVwVUdrNlpIT21PYmYxMXowRHV0dV9QSmxwVHBnRkNHSkdXdXVMS1pxTno4dVIxdzBBZm0wa1A3Q05xM2RTd0Q0VHpFRVFYcVhJRld6ZnM3RllWdFk5NUlKUGgtUHJmajRpMTUwei1RNWxnVDdHcHNhMDdGZ2dabDJkb2hxSU10a1Ria2RaTDNtNDZ1c2ZuY1R2czU1RzlGcHB3WWI1cUhCNVpYYmJHUExUQkhtMDRNSE82d3NoSjNlMGJfemRBRnZhYVhldXlMc2ZYZUI1Y1BCNUpWWVpoN1BzVXJpbEVhZGc4dzdrbzNxX1BCLW9zV2V6R09DMlFVeEZCU05FRm1kMnh2eVZxRmQ5RHFmVEd4QXVlcmp4WXVBMUQ3dEZWVzRkam5ySDczX0x0Z2duSWFUQ0Y0Z054RmZZd0t5eERvRXp6UUNQZmUyN251VFM5Z1M4emxjcW5UNUIyTUROajljUm84TEZwYk1kZGdhY210WlAzb2NWUG1iOFB4WV90Rm5Yc2QxZ0dn0gH_BEFVX3lxTE9yR3pRT3dZSFBuLTh1X1E0WWg3YkhXMUN0dEI0aVpWNDJaY0JsUmpBd2puakRLRnlheWp0TnhjVDFFbVhYQzZ3amQ1QnpleW4xM0d5R3U0c25oS2NiOUdXd09kSy1VY051V2pOeDBUbFluWHdyZjEzQkxXcEJEeGtCNEFTZTVqLWdsZWIyQnZCYmJ0TERFaEhGOGdIRnkwemRGTlU0aXA0alduMkZJejU4Q2p2UVExQi13YU9pMG05Q3Z3M0pIV21QMk94X1BhSnhCb05KbW1wY3ZrQVhHdGt4X29ISzZoM01tZjZBN2FvVmpUU0dBdFpKak01b0hTcWVrRjBiaEs5TFBpSjEzNzF1cDAzZmtNNGczNWFOeUVLOUpicWlzQ2J5MUlod3paQlVKNDNnaFdINi0wUlJ5WDRubFFuc1FJT3ZXVEE0eFM3YVpkNnJwcVJiVmZheDdyUWhFRUE4d3l1b3RSM3dfZ3VKRXVOT0JZYXpvY1F4TkF3eE00UEdQNEx6MFhDZk9qLXphNVI5UFk4MmVBMUQxcFRmWktTZ09hLXdYTDdLWHhDMVRFelA4MHM5bTlTb1hRNmNoVlpqLV83eVlyS2R6elkyTk1zS0taUXVYOURETm1WVC1ZYkxramtHRWtGZFNCWTdpbV9iVEx4LVN3X0xMbWp4eDZYSFZhQnlKRlBBV3RVdVpWOWo2RTg2ZWNsN0kwaGlQZGtEeUoySFdVQXhGODVqRGxFdEd2eTVubWdGQU1MaG9TVzB0LWlxUEVadkF6NnJneXVqUGhNOUNUUVgtZEZna2Z4MnV4WkowRTQwNVhYQm81Rm9URFBHZjlKUnNZMA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T17:51:00.000Z",
-      "originalHeadline": "تشكيل قطر.. أكرم عفيف وإدميلسون يقودان الهجوم أمام البوسنة والهرسك بكأس العالم - يلاكورة"
-    },
-    {
-      "headline": "Qatar formation... Akram Afif and Edmilson lead the attack against Bosnia and Herzegovina in the World Cup - Yallakoora",
-      "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxPckd6UU93WUhQbi04dV9RNFloN2JIVzFDdHRCNGlaVjQyWmNCbFJqQXdqbmpES0Z5YXlqdE54Y1QxRW1YWEM2d2pkNUJ6ZXluMTNHeUd1NHNuaEtjYjlHV3dPZEstVWNOdVdqTngwVGxZblh3cmYxM0JMV3BCRHhrQjRBU2U1ai1nbGViMkJ2QmJidExERWhIRjhnSEZ5MHpkRk5VNGlwNGpXbjJGSXo1OENqdlFRMUItd2FPaTBtOUN2dzNKSFdtUDJPeF9QYUp4Qm9OSm1tcGN2a0FYR3RreF9vSEs2aDNNbWY2QTdhb1ZqVFNHQXRaSmpNNW9IU3Fla0YwYmhLOUxQaUoxMzcxdXAwM2ZrTTRnMzVhTnlFSzlKYnFpc0NieTFJaHd6WkJVSjQzZ2hXSDYtMFJSeVg0bmxRbnNRSU92V1RBNHhTN2FaZDZycHFSYlZmYXg3clFoRUVBOHd5dW90UjN3X2d1SkV1Tk9CWWF6b2NReE5Bd3hNNFBHUDRMejBYQ2ZPai16YTVSOVBZODJlQTFEMXBUZlpLU2dPYS13WEw3S1h4QzFURXpQODBzOW05U29YUTZjaFZaai1fN3lZcktkenpZMk5Nc0tLWlF1WDlERE5tVlQtWWJMa2prR0VrRmRTQlk3aW1fYlRMeC1Td19MTG1qeHg2WEhWYUJ5SkZQQVd0VXVaVjlqNkU4NmVjbDdJMGhpUGRrRHlKMkhXVUF4Rjg1akRsRXRHdnk1bm1nRkFNTGhvU1cwdC1pcVBFWnZBejZyZ3l1alBoTTlDVFFYLWRGZ2tmeDJ1eFpKMEU0MDVYWEJvNUZvVERQR2Y5SlJzWTDSAf8EQVVfeXFMT3JHelFPd1lIUG4tOHVfUTRZaDdiSFcxQ3R0QjRpWlY0MlpjQmxSakF3am5qREtGeWF5anROeGNUMUVtWFhDNndqZDVCemV5bjEzR3lHdTRzbmhLY2I5R1d3T2RLLVVjTnVXak54MFRsWW5Yd3JmMTNCTFdwQkR4a0I0QVNlNWotZ2xlYjJCdkJiYnRMREVoSEY4Z0hGeTB6ZEZOVTRpcDRqV24yRkl6NThDanZRUTFCLXdhT2kwbTlDdnczSkhXbVAyT3hfUGFKeEJvTkptbXBjdmtBWEd0a3hfb0hLNmgzTW1mNkE3YW9WalRTR0F0WkpqTTVvSFNxZWtGMGJoSzlMUGlKMTM3MXVwMDNma000ZzM1YU55RUs5SmJxaXNDYnkxSWh3elpCVUo0M2doV0g2LTBSUnlYNG5sUW5zUUlPdldUQTR4UzdhWmQ2cnBxUmJWZmF4N3JRaEVFQTh3eXVvdFIzd19ndUpFdU5PQllhem9jUXhOQXd4TTRQR1A0THowWENmT2otemE1UjlQWTgyZUExRDFwVGZaS1NnT2Etd1hMN0tYeEMxVEV6UDgwczltOVNvWFE2Y2hWWmotXzd5WXJLZHp6WTJOTXNLS1pRdVg5RERObVZULVliTGtqa0dFa0ZkU0JZN2ltX2JUTHgtU3dfTExtanh4NlhIVmFCeUpGUEFXdFV1WlY5ajZFODZlY2w3STBoaVBka0R5SjJIV1VBeEY4NWpEbEV0R3Z5NW5tZ0ZBTUxob1NXMHQtaXFQRVp2QXo2cmd5dWpQaE05Q1RRWC1kRmdrZngydXhaSjBFNDA1WFhCbzVGb1REUEdmOUpSc1kw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T17:51:00.000Z",
-      "originalHeadline": "تشكيل قطر.. أكرم عفيف وإدميلسون يقودان الهجوم أمام البوسنة والهرسك بكأس العالم - يلاكورة"
-    },
-    {
-      "headline": "$94.3 million net foreign purchases of UAE stocks.. Wednesday - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQbE5fSnFhNkhlc1VDSHB1TUdmeEZDQ3lta2tLWTFnVjREMUx6WkR3YXI2ZzN6WUQ0c1lZbXNHNjdkbHYtdjA1VUo3bTNEcDN6RVFQY3ZJY0RBTmxBTE1TNDVsMmJ4RC1zT25jOEYtc280NXhDZWtYMVhfSUdkZkp6R0dSZHVTN0J0Q0FmRDl2bEZ3eGdxcnpaNHdEQWFxaGF6V1YzNnhIR1pRdkdRXzB1cW1DZ0pOY1k4UUtiLWhsMVRaU2ZUNWFDdGduZkhMOXVnVmtWQzZtSVJ6RlYydkNrTW05d1A2WUl1QVctYVMya0ZfdFlpNVczdTZyV0ZwaWhRNDZPMWdBY2NWM08wNGhLMjVNamhvenpDSV9pdEoyS0VYMndfd1hxXzNLTTRHdVZzU1JlT1E3ek1kODZWUFhLZndETHJ4bXFINjhjOGhRNFhjOTY4Qmc5emJOX3p6dzVvX21MeTZLY25PNEpxX3VVTXpFN2JwSWNJWkFNNDUxUWpFMEFlSWdCVHBfc0piY3JLYUs4TTA3aEMxd1B4VDFqUl9tTnlaVVpVeXc1VWF5QVc5Z0EweWhLRG1ib0FBeWRTb1c5cmhSbmFHVHllZGtuRFg0Z2ZjYkJtd2U0MUhTSHIwbkxqc24yZDRqUDNhYVV4ektZ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T17:50:53.000Z",
-      "originalHeadline": "94.3 مليون دولار صافي مشتريات الأجانب في أسهم الإمارات.. الأربعاء - معلومات مباشر"
-    },
-    {
-      "headline": "A historic heat wave sweeps Europe",
-      "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5288117-%D9%85%D9%88%D8%AC%D8%A9-%D8%AD%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D8%AC%D8%AA%D8%A7%D8%AD-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-24T17:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "موجة حر تاريخية تجتاح أوروبا"
-    },
-    {
-      "headline": "Led by America and Qatar, major gas suppliers are demanding amendments to European-Arab methane rules",
-      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNUElrUzZnZUM2UUZsN0p5RzBhZjEtSUJPa2lFQjRqWng4RGpvRzFkVEpsQmhUcDJGRklZRTlqSkpDNjIyakFKTmhEbFgyUXU5V3hhS0lhNE42ZHNnSWoxSElmTHVrTE90aXBfdmNQelMzazNxV2RuRWY2ZFpOcEJ6RFFPNl9qa1hEVTFsem9fTnZWSzBpdHAtVS0tX3gybEo2Ql96enNrbWR6SzhZX0pTSE5jLXptSFlSald4ZUFraF9mUTIzRHlZWmpONVFoNFl1a25pcmhJbDdsT3NPX2RBNkNZT1dsdGswS29IOVZmZzdFMjRBZktSOElEWFhxM0dxTy1NNDB5cGU4ZUpqTFFLSlZnQnRXelpuY3RqdXdDd3c4UXowbmx1QnhUTU5ydElPOUFULUl3cG9hVXdNUnVucjdQd2lTS29lRTBuSVptZkpsZTBjbUR2cTNhWUxQU3BOUW1TSmZ0c2FfNFVFc3dJaXpDS180bUlPWlZnOV9MVWM1U09tUWxuakJ1OWxXdlhXWWtPY2hMUGxvNmFtS3RfNGJtVGFwZjg4VE1JWEtoVHZhbE4tRDFIZXJPOGdRZWJXR05GU09jb0hsN3c2OF9kUkwyWUNxOTVpTUdDby1TNVNvdmwwRDZFei1EUnBBODhsLXVheE43RlFnRFNnY3A3ZHBCNHZuM0Jsc2MybmU2SUtELTlMR2pzeTlPb3hobkpBRXlNTmszeDFybEdERU1iNlQzRkNPTjFzcDM3MEVIeWJLZk51U0ZZZlozTlNmcHFoc21oTktUYkpuOEoxSm5od0ZSaGU0TXVhbHZJc3hUTFhNaknSAfgEQVVfeXFMTVIxejlKc0xtQmxXZlluaG1BVXJaajQ0YTNyQU1yNHcyWFBQUmN4SDl5RFZxMjFDLWQ1SmtkeXZWb2NOandLa0pPMU9UcnhGaERqT0tXSW5HUURMS1FCU1JPell0dVMwTUxIWUM2QzkyOEZWU3lubUtjLTZlWXVLRUNKQThDc3NIRXhkX0VEMGN5c1V0UHozcFJ5aUhBbmQxbnl3bUFZclJuTzVVYlZUclY3emc3RXJHclZ6bVdxRWE5QWVMeWM3YVVmbkV4eTJUeTFxRUhuWmVFeXJkeWVVaEVmVVpuX0FUMmdsZG04ZEhOV2IzTFBnYzgzbnkzNE1MeFE3VXYxWXVQMUViaXZvcV92MUlYMWdRZFU3YmFsSHg1SkFoUkFGb3R1SmR2QmhkamdTSUxxdUo5Zy1yQjJubC1pd2h2b0NZWkdFWkt5UVVIODdqemlBcllheXVZaVpGazNiVzZHd0VLa3Y0ZzEwaWJwWjlHOFAtYmJsbW9ZRkZ6aGNLZUNSbkY1Nm1QaHBXTUZsV2RIVWU4SE5VYmpkeWFHTGN0eWtvVzNjdGRtWjZycVRBMGE1cmZOMXpnZl9fQjZqMnhvTE1YTElLNFRrZk13aTFRQ3dJSXFRaHFtRE1kekFNd2FQZm5tYktYd3JMODZyX2RvRE5oNGNKY01iNm5EWHIzQUFZM0lwWFI4djh1SkpzemQ2Z0ZLWlZDcy1MclNicFRmSFFRU2VJZ2gxVGpMR2ZXQzI4OFNxUG5CUFh6MzdPWVRFazA3UktXZEJjSWNST0FmcnJwa2VBQlV4d1k4VTRFbjlxWTlkanBEVVBSOUJpWWJPX1Y?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-24T17:42:00.000Z",
-      "originalHeadline": "بقيادة أميركا وقطر.. كبار موردي الغاز يطالبون بتعديل قواعد الميثان الأوروبية - العربية"
     },
     {
       "headline": "Latifa bint Mohammed witnesses the signing of a cooperation agreement between the Dubai Health Authority and Dubai Health, on the one hand, and Cray, the largest digital healthcare provider in Europe, with the aim of enhancing cooperation and knowledge exchange in the field of he",
