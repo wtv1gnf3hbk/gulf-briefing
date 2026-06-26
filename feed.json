@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T18:33:24.018Z",
+  "updated": "2026-06-26T18:47:17.396Z",
   "itemCount": 300,
   "items": [
     {
@@ -43,6 +43,30 @@
       "date": "2026-06-26T18:02:36.000Z"
     },
     {
+      "headline": "Huge fine and deprivation of pension.. John Bolton pleads guilty to avoid prison",
+      "url": "https://www.aljazeera.net/news/2026/6/26/%D8%A8%D8%B9%D8%AF-%D8%B5%D9%81%D9%82%D8%A9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AC%D9%88%D9%86-%D8%A8%D9%88%D9%84%D8%AA%D9%88%D9%86-%D9%8A%D9%82%D8%B1-%D8%A8%D8%B0%D9%86%D8%A8%D9%87",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-26T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "غرامة ضخمة وحرمان من المعاش .. جون بولتون يقر بذنبه لتفادي السجن"
+    },
+    {
+      "headline": "The European-American trade agreement... who wins and who loses?",
+      "url": "https://www.aljazeera.net/ebusiness/2026/6/26/%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%85%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-26T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "اتفاق التجارة الأوروبي الأمريكي .. من الرابح ومن الخاسر ؟"
+    },
+    {
       "headline": "Foreign Minister Discusses Latest Regional Developments with Omani Counterpart",
       "url": "https://spa.gov.sa/en/N2621391?type=news&uuid=N2621391",
       "source": "Saudi Press Agency",
@@ -81,6 +105,30 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-26T17:56:56.056Z"
+    },
+    {
+      "headline": "Trump comments on the Iranian attack on a cargo ship in the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/26/trump-iran-strike-in-strait-of-hormuz-foolish-violation-of-agreement",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترامب يعلق على الهجوم الإيراني على سفينة شحن بمضيق هرمز"
+    },
+    {
+      "headline": "Addiction to ultra-processed foods.. Why is it difficult to stop at one type?",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/06/26/addictive-ultraprocessed-foods-wellness",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إدمان الأطعمة فائقة المعالجة .. لماذا يصعب التوقف عند صنف واحد ؟"
     },
     {
       "headline": "Qatar: Freedom of navigation in the Strait of Hormuz is a strategic necessity and maritime security is an international responsibility - National Media Authority",
@@ -311,16 +359,14 @@
       "date": "2026-06-26T16:44:11.000Z"
     },
     {
-      "headline": "Al-Riyadh newspaper | Northern Border Health Cluster launches transition and prepares 14 staff care sites",
-      "url": "https://www.alriyadh.com/2195265",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | تجمع الحدود الشمالية الصحي يطلق عملية الانتقال ويجهز 14 موقعًا للعناية بالموظفين"
+      "headline": "Sports - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5tUkV5MHdMcTdZamNZUmVsUHU1N0FSQ2daMXpzdmRQajFDanhlNGJ4QXJubmU1bmZlcEF0elRn?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-26T16:33:04.000Z"
     },
     {
       "headline": "Al-Riyadh newspaper | The Kingdom affirms before the Security Council that protecting children in conflicts is a shared responsibility and calls for urgent action to stop the tragedy in Gaza",
@@ -333,6 +379,18 @@
       "date": "2026-06-26T16:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | المملكة تؤكد أمام مجلس الأمن أن حماية الأطفال في النزاعات مسؤولية مشتركة وتدعو إلى تحرك عاجل لوقف المأساة في غزة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Northern Border Health Cluster launches transition and prepares 14 staff care sites",
+      "url": "https://www.alriyadh.com/2195265",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تجمع الحدود الشمالية الصحي يطلق عملية الانتقال ويجهز 14 موقعًا للعناية بالموظفين"
     },
     {
       "headline": "Europol report finds 76% of criminal networks disrupted, 198 remain high threat in EU",
@@ -374,6 +432,17 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T15:55:09.000Z",
+      "originalHeadline": "الإمارات: التعامل مع عطل فني في نظام الإنذار المبكر - سكاي نيوز عربية"
+    },
+    {
+      "headline": "UAE: Dealing with a technical malfunction in the early warning system - Sky News Arabia",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVjVzcm1kOXJRb1VQdlZvOF9iQ0tDcG1iYTBqNzJpVjBnNXRhMkVkMnUzZGN1bWcwZ3BqdGNRb01KTkZ1YWtDR1FEUUdFSGJrRWtXam5RRW1ORmU2V21MZXI4MGF3Unk0dGhhUmtRX2VrZHQtSTM3V05fRGpsMDBCa0JsVFJsUUNQWnFlUGJVV1R1WkdhXzZzM1dqR3ZoaVhIeUdKS3F0SXBsdzBxMnl1STNhejBjVXk0bzhTYklPYm1qdTNEMnlvRnRlRUt3U0xrcWJJbko3bnJLbDBSeXNSby1pNC1EVHpmUjNIZnJUQWIyUzJqUVg2Y29IWUZ4dnhybjlkaUtnOGVMTEg3eHZuSFZpTEdvUHdocGd3UkJjdDBZTmVQOTdsaDZmcExXUjlPWnRWeERHVjJ3SXM5dldockFaV2Q2eGR1NFZSYjJMSDRTcnVldE1wc0l4VDRVbVlUanRya0RBeGV6ZF85Q2tMajVMSnNKWi1LUUgzRG1nUG02TFM4ZHI1ZmdYY24yRDBBNFFqRHB0YmM4YXF20gGcA0FVX3lxTFBWNXNybWQ5clFvVVB2Vm84X2JDS0NwbWJhMGo3MmlWMGc1dGEyRWQydTNkY3VtZzBncGp0Y1FvTUpORnVha0NHUURRR0VIYmtFa1dqblFFbU5GZTZXbUxlcjgwYXdSeTR0aGFSa1FfZWtkdC1JMzdXTl9EamwwMEJrQmxUUmxRQ1BacWVQYlVXVHVaR2FfNnMzV2pHdmhpWEh5R0pLcXRJcGx3MHEyeXVJM2F6MGNVeTRvOFNiSU9ibWp1M0QyeW9GdGVFS3dTTGtxYkluSjducktsMFJ5c1JvLWk0LURUemZSM0hmclRBYjJTMmpRWDZjb0hZRnh2eHJuOWRpS2c4ZUxMSDd4dm5IVmlMR29Qd2hwZ3dSQmN0MFlOZVA5N2xoNmZwTFdSOU9adFZ4REdWMndJczl2V2hyQVpXZDZ4ZHU0VlJiMkxINFNydWV0TXBzSXhUNFVtWVRqdHJrREF4ZXpkXzlDa0xqNUxKc0paLUtRSDNEbWdQbTZMUzhkcjVmZ1hjbjJEMEE0UWpEcHRiYzhhcXY?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T15:55:08.000Z",
       "originalHeadline": "الإمارات: التعامل مع عطل فني في نظام الإنذار المبكر - سكاي نيوز عربية"
     },
     {
@@ -468,16 +537,6 @@
       "language": "ar",
       "date": "2026-06-26T15:37:28.000Z",
       "originalHeadline": "خلال اتصال هاتفي.. الإمارات تطالب طهران بالالتزام وحماية الملاحة في هرمز - Masrawy"
-    },
-    {
-      "headline": "Sports - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5tUkV5MHdMcTdZamNZUmVsUHU1N0FSQ2daMXpzdmRQajFDanhlNGJ4QXJubmU1bmZlcEF0elRn?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-26T15:36:17.000Z"
     },
     {
       "headline": "The rainfall paints a natural tableau on the peaks of Al-Sudah and the Aqabat al-Sama' Pass.\n#واس",
@@ -654,7 +713,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T14:38:30.000Z",
-      "originalHeadline": "اتصال هاتفي بين وزيري خارجية الإمار��ت وإيران - CNN Arabic"
+      "originalHeadline": "اتصال هاتفي بين وزيري خارجية الإمارات وإيران - CNN Arabic"
     },
     {
       "headline": "\"Hope to be there soon\": IAEA Director General on inspection of Iran's nuclear sites",
@@ -853,7 +912,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T14:16:48.000Z",
-      "originalHeadline": "قطر تسيطر على حريق في «رأس لفان» قضى فيه 13 شخصاً وأصيب العشرات - الشرق الأوسط"
+      "originalHeadline": "قطر تسيطر ع��ى حريق في «رأس لفان» قضى فيه 13 شخصاً وأصيب العشرات - الشرق الأوسط"
     },
     {
       "headline": "Ahmed bin Mohammed chairs Dubai Media Council meeting, approves launch of business media platform\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c0x4f94",
@@ -2690,7 +2749,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T08:10:05.000Z",
-      "originalHeadline": "حقّرت شعائر إحدى الملل الدينية.. البحرين توقف امرأة بعمر 47 عاما - CNN Arabic"
+      "originalHeadline": "حقّرت شعائر إحدى ا��ملل الدينية.. البحرين توقف امرأة بعمر 47 عاما - CNN Arabic"
     },
     {
       "headline": "#Kuwait's Ministry of Interior reports a sharp decline in drug smuggling & trafficking cases during the first half of 2026\n\n\nhttp://\now.ly/Vowa30sWNte\n\n#KUNA",
@@ -2701,52 +2760,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-06-26T08:09:03.000Z"
-    },
-    {
-      "headline": "Madinah Henna: A Deep-Rooted Agricultural Heritage Driving Local Economic Growth",
-      "url": "https://spa.gov.sa/en/N2621160?type=news&uuid=N2621160",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-26T08:00:06.000Z"
-    },
-    {
-      "headline": "From a pilot's illness to a near-collision...here are the latest aviation accidents in America",
-      "url": "https://arabic.cnn.com/world/article/2026/06/26/pilot-incapacitated-crash-landing-close-call-latest-aviation-incidents",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T08:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "من وعكة طيار إلى اقتراب من التصادم .. إليك أحدث حوادث الطيران في أمريكا"
-    },
-    {
-      "headline": "Saddam Hussein's daughter comments on the anniversary of Ashura and the symbolism of Imam Hussein",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/06/26/ashuraa-sadam-hussien-daughter-post",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T08:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ابنة صدام حسين تعلق بذكرى عاشوراء ورمزية الإمام الحسين"
-    },
-    {
-      "headline": "Soon we will not find anything to eat.. Ukrainian strikes are disrupting life in the Crimean Peninsula",
-      "url": "https://arabic.cnn.com/world/article/2026/06/26/power-outages-fuel-bans-ukraine-pressure-russia-targeting-crimea",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T08:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "قريباً لن نجد ما نأكله .. ضربات أوكرانية تربك الحياة في شبه جزيرة القرم"
     },
     {
       "headline": "Some choices may seem small… yet they can shape your path.\nSome decisions begin in a single moment, but they can change your life forever.\nOn the International Day Against Drug Abuse, remember: the strongest decision is the one that protects what matters most—you and your",
@@ -2777,17 +2790,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-06-26T07:53:26.000Z"
-    },
-    {
-      "headline": "Cape Verde player: We will treat Saudi Arabia like Spain - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTQXhnaUwwemt1YWI5U2lNYU13VjVvZXFRODgtcHQxbW1Zbkp5VWhsT0VzMGJtbTJvUEhLN0JvV1NnMFhwUFVrYm9fTG5DTXVpREh2YzRR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T07:47:00.000Z",
-      "originalHeadline": "لاعب الرأس الأخضر: سنعامل السعودية مثل إسبانيا - بوابة الأهرام"
     },
     {
       "headline": "Director General of the International Atomic Energy Agency calls for a \"very strong\" verification system in Iran to ensure the country does not develop nuclear weapons\n\n \nhttp://\now.ly/l8JS30sWNsw\n\n#KUNA #Kuwait",
