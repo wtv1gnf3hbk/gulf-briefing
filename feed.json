@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-26T22:02:28.228Z",
+  "updated": "2026-06-26T22:16:04.104Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "KSrelief Continues Distribution of Hot Meals in Central and Southern Gaza Strip",
+      "url": "https://spa.gov.sa/en/N2622462?type=news&uuid=N2622462",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-26T22:11:46.000Z"
+    },
+    {
+      "headline": "FIFA World Cup: France secure Group I top spot, Senegal claim first win",
+      "url": "https://www.wam.ae/en/details/17akkyt-fifa-world-cup-france-secure-group-top-spot",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-26T22:08:20.290Z"
+    },
     {
       "headline": "Saudi Arabia Reaffirms Support for Sudan's Unity, Political Solution to End Crisis",
       "url": "https://spa.gov.sa/en/N2622458?type=news&uuid=N2622458",
@@ -11,6 +31,30 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-26T21:56:58.000Z"
+    },
+    {
+      "headline": "The first comment from Hezbollah on the signing of an agreement between Lebanon and Israel",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/26/hezbollah-rejects-the-agreement-between-lebanon-and-israel",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T21:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أول تعليق من حزب الله على توقيع اتفاق بين لبنان وإسرائيل"
+    },
+    {
+      "headline": "The US military announces strikes against Iran in response to an attack targeting a commercial ship",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/06/27/us-strikes-iranian-targets-in-response-to-attack-on-cargo-ship",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-26T21:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الجيش الأمريكي يعلن شن ضربات ضد إيران رداً على هجوم استهدف سفينة تجارية"
     },
     {
       "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
@@ -33,7 +77,7 @@
       "date": "2026-06-26T21:30:59.000Z"
     },
     {
-      "headline": "Channels broadcasting live and the date of the match between Saudi Arabia and Cape Verde... the decisive match - Al-Masry Al-Youm",
+      "headline": "Channels broadcasting the match and the date of the match between Saudi Arabia and Cape Verde... the decisive match - Al-Masry Al-Youm",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rMnN5X0dYZWVZXzNzUnMzZXh2N3FqVDFpOFBLTkFza04tZzB4Sk1rRUVSRFFuNTJfZ3BNM1p5WUxsU21KbjBqdEVjWmNPOE15dVJkWEpDQ1FYZHFaWXF30gFjQVVfeXFMTWt2MmpHTWU0ZEdpMzNDRGM2ei1VekdVTFpuQ041SU52dEgweXRxQjhEdkVUVXFNQi1uZ1cyVkt6STVFS09DWkN1c0hJQ2x1Rkp3VkVZd1UxSm9fQXFmbXJQM1JZ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -41,7 +85,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T21:24:00.000Z",
-      "originalHeadline": "القنوات الناقلة مباشر وموعد مباراة السعودية والرأس الأخضر.. موقعة الحسم - المصري اليوم"
+      "originalHeadline": "القنوات الناقلة مبا��ر وموعد مباراة السعودية والرأس الأخضر.. موقعة الحسم - المصري اليوم"
     },
     {
       "headline": "US strikes Iran following attack on cargo ship in Strait of Hormuz - Reuters",
@@ -62,18 +106,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-26T21:02:33.000Z"
-    },
-    {
-      "headline": "Iran and Egypt in the World Cup; Jay Group's last game in the city of rainbow flags",
-      "url": "https://www.bbc.com/persian/articles/cze9w5xyygjo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-26T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ایران و مصر در جام جهانی ؛ آخرین بازی گروه جی در شهری با پرچم‌های رنگین‌کمانی"
     },
     {
       "headline": "It overthrew Nixon... Trump's vice president raises controversy after downplaying the Watergate scandal",
@@ -184,6 +216,18 @@
       "originalHeadline": "جريدة الرياض | خادم الحرمين وولي العهد يعزيان رئيس جمهورية تيمور الشرقية الديمقراطية"
     },
     {
+      "headline": "Iran and Egypt in the World Cup; Jay Group's last game in the city of rainbow flags",
+      "url": "https://www.bbc.com/persian/articles/cze9w5xyygjo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-26T21:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ایران و مصر در جام جهانی ؛ آخرین بازی گروه جی در شهری با پرچم‌های رنگین‌کمانی"
+    },
+    {
       "headline": "SPL and SDAIA Issue Commemorative Postage Stamp for the Year of Artificial Intelligence 2026",
       "url": "https://spa.gov.sa/en/N2621452?type=news&uuid=N2621452",
       "source": "Saudi Press Agency",
@@ -257,17 +301,6 @@
       "date": "2026-06-26T20:35:41.193Z"
     },
     {
-      "headline": "Iraq Row Erupts Over Missing $140 Bn",
-      "url": "https://english.aawsat.com/arab-world/5288974-iraq-row-erupts-over-%E2%80%98missing%E2%80%99-140-bn",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-26T20:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Between allegations of occupation and Lebanese denials... Who controls Ali Al-Tahir Heights?",
       "url": "https://www.aljazeera.net/politics/2026/6/26/%D8%A8%D9%8A%D9%86-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%85%D9%86",
       "source": "Al Jazeera Arabic",
@@ -325,6 +358,17 @@
       "date": "2026-06-26T20:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "سجن سهام بن سدرين يعيد تونس إلى جدلية الانتقام وتطبيق القانون"
+    },
+    {
+      "headline": "Iraq Row Erupts Over Missing $140 Bn",
+      "url": "https://english.aawsat.com/arab-world/5288974-iraq-row-erupts-over-%E2%80%98missing%E2%80%99-140-bn",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-26T20:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Efforts to perpetuate the legacy... Trump's fingerprints are redrawing the map of the American capital",
@@ -562,7 +606,7 @@
       "originalHeadline": "King Salman Humanitarian Aid and Relief Center continues distributing hot meals in central and southern Gaza Strip.\n\nhttps://\nspa.gov.sa/N2621395\n#واس"
     },
     {
-      "headline": "The UAE announces dealing with a technical malfunction that resulted in incorrect warning messages - Al Sharq News",
+      "headline": "The UAE announces dealing with a malfunction that resulted in incorrect warning messages - Al Sharq News",
       "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQc0x6ZExEQ3hQQ1BoS094akVIT25lWkYxcVNLeGRrVm1BNFBTOG16aTE1SG5Za0Z6SXpfSFZJejFPNnhKOUs3bVp2V2Rsa0dHTnJDQW1EbWRlQi1WX1Ewd3l5aEpFMlJUWUF6SW5PRGFaaDNDRnZ4b1k3SWtIbUxiaC1Oa0RVNXJ1SW1DdWdMSlhXMnloRFh0bGthSDIwYUpRMmZ0UTlMT1hxbWtnWmtoR0NlTHllZ0I4ckZlYks1ZlN5UERucVVpMUJxajZBc01Zem5sX1RvWEdYeHpxQ05Xa1U4NkFLOHQ1WGNYS0lGVGFtTUFaMVJ5dWhIQnpkWnpVNkJWZzFBWlhnY2dhbmcxMGFiYzZHc2Z0MjVHRW1oN1M2Q1p3RmtMZlIxZXREV2F3cEdfN09CbENIWFdNdElBNFVsTWpPbTctdDNaX2pXYlRSX3RERmFsMmhxeFRoWTRtYWdCQmNselhFNEd3VWd6aWhzZkdHSUJLRVNBbl9yV19nT2dqd2tBUkR5eWNjSElTd2VCLUc1aFZnYUpCRnJWRlZuQ09LT0dHaTJZZmV3RG1HUUZ4SzdoWm5ISGNwdVN4SENPSVNtNEl6TXpYa0ljdQ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -570,10 +614,10 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T18:43:17.000Z",
-      "originalHeadline": "الإمارات تعلن التعامل مع عطل فني نتج عنه رسائل إنذار غير صحيحة - الشرق للأخبار"
+      "originalHeadline": "الإمارات تعلن التعامل مع عطل ��ني نتج عنه رسائل إنذار غير صحيحة - الشرق للأخبار"
     },
     {
-      "headline": "Fines of up to 50%.. Saudi Arabia tightens rules for disclosing gold and money through ports - Arabic",
+      "headline": "Fines of up to 50%.. Saudi Arabia tightens the rules for disclosing gold and money through ports - Al-Arabiya",
       "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxNcUFGRC1YblhDMzBLTDZuZEJ4TEoxYTJzZDJNZmV3aTZqSzB2RUN6Mmw0N0NVN01Hei1DZGxkQkFoZHlCRDAzOWI3UkpJRFRPbkZ5bk8yUzVweHpaNlVsY3JnbDhhN1paUVRMSkF0NEladktkM0NCd1c0WTROUXBoNjFVUnBjYktscXU2dGIxRmEwbWdRVTU5MXMyS1VveXQyaWg4YWcwUDZqejhXZk56UjF2RktUNWQ5S2loQ0kzLVZRSnBPaW10NFdPd1Noek9LWkFvclpLXy1JeXFrc0JBdXJUUjZxdFJ2MW1QOGMxMmNqTUlOVWphbDhZQUhpZHJjQllRaEMwQ1BFeTNsMHBOczBkd0dnWmZEMElPYUxjc0FKSld3Y0dzSUc0UlY3RUF5SldyZU1WZE5ia1pCQjQ3VDNYaVhFQVVVS2Y3SElQa19GZ2E0cV9DNXBjTTFCSWJxRDRPUk8xX1NzSmFJZl9LWGVMaUx6SXhSZl9SMTMwQ0RlRjJ6WldNOUJIUG9OcDNTQUNsRUNPTDhyWlVJczZmc3I1dmoweGhSMU44VThqcnJnazluOXVXVk5ycFNMUE4zTU5SSU9ZczNVVHFMWjNKMWFBSWFkWVZadFJuWHNEZTVHUzZQMFBEX0g4Qno4UmYwUFR5cFNyUkhxbDgwM1c2RWw3TnZOdTRNWmhHMW9sNUlrYmpZN214UWVFLWVOSHo5MF85N1Mtb1dwLU0yWUtzWHdCdnpKd3FXd2dJOUZLbWg1TDc3dmY4WnAtSGF6Nm03VUppcWs0WE5LNDZqLXpEZNIB4ARBVV95cUxNcUFGRC1YblhDMzBLTDZuZEJ4TEoxYTJzZDJNZmV3aTZqSzB2RUN6Mmw0N0NVN01Hei1DZGxkQkFoZHlCRDAzOWI3UkpJRFRPbkZ5bk8yUzVweHpaNlVsY3JnbDhhN1paUVRMSkF0NEladktkM0NCd1c0WTROUXBoNjFVUnBjYktscXU2dGIxRmEwbWdRVTU5MXMyS1VveXQyaWg4YWcwUDZqejhXZk56UjF2RktUNWQ5S2loQ0kzLVZRSnBPaW10NFdPd1Noek9LWkFvclpLXy1JeXFrc0JBdXJUUjZxdFJ2MW1QOGMxMmNqTUlOVWphbDhZQUhpZHJjQllRaEMwQ1BFeTNsMHBOczBkd0dnWmZEMElPYUxjc0FKSld3Y0dzSUc0UlY3RUF5SldyZU1WZE5ia1pCQjQ3VDNYaVhFQVVVS2Y3SElQa19GZ2E0cV9DNXBjTTFCSWJxRDRPUk8xX1NzSmFJZl9LWGVMaUx6SXhSZl9SMTMwQ0RlRjJ6WldNOUJIUG9OcDNTQUNsRUNPTDhyWlVJczZmc3I1dmoweGhSMU44VThqcnJnazluOXVXVk5ycFNMUE4zTU5SSU9ZczNVVHFMWjNKMWFBSWFkWVZadFJuWHNEZTVHUzZQMFBEX0g4Qno4UmYwUFR5cFNyUkhxbDgwM1c2RWw3TnZOdTRNWmhHMW9sNUlrYmpZN214UWVFLWVOSHo5MF85N1Mtb1dwLU0yWUtzWHdCdnpKd3FXd2dJOUZLbWg1TDc3dmY4WnAtSGF6Nm03VUppcWs0WE5LNDZqLXpEZA?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -581,7 +625,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-26T18:38:00.000Z",
-      "originalHeadline": "غرامات تصل إلى 50%.. الس��ودية تشدد قواعد الإفصاح عن الذهب والأموال عبر المنافذ - العربية"
+      "originalHeadline": "غرامات تصل إلى 50%.. السعودية تشدد قواعد الإفصاح عن الذهب والأموال عبر المنافذ - العربية"
     },
     {
       "headline": "Fines of up to 50%.. Saudi Arabia tightens the rules for disclosing gold and money through ports - Al-Arabiya",
@@ -2673,17 +2717,6 @@
       "date": "2026-06-26T12:10:04.000Z"
     },
     {
-      "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZYLVE0Mmx3Qzl5X0t6bHpfRmNibnFHN3lhWDg1Z3d5VXNMRVczeDFBY3lfLV9QMTE1TVhEV1MtQUFKVmxXb0RVVmFLTHVQS3h1YzRlVE5qY01sLTlEQVlDVDFZWmRUdEV1S211SEhLcDJCMGhBSjhMWmdiUXItLWN0Mld5MEVXUXcyOG1TSjJiVlN0czhHMEZsZFl4NlpFZTI3b2wxd2IzSVlXd0NjVkxGX3doVE9hRHptRlhnVU1uWnE5Y1BfeFZpVW1fNkNyVVhZY1prWXNRTnRqOEdLWFJZVEtxNjdvRGUxYVN3ZWpLc245bTM0OThOeGJrSnUyNVNtM29ZaC1JV0VMNjJTN3ZWa1FZYW1TMVlTazBPMkRMUmtnUVF6OTljdHVGYjRDVmROc0xJTDFD?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T12:07:52.000Z",
-      "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
-    },
-    {
       "headline": "His Excellency Brigadier General Ibrahim Nasser Al Alawi, Undersecretary of the Ministry of Defense, inaugurated the Human Resources Authority Services Center, in a step that reflects the Ministry's commitment to developing the administrative and financial services system, and",
       "url": "https://x.com/modgovae/status/2070477877699862877",
       "source": "UAE Defense Ministry",
@@ -2704,27 +2737,6 @@
       "date": "2026-06-26T11:56:57.000Z"
     },
     {
-      "headline": "Saudi doctor given life sentence for deadly car rampage on German Christmas market - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWtKOVBFOS1sWHBLVUsxZlBQa000Rkt1a19FaXlwd3pQbjhuR1ZrLTlKVlo5MUdic3libHB3d2dzX0hfV3p1amh0RG1SOXdxczIzTWNOTWZHYmNsSy1NWUk5TjB2Rk5GRlJLTC02TEdfcGlJZUpYRVYxMmZGMkU1Q0p0ekNySnZJblE3YzF5Tk11MEtneDhpRjJ4RkxoZzV6X1dZcDVpWGEtc2pGem5pdUZzWGdPOVEx?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-26T11:50:36.000Z"
-    },
-    {
-      "headline": "Self-employment in the UAE: higher income or less financial security? -annahar.com",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxORmNJU1VlUC1JWmlFY1hscWs4c3dPVkVPVTVNaktSNVRHSmVGRzdkRzdqZ1JXZzhrM1hGSVB1SWVHWHlSd2cwZVBQLTJ2cjV2NEJwdDFzeU5uajlsQkh5VWpBd1o2dTYzREZoMDBmZ3pwQTN2Z0pWdmk1NENpaW1QWEU2dUJBczBGRUxjUThPVjZjaEpOZUd6T2ZuWHpxMEFXOWlkRWJpQ3VvZ3hfZXY3X0h4RWxjd0Q0T3FRZ0xOaWpyRENvZ0ZVSHFPbFlfcnhnMy1yM01fVVVvaWRXM2MwTVZuUXFyWUliZGVKZnRfNGJaLXA4S3U5TnBrRXplOW5KcThqd0ctZ3N3LU1FVTl2Sm9ieGJ1M1U2YjIxNHQ5VDRMVUhXa3BRRE5QVkRmTHN2cUJ5X1lSRnFKQ0NpSENIVFBxRnJ1b1pPbnJ4Xzg1Z2ZUNmRLdV9JbXV1N0RsQmd3NGVwRFJDTjQyZTNpclNqakQ2enAtQmx6ZElQUTRZRUVPT2p3SXVyQzM3SmZaUEwtckFGaw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-26T11:43:00.000Z",
-      "originalHeadline": "العمل الحر في الإمارات: دخل أعلى أم أمان مالي أقل؟ - annahar.com"
-    },
-    {
       "headline": "#In_our_memory",
       "url": "https://x.com/SaudiDCD/status/2070471126132662726",
       "source": "Saudi Civil Defense",
@@ -2734,16 +2746,6 @@
       "language": "en",
       "date": "2026-06-26T11:35:58.000Z",
       "originalHeadline": "#في_ذاكرتنا"
-    },
-    {
-      "headline": "Ahmed bin Saeed attends graduation ceremony of Mohammed Bin Rashid University of Medicine ‘Class of 2026’",
-      "url": "https://www.wam.ae/en/details/c0x4f3c-ahmed-bin-saeed-attends-graduation-ceremony",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-26T11:28:34.149Z"
     },
     {
       "headline": "Director General of Legal Affairs and International Cooperation at the Ministry of Interior, Mr. Ahmed bin Sulaiman Al-Eissa, meets with the Ambassador of the Republic of Colombia to the Kingdom, Mr. Ryan Al-Barkshi Abutrabi.",
