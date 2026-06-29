@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-29T00:17:16.780Z",
+  "updated": "2026-06-29T00:31:14.807Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Arab League Secretary-General Offers Condolences to Saudi Arabia over Martyrs of Aramco Helicopter Crash",
+      "url": "https://spa.gov.sa/en/N2623627?type=news&uuid=N2623627",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-29T00:28:19.000Z"
+    },
     {
       "headline": "Mauritania Offers Condolences to Saudi Arabia over Ras Tanura Helicopter Crash",
       "url": "https://spa.gov.sa/en/N2623621?type=news&uuid=N2623621",
@@ -214,16 +224,6 @@
       "date": "2026-06-28T22:39:06.000Z"
     },
     {
-      "headline": "THE ASSOCIATED PRESS - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-28T22:19:10.000Z"
-    },
-    {
       "headline": "Soccer - AP News",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
       "source": "AP Gulf",
@@ -277,7 +277,7 @@
       "originalHeadline": "أمير منطقة الجوف يرأس اجتماع اللجنة الإشرافية للمكتب الإستراتيجي لتطوير المنطقة.\n\nhttps://\nspa.gov.sa/N2623149\n#واس"
     },
     {
-      "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+      "headline": "Kuwait condemns targeting it with missiles and drones - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZYLVE0Mmx3Qzl5X0t6bHpfRmNibnFHN3lhWDg1Z3d5VXNMRVczeDFBY3lfLV9QMTE1TVhEV1MtQUFKVmxXb0RVVmFLTHVQS3h1YzRlVE5qY01sLTlEQVlDVDFZWmRUdEV1S211SEhLcDJCMGhBSjhMWmdiUXItLWN0Mld5MEVXUXcyOG1TSjJiVlN0czhHMEZsZFl4NlpFZTI3b2wxd2IzSVlXd0NjVkxGX3doVE9hRHptRlhnVU1uWnE5Y1BfeFZpVW1fNkNyVVhZY1prWXNRTnRqOEdLWFJZVEtxNjdvRGUxYVN3ZWpLc245bTM0OThOeGJrSnUyNVNtM29ZaC1JV0VMNjJTN3ZWa1FZYW1TMVlTazBPMkRMUmtnUVF6OTljdHVGYjRDVmROc0xJTDFD?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -285,7 +285,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-28T21:36:45.000Z",
-      "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
+      "originalHeadline": "الكويت تندد باستهدافه�� بالصواريخ والمسيرات - سكاي نيوز عربية"
     },
     {
       "headline": "FIFA World Cup: Canada 1-0 South Africa",
@@ -327,6 +327,16 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-06-28T21:21:53.000Z"
+    },
+    {
+      "headline": "THE ASSOCIATED PRESS - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jNk5uR19nX2ZhbUtOWXBOQThyYWZxcFd3RlR2LWVRNG1QdHJLYUItbF9adzBvc1Y3dkxSYm9nU0k2OE9JNDVZbk1tSmh3Qm1UNTBYM0IxeHFwdw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-28T21:19:06.000Z"
     },
     {
       "headline": "World News on Sunday, June 28:\n\n- The Crown Prince and the French President discuss regional and international developments, efforts to reduce escalation, and enhance maritime security\n\n- The Kingdom condemns the Iranian attacks on Kuwait and Bahrain and affirms its full support",
@@ -2516,17 +2526,6 @@
       "language": "ar",
       "date": "2026-06-28T13:21:00.000Z",
       "originalHeadline": "السعودية تدين بأشد العبارات الاعتداءات الإيرانية على الكويت والبحرين - بوابة الأهرام"
-    },
-    {
-      "headline": "Schedule of the Round of 32 matches in the 2026 World Cup, UAE, Egypt and Saudi Arabia time - Al Khaleej Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiygVBVV95cUxPM2RkNHhQSF8yMV9fOHB3SlgzM2paT2hwNjhVTE9TNGlqTHNZTDdtU2VfVTlYNm5rSV8yR04tVTBsRG1qYVc4TGFQekVNQ0x3QTlpYzZfMWdEeHdBU3VfMmlJM2d1V1N2QnBOOF9kSFJIRTBDQjJ0SHBaU0t4Zk9HMkl5MWI5anlERTNfOEo3N3B4bUFsaFZkMl9SR1JvQ21PRi1ndGpXLWFOemJWRnFKYmlQMUxxOXNMbFE3UmstM1VidkxBYXR0REVxeGFUaE9XSDBoQTh5X0hwLTYxZlllV3RZVHE4X1AzMGVwaDdpb3N5WjhQMnV5b045MmpxenNkVk16S1RaVG9tWC1SWVpIaTRta0dBOXZSLXdtZFprWjRaS19xbEJRTjRuUmF6RnVlZDJPSnl2dVNUVzJkTkZ2YUppT05OTzlScWlGNWJXeHZYRVFWR2V1emVvaDdaeE1WZVBJRS1XTl9CSXJlNFFDMFpMU3dQWDVDc2NjZXJ2bWIwdjVUS0lFUGZZZjZ2Ujl5aDNoc2g4T0xHOW1kVmZWRGVmR1hTd1RSSlVTQ0ZBN1NNakQ4dVJDc2pGQjI3dkxLQ3BCNlAyRWFpdnhCUmV2U0dkZUJZZ3NhdjNJY3AzQm9YQUg2Mi1tY1VkMHVlWGp1bUcyMGpESkhlVFdXRnVrVU9FeUJQV0hab25OdTEyZVY2Qk1zbV9waG10dzluT2NwNE9nUHBTOUowMS1lWW5DVW5tMXJTSU9iaWlpRERORWliX0JWdUVRYlpqX3M1S0RzS2YxLXQtMTFkb3d1WjVzNF8yWk1NMHBqcEpFMDgwZXA5dWZBNGEyVnlCblFaSTk4T2ZSSlg4MDhqMm1KaVlQck05TDRuMW9LTGpVWmRFSHVsQ0hXYzZjQzB3VE5ObHBGMVFGUkFsa0d2NHYwajJ1VGYyaElsYjFTSkE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-28T13:20:29.000Z",
-      "originalHeadline": "جدول مواعيد مباريات دور الـ 32 في كأس العالم 2026 بتوقيت الإمارات ومصر والسعودية - صحيفة الخليج"
     },
     {
       "headline": "Civil Defence extinguished a fire in a house in Budaiya. The National Ambulance is treating several minor injuries on site, and investigations are underway to determine the cause of the fire.",
