@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-29T16:35:52.290Z",
+  "updated": "2026-06-29T16:48:29.127Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "GEOSA Highlights Saudi Leadership in Hydrographic Surveying",
+      "url": "https://spa.gov.sa/en/N2624168?type=news&uuid=N2624168",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-29T16:43:37.000Z"
+    },
+    {
+      "headline": "Maalexi, RXIL Global sign strategic alliance to expand trade finance access for Indian agricultural exporters",
+      "url": "https://www.wam.ae/en/details/c0ywqat-maalexi-rxil-global-sign-strategic-alliance-expand",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-06-29T16:35:22.862Z"
+    },
     {
       "headline": "Saudi Delegation Participates in Islamic Chamber Board of Directors Meeting in Ankara",
       "url": "https://spa.gov.sa/en/N2624163?type=news&uuid=N2624163",
@@ -64,6 +84,54 @@
       "date": "2026-06-29T16:16:21.000Z"
     },
     {
+      "headline": "Al-Riyadh newspaper | The leadership congratulates the President of the Republic of Seychelles on the anniversary of his country’s independence",
+      "url": "https://www.alriyadh.com/2195641",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القيادة تهنئ رئيس جمهورية سيشل بذكرى استقلال بلاده"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Continued Israeli attacks on areas in southern Lebanon",
+      "url": "https://www.alriyadh.com/2195637",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | استمرار الاعتداءات الإسرائيلية على مناطق في جنوب لبنان"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Al-Mashal resigns from the Football Association",
+      "url": "https://www.alriyadh.com/2195610",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المسحل يستقيل من اتحاد كرة القدم"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Emir of Al Sharqiya performs the funeral prayer in the city of Dammam for the martyrs in the helicopter crash",
+      "url": "https://www.alriyadh.com/2195660",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | أمير الشرقية يؤدي صلاة الميت بمدينة الدمام على الشهداء في حادث سقوط المروحية"
+    },
+    {
       "headline": "EU trade in rare earth elements increased in 2025",
       "url": "https://www.wam.ae/en/details/c0ywqaq-trade-rare-earth-elements-increased-2025",
       "source": "Emirates News Agency (WAM)",
@@ -92,6 +160,17 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-29T16:02:05.000Z"
+    },
+    {
+      "headline": "Al-Arabiya sources: Pakistan’s Interior Minister arrives in Saudi Arabia to hold talks on developments in the region - Al-Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxNY2V3WWJuOXdLeVdDX1BRdThoMEx4Z1NaWmQ0TmROdERiNHFCMnlzaDZIQkFWV2xGbHVmLUR6dHR2QjNOMG9EWG5CTGhMb1RjNzU3RkFaQ09jdlVYaC02RUwxd0xNbEV4WVJXcVhfajE2cU1NUVFjV0pPZDdkdl9qZHREeUZ0NGdvLUdxWDVmY3NyTVU5dG9vUDJhZ2g5cDVhMkVsSDlKZTdFUGR1M0RGa0puSFo0WF80ZDFVZkhoaExlU3RETHA4XzhYS1lScXFNcThhUzI5MEJNblVpd3h6bnpfUnJqb1VTeDl3cEhMcTljYjlzdmNPNllRZDA2MjJRVE5qa0FqczNKMkNvcmZXbDB2bi15R29vaUxxcC1ZM1lqX252ZnVrQld3SGNGbzlKal84WENEZm9JenRsdVctUGpCQmd1R0dzOEFtd2tnZXo5XzhZZ3VjZWhkZTd6WFV6VUJiRVRZTFFKSjdEcERnWUZjaXZfMl9XeTBJYkxscUF3RFV0MFk5cnFMcWk1WHFIR3ZOdGJyUnI0azVaeUhZSGFsaDJSTzkydGktV0twZkR4R0NoRDlFazRqVkZFNmQyQWRiZUt6aTBHQWpmMU9HSW9oMzhRenJaRVZRYVp6VmkzRGpVQzJtazRnb09Oc1NJV2FLLTVfeUNqTFhkWFM0SHVvb2JsLVZnS3FuNVRzWTFOM3M1dVRPYXR4Z3JCTlZCbVJTNW12VnpQNzhTcXdLZHZYV3JuQ1h5SHY0M3hYeFNNNENocWFDcU1sOUNpYVpkb0ZGU2hGZTZIdExpdUVCeWxRQ1gzLUNEcVZmNHd6MTRCNDhtdEJLbndwSVlVRG4xRjBPVkVqOUpZY2p5MGc0a1REYTVneTFyUy1rLWhqQmMzcDh3Y2xZWHVPNEtVaTlxWUd4dWlNd9IBvAVBVV95cUxNQWdRTlVvRHR1YXptUjMtNXduOEludUtaeU01dWw5c29hUjZqdXh3bG84ZC1VX21DMzVYYm1TYXprNDlwNWlBV001Zng0eGxfeF8tczVSbm0yczFSTy1vZmJPZzNoR1Q4SmNFT2pOZm1BWEY4ckt0LUhqM3ZWQ1dCR0dYQldCZjJJTTFIR2JVMkJTWGJlUmM2TEZ6SmY2ZGhJeTFBTG10Vk5pVTluUVRudHhOano2T0c5YlVLc1dQN0lUUU9DY3dnT3Vtd21ldDJkV043MnhfNkxtbE4zb3pCTE1nd290cWxybTMtN2dsWlNuUjFHcG5pQkQyaWotLXZ1QU1MbFlyTV8tV3JGVkpBdWZIX05GN0QyZ1YtWGRQb3MwM2pFWjBFc0o0TXdxOWZ0SnNuQlpSNU0wektyc3BBdXdjaHBiamtGRkE5XzhqMlI0NGtoZUliVm5FZG1aTFFIVlVRV0syMHpVajNLN0JMTG9rWmw5Mjk2RTZKWDc5TVU3RVJvdVAxdkhSWEFaUzVxZXVoby1KMW9xZHlkcU5EQlF4OVJva2ZDdFNUcWxlblViaVYtTWZPSWhVYUljRVRPdWhPcENnS3gzRDlMX01KQzJBbHdhV3NYSWxfdUdIWUd6eHZmeUxZYmxYd2ZfZ1lJdWdnYWNiWlJFZFhFUXJxLUpvNUxOa0lwb1pnWThVeGwyRW1nMDlEVmJTOFF5SnZKM2huODFRcmVIQ0Rpb2hIUzk2TWoxNFIyRjcxNzdZOVMzdDdZRDZWM0dxZnFFbEFqZHYyaGUzaU9sM25MVnFTZEVuSFVaM3kzdUU5dDlHVmtESmRvYndXZlpPT01QcF8zT1pDazh6WGpKNjhzUlNFS1J6d3B1dF84Vm9IMmJudXRPeV9zSDJmS0dndFltM25UaWZyZkp1VTlpNTBU?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T15:56:00.000Z",
+      "originalHeadline": "مصادر العربية: وزير داخلية باكستان يصل إلى السعودية لإجراء محادثات بشأن تطورات المنطقة - العربية"
     },
     {
       "headline": "Al Masraf unveils its new corporate identity, marking next phase of growth",
@@ -230,7 +309,7 @@
       "date": "2026-06-29T15:11:00.000Z"
     },
     {
-      "headline": "Macron announces a move with the Sultanate of Oman to secure the Strait of Hormuz - alghad.tv",
+      "headline": "Macron announces action with the Sultanate of Oman to secure the Strait of Hormuz - alghad.tv",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNQTFzaUpEeUhPTHpOSUcwU2F6cUNXQjBJNVFqUV9GekZyMUxsc2xRQjhpamlWdk1yTzF5Zk5uQ2drZ1VhWTZ5STc4TURXSWtCUlE0Q05fTkVPLW9nR3BIa1RQWmczTGhnSy1xaUp4bGdWSHNtekFfR3dsNFJDQmhOWkNZczY0Z1QwczVaWEVsXzZ3U0xraFVJUS1OZWhxbVlQeFRDd0tab2RGckc5YW9ZM0UtOUhoUWRmVno4VF9TbjV4UHZvY190M28zSWZKTUNmbGFmM2hpTzRSOHhyRXhRQ1lTaFM4SGdZdkt1R1FSTzNDRzNZc01TTm1NR3E0bnBIYkFOUF85QkFSMkRueFF5OTdoTFZTRDJQdGtKMXVTVEdlVVJsOFpjamtrQldxeUg2RlJKSkVTSU52VVRrLTU3VW00OHpiLTlkSkdaeExtM21fNkN1VE5KOEIwM2hCcUpQeFc4cDU3bld3MERzU3kxb0NmNGJDbFY1eUpyNExIc19IQXVjTkdfRzBpemlwUEphS0lYT2VyR3g5QVgzUWhJMDB2eTVtRTdDY1RVRG9iMA?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -403,7 +482,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-29T14:36:22.000Z",
-      "originalHeadline": "سويز الفرنسية تفوز بعقد بملياري يورو لإدار�� المياه في سلطنة عُمان - الجزيرة نت"
+      "originalHeadline": "سويز الفرنسية تفوز بعقد بملياري يورو لإدارة المياه في سلطنة عُمان - الجزيرة نت"
     },
     {
       "headline": "CBO Board of Directors holds second meeting of 2026",
@@ -2364,79 +2443,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-29T10:37:19.776Z"
-    },
-    {
-      "headline": "Shura Committee reviews farmers' demands to support food security in Oman",
-      "url": "https://timesofoman.com//article/173676-shura-committee-reviews-farmers-demands-to-support-food-security-in-oman",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-29T10:35:46.000Z"
-    },
-    {
-      "headline": "The Secretary-General of Islamic Cooperation offers condolences to Saudi Arabia for the victims of the Aramco helicopter crash - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOQWhtVnZQZERGYm1NaUxDUEZkRUJfOVdra01DTUFIN25WenpRYlhPWGExamZkQjFTbnY0ZjhiZUxVMUFIV2ZWX2xFckVLVWRoX0ZlU0dtblN4aVNpVG9Pd29yUERwSE5VQlQ4NWxRUEYtdjR2d0FlT2szZFVvRVZWbXM5OWZXVi1McHFreUR1bnJIS3l5OVBSNDJXOWdnNzdiMzlFZ25pQjY2WFN0MndkSlNQaHdBLTZYODlYd1FpSTFwSEJiV2VFMWhTeGdmUHdRSFhHRkpxZ0w2MkRUejRsQkN6MFg1aDNsbFk2aUhxdEFkX24yWnprV19wVFpJZlpkTTdTdkw4dUhtODFyY2xEQ1FkTThoRlRrR0JvejVoQm81NDZWQXBnMWphaFFIVGNOQ3k1bnBPZDl0SnNSWmplUC1TVlZaLWZZOUF5RkxNbE0xaUZxckF1N1dYSWJNUkxqN3dMbHRScHpSVE9UWXFVSzVLOFh6Qi1rS094dDhrRzNXdngyN01SXzVFX1U4NUw1MEs2eXY5RG8zLWQ1WVBSWEtUdm1rZlg0QnZ6ckZUUEdvU1o5alZBdGxyY0VobFhfbTV4ZW54MWlnQmktX1V0NllPLVJqSzNNLTk1dmo5YlNNblAwaEVrM0dnaHlrc2t0ell5ZkxHNi1PeDEwQTlVSUdsV0hfOW5mS1HSAYQEQVVfeXFMTVlEWnlOT3JPbGZydTM4WU5GWjVVMExoOENtS0llN2hGcWZjeW9JQnhUNUtER2psMHQ2WTcyQTFwQjBPRkNCTUNDcmxjV0RnOWU2WFBOVWNXNXJhWkEzdi1aRENtVUM4OHI1WjFPaVJBWUpqNGlKLVQwZFpCak9wZXA5T1E2bXl6T2FHa3Z0R0VONGxRWlNoM1FtLWVKOFh0ZEZQMDYzcFhDWWRQcmFCMVcwdUVPX0hHUmF1S1NHV1gzR0xnYTYwQXFFTVJYdklwWVItODRXZG1WcDVua1JwYm91M3FVdk1zcnNXTVJHLURzb1ZoUUFzRGUwbTBnNkt0djZMQ2J1T3BLeGFXUFVxRlFOcURTcFhCemdXLWxXRVhSQjBlM1NITFhGakY4TmFCdFZpb09TN2lLUkM1MEFieWx1UTA4SF9iTTU4ZVUwN1V5YmpiaE9rWUo5WmV5VElMcW9iaHlROFhiQnhFM3VJa3ZnVkZGckpPQ2dWQjZFaGNpcDJMVFRnZkRpbHYwUVdobmRFNWV3TndIa05WOFBMTlhpNENnSHBMdld0QXBsZjUxcDlpUXZqeEp2Y2VSMHl3X3dhZk13WWhvbTlaUkVKR21rNWtFQWtsaHVNd0djQXJkUlhFTDc4WWpaakp3UjhxVGtwNjJVcXdWOUpwN3VpN09TZzZR?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T10:35:00.000Z",
-      "originalHeadline": "‎أمين عام التعاون الإسلامي يعزي السعودية في ضحايا سقوط مروحية أرامكو - اليوم السابع"
-    },
-    {
-      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T10:34:58.000Z"
-    },
-    {
-      "headline": "AP News Search - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T10:34:58.000Z"
-    },
-    {
-      "headline": "Egypt offers its condolences to Saudi Arabia for the victims of the helicopter crash and affirms its full solidarity - Masrawy",
-      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNckdmUE9EM1MyUmkwZ2tsNlRBazZCanRrWHY2el9La1M0TzN3X1JtZ1VrUW5RQjRfNjMwLVJQRC15X3oxck9QVVFDS0V1djFtSFdKYlBQaUZub0tMalBpOXJIT2NiSTE4aE9XeVk2R1doRVE1SXhNSjh3M05TbDlfcm9LSlVtYjJERzZETXA4R1hkV2tWYXFJVFFCUlFJVUZfRGdtNmJONkpUSHkxNU05SEp5WUNZNnVFSFNVVE53cjZ0TUhJMVExbGU1cVF1Vk82QlBZVF9oZU5zRWxsRVFWYXJ2bXMzVzJPRU1GSkNyb1FSYWdxQzVoUHBtd0VaRjV1dFg3S1N3RXByQUZQd18ycERaQU80M1ZqODVyanVTQVF0eS1LVlpad0NoLTdCN3BvYTBuSXZidk94UU1wbXc5OFNrcjEtYjVLcllvN2JQcnlfWmgtbEVwQUxOWXMxS3RCcFFfU1RZNVdYWUNQZDNvTmxUVjdjSzRNZDZFWU5UODV5dGJKQ1dqbTlnTXRBaUxBQmpYM1VWRGVfbUlBX1BPVkh3X3EtRzFmcktlUHlFUzI5OHBmdzg2Yk1jSXdhT2xlSEJ5NnU5bm50WkVBMmlic2hsQkdJY2tVQ3FfRnFmT2ZxSnkyMEpiREdMbFpvQUJPU1E3NGlad3hmRWxrSFVqUmpWZm1pVEgyM0NOR29rdlQ4WkhhRDJ2UXFkQVdiYUExOW41Y3NucTF5bzjSAbAEQVVfeXFMUEs1VnNsRkxaV2Y5ai1qTjNpWE5yNDBoeWRVZlMzV1NsOGRDVkc3aW1xLVZKQ2RTdXJ1OHpnZ3BhQTc3OC15SUpVSXkybWNFU3NUNjg1UGZlU0FKcXhab1NFckstRnAzREhpdDRoOGFCRWpaRFBuUHpHMVNWR3FTeDZ5Y0l0ZkpUTDNWSnlsMTdIUVJpajBscm1BMGd1ZnNzWGFpcGVKMTJYTGtmdkVfRkhKSGxXSXdmUVpoa2c5UHYtc0xkWkFYM2haUXZaOUhqSnMxSWVtc0xNdXczeDdQMzVsUm1WSXJGQ280b3h0dkxXNk9YeGJMRXFxalhsTmxXZF9CV3ZZTUFhaGtoMnQzUHdaT2FYNTZGWVg1cS13T2k4NE9UeVN6WXI3VUdLdWZtN3NOYlNNeG1wR09GeEpfYlBYa3JNVEJfUWdZUWNFZHRYTmx3RERvZGpZbDNBckFKX0pYV0Ytd2EyX0Q1RTVkZW80b3AzMVRZaEVMemxOR1h6YVFJOVgxZlc0TFRacDlXNjl2RHNBN0poTF9vbUJCb19hT05laVJLNUVKOFJRTHBkQmxpVHE2WmFmZ1B2VXIwVy1tZ3NsVjBPMkQtM3g0TWZMLTUyLXNMbVBsa0sybG9OYkZZMWdzZzJLQWNFMEo1WDhyd3hDc2ZrR2J0MC15ZDVCWGJsWUNFVE9hM3lJMjkwSFIzVTE1anFDUzdXcE03RGx5NWh0ajdUUkNpLU1BRXg?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T10:34:18.000Z",
-      "originalHeadline": "مصر تعزي السعودية في ضحايا تحطم المروحية وتؤكد تضامنها الكامل - Masrawy"
-    },
-    {
-      "headline": "Massachusetts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWX1ZrQUZITW9zMkhMaFJ0YV9QTmFhYTFwTmQ2cXF1ZDMwWFNvTTlpd3d3TmZQc094bnA1OW9Ra2ZzMkhvMW1hU0IwZzY?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T10:34:04.000Z"
-    },
-    {
-      "headline": "Masoud Pezeshkian: Qatar will release $6 billion in frozen Iranian assets - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPcS1PaFc5VVZ4dkRrem1iZDA4c0VKY3NTa1JwUkMtOGlhcGFEMFQtOHFwaDZGZksySmlKeXp4dEg1d3RabnNJbnRXWGFfb0pfaXB1ZFZZa2NQdFVLNHhtbmMxUjVsUFh4MGZ4VWVSQnhJaHJuY1hYVUY5OFpEYlNkTEYzUTIxM2J6elVwX3BTTEYzbVZTeGlUR2ZlUEhaOGZSMy1HdU5EQlpFVG9aY1FESVp1TzRjWEszX2Q0dFY2OUx1RWU4Tk45Z0ZEVm1tN1cwci1yd2FfTlhueHZyZF9lYWVZTDJQT1oycjBQbEsxMng0dTFLanAzbkdfTFo2eFZ2bkE3SEtjcDQxSWhzYW91ZmdyV1E4cTNiSUZGMnJVNWpjVnZDT1VDQ1dCbmU5bzJvbFdETVppMFNRenRfMEtQNTNkTW5USlRCOXpnM0ItbVp0ZDdxZjd1NHE1WllRZ2tSTk1oRTlJRFVQMHVzSGFROXRyN2xKQVo0WE12MW95Y1BWNmpYNkxEMDRVSV9GOHJKLXZRYzhaRDZBanNKUlAxbnhPUHdaRHRGWnB3QWFla9IBqgNBVV95cUxOZHRPdGM0Y1NIUEpIMnNoS3FiVmdfQktpdWk4a0pFQjNSamlOMGtPNVBPZHVxcmNSS1RMNUhCdzN1dEFNVFFRMTVNdDZUOVBZZmVlbUx1by1MMkdpNVZmQkJMRWhFb2dIZENvMUFFc3gwVnh5eTYzRG44djI3dS1DdUhCal9aQkN3NzZ2S0NUdG80SER3NDJsbHRzZHNxR2ZaQTBTZ1N0RU9zbDM1ZUNkQTE1V1B0SXIxdF9ZTHlpS1NCMnRDbFdGRzI5T2ZlYXFORXFXWVpPZ0FOb2dGNnhsSlZUQTlYQW9uLTFXeDdOeWhOZmhMMDdPYVB0LVpUa3ZjWUhacDk0Ui10UzJCUVJkYWJQZTRSTVhPa20wcVBmTWJNME0yaWZUTU8wU3p1TWt1U1BSZm5BSGhsdjZqYzVMSDMxVjFKQW1jY3FnUmF4amlaUzZvX3lsTWdaVnRIU0RxSm0zLUs3WDlyRF80OVBmcFdBVjdhdkJUQ3JMUFhSSjJyV1NUcW9JY3huN21DNzlQcV9ISUFQaWo0MkV5UzJ5b1hQNWNFeWFUTXc?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T10:34:00.000Z",
-      "originalHeadline": "مسعود بيزشكيان: قطر ستفرج عن 6 مليار دولار من الأصول الإيرانية المجمدة - اليوم السابع"
     },
     {
       "headline": "With the support of our wise leadership-may God protect them-Saudi Arabia ranks first among G20 countries in the 2025 #Safety_Index \n\n#Safe_and_Prosperous_Homeland",
