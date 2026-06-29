@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-29T04:02:33.682Z",
+  "updated": "2026-06-29T04:18:18.726Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Monday",
+      "url": "https://spa.gov.sa/en/N2623652?type=news&uuid=N2623652",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-29T04:15:30.000Z"
+    },
+    {
+      "headline": "Pakistan says it struck militant targets in Afghanistan",
+      "url": "https://timesofoman.com//article/173665-pakistan-says-it-struck-militant-targets-in-afghanistan",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-06-29T04:09:44.000Z"
+    },
+    {
+      "headline": "Kuwait offers its condolences to the Custodian of the Two Holy Mosques for the martyrs of an Aramco helicopter crash - Youm7",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPQmVEUGhVM3owM2cyUmItSDBsSXhiRzVBdDF6NDhUNmtyUjN4dERrX3M4SjFsTW1fMkFienVkSV9xdXVhOUtfZFV2clFkZ1owb05VRUhDZm95YW51bE1XNTR3MUtYQ1N1am9Xa2oxSFV1WXpwRUZsQWNMUWZDRXBlSUZWb3FVS215dXdVc0ItR1p6OTYzZGZGcE9VOW1QMS1kUmZhR0Y4djNpQnFUQk1GVjV0ODEyaTRVVGlGYXRPS08tWWtnaXhfWllza2JLaE1zWHRsdzFYT2x0R0RSMm9oV0VpZlR3Rlc4VjdFOXR6YW9HeXdsRG83YjhWNjN3UTRzUmpVMG5SMk9kc2ZmN0VrVUlKYzlyYlJITkhsSjBwam50MnNzQnVqd3RmWkFSWFdNR0hKUTBUU1ZXNUM3Nm42M2Vxajh3QXFIdXp4ZHlNM2pqZWNXU2lSOUwzWVdfQVVpR21ObWRyRTRjWHJKRENOei1JaVdDczJBZ1dKYVhNSGkxTXYzTm9VUzJYQ0VLallRQ0xkVWdFYmxKMHRhTFh3TG5oaW1LcFJTN1I0ZS1kMVdYTHJIUGp4czBTZUp2MHU2UnJpcnQ0ZF9OcUZvTVlVZm5hRkcwZEVjRHYta0JwYWpxdUxuZ1ZBRF9vOW9TYzZNd0x0Qm5YWlVDb3BULXfSAfgDQVVfeXFMUFJRM1hnUERLN29VX0o2TkRkb1NJczZsM3czd1dLRmNYMXhwbzZnZHMyd0ExV2RrY01RUG5uOEVpTHFxV1U0RURKZjdhc1RsdGZNN2dJcWdmRDdINDFUNGk4QTZpQjgwT2xpUGlhMi1POThlOWdSTnJrMWRJSERyMlZmYVBITW8wQW9oWUt4UVVYZEdJSXh4cmJPclREUTdLcTd6WDg1dlNRUnVfVmo2b1J1VFg1SHB5UnU5SDZ3Yk9OM3Q4ajJ6ZUFXWFJzQUhsUUQ5YkNXWkRrT2pFNzJkd0h0NURZZFFSTmhKTkZLdmh1bGIya1gycW53Yms4MkFCai1iaGp3WGY4ZmtPeUhNb3JRaHdaT0xYalljV09qX3Nja2ZYcGVtbEFoZ181UW1XMk5STWc0YzNfai1hdlFONlQ1UDhpRThkMkFVUzRSSGltbzM2X3lrRjQtMzlIdFowMk1MU1ZFU0tRVkE5SXczM2UxdVk3cHpjTk00NmlyelZ0eG9KUi1YNFFncEhjbm9SaFNrY0pCUE0zajlyYzBQWkx0SzMtcFNmczRDT0JUTklqX0VYcjVXSFUxaGxzN29Kbnh5V2JBOU5yWG1EU1ZVSXdfT0Q4WmE2aXNFdFo2aXF3Y1FFdElpcTJLTHhqQTF0UlA2cUQzYm84?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T04:00:00.000Z",
+      "originalHeadline": "الكويت تعزّى خادم الحرمين الشريفين فى شهداء حادث سقوط مروحية لشركة أرامكو - اليوم السابع"
+    },
     {
       "headline": "Trump news at a glance : Biden says Trump has diminished US standing in the world as he attacks his successor | Trump administration",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-news-at-a-glance-biden-calls-president-loser-diminished-us-standing-in-world",
@@ -92,6 +123,16 @@
       "language": "en",
       "date": "2026-06-29T03:30:00.000Z",
       "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi Aramco helicopter crash kills 14: report - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZeThudGJfdG5rRTNpQVhOME11ZFplX2Zxcy1kRXl6S1liQ3NfWXBOb085MGhiWHBxWUwxVWZFUTU3QVhMVl81TGtKMGxka29VbUZhNWc5NW1LdTdoX0NlNWl0STM5M0U?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-29T03:23:25.000Z"
     },
     {
       "headline": "Ancelotti backs fit-again Neymar for bigger role in Brazil's Round of 32 clash",
@@ -660,6 +701,16 @@
       "originalHeadline": "الهدنة واستمرار الاعتداءات الإيرانية !"
     },
     {
+      "headline": "Lionel Messi - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBQ0FKaEtTRHNJR3lRbElfcF9NZVFOWGhkemxSU3g5OEJxb0twbXI5UkZPbEprSXdXYTNXbk50SHp5ZkVhbUNMbVdqVQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-29T01:11:56.000Z"
+    },
+    {
       "headline": "Saudi Arabia: 90.5 billion riyals trade balance surplus for the first quarter of 2026 - Shorouk Gate",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVpvZ29BclRlbTJXYnJRdUVvNXl5NEh4cDd3WHJ2OTZZNi1RWjJCcUNfY0ZRalBvQk81TzNqcmJxNURjeEhXRFBxaWIzWnlDbHZzdzh1aW5md3hKd2NJa1pqTDBoZnh1TkZLaG5tZDVGb1ZZeF80RVRhcWJfdHV1RlRqQUpheFBRcDB0ZkZXdmw1bG5lZkFRd1liT1h3QjNLZEZsMDRNRQ?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -671,17 +722,6 @@
       "originalHeadline": "السعودية:5ر90 مليار ريال فائض الميزان التجاري للربع الأول 2026 - بوابة الشروق"
     },
     {
-      "headline": "Angham meets the Qatari audience... next October 16 - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdlJiQVJFR2VqdkFlYVQwOEtfQUV0ZmU5WW9mcVc2eDFLOGFIQ1k0eXJoRXN5dzNDRTdyNlBNdzA1Uncya21jZWdlc2UwY0hTdmFCc0JXM2M1VW96Q3FGMm9BeUVJZGNWcVZVRTVrMjg0MFBMTDBNMmRWYmlTYzBScF9qXzRUbVFrMnhCZXdGTGdEMVpDdkJ6VmVzcFVPZkdITmNzU1NlcGxIQ2hwUjRZdlA4TEJCeGpMejFIYnRHNTJtUWljQWtGcGJNajJUSTM1OExuWHJRNlc4MTVqemRtMGlkcWx1WGxSdjY0VzZyRkI2ZnkwLUU5ZFd4cTEwZElTRHBlN0x3X3dvTWxUbGFsc0g4bkVXSkgtS1Z1YWdoOGpsVmNHTE9fV2FkWnJsTC1NUTY4WnlvZW9mQi1zT1JWQmdsVFV4eWF6b2czTDNLekNCTUJaUmhqeThHWDTSAdcCQVVfeXFMTkNzOHZacGh5SGEzX1JVblF0Nk90SUtMbmxTVXpYVDZLQ0hRdlBjOUstVUNHdFJzNjZhNWRzdGVrWW9lNHAxQm1pM0d0NVYtcDVhd0o5bnFyU3ZXTXJxWDg1bE1neWNJM3gxbTVhSW5FRDRobjZxSnhSZWx0M2NfT25ZVy04dFh6MThkTE1iNElDQzJCNXhVcTUtNHFjRUZpWU5jQkVUenJ5QllHVXpjU0ZXM3F0RXhyVFBfSVJEZW1WcmJ5RnFFa0hNbmRqWDZUSXRWN29qRUo0UmNXUGYwYTJtZldRT2MyVkVBcGFNa1hId0xtSm1JVFkxM200ZUlZZEhyNmI0UWtZa3RMMkdyZnZ0RVZ2Q2ttcG52SjZfT0hTdk8yWE5ON1MtY3VfZ2ZudC15Qjg4RkVUMTVHbTNZbXZyeUpBM21pZXRycjhqYXJpcURKUjl6QQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T01:00:00.000Z",
-      "originalHeadline": "أنغام تلتقى بجمهور قطر.. 16 أكتوبر المقبل - اليوم السابع"
-    },
-    {
       "headline": "Gold in Saudi Arabia opens trading on Monday as markets await US economic data - Youm7",
       "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQdl9paDlpYXhkNTNXSjBsdU14NHFHcWlzNlRxSWd1U1Fqc1gwYXRtVHdLRHdKcldNWnlKTUVGME1WNjZacHY4RWh0UW9zcTdJT2pfZXU3OE9mdE8xVzdKamFUekhLcm9QTjUtWjRtZ21VNEFZTVpTckxsLVY3QWhnSW9SY0swSFcxWjRkU1FhaFg2dGdJWm0tUk51MVFVOEtabDBWZ0ZlMFUzTmhQc19ieGFTTkFzMmdSM2lIaDV5M2FmVWU0NWlxWmJrTHhqSG1KZ3RWUVJqU21BMUQ1V2cycHNkYlNkZUlyYWdZdEQzMlRybTV0V0ZDak1oLVcwaFhZb3lZbkFFYVh4ZVBKNV9ZZmJTbnpoU0hQdmZYekFERVlTN3V0WkZEcll4SFVwSVU0UnhhaGpYNVRnVjRaRFB5ZHRJTUlRZk9EcElRUFR1Nks2Q1pvdnNEQVJJQkY1aUhZUlU4OVdGVVI3M1dwMmR1UkxIZFR5MDZienIyNlFJRzByazFBUzEwb1hXMmhObVZxckFGV2paQk5Cem9raXplaXZMSEQ3TnUwa0g3NnoxQzAyalphMzZjNjYyaHhjOExZR3BCXzlSM29xa3VzdG9ueWZPT0UwRmQ0LUZHUmJ5VXZySVo3OTY0eFI3bHF5MlFsNUZBZ1QyVlJCWllMREcwNkVWYU1SWDNaMXg3NDdLZ25yRnYxbmdOdFd0NkFZQdIBmARBVV95cUxPbVV4dEU0R1RsSy1pb18zQldLMnEzaUo5a05wdVUtQ3F5UlZBUjBoNTduUEdwS3FlZFV3eDFteEJNQklDNkJmSjRGWDBxQ0ZtMDY3dG1jOWVGcy1RQl9xNzVBSktHZG1oa0lVUUttM3Jpd3BLOFh0QmJCdlhkaVBrOENuWlpfWk9sdVdPVlYtQ3c3MHNtbEI4cWRxY1hQV2RWaVV4QXo0V1prR09TUzg4Q2tWcHRmUWx3MURsX290SDY1RmFCVXFOcnVNUVRnWW9UTDY1dnR6X1FOdGNnUXR4d1lWVFk1ZXNMRlZaWTY0anY1UlNjbjUzREMwX2hFRWZRNmdVMUR4OW1EMGViRTBRMy1uZ2ZSMDUzMUtmTjlrMzhzc3Y4WEd4VjRfXy1BSHFFcllkYXJWMURSTzE4QjgyaEowS053ZFRFMEozeUV2YTNsUXQ5MS1KOG1Dc0VQNW0xbU9fZmxtc05IN0RfWUE5cmhnUGZMMzItd19Gc2pGaldLaHhZTm5PWWxjU2EtRkFZeGMtcVVIYThaNGRndm1IcGVyVGpKQVFxNXFNOUNQZWw5cVc2a0w0VlZSR0dLOVZiLV9GbGlWdWxHdjBKYUU1Sno0WUZpU2toZnlLdkM3bnFRbUd3UkhReTZIZnhhMmNPUmhKb0xPWER5cF9iOE9zcHFvMHhtc0NlUVJYV1VPT252NENzRmVQTA?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -691,6 +731,17 @@
       "language": "ar",
       "date": "2026-06-29T01:00:00.000Z",
       "originalHeadline": "الذهب في السعودية يفتتح تعاملات الاثنين وسط ترقب الأسواق لبيانات الاقتصاد الأمريكي - اليوم السابع"
+    },
+    {
+      "headline": "Angham meets the Qatari audience... next October 16 - Youm7",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdlJiQVJFR2VqdkFlYVQwOEtfQUV0ZmU5WW9mcVc2eDFLOGFIQ1k0eXJoRXN5dzNDRTdyNlBNdzA1Uncya21jZWdlc2UwY0hTdmFCc0JXM2M1VW96Q3FGMm9BeUVJZGNWcVZVRTVrMjg0MFBMTDBNMmRWYmlTYzBScF9qXzRUbVFrMnhCZXdGTGdEMVpDdkJ6VmVzcFVPZkdITmNzU1NlcGxIQ2hwUjRZdlA4TEJCeGpMejFIYnRHNTJtUWljQWtGcGJNajJUSTM1OExuWHJRNlc4MTVqemRtMGlkcWx1WGxSdjY0VzZyRkI2ZnkwLUU5ZFd4cTEwZElTRHBlN0x3X3dvTWxUbGFsc0g4bkVXSkgtS1Z1YWdoOGpsVmNHTE9fV2FkWnJsTC1NUTY4WnlvZW9mQi1zT1JWQmdsVFV4eWF6b2czTDNLekNCTUJaUmhqeThHWDTSAdcCQVVfeXFMTkNzOHZacGh5SGEzX1JVblF0Nk90SUtMbmxTVXpYVDZLQ0hRdlBjOUstVUNHdFJzNjZhNWRzdGVrWW9lNHAxQm1pM0d0NVYtcDVhd0o5bnFyU3ZXTXJxWDg1bE1neWNJM3gxbTVhSW5FRDRobjZxSnhSZWx0M2NfT25ZVy04dFh6MThkTE1iNElDQzJCNXhVcTUtNHFjRUZpWU5jQkVUenJ5QllHVXpjU0ZXM3F0RXhyVFBfSVJEZW1WcmJ5RnFFa0hNbmRqWDZUSXRWN29qRUo0UmNXUGYwYTJtZldRT2MyVkVBcGFNa1hId0xtSm1JVFkxM200ZUlZZEhyNmI0UWtZa3RMMkdyZnZ0RVZ2Q2ttcG52SjZfT0hTdk8yWE5ON1MtY3VfZ2ZudC15Qjg4RkVUMTVHbTNZbXZyeUpBM21pZXRycjhqYXJpcURKUjl6QQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-29T01:00:00.000Z",
+      "originalHeadline": "أنغام تلتقى بجمهور قطر.. 16 أكتوبر المقبل - اليوم السابع"
     },
     {
       "headline": "The “Qatar 2022” scenario prompts the Japanese coach to pledge to choose the “shootout” scorers - Asharq Al-Awsat",
@@ -1172,7 +1223,7 @@
       "originalHeadline": "The Governor of Al-Jouf Region chairs the meeting of the Supervisory Committee of the Strategic Office for the Development of the Region.\n\nhttps://\nspa.gov.sa/N2623149\n#واس"
     },
     {
-      "headline": "Kuwait denounces targeting it with missiles and drones - Sky News Arabia",
+      "headline": "Kuwait denounces being targeted by missiles and drones - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaTlDWklnazBNTVNNY2ZzczYxVXBXOXViSF9LMndMbW5BVjhIV2FzR1lYU0xYTnF0ajl5N3kwQW4xZE5ZeVA1OHVQSV9ibjQwdU5FWWt6bGxaWDhxYm45WU9HNExiQy04VFFWUWZYLVE0Mmx3Qzl5X0t6bHpfRmNibnFHN3lhWDg1Z3d5VXNMRVczeDFBY3lfLV9QMTE1TVhEV1MtQUFKVmxXb0RVVmFLTHVQS3h1YzRlVE5qY01sLTlEQVlDVDFZWmRUdEV1S211SEhLcDJCMGhBSjhMWmdiUXItLWN0Mld5MEVXUXcyOG1TSjJiVlN0czhHMEZsZFl4NlpFZTI3b2wxd2IzSVlXd0NjVkxGX3doVE9hRHptRlhnVU1uWnE5Y1BfeFZpVW1fNkNyVVhZY1prWXNRTnRqOEdLWFJZVEtxNjdvRGUxYVN3ZWpLc245bTM0OThOeGJrSnUyNVNtM29ZaC1JV0VMNjJTN3ZWa1FZYW1TMVlTazBPMkRMUmtnUVF6OTljdHVGYjRDVmROc0xJTDFD?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1180,7 +1231,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-28T21:36:45.000Z",
-      "originalHeadline": "الكويت تندد باستهدافها بالصواريخ والمسيرات - سكاي نيوز عربية"
+      "originalHeadline": "الكويت تندد باستهدا��ها بالصواريخ والمسيرات - سكاي نيوز عربية"
     },
     {
       "headline": "FIFA World Cup: Canada 1-0 South Africa",
@@ -1314,6 +1365,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-28T21:05:22.000Z"
+    },
+    {
+      "headline": "Georgia - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XdjNTUWRyQTJJYmk3TXhzNFBYOUxUa3lac3hJYzlrSXN1bmR5N1UzOUVLb0Rha1pWcXdobU1wVzFIa2RL?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-28T21:05:12.000Z"
     },
     {
       "headline": "Bahraini Leadership Offers Condolences to Custodian of the Two Holy Mosques and HRH the Crown Prince over Saudi Aramco Helicopter Crash Martyrs",
@@ -1582,16 +1643,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-28T20:06:00.000Z"
-    },
-    {
-      "headline": "Georgia - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9XdjNTUWRyQTJJYmk3TXhzNFBYOUxUa3lac3hJYzlrSXN1bmR5N1UzOUVLb0Rha1pWcXdobU1wVzFIa2RL?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-28T20:02:43.000Z"
     },
     {
       "headline": "World News: Top &amp; Breaking World News Today - AP News",
@@ -2205,7 +2256,7 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Qatar: Military currency fragments in the region kill a citizen and injure a resident - Al Sharq News",
+      "headline": "Qatar: Shrapnel from military operations in the region kills a citizen and injures a resident - Al Sharq News",
       "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQMV82MnM1bEZ3MXo0SEQ1bWlDRHJZR0hCT0lHSE1FUy1kcnd4dl9DUnlCYUlnWHhVMWJUS082cGpXb25ENTF6ODIyemZTRER4UzIzNlo4U01hYzhjTnA4SXFlenRVdms5UzU0WGFwM011TVptN3o0djFLeDlTT1VpN09iei1XczJUcjF0TnlLbWJuUTZYb3dXd1ItTU5QNzhGMTJXUVBVUUg1MXI3ZUItM0d1V280ckJtbUh3T1NEMnVrQXpOSGlFSDNvdUczb2JOTTRqQkdZNFAtT0owOF8xSDcyRlotSWFqdS1qU1p0eW84cm5YRU9BdDUxdEg4RENCLW5kZEVLd1p2WHZsRjlrX1d0NzVGRUJlQkdNa2syYWZ0eVQ2NjNLay15djU4VUtxeHVzTFBMWTZhNHFzZG5SZFF6R29LUk1QanhkMTUwWnRWMHdhVmo1Z0xnVjd2b3ZGM252REYyQ2d2M1BZOXRPT1NMSnA0OW5YU0NObk03UkVwWlUtT3lDNjcxX04xLW1vZks5akpyd1VHWGFYR2tBdlhwU08xc1ZwMGJLVXNqZ3daYnZOZm16dWdzTnlKUXJCTDBlVXNWbTJLZw?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -2213,7 +2264,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-28T17:29:45.000Z",
-      "originalHeadline": "قطر: شظايا العمل��ات العسكرية في المنطقة تودي بحياة مواطن وتصيب مقيماً - الشرق للأخبار"
+      "originalHeadline": "قطر: شظايا العمليات العسكرية في المنطقة تودي بحياة مواطن وتصيب مقيماً - الشرق للأخبار"
     },
     {
       "headline": "Muslim Elders: Renewed Iranian attacks against Bahrain and Kuwait represent a threat to the stability of the region - Sada El Balad",
@@ -2461,61 +2512,6 @@
     {
       "headline": "Saudi Arabia Condemns Iranian Attacks on Kuwait and Bahrain",
       "url": "https://english.aawsat.com/gulf/5289571-saudi-arabia-condemns-iranian-attacks-kuwait-and-bahrain",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-28T16:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Aramco Helicopter Crash Kills 14 Nationals",
-      "url": "https://english.aawsat.com/gulf/5289560-saudi-aramco-helicopter-crash-kills-14-nationals",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-28T16:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "GCC Secretary - General Denounces Iranian Attacks on Bahrain and Kuwait as Violation of International Law",
-      "url": "https://english.aawsat.com/gulf/5289583-gcc-secretary-general-denounces-iranian-attacks-bahrain-and-kuwait-violation",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-28T16:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "12th Saudi Film Festival Opens at Ithra with Broad International Participation",
-      "url": "https://english.aawsat.com/culture/5289612-12th-saudi-film-festival-opens-ithra-broad-international-participation",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-28T16:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Lebanon Under Pressure to Dismantle the Parallel Economy and Exit the FATF Grey List",
-      "url": "https://english.aawsat.com/business/5289556-lebanon-under-pressure-dismantle-parallel-economy-and-exit-fatf-grey-list",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-06-28T16:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "More People Rescued , Thousands Still Missing after Venezuela Quakes",
-      "url": "https://english.aawsat.com/world/5289643-more-people-rescued-thousands-still-missing-after-venezuela-quakes",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
