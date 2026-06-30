@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-30T01:33:32.617Z",
+  "updated": "2026-06-30T01:47:22.800Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Foreign Minister Arrives in the People’s Republic of China",
+      "url": "https://spa.gov.sa/en/N2624450?type=news&uuid=N2624450",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:36:07.000Z"
+    },
     {
       "headline": "India intensifies 'Operation Amistad' relief efforts in quake-hit Venezuela as death toll rises",
       "url": "https://timesofoman.com//article/173718-india-intensifies-operation-amistad-relief-efforts-in-quake-hit-venezuela-as-death-toll-rises",
@@ -43,6 +53,126 @@
       "date": "2026-06-30T01:16:24.000Z"
     },
     {
+      "headline": "How did they get into the trillion club?",
+      "url": "https://www.okaz.com.sa/articles/authors/2254831",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "كيف دخلوا نادي التريليونات .."
+    },
+    {
+      "headline": "In pictures: A mysterious fox constantly hovers around Aiten Amer’s house at night",
+      "url": "https://www.okaz.com.sa/culture/art/2254850",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بالصور .. ثعلب غامض يحوم حول منزل آيتن عامر ليلًا باستمرار"
+    },
+    {
+      "headline": "Privatization is being implemented on various games!",
+      "url": "https://www.okaz.com.sa/articles/authors/2254830",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الخصخصة تُجْهز على الألعاب المختلفة !"
+    },
+    {
+      "headline": "Confusing statistical numbers!",
+      "url": "https://www.okaz.com.sa/articles/authors/2254826",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أرقام إحصائية محيرة !"
+    },
+    {
+      "headline": "Taste again..",
+      "url": "https://www.okaz.com.sa/articles/authors/2254822",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الذائقة مرة أخرى .."
+    },
+    {
+      "headline": "The US Supreme Court blocks Trump's attempt to fire a Federal Reserve official",
+      "url": "https://www.okaz.com.sa/economy/na/2254853",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "المحكمة العليا الأمريكية تعرقل محاولة ترمب إقالة مسؤولة بـ « الاحتياطي الفيدرالي »"
+    },
+    {
+      "headline": "A sudden earthquake in Yibin, China",
+      "url": "https://www.okaz.com.sa/variety/na/2254857",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هزة أرضية مفاجئة في ييبين الصينية"
+    },
+    {
+      "headline": "Heba Magdy's poignant message reveals a silent battle with the disease",
+      "url": "https://www.okaz.com.sa/culture/art/2254835",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رسالة هبة مجدي المؤثرة تكشف معركة صامتة مع المرض"
+    },
+    {
+      "headline": "35 male and female students from Imam Abdul Rahman bin Faisal University represent the Kingdom in international universities",
+      "url": "https://www.okaz.com.sa/local/na/2254846",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "35 طالباً وطالبة من جامعة الإمام عبدالرحمن بن فيصل يمثلون المملكة في جامعات عالمية"
+    },
+    {
+      "headline": "“Rewards” opens the file of financial commitments in the “health” transformation",
+      "url": "https://www.okaz.com.sa/local/na/2254855",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-30T01:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« المكافآت » تفتح ملف الالتزامات المالية في تحوّل « الصحة »"
+    },
+    {
       "headline": "South Korea eyes 'second wave' of investment in India",
       "url": "https://timesofoman.com//article/173714-south-korea-eyes-second-wave-of-investment-in-india",
       "source": "Times of Oman",
@@ -51,6 +181,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-06-30T01:13:55.000Z"
+    },
+    {
+      "headline": "Saudi Arabia adopts a new treatment for chronic liver diseases - Arabic",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNZTdtbDQwTktSbkJ3LVBSdmtKQy1sX2VKWXdRcE5pVnlKdHJQNTR4OUdVb0Y3VVhxckl6OGpFUzBIX2dWZnd3N2E3YmJoeWcyTWZNUnltWG9fY2F2SFhYck1Cdi11ZVBoZV9mY0RZZXRQNTdXT2RYdWtVQ0YxUUdoU1FoYXNNdlRuc2VEUF9MaDVVdVhlc2sySTNrZzhnYjYtVzV4d3JFd3ZMM3g4bmI4NE16R3g0LTJLcFB6ZXZQNFdFcjIyNVJGc2NRczl5VnhNNTlYeVNtNGtRc0VqcXJ2cEFKczYzS0hqVWlhbmlFQjF6T0gyYTNiRzZ5ZzhyWVZkNk1Db1BHLUF5VDViZ0hlZ0k2QUhJdkRzMHN0VkVHSlNhZUJ3OHNfNDlBZk1YYkNnR0tyMndOYUhFd1ZNSmI5UWFxNkJQcWMxSnN4SUtfT2VyemlwcXI2dm5nUUJoOXAyN0VXMjJKRjVkUUZndjNSTGJUeTBHaTZLc0V1NGVBZFZ6MnZFUnlkVU9aNlI0UXdSNWJmbWlobWtQR01JY3RFdUc0QVVmWktMRnJqOEJJalhtMm1MUmJvWlZ3aGFnLWRQSTBOdGw4RVZ3LXJQTWRZUlA4dkJkQ2RrQlZScjVDQlZvUWJrdXNwYUd4aGJMdFB3MlgwU3JadmNQU3NLVF9KNHZLLTF1SEZQakpJUG9ocDVHblhiSzFxcXhaR04xQlh4YmZoS1lrdnVDbzBRV2JWdlg0NXJVUVFBNi1xSjJSdGs1Tzl6VFg0Z3hGYzhDYUVDWVo5VTh1Rk9HUkoyb0d4UVo1bGY3d9IB6wRBVV95cUxPRmliVko5WEgwbEtDRzg0MHpVWk1JT1FycEhDdFBfZ3FEd1BhRXFHVk50NDA4X1dVQURXUHp3amg4WDFMR253c1NMdUNHRldLY3BOQzNXNXdSOXRxZWp0TlA2emxvSXFZZkIzTHhPbnNJRDFJWDZ2ai1HbEJuOVhPb3E4NFVkeWZJT0ZlWERFVEdNbnpvN0NONDdjenNQejgydmVLYVZ4QnNFaEJyOW5xeDVDampKMnp6V0ZyMzU4N1owdHBIb2FRZ1FyM1F3NTlnanRlaEROX1BlZVlqdkRWVGduM1RzZ1ZtVTBvT2NIM3lnOGFlekd1TFJFVUZZczZFVGRCZTQ4NGhCel92Y3dwaHAxV3NseVpCVUFvOFFyNjJoWVl5cEFuX1Y5Q2oyMWpURUo2WmZfRzRRNzNlY0tUUkpvZWVHSjctMGlabld3MDV5Ynp6NjJydm42YzFNVXFSOFRJaHNlaGh5eFBmRmZpQkhHMXZrd2VmZERlYkQxcUk4SGNvbjlVa2NKOTFCTlBXQnJ0TlduSGxVWHhtY1RLRU9vQ1FnaTNIT0ozdDNBb0gzOERRejNkckgwUTBrNV8zWm13UFlCV2JhUDREcFNaOUlXOEs2cXVhTGtTNGQ2Z2lLMHAzNGUyNTI0RkJqV0VpODVzY1hxQXZqWXdDR2tzU1ROalhtcGZLMU9iMGxDa1JrY0s4ZFlKS3RMQXhEcnpkS3h4alVtZU9XVDlTVEJUNm1QSTctUzdvb1V6OGZTdnFBeWdqYmVXdHhQanFSN2tCenBzcVFBdHlWMDVqWmJnRXI3N1g5aFpsa0Q0?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-30T01:12:00.000Z",
+      "originalHeadline": "السعودية تعتمد علاجاً جديداً لأمراض الكبد المزمنة - العربية"
     },
     {
       "headline": "Washing of the Noble Kaaba..\n\nAn annual tradition that the Kingdom is honored to sponsor on the 15th of Muharram each Hijri year",
@@ -154,6 +295,18 @@
       "date": "2026-06-30T00:47:13.000Z"
     },
     {
+      "headline": "Doctrine 2008.. Why did Germany choose to support Israel without borders?",
+      "url": "https://www.aljazeera.net/opinions/2026/6/30/%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-2008-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D8%AA-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AF%D8%B9%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-30T00:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عقيدة 2008 .. لماذا اختارت ألمانيا دعم إسرائيل بلا حدود ؟"
+    },
+    {
       "headline": "Martyr Muhammad Al-Yami's mother: The leadership's condolences cooled our hearts and alleviated our grief.. May God have mercy on all the martyrs\n\nVia the News Agency correspondent Ahmed Ghaly",
       "url": "https://x.com/alekhbariyatv/status/2071753282356195692",
       "source": "Al Ekhbariya TV",
@@ -184,7 +337,7 @@
       "date": "2026-06-30T00:07:44.000Z"
     },
     {
-      "headline": "The escalation of threats puts pressure on the path of understanding with Iran - Sky News Arabia",
+      "headline": "Escalating threats put pressure on the path of understanding with Iran - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVXg1NUl0Umd2Ml9FTE1xY1duSVJxUzNjT3M2aWx6TTZGazJ0aUpxakl2U25ldDcyanVmNFdFUURMZmktWVZlckNJdTc3emlYeFU5V1F3bjh3anphdTJVakVmVFRXeWVTcmJsdDFaVlVsTGt6NDBBNnZrV0N6c3pzNzVSbVB4dHFnN0ZENG1YWWtHYmpWVHlMTVZIWjJ2NEhGTmdYV25KLUhxTkRMQmozRjZ6OHVIbUVWSW1BY24yeF9jLXVhcDBxUTNlUDRkZzl5OUNZdmxINjU3ZF9Hb2lVNUJ5cDRBVE1oLTFsckRvaVF2WlZ0clRsT3dNMHVjV2ZsV19mZ2hKQ0RIcWoyTndCSlo4bG1GRmNMWkZoNmhrUHZhVXd0VnRFcTNnU2lUbXJXRzJQYmxzSXVIeU9mdlBuaWhGYU81c0htNzRPOWY2LU1HVVcwWVVRXzhLM3VQRFU?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -192,7 +345,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-30T00:04:13.000Z",
-      "originalHeadline": "تصاعد التهديدات يضغ�� على مسار التفاهم مع إيران - سكاي نيوز عربية"
+      "originalHeadline": "تصاعد التهديدات يضغط على مسار التفاهم مع إيران - سكاي نيوز عربية"
     },
     {
       "headline": "ZATCA Extends Cancellation of Fines and Exemption of Financial Penalties Initiative Until December 31, 2026",
@@ -386,16 +539,6 @@
       "date": "2026-06-29T22:38:00.000Z"
     },
     {
-      "headline": "Colorado court rejects November ballot initiatives aimed at redrawing congressional districts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2RnQUhiYkh1enNpUzBZZHhkelR2T2RKaW5rUlM0a3hKZ3doMVo5czlhTWFIWE9lMlNBRlgyZzUyQnVrMnJmMlBjUDRQTG1pTm1acHVmM0E0OHhaM1M2LTh5d3Ftc01rQkFVMVlXTlhaUl9UeVV5U1Rjby1OeUF3UWFqWW8waC1WYldjN1IwcVVNdS1Gbl83MXU3VEItS0xZeXVjYVNzXzh4cHIwV01tS1ZB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T22:33:00.000Z"
-    },
-    {
       "headline": "The compass of the US-Iranian negotiations changes its direction from Switzerland to Qatar - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPMEhmWnVJaGRyZE92azZ1ZUxCTVEyeWQ0NFFXcFRjbDhLOFJkSU5yZzgxM3NTZDlVUl9jRVR1UkxnRzVGNmxLbERobG9YbUFqQnI3Uy13NGJoYWFjQS1XamNUM0ktQVI4WFNMNUZ4Y0lnZXdxMGdsWXluM2ZLcTBFbUNmQXFmVlI5SVRvZ3U5UHFBczJFMFhlekg5NUJja1dqTHg0MlhBcXZvaEtya1diakxMV0dMdXNuckNDamN0UG1pd3BzOFNRS2VTUENtV0FfZzhXUUFTMFFvX3h4RFZOY2EteXdmd2JyeW9RczhqWDNmXy1zOFBzTGtRMGZoWEs4M0sxLVQzcUhzVEl5Wm9HQzNiVmRwUWxjdFo2OWhBcW9FWXgtTWR0X1V1VlByTTl2dXlpRjFpY1p1Wlg1UjNseTlseWcwZE5wc2Z0OEdVZ0RSbFFZLVpLT2thdWY5RlZkR09KOTR6OGRjVkJiZnRTT3d5Sk5uYXRpODkwaEhfLWpXcG9jbXpEMlNMc1A0RGV5cEo2TFNrS1JqSFJhYlREbDlCUWVoWmQtYnppYzBXQ20yQ2FLNzh2cEpidHhZd3FLOG5oeHJseDAzTXFPbXFKQ19WcGhwTW5zTlV3RUJWb1FZSkhGN2tGNmVZUWRBUkNGdFhVSHQ2WVVpYm5hSjlQc3FDM1BSRXN1ZTcxLU5scTRsLUxtQlY4UVJycEdHV3NOSlc4eG9ydlJFb1EzbnY4XzV4dTfSAbQEQVVfeXFMTzBIZlp1SWhkcmRPdms2dWVMQk1RMnlkNDRRV3BUY2w4SzhSZElOcmc4MTNzU2Q5VVJfY0VUdVJMZ0c1RjZsS2xEaGxvWG1BakJyN1MtdzRiaGFhY0EtV2pjVDNJLUFSOFhTTDVGeGNJZ2V3cTBnbFl5bjNmS3EwRW1DZkFxZlZSOUlUb2d1OVBxQXMyRTBYZXpIOTVCY2tXakx4NDJYQXF2b2hLcmtXYmpMTFdHTHVzbnJDQ2pjdFBtaXdwczhTUUtlU1BDbVdBX2c4V1FBUzBRb194eERWTmNhLXl3ZndicnlvUXM4algzZl8tczhQc0xrUTBmaFhLODNLMS1UM3FIc1RJeVpvR0MzYlZkcFFsY3RaNjloQXFvRVl4LU1kdF9VdVZQck05dnV5aUYxaWNadVpYNVIzbHk5bHlnMGROcHNmdDhHVWdEUmxRWS1aS09rYXVmOUZWZEdPSjk0ejhkY1ZCYmZ0U093eUpObmF0aTg5MGhIXy1qV3BvY216RDJTTHNQNERleXBKNkxTa0tSakhSYWJURGw5QlFlaFpkLWJ6aWMwV0NtMkNhSzc4dnBKYnR4WXdxSzhuaHhybHgwM01xT21xSkNfVnBocE1uc05Vd0VCVm9RWUpIRjdrRjZlWVFkQVJDRnRYVUh0NllVaWJuYUo5UHNxQzNQUkVzdWU3MS1ObHE0bC1MbUJWOFFScnBHR1dzTkpXOHhvcnZSRW9RM252OF81eHU3?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -405,6 +548,16 @@
       "language": "ar",
       "date": "2026-06-29T22:33:00.000Z",
       "originalHeadline": "بوصلة المفاوضات الأميركية الإيرانية تغير وجهتها من سويسرا إلى قطر - العربية"
+    },
+    {
+      "headline": "Colorado court rejects November ballot initiatives aimed at redrawing congressional districts - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2RnQUhiYkh1enNpUzBZZHhkelR2T2RKaW5rUlM0a3hKZ3doMVo5czlhTWFIWE9lMlNBRlgyZzUyQnVrMnJmMlBjUDRQTG1pTm1acHVmM0E0OHhaM1M2LTh5d3Ftc01rQkFVMVlXTlhaUl9UeVV5U1Rjby1OeUF3UWFqWW8waC1WYldjN1IwcVVNdS1Gbl83MXU3VEItS0xZeXVjYVNzXzh4cHIwV01tS1ZB?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-29T22:33:00.000Z"
     },
     {
       "headline": "The compass of the US-Iranian negotiations changes its direction from Switzerland to Qatar - Al Arabiya",
@@ -1067,7 +1220,7 @@
       "date": "2026-06-29T19:38:37.000Z"
     },
     {
-      "headline": "A strategic partnership in the Emirates to launch an electronic health records platform supported by artificial intelligence - Fintechgate",
+      "headline": "A strategic partnership in the UAE to launch an electronic health records platform supported by artificial intelligence - Fintechgate",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQT242SUxvd3Z6LWhqUTB5SUdqSkZRN1FLaWZ5a05JaFVrcktMem1FbklXS3NyVGVhb0V5bnQ5OUtuYjg4WEJ2aF9VSi1nTE1Jdi1TaVVIVmowX2kxYURYeGtaZ0lwU2tBQ19STmt2RXc3bklnWUw4LUZ6S3picGtpVDAtQkh3amo4cHVwMVQ1NlNNcnFfeXNubnlVT2FGYU41S3R2QnVEM3ZGemlGajRSQ2pRNWIyb1N3RlhpRzczV1c1NzQyWUZnajBlSUF1b3RZWG5SMERRZHR4Qnl5Qk96YnhoOGl2YjhaeHpKSmFxMEFHQU1Sb3A2ZVZmdUVVRFVHQi1hWGhyQWVWY0xkcDREdmtVWlBZcU1HaERNc1RsaTNGMWJaT01USmRzSUtFRmZZR3ZnQW0xTXQxNXBBcENMSUlR?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1075,7 +1228,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-29T19:35:36.000Z",
-      "originalHeadline": "شراكة استراتيجية في «الإمارات» لإطلاق منصة سجلات صحية إلكترونية مدعومة بالذكاء الاصطناعي - Fintechgate"
+      "originalHeadline": "شراكة استرات��جية في «الإمارات» لإطلاق منصة سجلات صحية إلكترونية مدعومة بالذكاء الاصطناعي - Fintechgate"
     },
     {
       "headline": "In Paris, the Omani-French Business Forum strengthened the bridges of friendship between the two countries, affirming that established partnerships are built on trust, shared vision, and mutual interests.  \nThe presence of His Majesty Sultan Haitham bin Tariq, may God protect and",
@@ -1211,7 +1364,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-29T19:01:00.000Z",
-      "originalHeadline": "مصر تعزي دولة قطر في وفاة مواطن إ��ر العمليات العسكرية بالمنطقة - بوابة الأهرام"
+      "originalHeadline": "مصر تعزي دولة قطر في وفاة مواطن إثر العمليات العسكرية بالمنطقة - بوابة الأهرام"
     },
     {
       "headline": "#BREAKING\n\nProtected by the care of the Most Merciful, His Majesty the Esteemed Sultan /May God protect and preserve him/ concludes his visit to the friendly French Republic, heading to the friendly United Kingdom on a special visit.\n\n#OMANI",
@@ -1778,6 +1931,16 @@
       "originalHeadline": "ما أهم نتائج الزيارة التي ��ام بها سلطان عمان إلى فرنسا؟ - مونت كارلو الدولية"
     },
     {
+      "headline": "Penelope Keith, star of classic British sitcom ‘The Good Life,’ dies at 86 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObS14bEc0YnNQOE5rR2xqVXRoWFVfTERYZTZPUE1TUTdJQmcwV3BxZG9obzZEeE1Cd3dfa2Z6dmxmQlpCcWdkZUltbU1FMGFPcGpLb1dRQ25ldnRlQ2hEMFBkalFUaWhNY2RyMHZTVVJRbXZOTGNPRF8wQ0VVM2paRkFhM3BVbmlzRUxKYlEtNTQzMU1CRFBIdHptaw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-06-29T16:49:00.000Z"
+    },
+    {
       "headline": "Ex-UK lawmaker pleads guilty to cheating in election betting scandal - AP News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUNIclhOcmpyV2trcnZjZU1KRWMtdTkyblJxRERTSnp0T1ZnRFU0ZG1NdG5wdEFsQnNrelFBaWkyaUhnZjlLYUZEeU9uMXUxd2R1Y2JQaWFJeDc0Y1AtR3ZPQnZTWHk1b1pLUlY0cS1IY08ycnAwVFRuZWV0dGdQYU01SFNfdDRUM3Bvc2JsQlFpb3JoalhYSA?oc=5",
       "source": "AP Gulf",
@@ -1817,16 +1980,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-06-29T16:38:00.000Z"
-    },
-    {
-      "headline": "Penelope Keith, star of classic British sitcom ‘The Good Life,’ dies at 86 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObS14bEc0YnNQOE5rR2xqVXRoWFVfTERYZTZPUE1TUTdJQmcwV3BxZG9obzZEeE1Cd3dfa2Z6dmxmQlpCcWdkZUltbU1FMGFPcGpLb1dRQ25ldnRlQ2hEMFBkalFUaWhNY2RyMHZTVVJRbXZOTGNPRF8wQ0VVM2paRkFhM3BVbmlzRUxKYlEtNTQzMU1CRFBIdHptaw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T16:36:00.000Z"
     },
     {
       "headline": "Maalexi, RXIL Global sign strategic alliance to expand trade finance access for Indian agricultural exporters",
@@ -2323,36 +2476,6 @@
       "date": "2026-06-29T15:01:37.000Z"
     },
     {
-      "headline": "Industry Minister Discusses Strengthening Mining Cooperation with Jordanian Counterpart",
-      "url": "https://spa.gov.sa/en/N2624096?type=news&uuid=N2624096",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-29T15:01:30.000Z"
-    },
-    {
-      "headline": "HM the Sultan, French President grace business forum to strengthen Omani‑French cooperation",
-      "url": "https://timesofoman.com//article/173701-hm-the-sultan-french-president-grace-business-forum-to-strengthen-omanifrench-cooperation",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-06-29T15:00:54.000Z"
-    },
-    {
-      "headline": "DCT Abu Dhabi commemorates 15 years since inscription of cultural sites of Al Ain on UNESCO World Heritage List",
-      "url": "https://www.wam.ae/en/details/c0ywq52-dct-abu-dhabi-commemorates-years-since-inscription",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-06-29T14:55:37.416Z"
-    },
-    {
       "headline": "steadfast by the wisdom of its leader and the will of its people",
       "url": "https://x.com/mofauae/status/2071607899747713465",
       "source": "Afra al-Hameli",
@@ -2361,111 +2484,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-06-29T14:53:06.000Z"
-    },
-    {
-      "headline": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T14:52:10.000Z"
-    },
-    {
-      "headline": "Muslim World League Condemns Continued Israeli Attacks in the Region, Incursion into Syrian Territory",
-      "url": "https://spa.gov.sa/en/N2624092?type=news&uuid=N2624092",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-29T14:51:57.000Z"
-    },
-    {
-      "headline": "Funeral of the victims of the Saudi Aramco helicopter - Asharq Al-Awsat",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPdEUwNkdLUVIxamMwQ0ppWEd3RUc0MG5MbGZDQTd6Q0E0cEh5OFRtUG1qUEl1OTlXaXJtTGhWa3J1SzQwaXI5bHJpbkVZclZXSnFQcV9nMlFXd3JZaDJ5THV4TEZNbjRkS2hkbVpjNzdiZFE3M0tQNDJCQlBLekJmV1ZTSGVpdVFWN0N2ejRRQWNCU3pldTB4RnRtbEJXZEEtZDBLbVdLQzRBOFhCOFJOWFFLYUhLb0p3M3hwY0JTOE1LQnptZlVYMjl1VkQwQldvVzN2Q3ZKYlRHZmxibEJjNzhFdkpUS3l6Rk93TkJhVDJ2SV9YUXVlUVF0WUxrMDZyMlVRRXRJZnZnNjduQmZYQjhhZVBkQUxTdGROSUM0cUEzZndHdk5jTzcyWDhPY0FHbmY5VWF1Wl95MDBhdUY2emNRbzNVZTVRLWpIaExtTFlLR280RE5EcTFrVTlyaTJ6VmVYRXhXUlBpS191VDdIMTlCbm9Lamk4V1JnX3ZBYmw1UTMydGpjRS1wS1dHSGxxYXY4ai1DZE9DZlVpSFpWb1dQNjZuVXBIcWxsd0lwZHpQUzJCbU9xUklQdHVDZGRZRFdJaGVPRkNxQQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T14:50:46.000Z",
-      "originalHeadline": "تشييع ضحايا مروحية «أرامكو السعودية» - الشرق الأوسط"
-    },
-    {
-      "headline": "Iraq Offers Condolences to Saudi Arabia Following Aramco Helicopter Crash",
-      "url": "https://spa.gov.sa/en/N2624090?type=news&uuid=N2624090",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-29T14:49:54.000Z"
-    },
-    {
-      "headline": "Golden Pass LNG appears offline after near halt in gas intake, LSEG data show - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTVuaV9HeUVyeFFtNm5MdDNvMnlFZEdFejZpbVM5MkNfNjM3czlxLWlPR2tNYjUxNnRSejZaV0lnTF9xXzhXdkpVTklER0dCY0FWTGdpZFFxWWR6NG1rOHdDbHQtdmZXaFdZUm55WExDMy1PcGxCVGdPdEMxdnZDSkhjZ3llcWlHcHlSUWRDUzFUTmNoUVRuMGFLNjJPZVRPd016amFiMDFEbG5zYnlqa2xnWDFGWkVXTE5FZlp6T2VvWHc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-06-29T14:49:43.000Z"
-    },
-    {
-      "headline": "The poet, friend Ali Abdullah Khalifa - alwatannews.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQzg2ZWlYMWIwRjlGZ05qSDRqVXJYNnRuRHdqcG9IUl9HNUREeGJ0RXBUWERicW9QSGJwbTc1b2V0ODRIU2l1VUc0Uml3c192UHZaYVdQZk1vNWFTYkJ1dVhBRmZwUU9Wc3VjTEdYQ1JGM09RZlpYakFoN3ZPMXkwYUVzVG1GSHF4Um00VkdsMWtBOE1KWm5EWFJDNFJ5RVdmSGk1Sk1zcHZtNkc5emctNkdJanZRN2ZXdDhnQnE5aXVqS3Vxa0RDZ1djM3Juei1GT2p5MzN0RWVlT1lDMUhDbWFsc0hXYmFoTGM4WHhlVGNSSlU4RmF1RllmNTluSmJjMXFBOXB6dnBTWHY0NEQwdmM1TG5YSUppb0pvY1pvZktpdWRSZDVsZHExdDJELWlXa2VpMTFDN1hZQjTSAVRBVV95cUxOajdDajBOVzk1bVBoVVhwNHRBOGpnc1BpTHZncHhMSWRBREJLcjZ5YjFoTjNKY2tDVU5OaGNVb21FYm81WDVWNGVvMVVGcXBGa1BXZkQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T14:49:09.000Z",
-      "originalHeadline": "الشاعر الصديق علي عبد الله خليفة - alwatannews.net"
-    },
-    {
-      "headline": "Egyptian companies Arica and Lychee expand into Saudi Arabia with support from Beltone Venture Capital - Wamda",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMllXNmhWVVoxZmNEdWQxM201WTBNY0F4WlhVbGx0Y2ZPRXpvZGh4b1RBN3Z4dHFYeS1WR1lJZ1d1aXpBaFo5SVFXNGxUOVVXRUliVF9QNWMzN2tjSkp2cnhLSzlqR3BCdlNBVi0zRGRXUWNMM1lBQmRwQ3ltQmVhQ19qckZTbUFxcEpDSjNDZkd4al9nTnVpb3Y3cUJRZHVMN01vVUlCSTdOQkphZ1h3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T14:47:16.000Z",
-      "originalHeadline": "أريكا وليتشي المصريتان تتوسعان في السعودية بدعم من بلتون لرأس المال المخاطر - Wamda"
-    },
-    {
-      "headline": "Islamic Affairs Minister Receives Mauritius Ambassador to Saudi Arabia",
-      "url": "https://spa.gov.sa/en/N2624088?type=news&uuid=N2624088",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-29T14:47:07.000Z"
-    },
-    {
-      "headline": "Egypt is considering the dual listing of petroleum companies temporarily restricted in the Saudi market - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNcVNkU2RYSkEzaXdMNGduTnRWSGxNWl9MSlFwV1lVbDJUQXlSOG9jcW1uQU92TE5rRlQ4OW5DS1RJem00UklKT2xoRHAydWVHdmFmckRYVjVsUzFfcGltVGZXOXVSTmxDNjBkZ2otd1VJMDNZNklrUkgwU2thUnk3czQ0QVU3YXVNN1ZSMEZBcC1ycjFvbk9QNU9tR3h4bnBBLXM1dUY5c01XYW9MdlhmZkZaTEdKRTNBQVhiaE9GQ0YyVU43WWpaZ19sd3lwdkc1QzdMZ2RSYUxzRmZ5dGljclZOTmNudXkxOXpoU0J3SEZ6N1FFT0dRU3c2alZ3QWh3VzNrbXNHaTJ5NElPZnRFYUw4Y1FaU3ZzVUtuTmxtTlVwbkFZX1N5alNXZmE2SEhXbG9VTHhVVkdRYlhaeXBlVDFEYnlDMXJTcTd0dUJBYkwzMWpXRVhaVGpfQTU3MVptbFFoTEhMZGhOWkF4eE0yeUFFMHNUbWttbWFNSWE5QWZBSHhCQmNjbDUzWjZTZjdFZVRuUEh2a2RNQ1JPeEJGY19Ec1FWR0FxRmZYREw1VDk1YUZqYjFsaVc2ZWpzNGptc09pX1RrNFF4VFFuNlhqSmJwSGY3SUoxOW5zR0RyOXBKdkwwNnhKeUtUZEJsNi1EcWNBUGxDcXB2d0V6NTBEQ20ycmJlWWpIUzYzNFUxMzRhZDk2blhlYndQaVpaX0xFZGtNWVRhZk9temhzLU5PcnFmVkZYTmJ3WWFuSzlaTQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T14:45:54.000Z",
-      "originalHeadline": "مصر تدرس الإدراج المزدوج لشركات البترول المقيدة مؤقتًا بالسوق السعودية - معلومات مباشر"
-    },
-    {
-      "headline": "Qatar advises to temporarily stop sailing and other maritime activities until further notice - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94enc4UlpzR3dVeFRiZkhmZUpITWNJUC1keUdObGJ2c1g2cXZYdVlSQkNTN05uSWNSVVgwb0c3RFN0MXlJV2p6TmJhUVFROVFrczd4MXhQMlRjQnYtbXFpbVdiLXNjdXotYjEtajlkenhTcTZNbExwMHZLV0FvV00?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-29T14:44:13.000Z",
-      "originalHeadline": "قطر تنصح بالتوقف مؤقتا عن الإبحار والأنشطة البحرية الأخرى حتى إ��عار آخر - Reuters"
     },
     {
       "headline": "Ministry of Justice .. Achievements and a Decrease in Case Ratios\n\n#CGCKuwait",
