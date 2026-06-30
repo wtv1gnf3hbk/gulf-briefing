@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:48:26.497Z",
+  "updated": "2026-06-30T20:02:27.694Z",
   "itemCount": 300,
   "items": [
     {
@@ -73,6 +73,66 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-06-30T19:15:06.000Z"
+    },
+    {
+      "headline": "Security patrols in Riyadh arrest residents and violators of the border system for practicing begging",
+      "url": "https://www.okaz.com.sa/local/saudi-arabia/2254955",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-06-30T19:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دوريات الأمن بالرياض تضبط مقيمين ومخالفاً لنظام الحدود لممارستهم التسول"
+    },
+    {
+      "headline": "Timbuktu...a scientific and cultural oasis blown by the winds of fear and poverty",
+      "url": "https://www.aljazeera.net/culture/2026/6/30/%D8%AA%D9%85%D8%A8%D9%83%D8%AA%D9%88-%D9%88%D8%A7%D8%AD%D8%A9-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B5%D9%81-%D8%A8%D9%87%D8%A7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-30T19:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تمبكتو .. واحة علمية وثقافية تعصف بها رياح الخوف والفقر"
+    },
+    {
+      "headline": "The British government intends to intervene in the merger of Paramount and WBD",
+      "url": "https://arabic.cnn.com/world/article/2026/06/30/uk-government-says-its-likely-to-challenge-110-billion-paramount-warner-bros-merger",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-30T19:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الحكومة البريطانية تعتزم التدخل في صفقة اندماج باراماونت وWBD"
+    },
+    {
+      "headline": "“Hajj and Umrah”: Closing of the 1447 AH season",
+      "url": "https://www.okaz.com.sa/local/saudi-arabia/2254965",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-06-30T19:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« الحج والعمرة »: اختتام موسم 1447هـ"
+    },
+    {
+      "headline": "China and Europe...a trade dialogue under a deadline",
+      "url": "https://www.aljazeera.net/ebusiness/2026/6/30/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AD%D9%88%D8%A7%D8%B1-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D8%AA%D8%AD%D8%AA-%D8%B3%D9%82%D9%81",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-06-30T19:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الصين وأوروبا .. حوار تجاري تحت سقف المهلة"
     },
     {
       "headline": "Latifa bint Mohammed witnesses graduation ceremony of American University in Dubai’s 29th cohort",
@@ -329,17 +389,6 @@
       "date": "2026-06-30T18:16:33.000Z"
     },
     {
-      "headline": "US envoys in Doha to meet mediators but not Iranians , Qatar says",
-      "url": "https://www.bbc.com/news/articles/cpd38x1dy4no",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-06-30T18:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "A former Google engineer builds an advanced search engine without a line of code.. How?",
       "url": "https://www.aljazeera.net/tech/2026/6/30/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A8%D8%BA%D9%88%D8%BA%D9%84-%D9%8A%D8%A8%D9%86%D9%8A-%D9%85%D8%AD%D8%B1%D9%83-%D8%A8%D8%AD%D8%AB-%D8%A8%D9%85%D9%8A%D8%B2%D8%A7%D8%AA",
       "source": "Al Jazeera Arabic",
@@ -350,6 +399,17 @@
       "date": "2026-06-30T18:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مهندس سابق بغوغل يبني محرك بحث متطور بلا سطر برمجي .. كيف ذلك ؟"
+    },
+    {
+      "headline": "US envoys in Doha to meet mediators but not Iranians , Qatar says",
+      "url": "https://www.bbc.com/news/articles/cpd38x1dy4no",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-06-30T18:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Egypt reaffirms support for expanding cooperation with UAE energy firms",
@@ -476,7 +536,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-06-30T17:50:00.000Z",
-      "originalHeadline": "رئ��س المجلس الوطني للفنون بمملكة البحرين يزور متحف الفنان فاروق حسني بالزمالك - بوابة الأهرام"
+      "originalHeadline": "رئيس المجلس الوطني للفنون بمملكة البحرين يزور متحف الفنان فاروق حسني بالزم��لك - بوابة الأهرام"
     },
     {
       "headline": "Hamdan bin Mohammed reviews progress of key initiatives under Dubai’s Education 33 Strategy \n #WamNews \n\n\nhttps://\nwam.ae/a/c0zi5tr",
@@ -1159,7 +1219,7 @@
       "originalHeadline": "الين الياباني لأدنى مستوى في 40 عاماً"
     },
     {
-      "headline": "Gatherings banned in the Congolese capital as Ebola infections rise",
+      "headline": "Gatherings banned in the Congolese capital as Ebola cases rise",
       "url": "https://www.okaz.com.sa/variety/na/2254913",
       "source": "Okaz",
       "sourceId": "gdelt_okaz_com_sa",
@@ -1168,7 +1228,7 @@
       "language": "ar",
       "date": "2026-06-30T15:45:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "حظر التجمعات في العاصمة الكونغولية مع تصاعد إصابات « إيبو��ا »"
+      "originalHeadline": "حظر التجمعات في العاصمة الكونغولية مع تصاعد إصابات « إيبولا »"
     },
     {
       "headline": "Al-Riyadh newspaper | Under the chairmanship of the Custodian of the Two Holy Mosques, the Council of Ministers reviews regional developments and affirms support for Gulf security",
@@ -1793,6 +1853,17 @@
       "date": "2026-06-30T14:11:35.000Z"
     },
     {
+      "headline": "Qatar Energy signs an announcement regarding discoveries off Cyprus - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNHRTYmJzUlNWc05iZ0Z1M1hsZl9xOUdIV2R3UlRabnZHS2tiN3RrOHNLMnI4Qm8wQ08wMi1CQlRvUkc2bGpOYnFKNU5oZ3FVS21ranBTT24tdTJsNnFKWlo0bDM0S0l4SUJfSUJhYXJ5SWMzQTU1S3JoeVJQdUhEZUJkUVVHa09SNGRfM1pHQ2pVTXNSempVaGp4cm5KY3FYVDdnUWlPX1JkVGcxWnBMYWVxam1kLVFYRUlGaUJEZENlR1BIdm95aGtDeEpBeTRlWU40ZW5pTV9Ud09mRGlSOUlOMmFZaU54UmRkMDhXcHIwTU5mRkZZS0lNU0wzTm45N1daRWFmUzRCWUFDSVNLVXBVZV9vVTZYOFNrZmtIbVoyU0ZmbmhwSWg2emQwSUFqLUs3Tm5hR2ZVYWxuelRybUg0cWtVTlJHZjM5S0dTX0JxQ1lKZFFvetIB3gJBVV95cUxQbHlsdUp4RmQyWWs5MUFULWtQakgzaGFpMzdLLTBfVGhvZFJYdzJRWVNkZDZSaFdCOW9nRUt0aHRDWnN2Yk01Zklodm05QTR5Z2YwZkMySFRZVjcybEVFMk5XeHJ3cWs4andyODRUWEwwWmRUS2hCcXZIS3dvalQzVXZYVUozSUZKbHdWRmFVMlIyV2h4RUlfdnduNVZHUW1iOWZidmFzZmRMb3I1ZDNqRXhHcUhzVkRuNF9kbnBua1BwYWl4ajRCZ0J3RnFfdmJHRGVfai13Xy1rWlo5dmRhTnZxR3VfNzZjOGN3aUJHMWM4dEY5UFJQSjVDLXl6Rl9wTHBmazR2dGpIaktQMjRaMDlTOW9iQ3B1X0JLSVdfZUdHT2g0M25pOC1lWkNlV2hlemtFNzluUUt0SWdNaEZzZnhLajdqWFFRNDM0N29DTHZtT28zZW1XcDFtd3NGZw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-06-30T14:09:09.000Z",
+      "originalHeadline": "قطر للطاقة توقع إعلانا بشأن اكتشافات قبالة قبرص - الجزيرة نت"
+    },
+    {
       "headline": "His Excellency the Ambassador of the Custodian of the Two Holy Mosques to the People's Republic of China, Abdulrahman bin Ahmed Al-Harbi, attended the meeting, along with His Excellency the Undersecretary of the Ministry for Political Affairs, Dr. Saud bin Mohammed Al-Sati, and",
       "url": "https://x.com/KSAMOFA/status/2071959037281718423",
       "source": "Saudi MFA",
@@ -1821,17 +1892,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-06-30T14:08:16.000Z"
-    },
-    {
-      "headline": "Qatar Energy signs an announcement regarding discoveries off Cyprus - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNHRTYmJzUlNWc05iZ0Z1M1hsZl9xOUdIV2R3UlRabnZHS2tiN3RrOHNLMnI4Qm8wQ08wMi1CQlRvUkc2bGpOYnFKNU5oZ3FVS21ranBTT24tdTJsNnFKWlo0bDM0S0l4SUJfSUJhYXJ5SWMzQTU1S3JoeVJQdUhEZUJkUVVHa09SNGRfM1pHQ2pVTXNSempVaGp4cm5KY3FYVDdnUWlPX1JkVGcxWnBMYWVxam1kLVFYRUlGaUJEZENlR1BIdm95aGtDeEpBeTRlWU40ZW5pTV9Ud09mRGlSOUlOMmFZaU54UmRkMDhXcHIwTU5mRkZZS0lNU0wzTm45N1daRWFmUzRCWUFDSVNLVXBVZV9vVTZYOFNrZmtIbVoyU0ZmbmhwSWg2emQwSUFqLUs3Tm5hR2ZVYWxuelRybUg0cWtVTlJHZjM5S0dTX0JxQ1lKZFFvetIB3gJBVV95cUxQbHlsdUp4RmQyWWs5MUFULWtQakgzaGFpMzdLLTBfVGhvZFJYdzJRWVNkZDZSaFdCOW9nRUt0aHRDWnN2Yk01Zklodm05QTR5Z2YwZkMySFRZVjcybEVFMk5XeHJ3cWs4andyODRUWEwwWmRUS2hCcXZIS3dvalQzVXZYVUozSUZKbHdWRmFVMlIyV2h4RUlfdnduNVZHUW1iOWZidmFzZmRMb3I1ZDNqRXhHcUhzVkRuNF9kbnBua1BwYWl4ajRCZ0J3RnFfdmJHRGVfai13Xy1rWlo5dmRhTnZxR3VfNzZjOGN3aUJHMWM4dEY5UFJQSjVDLXl6Rl9wTHBmazR2dGpIaktQMjRaMDlTOW9iQ3B1X0JLSVdfZUdHT2g0M25pOC1lWkNlV2hlemtFNzluUUt0SWdNaEZzZnhLajdqWFFRNDM0N29DTHZtT28zZW1XcDFtd3NGZw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-30T14:07:37.000Z",
-      "originalHeadline": "قطر للطاقة توقع إعلانا بشأن اكتشافات قبالة قبرص - الجزيرة نت"
     },
     {
       "headline": "The memory of exporting the first shipment of Kuwaiti oil\n\n#CGCKuwait",
@@ -3038,63 +3098,6 @@
       "language": "ar",
       "date": "2026-06-30T11:57:30.000Z",
       "originalHeadline": "\"قطر للطاقة\" توقع إعلان الجدوى التجارية لاكتشافات قبالة سواحل قبرص - معلومات مباشر"
-    },
-    {
-      "headline": "Qatar: No direct meeting between the Americans and the Iranians in Doha - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeThmeFpEcmFlSFVlZ1lFTnZKeVNwVFVwaXVSMHo3a0U2bnZKakd5WHJFMTF5TXFUV05BSjl0WXV0Uzd6Wk9PUXNzblZsUnlRaU00UllocFBkVjV2WEVxbGlrNVlRZTBfNlNyZGc2bEFDdHBfYnZnaWRjclEwSnBjM1RWNllGM2pJMk14NTVQbmpkZXU2ZXhlWFl30gGkAUFVX3lxTE9vam5rM1JqQWZ3eDg3UkV3ZDdOWmlXOWNfUVN1WWNaenR1VkJGd3pUZk1nRjYxMG11RU5aUEtra3dYaldoTmxhcDhtc3ZGZG1qTmtqVHhob185bHFnaFlNcnpxcjBjcVowX2Vhaks2OFF3VlVMY1VYTlpyUmpkcjJOUnZpYWlmZC1fRW92aVlld0w2M3ZBR1prM1lWOE9tWFkzUXJa?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-06-30T11:47:28.000Z",
-      "originalHeadline": "قطر: لا لقاء مباشر بين الأمريكيين والإيرانيين في الدوحة - CNN Arabic"
-    },
-    {
-      "headline": "Makkah Deputy Governor Performs Kaaba Washing Ceremony",
-      "url": "https://spa.gov.sa/en/N2624737?type=news&uuid=N2624737",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-30T11:45:32.000Z"
-    },
-    {
-      "headline": "Amid exchange of attacks, Moscow's defenses shoot down 60 Ukrainian marches",
-      "url": "https://www.okaz.com.sa/politics/na/2254899",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-30T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وسط تبادل الهجمات .. دفاعات موسكو تسقط 60 مسيرة أوكرانية"
-    },
-    {
-      "headline": "To buy a Ferrari and 5 Rolls Royces... How did a famous director defraud Netflix?",
-      "url": "https://www.okaz.com.sa/culture/art/2254900",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-30T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ليشتري فيراري و5 رولز رويس .. كيف احتال مخرج شهير على نتفليكس ؟"
-    },
-    {
-      "headline": "Flying death technology... “guided balloons” smuggle drugs into Jordan",
-      "url": "https://www.okaz.com.sa/variety/na/2254904",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-06-30T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تكنولوجيا الموت الطائرة .. « بالونات موجهة » تهرّب المخدرات إلى الأردن"
     },
     {
       "headline": "June 30 of each year marks Asteroid Day, representing a global occasion to enhance awareness of the importance of asteroids and their role in understanding the origin of the solar system, alongside highlighting international efforts in monitoring near-Earth objects and",
