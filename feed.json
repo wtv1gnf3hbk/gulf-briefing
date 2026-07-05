@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T19:48:19.836Z",
+  "updated": "2026-07-05T20:02:35.393Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Almarai Revenue Rises 11% to SAR5.87 Billion in Q2",
+      "url": "https://spa.gov.sa/en/N2627982?type=news&uuid=N2627982",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T19:58:40.000Z"
+    },
     {
       "headline": "KSrelief Distributes 300 Food Baskets in Afghanistan",
       "url": "https://spa.gov.sa/en/N2627975?type=news&uuid=N2627975",
@@ -51,6 +61,39 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-05T19:19:31.000Z"
+    },
+    {
+      "headline": "Syria Postpones First Session of New Parliament",
+      "url": "https://english.aawsat.com/arab-world/5292436-syria-postpones-first-session-new-parliament",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T19:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Lawyer Warns Detained Palestinian Doctor Hussam Abu Safiya Is in Critical Condition",
+      "url": "https://english.aawsat.com/arab-world/5292446-lawyer-warns-detained-palestinian-doctor-hussam-abu-safiya-critical-condition",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T19:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Security Forces Hospital in Riyadh Treats Premature Infant Rare Brain Condition",
+      "url": "https://english.aawsat.com/varieties/5292463-security-forces-hospital-riyadh-treats-premature-infants-rare-brain-condition",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T19:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "The President of Iraq: We aspire to the best relations with Saudi Arabia - Al-Shorouk Gate",
@@ -124,6 +167,138 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-05T18:35:25.696Z"
+    },
+    {
+      "headline": "“Hormuz” leads the NATO summit... and Washington calls on the allies to strengthen their naval capabilities",
+      "url": "https://www.okaz.com.sa/politics/na/2255667",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« هرمز » يتصدر قمة الناتو .. وواشنطن تدعو الحلفاء لتعزيز قدراتهم البحرية"
+    },
+    {
+      "headline": "“Financial Market”: A market for trading commodities and metals... and an exemption from commission for 3 years",
+      "url": "https://www.okaz.com.sa/economy/na/2255649",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« السوق المالية »: سوق لتداول السلع والمعادن .. وإعفاء من العمولة لـ 3 سنوات"
+    },
+    {
+      "headline": "Netanyahu: There is no rift in my relationship with Trump... and an upcoming summit in Washington",
+      "url": "https://www.okaz.com.sa/politics/na/2255661",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نتنياهو : لا تصدع في علاقتي مع ترمب .. وقمة مرتقبة في واشنطن"
+    },
+    {
+      "headline": "“Military Industries” announces the start of registration for the entry-level employment training program",
+      "url": "https://www.okaz.com.sa/local/na/2255665",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« الصناعات العسكرية » تعلن بدء التسجيل في برنامج التدريب المبتدئ بالتوظيف"
+    },
+    {
+      "headline": "A women's quarrel was shot in Egypt, and two women were killed",
+      "url": "https://www.okaz.com.sa/variety/na/2255644",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مشاجرة نسائية بالرصاص في مصر ومقتل سيدتين"
+    },
+    {
+      "headline": "The King Salman Relief Center spreads the wings of goodness to the world",
+      "url": "https://www.okaz.com.sa/local/na/2255659",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مركز الملك سلمان للإغاثة يشرع أجنحة الخير للعالم"
+    },
+    {
+      "headline": "A volcano in Antarctica spews gold and the winds carry it 1,000 kilometers away",
+      "url": "https://www.okaz.com.sa/variety/na/2255654",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بركان في أنتاركتيكا ينفث ذهبًا والرياح تنقله لمسافة 1000 كيلومتر"
+    },
+    {
+      "headline": "“Health”: Closing requests for transfer to 7 health clusters...today",
+      "url": "https://www.okaz.com.sa/local/na/2255612",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« الصحة »: إغلاق طلبات الانتقال إلى 7 تجمعات صحية .. اليوم"
+    },
+    {
+      "headline": "Syria postpones the first session of the People's Assembly indefinitely",
+      "url": "https://www.okaz.com.sa/politics/na/2255657",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سورية تؤجل أولى جلسات مجلس الشعب إلى أجل غير مسمى"
+    },
+    {
+      "headline": "Starting in 2027.. New controls shake the cryptocurrency market in Brazil",
+      "url": "https://www.okaz.com.sa/economy/na/2255655",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بدءًا من 2027 .. ضوابط جديدة تهز سوق العملات المشفرة في البرازيل"
+    },
+    {
+      "headline": "Trump meets in Washington.. Will the mayor of New York arrest Netanyahu?",
+      "url": "https://www.okaz.com.sa/politics/na/2255645",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-05T18:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "يلتقي ترمب في واشنطن .. هل يعتقل عمدة نيويورك نتنياهو ؟"
     },
     {
       "headline": "The Chairman of the Command Council praises the vigilance of the heroes of the armed forces in deterring the arrogance of terrorist militias",
@@ -259,7 +434,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-05T18:07:49.000Z",
-      "originalHeadline": "قطر تعزز الحوكمة الصنا��ية باتفاق لتنظيم تخصيص موارد الطاقة - الجزيرة نت"
+      "originalHeadline": "قطر تعزز الحوكم�� الصناعية باتفاق لتنظيم تخصيص موارد الطاقة - الجزيرة نت"
     },
     {
       "headline": "\"Almarai\" records a 1.7% decline in its second quarter 2026 profits..\n\nFinancial analyst Dr. Hussein Al-Ataas comments:\n\n- The profit decline is due to temporary conditions that caused a rise in feed prices\n\n- Sales growth indicates continued demand for all products\n\n- I expect",
@@ -679,7 +854,7 @@
       "originalHeadline": "وزير الخارجية يستقبل المرشحة من قبل دولة أنتيجوا وبربودا لتولي منصب الأمين العام للأمم المتحدة\n\n\nhttps://\nbit.ly/3SYEWht"
     },
     {
-      "headline": "Qatar Energy and the Ministry of Commerce cooperate to use fuel in industrial projects - Erem Business",
+      "headline": "Qatar Energy and the Ministry of Commerce cooperate to employ fuel in industrial projects - Erem Business",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NUnRINldlODQwamdRcGdYRHB1bW9aTjMzd0FnTktVTEJqOS1FaFcwQWo1Sm5RamlUcnJxbmZXdnlpbm9UdV9TQ3FLVHhEZ1djN3lMTkJ3?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -687,7 +862,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-05T16:41:51.000Z",
-      "originalHeadline": "«قطر للطاقة» ووزارة التجارة تتعاونان لتوظيف المحروقات في مشاريع صناعية - إرم بزنس"
+      "originalHeadline": "«قطر للطاقة» ووزارة التجارة ��تعاونان لتوظيف المحروقات في مشاريع صناعية - إرم بزنس"
     },
     {
       "headline": "Fifth Mango Festival Concludes, Attracts More Than 18,000 Visitors",
@@ -805,28 +980,6 @@
       "originalHeadline": "السعودية وكينيا تعقدان أول اجتماع للمشاورات السياسية - العربية"
     },
     {
-      "headline": "The Houthis in the Rabbit Hole",
-      "url": "https://english.aawsat.com/opinion/5292344-houthis-rabbit-hole",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iran seeks to tighten control over strait of Hormuz alongside Khamenei funeral",
-      "url": "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-05T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Google is preparing to deploy 32 million biologically modified mosquitoes.. What do you want from Aedes aegypti?",
       "url": "https://www.aljazeera.net/science/2026/7/5/%D8%BA%D9%88%D8%BA%D9%84-%D8%AA%D8%AA%D8%AC%D9%87%D8%B2-%D9%84%D9%86%D8%B4%D8%B1-32-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B9%D9%88%D8%B6%D8%A9-%D9%85%D8%B9%D8%AF%D9%84%D8%A9",
       "source": "Al Jazeera Arabic",
@@ -849,6 +1002,17 @@
       "date": "2026-07-05T16:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بين الخصوصية والاحتيال .. الوجه الآخر لميزة أسماء المستخدمين في واتساب"
+    },
+    {
+      "headline": "The Houthis in the Rabbit Hole",
+      "url": "https://english.aawsat.com/opinion/5292344-houthis-rabbit-hole",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-05T16:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Pumping 7 million liters of gasoline... Will the fuel crisis in Syria ease?",
@@ -887,6 +1051,17 @@
       "originalHeadline": "رعب نووي أم استعراض روتيني ؟ تفاعل واسع مع صاروخ كيم المجنح"
     },
     {
+      "headline": "Iran seeks to tighten control over strait of Hormuz alongside Khamenei funeral",
+      "url": "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-05T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Two drivers caught speeding over 200 km/h on Sultan Said bin Taimur Street",
       "url": "https://timesofoman.com//article/173980-two-drivers-caught-speeding-over-200-kmh-on-sultan-said-bin-taimur-street",
       "source": "Times of Oman",
@@ -895,6 +1070,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-05T15:54:49.000Z"
+    },
+    {
+      "headline": "From Sanaa Airport to Tihama.. How did the escalation ignite in Yemen? - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNMVl5SUpGY3FxemF2ZEcxcWFFVkNZejVlSmpaYjNCZGNqeGo1VDMwZzhnb1NJc0d2U3ZJQVkxSUtNbG5YRndfU0NwYW9uOUtMaWZjNFJsWEMyZjMxZkNidXlOYzJKRDZ4ZGhlMmJyOG9DeXF6X3lQYUE4cnM2U0VxUklaaUVqbHdRUWsxR015eXgzcHVERU1OZFFfUkUzMXJPLUVuOU9rSHFObjY0c3FmYVI3bVZWM3YwYjJFR3A2ZFpwR1R6eVRCcEloVFBGMExxdno2WldxUW1tei15NjBzRFRWV3lva3dlSnBmWFNMTkFxdDRBTWVyUktsTC15UEFxMXhwYU5YbG43VlRMcFBNeTBzYXJDM0RzVXpDN0FHTGNaVnZ2b2pCS3huaTVtR3dqVHJxYTdUa1VXUjd00gHCAkFVX3lxTE5fTTA3MXNZajZUbHpiOXVPRlJFcFRLOFh0bFNWQk9YOGVSVmdsWUJuWXdsZFdfcUg3NFE0dXYwSzRic2o4cmd0UnVCQXExVE1PbGtXSnNtLWFMNmplbWNDWVJsQkoxNnZ0Z2RkYkRoTk41bXpJZlI1NVNTZjBBc2w5QWRMeWVKZTZlWW1UU0dtU3VyS2pvWnF0RlAtcEllWEttUU9nTkxJLUM0X01XRUFaWkc3T0R0bEcwNThoUlBHVXpON0swTTB2UDlyV3hTR050ZGhma2JqbGpPRmZ6Yl9BeU40WWVGVkdxNXZXVnFuMzVueEs0MWdGd2ZLZVRXcjBZT29lNktWaHdMRHNfNGF0MlB4cXJBUzlDSkktSGlWX29nbDJHLVlnRWtGbFZicE0xYzVPVkNhSVFmR1NMZzRuTkE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-05T15:50:46.000Z",
+      "originalHeadline": "من مطار صنعاء إلى تهامة.. كيف اشتعل التصعيد في اليمن؟ - الجزيرة نت"
     },
     {
       "headline": "UAE President, VPs congratulate Peru's President-elect on election victory",
@@ -2356,17 +2542,6 @@
       "originalHeadline": "\"أوبك+\" بقيادة السعودية تقرر زيادة إنتاج النفط 188 ألف برميل يومياً أغسطس القادم - معلومات مباشر"
     },
     {
-      "headline": "Escalation in Yemen.. Dozens killed due to accusations, tribal mobilization, and calls to open Sanaa Airport - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNMVl5SUpGY3FxemF2ZEcxcWFFVkNZejVlSmpaYjNCZGNqeGo1VDMwZzhnb1NJc0d2U3ZJQVkxSUtNbG5YRndfU0NwYW9uOUtMaWZjNFJsWEMyZjMxZkNidXlOYzJKRDZ4ZGhlMmJyOG9DeXF6X3lQYUE4cnM2U0VxUklaaUVqbHdRUWsxR015eXgzcHVERU1OZFFfUkUzMXJPLUVuOU9rSHFObjY0c3FmYVI3bVZWM3YwYjJFR3A2ZFpwR1R6eVRCcEloVFBGMExxdno2WldxUW1tei15NjBzRFRWV3lva3dlSnBmWFNMTkFxdDRBTWVyUktsTC15UEFxMXhwYU5YbG43VlRMcFBNeTBzYXJDM0RzVXpDN0FHTGNaVnZ2b2pCS3huaTVtR3dqVHJxYTdUa1VXUjd00gHCAkFVX3lxTE5fTTA3MXNZajZUbHpiOXVPRlJFcFRLOFh0bFNWQk9YOGVSVmdsWUJuWXdsZFdfcUg3NFE0dXYwSzRic2o4cmd0UnVCQXExVE1PbGtXSnNtLWFMNmplbWNDWVJsQkoxNnZ0Z2RkYkRoTk41bXpJZlI1NVNTZjBBc2w5QWRMeWVKZTZlWW1UU0dtU3VyS2pvWnF0RlAtcEllWEttUU9nTkxJLUM0X01XRUFaWkc3T0R0bEcwNThoUlBHVXpON0swTTB2UDlyV3hTR050ZGhma2JqbGpPRmZ6Yl9BeU40WWVGVkdxNXZXVnFuMzVueEs0MWdGd2ZLZVRXcjBZT29lNktWaHdMRHNfNGF0MlB4cXJBUzlDSkktSGlWX29nbDJHLVlnRWtGbFZicE0xYzVPVkNhSVFmR1NMZzRuTkE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T10:57:01.000Z",
-      "originalHeadline": "التصعيد في اليمن.. مقتل العشرات بتهامة وتحشيد قبلي ودعوات لفتح مطار صنعاء - الجزيرة نت"
-    },
-    {
       "headline": "Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
       "source": "AP Gulf",
@@ -2512,69 +2687,6 @@
       "date": "2026-07-05T10:34:31.000Z"
     },
     {
-      "headline": "A big chunk of positive energy : Green Man celebrates 10 years of training refugees | Refugees",
-      "url": "https://www.theguardian.com/world/2026/jul/05/green-man-welsh-festival-celebrates-10-years-of-training-refugees",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-05T10:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Fund for Development and Sri Lanka Inaugurate Faculty of Medicine at Sabaragamuwa University",
-      "url": "https://spa.gov.sa/en/N2627597?type=news&uuid=N2627597",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-05T10:16:35.000Z"
-    },
-    {
-      "headline": "Babar Azam replaces Shan Masood as Pakistan Test captain for upcoming series against West Indies and England",
-      "url": "https://timesofoman.com//article/173958-babar-azam-replaces-shan-masood-as-pakistan-test-captain-for-upcoming-series-against-west-indies-and-england",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-05T10:16:24.000Z"
-    },
-    {
-      "headline": "After suspending it for a week... Qatar announces the resumption of maritime navigation activities - alghad.tv",
-      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOR0poTUFqYVl5dU13OU42d2VJOUh2QW8xSkw5b3Q4NXZqSWE0Wk5sSTVVcGM2T2tvWnFyYnpRU01kRUlWWmFGQWJQX1d0NjFWTXVjZzNjTHR5UHhaMUUxeVhWQTdvWDZCS1ZQbmYzUjA3UXVwelkyWVl1MTQxaXg0c2RPZ0dtMENQRk1ObGdvTXJSUUY5VkVRV210Qk1iNV9EdEh4b3pKcnFIQThBU2JJemRLdncxWTdqYlBMaTQ3RzNxQnpMRjFVbVlsNTlfN2k1c0F3dUpFcXVGdm5FZV9aNUpjekRQbHdJQ1dmLWJuY2JURWNtQk1kU1hURFk0dUdLRzh1eXdXandha3dYNGN2bFZqRVJCeW9Pb1BlRDVkdjIwbGpCQ1U3SzdTOUdhQVZTZnJQend0Vk5Rb3p2c1h3S2xyZVlfbEFIejBSYnVHV180cGJGdlZIU0lFSDdLYWFNNkN4RUtUSnJMMDh2MDdzSWZBMHF4Q3lzekVKVkdWakNUdVhMRkhhaDJpWm10eVhfUEVHaGx0NW16dmpoQ21qVlQzUlJFbXh6QTVOaWNTYkJ2V185bjZ1U2RETl9zdHJvNTBfN1I4LXF0c2pkblpNYUVlWDFRTjY1R1ZWYzU3ak9tWlpoRzRHcXJrVGFwZ3NhQjZqZ0hJZE03RzN1YU95b0tiZ0djVWJXOVdNOUNLUHF1UEpUVWNwZGllWkR4dw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T10:11:46.000Z",
-      "originalHeadline": "بعد تعليقها أسبوعا.. قطر تعلن استئناف أنشطة الملاحة البحرية - alghad.tv"
-    },
-    {
-      "headline": "In Pictures: A fresh look for Ruwi as development work continues",
-      "url": "https://timesofoman.com//article/173957-in-pictures-a-fresh-look-for-ruwi-as-development-work-continues",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-05T10:09:47.000Z"
-    },
-    {
-      "headline": "Two Saudis died and 5 were injured in a traffic accident in the Sultanate of Oman - CNN Arabic",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVdVRFNFbWI0eHFzXzVaUWJfOHVRUlUteHRiZ1Z4aWNZbUJPNTVJWnVIbWRuNlRlanAzR3g5R0x6UE5FWmVIX2ZmVWFFWmM3UnVoSVJheEtpbmpoRFc5QlFvRlNRQS1NUHhvZzBtS2F6LURoMDZBSUE5alUzVml4SWxjSUgyTmU0UVFrM2dXZkJTNXJLZTg4UEFEVGJvMTlyaGpaNkY2WWxHR3RWcUHSAbgBQVVfeXFMTXR6YnQ2LWtuVXFzZlhubHBoNHYxN1ZJSGpBckxkbkNRSFl1Q2NobTliSUN0STlUM0ZzNVBlS24yb1duNW81cUJxZTV5UUcwVTdXLWVlNURVdC1lTUdZTVFkczN4UlBWVVF5dXpOTmVEcm40eGZUeU9MMEFDcTRPeWluTUM3VWk1bEk4cjgwQ1BTY1BlMzEwR1AzUGVMTklWdERVOC1NeGVZYmlVaFFBOU9NVTFmdXg2aw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T10:06:28.000Z",
-      "originalHeadline": "وفاة سعوديين اثنين وإصابة 5 بحادث سير في سلطنة عُمان - CNN Arabic"
-    },
-    {
       "headline": "The Environment Authority monitors in Al Buraimi Governorate #AlBuraimi and for the first time a chestnut hawk (shikra) hatching process, scientifically known as (Accipiter badius), in a step considered an important addition to biodiversity records.\n\n\nhttps://\n2u.pw/vujHdu",
       "url": "https://x.com/OmanNewsAgency/status/2073709782779969697",
       "source": "Oman News Agency (Arabic)",
@@ -2583,17 +2695,6 @@
       "country": "Oman",
       "language": "ar",
       "date": "2026-07-05T10:05:14.000Z"
-    },
-    {
-      "headline": "British Authority: A ship announces that it was subjected to an unknown attack near Yemen - Sky News Arabia",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOdTJQTlZ5Z21oLU84bmFsSXg3SGswT2RqenNDQU01VmsxWmd1ODhacm1jOVU1dDJuNUVGTWVMUjZ2TC1iLVd1Ym5fVkhucVJrbFN5WExPY0lyYTZIRnlBaTQ3WnJ1SjRtcTQ1eFFzMy1oeUZBdFVZXzlMSjBrN1J2MUQ0d0VqcEZKYmJkaDJqdnRsSGtfdlF1bURfbDFVWU5obVN5VVNVMHpyR1NzS05FQzgzeVF0WFF4ZEI5a3l0Z1lJOGtmYXp2SE9JOXQ3TjQ3R181S3M3UkxGRDJUQVUtb0E0Q1NKWVdKRlJLQTBzTjFKbDdHWE9KVHczVkxPaXRkQ1Y3Z0pTOHZVVE5hNW1ZRFE2YkN1Y0NVMVlnTVRXMU01VWtJU2dRbWhOQi1lM2QzbzhCa3EwQjUxY3VjeVJYX254VWpiWkx2bVo0VWZhTURuZDFnSTlrX042UUNqQ2dOVVpFbElrRmV6SkNwdS1aR1BvVEk3a3hpTXVwQ2YtaUYtajFTYVlrZy14aUtBb0xfcXBjYnd6U2JsY1lZSnZ0X1Y0RTJEQ043MjlKaXJUYUtQWHhXNU82N1dyNWhhREJCR21adFk2ZjI1U1FtaEM2X05R0gHXA0FVX3lxTE1kNTVISDM4SjVPSXp5ODlpb2t5YVJGZFZOSUlLNTBhVXdXRTRUSFFzaC1CUFgyY0hvOTlVTDdfTkJXc3ZPRlBwVUVnWmtMeHFJNEdzbTdtM2xzUk1aOU9pcER5ZXRfZHJIQXUxTnl6emtmUmtuTmFGNk40MmNHeTdCczltWnZCOVE4UU5WMW54R1BOaHZ0T3hFVFA2a3FPcHlXemZMc1lxb3IyNzU5ajczQ3o1SVNWOFZPaXVId0xwUGFJRzZ3dFlvUmFXOUcxWGI0OWIxSEFTNEQ0elZFWEFCMV82cWZ3cnpibTlaV0pYMV8zQTk1QWNzTWZLNzlrTVAzN2lud1NERzVOYWdCOGNoOUdsM1dzV3FzcnRGU3h3Ny0tZlk3MXZnSWZzalhuYkxVNUZ6WncwLTFBaXZ0bkxfdTVORGFBTmpjUzI4alZ1UklEQXpjZFhXcnpqZW9oOFRmY29CM1pVVTNUSV9veE02cDUxdVZqR0hjX3NDSkU4N3BWdkJ0MjZRbEItN09qdHgtejFTdEhxaDNEOHVZSU45bi11MjlqcU5ZdkhWUFdvX0h3VEw3ekx2NWpZVVZoYVZMSjVHRFpVQXJmUDlDZ2J1MDgyOXlIcw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T10:02:57.000Z",
-      "originalHeadline": "هيئة بريطانية: سفينة تعلن تعرضها لهجوم مجهول قرب اليمن - سكاي نيوز عربية"
     },
     {
       "headline": "During the past week.. 30 violators of the environmental system were approved in several areas of the Kingdom.\n\n\n@SFES_KSA\n\n\n@BG994\n \n\n#For_a_sustainable_environment",
@@ -2605,94 +2706,6 @@
       "language": "en",
       "date": "2026-07-05T10:00:00.000Z",
       "originalHeadline": "During the past week.. 30 violators of the environmental system apprehended in several areas of the Kingdom.\n\n\n@SFES_KSA\n\n\n@BG994\n \n\n#لأجل_بيئة_مستدامة"
-    },
-    {
-      "headline": "Yemen Faces New Phase of Iranian Threat",
-      "url": "https://english.aawsat.com/arab-world/5292292-yemen-faces-new-phase-iranian-threat",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iraq Approves Preliminary Agreements to Study Strategic Oil Export Pipeline Projects",
-      "url": "https://english.aawsat.com/business/5292266-iraq-approves-preliminary-agreements-study-strategic-oil-export-pipeline-projects",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Kuwait Non - Oil Business Activity Contracts amid Regional Tensions",
-      "url": "https://english.aawsat.com/business/5292269-kuwait%E2%80%99s-non-oil-business-activity-contracts-amid-regional-tensions",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Tourism Gains Momentum in Q1 as Licenses Rise and Workforce Nears One Million",
-      "url": "https://english.aawsat.com/business/5292312-saudi-tourism-gains-momentum-q1-licenses-rise-and-workforce-nears-one-million",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "No Complaints but Open Wounds for Paraguay Coach",
-      "url": "https://english.aawsat.com/sports/5292249-no-complaints-open-wounds-paraguay-coach",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Syrian FM Visit Lays Groundwork for Strategic Partnership with Lebanon",
-      "url": "https://english.aawsat.com/features/5292295-syrian-fm%E2%80%99s-visit-lays-groundwork-strategic-partnership-lebanon",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "NATO Chief May Have to Match His Made - for - Trump Sales Pitch to Keep a Summit on the Rails",
-      "url": "https://english.aawsat.com/features/5292257-nato-chief-may-have-match-his-made-trump-sales-pitch-keep-summit-rails",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Xi Says Ready to Work with Kim for Stable China - N . Korea Ties",
-      "url": "https://english.aawsat.com/world/5292256-xi-says-ready-work-kim-%E2%80%98stable%E2%80%99-china-n-korea-ties",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-05T10:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "In summer times, reading remains a companion that enriches the hours of the day, opens new horizons for knowledge and imagination, and turns every book into a different journey toward discovery and learning.\n\nSummer is the perfect opportunity to slow down, turn a page, and",
