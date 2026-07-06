@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T00:18:28.306Z",
+  "updated": "2026-07-06T00:32:31.218Z",
   "itemCount": 300,
   "items": [
     {
@@ -73,7 +73,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-07-05T23:00:31.000Z"
+      "date": "2026-07-05T23:20:15.000Z"
     },
     {
       "headline": "Bahrain begins the trial of 19 accused of collaborating with the Iranian Revolutionary Guard",
@@ -148,7 +148,7 @@
       "originalHeadline": "ترمب يستأنف الوساطة لإنهاء حرب أوكرانيا باتصالين مع بوتين وزيلينسكي"
     },
     {
-      "headline": "Ramez Jalal ends his dispute with Asma Jalal through the mediation of Ashraf Zaki",
+      "headline": "Ramez Jalal ends his dispute with Asmaa Jalal through the mediation of Ashraf Zaki",
       "url": "https://www.okaz.com.sa/culture/art/2255679",
       "source": "Okaz",
       "sourceId": "gdelt_okaz_com_sa",
@@ -337,6 +337,66 @@
       "originalHeadline": "بعد توقف 5 أشهر.. إيران وقطر تعيدان تشغيل الخط البحري التجاري المشترك - بوابة أخبار اليوم الإلكترونية"
     },
     {
+      "headline": "From the cup to the room...the tragedy of displacement brings the clay making profession back to Gaza",
+      "url": "https://www.aljazeera.net/lifestyle/2026/7/6/%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%BA%D8%B1%D9%81%D8%A9-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D9%88%D8%AD-%D8%AA%D8%B9%D9%8A%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-05T22:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "من الكأس إلى الغرفة .. مأساة النزوح تعيد مهنة صناعة الطين إلى غزة"
+    },
+    {
+      "headline": "Masha and the Bear raises controversy in Britain.. Why did members of Parliament demand that it be banned?",
+      "url": "https://www.aljazeera.net/arts/2026/7/5/%D9%85%D8%A7%D8%B4%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D8%A8-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AC%D8%AF%D9%84%D8%A7-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-05T22:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ماشا والدب يثير جدلا في بريطانيا .. لم طالب أعضاء في البرلمان بمنعه ؟"
+    },
+    {
+      "headline": "250 years... Al Jazeera Net brings together the world's most prominent thinkers to read America's future",
+      "url": "https://www.aljazeera.net/politics/2026/7/6/250-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%86%D8%AA-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D9%81%D9%83%D8%B1%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-05T22:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "250 عاما .. الجزيرة نت تجمع أبرز مفكري العالم لقراءة مستقبل أمريكا"
+    },
+    {
+      "headline": "In a precedent of its kind, the Israeli government rejects a Supreme Court decision",
+      "url": "https://www.aljazeera.net/news/2026/7/6/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-34",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-05T22:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "في سابقة من نوعها .. الحكومة الإسرائيلية ترفض قرارا للمحكمة العليا"
+    },
+    {
+      "headline": "Fifth Fleet halts search for missing American sailor in the Arabian Sea",
+      "url": "https://www.aljazeera.net/news/2026/7/5/%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-05T22:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الأسطول الخامس يوقف البحث عن بحار أمريكي مفقود في بحر العرب"
+    },
+    {
       "headline": "Between the right to protection and the map game... What are the scenarios for the Hormuz corridors after the funeral break?",
       "url": "https://www.aljazeera.net/politics/2026/7/6/%D8%A8%D9%8A%D9%86-%D8%AD%D9%82-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%88%D9%84%D8%B9%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7",
       "source": "Al Jazeera Arabic",
@@ -373,28 +433,14 @@
       "originalHeadline": "رغم مخاوف الحرب .. شاطئ صور ينبض بالحياة ويجمع عائلات الجنوب"
     },
     {
-      "headline": "From the cup to the room...the tragedy of displacement brings the clay making profession back to Gaza",
-      "url": "https://www.aljazeera.net/lifestyle/2026/7/6/%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%A3%D8%B3-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%BA%D8%B1%D9%81%D8%A9-%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%B2%D9%88%D8%AD-%D8%AA%D8%B9%D9%8A%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-05T22:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "من الكأس إلى الغرفة .. مأساة النزوح تعيد مهنة صناعة الطين إلى غزة"
-    },
-    {
-      "headline": "Masha and the Bear raises controversy in Britain.. Why did members of Parliament demand that it be banned?",
-      "url": "https://www.aljazeera.net/arts/2026/7/5/%D9%85%D8%A7%D8%B4%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D8%A8-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AC%D8%AF%D9%84%D8%A7-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%85",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-05T22:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ماشا والدب يثير جدلا في بريطانيا .. لم طالب أعضاء في البرلمان بمنعه ؟"
+      "headline": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tckNGNlJFbDc4UDVIazVlam9xeHVpLThPOF9EUnBkaWJZREo2M2IyX2hIWThqMzRabVJrb1RBRFB3ZGV0NmpCU1lKWFpabm1YYXBJNnhWVHBfUE9ZZmQ0V3l1Rkt5QQ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-05T22:19:07.000Z"
     },
     {
       "headline": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News",
@@ -408,7 +454,7 @@
     },
     {
       "headline": "The Foreign Ministers of Saudi Arabia and Bahrain discuss the negotiating path between America and Iran - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOd3A0WW9EZF9rc1Rua25aRkJyVnRqaDhTQXNpaEpkSVVfNk16QWhVZ1JhV1pEMGk5RFEyYXctTDlJZkZHVUYybVVJUlNJMllDN2NRYWt6UHRHSjdvdlpQbnZTSThJQkZmM2Z0dkhOd3ZwN0o0XzBNUG9FSjFQOEdOeHFPRWR1ZndDX3pTNlo1Wk02OG0yR2hfZ2RpdDJMZ1JTREotVWhENl93eUpTYnJzdEZaSWhzRm5IaV9Jb01SYlotYkRabFVHQjI5OWlRdEJlOFZ3a2owelh4VWlaanhHak5NZmFBVDF1TENQTmdYalFaVFpHaUtULW94ZFI1blp2UVZSV2ZaSFgtdVVjbTJGeGNMRUJLOTJUVWdReWFYM2ptLW93NGRfenFldkNTVXQzXzg2VU0tWEZIUVdDeTlIcHlxMWhqa2VOdkhDMWNlOFdzdENzdjgwNUNENTNjNWUybWQwb2xKZ19MTlRfemhJNDN2dEpWcmlSel92akRaRkVObUxNR3lKdzkwbmluREtPME90MkRoTjVhWFZJU3hTUG1zZUR3UlhibG4tWlZIU1o3LTJRS1A1OV9jMTAzemxBc1N3UVZoMW1QVDFZN3BodHZPcDlZVFlDb2VycGxrVDhPdGJHVVZTbFFtb19ILTF1Nm1uREV0cm9QdGJKYkxjWEpVOWp6S3N1SThiVm4wUzRNbkt5SkF1OGV2c3hJcGY4NVE1Qm51UVJYN1R4ZGNKbjN1OVNfSXhyNEs5dTI0ZUtEeE9oamlHZkpXazZ2SUdGa09yX3VYcTlxa3FaVW41blN2dDlVNlAzdW930gHrBEFVX3lxTE53cDRZb0RkX2tzVG5rblpGQnJWdGpoOFNBc2loSmRJVV82TXpBaFVnUmFXWkQwaTlEUTJhdy1MOUlmRkdVRjJtVUlSU0kyWUM3Y1Fha3pQdEdKN292WlBudlNJOElCRmYzZnR2SE53dnA3SjRfME1Qb0VKMVA4R054cU9FZHVmd0NfelM2WjVaTTY4bTJHaF9nZGl0MkxnUlNESi1VaEQ2X3d5SlNicnN0RlpJaHNGbkhpX0lvTVJiWi1iRFpsVUdCMjk5aVF0QmU4VndrajB6WHhVaVpqeEdqTk1mYUFUMXVMQ1BOZ1hqUVpUWkdpS1Qtb3hkUjVuWnZRVlJXZlpIWC11VWNtMkZ4Y0xFQks5MlRVZ1F5YVgzam0tb3c0ZF96cWV2Q1NVdDNfODZVTS1YRkhRV0N5OUhweXExaGprZU52SEMxY2U4V3N0Q3N2ODA1Q0Q1M2M1ZTJtZDBvbEpnX0xOVF96aEk0M3Z0SlZyaVJ6X3ZqRFpGRU5tTE1HeUp3OTBuaW5ES08wT3QyRGhONWFYVklTeFNQbXNlRHdSWGJsbi1aVkhTWjctMlFLUDU5X2MxMDN6bEFzU3dRVmgxbVBUMVk3cGh0dk9wOVlUWUNvZXJwbGtUOE90YkdVVlNsUW1vX0gtMXU2bW5ERXRyb1B0YkpiTGNYSlU5anpLc3VJOGJWbjBTNE1uS3lKQXU4ZXZzeElwZjg1UTVCbnVRUlg3VHhkY0puM3U5U19JeHI0Szl1MjRlS0R4T2hqaUdmSldrNnZJR0ZrT3JfdVhxOXFrcVpVbjVuU3Z0OVU2UDN1b3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQYmNtYkNGQnhMdElnTWYtSEJ3d1JlQzdnRC0zX2hKMFlfZ3FTWXJ0RXV2S0M3dFhmSTBUM2NRbS1pVWxoT0JaTTBYbTNyNzVSUkNNTmhlQmgxeEl5b09ZTk9KeENqNnhjNkVzNm5Sam9kb2hNOC1zUUFoSzJUbERENXJtdktQSS1pVTRfRERlalFVQjY2Z3R4YktpOTZ5Y1ZZTW51b1pLcC1aV3dhY3E5elZpR0lMYW8zTzF5Z2ktcUJ5T0M1Tm5aa1NCcDl2ek5yOGtfRzd1SW9NY3VHYUJhbncyYzlEQ2JuaDFzYUtSNFdSMmVWa2REdTh0YVdXQ1hkVW5oT2FWOHZKdE9jYXpkZG1aaDFrdkduX2ZhRWpiQlBUbmZYZDU2ZkNjcE9wOXJpOFNRdGFtSFlJZGo0Y1RkOUg1MjgyZW9aNkJXa3VpYkhXd2RUUVp1dkhONi02cG11ODNUT0hraVRvREpYSkMySkJFN290cEhhOE0wQ1ZUVnViZmtHbmg2TnRpRnR1QXJxZXh0UTdaNmlmVF9xMkdqWEtmVnduUlZjelhLV1pPckJsbXUxa205NmJKMnp5ajVpWC1uRVN6TG9YaHZlbG5iTExoTHMxZnJmQzVJWWstUURUdkwtMXhQM1Vyc1l2V0VtNWZoSUc0SWg0QUJRYmZvWEY0bHJNMWRibzRpX2dEN1ZYM0VMVmpWNEpDZzUxdjFKYk1rdlNuY0RtdkZVZENOLW14R19yUnl0QklzSFptUF83SjJzOXlpT3NUMDRIdk9keGhXMDdzV3FWRml2MjNpcDhPQmlQQdIB6wRBVV95cUxOd3A0WW9EZF9rc1Rua25aRkJyVnRqaDhTQXNpaEpkSVVfNk16QWhVZ1JhV1pEMGk5RFEyYXctTDlJZkZHVUYybVVJUlNJMllDN2NRYWt6UHRHSjdvdlpQbnZTSThJQkZmM2Z0dkhOd3ZwN0o0XzBNUG9FSjFQOEdOeHFPRWR1ZndDX3pTNlo1Wk02OG0yR2hfZ2RpdDJMZ1JTREotVWhENl93eUpTYnJzdEZaSWhzRm5IaV9Jb01SYlotYkRabFVHQjI5OWlRdEJlOFZ3a2owelh4VWlaanhHak5NZmFBVDF1TENQTmdYalFaVFpHaUtULW94ZFI1blp2UVZSV2ZaSFgtdVVjbTJGeGNMRUJLOTJUVWdReWFYM2ptLW93NGRfenFldkNTVXQzXzg2VU0tWEZIUVdDeTlIcHlxMWhqa2VOdkhDMWNlOFdzdENzdjgwNUNENTNjNWUybWQwb2xKZ19MTlRfemhJNDN2dEpWcmlSel92akRaRkVObUxNR3lKdzkwbmluREtPME90MkRoTjVhWFZJU3hTUG1zZUR3UlhibG4tWlZIU1o3LTJRS1A1OV9jMTAzemxBc1N3UVZoMW1QVDFZN3BodHZPcDlZVFlDb2VycGxrVDhPdGJHVVZTbFFtb19ILTF1Nm1uREV0cm9QdGJKYkxjWEpVOWp6S3N1SThiVm4wUzRNbkt5SkF1OGV2c3hJcGY4NVE1Qm51UVJYN1R4ZGNKbjN1OVNfSXhyNEs5dTI0ZUtEeE9oamlHZkpXazZ2SUdGa09yX3VYcTlxa3FaVW41blN2dDlVNlAzdW93?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -419,7 +465,7 @@
     },
     {
       "headline": "The Foreign Ministers of Saudi Arabia and Bahrain discuss the negotiating path between America and Iran - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQYmNtYkNGQnhMdElnTWYtSEJ3d1JlQzdnRC0zX2hKMFlfZ3FTWXJ0RXV2S0M3dFhmSTBUM2NRbS1pVWxoT0JaTTBYbTNyNzVSUkNNTmhlQmgxeEl5b09ZTk9KeENqNnhjNkVzNm5Sam9kb2hNOC1zUUFoSzJUbERENXJtdktQSS1pVTRfRERlalFVQjY2Z3R4YktpOTZ5Y1ZZTW51b1pLcC1aV3dhY3E5elZpR0lMYW8zTzF5Z2ktcUJ5T0M1Tm5aa1NCcDl2ek5yOGtfRzd1SW9NY3VHYUJhbncyYzlEQ2JuaDFzYUtSNFdSMmVWa2REdTh0YVdXQ1hkVW5oT2FWOHZKdE9jYXpkZG1aaDFrdkduX2ZhRWpiQlBUbmZYZDU2ZkNjcE9wOXJpOFNRdGFtSFlJZGo0Y1RkOUg1MjgyZW9aNkJXa3VpYkhXd2RUUVp1dkhONi02cG11ODNUT0hraVRvREpYSkMySkJFN290cEhhOE0wQ1ZUVnViZmtHbmg2TnRpRnR1QXJxZXh0UTdaNmlmVF9xMkdqWEtmVnduUlZjelhLV1pPckJsbXUxa205NmJKMnp5ajVpWC1uRVN6TG9YaHZlbG5iTExoTHMxZnJmQzVJWWstUURUdkwtMXhQM1Vyc1l2V0VtNWZoSUc0SWg0QUJRYmZvWEY0bHJNMWRibzRpX2dEN1ZYM0VMVmpWNEpDZzUxdjFKYk1rdlNuY0RtdkZVZENOLW14R19yUnl0QklzSFptUF83SjJzOXlpT3NUMDRIdk9keGhXMDdzV3FWRml2MjNpcDhPQmlQQdIB6wRBVV95cUxOd3A0WW9EZF9rc1Rua25aRkJyVnRqaDhTQXNpaEpkSVVfNk16QWhVZ1JhV1pEMGk5RFEyYXctTDlJZkZHVUYybVVJUlNJMllDN2NRYWt6UHRHSjdvdlpQbnZTSThJQkZmM2Z0dkhOd3ZwN0o0XzBNUG9FSjFQOEdOeHFPRWR1ZndDX3pTNlo1Wk02OG0yR2hfZ2RpdDJMZ1JTREotVWhENl93eUpTYnJzdEZaSWhzRm5IaV9Jb01SYlotYkRabFVHQjI5OWlRdEJlOFZ3a2owelh4VWlaanhHak5NZmFBVDF1TENQTmdYalFaVFpHaUtULW94ZFI1blp2UVZSV2ZaSFgtdVVjbTJGeGNMRUJLOTJUVWdReWFYM2ptLW93NGRfenFldkNTVXQzXzg2VU0tWEZIUVdDeTlIcHlxMWhqa2VOdkhDMWNlOFdzdENzdjgwNUNENTNjNWUybWQwb2xKZ19MTlRfemhJNDN2dEpWcmlSel92akRaRkVObUxNR3lKdzkwbmluREtPME90MkRoTjVhWFZJU3hTUG1zZUR3UlhibG4tWlZIU1o3LTJRS1A1OV9jMTAzemxBc1N3UVZoMW1QVDFZN3BodHZPcDlZVFlDb2VycGxrVDhPdGJHVVZTbFFtb19ILTF1Nm1uREV0cm9QdGJKYkxjWEpVOWp6S3N1SThiVm4wUzRNbkt5SkF1OGV2c3hJcGY4NVE1Qm51UVJYN1R4ZGNKbjN1OVNfSXhyNEs5dTI0ZUtEeE9oamlHZkpXazZ2SUdGa09yX3VYcTlxa3FaVW41blN2dDlVNlAzdW93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOd3A0WW9EZF9rc1Rua25aRkJyVnRqaDhTQXNpaEpkSVVfNk16QWhVZ1JhV1pEMGk5RFEyYXctTDlJZkZHVUYybVVJUlNJMllDN2NRYWt6UHRHSjdvdlpQbnZTSThJQkZmM2Z0dkhOd3ZwN0o0XzBNUG9FSjFQOEdOeHFPRWR1ZndDX3pTNlo1Wk02OG0yR2hfZ2RpdDJMZ1JTREotVWhENl93eUpTYnJzdEZaSWhzRm5IaV9Jb01SYlotYkRabFVHQjI5OWlRdEJlOFZ3a2owelh4VWlaanhHak5NZmFBVDF1TENQTmdYalFaVFpHaUtULW94ZFI1blp2UVZSV2ZaSFgtdVVjbTJGeGNMRUJLOTJUVWdReWFYM2ptLW93NGRfenFldkNTVXQzXzg2VU0tWEZIUVdDeTlIcHlxMWhqa2VOdkhDMWNlOFdzdENzdjgwNUNENTNjNWUybWQwb2xKZ19MTlRfemhJNDN2dEpWcmlSel92akRaRkVObUxNR3lKdzkwbmluREtPME90MkRoTjVhWFZJU3hTUG1zZUR3UlhibG4tWlZIU1o3LTJRS1A1OV9jMTAzemxBc1N3UVZoMW1QVDFZN3BodHZPcDlZVFlDb2VycGxrVDhPdGJHVVZTbFFtb19ILTF1Nm1uREV0cm9QdGJKYkxjWEpVOWp6S3N1SThiVm4wUzRNbkt5SkF1OGV2c3hJcGY4NVE1Qm51UVJYN1R4ZGNKbjN1OVNfSXhyNEs5dTI0ZUtEeE9oamlHZkpXazZ2SUdGa09yX3VYcTlxa3FaVW41blN2dDlVNlAzdW930gHrBEFVX3lxTE53cDRZb0RkX2tzVG5rblpGQnJWdGpoOFNBc2loSmRJVV82TXpBaFVnUmFXWkQwaTlEUTJhdy1MOUlmRkdVRjJtVUlSU0kyWUM3Y1Fha3pQdEdKN292WlBudlNJOElCRmYzZnR2SE53dnA3SjRfME1Qb0VKMVA4R054cU9FZHVmd0NfelM2WjVaTTY4bTJHaF9nZGl0MkxnUlNESi1VaEQ2X3d5SlNicnN0RlpJaHNGbkhpX0lvTVJiWi1iRFpsVUdCMjk5aVF0QmU4VndrajB6WHhVaVpqeEdqTk1mYUFUMXVMQ1BOZ1hqUVpUWkdpS1Qtb3hkUjVuWnZRVlJXZlpIWC11VWNtMkZ4Y0xFQks5MlRVZ1F5YVgzam0tb3c0ZF96cWV2Q1NVdDNfODZVTS1YRkhRV0N5OUhweXExaGprZU52SEMxY2U4V3N0Q3N2ODA1Q0Q1M2M1ZTJtZDBvbEpnX0xOVF96aEk0M3Z0SlZyaVJ6X3ZqRFpGRU5tTE1HeUp3OTBuaW5ES08wT3QyRGhONWFYVklTeFNQbXNlRHdSWGJsbi1aVkhTWjctMlFLUDU5X2MxMDN6bEFzU3dRVmgxbVBUMVk3cGh0dk9wOVlUWUNvZXJwbGtUOE90YkdVVlNsUW1vX0gtMXU2bW5ERXRyb1B0YkpiTGNYSlU5anpLc3VJOGJWbjBTNE1uS3lKQXU4ZXZzeElwZjg1UTVCbnVRUlg3VHhkY0puM3U5U19JeHI0Szl1MjRlS0R4T2hqaUdmSldrNnZJR0ZrT3JfdVhxOXFrcVpVbjVuU3Z0OVU2UDN1b3c?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -1307,7 +1353,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-05T18:07:49.000Z",
-      "originalHeadline": "قطر تعزز الحوكم�� الصناعية باتفاق لتنظيم تخصيص موارد الطاقة - الجزيرة نت"
+      "originalHeadline": "قطر تعزز الحوكمة الصناعية باتفاق لتنظيم تخصيص موارد الطاقة - الجزيرة نت"
     },
     {
       "headline": "\"Almarai\" records a 1.7% decline in its second quarter 2026 profits..\n\nFinancial analyst Dr. Hussein Al-Ataas comments:\n\n- The profit decline is due to temporary conditions that caused a rise in feed prices\n\n- Sales growth indicates continued demand for all products\n\n- I expect",
@@ -1361,7 +1407,7 @@
       "date": "2026-07-05T17:54:47.000Z"
     },
     {
-      "headline": "Wealth lies beneath the sands of Saudi Arabia... Geothermal energy is a bet without challenges - Al Sharq Bloomberg",
+      "headline": "Wealth lies beneath the sands of Saudi Arabia...geothermal energy is a bet without challenges - Al Sharq Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPLV9WbUdERWdqQVREUHhSS3I0WWNld1ZqdjFJU19YX0FaVDBXR21wMFB0TW5rSEJJMXUzQ0NRV29ycFkyRWxtZW9vd2RLSmFKWVJ0N0xpWFhkajZSbFhESEVKTWtZVVZJNE5uc29wSUpxN01FWEJWUzBmeXI1aDFVWTJSeS1ZTkV1emdXVEhPcHozZkxUbExZRU5xOGZqa1lGZ0ZhX3kwLTlPeWlkMTVGNXhSeTZXVU5YaGR0NzJrUUxuVTllZl9Rckdrc2tXbEpBZ2xiTmJrUGFfQVhGUjVHdjZ5LWJqRDJNeVZXcnhWcDdSekZ5dW1mc3RsTi1XTlo1cUdjdTlkOFNRdkJYOFlJTEJka0steTdBTnNDMjZvTXhlTkszT2JPamZvMl9MaTlmb0JlTS1GS0ZVSUQtdHdnTTFLVUdpblRHcTl1eUllaGNJQVJyU1BVVGNXUW85LThNQUZkZ3ozeWdxQml3T0tveGMtQU10U3lZM2t5bHd6Rlp1OUh6OGJRMTN4RWhBcTlENnpsajU0WDBPaUpWa2tLRk4zQ0ZhMFd2MU9NQXBjYXgtOXRNZGRCSTJ2ZHRBZGxLa0N2Z2c1VkNqVzBpUnJ0WEhfcmM?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1737,7 +1783,7 @@
       "originalHeadline": "وزير الخارجية يستقبل المرشحة من قبل دولة أنتيجوا وبربودا لتولي منصب الأمين العام للأمم المتحدة\n\n\nhttps://\nbit.ly/3SYEWht"
     },
     {
-      "headline": "Qatar Energy and the Ministry of Commerce cooperate to use fuel in industrial projects - Erem Business",
+      "headline": "Qatar Energy and the Ministry of Commerce cooperate to employ fuels in industrial projects - Erem Business",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NUnRINldlODQwamdRcGdYRHB1bW9aTjMzd0FnTktVTEJqOS1FaFcwQWo1Sm5RamlUcnJxbmZXdnlpbm9UdV9TQ3FLVHhEZ1djN3lMTkJ3?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1745,7 +1791,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-05T16:41:51.000Z",
-      "originalHeadline": "«قطر للطاقة» ووزارة التجارة تتعاونان لتوظيف المحروقات في مشاريع صناعية - إرم بزنس"
+      "originalHeadline": "«قطر للطاقة» ووزارة التجارة تتعاونان لتوظيف المحرو��ات في مشاريع صناعية - إرم بزنس"
     },
     {
       "headline": "Fifth Mango Festival Concludes, Attracts More Than 18,000 Visitors",
@@ -2852,54 +2898,6 @@
       "date": "2026-07-05T12:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "قطر تعلن استئناف أنشطة الملاحة البحرية"
-    },
-    {
-      "headline": "Banality steals our minds.. How do we protect our awareness in the age of technology?",
-      "url": "https://www.aljazeera.net/blogs/2026/7/5/%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D8%A9-%D8%AA%D8%B3%D8%B1%D9%82-%D8%B9%D9%82%D9%88%D9%84%D9%86%D8%A7-%D9%83%D9%8A%D9%81-%D9%86%D8%AD%D9%85%D9%8A-%D9%88%D8%B9%D9%8A%D9%86%D8%A7-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-05T12:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "التفاهة تسرق عقولنا .. كيف نحمي وعينا في عصر التكنولوجيا ؟"
-    },
-    {
-      "headline": "Khamenei's funeral...a new appearance for the commander of the Revolutionary Guard",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/05/irgc-chief-makes-second-public-appearance-khamenei-funeral",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T12:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جنازة خامنئي .. ظهور جديد لقائد الحرس الثوري"
-    },
-    {
-      "headline": "Raqqa is a story of history and civilization... from the cradle of the first human habitation to the Pearl of the Euphrates",
-      "url": "https://www.aljazeera.net/blogs/2026/7/5/%D8%A7%D9%84%D8%B1%D9%82%D8%A9-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-%D9%85%D9%86-%D9%85%D9%87%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-05T12:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الرقة حكاية التاريخ والحضارة .. من مهد أول مسكن بشري إلى درة الفرات"
-    },
-    {
-      "headline": "Why did airline tickets not decrease despite the decline in fuel prices?",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/5/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%84%D9%85-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B1%D8%BA%D9%85-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-05T12:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لماذا لم تنخفض تذاكر الطيران رغم تراجع أسعار الوقود ؟"
     },
     {
       "headline": "Northern Governor Receives Official\n\n\nhttps://\npolicemc.gov.bh/en/news/79958/",
