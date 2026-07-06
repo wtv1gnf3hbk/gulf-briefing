@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-06T19:01:25.888Z",
+  "updated": "2026-07-06T19:18:36.403Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Saudi Chambers Federation Hosts Saudi-Kenyan Roundtable to Boost Economic Ties",
+      "url": "https://spa.gov.sa/en/N2628614?type=news&uuid=N2628614",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-06T19:13:38.000Z"
+    },
+    {
+      "headline": "KSrelief Distributes 768 Food Baskets in Syria's Idlib Governorate",
+      "url": "https://spa.gov.sa/en/N2628613?type=news&uuid=N2628613",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-06T19:06:22.000Z"
+    },
+    {
+      "headline": "Saudi Arabia Calls for Global Partnership to Bridge AI Gaps, Benefit Humanity, Protect Planet",
+      "url": "https://spa.gov.sa/en/N2628612?type=news&uuid=N2628612",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-06T19:05:33.000Z"
+    },
+    {
+      "headline": "The UAE issues a statement after Morocco announced the thwarting of “terrorist plans” - CNN Arabic",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmlmZFJzcWxzbW5BZnhmT2JFTHZOM3RJWWVGdy1wV0NwTjA4SnQ3QS16RE9UQW14M1h2cWEwc3ZXcGFDalRKQ01walNNOGFMY0tlbUxBQV83ZWNqTWZZUFVLSEdJdVd5SmYxTEhpaEdNUU1KQXpTWnJ3ZHlHcl9NTmxDcVpCWGpDNUk3SWE3Snc0eGc1N3RQVGkzRVlrR1hRN0k3VW5rYUd6M3Vua3BwOHJ3WTBacExldUw2VS0yNXA3TURyX1lJREllR1hYRnfSAdoBQVVfeXFMTk5WeGVyX3BZQ0I4NnVJM1IzcWtPRTVNODh1RV9GSlZ2N0tZOV9SMFhLX2xGdDlSaXhJS2xOZnpJMUJ2emY3OEpDeDZnLXBpZVVjVEVpZGktR29hWmcxVXV3bXl1dFBmUDZsSDZrcjFXQVhHYzRtdEE4dDR0MFc2dkFfUS1nTFRscTgydlhIaV80c2VMb0pZR2szRk45UjRQS0MtTElqcG5uSi1IWFVYWWxPWkk5R1VoaTV1RFFMZk5yRU42aXNocG44RGh0Z2hieWxHRzUzclhYc3c?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T18:59:38.000Z",
+      "originalHeadline": "الإمارات تصدر بيانًا بعد إعلان المغرب إحباط \"مخططات إرهابية\" - CNN Arabic"
+    },
     {
       "headline": "Saudi Ambassador to UK Inaugurates Sela Company's International Headquarters in London",
       "url": "https://spa.gov.sa/en/N2628609?type=news&uuid=N2628609",
@@ -74,6 +115,17 @@
       "date": "2026-07-06T18:45:52.000Z"
     },
     {
+      "headline": "Israel Kills 4 , Including School Principal , in South Lebanon , Health Ministry Says",
+      "url": "https://english.aawsat.com/arab-world/5292731-israel-kills-4-including-school-principal-south-lebanon-health-ministry-says",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-06T18:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "#Libya Presidential Council Chairman and #United_Nations Chief Discuss Political Developments\n#QNA \n\nhttps://\nbit.ly/44MLFh7",
       "url": "https://x.com/QNAEnglish/status/2074202908791377988",
       "source": "Qatar News Agency",
@@ -82,6 +134,17 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-06T18:44:44.000Z"
+    },
+    {
+      "headline": "Saudi Arabia and France discuss the situation in the region and support stability and security - Sada El Balad",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YdWdzREZoWkpVVjFCRlhNYWRZUTVYcjBtRl9iV041RzRXRGpoTWZaS0NGLVpCRDBXQ3lrd2ZWNmt1S0ZyM0xV?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T18:43:00.000Z",
+      "originalHeadline": "السعودية وفرنسا تبحثان الأوضاع في المنطقة ودعم الاستقرار والأمن - صدى البلد"
     },
     {
       "headline": "\"Emaar\" expects to sign an infrastructure contract worth 547 million riyals..\n\nFinancial advisor Khaled Al-Zaidi comments:\n\n- The contract is considered massive and equals more than 3 times the company's annual revenues\n\n- The contract enables the company to sell more developed",
@@ -314,16 +377,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-06T17:55:44.000Z"
-    },
-    {
-      "headline": "Spain - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oXy1JdWhtQnFROUl1WTVsTTlGM0cxRmFBc1BSYWVJdlIzZVFGRXRaWERmbWVSb2czazliOXFjYmZ6QQ?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T17:55:32.000Z"
     },
     {
       "headline": "Morocco foils Daesh plot, arrests 10 extremists",
@@ -668,6 +721,16 @@
       "date": "2026-07-06T16:56:24.000Z"
     },
     {
+      "headline": "Spain - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oXy1JdWhtQnFROUl1WTVsTTlGM0cxRmFBc1BSYWVJdlIzZVFGRXRaWERmbWVSb2czazliOXFjYmZ6QQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-06T16:55:32.000Z"
+    },
+    {
       "headline": "Minister of State for Foreign Affairs Receives UNCCD Executive Secretary",
       "url": "https://spa.gov.sa/en/N2628518?type=news&uuid=N2628518",
       "source": "Saudi Press Agency",
@@ -787,6 +850,17 @@
       "language": "ar",
       "date": "2026-07-06T16:41:00.000Z",
       "originalHeadline": "4 لاعب��ن في الفراعنة محط اهتمام الأندية السعودية.. ورونالدو كلمة السر مع شوبير وعاشور - بوابة الأهرام"
+    },
+    {
+      "headline": "Saudi Arabia imposes a 2% fee on non-Saudis’ real estate transactions in 4 major cities - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQYUsxSHA0SVdIUVVzSE51X1p0c0RkWGZzYS1ZYWNWVlNkTWhqbDc3ZGZjR0x6RkQ2ckcyZ0poRkhnU2RwMUtZT0w2d2pzNVZ3UldVcmYzdkVkdWhQeWtjVFpNYnAwRXhQSVNEQldXZGdEY0NhZnoxWjBVQmVhZ0p6V2FtSml1UEU1RHoyeWhGRDVQUURfZm9GZGJRb0FQdGNXb25Ja1hhSzNSZDI0YlhpOElHLWFkejVUWEsyZENoakQxcGV4TGMxTTA1SER3UHA5ZFJlRGF4ZDVaeG00TW0zc0doR3l6Mk1sdV9UZ2dhdm5QLThmZzczNjB0ZHdieHZ4YkVCSFR4ckN1bmgxQWZLZUo2MmJLM0JWdDhBVkNKaGdZWlFpS2xYMnRZa2g5aW0wSzhjWEdLV0NzcjBDZmlDMEVOdzk1RUhrYzJraVJnZEthbUNabDV2RUx5V2pLVGdCdGVEM3N3TUtSY2JCZXZjQ1ExZ3k4Zjh3OXVYRnR0RDZid0xTQTF4VnlwOVZWYkd2YW1ranhaOHpjcmFyMTNrQjY0Nk9QbVhuRk1nY0RpLUx5bWc4ZjBGUUl1d0otWHBXZEhER29TUWlpaHowYUd0N0RzTzZfQmlMalp1QU1ZUjBXUmpvV3ZqVkdjd3Q1VDE2TGpaUDJQLUtUdkNYOUhjNzZ3aFhmUEVzVE1iU0FXaFVTa0w3M3Z4ekUxanB4Y2tzdUMwRHptQUbSAa4EQVVfeXFMUGJKNVNyQ2F1WVRza1d5M0E3S0F3Sl9zTDhldlBhdHhwUTZ0NTd4c0JhTm9VQl9OWHEtTmFvbXVGaGRKcG16ZDRoYng3ajEyZTEzYTNucTVaZTFiRVM5NE9mMU1ha3hrZEMwZWUwQ3dvQ1VKcDU4bGRtTW9fOHhFeGo4RVNzMTBBaFFHanhSN2JSMjBNNHEzWkFqZ2xTV3JWS1J2X29Va0lvMTNUWVpZS0dla0gtR2xZX3VMSnRsV2RCVVFnTVctYXc2LW10SjZ0X25lRmFPUUt0UmpqWE00RXlSajd3dUU0bm9QVW9Va2NEWVBQc0lMc3ZnXzNuRTdqSmFoU0Q3RHdZMkNqWm5CR1dDSmZvTFlmcXJQMmt3OU9LQ080aHUwSmNiYzZLNWRyb3ZrQUdoWm1fVUpQY21vLVJJaFBfTEVPRWlsVU44c05aMkY3N1FCbkNzc0o2V3N1ekYxOWthQjlqdXlTeGVTaElwZFdUeUMwelE3cTloMjhxWmd3T1RtdzZPRTlQUG50akpKSml3U0lhTEd2NkNUSVlMbWdHMmpJWWd1VXdqSTZKTThfeElFUnI4OEVaaUN6RmxJNWVfX1l1YmlkMVRIbkJiczNJbDdqN2Y3Q0ptb2pPY2hBZXJYcnBQWW9DR2d3OUQ2MW02MHpGalZpRHh2QVJKdVVBVWFjSkx2NnpEY3d6NVhNNUtXVWw3U090THI4eEFFZXhVWFNzdHJIXzJB?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T16:38:45.000Z",
+      "originalHeadline": "السعودية تفرض رسوماً 2% على تصرفات غير السعوديين العقارية في 4 مدن رئيسية - العربية"
     },
     {
       "headline": "Saudi Arabia and Somalia discuss strengthening bilateral relations - National Media Authority",
@@ -1927,17 +2001,6 @@
       "originalHeadline": "Khaulani Taiyal Tribes in Sana'a\n\nAn armed gathering in response to the Commander-in-Chief and an announcement of readiness and mobilization to end the aggression and siege\n#انفروا_خفافا_وثقالا"
     },
     {
-      "headline": "Saudi Arabia imposes a 2% tax on real estate transactions of non-Saudis in 4 major cities - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQYUsxSHA0SVdIUVVzSE51X1p0c0RkWGZzYS1ZYWNWVlNkTWhqbDc3ZGZjR0x6RkQ2ckcyZ0poRkhnU2RwMUtZT0w2d2pzNVZ3UldVcmYzdkVkdWhQeWtjVFpNYnAwRXhQSVNEQldXZGdEY0NhZnoxWjBVQmVhZ0p6V2FtSml1UEU1RHoyeWhGRDVQUURfZm9GZGJRb0FQdGNXb25Ja1hhSzNSZDI0YlhpOElHLWFkejVUWEsyZENoakQxcGV4TGMxTTA1SER3UHA5ZFJlRGF4ZDVaeG00TW0zc0doR3l6Mk1sdV9UZ2dhdm5QLThmZzczNjB0ZHdieHZ4YkVCSFR4ckN1bmgxQWZLZUo2MmJLM0JWdDhBVkNKaGdZWlFpS2xYMnRZa2g5aW0wSzhjWEdLV0NzcjBDZmlDMEVOdzk1RUhrYzJraVJnZEthbUNabDV2RUx5V2pLVGdCdGVEM3N3TUtSY2JCZXZjQ1ExZ3k4Zjh3OXVYRnR0RDZid0xTQTF4VnlwOVZWYkd2YW1ranhaOHpjcmFyMTNrQjY0Nk9QbVhuRk1nY0RpLUx5bWc4ZjBGUUl1d0otWHBXZEhER29TUWlpaHowYUd0N0RzTzZfQmlMalp1QU1ZUjBXUmpvV3ZqVkdjd3Q1VDE2TGpaUDJQLUtUdkNYOUhjNzZ3aFhmUEVzVE1iU0FXaFVTa0w3M3Z4ekUxanB4Y2tzdUMwRHptQUbSAa4EQVVfeXFMUGJKNVNyQ2F1WVRza1d5M0E3S0F3Sl9zTDhldlBhdHhwUTZ0NTd4c0JhTm9VQl9OWHEtTmFvbXVGaGRKcG16ZDRoYng3ajEyZTEzYTNucTVaZTFiRVM5NE9mMU1ha3hrZEMwZWUwQ3dvQ1VKcDU4bGRtTW9fOHhFeGo4RVNzMTBBaFFHanhSN2JSMjBNNHEzWkFqZ2xTV3JWS1J2X29Va0lvMTNUWVpZS0dla0gtR2xZX3VMSnRsV2RCVVFnTVctYXc2LW10SjZ0X25lRmFPUUt0UmpqWE00RXlSajd3dUU0bm9QVW9Va2NEWVBQc0lMc3ZnXzNuRTdqSmFoU0Q3RHdZMkNqWm5CR1dDSmZvTFlmcXJQMmt3OU9LQ080aHUwSmNiYzZLNWRyb3ZrQUdoWm1fVUpQY21vLVJJaFBfTEVPRWlsVU44c05aMkY3N1FCbkNzc0o2V3N1ekYxOWthQjlqdXlTeGVTaElwZFdUeUMwelE3cTloMjhxWmd3T1RtdzZPRTlQUG50akpKSml3U0lhTEd2NkNUSVlMbWdHMmpJWWd1VXdqSTZKTThfeElFUnI4OEVaaUN6RmxJNWVfX1l1YmlkMVRIbkJiczNJbDdqN2Y3Q0ptb2pPY2hBZXJYcnBQWW9DR2d3OUQ2MW02MHpGalZpRHh2QVJKdVVBVWFjSkx2NnpEY3d6NVhNNUtXVWw3U090THI4eEFFZXhVWFNzdHJIXzJB?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T13:35:46.000Z",
-      "originalHeadline": "السعودية تفرض ر��وماً 2% على تصرفات غير السعوديين العقارية في 4 مدن رئيسية - العربية"
-    },
-    {
       "headline": "Oman's central bank issues treasury bills worth OMR60.8mn",
       "url": "https://timesofoman.com//article/174026-omans-central-bank-issues-treasury-bills-worth-omr608mn",
       "source": "Times of Oman",
@@ -3048,66 +3111,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-06T09:30:50.000Z"
-    },
-    {
-      "headline": "Indonesia and Singapore sign agreement on cross-border electricity project - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcG5BV3R2TElManZlY09tdTg5SDVPOHFPenczTVN6NXRvakl0UGZWWEd6enVVb285dDkzbHB1c25MTTEycVE2M2p0bXJ0c3B1MFhUd1lWVXFrbnVmYWVTUmRJRFBmSGlOcXFsV3BBZXJsb09ncl9qNFJBNjNuVS1fQnJlSVU0blQzSE5MZ0JZeU5LaEpXYVBleXd6S29tSDFZckJ5LVRBdVRyQ2p6UWJzMVFVOV9sYkhObDkw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T09:28:27.000Z"
-    },
-    {
-      "headline": "Gold Prices Steady Near Two-Week High",
-      "url": "https://spa.gov.sa/en/N2628144?type=news&uuid=N2628144",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-06T07:47:49.000Z"
-    },
-    {
-      "headline": "Japanese Stocks Open Mixed",
-      "url": "https://spa.gov.sa/en/N2628142?type=news&uuid=N2628142",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-06T07:45:03.000Z"
-    },
-    {
-      "headline": "UAE's ADNOC launches combined LNG marketing and trading platform - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORl84dlRrTHctekpIU1pSck5wWWlqUW9ja0ZvMmFMM1Fjd0RCZEdmV1BLN3JwX29JUC1sbmV2NWJMUEZ5bXVXV0pqYVFKaGNMR21zamdhd2dwOE9wckNsUTZPa2JnS1pieVZqS0VSWU1WLXhlQWR5dWZxUUM4SGtKZ2NRV1FLaGk1b2NKalh0SjdwUHZFVEVxQXgyeGxWZG9EZ1I1ZndNRzZzTHBaOEhtdg?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T07:30:39.000Z"
-    },
-    {
-      "headline": "Fleet of 10 Japan-related ships exit Hormuz, data shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGZ1N2d5eXZEcHJkam5LekRkYzZRc2NZVHdwYmZ1WFBSY2JhWHd4cFY5RU5nU01Ib0xuLTJXVGdGNkoxWjJIaGxpbVo2TkV5a1BXeG92SHM4WDVlX2ZUY0EtdGRod29ENUVnZ1Z1X0RwZ0xxQ1I0Z1k4RUhxQkJMRjZidjB0R0lTc25WMzZORE5NdktXSVFFYU5lMG50ZlJ0VFhfNk9PNXBLZw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T07:23:33.000Z"
-    },
-    {
-      "headline": "Mumbai Building Collapses Kill Six After Heavy Rains Lash Eastern Suburbs",
-      "url": "https://spa.gov.sa/en/N2628133?type=news&uuid=N2628133",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-06T07:11:13.000Z"
     }
   ]
 }
