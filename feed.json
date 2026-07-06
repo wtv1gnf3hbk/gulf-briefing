@@ -1,14 +1,36 @@
 {
-  "updated": "2026-07-06T05:02:32.319Z",
+  "updated": "2026-07-06T05:17:28.921Z",
   "itemCount": 300,
   "items": [
     {
-      "headline": "Ukraine hopes to sign drone deal with seven Nato countries by end of year | Ukraine",
-      "url": "https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
+      "headline": "Emirati perfumes...from local heritage to a global competitive industry - Erem Business",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2WV9vNXZIdVZWanUwSzNnaVBlOWc5b2x5RmVLaTBFNWc3UG05aGZjQW9zbkNQdVEzS2FST1dFOWw5SUZvVU5ELWNWd09CS0MwMzVqZTdVVQ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
       "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T05:14:58.000Z",
+      "originalHeadline": "العطور الإماراتية.. من التراث المحلي إلى صناعة تنافسية عالمية - إرم بزنس"
+    },
+    {
+      "headline": "Norway Shock Brazil , Make History on Erling Haaland Heroic Brace",
+      "url": "https://english.aawsat.com/sports/5292594-norway-shock-brazil-make-history-erling-haalands-heroic-brace",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-06T04:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Australia Signs Defense Alliance with Fiji to Outmaneuver China",
+      "url": "https://english.aawsat.com/world/5292598-australia-signs-defense-alliance-fiji-outmaneuver-china",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-06T04:30:00.000Z",
       "tier": "gdelt"
@@ -16,6 +38,17 @@
     {
       "headline": "Saudi Arabia Cultural Development Fund Signs Global Partnership to Develop , Empower Emerging Talent",
       "url": "https://english.aawsat.com/culture/5292609-saudi-arabia%E2%80%99s-cultural-development-fund-signs-global-partnership-develop-empower",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-06T04:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Japan Space Probe Skims Asteroid in Test for Planetary Defense",
+      "url": "https://english.aawsat.com/varieties/5292612-japan-space-probe-skims-asteroid-test-planetary-defense",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -36,6 +69,39 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Ukraine hopes to sign drone deal with seven Nato countries by end of year | Ukraine",
+      "url": "https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-06T04:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Gold holds near two-week high",
+      "url": "https://www.wam.ae/en/details/17b3vgj-gold-holds-near-two-week-high",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-06T04:26:06.137Z"
+    },
+    {
+      "headline": "Martyrs and wounded in new Israeli raids on Gaza",
+      "url": "https://www.aljazeera.net/news/2026/7/6/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D9%85%D8%B5%D8%A7%D8%A8%D9%88%D9%86-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-4",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-06T04:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "شهداء وجرحى في غارات إسرائيلية جديدة على غزة"
+    },
+    {
       "headline": "$30 million from the UAE to support the residents of Al-Obeid in Sudan - Sky News Arabia",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPOWd6Yll2eWVfTGMtRjZZX1B2TExtdmJtZlB6WVRvcEFqRjNmbVhjaUhlei1OSHl3VjV4d2NjYXp4RmZYY0htVEFadVhSMmdCRnJOUV9FY195MDNLbzdyYzBiTTd0eWFOSjdXMmg0VE44eElZaUx4cmxuTUtTQ0NtbkpSeERDekVBd1lDb0JuVXhIMGRzc3hjM2pfdmg2MlFTanRuNGtNTVJZNGRmRUc5X09sOHFpcEh1VmVqUUNseUdoeldVQ3E4RnVBTWt3b2JtYUk5SzJkbzQxS0liRFlpa04wTEtMb2VCMUpjZURLZEYtTkpGaTZjZTl4X0JZUmV1eGVENDI2MGZyRy1iamlSVklCT2NaMjlSXzY5THMzUi1lVm82MUlMS0o0a1ppSmttSE9RWHo0Ujh2Q2JkSF9KM0tJTGxKOHZNaGJlMm9kNEhVV0RHbUFVemU4djh1aUo4cmYwTlhPbTNKai1Lbm1XUlVJSHhpaDhQS0Y5X0VfS3QyRzc3TmtYNEpqSVdqd3BGMzg5aWViVnZxTVhMdVF2a0pfMNIBqANBVV95cUxQaEtnRnFKTktfYUlfOVY0MmhrQXNTbFU0ZExJSDhiRUZOai12SlFNRE1DM0hJaEhVbWQ4RjlMazc0QWktMl9vRFFDVGg1S3FoS2xFZkEzMWpCd2wwRUtJTlJXY0ZTYTB1SEh4YTBXaV9EbmpXTWg2bjNBc21NZGxLSC1JSXROeklOdThNaXBFVUtaTm1WaFdmWVlsTkhBdXdWTllKblptN2loVXNUR01JNktjdUlQOU5TLXNicVlzNHJKdVVPS3lUM2JhOExLZ24wclBINmw0YzBUaVgyOVUzdWNsbkJjVjlJSDhCdXNVNEk4MGhIbU1KSEtFS1lDbG05ZGNEcUFnRmt1MVEtMmxnVUY5WjZJVVpWZ1JzVnY2UG9nUlNtQ1Vsa3l2azA3NThxS2xsM3F5eGFxdXBFakJTdmZORTVTZ2JRNDRPZTJRM1hRNzl3X1JXSm9qbGN3OVBvdFdNVnR6VG9yeExLb0VMRFZFZnBiRVRyUnljd3hFS3BZS0pBUTJGTGRZdGtnVjVNY3JqZkxxMWxGQ2pWSWxUZlpiY0h1bmU1?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -45,16 +111,6 @@
       "language": "ar",
       "date": "2026-07-06T03:19:46.000Z",
       "originalHeadline": "30 مليون دولار من الإمارات لدعم سكان الأبيض في السودان - سكاي نيوز عربية"
-    },
-    {
-      "headline": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWIzdmgwLXJUeU4xTWRyejJfNXdGY0JuU3o2Ulg1Q1lmZ0E2b044aGhsZjBkY0QzV0N0ZXBfTlkzc2c2MVVuYnI5S2EtR2VJYXFPUkc3VEZKTVhsSE1FY1l6SW1KX3psT2d3ZXlEYno2X1UyS1VvYnFSeGlWUzRpTm5ULUhUazAwanBoek5tQTdfcFB2N1JldERKRFprdjh4RFVvak9fLWZjQm02eXVGQjZfRFFFb1ViSFJrRw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T03:14:42.000Z"
     },
     {
       "headline": "Gold prices in the UAE are moving cautiously at the beginning of the week - Nabaa Al-Arab",
@@ -77,17 +133,6 @@
       "language": "ar",
       "date": "2026-07-06T03:00:00.000Z",
       "originalHeadline": "الذهب في الإمارات يتحرك بحذر مع انطلاق أسبوع جديد وترقب بيانات الاقتصاد الأمريكى - اليوم السابع"
-    },
-    {
-      "headline": "Prices and specifications of Toyota Camry 2026 in Saudi Arabia - Sada El Balad",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KUkhnT1RzdTRYa1B4dmNZVjducm1vYS1PdjFMVDQyZ0VtZWlnbDB1RFFaNjFUNUNWMFJONG00aURZMXc1SEhj?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T03:00:00.000Z",
-      "originalHeadline": "أسعار ومواصفات تويوتا كامري 2026 في السعودية - صدى البلد"
     },
     {
       "headline": "Content creator “Maluka Al Fares” was found dead inside an apartment in Erbil",
@@ -148,6 +193,17 @@
       "date": "2026-07-06T03:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "اختراق علمي جديد .. الضوء قد يصبح سلاحاً للقضاء على السرطان"
+    },
+    {
+      "headline": "Prices and specifications of Toyota Camry 2026 in Saudi Arabia - Sada El Balad",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KUkhnT1RzdTRYa1B4dmNZVjducm1vYS1PdjFMVDQyZ0VtZWlnbDB1RFFaNjFUNUNWMFJONG00aURZMXc1SEhj?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T03:00:00.000Z",
+      "originalHeadline": "أسعار ومواصفات تويوتا كامري 2026 في السعودية - صدى البلد"
     },
     {
       "headline": "Wimbledon 2026: Osaka stuns World No. 1 Sabalenka to reach maiden quarter-final",
@@ -371,16 +427,6 @@
       "date": "2026-07-06T00:42:17.000Z"
     },
     {
-      "headline": "Oil slips after OPEC+ agrees to raise output targets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T00:37:44.000Z"
-    },
-    {
       "headline": "Yemen.. Presidential directives to raise military alert following a Houthi attack on the western coast - Sada El Balad",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XTVB2YXpxMzNsaFRja2NIRVJBT1F4cjRpTlc0VUt0RzM4Nlhvb0RnbHZzMnpMRUE2T0NKcjdIUDRsNWk5TklB?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -390,6 +436,16 @@
       "language": "ar",
       "date": "2026-07-06T00:37:00.000Z",
       "originalHeadline": "اليمن.. توجيهات رئاسية برفع التأهب العسكري عقب هجوم حوثي على الساحل الغربي - صدى البلد"
+    },
+    {
+      "headline": "Oil drifts down after OPEC+ agrees to raise output targets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-06T00:36:00.000Z"
     },
     {
       "headline": "Saudi Arabia and Bahrain stress the importance of ensuring freedom of maritime navigation in the Arabian Gulf - Youm7",
@@ -411,6 +467,16 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-06T00:26:57.000Z"
+    },
+    {
+      "headline": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWIzdmgwLXJUeU4xTWRyejJfNXdGY0JuU3o2Ulg1Q1lmZ0E2b044aGhsZjBkY0QzV0N0ZXBfTlkzc2c2MVVuYnI5S2EtR2VJYXFPUkc3VEZKTVhsSE1FY1l6SW1KX3psT2d3ZXlEYno2X1UyS1VvYnFSeGlWUzRpTm5ULUhUazAwanBoek5tQTdfcFB2N1JldERKRFprdjh4RFVvak9fLWZjQm02eXVGQjZfRFFFb1ViSFJrRw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-06T00:26:00.000Z"
     },
     {
       "headline": "Islamic Affairs Ministry Concludes First Shariah Course in Bosnia and Herzegovina",
@@ -636,7 +702,7 @@
       "originalHeadline": "الإطار الوطني للمؤهلات .. بوابة سعودية لمهارات المستقبل"
     },
     {
-      "headline": "Specialized exhibition",
+      "headline": "Specialized exhibitions",
       "url": "https://www.okaz.com.sa/articles/authors/2255690",
       "source": "Okaz",
       "sourceId": "gdelt_okaz_com_sa",
@@ -645,7 +711,7 @@
       "language": "ar",
       "date": "2026-07-05T23:00:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "المع��رض المتخصصة"
+      "originalHeadline": "المعارض المتخصصة"
     },
     {
       "headline": "Claude Sonnet 5 enters the race of intelligent agents",
@@ -2719,27 +2785,6 @@
       "date": "2026-07-05T15:35:00.000Z"
     },
     {
-      "headline": "Phosphate and potash lead the winners in the Amman Stock Exchange, Sunday session - Mubasher Info",
-      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPTUlxdWN6NUpDeWNHSnItbGxLS2I4N2tCUUZ5UWNEVFJEeEk0ZW9NM0dWbklNeWFmVkNyekxseVRfTVJNR1hZNm9PeGNJTnJTaW1Lcl96Ylp3RHBFYnY3Yno2T3B3VWtrZ3B1aEpDQ2ZGcmtvNDFUUFpRTnFYeFA0eTBVUFZ0Z2dabkJwVDJjNlRneEVReWpzbGlPV19kMnU5Sm1rRGJscFZTYk0tcl9KcHlwNDRsM195eUpieVo1NExseGlaaWNMVFBMWTMwT19NN0pZTWMwczhTREtyZTJUQm1vRXNoNXpFRkU0cWR0QTBIRHYzeHhnVlVWUW9FUW9DenRnTWgxTUtCQWp5WG53TDVXSGZOMlpNWmcyM3ptVmVVVGNmNTF1ZWp3NlhDaHdvdFBXeGVQZ0Z6endiTzZoeHFGRUxyOGFPY2I4MTUyNWZqUG1KVndJbEQ1SmFWN1pZZUM2T3RoRHpwd2JlTGJQQWp6azZLNVg5enh0NFNiMjBkdDkyNm43SFFsTHRPNnNOdXZ2elAxdHZiaElQZVZla00tRjBpZGxwQ0JBa1VBbzVpU0M2dG1BbDkyM3EzbWNYeWtwSXJlUzhoa2c5Nk1oWXJ4bkJMLUptVjRzR21RZDFnOWh4?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-05T15:31:49.000Z",
-      "originalHeadline": "الفوسفات والبوتاس يقودان الرابحين ب��ورصة عمّان جلسة الأحد - معلومات مباشر"
-    },
-    {
-      "headline": "Tender Board awards over OMR114mn in development projects",
-      "url": "https://timesofoman.com//article/173979-tender-board-awards-over-omr114mn-in-development-projects",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-05T15:29:59.000Z"
-    },
-    {
       "headline": "Sheikh Hamdan bin Zayed Al Nahyan, Ruler's Representative in Al Dhafra Region, led a national tribute parade in Abu Dhabi for the heroes of the first line of defense, as part of the \"Proud of the Emirates\" initiative, with participation from the Ministry of Defense, Abu Dhabi",
       "url": "https://x.com/modgovae/status/2073791456331063522",
       "source": "UAE Defense Ministry",
@@ -2760,26 +2805,6 @@
       "date": "2026-07-05T15:28:43.000Z"
     },
     {
-      "headline": "Director General of Foreign Ministry Makkah Branch Receives Ghanaian Consul General",
-      "url": "https://spa.gov.sa/en/N2627845?type=news&uuid=N2627845",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-05T15:28:31.000Z"
-    },
-    {
-      "headline": "Saudi Stock Exchange Ends Trading Lower",
-      "url": "https://spa.gov.sa/en/N2627842?type=news&uuid=N2627842",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-05T15:25:39.000Z"
-    },
-    {
       "headline": "The UAE Air Force is not measured by displays, but by its capability when the sky is tested in the field.\n\nA proven and effective force in reality before the parade; praise be to God, it was crafted by a leadership that built the human before the machine, and competence before",
       "url": "https://x.com/SaifBZayed/status/2073789987523559495",
       "source": "UAE Interior Ministry",
@@ -2788,26 +2813,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-05T15:23:56.000Z"
-    },
-    {
-      "headline": "Oman skies to witness Solar Aphelion tomorrow as Earth reaches farthest point from Sun",
-      "url": "https://timesofoman.com//article/173978-oman-skies-to-witness-solar-aphelion-tomorrow-as-earth-reaches-farthest-point-from-sun",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-05T15:20:07.000Z"
-    },
-    {
-      "headline": "Foreign Minister Receives Kenyan Prime Cabinet Secretary, Chairs First Saudi-Kenyan Political Consultations Committee Meeting",
-      "url": "https://spa.gov.sa/en/N2627839?type=news&uuid=N2627839",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-05T15:16:20.000Z"
     },
     {
       "headline": "His Excellency Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, Minister of Foreign Affairs, today, Sunday, July 5, 2026, conducted a phone call with His Excellency Mr. Ivan Gil Bento, Foreign Minister of the friendly Bolivarian Republic of Venezuela.\n\nDuring the call, His Excellency",
