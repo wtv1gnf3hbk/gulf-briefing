@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-06T16:33:44.051Z",
+  "updated": "2026-07-06T16:47:29.318Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Cambridge Health Group, Middlesex University Dubai sign strategic partnership",
+      "url": "https://www.wam.ae/en/details/c132rjf-cambridge-health-group-middlesex-university-dubai",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-06T16:43:41.985Z"
+    },
+    {
+      "headline": "4 players in the Pharaohs are the focus of attention of Saudi clubs...and Ronaldo is the password with Schubert and Ashour - Al-Ahram Gate",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtNjFpbUlQb3lRc3RuNUZId201NkdKNU1Gb3d4Vzl4dUJ2VmE3b2dveVVYMmNxLU9nMDdTZk9yT3N6YnNqQkNBQXdKNU5DVkY1bFZWN0tB?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T16:41:00.000Z",
+      "originalHeadline": "4 لاعبين في الفراعنة محط اهتمام الأندية السعودية.. ورونالدو كلمة السر مع شوبير وعاشور - بوابة الأهرام"
+    },
     {
       "headline": "Sharjah Investment Forum returns in October with focus on building adaptive economies",
       "url": "https://www.wam.ae/en/details/c132rje-sharjah-investment-forum-returns-october-with",
@@ -93,6 +114,42 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-06T16:15:15.000Z"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Lalamove officially launches its operations in the Kingdom",
+      "url": "https://www.alriyadh.com/2196676",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | لالاموف تطلق عملياتها رسميًا في المملكة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | 661 thousand tons of wheat were awarded to 6 international companies to enhance the Kingdom’s strategic stock",
+      "url": "https://www.alriyadh.com/2196658",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-06T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | ترسية 661 ألف طن من القمح على 6 شركات عالمية لتعزيز المخزون الإستراتيجي للمملكة"
+    },
+    {
+      "headline": "Two brothers are unique in making the crescents and minarets of Palestinian mosques",
+      "url": "https://www.aljazeera.net/politics/2026/7/6/%D8%B4%D9%82%D9%8A%D9%82%D8%A7%D9%86-%D9%8A%D9%86%D9%81%D8%B1%D8%AF%D8%A7%D9%86-%D8%A8%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A3%D9%87%D9%84%D8%A9-%D9%85%D8%B3%D8%A7%D8%AC%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-06T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "شقيقان ينفردان بصناعة أهلة مساجد فلسطين ومآذنها"
     },
     {
       "headline": "Dubai Aerospace Enterprises Limited and Newberger Specialized Finance announced today the signing of an agreement to launch Mustang, a new joint investment platform for aircraft leasing. The platform will enable both Dubai Aerospace Enterprises and the funds managed by Newberger",
@@ -461,6 +518,16 @@
       "date": "2026-07-06T15:14:02.000Z"
     },
     {
+      "headline": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBhRkxacmxmTXloVDZNTThZcE5DbGg1R0xsd1dscnB0bHlWVHo5c0tiZzluaHhpT2l3WVl1UnI2alFkNktseUtFdXFSS28xMDRHbmM1X3dFa3VIRGFHVlk1MjFKc2dOdEhaRU5HUTBuRUMySjd0bmtTN2JRaWFpSTUwVEttakkwU3hIamsxUTg0c1dTRWVZbEZhMWJ0SFkzdi1tSHpZTVYyblN0ckd6MjJ3VEtLY1pJR3RpT3h3?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-06T15:12:52.000Z"
+    },
+    {
       "headline": "UAE places sixth among world’s most popular Muslim-friendly destinations",
       "url": "https://www.wam.ae/en/details/c132rgc-uae-places-sixth-among-world’s-most-popular",
       "source": "Emirates News Agency (WAM)",
@@ -490,16 +557,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-06T15:06:19.000Z"
-    },
-    {
-      "headline": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBhRkxacmxmTXloVDZNTThZcE5DbGg1R0xsd1dscnB0bHlWVHo5c0tiZzluaHhpT2l3WVl1UnI2alFkNktseUtFdXFSS28xMDRHbmM1X3dFa3VIRGFHVlk1MjFKc2dOdEhaRU5HUTBuRUMySjd0bmtTN2JRaWFpSTUwVEttakkwU3hIamsxUTg0c1dTRWVZbEZhMWJ0SFkzdi1tSHpZTVYyblN0ckd6MjJ3VEtLY1pJR3RpT3h3?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T15:06:10.000Z"
     },
     {
       "headline": "Featuring Hend Sabry.. Revealing the jury committees for the seventh session of the Amman International Film Festival - Al-Ahram Gate",
@@ -684,6 +741,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-06T14:40:35.000Z"
+    },
+    {
+      "headline": "BP exits Bay du Nord oil project, leaving Equinor as sole owner - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzl3cTJrRE9ERWItbW1MR3JTaGpITDRPSkE0Y1RnNExGdmlXMXlkUGd6RmZUWEVBekpOTURSc0J0ZDJMRTNPRTZkRUs2V3VOX2tpSWxhRzRYV3VaV0dPTUNIcXQ2bUNGOVFyVlVIYzIyc2tNUWFXMXUya240a2o4SHlFWmIxMHRJd2VvRERzMXJmZ05INkJiakRleWszcklKZlFnbzR1M1FHTXhsMFB3Tg?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-06T14:39:35.000Z"
     },
     {
       "headline": "In his meeting today with the ambassadors of the countries sponsoring the political process in Yemen, His Excellency Dr. Rashad Mohammed Al-Alimi, President of the Presidential Leadership Council, presented a comprehensive vision regarding the dangers of Iranian interventions and",
@@ -1083,7 +1150,7 @@
       "originalHeadline": "Khaulani Taiyal Tribes in Sana'a\n\nAn armed gathering in response to the Commander-in-Chief and an announcement of readiness and mobilization to end the aggression and siege\n#انفروا_خفافا_وثقالا"
     },
     {
-      "headline": "Saudi Arabia imposes a 2% fee on real estate transactions by non-Saudis in 4 major cities - Al Arabiya",
+      "headline": "Saudi Arabia imposes a 2% fee on non-Saudis’ real estate transactions in 4 major cities - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQYUsxSHA0SVdIUVVzSE51X1p0c0RkWGZzYS1ZYWNWVlNkTWhqbDc3ZGZjR0x6RkQ2ckcyZ0poRkhnU2RwMUtZT0w2d2pzNVZ3UldVcmYzdkVkdWhQeWtjVFpNYnAwRXhQSVNEQldXZGdEY0NhZnoxWjBVQmVhZ0p6V2FtSml1UEU1RHoyeWhGRDVQUURfZm9GZGJRb0FQdGNXb25Ja1hhSzNSZDI0YlhpOElHLWFkejVUWEsyZENoakQxcGV4TGMxTTA1SER3UHA5ZFJlRGF4ZDVaeG00TW0zc0doR3l6Mk1sdV9UZ2dhdm5QLThmZzczNjB0ZHdieHZ4YkVCSFR4ckN1bmgxQWZLZUo2MmJLM0JWdDhBVkNKaGdZWlFpS2xYMnRZa2g5aW0wSzhjWEdLV0NzcjBDZmlDMEVOdzk1RUhrYzJraVJnZEthbUNabDV2RUx5V2pLVGdCdGVEM3N3TUtSY2JCZXZjQ1ExZ3k4Zjh3OXVYRnR0RDZid0xTQTF4VnlwOVZWYkd2YW1ranhaOHpjcmFyMTNrQjY0Nk9QbVhuRk1nY0RpLUx5bWc4ZjBGUUl1d0otWHBXZEhER29TUWlpaHowYUd0N0RzTzZfQmlMalp1QU1ZUjBXUmpvV3ZqVkdjd3Q1VDE2TGpaUDJQLUtUdkNYOUhjNzZ3aFhmUEVzVE1iU0FXaFVTa0w3M3Z4ekUxanB4Y2tzdUMwRHptQUbSAa4EQVVfeXFMUGJKNVNyQ2F1WVRza1d5M0E3S0F3Sl9zTDhldlBhdHhwUTZ0NTd4c0JhTm9VQl9OWHEtTmFvbXVGaGRKcG16ZDRoYng3ajEyZTEzYTNucTVaZTFiRVM5NE9mMU1ha3hrZEMwZWUwQ3dvQ1VKcDU4bGRtTW9fOHhFeGo4RVNzMTBBaFFHanhSN2JSMjBNNHEzWkFqZ2xTV3JWS1J2X29Va0lvMTNUWVpZS0dla0gtR2xZX3VMSnRsV2RCVVFnTVctYXc2LW10SjZ0X25lRmFPUUt0UmpqWE00RXlSajd3dUU0bm9QVW9Va2NEWVBQc0lMc3ZnXzNuRTdqSmFoU0Q3RHdZMkNqWm5CR1dDSmZvTFlmcXJQMmt3OU9LQ080aHUwSmNiYzZLNWRyb3ZrQUdoWm1fVUpQY21vLVJJaFBfTEVPRWlsVU44c05aMkY3N1FCbkNzc0o2V3N1ekYxOWthQjlqdXlTeGVTaElwZFdUeUMwelE3cTloMjhxWmd3T1RtdzZPRTlQUG50akpKSml3U0lhTEd2NkNUSVlMbWdHMmpJWWd1VXdqSTZKTThfeElFUnI4OEVaaUN6RmxJNWVfX1l1YmlkMVRIbkJiczNJbDdqN2Y3Q0ptb2pPY2hBZXJYcnBQWW9DR2d3OUQ2MW02MHpGalZpRHh2QVJKdVVBVWFjSkx2NnpEY3d6NVhNNUtXVWw3U090THI4eEFFZXhVWFNzdHJIXzJB?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -1091,7 +1158,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-06T13:35:46.000Z",
-      "originalHeadline": "السعودية تفرض رسوما�� 2% على تصرفات غير السعوديين العقارية في 4 مدن رئيسية - العربية"
+      "originalHeadline": "السعودية تفرض رسوماً 2% على تصرفات غير السعوديين العقارية في 4 مدن رئيسية - العربية"
     },
     {
       "headline": "Oman's central bank issues treasury bills worth OMR60.8mn",
@@ -1821,7 +1888,7 @@
       "originalHeadline": "البحر مقبرة الذكريات .. لبنان يتخلص من 8 ملايين متر مكعب من ركام الحرب"
     },
     {
-      "headline": "A fourth meeting between Trump and Sharaa...a new Syrian role in the region?",
+      "headline": "A fourth meeting between Trump and Al-Sharaa... a new Syrian role in the region?",
       "url": "https://www.aljazeera.net/news/2026/7/6/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A7%D8%A8%D8%B9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%AF%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -3056,27 +3123,6 @@
       "date": "2026-07-06T10:08:59.000Z"
     },
     {
-      "headline": "Chdia dominates at Hamburg to claim UAE President’s Cup for Purebred Arabian Horses title in Germany",
-      "url": "https://www.wam.ae/en/details/c132r1t-chdia-dominates-hamburg-claim-uae-president’s-cup",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-06T10:07:27.606Z"
-    },
-    {
-      "headline": "The results of the second quarter may return liquidity to the leading stocks on the Kuwait-Arab Stock Exchange",
-      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxNX1VNRjBlNmtZbEgyWDQwcUw4QmpHMDBITnBpODVZQS11V1RCRzhEMElYdU90ZDkxNWJycWN5NUtZbTJ5a3RsVkl6S0dQVXpVRVd1TXN6MVYyaVdzY1lBenRZR3lUakh4blBiNUhtT2o0X05TOGdoUzlLNGIzTm1UVGFUTmdaeEpIWDV4N3RJTEFwakVZN19oSHJVLXR3OFhnVWhZNDkxakIyLUR0SW5teGd1R2l5cE1JdDBZbWlwZUMwc3AyVlhsRnY1NkVJbERjWkpWNDBqZWVuYUoxVjNnZkRxMFlzVlFEb3BkdmhDSjFQd2R2bFZWN25JZERlUFdjdExFLWhSWWo3QmtLU3dRYlRFMFNvT2V0TkZDdHVKNkZjNFN1RUlJVkx4OEF3TEFBQzNmZUlObFpELWd0VVdzdzZYYjlDR0Q4Y0dsbmlYZ2pUNWxmSHg0Q0VOZlhHbGtrTFdHVTBFQmdYaWp5VlRnbm8tb0JzdXR5ZDFXZzhvdWg4cUtTLU1GRGZsVzAtOF8xSTA5c2huTGlOSktwQWtBRzhiLVVOd0VORWpUU3J4TG0zSWNMUGVJQVRlSjg4Y2FQVkxqOWRfdkxZMFdvOFdCaUZjWkhhM09reU84ZTI3M2JFY1l6YnpGUkoxLTJ3eFMtaW5TZUkxX3pDaV85aHZMNTVFRDhBSE4ydDczeWViN2FNeE1ZTzRiaGRXekh6azBURmR5ZG5RWlNLTGMzbDR4RW9iQXkxdVRuZG9yWVlFVHZrZTBOMl9xOHhoSDU5TGp0Q0xF0gHYBEFVX3lxTE5PWEJXYzktOXFYYmNPbHZkMVhQa2VuYW1GX29KR0NINEdLY2tpQWR3QU5seUxwLTgzX0gzUTZoRHhjLTB0Ylk2OW85R1JEb3RvTDYzWlNJcHA4VVBDVnpHa0tuakhtOXdyUGhLQVJFYmdOM1NnektJbm5LZ3ZtVlRoS1JCdDNZSmUxc2ItWWE3cTlFN1VWZHRJY19naDNrME9WN0lVZDh0LXhQQm9xU0FKb2U1RmJZUTlKeFRIOFRrTVJiWTVvbnhMZFZQUmN4Y0p2dnFhUVhlSlBYSTI5SUFHdFZhTi1BRDJOQ2ZDQTR2VU5qWjR6WXl0ejYtbkJBeE42akI1MjZvT1N3V3dudzhZQTZuOG5FTENidlptNFFEdHhsdno5Q2I1Y0FHUU1iOWRIa0lqRm1tdUJlTkQ4aDNxQ0k4UXVkLVlRRjlNcE1DRnZoeDFyS0EyYWI2Yno3MDRCM0dsMkNsZWxEalR1OENObVFRV1NBeFFSODhNU1JfcDkxa09jU3ZzeDlPT25lelNISWNzaThMbjF0ZmRTZnBfTldPTUpES29LaGJfcE5DTk5PR0ZDMEdQc2pqalFzMjhLV1lKVUtjaWFBckNvSWoweVpwNTNjd3R3MldIZ2xoNDh1aEtBVzdYZXdoOFhiWmMxeVFUeWZDVXNnV3NiMUQ4eVFBTTV4NU13S25RdlRqZGJkRW5RM29IVEh1SlhFLURheVFPU1VxWWJCNlp2RGlzcEtGMlhyZzF1OERKRGw4d01nZmMwbENfeFExUU9ocVBFaHgtZmlMbQ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T10:07:00.000Z",
-      "originalHeadline": "نتائج الربع الثاني قد تعيد السيولة إلى الأسهم القيادية في بورصة الكويت - العربية"
-    },
-    {
       "headline": "#Kuwait's Deputy Foreign Minister receives #Omani Ambassador Dr. Saleh Al-Kharousi on the occasion of the conclusion of his tenure as the Sultanate's ambassador to the country.\n\n\nhttp://\now.ly/VVAT30sWYiF\n\n#KUNA",
       "url": "https://x.com/kuna_en/status/2074072485473980424",
       "source": "Kuwait News Agency (KUNA)",
@@ -3085,49 +3131,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-06T10:06:29.000Z"
-    },
-    {
-      "headline": "Qatar Energy reduces LNG shipments to Bangladesh by 50% in 2026 - Arabic",
-      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNWU1MR1d1aEhHc0dpSjg1RjdzOEpXOTJoNllRdWRTQ1NDWVJIbHZtdUlVVXg2aFMyYU1wU3gzREozZVlwMW43X1VnTVFPb2k3Y2xvQldIOHJTOHNZUGwzQ0hxOW1YRzJoc1FMaHZRRjVrTk1yZnJWZUYtS1ZlQTluN1JpT1JQUGgyQVltX1lsQ2tpLVE3Z3FsUEJucWt6QWZCWHlxbDJPSDZNaE5TdkxBVXlwbHR1Vm9LYnhmY0Z1MmhxNlJCdlZKVEM2NWtLZDNWVEhNby03bGpvMFpRT0lTdTNCRU1YQlFDWnpaa1hZdk9ET0VzYlpoR3RnR1ZwNFk0SDBIX3Z1M3NzR3Z4MG12VVBadzZNRVN6LW9tZWw1SVZSeEgzMTlQZWh1MUZCTlRaVVU0a2ZjVFdxU2FWanRjTlFna2FQbDJfQWVSV3p6WlhMZWdPdXAzUlJVUzZyTzJXQWlFWWpwVXhPSkllVW91VGFjZUVwQUhteVlMZEVFWWFILURlTEdhNmxWZjktMGdmT25fb0hvem9CeGMyN2xmRWkyOGd6dkE3WUM0alFEeUhTQ1RPWWJEdEpJVTRXcGtCbVZQZmZwQ3hrVklFOUw5YzVnU0pRQ2xwV0pNbkxCOFlXUFF3WGFQcjEtaDFhYkJMOGx3MjVYdXh2azZBaVZMdnVB0gGCBEFVX3lxTE1ZTUxHV3VoSEdzR2lKODVGN3M4Slc5Mmg2WVF1ZFNDU0NZUkhsdm11SVVVeDZoUzJhTXBTeDNESjNlWXAxbjdfVWdNUU9vaTdjbG9CV0g4clM4c1lQbDNDSHE5bVhHMmhzUUxodlFGNWtOTXJmclZlRi1LVmVBOW43UmlPUlBQaDJBWW1fWWxDa2ktUTdncWxQQm5xa3pBZkJYeXFsMk9INk1oTlN2TEFVeXBsdHVWb0tieGZjRnUyaHE2UkJ2VkpUQzY1a0tkM1ZUSE1vLTdsam8wWlFPSVN1M0JFTVhCUUNaelprWFl2T0RPRXNiWmhHdGdHVnA0WTRIMEhfdnUzc3NHdngwbXZVUFp3Nk1FU3otb21lbDVJVlJ4SDMxOVBlaHUxRkJOVFpVVTRrZmNUV3FTYVZqdGNOUWdrYVBsMl9BZVJXenpaWExlZ091cDNSUlVTNnJPMldBaUVZanBVeE9KSWVVb3VUYWNlRXBBSG15WUxkRUVZYUgtRGVMR2E2bFZmOS0wZ2ZPbl9vSG96b0J4YzI3bGZFaTI4Z3p2QTdZQzRqUUR5SFNDVE9ZYkR0SklVNFdwa0JtVlBmZnBDeGtWSUU5TDljNWdTSlFDbHBXSk1uTEI4WVdQUXdYYVByMS1oMWFiQkw4bHcyNVh1eHZrNkFpVkx2dUE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T10:06:00.000Z",
-      "originalHeadline": "\"قطر للطاقة\" تخفض شحنات الغاز الطبيعي المسال إلى بنغلادش 50% في 2026 - العربية"
-    },
-    {
-      "headline": "Qatar Energy reduces LNG shipments to Bangladesh by 50% in 2026 - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQbXEzR0RGbmwwRTVPUVNsT2NGdGpvTS02WTgzT3RzZ0ZnWTZPNmV4X29pUW1LaF8tVGc4UXc0Q3NHLXEyaGM3SHVYWWZGbk0tS3ZHSUFXQVlHMG40U3hMRV9mcllzSkV3dFhRTGJZcHc2MmFWZFFiUVV4dmVkRHBHR2wzMndaQ1ctanJEUDUwZ2t1SEdJUF9KRnFOeTRsT1hrUUc3S015ZmN0Zks0UkprTGk0TGpqdmZRREI0dzNzcGdoVlk5Z0pjLU50Y2t1aTBFNDdSQUF5akhxRkptM0JITWs3Zkt3UXZaWmpuMmItcEJxX1FZYlZScktDSUZLUlJFNmZDUkZpLXRpWUxVS254eHowdS12RjVtOU5zQkNiVGpBTGg3Ry0yUnc3Y1g1Q09MN19DTUUteUtTcUtNaUQtVW1DVS11R3FNZWZDQW1YLW9tbXJrNlFkLVJuTTJzMS1LbHNweUdtSXR1c00wMERkWU9TSmMwWUliMmxCZktuRUtuZ3ByLXFGRVdibHN3YVdoUDFpeXlILU1LWWlPNk9iS043cGJqdXhYb0d3ZGMwSkt1WDRpTC10NjduYjRSWVRjZW5YNXUyblFDR1N0a0NjeFNfcjRmcUpyTXhoRlU3QktUV2Z1UWFIUUVDMnZldkt0enVUSTlfMXZ2eTha0gGCBEFVX3lxTE1ZTUxHV3VoSEdzR2lKODVGN3M4Slc5Mmg2WVF1ZFNDU0NZUkhsdm11SVVVeDZoUzJhTXBTeDNESjNlWXAxbjdfVWdNUU9vaTdjbG9CV0g4clM4c1lQbDNDSHE5bVhHMmhzUUxodlFGNWtOTXJmclZlRi1LVmVBOW43UmlPUlBQaDJBWW1fWWxDa2ktUTdncWxQQm5xa3pBZkJYeXFsMk9INk1oTlN2TEFVeXBsdHVWb0tieGZjRnUyaHE2UkJ2VkpUQzY1a0tkM1ZUSE1vLTdsam8wWlFPSVN1M0JFTVhCUUNaelprWFl2T0RPRXNiWmhHdGdHVnA0WTRIMEhfdnUzc3NHdngwbXZVUFp3Nk1FU3otb21lbDVJVlJ4SDMxOVBlaHUxRkJOVFpVVTRrZmNUV3FTYVZqdGNOUWdrYVBsMl9BZVJXenpaWExlZ091cDNSUlVTNnJPMldBaUVZanBVeE9KSWVVb3VUYWNlRXBBSG15WUxkRUVZYUgtRGVMR2E2bFZmOS0wZ2ZPbl9vSG96b0J4YzI3bGZFaTI4Z3p2QTdZQzRqUUR5SFNDVE9ZYkR0SklVNFdwa0JtVlBmZnBDeGtWSUU5TDljNWdTSlFDbHBXSk1uTEI4WVdQUXdYYVByMS1oMWFiQkw4bHcyNVh1eHZrNkFpVkx2dUE?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T10:06:00.000Z",
-      "originalHeadline": "\"قطر للطاقة\" تخفض شحنات الغاز الطبيعي المسال إلى بنغلادش 50% في 2026 - العربية"
-    },
-    {
-      "headline": "Distinctive results for graduates of Qatar University 2026 - Qatar Mersal",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNTVsLWc4cjlJQm5wb0R4QWROQWxSTGFjUmE5a0tOQXJXN1RtOXhoNnV1VkVmS2NkcGpBb0VKY1J1a2RaRFZUbWFkLW42ZUMyMEIwSklfYU5weGxNRkxDd19PczlRblloMVVUdDhfOEFaZ3had0lIc3JTdXczcGtzcjNQd3Z2NTV2UTFjNmhUUlpOcWVxVHR3c3huMU51OWFuYTJPSHlLWHpBRTBtaWZ5em5jbTdGYkU3NWJJQ2IweXdUV1VlemhqRUNMNnBFd04tak9Ba1l3YTBieXFmX0czcjYzUF90VFpOSF9CczczdnZKV0g3WVpNbjMzb3VZY09EN2x4YlR2MGx4ZTFLZ2ozYUhFY0Jxcm5l?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-06T10:01:03.000Z",
-      "originalHeadline": "نتائج مميزة لخريجي ��ب جامعة قطر 2026 - مرسال قطر"
-    },
-    {
-      "headline": "QatarEnergy halves 2026 scheduled deliveries of LNG to Bangladesh, Petrobangla says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0J5LUxnMjQzQnJzTlB6QTlKM0lvdjVYdXFFLXY2U1Q2NnNxQzlZbTdJMkRod1NnVnMtMFpUSmVrRG03RC1CajVzb01kbnBKOUNrQVV6eVRjMEd1NEMxQVRlRWZiYlVSWFpkRW9HWTJLQ1dwMXYySVd2WmVSR3hFSFhsSllWWUZxdTdDanY1U3o5alhGNERkQmlzZmxxd1ZhLUdPUlpVc2djT0EtOGVCemRrbDJIWUtlcHpEazhtREpuamU2ZS1Z?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-06T09:59:31.000Z"
     }
   ]
 }
