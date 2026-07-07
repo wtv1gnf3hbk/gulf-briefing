@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-07T17:03:19.258Z",
+  "updated": "2026-07-07T17:18:57.335Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Egypt condemns terrorist plots targeting Morocco's security, stability",
+      "url": "https://www.wam.ae/en/details/c13o78a-egypt-condemns-terrorist-plots-targeting-moroccos",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-07T17:10:23.326Z"
+    },
+    {
+      "headline": "King Abdulaziz University Students Place Seventh at MATE ROV Championship in Canada with Innovative Robotic Submarine",
+      "url": "https://spa.gov.sa/en/N2629280?type=news&uuid=N2629280",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-07T17:06:42.000Z"
+    },
     {
       "headline": "Arab Parliament condemns terrorist bombings in Damascus",
       "url": "https://www.wam.ae/en/details/c13o789-arab-parliament-speaker-condemns-terrorist",
@@ -62,6 +82,16 @@
       "language": "ar",
       "date": "2026-07-07T16:35:24.000Z",
       "originalHeadline": "ماذا نعرف عن الأصول الإيرانية المجمّدة؟ وما علاقة قطر والعراق بتلك الأصول؟ - BBC"
+    },
+    {
+      "headline": "Qatar says Iran struck tanker in strait as vast crowds mourn Khamenei - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-07T16:32:45.000Z"
     },
     {
       "headline": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says - AP News",
@@ -1478,16 +1508,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-07T13:14:01.891Z"
-    },
-    {
-      "headline": "Qatar blames Iran for striking tanker in strait as huge crowds mourn Khamenei - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-07T13:09:34.000Z"
     },
     {
       "headline": "Dubai Press Club announces 3rd edition of Arab Podcast Program from 13 July",
@@ -3014,30 +3034,6 @@
       "date": "2026-07-07T10:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | مقتل وإصابة 1200 عسكري روسي خلال 24 ساعة"
-    },
-    {
-      "headline": "Mauritania and how it defeated armed Salafism?",
-      "url": "https://www.aljazeera.net/politics/2026/7/7/%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%83%D9%8A%D9%81-%D9%87%D8%B2%D9%85%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-07T10:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "موريتانيا وكيف هزمت السلفية المسلحة ؟"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | 452 Ukrainian drones were shot down overnight",
-      "url": "https://www.alriyadh.com/2196802",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T10:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | إسقاط 452 طائرة مسيرة أوكرانية خلال الليل"
     },
     {
       "headline": "A Grand Farewell of Millions for the Leader of the Islamic Revolution, the Martyred Imam Ali Khamenei, in the Iranian City of Qom\n\n#قوموا_لله",
