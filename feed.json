@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-07T12:02:54.809Z",
+  "updated": "2026-07-07T12:17:54.154Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Bitcoin Suisse enters Middle East through ADGM licence",
+      "url": "https://www.wam.ae/en/details/c13o6ts-bitcoin-suisse-enters-middle-east-through-adgm",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-07T12:14:48.096Z"
+    },
+    {
+      "headline": "Italian minister downplays Trump's jibe at Meloni",
+      "url": "https://timesofoman.com//article/174070-italian-minister-downplays-trumps-jibe-at-meloni",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-07T12:14:30.000Z"
+    },
+    {
+      "headline": "Total credit granted by Oman's banking sector rises by 11.5% to OMR37.4bn",
+      "url": "https://timesofoman.com//article/174069-total-credit-granted-by-omans-banking-sector-rises-by-115-to-omr374bn",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-07T12:12:25.000Z"
+    },
+    {
+      "headline": "Prime Minister of Senegal receives written message from UAE President during meeting with Shakhboot bin Nahyan in Dakar",
+      "url": "https://www.wam.ae/en/details/c13o6tr-prime-minister-senegal-receives-written-message",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-07T12:06:59.000Z"
+    },
     {
       "headline": "Foreign Minister Meets with Irish Counterpart",
       "url": "https://spa.gov.sa/en/N2629072?type=news&uuid=N2629072",
@@ -61,6 +101,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-07T11:39:33.000Z"
+    },
+    {
+      "headline": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-07T11:37:00.000Z"
     },
     {
       "headline": "MDO signs partnership to explre copper exploration project in North Al Batinah",
@@ -175,6 +225,29 @@
       "date": "2026-07-07T11:16:30.000Z"
     },
     {
+      "headline": "Millions of mourners highlight regime strong social base despite Iran divisions | Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/07/millions-mourners-iran-regime-social-base",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-07T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Damascus explosion: Casualties were caused by two explosions in the Syrian capital coinciding with the visit of French President Emmanuel Macron",
+      "url": "https://www.bbc.com/arabic/articles/c0my7vrl078o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-07T11:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "انفجار دمشق : إصابات بانفجارين في العاصمة السورية تزامناً مع زيارة الرئيس الفرنسي إيمانويل ماكرون"
+    },
+    {
       "headline": "Why have system updates become more important than phone specifications?",
       "url": "https://www.aljazeera.net/tech/2026/7/7/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A3%D9%87%D9%85-%D9%85%D9%86",
       "source": "Al Jazeera Arabic",
@@ -197,29 +270,6 @@
       "date": "2026-07-07T11:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مقتل 9 من الشرطة في هجوم جنوب غرب باكستان"
-    },
-    {
-      "headline": "Millions of mourners highlight regime strong social base despite Iran divisions | Iran",
-      "url": "https://www.theguardian.com/world/2026/jul/07/millions-mourners-iran-regime-social-base",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-07T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Damascus explosion: Casualties were caused by two explosions in the Syrian capital coinciding with the visit of French President Emmanuel Macron",
-      "url": "https://www.bbc.com/arabic/articles/c0my7vrl078o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "انفجار دمشق : إصابات بانفجارين في العاصمة السورية تزامناً مع زيارة الرئيس الفرنسي إيمانويل ماكرون"
     },
     {
       "headline": "Dubai Media Council convenes industry leaders to shape next phase of gaming sector’s growth",
@@ -260,6 +310,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-07T11:05:05.000Z"
+    },
+    {
+      "headline": "Saudi Arabia condemns the Damascus terrorist attack and affirms its support for Syria’s security and stability - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPTVlValdyVUEyWUpCQUwxRTlrUEl3U1BUUDZWblpFcUlEeVcxZDEyY1Q4YXZBTmhuMlh6dThEWGg5Y2pGNi1BOEVVc0h6cm9OX1pjWmZNOVo1S2N0UkVrMk1oelh3SkdqbEpaVDg5RkhaRmFYdTZDSXg0My1kVDdjVno0R2ZCR3h5NGpxaERSMU5mTGRPRU9JdC1WUExUNmlWUndwTkY0Q1JzNmZOa2w0dlVVaXlTdXpJRlR3X014dmJvanhXazUwUFc3SF9FZjNFdWVBdm5pdzlRTU5BRnpYWVozbGlrSzQzMEhHdUtOdTlxQjhFLVFqRnBFOUs1NGxMRG02RmZrNzVFV3dEU19RN0ZITWI0U3N5T2tyWVJSTjkzSmQzc1J6TEhtX3VhaU5JOXdXVEg4YjNRTnl3aWJLZDI3LVdHaVNRankyalBTT2dBbVVxUUhkX1VMYlRCbDVmTUZMcFFxR3dwTTdkVF9YMll3UENIUzR1UXZ2WERYNVZyVDB5NktiM0RGZmR4MHFZVjJYYVA4UFhLbWZZWHphaFpERTcyLXFfVVZLNXJqUnRWOURyNGJKRnktVDdBWTczb01XMWM3RVRCb3A3bUIyTWh0LXh4QTJYMlUyeE9OWGQ2VXZwbk5TcFR1YkI0VW10S2JrcTFLd1R6R3FuTmRFbFNVcm9SVHpoS08zWnQ0YzdMVEFxTnI0b3pJcC1LcEZjVERMYVRraWtPenVsb2dyMzNFMTBoaFnSAbcEQVVfeXFMT01ZVWpXclVBMllKQkFMMUU5a1BJd1NQVFA2Vm5aRXFJRHlXMWQxMmNUOGF2QU5objJYenU4RFhoOWNqRjYtQThFVXNIenJvTl9aY1pmTTlaNUtjdFJFazJNaHpYd0pHamxKWlQ4OUZIWkZhWHU2Q0l4NDMtZFQ3Y1Z6NEdmQkd4eTRqcWhEUjFOZkxkT0VPSXQtVlBMVDZpVlJ3cE5GNENSczZmTmtsNHZVVWl5U3V6SUZUd19NeHZib2p4V2s1MFBXN0hfRWYzRXVlQXZuaXc5UU1OQUZ6WFlaM2xpa0s0MzBIR3VLTnU5cUI4RS1RakZwRTlLNTRsTERtNkZmazc1RVd3RFNfUTdGSE1iNFNzeU9rcllSUk45M0pkM3NSekxIbV91YWlOSTl3V1RIOGIzUU55d2liS2QyNy1XR2lTUWp5MmpQU09nQW1VcVFIZF9VTGJUQmw1Zk1GTHBRcUd3cE03ZFRfWDJZd1BDSFM0dVF2dlhEWDVWclQweTZLYjNERmZkeDBxWVYyWGFQOFBYS21mWVh6YWhaREU3Mi1xX1VWSzVyalJ0VjlEcjRiSkZ5LVQ3QVk3M29NVzFjN0VUQm9wN21CMk1odC14eEEyWDJVMnhPTlhkNlV2cG5OU3BUdWJCNFVtdEtia3ExS3dUekdxbk5kRWxTVXJvUlR6aEtPM1p0NGM3TFRBcU5yNG96SXAtS3BGY1RETGFUa2lrT3p1bG9ncjMzRTEwaGhZ?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-07T11:05:00.000Z",
+      "originalHeadline": "السعودية تدين هجوم دمشق الإرهابي وتؤكد دعمها لأمن سوريا واستقرارها - العربية"
     },
     {
       "headline": "Saudi Arabia condemns the Damascus terrorist attack and affirms its support for Syria’s security and stability - Al Arabiya",
@@ -960,6 +1021,17 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-07T09:37:10.000Z"
+    },
+    {
+      "headline": "\"Kamco\": Momentum for the leading stocks on the Kuwait Stock Exchange since the beginning of July - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOX2R4MldXWXZxeVI2NlVCRzVpVUw2NnNBVWs0QmJSYVJIc09tUkNtT21fdU84NzZuZkktZ25NNUNzaHNNalZXNHQ4aTM0OGtvUDJnSXlvNTBXdmYxaFRCOVFLUTdYN1BTMDcySEowdThmeF9xZ0o0LXREMUFvanFmbkVFaVRsUWFlczJ4aWtDWEZ2YV9hNnlkbTI4Q2pVTlAtQlIweWN2ZmRZMjRWQ1JqRFFnVlZrUmRGdVl5Y0dRYUdkOHVqajM3ZnIwa2ZIWjNRbjNBQlF5R3RLMXNEM1hOQmxDQy1LbDZKVDI0MngwZjd5RHluTnRkc0ZkeXVJY3Y5S2NYOGpSTlZPNXVhVHRwRmZGUmI2VTBQaFVrdzI4eUl3eXY5c1VxR09zMndhMjY5b0t4VUdnVHRxQUJSVl9pQjhCMWRac29qdktpWHV6Vk50Vjg2S2dNNHlhMW1xQ1RDdjdlWm1Vb2xzaldoZFVzODFoMFB0WmF5djJSNGlLMlpudnF1UXQ0ck1sQl9OMTBidnNTTmhuS1drVEFDOGlEdGNpMm1yUDdUQlNFUXhlcUtFR1NqYlVtdUVlNHNSd0o0WDlXblF1bUVTWDluWUNycmV3bGlPUVpwdGdhejdNMFROSDMwNjUyczc5Qnk1SmdDckNfQWVB0gH2A0FVX3lxTE5fZHgyV1dZdnF5UjY2VUJHNWlVTDY2c0FVazRCYlJhUkhzT21SQ21PbV91Tzg3Nm5mSS1nbk01Q3Noc01qVlc0dDhpMzQ4a29QMmdJeW81MFd2ZjFoVEI5UUtRN1g3UFMwNzJISjB1OGZ4X3FnSjQtdEQxQW9qcWZuRUVpVGxRYWVzMnhpa0NYRnZhX2E2eWRtMjhDalVOUC1CUjB5Y3ZmZFkyNFZDUmpEUWdWVmtSZEZ1WXljR1FhR2Q4dWpqMzdmcjBrZkhaM1FuM0FCUXlHdEsxc0QzWE5CbENDLUtsNkpUMjQyeDBmN3lEeW5OdGRzRmR5dUljdjlLY1g4alJOVk81dWFUdHBGZkZSYjZVMFBoVWt3Mjh5SXd5djlzVXFHT3Myd2EyNjlvS3hVR2dUdHFBQlJWX2lCOEIxZFpzb2p2S2lYdXpWTnRWODZLZ000eWExbXFDVEN2N2VabVVvbHNqV2hkVXM4MWgwUHRaYXl2MlI0aUsyWm52cXVRdDRyTWxCX04xMGJ2c1NOaG5LV2tUQUM4aUR0Y2kybXJQN1RCU0VReGVxS0VHU2piVW11RWU0c1J3SjRYOVduUXVtRVNYOW5ZQ3JyZXdsaU9RWnB0Z2F6N00wVE5IMzA2NTJzNzlCeTVKZ0NyQ19BZUE?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-07T09:37:00.000Z",
+      "originalHeadline": "\"كامكو\": زخم للأسهم القيادية ببورصة الكويت منذ بداية يوليو - العربية"
     },
     {
       "headline": "\"Kamco\": Momentum for the leading stocks on the Kuwait Stock Exchange since the beginning of July - Al Arabiya",
@@ -1919,16 +1991,6 @@
       "originalHeadline": "قطر للطاقة تخفض شحنات الغاز المسال إلى بنغلاديش بنحو 50% - CNBC عربية"
     },
     {
-      "headline": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-07T06:47:00.000Z"
-    },
-    {
       "headline": "Registering “Tadweer” within the market compensation mechanism for balancing greenhouse gases in Saudi Arabia - Arabic",
       "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPcXZoZTlhUFg5aTNaQzlEZkU2eFlDUWNMYzY5Rm5fcy1qQkdJalZ1T0VlNUVsajdPU1ozazlaNmdadFYyQWZNc19ubjhFQnBNeFlnWm9SSXRBbHFoTXpfQXUzaEpMcUFsRXNNbWpGYklZZjJ5YjdwcmhLdUg3MHVDUVg3eGo1SDIxc1dwRXlncDJBWkUybXdERGx4cl9LSmI3NVdaVWRfRUJuOE9rN2I4N2ZZa0R1UzFkN3lDcWczczVLb0lVUmVaUy1PWE12ZWxMVVBVR0lOeFhsX1NHUEV6WGZzaFY0d3R5UHNTRWJ5eG9uUWQ2YVd5MzdZSTAtQUd5OUdXN3JBZC1GQUtuNlktaUJyUjlZU29EV3lPS3dpb21yMDByeFd4TDJxSFhRY3A0LVRSVm9zMDhvQllwb3Y2bi1UbDFxOHVNLWRHTlJsWUlxaFJka0ZrWEJOUjluTkdYNF8zMjBtMnBXVHBDNG9wSER6TldDY2g4OVI2MDJERFdrZVR4N213aEhjY3E4eGpDT0wtWkMtVHR1bjhuWHUxNkZNdGxYc3IzbnJZOFZ1T2pQYmxNYnJzNFFrNzZhejFqN3AwczNXVm9JWm8zenlPclUyYmlOb1VQZUJyVFllaGFvSk0tTE9qbktub3lhLWpCTWE4aFJIbFQyRVVMQmdrV1czMGNKOVFLN3hhVjFTM1VKTzk0RHRzamhvMDlpcEgzbGNQNlhMb2k4OTZ2ZUlCdzk4OUZmazh4X1BuZHRTS3BMcENfcUszSUNuQWI5a2dDcm5vcTRncjBlaXFIb2NHLWpRQ3B4Nk14Mk9STTJB0gHuBEFVX3lxTE9xdmhlOWFQWDlpM1pDOURmRTZ4WUNRY0xjNjlGbl9zLWpCR0lqVnVPRWU1RWxqN09TWjNrOVo2Z1p0VjJBZk1zX25uOEVCcE14WWdab1JJdEFscWhNel9BdTNoSkxxQWxFc01takZiSVlmMnliN3ByaEt1SDcwdUNRWDd4ajVIMjFzV3BFeWdwMkFaRTJtd0REbHhyX0tKYjc1V1pVZF9FQm44T2s3Yjg3ZllrRHVTMWQ3eUNxZzNzNUtvSVVSZVpTLU9YTXZlbExVUFVHSU54WGxfU0dQRXpYZnNoVjR3dHlQc1NFYnl4b25RZDZhV3kzN1lJMC1BR3k5R1c3ckFkLUZBS242WS1pQnJSOVlTb0RXeU9Ld2lvbXIwMHJ4V3hMMnFIWFFjcDQtVFJWb3MwOG9CWXBvdjZuLVRsMXE4dU0tZEdOUmxZSXFoUmRrRmtYQk5SOW5OR1g0XzMyMG0ycFdUcEM0b3BIRHpOV0NjaDg5UjYwMkREV2tlVHg3bXdoSGNjcTh4akNPTC1aQy1UdHVuOG5YdTE2Rk10bFhzcjNuclk4VnVPalBibE1icnM0UWs3NmF6MWo3cDBzM1dWb0labzN6eU9yVTJiaU5vVVBlQnJUWWVoYW9KTS1MT2puS25veWEtakJNYThoUkhsVDJFVUxCZ2tXVzMwY0o5UUs3eGFWMVMzVUpPOTREdHNqaG8wOWlwSDNsY1A2WExvaTg5NnZlSUJ3OTg5RmZrOHhfUG5kdFNLcExwQ19xSzNJQ25BYjlrZ0Nybm9xNGdyMGVpcUhvY0ctalFDcHg2TXgyT1JNMkE?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -2042,6 +2104,16 @@
       "language": "ar",
       "date": "2026-07-07T06:05:07.000Z",
       "originalHeadline": "\"قطر للطاقة\" تسعى لشراء أول شحنة وقود طائرات منذ اندلاع الحرب - معلومات مباشر"
+    },
+    {
+      "headline": "OPEC is likely loser in Gulf’s post-war race for market share - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG5Db0hNbUhIdE9ZZ3RzbkpzdlA2YkdvNlF5WWFrU3hvbjdfX2lSeTlSVHkyMnRsOWltZnAxUURyeEVzYm1fUERPVXZETy1TcFZTT3F4cDJ6QWNsZ1NlN1A4bko5MGhBMmFiT3VpS2tUZmFsQ3FFei1CblJNeUtpQnFRQ01FejlldzJweDgxX3ZNdXlSeENGb2U0NEYyMVd0RmNPOTFfUVZyQ01rTUs0VktEWWZTV09vYlZMa3RHdw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-07T06:05:00.000Z"
     },
     {
       "headline": "GCC and Italy Sign MoU to Strengthen Cooperation and Partnership",
@@ -2289,26 +2361,6 @@
       "originalHeadline": "السعودية تمنح \"أكوا\" حقاً حصرياً لتصدير الهيدروجين الأخضر ومشتقاته - الشرق بلومبرغ"
     },
     {
-      "headline": "Abu Dhabi Quality Policy Committee reviews measures to enhance competitiveness",
-      "url": "https://www.wam.ae/en/details/17b60mr-abu-dhabi-quality-policy-committee-reviews",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-07T05:10:14.143Z"
-    },
-    {
-      "headline": "Saudi oil price cut unlikely to convince sated Asia buyers, traders say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHpLWVZhbTZ4T3lnM1hLbUppZkMxN0FfamRQT2JsWnBhMC1nNWdMdjhSbHp3WTduWUpBdEdXRUNtQ0tZdjBWTDByY2UzMzlCbnZOdVkyMUFYU2cyTkZEQVIxSTVZV2JNejlmY2pvUlpzWm03S3JWaG9mMTk0bFNrQ2ljMS12bzlGSjRJanlzNUFVSXNyczd4S1c5N3o5QmVDdXRxdWdNLW5oa253bTJyRUFmSlpHVGpzVng4?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-07T05:06:00.000Z"
-    },
-    {
       "headline": "As part of enhancing institutional partnerships and exchanging expertise, a delegation from the Ministry of Defense visited the Hamdan Bin Rashid Al Maktoum Foundation for Medical and Educational Sciences, with the aim of learning about best practices and modern methodologies in",
       "url": "https://x.com/modgovae/status/2074358070227165204",
       "source": "UAE Defense Ministry",
@@ -2317,62 +2369,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-07T05:01:18.000Z"
-    },
-    {
-      "headline": "How did changing the direction of a car change the fate of the Middle East?",
-      "url": "https://www.bbc.com/persian/articles/c6215vz1465o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-07T05:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "چگونه تغییر مسیر یک خودرو سرنوشت خاورمیانه را تغییر داد ؟"
-    },
-    {
-      "headline": "Gold prices in Qatar stabilize as investors await US monetary policy signals - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOTFIzbW1UMEV1Z1VMNk5GRG1RRWhzMEh6ZDZySl8zRklURE85V3NKSVVlNVRmRWx3MXdMcE5NbDFrRVYwck5OS3c2NXUwZkMxY1pOY3JIaVkzUVlJampIY3JoVFNmSVA4di16VFB1Qm5RbGxGUUJJTWlkSnYwLU5SV254NV9RVDdDdlZNcXp6ZDNROGtHNjZ6LXFmSTRfazhhVktYYUxFUnNnWDBVNGVZVGtSRUVwWTdKX3k0YXc5VWc2Z2prcTFjUXpwRWFRZEpxUFNwWUZNMlpQSHJEUnY4UjF0MUlrVDlackNBSzI5SzZfRXJ2X3FtdVpvM3JKdHpKRUo0Q0lKRzhGamlpTGxMeXEtZ3V6Y0dHdEVXdm1OLXJwcnRHdE1HTEd3Wk0zc2RNSDVvaWFZVUFKbERLR0JBSWR3VjYwakcwVUMzaF9HVHlac1hZWWZRY2pybGJiaWZPWDhZRUpoY1o2RmNLSTdSQnVydkw5VU5sTUQwSjVQaXVVXzdOcTJhSEhjOXlYWTFfR092Q1R2X200X19qYnhNVkM2VWhFSnI4SjZ3S1ZMWk02ZG96dENady1kNzdYZTl6TzhDS1JyRjZtR19CM2Z0M3Q0MldyTkI3bV9KUzFiLXBiUkljaE8ydHRNU2tlTFpMMkxVcVVHTndNbjFo0gH3A0FVX3lxTFA2SHJ3OHhqUFJnV3ZaRHg3M3dlYkJaTm5UV2JCQW5yZ0lYZ2w2LXVTZ0J3UkhCTkFqQzRHVnoyYld1c0NVa0ptMXpiNkJ2Z2x6YW5VeWhzcDJrdGFGRHViNzlRenNYWUxWS2ZQY3pfLWlvUlZEVkd2cVh4N3pSaFJLTkFMclc0SzRKVDVRWkF0d3ZmUVlMY3l4N3NMX1g0LTM1dWxaM2YzdjhyTmk2NWJpR2ZuRllWOWZULWpySExsSzNKME9SNlBXLVp3aGVqZ2wycVNhZnVveWJvblpUQ1ZkUlRMeUkwTjlQN3R5ajFkeW52WXNoaDNxUnF2bTdaOUJKQ1FUSUNFeUd4dUJGZ05BMmNqdUVjWkdoUXFOWExvaEFTVzRtMURneDdXOGU3cFQzZU5ETEQwRTVZUmVQeE00NlZRVlZ0VkpPNjVXQVk3RG9lLUNXNGpEdGVZUThmX1FyMUxqR0FPbDNRUlJReVpxaWRaNjUxZmNFaVVMOTNwdHRwVWNmQXdsSEo3ZV9ER25ram9yczVvMktUVWZqbzIybVRBeFNPWG9PaHRSZUhBMEw5VnNaaUdIbmxkUXYyY1FpTWdsN0t1VmRLbkI5SFBEemxzYnFtMGkycEsycTYtSnE3QS04UTh5ODc5eWpkNU9TaWFIdjVv?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T05:00:00.000Z",
-      "originalHeadline": "أسعار الذهب في قطر تستقر وسط ترقب المستثمرين لإشارات السياسة النقدية الأمريكية - اليوم السابع"
-    },
-    {
-      "headline": "Gold Prices in UAE: Interest Rates on July 7 - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGJSRzY4cUZOUkhKUURuV1RKemRsUkdHeDRzR2szclpXdDhLMHpHaU85dko3aDNyZDB0NUlSQjN0WDVjMktLRlk0Nnp1TGZBMy1XUVhZdUo0cGNYN2Y3dDhWNi1WY3lodzJNbVM4X2N1SWFkenZEaFFVdUdxT1JjZGloVk1Ma2J0WnhhWjhfWkV2RHNsWWFzRW92ZjbSAaIBQVVfeXFMT2l5UTZPV2U2NU5SVmNXTHdFOFk0NmVId1IwUGhheVBGUV9CNS1lYXA5X1Q2ODZNeE50Q1Vma3p2cTI5TG42dkd3Ui1LLWY1bWIxd2lwN2dPcVlpU0dFaExmZ01kalhiQURtM1Q2ZWtRZ19BQUQ3c25vRi1WcjRuQlZQSUtaN2JoSVg1Y0MxRUtrU0FrNzByX3hhR0dHd2UyODNB?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T04:55:38.000Z",
-      "originalHeadline": "أسعار الذهب في الإمارات العربية المتحدة: أسعار الفائدة في 7 يوليو - FXStreet"
-    },
-    {
-      "headline": "ADNOC Distribution acquires Shell gas stations in South Africa for $1 billion - Al Sharq Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQeDJBZ3VnNmpsWFBlVERkTlA2YjQ4SlkwSzBueVU4a1lTdjBjU1RlSGx2OHRYM1BsRHpjM2dnaDA2eklkWVdoZnE4bk9UN0Q1LTlRUlY5SEJDc3FwRDd6QXpHRUhoampNZHBHVzdoZGpkMlF0SWNpNERGVkZOWFc4UElWbXBoM2VYbndrUVRJaldHQlBTQXVHa19CSDhpTjd0QUx3Tno0QTYyTmg0RWtRT3I0a0dpME5kUjZCck96dVg4X0RFSGZYbzFUYjAtenJNMERISU1kYW5iS0xGempqVldTcHIzQm1sMDJiRVgzbnFkWDhpb0RtYnduLVZtU3N4SC1qQ1lsclhUU1Q2LTdPQ0tCc1FUd3Bic1dkRllfTWpzQ3VYcW0zQm1OR0F6YXJSb3hmdkN3MG5sSEdITnlpbG9zLTA3QWZrYW4xaDd1MjFaeWU5Z3lhUlI4alQ5R1NGV0dILUlIV1dXR0JpWnl5MDBEZXFLbVlseTdEUU5EelhYZHlIQjNUb183ZDdtSXBsOGRYMVF4emVOVm1uNHoxVDRTVGF2T2tlWGpxSXlMTUoyOWlGME1qV2xJakRaTEg2QVZjLS1BVWR2NjJudU54aEw2YXJMcFgwTGd1bUw0bzEyeWZFdWFYdnhEQ1B0Zw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T04:53:13.000Z",
-      "originalHeadline": "أدنوك للتوزيع تستحوذ على محطات وقود \"شل\" في جنوب أفريقيا fمليار دولار - الشرق بلومبرغ"
-    },
-    {
-      "headline": "(Multimedia) A liquefied natural gas tanker is attacked in the Gulf of Oman - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Icy1nbnJWSzQxUV80R0ZCVF8zcmdqVjRJMDVocmQ0eGVYUElmYk1JdFpYbFlsTU4zUTZkSHNqU3FZQTZvYUdaQV92bVJoUWJwaVg3TDJRR3BrWVdLb29VWmxSMHJVWkhlUHFVbnBQSTZ4ZDZyNk43TEw5OA?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T04:50:15.000Z",
-      "originalHeadline": "(وسائط متعددة) ناقلة غاز طبيعي مسال تتعرض لهجوم في خليج عُمان - 新华网"
     },
     {
       "headline": "Today in #Kuwait's history\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3313060\n…\n\n#KUNA #KUWAIT",
