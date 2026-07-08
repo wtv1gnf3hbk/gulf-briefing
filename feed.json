@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-08T04:47:55.604Z",
+  "updated": "2026-07-08T05:03:13.645Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "5.0-magnitude quake hits SW China's Sichuan",
+      "url": "https://www.wam.ae/en/details/c149lsa-50-magnitude-quake-hits-chinas-sichuan",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-08T04:54:29.167Z"
+    },
     {
       "headline": "US military launches fresh strikes against Iran",
       "url": "https://timesofoman.com//article/174101-us-military-launches-fresh-strikes-against-iran",
@@ -34,6 +44,42 @@
       "date": "2026-07-08T04:36:12.842Z"
     },
     {
+      "headline": "Al-Riyadh newspaper | Restoring electricity supply in a number of areas of Kuwait",
+      "url": "https://www.alriyadh.com/2196970",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-08T04:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | إعادة التيار الكهربائي في عدد من مناطق الكويت"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Russian ballistic missiles hit Kyiv for the third time",
+      "url": "https://www.alriyadh.com/2196982",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-08T04:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | صواريخ باليستية روسية تضرب كييف للمرة الثالثة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Prince Bandar bin Saud Al Saud thanks the leadership on the occasion of his promotion to the fifteenth rank in the Ministry of Islamic Affairs",
+      "url": "https://www.alriyadh.com/2196983",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-08T04:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الأمير بندر بن سعود آل سعود يشكر القيادة بمناسبة ترقيته إلى المرتبة الخامسة عشرة بوزارة الشؤون الإسلامية"
+    },
+    {
       "headline": "Pakistan: Plane with 5 onboard loses contact off Karachi",
       "url": "https://timesofoman.com//article/174100-pakistan-plane-with-5-onboard-loses-contact-off-karachi",
       "source": "Times of Oman",
@@ -42,6 +88,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-08T04:28:31.000Z"
+    },
+    {
+      "headline": "Iranian Revolutionary Guard: We destroyed 85 American military sites in Kuwait and Bahrain - Al-Masry Al-Youm",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RQUlHU2RvLUJLVmpUa1dkUmpNUktGVXQzaFBYQjAyTkIxUzZQdXNYUWxoYkJiM3c5SFRncFpoc1pxZ0pnX2hsZHlnTFN5eHdiY0hQMF9oY21SY1BNaVdZ0gFjQVVfeXFMT0hXektDdDRHMDdMMmpMNjNvTHRVbC1qZl9aR1ZFb0ZVMkdwYVVmcTV6bmhqNEdOemZFTVJlQjRpM0NpSmVpVUxUTzVnZEZYRHVwbW4xOEFtRXVUQnBVMGNVOEpV?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-08T04:26:00.000Z",
+      "originalHeadline": "الحرس الثوري الإيراني: دمرنا 85 موقعًا عسكريًا أمريكيًا في الكويت والبحرين - المصري اليوم"
     },
     {
       "headline": "#QNA_Infographic |\nWeather Forecast in Qatar, Wednesday Morning, July 08, 2026\n#QNA #Qatar",
@@ -146,6 +203,18 @@
       "date": "2026-07-08T04:00:00.000Z"
     },
     {
+      "headline": "A private hotel for Trump and an almost empty city... behind the scenes of the NATO summit in Ankara",
+      "url": "https://www.aljazeera.net/news/2026/7/8/%D9%81%D9%86%D8%AF%D9%82-%D8%AE%D8%A7%D8%B5-%D9%84%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B4%D8%A8%D9%87-%D8%AE%D8%A7%D9%84%D9%8A%D8%A9-%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-08T04:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "فندق خاص لترمب ومدينة شبه خالية .. كواليس قمة الناتو في أنقرة"
+    },
+    {
       "headline": "Condemnation of Saudi Arabia and Qatar and threat of Tehran: Why did the American army start new attacks on Iran?",
       "url": "https://www.bbc.com/urdu/articles/c2eyl4wjyxxo",
       "source": "BBC",
@@ -189,7 +258,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-08T03:56:56.000Z",
-      "originalHeadline": "على المواطنين التوجه لأقرب مكان آمن.. إطلاق صافرات الإنذار في البحرين - Masrawy"
+      "originalHeadline": "على المواطنين الت��جه لأقرب مكان آمن.. إطلاق صافرات الإنذار في البحرين - Masrawy"
     },
     {
       "headline": "#Bahrain: Warning siren system is activated nationwide.\n\n\nhttp://\now.ly/wiSO30sX1vN\n\n#KUNA  #KUWAIT",
@@ -329,17 +398,6 @@
       "originalHeadline": "إطلاق صفارات الإنذار في البحرين عقب الضربات الأمريكية على إيران - بوابة الشروق"
     },
     {
-      "headline": "Bahrain announces dealing with Iranian attacks... and Kuwait confronts a missile attack - Al-Hadath",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNYVd5WEJQaHU4YmVfazZWTWVmNHhqcEFZOXByUWRreFpMQmoyZ0NhX2Q2UWRkOXc4M0g4MHNmZkw3dnZubTI5Z0VyRFNhVzhySXB3N2pQVFZmWjdhSWVzVmN2YjZuSHota0x0Mkh2QkM3Q2Z2a2lzMGx0b25GanZNclZ1Skc2Z3Ezb1V0M0d3YjZxVHF3bnRjTU5oMUsxUkVwMm85dHVTaDNVZm96azVNeWtYeVpNUHdvcXpIUm43bjFBYXBNYng4bGVDOHBPeUUtQWgzS2JRTjdzOFBybkY5MkVTdlBTbVQxM0FmdTBsZnBIeE1FckkyOWZjVXZLUnhJcnVaeVZiMjBMcHRnRzNpdnhvT0pLMDQ3T25pd016WWl3cV9FTUlQX0dDeHhHb2FZTlFwTG9BbTNqQ2VNajVBVGRyWFFDOXpaTThmcEpNSkE1RWVDR29XcUM0c3Zqa0kyandpRks5N2dLcU0tUXRsX0JQX242V3ZPbjUzNW1ldndhWHlaaTFudWdaMmN4Z3MxMTNjVk9nNGxZUGRTMEEtbnVCaHdTMGc1SzNlc2dzZUxtRDVmcjFCdWtaLWFma0lwWXd5N2lUWlZyUjJZa2N1bTJZcWlFcmdIVDdIYzZfZ9IBgARBVV95cUxQV29UclRSSmhLUGZCRi1fa2VNbWhjdEVyTE5KVEwtS2pTWXFEZFkzbHd2d3k2Q05NUXVWRlVqa1ZKeThJTGJKWkVKalg3R2NPVlB6ajFXLXdpYWlKdVJURHJrSk9OdDlLbUhKVmdjSnJTRkVtUW9jY0ZwM2ItNjlfMjYwVU1Cdk5sOGdJT1ZBR082VmFJT2MtTmJfal9ZSURyUGpuelhYV1pRMEE4TDZhNU45VGlVeElzWnBNdUNQYlpUOUNkR19weU1FcDhZWTJtY1dOTU8yY3RRZVBUS1RoXzE3SE5FOHM3Tng5aHd3WmRTVWg0WWU5eUdKd3Z2REo3ekpCZU5yNmxiYzNmS0JGVnExcGppNXF5WGROZkJ0OGVhYVhLS284YWoxMHhLT1hMbHgwM3BEWlhmS1ZfMVFIRG1TNnFOaXlJb2dpU0Q0SjJLMVk3OXpzbklCLUNqS21sMkFzX3kxeUQ4VGF3aE1xcUxMRTNfWWYtRTU3bFVuTmo1SEtoX1BRT2ZYTVFiWmx2bk5fVlZVeS13MGpIUk5pSVlZQWIxcEtuRXRmczJSNm9wLXZzVEl1bDE2a3Y1QlhFdmpNM2tITW5UXzZheUhQOTd3WG9BNXNqeFlnMFZZUU42TGU2Y3Mzdkh3M1dFRWhMUHJkbU9XczVMeVh6aXFMMw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-08T03:08:00.000Z",
-      "originalHeadline": "البحرين تعلن التعامل مع اعتداءات إيرانية.. والكويت تتصدى لهجوم صاروخي - الحدث"
-    },
-    {
       "headline": "Bahrain announces dealing with Iranian attacks... and Kuwait confronts a missile attack - Al Arabiya",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPZFRVQmttbTBvQnhadlR2TTQyOEdaVGpuclc1TEZIdGJrLUFtMFhMY18xQnU5TUE3TVVHY0dfYmxfeWZmVnpjN0l3dVhDZjlSTWFqN0hVMHpmZ0xVNDEzVXB3Z0huYWRCVUNzeTlzWW5GczRMSHZGWVhYVzcybUlZRUY4SWZGMTNJM1QwTmNNbk1mWkt0eHEyQUJxcFpMVjFiZENsSnlfUXlkLUFfR0dHS2lZU2dPWmU2TVhuekhKZE9lZWJSb1J6UVl0WUVjLXpieFpMVHBxUllfWlBSVk9pTU9XQ0REYm5nR0VWTHJMckVXMEFqeFNmUXFRRXQ0dFgtMFU4QVhBSWxpN19iaHJaU09tVF9TS0p0RnpzcGF5NjQwTFJQTThIQ0NTclRGbkpmaGEyY2FpUzFtWnJhOEJvRzZvSlNobXB2RHFzUkk3QWMtcUk4UzREb2ZCUWx6eEJudVFXTVlWUG9TTFBJRWNSVmh5UnRDLS1FbnJBMkRubWtDSmpDVVFFaVo3dDg0M0lHbnVRcVFWNm1NeVhTNGRydnRQOE15OTVzbkxoNHRlbjgyaG9kbXBGVXB1eWJLVmFmeWNhNWZBVWhKQmRJTk9mbUlwQlpmRE91Y1RqSDJLbVlPMG9xZVNEYmlGd2hLVjlnM2JUQllqVjRTSG_SAYAEQVVfeXFMUFdvVHJUUkpoS1BmQkYtX2tlTW1oY3RFckxOSlRMLUtqU1lxRGRZM2x3dnd5NkNOTVF1VkZVamtWSnk4SUxiSlpFSmpYN0djT1ZQemoxVy13aWFpSnVSVERya0pPTnQ5S21ISlZnY0pyU0ZFbVFvY2NGcDNiLTY5XzI2MFVNQnZObDhnSU9WQUdPNlZhSU9jLU5iX2pfWUlEclBqbnpYWFdaUTBBOEw2YTVOOVRpVXhJc1pwTXVDUGJaVDlDZEdfcHlNRXA4WVkybWNXTk1PMmN0UWVQVEtUaF8xN0hORThzN054OWh3d1pkU1VoNFllOXlHSnd2dkRKN3pKQmVOcjZsYmMzZktCRlZxMXBqaTVxeVhkTmZCdDhlYWFYS0tvOGFqMTB4S09YTGx4MDNwRFpYZktWXzFRSERtUzZxTml5SW9naVNENEoySzFZNzl6c25JQi1DakttbDJBc195MXlEOFRhd2hNcXFMTEUzX1lmLUU1N2xVbk5qNUhLaF9QUU9mWE1RYlpsdm5OX1ZWVXktdzBqSFJOaUlZWUFiMXBLbkV0ZnMyUjZvcC12c1RJdWwxNmt2NUJYRXZqTTNrSE1uVF82YXlIUDk3d1hvQTVzanhZZzBWWVFONkxlNmNzM3ZIdzNXRUVoTFByZG1PV3M1THlYemlxTDM?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -349,6 +407,17 @@
       "language": "ar",
       "date": "2026-07-08T03:08:00.000Z",
       "originalHeadline": "البحرين تعلن التعامل مع اعتداءات إيرانية.. والكويت تتصدى لهجوم صاروخي - العربية"
+    },
+    {
+      "headline": "Bahrain announces dealing with Iranian attacks... and Kuwait confronts a missile attack - Al-Hadath",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNYVd5WEJQaHU4YmVfazZWTWVmNHhqcEFZOXByUWRreFpMQmoyZ0NhX2Q2UWRkOXc4M0g4MHNmZkw3dnZubTI5Z0VyRFNhVzhySXB3N2pQVFZmWjdhSWVzVmN2YjZuSHota0x0Mkh2QkM3Q2Z2a2lzMGx0b25GanZNclZ1Skc2Z3Ezb1V0M0d3YjZxVHF3bnRjTU5oMUsxUkVwMm85dHVTaDNVZm96azVNeWtYeVpNUHdvcXpIUm43bjFBYXBNYng4bGVDOHBPeUUtQWgzS2JRTjdzOFBybkY5MkVTdlBTbVQxM0FmdTBsZnBIeE1FckkyOWZjVXZLUnhJcnVaeVZiMjBMcHRnRzNpdnhvT0pLMDQ3T25pd016WWl3cV9FTUlQX0dDeHhHb2FZTlFwTG9BbTNqQ2VNajVBVGRyWFFDOXpaTThmcEpNSkE1RWVDR29XcUM0c3Zqa0kyandpRks5N2dLcU0tUXRsX0JQX242V3ZPbjUzNW1ldndhWHlaaTFudWdaMmN4Z3MxMTNjVk9nNGxZUGRTMEEtbnVCaHdTMGc1SzNlc2dzZUxtRDVmcjFCdWtaLWFma0lwWXd5N2lUWlZyUjJZa2N1bTJZcWlFcmdIVDdIYzZfZ9IBgARBVV95cUxQV29UclRSSmhLUGZCRi1fa2VNbWhjdEVyTE5KVEwtS2pTWXFEZFkzbHd2d3k2Q05NUXVWRlVqa1ZKeThJTGJKWkVKalg3R2NPVlB6ajFXLXdpYWlKdVJURHJrSk9OdDlLbUhKVmdjSnJTRkVtUW9jY0ZwM2ItNjlfMjYwVU1Cdk5sOGdJT1ZBR082VmFJT2MtTmJfal9ZSURyUGpuelhYV1pRMEE4TDZhNU45VGlVeElzWnBNdUNQYlpUOUNkR19weU1FcDhZWTJtY1dOTU8yY3RRZVBUS1RoXzE3SE5FOHM3Tng5aHd3WmRTVWg0WWU5eUdKd3Z2REo3ekpCZU5yNmxiYzNmS0JGVnExcGppNXF5WGROZkJ0OGVhYVhLS284YWoxMHhLT1hMbHgwM3BEWlhmS1ZfMVFIRG1TNnFOaXlJb2dpU0Q0SjJLMVk3OXpzbklCLUNqS21sMkFzX3kxeUQ4VGF3aE1xcUxMRTNfWWYtRTU3bFVuTmo1SEtoX1BRT2ZYTVFiWmx2bk5fVlZVeS13MGpIUk5pSVlZQWIxcEtuRXRmczJSNm9wLXZzVEl1bDE2a3Y1QlhFdmpNM2tITW5UXzZheUhQOTd3WG9BNXNqeFlnMFZZUU42TGU2Y3Mzdkh3M1dFRWhMUHJkbU9XczVMeVh6aXFMMw?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-08T03:08:00.000Z",
+      "originalHeadline": "البحرين تعلن التعامل مع اعتداءات إيرانية.. والكويت تتصدى لهجوم صاروخي - الحدث"
     },
     {
       "headline": "Kuwaiti Army: We are currently confronting hostile missile and drone attacks",
@@ -446,7 +515,7 @@
       "originalHeadline": "إنفوغراف: السعودية ترسخ موقعها بين أكبر وجهات الاستثمار الأجنبي عالمياً - اقتصاد الشرق مع بلومبرغ"
     },
     {
-      "headline": "Infographic: Saudi Arabia consolidates its position among the largest foreign investment destinations in the world - Al Sharq Bloomberg",
+      "headline": "Infographic: Saudi Arabia consolidates its position among the largest foreign investment destinations in the world - East Economy with Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNMWxLRG9MOEJWalFnbU91NnNpZEthV0VqNFhyay0zdnZqS0ZqOHlhazI0MXgyOEF0RmpmME5uV2hncG94QjJJMWNqaUpIa1hfMGptalZVTkxvQWdiUGFBMW1lU0lqalBPNkU0UDFBeWxtS2luRHU2TTV4SVZJelM0VVZXdDZ6Zm8tdnZieXQzNlk5aDZjYm5oVXhfM1Q3al9YZ3lhR3lPcmI3RHZyYzlaVDF1V1ozMUV3ZWZHajE5SG1femVmenI3V28zVDdKYmM5NkI2WmtOeGsyVGYySXpTRlVmTE1rOURVNmthTDdjWlFUWDRrckhsLS1Yb2hFWVBCWFNfUjdyOXV0eDhNNDhOR0pwWFJVdVlEa2wtR2JpcXVydVR5YTlxQkNreGVuOEFvcWlFTGJkZ3ZZOFg3bi1rVEZhSm9INUwzc1VFbHp0MllfWFFWTTNESTZOMkZlWGozMDdmWS0wTE5fenBzQkZYdjFFYzFFcUFTbU9ob0dhQlNuNlRMcmFXZTNNNE1pQU9zREZ2S2txWXIwckVVekU3UTd1SkZ0RzFzb2lCbzA0U3ZqWjMxUEx2aWk0UmJST09DTXhDNXFIcThpYlJUZHdjVHRZc2RQcXFFU2c?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -454,7 +523,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-08T02:36:44.000Z",
-      "originalHeadline": "إنفوغراف: السعودية ترسخ موقعها بين أكبر وجهات الاستثمار الأجنبي عالمياً - الشرق بلومبرغ"
+      "originalHeadline": "إنفوغراف: السعودية ترسخ موقعها بين أكبر وجهات الاستثمار الأجنبي عالمياً - اقتصاد الشرق مع بلومبرغ"
     },
     {
       "headline": "The Saudi Program for the Development and Reconstruction of Yemen hosts a meeting of the Yemen Partners Group and discusses ways to enhance cooperation and supportive plans to accelerate the development process.",
@@ -690,15 +759,15 @@
       "originalHeadline": "السعودية تحمل إيران مسؤولية استهداف ناقلتها وديان خلال عبورها مضيق هرمز - بوابة الشروق"
     },
     {
-      "headline": "The decline in oil revenues pushes Kuwait’s budget deficit to $23 billion - Al-Sharq Bloomberg",
+      "headline": "The decline in oil revenues pushes Kuwait’s budget deficit to $23 billion - Al-Sharq Economy with Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNY1hsM1ppb18zQ2JZS21pQ0tlLXo1NUhobU5SbDVTTThwalZzVERYZDBLbTZsRW1SVUU5SDFaNTJYMjFUbV9JemRlUUVrbGc2cWxDLTBLTWxIcmZVb1JhWTNVYW5CVkxWOXZDNHlsdkxfM2tEbXVrQ00zdUVXOTJqWGhFZzdCZHpTMGhoX0pIQXdUT3pRMDBmbGxZRlg2NE5nSWIwejVwSU5TUXkwSHpXMmpsS1JXUmZfa2dGVHViMkJMVzU1M3hMMk5WSEpmS1BkaGJTQ3F4NzBRSWtvc3RrME5oLUk2Q0NiWmxFSDdBYUZ0eEl0eExXTXNRRW5IeGJZOU5oLTJmRkdXQ2JWTHdsSW9mS2tSODdPTURUV2dWOHZkOE90S0NZZUF6RDhIUTNiSzQ1YS1ZNW1lWnZURXhBT2VrMXRNVHdCMXdaampJWXlYcWFxNjY2dDNXNUVFaVV4TEFUQ005LWdMWHlQbTF6TG5OLW03SnhKNVo1cTNHNEpYSm04LVUtWDBkMU44WG1LcjQ1M3hkalZkZzlJeGdKTmkwckhJalRidWdhemFBeFBrbmJFMnYyWVJYWGUzdm1YRi1BVzJUQnVaQWp4aHJ5SjgwRnlqc2tvNG1iQ2hBRHk?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-07-08T00:45:00.000Z",
-      "originalHeadline": "هبوط الإيرادات النفطية يقفز بعجز ميزانية الكويت إلى 23 مليار دولار - الشرق بلومبرغ"
+      "date": "2026-07-08T00:46:08.000Z",
+      "originalHeadline": "هبوط الإيرادات النفطية يقفز بعجز ميزانية الكويت إلى 23 مليار دولار - اقتصاد الشرق مع بلومبرغ"
     },
     {
       "headline": "The Arab League warns against repeating the El Fasher scenario in Sudanese “Al-Obeid”.",
@@ -1021,6 +1090,16 @@
       "date": "2026-07-07T23:49:17.000Z"
     },
     {
+      "headline": "US military launches strikes against Iran over commercial shipping attacks",
+      "url": "https://www.wam.ae/en/details/17b85qq-military-launches-strikes-against-iran-over",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-07T23:49:08.648Z"
+    },
+    {
       "headline": "Kuwait condemns the Iranian attack on a Saudi oil tanker while it was crossing the Strait of Hormuz - Sada El Balad",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xWTBDdk85Q3plRGRlb3NlVnphcU9uNUo3NF9XZVAwamh3bVhUQU1MOFBUd0ltMXBDZFhPVmtldW1YcE9VR3dB?oc=5",
       "source": "Google News Gulf (Arabic)",
@@ -1303,7 +1382,7 @@
       "date": "2026-07-07T22:42:45.000Z"
     },
     {
-      "headline": "Oil prices climb as US strikes on Iran fuel fears truce is unravelling - Reuters",
+      "headline": "Oil rises as US strikes on Iran raise fears over shaky truce - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2539,17 +2618,6 @@
       "date": "2026-07-07T19:39:25.000Z"
     },
     {
-      "headline": "Targeting the Saudi tanker (Wadyan) is an Iranian criminal act and a dangerous escalation that threatens the security of international navigation and energy supplies - General Secretariat of the Cooperation Council for the Arab States of the Gulf",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUMEprV0JaU19wd0RnNmIwY01mdzNYVmtOMmQ1ZUtLc1JxTjNCdzVfY2R2UWFubW9uS3dBQWpZbW9nVzJMaGN4ZXdZOGtVZVA5SC1hVWNtNnN0bmFNOTJWd1ZBN05WSVlJZjItalA5M3lGMXItM0hZ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T19:36:19.000Z",
-      "originalHeadline": "استهداف الناقلة السعودية (وديان) عمل إيراني إجرامي وتصعيد خطير يهدد أمن الملاحة الدولية وإمدادات الطاقة - الأمانة العامة لمجلس التعاون لدول الخليج العربية"
-    },
-    {
       "headline": "The Ministry of Interior, represented by the General Directorate of the Federal Criminal Police, organized a specialized workshop in the Emirate of Ajman on combating electronic fraud crimes, with the participation of a number of senior officers and commanders, representatives of",
       "url": "https://x.com/moiuae/status/2074577736182681739",
       "source": "UAE Interior Ministry",
@@ -2559,49 +2627,6 @@
       "language": "en",
       "date": "2026-07-07T19:34:10.000Z",
       "originalHeadline": "نظمت وزارة الداخلية، ممثلة بالإدارة العامة للشرطة الجنائية الاتحادية، ورشة عمل متخصصة في إمارة عجمان حول مكافحة جرائم الاحتيال الإلكتروني، بمشاركة عدد من كبار الضباط والقادة، وممثلي القيادات العامة للشرطة في الدولة، والإدارات المعنية بالوزارة، وذلك في إطار تعزيز الجهود الوطنية"
-    },
-    {
-      "headline": "UAE Ambassador: The stars of the Egyptian national team made history and immortalized their name in the World Cup - Youm7",
-      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNX1BNY3htbHFGTFQ5dEFkT0FzaXRuSHowZTNtWllUWk9KUG5xd1FVQU15M2ZmMUZ2M1NKQzA5aHlKM2xQd1p0UEJHejZJd1dTajRIZ2U5azFFTUxPZnBycXJnUGVDeEtVaVJkdWhQWVRuWGxYNFhQYlAtNmU5LXBJUUFBSzAwYU8xck0zSnRlMjdMMWc0bjRscWdpRVN3c01rbGFibTAwTkhQRzJhVjZuOTZscjdOTENMLUZTZTdBRUtZc0oxeGMydGdKaWxZT2lndUU4MGRFcFJWcEpfdGQyZGZmaWpHeVJnMXZySnhHZGVNVWJabUJleFhxcXRHWjBNeUtlem5OaUJjckY4UjhjbkhDZ0taZHozYmxNSmQ5YnYwQkgxXzRJX3Btakkwb3hIeXZFSVpyRDBxbUhQOHNVbGxFU2kzUXlDbzIydkRjVEVuTFg4YUJJVV9meWtiUmxxRURRNTlQMTBwaFFiT2dYbUpVMDFRTk9qNnNXMHU5QzFQSGZCWV9ZX01QNHhZTzQzQXBNS0xpSm5NWkoyUlg4QVhQVjl4c1RCeWFIbTAxQk92eFZLNUtjdjlYZlBJQUExUUNrTTlpQ2JXMkljeEhKMXdMWk5xM2tXbGU2bDdadExiamlqcTR6NFYzNkNCbzZoTW1CbjNKUXUtUGlCRWdyVDhFaGRZLU14THlCYTlpU2VaY3By0gGPBEFVX3lxTE5mRDZWYnF6bFprcEFQcmtVaDY3WGhLU3VrWVB3Tk5pUVV4bVZ3S2xRUjNHWkpyYmpFZFlCVlA3ekVSLW9za1hTVEZZbm51SEdjNm5ZLWhzMUhuMWFqU05xVHpZLVk0RzR5eDNqTlBrcHBwTmJQUHN5QTA3RkdDdU1fcFZCNzZjTVhNOHlfR0d3bmQ5S3pBeDJnSGFJRXl4ZzU4a1dodTF5aHlFXzdQZDJDdmJsUTI3dnZaUzhzUXJ4ZHRRM2k3V1hfd1lOYVJtbUY1S1BDNWJkZW4xZHJsLUkzZFFyRUNsWHg1X3AxZkdzcFVGZkptSmVmRGx5RnRoRkRRRklkTHlJOWxRdTl3T1YxNHltbkE3cDhla1Qzci1WRWVTdXVtam14V2YxSGxfa1Vrck1WdzFXdHktWW5oaUdLVVJsT1lHdlVHUFBkcnZwZVo5MXA0RXEyQXVSTmFHYWg1dU94eFlqZkZfOGxWNXkwUkZNb3RCcDhhSF9IT3Y5My1pOFc2c2FPTk1xVGYwNTFCdUstVEM3N3oyaWszWUFSMl9rb190NlB2M0UzbXNJRWhPdmJKbDJpVGRDdXdkUVItN3dUY3hkVnlBUE1vRDUySXprRUptSHI5ajVSay1uVUR4eG5HbUFMUGJHTjR6WmZyRU52YjFyMEhyTTdJbnJ0UERZdGJWWTRXTmVCZXpv?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T19:27:00.000Z",
-      "originalHeadline": "سفير الإمارات: نجوم المنتخب المصرى صنعوا التاريخ وخلدوا اسمهم فى المونديال - اليوم السابع"
-    },
-    {
-      "headline": "Qatar summons Iran's deputy ambassador in protest against the targeting of a tanker in the Strait of Hormuz - Al Sharq News",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOSllKeFB4SVB2ckc5MW02LUlfbWY5bVdGa0szNVFVaGdGd3RoVFdCVkgzR3ZPYUFQaTM3bUVwamp3MWRIQ3NPeUpkWkxQYXp6dVRYM1pwaWZ1ZGo1LXNXbUVtcElZSFkxZzBSTm5jTGFtWmFvSF9pd3RZLXd6X0dWYjRudUg0ZGFpUEx1UElmdllFRlpJd19jWnYxd0RDZ0hZZURNenl0S3ZTREhCWkk4eW5mZDY0emE1Q1JrZUZ6SXQwRURRMURKRzhrSkR5YmxZWkZ0UF9HLXFFdHhRYU5TS2lTMjg5YjhpRU15TWo0UkhidWwyOFlMZjFXNjN0MnpoSy1tVl9LNnBPNHFQa1F1LU03MlBNYVdianV3emNIb1VuSk5wM0pZM0VpaFh4RzNfMnY0cm1ZQ0Q0WC1Fd0dFSVJZSUFSdnZkMm54UE4xRjZEbm4yUXR3SDlNald3SFpSZ2hLa3A0dldETXRreWMtM21iRy04Z1pPQlJiYkZ5SjBsTERpdE4zWHRZQ1hzUDcyVWIyS1pYSk54dERSVklocGJadGxWMHJnU2hEV28ybURhV01yNmZ3?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T19:25:20.000Z",
-      "originalHeadline": "قطر تستدعي نائب سفير إيران احتجاجاً على استهداف ناقلة في مضيق هرمز - الشرق للأخبار"
-    },
-    {
-      "headline": "Canada confuses the UAE's investments... 70 billion dollars are waiting and \"not ready\" projects are received with the message: Do not pump capital now - Sada El Balad",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VYzl6MDVxNUt5OU9vdlJZandhMEpuTEVYM3prZjFDb2hJN25GYXJQem1aODA2NXpFbm1TUXlLMGMwTC1ib0FZ?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T19:25:00.000Z",
-      "originalHeadline": "كندا تربك استثمارات الإمارات.. 70 مليار دولار تنتظر ومشاريع \"غير جاهزة\" تستقبلها برسالة: لا تضخوا رؤوس الأموال الآن - صدى البلد"
-    },
-    {
-      "headline": "Abu Dhabi Heritage Authority opens applications for Season 12 of Prince of Poets",
-      "url": "https://www.wam.ae/en/details/c13o7e7-abu-dhabi-heritage-authority-opens-applications",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-07T19:23:46.910Z"
     },
     {
       "headline": "UAE President receives Emirates Foundation delegation\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c13o7b8",
@@ -2622,27 +2647,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-07T19:16:17.000Z"
-    },
-    {
-      "headline": "Saudi Foreign Ministry: Iran targeted a Saudi tanker that was crossing the Strait of Hormuz - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04V3pEQ3dTcjZSVHJ2amJKQ0JiLTV4TDg4UTNteTlBOVF6a3pvUGN3VjNrRlFrME85QXgtSEhiQmpyMjJ4UG1DOUZNWGJPUGdndmtsanVB?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-07T19:14:00.000Z",
-      "originalHeadline": "الخارجية السعودية: إيران استهدفت ناقلة سعودية كانت تعبر مضيق هرمز - بوابة الأهرام"
-    },
-    {
-      "headline": "UN Human Rights Council Unanimously Adopts Saudi-Drafted Resolution on Women Empowerment in Cybersecurity",
-      "url": "https://spa.gov.sa/en/N2629375?type=news&uuid=N2629375",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-07T19:12:35.000Z"
     },
     {
       "headline": "UAE President receives winners of Open Masters Games Abu Dhabi 2026\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c13o7b9",
