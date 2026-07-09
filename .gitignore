@@ -1,1 +1,8 @@
 cloudflare-worker/.wrangler/
+
+# Dependencies — never commit (repo has package.json; feed.json/briefing.json
+# are intentionally committed as the Wire's data and are NOT ignored).
+node_modules/
+
+# macOS junk
+.DS_Store
