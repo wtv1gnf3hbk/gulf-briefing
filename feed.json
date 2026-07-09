@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-09T10:04:48.838Z",
+  "updated": "2026-07-09T10:18:43.640Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Kuwait strongly condemns Iran's continued attacks",
+      "url": "https://www.wam.ae/en/details/c14v1vh-kuwait-strongly-condemns-irans-continued-attacks",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-09T10:12:19.553Z"
+    },
+    {
+      "headline": "Ministry of Interior reviews national strategy to combat cyber fraud",
+      "url": "https://www.wam.ae/en/details/c14v1vg-ministry-interior-reviews-national-strategy-combat",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-09T10:09:15.305Z"
+    },
     {
       "headline": "AURAK students win global information technology award",
       "url": "https://www.wam.ae/en/details/c14v1vf-aurak-students-win-global-information-technology",
@@ -21,6 +41,26 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-09T10:00:14.413Z"
+    },
+    {
+      "headline": "Sharjah CP approves Sharjah Cooperative Society Board of Directors reconstitution",
+      "url": "https://www.wam.ae/en/details/c14v1sl-sharjah-approves-sharjah-cooperative-society-board",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-09T09:57:41.016Z"
+    },
+    {
+      "headline": "Kuwait intercepts 3 ballistic missiles, cruise missile, drones",
+      "url": "https://www.wam.ae/en/details/c14v1sk-kuwait-intercepts-ballistic-missiles-cruise",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-09T09:50:29.558Z"
     },
     {
       "headline": "Lulu expands its presence in Oman; opens new store in Salalah",
@@ -52,6 +92,30 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-09T09:45:26.000Z"
+    },
+    {
+      "headline": "An Egyptian designer reveals the secrets of Aya El-Sisi’s dress and a hieroglyphic message hidden by the sleeves",
+      "url": "https://arabic.cnn.com/style/article/2026/07/09/the-egyptian-heritage-behind-aya-el-sisis-dress",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصممة مصرية تكشف أسرار فستان آية السيسي و رسالة هيروغليفية تخفيها الأكمام"
+    },
+    {
+      "headline": "New joy on the way... Queen Rania announces the pregnancy of her daughter, Princess Iman, with her second child",
+      "url": "https://arabic.cnn.com/entertainment/article/2026/07/09/jordan-queen-rania-announces-princess-imans-second-pregnancy",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "فرحة جديدة بالطريق .. الملكة رانيا تعلن حمل ابنتها الأميرة إيمان بطفلها الثاني"
     },
     {
       "headline": "UAE, Indonesia discuss promoting tolerance through parliamentary cooperation",
@@ -397,17 +461,6 @@
       "date": "2026-07-09T08:05:45.858Z"
     },
     {
-      "headline": "US to Remove Syria from Terror Blacklist",
-      "url": "https://english.aawsat.com/arab-world/5293969-us-remove-syria-terror-blacklist",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T08:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Taiwan Warns of Destructive Winds as Typhoon Nears",
       "url": "https://english.aawsat.com/world/5293964-taiwan-warns-%E2%80%98destructive%E2%80%99-winds-typhoon-nears",
       "source": "Asharq al-Awsat (EN)",
@@ -441,6 +494,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "US to Remove Syria from Terror Blacklist",
+      "url": "https://english.aawsat.com/arab-world/5293969-us-remove-syria-terror-blacklist",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T08:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Alpacas , Mini Pigs on the Loose after Floods Hit China Zoo",
       "url": "https://english.aawsat.com/varieties/5293984-alpacas-mini-pigs-loose-after-floods-hit-china-zoo",
       "source": "Asharq al-Awsat (EN)",
@@ -460,6 +524,17 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-09T07:52:09.000Z"
+    },
+    {
+      "headline": "Kuwait and Bahrain confront air attacks and a security warning in Qatar - Al Jazeera Net",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQT2NSaF81ZS1vR1JabDhLZTdiT2x3RHRQWDd2S3NDeDhEZWJ1MkdneVpDSy1ZTEFmdVNfVjRDR1EtYVRtYk5nb3JCbk9hYWVJQS1mZDQtYlFWZVJkVlNlMlNPQlB3c21PWF9MS05MekM3UjBkd1UzUWhrYVFkV1Q5Q25mVHBXWG5YY1Vjb182T0xReklYVHFfXzhHXzVzcTM0Sy1CVFN1X29hakhlWlhwcnVMSnprRjE3SFFDRVl6dkpwb2tyUzlkemM5Z0tkTXFBS1h5VkRuYnpTYi0zZ0xYUjFwdk9jUmpFV0pQcXY2SGtQM05fdWdkNkxURHcxR1l5QkkxMHR2Um44bzJUSkdVUUFSdDVrMVFfQ0JXVlVjTU03U0pLRVFTNVBSdUprbFloRTE4anVFYUJUa0ZnN2hrUVFnMlhoSzNyRkdFR2U0SdIB1AJBVV95cUxPVXlyZGZUYm1GSEhEQUhWZFREZkhORjI2ZmlManlET3R4d1NTYWxuU3prSVh0WWpENzhCSm1VM2dlLUNyWXoxYnI5X0ZPbGw3YkdibExQWldfOFM5dVRFQ2pxc2Z2OVBEYUpVbnl6c3I0VmRqTHdzR25ub3FLV0xYWUkzbU5vbVNXaWNvMy1feHNGNHRuSFFBcEE3dFNlanBRTjBiWmhWX3drazA5ZmJyU1NDQVpYM0ZLUHdCLUpLSXcxUExaN3h2ZVFMa2dvQ0VCbF9lTFZOMS11QnFkMHV1VlVuY0drQVVvNzlkczdNRXAxUE81Y0c2d2FDUENpVVA1QWRhUXdURzNsQlplenBjQjloaUZySktna3ZsU1VIUmJQM19nOXp3OU9MSGFDUmNraGZMbVlocU5TMmJ5S3pVNTNmMjRpVXFsNTFtWDA5TEFTUC1j?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T07:51:55.000Z",
+      "originalHeadline": "الكويت والبحرين تتصديان لهجمات جوية وتحذير أمني في قطر - الجزيرة نت"
     },
     {
       "headline": "Khalifa University, Wajeb Volunteering Association partner to expand student volunteering",
@@ -570,6 +645,17 @@
     },
     {
       "headline": "Al-Sawaha: Saudi Arabia launches the most ready and available artificial intelligence infrastructure in the world - Al-Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxOa0M1djJKVmhoeXcyMjVlYjUtTkJwNE5IdlRWRGtJTVhPN04tRW15YVlZNWdweV8wMnAxeDFicVZ1S0VYejJ4dGNseVpBTEk1Nkp1anhtSjVNbXB2bkR1eU9Yc1F3RUdoZUZWZVJNTXVhejJJbjMzdmJNdUI2RXctRXpzVXozTE1xM3FXN2xBam1XbTdSbld6NXhnRHlSZ3phQTNhLVVVWHRSYlVYUDRXUlZreFhoMldOWWgzN2d5QVQxS0hpR2hmTzVfOUlzNnJORUN5czN1ZXNvSVdCM0lJcEM1ZnVsdzFJNzR3VHVYaHI2Q3JwMzZXbC1nZ0s2S1ZDaVdGNkhDbFBtano0bzFGSWQ4QVBRWTVXOTVtRUlCMzJUYW10eEYyUGVRcTVzczY0dzVSQjF2dFpROFhmekRQVzBVSTZuRzZLSE5ZbVRwTnBidHJGY0JtSE9mQ3dLdkhieWQ4MXNTX1JDVWhHZy0wSUQ5bVJCQ3huZHVVYThIR0tEelpfSjJXNWExWjQ3VVE0WnUzY2R4MEtrQ0hUaGZtSWIwbDNKSk50elR0c3piT0pLOGhTV1Bta2VPc3FTVFRvQlZ0VmhlbVZxLVlNTnlUYk53MnJLM3B2N1JvWG02VEt5ZlNacUpBYWdwOXZzVTgyOVRXVHA4NUhSUURULUFvaUtfZHJ3TWlZVU91R2NwVV9JeXNQMkFNTnRrdFRDaFNlNXNXMHFrak52SWtrS0haZ29OUFVLUG1VSmxRVVpMcGo1empCTklRYmt4RjJSYlk3cU1fMHZRdEtJRlHSAdsEQVVfeXFMTmtDNXYySlZoaHl3MjI1ZWI1LU5CcDROSHZUVkRrSU1YTzdOLUVteWFZWTVncHlfMDJwMXgxYnFWdUtFWHoyeHRjbHlaQUxJNTZKdWp4bUo1TW1wdm5EdXlPWHNRd0VHaGVGVmVSTU11YXoySW4zM3ZiTXVCNkV3LUV6c1V6M0xNcTNxVzdsQWptV203Um5XejV4Z0R5Umd6YUEzYS1VVVh0UmJVWFA0V1JWa3hYaDJXTlloMzdneUFUMUtIaUdoZk81XzlJczZyTkVDeXMzdWVzb0lXQjNJSXBDNWZ1bHcxSTc0d1R1WGhyNkNycDM2V2wtZ2dLNktWQ2lXRjZIQ2xQbWp6NG8xRklkOEFQUVk1Vzk1bUVJQjMyVGFtdHhGMlBlUXE1c3M2NHc1UkIxdnRaUThYZnpEUFcwVUk2bkc2S0hOWW1UcE5wYnRyRmNCbUhPZkN3S3ZIYnlkODFzU19SQ1VoR2ctMElEOW1SQkN4bmR1VWE4SEdLRHpaX0oyVzVhMVo0N1VRNFp1M2NkeDBLa0NIVGhmbUliMGwzSkpOdHpUdHN6Yk9KSzhoU1dQbWtlT3NxU1RUb0JWdFZoZW1WcS1ZTU55VGJOdzJySzNwdjdSb1htNlRLeWZTWnFKQWFncDl2c1U4MjlUV1RwODVIUlFEVC1Bb2lLX2Ryd01pWVVPdUdjcFVfSXlzUDJBTU50a3RUQ2hTZTVzVzBxa2pOdklra0tIWmdvTlBVS1BtVUpsUVVaTHBqNXpqQk5JUWJreEYyUmJZN3FNXzB2UXRLSUZR?oc=5",
+      "source": "Google News Gulf (Arabic)",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T07:17:00.000Z",
+      "originalHeadline": "السواحة: السعودية تدشن أكثر بنى الذكاء الاصطناعي جاهزية وإتاحة في العالم - العربية"
+    },
+    {
+      "headline": "Al-Sawaha: Saudi Arabia launches the most ready and available artificial intelligence infrastructure in the world - Al-Arabiya",
       "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPcDktUXhXZFhDdE43Vy00UjRrajJPYTdJX1ROVVVRTF8wdUJ5T2lhaXdBclBLamkxU29odTg0OG9XRWs0bzlmY3c2MXNlUjFmX1FLU05XcTVlVWFKRHhKN20zMi1jWV9KajdyclFIaE1nYlVMWUpRUlItQ0NjYVpPZnhnSldRUFpMZ3ZJQlRuS0FuUXVjZU83Q1JrdUhEQUN4VE0tRlBaM2N2R3R5TG80eENXRzhpSWdUbEJiSzBUcS1kSkk4NVppZnV5Wk96Z0I0cnFMaFlXSmVQTko1Tmk1SnNRYk8ySk5Fd05TdWRKZndvTUxDbkQ1bGZlUXBYWVh5UVA3dmNqdVc3MVc5d0szS2VMRDVZRmdUU1h0WHl4UGtWb2FSdXlwLVpidUZPdWtIZWlROUxPcUk0TksybnpvN2ZxanRzZkhTQ1RsQlhoMUZrMWpjbjg5QTBCLWE3b2o0TkszNWIyVHUtSFFRUnJVYzl0LS1haEZrUHFOLWtXNjE3Q0p0TEJQeEl2M21uY0xKQjFvdHhiZ1Y5X05qUUVZaTZySHJuOEk0bHlKVWhNNmZNSkdROGUxMUpMTnktWFF0SUcyOU9vd0pXWklZU3QySlZ2dGFMZVJFeFlWNnFnN0xrcG1WQmR1VkF6UWk4dDFOMFZQNkFzMEVjTkZKMk52VEs1cjFhR05XOGUyT01aVUpQQWtfaHMyalJHalFIU2ptdVlOLURIamZ5RTlEVXJVbElOanFjRXNtYmgycUpuYTB2MFR1RmJ6RXlIMzY0emJ2dExjNDRn0gHbBEFVX3lxTE5rQzV2MkpWaGh5dzIyNWViNS1OQnA0Tkh2VFZEa0lNWE83Ti1FbXlhWVk1Z3B5XzAycDF4MWJxVnVLRVh6Mnh0Y2x5WkFMSTU2SnVqeG1KNU1tcHZuRHV5T1hzUXdFR2hlRlZlUk1NdWF6MkluMzN2Yk11QjZFdy1FenNVejNMTXEzcVc3bEFqbVdtN1JuV3o1eGdEeVJnemFBM2EtVVVYdFJiVVhQNFdSVmt4WGgyV05ZaDM3Z3lBVDFLSGlHaGZPNV85SXM2ck5FQ3lzM3Vlc29JV0IzSUlwQzVmdWx3MUk3NHdUdVhocjZDcnAzNldsLWdnSzZLVkNpV0Y2SENsUG1qejRvMUZJZDhBUFFZNVc5NW1FSUIzMlRhbXR4RjJQZVFxNXNzNjR3NVJCMXZ0WlE4WGZ6RFBXMFVJNm5HNktITlltVHBOcGJ0ckZjQm1IT2ZDd0t2SGJ5ZDgxc1NfUkNVaEdnLTBJRDltUkJDeG5kdVVhOEhHS0R6Wl9KMlc1YTFaNDdVUTRadTNjZHgwS2tDSFRoZm1JYjBsM0pKTnR6VHRzemJPSks4aFNXUG1rZU9zcVNUVG9CVnRWaGVtVnEtWU1OeVRiTncyckszcHY3Um9YbTZUS3lmU1pxSkFhZ3A5dnNVODI5VFdUcDg1SFJRRFQtQW9pS19kcndNaVlVT3VHY3BVX0l5c1AyQU1OdGt0VENoU2U1c1cwcWtqTnZJa2tLSFpnb05QVUtQbVVKbFFVWkxwajV6akJOSVFia3hGMlJiWTdxTV8wdlF0S0lGUQ?oc=5",
       "source": "Google News Gulf (Arabic)",
       "sourceId": "google_news_gulf_arabic",
@@ -644,61 +730,6 @@
       "date": "2026-07-09T07:02:05.728Z"
     },
     {
-      "headline": "Gold Eases as Middle East Hostilities Revive Inflation Fears",
-      "url": "https://english.aawsat.com/business/5293930-gold-eases-middle-east-hostilities-revive-inflation-fears",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US , Iran Trade New Strikes in Fight Over Hormuz Strait",
-      "url": "https://english.aawsat.com/world/5293911-us-iran-trade-new-strikes-fight-over-hormuz-strait",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Drill Boosts Military Ties between Egypt and Türkiye",
-      "url": "https://english.aawsat.com/arab-world/5293927-drill-boosts-military-ties-between-egypt-and-t%C3%BCrkiye",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Hunger Worsens in Yemen Houthi - Controlled Areas , Ports Lose $1 . 4 Billion",
-      "url": "https://english.aawsat.com/arab-world/5293922-hunger-worsens-yemen%E2%80%99s-houthi-controlled-areas-ports-lose-14-billion",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Kuwait , Bahrain Report Rocket Attacks after US and Iran Trade Strikes",
-      "url": "https://english.aawsat.com/gulf/5293920-kuwait-bahrain-report-rocket-attacks-after-us-and-iran-trade-strikes",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T07:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Flooding in Southern China Has Killed 39 People",
       "url": "https://english.aawsat.com/world/5293929-flooding-southern-china-has-killed-39-people",
       "source": "Asharq al-Awsat (EN)",
@@ -723,6 +754,28 @@
     {
       "headline": "Meta Plans Billions for 1st AI Data Center in Canada , Largest Outside the US",
       "url": "https://english.aawsat.com/technology/5293960-meta-plans-billions-1st-ai-data-center-canada-largest-outside-us",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Gold Eases as Middle East Hostilities Revive Inflation Fears",
+      "url": "https://english.aawsat.com/business/5293930-gold-eases-middle-east-hostilities-revive-inflation-fears",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US , Iran Trade New Strikes in Fight Over Hormuz Strait",
+      "url": "https://english.aawsat.com/world/5293911-us-iran-trade-new-strikes-fight-over-hormuz-strait",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -776,6 +829,28 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Drill Boosts Military Ties between Egypt and Türkiye",
+      "url": "https://english.aawsat.com/arab-world/5293927-drill-boosts-military-ties-between-egypt-and-t%C3%BCrkiye",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Hunger Worsens in Yemen Houthi - Controlled Areas , Ports Lose $1 . 4 Billion",
+      "url": "https://english.aawsat.com/arab-world/5293922-hunger-worsens-yemen%E2%80%99s-houthi-controlled-areas-ports-lose-14-billion",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Egyptian Football Association Cannot Remain Silent about Officiating in Loss to Argentina",
       "url": "https://english.aawsat.com/sports/5293951-egyptian-football-association-%E2%80%98cannot-remain-silent%E2%80%99-about-officiating-loss",
       "source": "Asharq al-Awsat (EN)",
@@ -789,6 +864,17 @@
     {
       "headline": "Peanut Butter Floor Returns to Dutch Museum as Tribute to Late Artist",
       "url": "https://english.aawsat.com/varieties/5293933-peanut-butter-floor-returns-dutch-museum-tribute-late-artist",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-09T07:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Kuwait , Bahrain Report Rocket Attacks after US and Iran Trade Strikes",
+      "url": "https://english.aawsat.com/gulf/5293920-kuwait-bahrain-report-rocket-attacks-after-us-and-iran-trade-strikes",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1239,17 +1325,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-09T04:45:13.484Z"
-    },
-    {
-      "headline": "Kuwait and Bahrain confront air attacks and a security warning in Qatar - Al Jazeera Net",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQT2NSaF81ZS1vR1JabDhLZTdiT2x3RHRQWDd2S3NDeDhEZWJ1MkdneVpDSy1ZTEFmdVNfVjRDR1EtYVRtYk5nb3JCbk9hYWVJQS1mZDQtYlFWZVJkVlNlMlNPQlB3c21PWF9MS05MekM3UjBkd1UzUWhrYVFkV1Q5Q25mVHBXWG5YY1Vjb182T0xReklYVHFfXzhHXzVzcTM0Sy1CVFN1X29hakhlWlhwcnVMSnprRjE3SFFDRVl6dkpwb2tyUzlkemM5Z0tkTXFBS1h5VkRuYnpTYi0zZ0xYUjFwdk9jUmpFV0pQcXY2SGtQM05fdWdkNkxURHcxR1l5QkkxMHR2Um44bzJUSkdVUUFSdDVrMVFfQ0JXVlVjTU03U0pLRVFTNVBSdUprbFloRTE4anVFYUJUa0ZnN2hrUVFnMlhoSzNyRkdFR2U0SdIB1AJBVV95cUxPVXlyZGZUYm1GSEhEQUhWZFREZkhORjI2ZmlManlET3R4d1NTYWxuU3prSVh0WWpENzhCSm1VM2dlLUNyWXoxYnI5X0ZPbGw3YkdibExQWldfOFM5dVRFQ2pxc2Z2OVBEYUpVbnl6c3I0VmRqTHdzR25ub3FLV0xYWUkzbU5vbVNXaWNvMy1feHNGNHRuSFFBcEE3dFNlanBRTjBiWmhWX3drazA5ZmJyU1NDQVpYM0ZLUHdCLUpLSXcxUExaN3h2ZVFMa2dvQ0VCbF9lTFZOMS11QnFkMHV1VlVuY0drQVVvNzlkczdNRXAxUE81Y0c2d2FDUENpVVA1QWRhUXdURzNsQlplenBjQjloaUZySktna3ZsU1VIUmJQM19nOXp3OU9MSGFDUmNraGZMbVlocU5TMmJ5S3pVNTNmMjRpVXFsNTFtWDA5TEFTUC1j?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T04:44:35.000Z",
-      "originalHeadline": "الكويت والبحرين تتصديان لهجمات جوية وتحذير أمني في قطر - الجزيرة نت"
     },
     {
       "headline": "Meta plans billions for first AI data centre in Canada",
@@ -1951,17 +2026,6 @@
       "originalHeadline": "الكويت: الدفاعات الجوية تتصدى لهجمات صاروخية وطائرات مسيرة معادية - بوابة الأهرام"
     },
     {
-      "headline": "Dünya Kupası nda Arjantin kollanıyor mu ? - BBC News Türkçe",
-      "url": "https://www.bbc.com/turkce/articles/c621jz46pzxo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-09T01:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Qatar:\n\nThe end of the security threat and the return of conditions to their normal state",
       "url": "https://x.com/alekhbariyatv/status/2075028488147345411",
       "source": "Al Ekhbariya TV",
@@ -1972,50 +2036,6 @@
       "date": "2026-07-09T01:25:18.000Z"
     },
     {
-      "headline": "Bahrain.. Sirens sound and the Ministry of Interior asks citizens and residents to go to the nearest safe place - Al-Ahram Gate",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WejNvQS1qdzNOTVBMb0szRDJ1X1l1cWNrZVN1c0tmbFlTNmtmaHBrM3pGX3duZjBKNW5Qam56MFNiemdhWThGNWVwVHViMzJfVEU1OEVn?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:23:00.000Z",
-      "originalHeadline": "البحرين.. إطلاق صافرات الإنذار و«الداخلية» تطلب من المواطنين والمقيمين التوجه إلى أقرب مكان آمن - بوابة الأهرام"
-    },
-    {
-      "headline": "Kuwait announces response to missile attacks and hostile marches - Sada El Balad",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtak9ubjA1OFNRa2ZQaXhSSnlZNG80czJid2JWNHYtNjY2Y0owaWNJZ0x1V2FRelY4bUZkdEZDemQwNkNLZ0Rj?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:22:00.000Z",
-      "originalHeadline": "الكويت تعلن التصدي لهجم��ت صاروخية ومسيرات معادية - صدى البلد"
-    },
-    {
-      "headline": "Kuwait confronts missile attacks... and security warnings in Bahrain and Qatar - Al Sharq News",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOdFByaHhzMXRKcVZqMjhxZ3BoNkt2YWNYUXVBaTRFcy1Ca0NHZEVDZDAzdzN2a2I4dVZjclYyYW1OTlJISTlrM3lTUmp4YTROaXdMRWMydXNHT0VNcmxxWUtkbE5fT0JqNkoxZ1o5OHA1Ykx0TzZpMGlYVmQ5aDBMcWZ6QXVDbTZxamMwZ2hLQ2VNeWhaaUJPX2ZXaEsxRW40d21mcVMta1Y4dXd0YnRyMzRELUR4NjZ6anNYanhhazBzTkllVmRRTG1vZk5vZkUtdmdoUjloQXZQQV9GMllhRTZDb1B1b2RQTFBrcmhpRW9CUXhuU2c0cm1KZE10X21ORmoyNkpTLThoaTdUSnNNM3c2andjd2JvRmloUzBQb2Q1Y0NWNXBPR1lfZDN6MFVRUGtDR2hCd2lyNU1oTWVPem9tU05uS1dJN0VUbUhNRGNSd0RQTXJkNVpOckx0UzlXaFRFTEIxdjFhaXV4ZkVzN1FsNlE4NlMya2lxU2pIc3l5WHdGMWx5cVVlMDVCbkxocExNazRGVEFMNjhaVjlRQUNIbjRFcWt3WHRWb2hxLVA2dE0wdjB6dWpYT1BscXhrSVIyWmdPa1RibmJON2diTmxwVnIybXprY3pmNjYzakUydw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:14:45.000Z",
-      "originalHeadline": "الكويت تتصدى لهجمات صاروخية.. وتحذيرات أمنية في البحرين وقطر - الشرق للأخبار"
-    },
-    {
-      "headline": "In preparation for an Iranian attack...a state of alert was declared in Qatar and Bahrain, and the Kuwaiti defenses responded to attacks - Masrawy",
-      "url": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxQUFd4RERVM1R0Z1VqU25mNG1aTXhaVV9xckNyZ2dsQ1c1b1p5cDJ6Y1NJd3pienRMcXYwdHBIbXVwTlhlMzN5Nl8tUE9uQ0pJcGV4SnF5aFNyMGREUGtjcE43dWEtUWFrVkFWWVRXZ3l3M2U5ZWtaZXZHTG9hdHV5cmN5cE82SEk4Nmh6UzFkUGQ1UEZuWWdLSmE3bnhHbjBEc1FDY3J3N1B3WlFhSjlZM29PUmtuY1Y1V3pqYzFYeDQwZmhETzJuMExpZ01TNmticUdzLTNjSU5ZMTZrcTdYZ1hKMHpEMU5seUR1cWZyOTlTWmJOUllkVkJrLW15X3Y4aXBMbVVJS3htSTRqVEFqY19pb2JmWk1ZVmJDWEV6UGFHTzZLVU5tRm1Xa2xsMmh3R3g5d0U0RFZfRFVCYWQxR1M2WTlmQk1GcS1lQkluMG5qUjJ2TWVBLUNiWXBhTE5tdDJuNUFQTEFnR2l2UW05T1hXNFg2T3lIVFdFSGFGWjZqRUxscmJjMDJqQS0zeEdhQzZRRmIzanc3cHV6eDhPYmE3M281Q2VHOTh6aXJfNHJHLXZWd2c1aXplRUF2MWtQU2hoaFJnTGFhdWNHTDEyMkhGTy1HTEt3SG5ZTzlQWVZhazRVVjg5UVQ4YmV3Q3VqQ0otWGx1R1k4aGNUYVAtV181SWZqNjBlV1dsRFh6MFh5Z3BqX3pYMVFVbFdCRERxeXg1ckNRQk9fWnM1bV92XzZUZVUza0VKOHJlVmpOY3hSSFc5NnhIMXFXd1Rfb3VlTGtmT1RyQ2lhZzdsVUFkeXNsQ05YRWZydjZyaDh0SE12cjVSM2NyU2tEelhEVDJjN05jMk5MSF9Yb0xvSGhLN2FOVHMyNkpnQVJjMU4zRWZPcExRLVBYYnhfemxBMGJyQmlVb2IxaEo0cjNoZy1uc0Y4ak03UEVKLVpaUUg4cXBiaU91SEFaMS1QVTFQRmhqd1VxdmpB0gHrBUFVX3lxTE1SdVNwcXRUcXlOQ3Bjd1dTOExzVkNhaXYzVXJVT1dSTzZtU2tScFNtVmZ4TnpGd1djUnZLN1dSRlZpNHdIT1VDLWZmZHA3MVRzNE1GVk5KX0hDMUQ1czNSdDMyelUyNzZ5N0RjcS1ya2g1ZXpZWXM5SGtrZXhOaFBkb0RwNkUtNFdfZktrcnRPR3k4Mm94VTM2bEo1YXlXcktlbjBMczRGczUycC1hLXlvWkVJbFFRZ0VHSnNQY3lCUHl5d08wOTRYUlJBYjZXOGUzcERIajhKNlQyZkNiUXNTakhuN1VYdTQ4RDhxVk5VSGVFbHNBTHRCb01hYmRaMmNTMjZSSFBFWkd2TXZyd1h5LW5HTFZzX004ZWZFUEc2eXdaUFZuajgwYkczUmF4SzFJOWhUNTFGVzNyN1VSdTc3b1pqa1NTUjdZTFVoRWJ1b2hGUVdhV1hENFBkNElCYTI4cG9MYW9MVmlNR3JoSldSeHl5bmFaaVFac2VwajliMjQ2cHk3SXZiVGRTNTUtSDR6ZHM3LVExRWdSbV92SUs1cnN3MkJWc1h3dVpRcnZzckEwQnBrN2FhQnpTak8ydHRpYnlGNkQ2Z2VOMzBlU0xWUGlGQ2t6eVF2WjBsdzZnWkItTFg1TEZuUTBjOXlNbllvemF4X0IzTm56SXpBb1VYbjNzRzIzSGZ5VF9fS1A4OHVNVTBzQnh5eVI5Z1pjS29tZ1VCcnFJM0ZRQXpWeTBqNVU4bnYxRUZlVmJMVWRCampOSVI0eXhaYUpCckJKbnFDVjJLdXpNQ0JlQ0RnNm43Y0JyRmZvNDg5ZlhKd2hEaE8tZ0RFUWtwMzE4TXg3ZkhFbUktVFhzWHpLdDR6ZG5YODJfLTJhbU1CdUdGdjkxTlRfMmZVamxIVnd1S3Vsa2RMOTlsOG41T3RTN2R0M2ZoblloNHFPNk1TSlVKdkZnbkdVUkhIRDkxWFEzNVZLQTBHX3RyU25heTVzZw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:06:30.000Z",
-      "originalHeadline": "استعدادا لهجوم إيراني.. إعلان حالة التأهب في قطر والبحرين والدفاعات الكويتية تتصدى لهجمات - Masrawy"
-    },
-    {
       "headline": "Qatar:\n\nThe security threat level is high, and we call on everyone to adhere to staying at home, not going out, and staying away from windows and open areas.",
       "url": "https://x.com/alekhbariyatv/status/2075023204234535027",
       "source": "Al Ekhbariya TV",
@@ -2024,28 +2044,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-09T01:04:18.000Z"
-    },
-    {
-      "headline": "Kuwait announces response to hostile missile and drone attacks - Masrawy",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQdTd0UVV1ZkJOOHo2a0dpZTBSa3BsOXNCMF8tREl5SnI0cko3UUE5aXhGNmdJQUZzMGlQeFNSdkd5OU5nVU1BaEN1U25WRnFmcWMyX25oc0RFWmVDbHdjdzdyZFNodDJmT3c5ZUt3SFluSjdZMDExTTZrQnFVMHdlU2RYN0lEUnBvaXdQWWpMVnpEa3FCcXFoTXlNN0VyN1h5YVFlZFJFZnY2X1BEQmRvZUxDSE94TGZtSW5ERGFCc01xLWIweVZuQnFWNUljcWpzNUJrakVVb3JxaUJoWk9oSG9OSGp6T0NZSzh2YTM4S2JtVExPdUtzS2pJYTRsR1BkYTA3VG01aG04RmFYSmprMlBIdDdFVmhxdm5MTGs1UmhxSWlIR01zeXRKeTh0R1VGRVhqd2lzU0lnRFlYTWQ5Y244anBNYWVTTnNxamk2cFhqWXIwRlcyZ0lmNHNGVkpWZDBKV2o5MUpPZnoxb2ItXzRaeE9sWlZ0ZlRlVVpVTDVxYnNjTDdxLVRWdDdtNnVINWpuX0tWMnVoUjhKeHFHb1NZcEpNWDVHNDNueEZ6aXNWTFV2bkNudnJKVXFhZmdyX1VlQ0pFR2ZQVE1xZVUwc0NyZDRnMmQ1dnloTk9lRE1sa2ItTlA4cnNGekVWbklHSXFrbU5zV2pPZVhmTVFVNtIBhgRBVV95cUxOR1JnQW5KaTBpd1Q4X202YTdld1VJdTBDSHR4VU5MREVwVEZ2STQ2b2JiZDJGa0RlbzRqdWFRd0hBODMyRFV6ZFBoMDM3TWppUFY5OUVsVnNFampHZ0JhbDNGeGtsNVRCZWFsdy1ZRGVja3FXRlNRRnV5MGJjNXNkNDdEd3Y4RkFiaEk4eFVnZTdIQ2k2djZ3elV6SEEyVXdUbjNvWk00My1rTV9KUEp1Mnk1Q0ZhWmFzNGdEUkkwS3dxRG9zWTd2VXBkTXltMXY4TG1PdEp4QnowUXZreDBSbUthYmwxaHRhZHVNYjRhLWJlQmZMT0RBUU9GcVdUSWJrR05IZ0VnZzQ2MG5qVEI1UkpBb2lLQmoyblRnRnRTN1BXNHUxbTFxenl3dkVra1BiYktud1JaMWhqRmdvc09ROXIzcllkZ1oyWXpYVUtiVzFLeW5lZHJpUXl5MHdFMzdXLXVNUkQ0Vk5kRjVBT0NGNmwxaGtxc3dJaHplZ3ROcVVqQVFzNmRWWGFodVAySHduT093TXJ6c2lvWUpFWGgzdklRTzd6UTNXc3FSSEdFZVVTOEJIQm5ZenZRYzVOcUVsT3JTdi1lSWZhbzhIcnBJOUc0QmF3SFEzbzdUd01IOTIyMjg1UUU4QjJDRXkyVTZ0c0F1b2VRRzJNRlAzeElONkVSYTgtdw?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:03:16.000Z",
-      "originalHeadline": "الكويت تٌعلن التصدي لهجمات صاروخية وطائرات مسيرة معادية - Masrawy"
-    },
-    {
-      "headline": "Renewed Iranian attacks against Kuwait and Bahrain - Al Arabiya",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQNldFNHFYTkNxVlR6NldhRlJyWWRMdXpNbm5oYmxOd2ctenhFUkZpYXhDNzc0LXZ6TzRjWEY1VjljNkxyTUtLZ0pULVpCaHJWZjY5eElVTUVWalNSdmdBaExtM1VQc3ZMVV9jQVRRdW16QUZObjhtdEw4ZDRtUVV3clhjWGNWaU03SkR1dlpkUVNJT0tudEZaaG9oVHM0MHJjWFpQTFpoQmNsS1lvSmM1MWxwWjFEVmNEUldFeURjTEdBYkVSV1dXTXpObFljZmZ2eHFlYWtMaW9FeVdqUURhcVB5UjI5cTNPZnA5RjJMLWNVRGV1M1hBWGhpc3dYZGIwZ1ZBUnQxLXZLaXNqRXBZYWljREtCMFNQTk52MUI0aFU3ajhWMHplWUVzdlF3SXdBY0J2Qzd0UXNkOVZJd1VwOUNFc2NCbnNVeUo0Nk9HZVZEOHFEeDBhZGw1cjN6R3ZneFFkczIyOENDcjVIVk1mY3U3YmtTODBiZTJUeE9wUDFaY2tRTHBrODg3a2N2Xzhh0gGWA0FVX3lxTE1YVEROeHotNl9xaGdSM3hLc2xjUXg5V3pNX01OYXh2UC1PSkpiOF9JY3Q3UEFFNFh3LVlXaFljMGlKTHNpZEg1Qk0zcVY5RmdqZ3BFeG4xLUdWU1RZZThxX2V3RjV0Y3BJVEdiMkNjLUNpTjdfcVNxMHZ6elVmUm1PUXg5RUJ5cy1hakx3b0JpaG5FcFBNYlBfN2xjMGdDblo4dlA1c01rVjNONmYwZng4WkxVYnBqRjNJU0ZuYlVxLUNSX2M4TEZSNkkxZjI0elM4MW9jZHFqTE05TmgzRm1VQzd1TmRpM1ZzY01RMkV3SWxPM1VnSDlTMm1uU0UtcFlXdUxETG9YcWNrWm0wSUZFT3BtdGlCdy1KRjNsVjlWUFZXcENnS1lpV1dJN2IxdUtwM2pWVW1WSFgzLUdtbmswamdZRXJkcnliUXkwdUNVTE41Q21sTHI3WjE1MHVaeTQ1V1p1a09yR2s1Nlk1TFFJb1lweU9RQ2QydWJ6TVI4eklDNTFoTFZ3LTMyTVNRd2FKOTNrQ3c?oc=5",
-      "source": "Google News Gulf (Arabic)",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T01:03:00.000Z",
-      "originalHeadline": "تجدد الهجمات الإيرانية ضد الكويت والبحرين - العربية"
     },
     {
       "headline": "Statement issued by the Ministry of Defense\n\n#CGCKuwait",
