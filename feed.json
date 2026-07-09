@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:33:43.821Z",
+  "updated": "2026-07-09T20:45:57.685Z",
   "itemCount": 300,
   "items": [
     {
@@ -21,6 +21,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-09T20:16:55.000Z"
+    },
+    {
+      "headline": "OpenAI releases GPT-5.6 model family, Work tool",
+      "url": "https://www.wam.ae/en/details/17bcg1d-openai-releases-gpt-56-model-family-work-tool",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-09T20:07:10.031Z"
     },
     {
       "headline": "Saudi stocks close lower on Thursday, led by “Rasan” Company",
@@ -833,6 +843,17 @@
       "date": "2026-07-09T17:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "نجيب ساويرس لـ شربل يستقبل : الذهب يتأرجح ووضع الدولار يتغير"
+    },
+    {
+      "headline": "Kuwait announces that a number of electrical transmission lines are out of service",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOV0w3ZXgtYXoyQUNYcmFDVGlKR0hvb1VmVXFPeW1FeXNULUx2djZmTTBnQm1vUUx5eDFqN2txWmtJYVJTUG1VMGY5ZjFnSVI3Y2pYZW54YjRJMjEzT1lqSWJRalRtQ3Jka1E2TU16alVWeGhqZXdSUXd3LWNfOXYyRHhNbFRiSUlJcjRsRjhaTUZzZlJBeWxYNnAzbF85UWI1c2Y5WXEtNml4dTJYZ1E2NXhyY1JsY01WT3U4X1Mtd3BUZUhISWdGSjlyUG51dzk5MVk5eFpvcVBIQjJGLXRxZ3B3andTeGhPcHFYUThCUlJtSS1oTE1tTE9TSTFwblIwWVExdmlCM2o2Q2drMG83MDZLX3FfVUw4WkozTldHbUFhY210cW9FcG9jbjFiVlpvWEFjRWdwMGJvNmNZbG5mXzRqdG9PUHAyQ0doWEx1Z21BRG1PWGJUUEs1eUhqcmdEazdYSGo5UjNEdi15MTBQek1WdlREN2FPd0FGT0ZCVmJhV0RpOEc2cUVha2Vqbi1NaVdaTW12Tkx1TGxHOHEyUWFOaWhiV2R5Qld6N29YMG5PTTNlcWZYMmVBLWhsZ3p2T0hnNXMweUJCWmxHOTNLT09BXzJpZjVfaFpZVkRNdjY0c3M1VHh3cHk2TDdXbzB4TkxBSVFZV0c3WmRvSGdweXNiN2xVMm9JdVl0UkVZR1hhMVhFSk9oU3h1M2U0VzVtZVNOcmlYSEN6VmY2b2R6X01LaGgzYWg2WXNPMGxjMXBuZTBMc1NhUjNoQzJDSDI5?oc=5",
+      "source": "الشرق الأوسط",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T17:14:55.000Z",
+      "originalHeadline": "الكويت تعلن خروج عدد من خطوط النقل الكهربائية عن الخدمة"
     },
     {
       "headline": "CNN: Qatar and Pakistan are working to bring America and Iran back to the negotiating table",
@@ -1652,15 +1673,15 @@
       "date": "2026-07-09T15:12:33.000Z"
     },
     {
-      "headline": "Saudi Arabia condemns the Iranian attacks on Kuwait, Bahrain and Jordan - Masrawy",
+      "headline": "Saudi Arabia condemns the Iranian attacks on Kuwait, Bahrain and Jordan",
       "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQWXdxUlZDakp4Vy1WcGxwM2VCSVdTbmt3eDlWQXlJbklwcWJOZ2ctOXl6Ukp3TEdyWmhaZkYwajdzLVJnUERrNGtJSGFfaE94TjgzUEl5emxEUm1CNnU2S25iS1hmX2dVeVZrYkFlaF9CZlI1YWlPT0JZOXdsd0tZTnQ2MkxaN3NnU3RxY3JLMUo0U0g4aGZ2QXlWRE1nYm1DM3FmVUlCZUlrSHl6MHBYWWQ5c200Nzd3d2lrMDlhSFV1ejUya3BTUi1BLUpybk9Ub2c5bEpQLW1kZmdHUUdNM0JVeE51VmdNeFNydUFJSkpmNlFCQTlhOUkwaDNWZkU3SlRldVdQX1I2NlZ5Z2RrRUFiVExKZHpGYTlBSkhzVzNHMEM3WGpBX094YUNPUGhPM0NaemI2dFdIWFcwNnRDVVFMdVZ3b21CQjFsTHRsRjJNU1pLWFZXci1kbERpRGtNRmdYX0k2c1lmNVZEX25QSzVyWjJXYkpPc2lJZTVWWGFocE9RNzYyQWJUZC1oY25zdkNzLV94blpUbVl4YmUtZjFxbkhvdGpuZ1loX1JIRG80OThZYjNvRUNYNEVNTndXblVMdGZJVDVuNkNjNmlRdXU5SUJlTUk2Sm9vYTlPM2ZuZ2dNcXkwcmxCREZjOEtjbUlLWTdCdDFzcXJzTmRwV3hEQlVEZ1BENHVoRmx3Y0dzNFJ5ZHdhamtzZHRKaDN6X0JoZVY1c9IBrARBVV95cUxNelBQczhjY0NkbjhTamltRGlzM3pNZGNKYlRLNFNoWXVWS0dDdm1TeGlmNG10SEtPSEZpZ3d5SXdVaWFqS0hhQXdJTHYwUTBRZTkwZkhHc2JQNk5ZcWxqNE5Pc196V19aTVdIOFdwaUFXUW9oZ19pNURxY0lsel9VM0U5VkwzekREandIZ1p1Z0xJa3g0WTU5UUNhZjBUcms1d2FZN1dnVEJSQlN0WDM1NTNQTFBUb3B6c19Qa1Ryb2x6c1ZZYUtrQks5U0xJMzIyRkFfei1keGRMMGszT1FxVnczeEkzc1hsUzFyTW1vZzRjclM0MVh4bzhKRFBCNmlkT3FKZjJVaVc1Vnd1eFNzOUJXQWNBVmk3RGwya0VEME1RZUUxLU1mcUJkdmNXMGR6TnhfdE1Bczl2UVlacExqRUpsbUNVSE53blVoZFlaY09nckN5NFNhZldvNVMzb2dpREVZOHBSbnN3aWxPejAzVXdSOUdjajJrNmVHd29IaDBmdFltbGJ4SzdseUY2NDJWa2hMSjdnZ2k0UEFheTZUWGFNcTJKQU05MU8wdW5ycXBUZ0VNYXhLcS1aemVNZC1KVFR5UjVrME5ZSk0tR0ZPLUJOczkwTkh3ajFsZWl0aC1ubmRQMkVZT0hIZEYxeUdVNXdXeUFPZV9INXd3Ymw5OEdpSUNxMC1TS1pyaVpJUUlTUGtVWEdLT2RkeGlRMnFFNGRDY2ZWWDV2U3JS?oc=5",
-      "source": "Google News Gulf (Arabic)",
+      "source": "Masrawy",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-09T15:07:12.000Z",
-      "originalHeadline": "السعودية تدين الهجمات الإيرانية على الكويت والبحرين والأردن - Masrawy"
+      "originalHeadline": "السعودية تدين الهجمات الإيرانية على الكويت والبحرين والأردن"
     },
     {
       "headline": "The Sultanate of #Oman achieves a new milestone in the 2026 Environmental Performance Index, rising to 49th place globally among 180 countries.\n\n\nhttps://\nn9.cl/won1m",
@@ -1995,17 +2016,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-09T14:09:36.000Z"
-    },
-    {
-      "headline": "Kuwait announces that a number of electrical transmission lines are out of service",
-      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOV0w3ZXgtYXoyQUNYcmFDVGlKR0hvb1VmVXFPeW1FeXNULUx2djZmTTBnQm1vUUx5eDFqN2txWmtJYVJTUG1VMGY5ZjFnSVI3Y2pYZW54YjRJMjEzT1lqSWJRalRtQ3Jka1E2TU16alVWeGhqZXdSUXd3LWNfOXYyRHhNbFRiSUlJcjRsRjhaTUZzZlJBeWxYNnAzbF85UWI1c2Y5WXEtNml4dTJYZ1E2NXhyY1JsY01WT3U4X1Mtd3BUZUhISWdGSjlyUG51dzk5MVk5eFpvcVBIQjJGLXRxZ3B3andTeGhPcHFYUThCUlJtSS1oTE1tTE9TSTFwblIwWVExdmlCM2o2Q2drMG83MDZLX3FfVUw4WkozTldHbUFhY210cW9FcG9jbjFiVlpvWEFjRWdwMGJvNmNZbG5mXzRqdG9PUHAyQ0doWEx1Z21BRG1PWGJUUEs1eUhqcmdEazdYSGo5UjNEdi15MTBQek1WdlREN2FPd0FGT0ZCVmJhV0RpOEc2cUVha2Vqbi1NaVdaTW12Tkx1TGxHOHEyUWFOaWhiV2R5Qld6N29YMG5PTTNlcWZYMmVBLWhsZ3p2T0hnNXMweUJCWmxHOTNLT09BXzJpZjVfaFpZVkRNdjY0c3M1VHh3cHk2TDdXbzB4TkxBSVFZV0c3WmRvSGdweXNiN2xVMm9JdVl0UkVZR1hhMVhFSk9oU3h1M2U0VzVtZVNOcmlYSEN6VmY2b2R6X01LaGgzYWg2WXNPMGxjMXBuZTBMc1NhUjNoQzJDSDI5?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T14:07:27.000Z",
-      "originalHeadline": "الكويت تعلن خروج عدد من خطوط النقل الكهربائية عن الخدمة"
     },
     {
       "headline": "Civil Aviation Authority launches DroneX programme",
@@ -2650,7 +2660,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-09T12:44:26.000Z",
-      "originalHeadline": "الكويت والبحرين وال��ردن تتصدى لهجمات إيرانية وتحذير أمني في قطر"
+      "originalHeadline": "الكويت والبحرين والأردن تتصدى لهجمات إيرانية وتحذير أمني في قطر"
     },
     {
       "headline": "Minister: Bahrain did not use the currency swap agreement with the UAE - Reuters",
@@ -3023,17 +3033,6 @@
     {
       "headline": "600 Dead in DR Congo Ebola Outbreak",
       "url": "https://english.aawsat.com/world/5294010-600-dead-dr-congo-ebola-outbreak",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-09T12:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "In Iraq ... the Country Good Comes Before Any Other Interest",
-      "url": "https://english.aawsat.com/opinion/5294041-iraq-countrys-good-comes-any-other-interest",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
