@@ -225,6 +225,34 @@
       .item .time { min-width: 40px; font-size: 10px; }
       .keyword-input { width: 120px; }
     }
+    /* Reader feedback — ported from the retired synthesized pages 2026-07-09.
+       Posts to the same Cloudflare worker /feedback -> GitHub issue path. */
+    .feedback-section {
+      max-width: 900px;
+      margin: 24px auto 40px;
+      padding: 16px 20px 0;
+      border-top: 1px solid #222;
+      text-align: center;
+    }
+    .feedback-prompt { font-size: 12px; color: #888; margin-bottom: 10px; }
+    .feedback-buttons { display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; }
+    .feedback-btn {
+      font-size: 18px; padding: 4px 14px; border: 1px solid #333;
+      border-radius: 4px; background: transparent; cursor: pointer;
+    }
+    .feedback-btn:hover { border-color: #555; }
+    .feedback-btn.selected { border-color: #e5a100; background: #1a1500; }
+    .feedback-textarea {
+      display: block; width: 100%; max-width: 480px; margin: 10px auto;
+      padding: 8px; background: #111; border: 1px solid #333; border-radius: 4px;
+      color: #d4d4d4; font-family: inherit; font-size: 12px; resize: vertical;
+    }
+    .feedback-submit {
+      padding: 4px 16px; background: transparent; border: 1px solid #333;
+      border-radius: 4px; color: #888; font-family: inherit; font-size: 12px; cursor: pointer;
+    }
+    .feedback-submit:hover { border-color: #e5a100; color: #e5a100; }
+    .feedback-thanks { display: none; font-size: 12px; color: #22c55e; }
   </style>
 </head>
 <body>
@@ -262,6 +290,18 @@
 
   <div class="feed" id="feed"></div>
   <div class="stats-bar" id="stats"></div>
+
+  <!-- Reader feedback. Lives outside #feed so render() never wipes it. -->
+  <div class="feedback-section" id="feedback-section">
+    <div class="feedback-prompt">How's the Gulf Wire working? Missing a source or seeing noise?</div>
+    <div class="feedback-buttons" id="feedback-buttons">
+      <button class="feedback-btn" data-reaction="thumbsup" onclick="selectReaction(this)">&#x1F44D;</button>
+      <button class="feedback-btn" data-reaction="thumbsdown" onclick="selectReaction(this)">&#x1F44E;</button>
+    </div>
+    <textarea class="feedback-textarea" id="feedback-comment" placeholder="Missing a source? Something off? Tell us..." rows="2"></textarea>
+    <button class="feedback-submit" id="feedback-submit" onclick="submitFeedback()">Send</button>
+    <div class="feedback-thanks" id="feedback-thanks">Feedback sent &mdash; thank you!</div>
+  </div>
 
 <script>
   // ============================================
@@ -493,6 +533,61 @@
 
   loadFeed();
   setInterval(loadFeed, 60000); // Refresh every 60s
+</script>
+
+<script>
+  // --- Reader feedback -> Cloudflare worker /feedback -> GitHub issue (label: feedback).
+  // Read what comes in with: gh issue list --repo wtv1gnf3hbk/gulf-briefing --label feedback
+  var FEEDBACK_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev/feedback';
+  var selectedReaction = null;
+  // The Wire has no single "briefing date" — key feedback by local calendar day
+  // so a browser submits at most once per day and issues group by day.
+  var fbDateKey = new Date().toISOString().slice(0, 10);
+
+  (function() {
+    if (localStorage.getItem('gulf-feedback-sent-' + fbDateKey)) {
+      document.getElementById('feedback-buttons').style.display = 'none';
+      document.querySelector('.feedback-prompt').style.display = 'none';
+      document.getElementById('feedback-comment').style.display = 'none';
+      document.getElementById('feedback-submit').style.display = 'none';
+      document.getElementById('feedback-thanks').style.display = 'block';
+    }
+  })();
+
+  function selectReaction(btn) {
+    document.querySelectorAll('.feedback-btn').forEach(function(b) { b.classList.remove('selected'); });
+    btn.classList.add('selected');
+    selectedReaction = btn.dataset.reaction;
+  }
+
+  async function submitFeedback() {
+    var comment = document.getElementById('feedback-comment').value.trim();
+    if (!selectedReaction && !comment) return; // need a reaction or a comment
+    var submitBtn = document.getElementById('feedback-submit');
+    submitBtn.textContent = 'Sending...';
+    submitBtn.disabled = true;
+    try {
+      var res = await fetch(FEEDBACK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          reaction: selectedReaction || 'comment',
+          comment: comment || '',
+          briefingDate: fbDateKey
+        })
+      });
+      if (!res.ok) throw new Error('Server error');
+      document.getElementById('feedback-buttons').style.display = 'none';
+      document.getElementById('feedback-comment').style.display = 'none';
+      document.getElementById('feedback-submit').style.display = 'none';
+      document.querySelector('.feedback-prompt').style.display = 'none';
+      document.getElementById('feedback-thanks').style.display = 'block';
+      localStorage.setItem('gulf-feedback-sent-' + fbDateKey, '1');
+    } catch (e) {
+      submitBtn.textContent = 'Error — try again';
+      submitBtn.disabled = false;
+    }
+  }
 </script>
 
 </body>

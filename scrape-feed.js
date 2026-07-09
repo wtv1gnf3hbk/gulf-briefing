@@ -172,12 +172,27 @@ function parseRSS(xml, source) {
                   itemXml.match(/<link[^>]*href="([^"]+)"/))?.[1]?.trim();
     const pubDate = (itemXml.match(/<pubDate>(.*?)<\/pubDate>/))?.[1]?.trim();
 
-    const headline = cleanHeadline(title?.replace(/<[^>]*>/g, ''));
+    // Google News RSS wraps each item with the real publisher in a <source> tag
+    // and appends " - Publisher" to the title. Surface the real outlet and strip
+    // the suffix so the Wire shows "Al Arabiya", not "Google News Gulf (Arabic)".
+    // (We keep the Google redirect URL — it resolves to the publisher on click;
+    // decoding the CBMi... token server-side is brittle and not worth it here.)
+    const gnSource = itemXml.match(/<source[^>]*>([\s\S]*?)<\/source>/)?.[1]
+      ?.replace(/<[^>]*>/g, '').trim();
+    let rawTitle = title;
+    let displaySource = source.name;
+    if (gnSource && /google\s*news/i.test(source.name)) {
+      displaySource = gnSource;
+      const esc = gnSource.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      rawTitle = title?.replace(new RegExp('\\s*[-–—|]\\s*' + esc + '\\s*$'), '').trim() || title;
+    }
+
+    const headline = cleanHeadline(rawTitle?.replace(/<[^>]*>/g, ''));
     if (headline && link) {
       items.push({
         headline,
         url: link,
-        source: source.name,
+        source: displaySource,
         sourceId: source.id,
         category: source.category || 'general',
         country: COUNTRY_MAP[source.category] || 'Other',
@@ -587,14 +602,55 @@ async function main() {
     }
   }
 
+  // ---- Collapse near-duplicate stories (same event from many sources) ----
+  // The URL dedup above only catches identical URLs. The same story routinely
+  // appears as a tweet, a direct-RSS item, AND several Google News aggregator
+  // copies. Collapse by a normalized headline key, keeping the highest-value
+  // copy of each: tweets (primary sources) beat direct RSS, which beat Google
+  // News redirects. Ties break to the freshest item. Keeping tweets on top
+  // guards against dropping an official-account post just because a wire ran a
+  // similar headline (the exact "missed tweet" failure mode we care about).
+  const dedupeKey = (headline) => (headline || '')
+    .toLowerCase()
+    .replace(/https?:\/\/\S+/g, ' ')            // drop URLs
+    .replace(/[^a-z0-9؀-ۿ ]+/g, ' ')  // keep latin + arabic + digits
+    .replace(/\s+/g, ' ')
+    .trim()
+    .split(' ').slice(0, 12).join(' ');         // first 12 tokens tolerate tail variation
+  const dupRank = (item) => {
+    if (/news\.google\.com/.test(item.url || '') || /google news/i.test(item.source || '')) return 2; // aggregator: worst
+    if ((item.category || '').includes('twitter')) return 0; // primary source: best
+    return 1; // direct outlet
+  };
+  const byPreference = [...merged].sort((a, b) => {
+    const r = dupRank(a) - dupRank(b);
+    if (r !== 0) return r;
+    return new Date(b.date) - new Date(a.date);
+  });
+  const seenHeadline = new Set();
+  const deduped = [];
+  let collapsed = 0;
+  for (const item of byPreference) {
+    const key = dedupeKey(item.headline);
+    if (key.length < 8) { deduped.push(item); continue; } // too short to judge — keep
+    const isTweet = (item.category || '').includes('twitter');
+    // Tweets are primary sources and are NEVER dropped as duplicates — the whole
+    // point of this feed is to not miss an official-account post. We still record
+    // their key so a later aggregator/RSS echo of the same story collapses away.
+    if (seenHeadline.has(key) && !isTweet) { collapsed++; continue; }
+    seenHeadline.add(key);
+    deduped.push(item);
+  }
+  console.log(`Near-duplicate collapse: removed ${collapsed} (${merged.length} -> ${deduped.length})`);
+
   // Sort by date (newest first), cap at MAX_ITEMS.
   // Reserve a floor for twitter items so high-volume RSS/GDELT can't starve them.
   // Strategy: fill up to TWEET_FLOOR twitter items first, then fill remaining
   // slots with non-twitter items sorted by date.
   const TWEET_FLOOR = 120;
-  merged.sort((a, b) => new Date(b.date) - new Date(a.date));
-  const tweetItems = merged.filter(i => (i.category || '').includes('twitter'));
-  const nonTweetItems = merged.filter(i => !(i.category || '').includes('twitter'));
+  deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const tweetItems = deduped.filter(i => (i.category || '').includes('twitter'));
+  const nonTweetItems = deduped.filter(i => !(i.category || '').includes('twitter'));
   const reservedTweets = tweetItems.slice(0, TWEET_FLOOR);
   const remaining = nonTweetItems.slice(0, MAX_ITEMS - reservedTweets.length);
   const final = [...reservedTweets, ...remaining].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, MAX_ITEMS);
