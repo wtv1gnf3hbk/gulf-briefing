@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:48:37.295Z",
+  "updated": "2026-07-10T00:03:50.635Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,18 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-09T23:30:17.000Z"
+    },
+    {
+      "headline": "جريدة الرياض | Venezuela ends the monopoly of the oil sector and opens it completely to private companies",
+      "url": "https://www.alriyadh.com/2197248",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T23:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | فنزويلا تنهي احتكار قطاع النفط وتفتحه بالكامل أمام الشركات الخاصة"
     },
     {
       "headline": "KSrelief Signs Cooperation Agreement with MWL to Implement Specialized Medical Programs in Several Countries",
@@ -31,6 +43,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-09T23:18:18.000Z"
+    },
+    {
+      "headline": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-09T23:10:00.000Z"
     },
     {
       "headline": "Saudi-Canadian Business Council Chairman: Saudi Vision 2030 Drives Qualitative Economic Transformation and Opens Promising Opportunities",
@@ -442,7 +464,7 @@
       "date": "2026-07-09T20:46:13.000Z"
     },
     {
-      "headline": "Saudi Arabia and Canada advance their relations with a joint coordination council - Al-Shorouk Gate",
+      "headline": "Saudi Arabia and Canada advance their relations with a joint coordination council",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0hhYmVrc1JBamJxc1FGaHp5SHRvTHJpV2R2TW1fM3FGX0pmM1EwUkdyQnF6OEVqaVZGamg0eVQxMURjWkc4azl1RGxyWjBVY1g1MjB1dDVmY1FjTml5Q19sNDNnYk9MMmNsOEtvdUwwMTR0SmxIY1FwejZMRXdfY05uODloSEJVWklUZDc3T2lDN2I1cnNYWGlHZV9rUlZBNVYtMmpYMA?oc=5",
       "source": "بوابة الشروق",
       "sourceId": "google_news_gulf_arabic",
@@ -450,7 +472,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-09T20:46:06.000Z",
-      "originalHeadline": "السعودية وكندا تدفعان علاقاتهما بمجلس تنسيق مشترك - بواب�� الشروق"
+      "originalHeadline": "السعودية وكندا تدفعان علاقاتهما بمجلس تنسيق مشترك"
     },
     {
       "headline": "Israel Says Ready to Attack Iran for Third Time if Necessary",
@@ -742,17 +764,6 @@
       "date": "2026-07-09T19:45:29.000Z"
     },
     {
-      "headline": "Dadweyne aad u tiro badan oo isugu soo baxay Mashhad si ay uga qaybgalaan aaska hoggaamiyihii sare ee geeriyooday ee Iran",
-      "url": "https://www.bbc.com/somali/articles/czxqzgn2zq4o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-09T19:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "4 nutritional supplements to relieve joint pain",
       "url": "https://aawsat.com/%D8%B5%D8%AD%D8%AA%D9%83/5294235-4-%D9%85%D9%83%D9%85%D9%84%D8%A7%D8%AA-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A2%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D8%B5%D9%84",
       "source": "Asharq al-Awsat",
@@ -811,6 +822,17 @@
       "date": "2026-07-09T19:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مرض الكلى المزمن ... خطر خفي على قلبك"
+    },
+    {
+      "headline": "Dadweyne aad u tiro badan oo isugu soo baxay Mashhad si ay uga qaybgalaan aaska hoggaamiyihii sare ee geeriyooday ee Iran",
+      "url": "https://www.bbc.com/somali/articles/czxqzgn2zq4o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-09T19:45:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Sources: Mediators are working to bring America and Iran back to negotiations",
@@ -914,16 +936,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-09T19:29:06.000Z"
-    },
-    {
-      "headline": "US and Iran exchange more attacks across the Mideast, threatening ceasefire deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-09T19:29:00.000Z"
     },
     {
       "headline": "Interior Ministry Participates in INTERPA's 29th Executive Board Meeting",
@@ -1833,17 +1845,6 @@
       "originalHeadline": "نجيب ساويرس لـ شربل يستقبل : الذهب يتأرجح ووضع الدولار يتغير"
     },
     {
-      "headline": "Kuwait announces that a number of electrical transmission lines are out of service",
-      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOV0w3ZXgtYXoyQUNYcmFDVGlKR0hvb1VmVXFPeW1FeXNULUx2djZmTTBnQm1vUUx5eDFqN2txWmtJYVJTUG1VMGY5ZjFnSVI3Y2pYZW54YjRJMjEzT1lqSWJRalRtQ3Jka1E2TU16alVWeGhqZXdSUXd3LWNfOXYyRHhNbFRiSUlJcjRsRjhaTUZzZlJBeWxYNnAzbF85UWI1c2Y5WXEtNml4dTJYZ1E2NXhyY1JsY01WT3U4X1Mtd3BUZUhISWdGSjlyUG51dzk5MVk5eFpvcVBIQjJGLXRxZ3B3andTeGhPcHFYUThCUlJtSS1oTE1tTE9TSTFwblIwWVExdmlCM2o2Q2drMG83MDZLX3FfVUw4WkozTldHbUFhY210cW9FcG9jbjFiVlpvWEFjRWdwMGJvNmNZbG5mXzRqdG9PUHAyQ0doWEx1Z21BRG1PWGJUUEs1eUhqcmdEazdYSGo5UjNEdi15MTBQek1WdlREN2FPd0FGT0ZCVmJhV0RpOEc2cUVha2Vqbi1NaVdaTW12Tkx1TGxHOHEyUWFOaWhiV2R5Qld6N29YMG5PTTNlcWZYMmVBLWhsZ3p2T0hnNXMweUJCWmxHOTNLT09BXzJpZjVfaFpZVkRNdjY0c3M1VHh3cHk2TDdXbzB4TkxBSVFZV0c3WmRvSGdweXNiN2xVMm9JdVl0UkVZR1hhMVhFSk9oU3h1M2U0VzVtZVNOcmlYSEN6VmY2b2R6X01LaGgzYWg2WXNPMGxjMXBuZTBMc1NhUjNoQzJDSDI5?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T17:14:55.000Z",
-      "originalHeadline": "الكويت تعلن خروج عدد من خطوط النقل الكهربائية عن الخدمة"
-    },
-    {
       "headline": "CNN: Qatar and Pakistan are working to bring America and Iran back to the negotiating table",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWXJsOHY1UmNYWlhqcHduc3F3Y1VLMHdhaFd1RklQNS1KTlJZLVJMOWRhdXhoQ3VOQUdwWk84QVBWQzRJejNQLXhGSml1SEg1cHdtTGZB?oc=5",
       "source": "بوابة الأهرام",
@@ -1863,6 +1864,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-09T17:12:29.000Z"
+    },
+    {
+      "headline": "Kuwait announces that a number of electrical transmission lines are out of service",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOV0w3ZXgtYXoyQUNYcmFDVGlKR0hvb1VmVXFPeW1FeXNULUx2djZmTTBnQm1vUUx5eDFqN2txWmtJYVJTUG1VMGY5ZjFnSVI3Y2pYZW54YjRJMjEzT1lqSWJRalRtQ3Jka1E2TU16alVWeGhqZXdSUXd3LWNfOXYyRHhNbFRiSUlJcjRsRjhaTUZzZlJBeWxYNnAzbF85UWI1c2Y5WXEtNml4dTJYZ1E2NXhyY1JsY01WT3U4X1Mtd3BUZUhISWdGSjlyUG51dzk5MVk5eFpvcVBIQjJGLXRxZ3B3andTeGhPcHFYUThCUlJtSS1oTE1tTE9TSTFwblIwWVExdmlCM2o2Q2drMG83MDZLX3FfVUw4WkozTldHbUFhY210cW9FcG9jbjFiVlpvWEFjRWdwMGJvNmNZbG5mXzRqdG9PUHAyQ0doWEx1Z21BRG1PWGJUUEs1eUhqcmdEazdYSGo5UjNEdi15MTBQek1WdlREN2FPd0FGT0ZCVmJhV0RpOEc2cUVha2Vqbi1NaVdaTW12Tkx1TGxHOHEyUWFOaWhiV2R5Qld6N29YMG5PTTNlcWZYMmVBLWhsZ3p2T0hnNXMweUJCWmxHOTNLT09BXzJpZjVfaFpZVkRNdjY0c3M1VHh3cHk2TDdXbzB4TkxBSVFZV0c3WmRvSGdweXNiN2xVMm9JdVl0UkVZR1hhMVhFSk9oU3h1M2U0VzVtZVNOcmlYSEN6VmY2b2R6X01LaGgzYWg2WXNPMGxjMXBuZTBMc1NhUjNoQzJDSDI5?oc=5",
+      "source": "الشرق الأوسط",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-09T17:09:19.000Z",
+      "originalHeadline": "الكويت تعلن خروج عدد من خطوط النقل الكهربائية عن الخدمة"
     },
     {
       "headline": "Kingdom of Bahrain condemns the repeated brutal Iranian aggressions against the Kingdom, the State of Kuwait, and the Hashemite Kingdom of Jordan\n\n\nhttps://\nbit.ly/4eRW1SS",
@@ -2856,7 +2868,7 @@
       "date": "2026-07-09T14:29:00.000Z"
     },
     {
-      "headline": "Kuwait, Bahrain and Jordan confront Iranian attacks and a security warning in Qatar",
+      "headline": "Kuwait, Bahrain and Jordan responded to Iranian attacks and a security warning in Qatar",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQT2NSaF81ZS1vR1JabDhLZTdiT2x3RHRQWDd2S3NDeDhEZWJ1MkdneVpDSy1ZTEFmdVNfVjRDR1EtYVRtYk5nb3JCbk9hYWVJQS1mZDQtYlFWZVJkVlNlMlNPQlB3c21PWF9MS05MekM3UjBkd1UzUWhrYVFkV1Q5Q25mVHBXWG5YY1Vjb182T0xReklYVHFfXzhHXzVzcTM0Sy1CVFN1X29hakhlWlhwcnVMSnprRjE3SFFDRVl6dkpwb2tyUzlkemM5Z0tkTXFBS1h5VkRuYnpTYi0zZ0xYUjFwdk9jUmpFV0pQcXY2SGtQM05fdWdkNkxURHcxR1l5QkkxMHR2Um44bzJUSkdVUUFSdDVrMVFfQ0JXVlVjTU03U0pLRVFTNVBSdUprbFloRTE4anVFYUJUa0ZnN2hrUVFnMlhoSzNyRkdFR2U0SdIB1AJBVV95cUxPVXlyZGZUYm1GSEhEQUhWZFREZkhORjI2ZmlManlET3R4d1NTYWxuU3prSVh0WWpENzhCSm1VM2dlLUNyWXoxYnI5X0ZPbGw3YkdibExQWldfOFM5dVRFQ2pxc2Z2OVBEYUpVbnl6c3I0VmRqTHdzR25ub3FLV0xYWUkzbU5vbVNXaWNvMy1feHNGNHRuSFFBcEE3dFNlanBRTjBiWmhWX3drazA5ZmJyU1NDQVpYM0ZLUHdCLUpLSXcxUExaN3h2ZVFMa2dvQ0VCbF9lTFZOMS11QnFkMHV1VlVuY0drQVVvNzlkczdNRXAxUE81Y0c2d2FDUENpVVA1QWRhUXdURzNsQlplenBjQjloaUZySktna3ZsU1VIUmJQM19nOXp3OU9MSGFDUmNraGZMbVlocU5TMmJ5S3pVNTNmMjRpVXFsNTFtWDA5TEFTUC1j?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -2864,7 +2876,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-09T14:22:35.000Z",
-      "originalHeadline": "الكويت والبحرين والأردن تتصدى لهجمات إيرانية وتحذير أمني في قطر"
+      "originalHeadline": "الكويت والبحرين والأردن ت��صدى لهجمات إيرانية وتحذير أمني في قطر"
     },
     {
       "headline": "Oil climbs as renewed US strikes on Iran erode pace hopes",
@@ -3005,17 +3017,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-09T14:09:36.000Z"
-    },
-    {
-      "headline": "“Pharmaceuticals” and “Rasan” lead liquidity in the Saudi stock market at the end of Thursday’s trading",
-      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxPQ2RHMGt5M1pxcnkzS2Z5NzNVN0VWOTRKa3d1eU14ZmFkVExxal9JcWNQclFjdmxSa2RHYjROMUtfV09HdllUa25jY1ZJakY0ZExWc0pMaWxHazF4ZFBGeElkeGcxYy1xN3NhcDZnM0NQTndaSVMzblV3WGJjNEJOdnVpSFI5TkVxUFRkUzhJdzBUdC1jMFJWcWE2VnFPdVRRVXQ5Q0VzUlBxVlZfVXA2ZkJRdWFnTFlwcTFPQVpzMDY1RXVGT2hxUjhoR2xNejBjTHJrZXJsVjNZdVVpeGRnQ2x3TjlMRU1CZnZGeHpHVGd3WFpkdlRpM2lDNDI1cm5zdlNvN0tnMHdyOVJCS090ck1Ic3dXZ1RaSXd4TU5LTE5SMS16MlI3QzRCeHF5ZndYQmJpVEhsT3BsQlM3MTUyTUR5c2QtVmNIa3loV284dWFFajBGMTVhc2FNNVlaWWRQUVd1UzJjNFYzWE9HRWo2OElySDBmc09aSFNlTnNMTV9JOGhXcTJaNUlBdExwVkEycmxZSHdBR09JZ3c0ZmZnZi1xajByLXItWDZReDJ0dUJfcXBheF9pbEFnUjVyTFpvZWh2bXVwLVdPUVRXRmNyTXF6LUdENW1QRVVqUnlYVm5sRS1NNV9hdGpBMURXaGI4aUFDUHV3WUNjX21rdjNZVjl0N1RQN29hS0p3VFdyNjV0SXBIRUE5a1NZUW5USG5EcTBlUUExc3dtaFdHX25rbDdOUE5Wd1dERUEzZVBicGNxRGVDM0RhYkRwa1k0RkZi?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-09T13:57:45.000Z",
-      "originalHeadline": "\"الدوائية\" و\"رسن\" يتصدران السيولة بسوق الأسهم السعودية بختام تعاملات الخميس"
     },
     {
       "headline": "Continuing the ongoing journey of giving led by Her Highness Sheikha Hind bint Maktoum bin Juma Al Maktoum, in service to the Holy Quran and its people, and supporting Quran memorization circles in Dubai's mosques, the Dubai Islamic Affairs and Charitable Activities Department",
