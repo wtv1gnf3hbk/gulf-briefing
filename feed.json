@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T17:46:27.173Z",
+  "updated": "2026-07-11T18:03:46.755Z",
   "itemCount": 300,
   "items": [
     {
@@ -20,7 +20,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-07-11T17:22:22.000Z",
+      "date": "2026-07-11T17:23:27.000Z",
       "originalHeadline": "الإمارات تبحث هاتفيا مع كل من قطر والأردن تطورات المنطقة"
     },
     {
@@ -121,6 +121,17 @@
       "originalHeadline": "أكسيوس: إيران وعمان تبحثان مقترحا لإنهاء أزمة مضيق هرمز"
     },
     {
+      "headline": "Jeddah - Ottawa : The Horizon of the Present and Partnerships for the Future",
+      "url": "https://english.aawsat.com/opinion/5294754-jeddah-ottawa-horizon-present-and-partnerships-future",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-11T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "The Gulf : The Age of Self - Reliance",
       "url": "https://english.aawsat.com/opinion/5294777-gulf-age-self-reliance",
       "source": "Asharq al-Awsat (EN)",
@@ -145,17 +156,6 @@
     {
       "headline": "Saudi Arabia , Pakistan Urge Need to Support Mediation Efforts to Contain Regional Tensions",
       "url": "https://english.aawsat.com/gulf/5294839-saudi-arabia-pakistan-urge-need-support-mediation-efforts-contain-regional-tensions",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-11T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Jeddah - Ottawa : The Horizon of the Present and Partnerships for the Future",
-      "url": "https://english.aawsat.com/opinion/5294754-jeddah-ottawa-horizon-present-and-partnerships-future",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -204,7 +204,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-11T15:41:34.000Z",
-      "originalHeadline": "وزيرا خارجية قطر وسوريا يستعرضان التعاون الثنائي وملف ال��سلحة الكيميائية"
+      "originalHeadline": "وزيرا خارجية قطر وسوريا يستعرضان التعاون الثنائي وملف الأسلحة الكيميائية"
     },
     {
       "headline": "Oman's Al Juma elected Arab Hockey Federation president",
@@ -374,7 +374,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-11T14:55:00.000Z",
-      "originalHeadline": "أكسيوس: مفاوضون قطريون يشاركون في محادثات مع إيران وعمان حول مضيق هرمز بمسقط"
+      "originalHeadline": "أكسيوس: مفاوضون قطريون يشاركون في محادثات مع إيران وعمان حول مضيق هرمز بمسق��"
     },
     {
       "headline": "Al-Oyayari: Hajj revenues during the second quarter of 2026 exceed two billion riyals and achieve growth of nearly 400 million",
@@ -405,6 +405,17 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-11T14:53:27.000Z"
+    },
+    {
+      "headline": "Axios: Qatar joins the \"Hormuz talks\" in Muscat",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVkZTclNTQWVrc0FvbFNKZ1pYUV9tcGhqVERqWVNKcE9sRnREamxxQmdTTV9DRHlaWVk4a2JWcVZVRFFjYXA0NzdxdkNqOU9FOTl3SzRDUXZ4MVlDMVNEQ0tfLWlOdjF1TFFzUGlEQ0pmVGdGOTVUZXdhd0s3SzkydUdINjVVMlVTbEJzc1lwaHV1cFRmbC1rZTdobklyYUZOWndMektHc25EaURId09mQmNPS0lWV3RTUktmTnloZXZaaC03QlZjcGNZUlk5ZENFVnBkRXRqdkJCazdtTUhUZDItcnNSUHJNci1iWUtaUU43bjh3dk1QRW00WnhZbU5PTzQxV3pDVkFFOEJMWFJIeXNWTkRuTXkyS1hCQklFbzhTT3JkbUw4RlYxdDJuTk5kQVdteXNWamMxaktXVFpPc3dGbDZmbnFlUjZMa1RzWjdlXzUwa01z0gHcAkFVX3lxTE9HQ01HQ2E2Vi0xbTh4RkZGaGZ3bm1SSmszbnMtOUtmOU5udG5mY2NnUlJJcWZsVkxQbGZvM3prcjFqamVSSUxUSFhoSkFNOFVnT2lBM21XZVU0cmtOaEdEQlhOTDlhbkIyTXBVVW96amxuWmNDTUk0M19qTkdrdHhXOTk5VldOX2hEcHRNamtvNjZUMlJ2eU9hdWROUm5GQ1BjYjhQZUF0V1BRVDU4dEVjbkwtRGhGVTY3WHhqbjZhZEl2S0R6b1U2cHFpZzFQb1N0ekFCRThTM001aW9vUm04eTAwX3ZBVWJuMkNSTGZ0cTVLWGJTNzc4ajhvbzBGWEMtUGVNZjF0U05LMmJ2cHEtMklyN3gyaTQwSGZKOXJtX2pmUzJOZ1h4ZWVrZ2ZpeWhVZG16Y1hyRE5mZUpwa3FESzNONWJIaWFTTWZsU2xTRXRCQnp2RnZFZFQteQ?oc=5",
+      "source": "سكاي نيوز عربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-11T14:48:27.000Z",
+      "originalHeadline": "أكسيوس: قطر تدخل على خط \"محادثات هرمز\" بمسقط"
     },
     {
       "headline": "#Public_Health| The Ministry of Health honors hospitals that have obtained the \"Baby-Friendly Hospital\" accreditation and the Certificate of Excellence in supporting natural breastfeeding.",
@@ -471,7 +482,7 @@
       "originalHeadline": "الإمارات تطلق برنامجاً لتأهيل مليون مستجيب لحالات الطوارئ والكوارث"
     },
     {
-      "headline": "Qatar National Bank: The repercussions of Iran’s love will prolong the energy crisis in Asia",
+      "headline": "Qatar National Bank: The repercussions of the Iranian heat will prolong the energy crisis in Asia",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNT0xpU3BVLVROcjZBbDcyMzRxRFJ2dmRRRm94QUpBZlFlakdWcE5JV2dxdDhZOFRJMDZFVng0ZDRsV0xyRWVQWWRKX1J3Sm83dGU0VWtyMWQ4X2t2RENVTUVmZ3N2Snd3RElJVTZQSXdGSnpnakRHTEdqdjhVaEJYMnVMcWZrS3FYNGQ1a0hFdy03ZTNnY2RpRl95aVZLUzhMcS0zanZBRFcyc3hVcEZNVG1JckpOdWEtc0FfU0VsRmZDeDFmeGg4ZV9wT3JQXzc2NmVHU285T3pXRnNyV2NCMFRuSF9xY1dXLS1OUHp0aWxnLVk0ZC0yT1BzY0NOTllUaERQa0dkSkI0Ujg4MDE4RXpXQWt2M09PcDFhZzFBSElOUkE2WE5uZ01MLXZtRURYR3lZcnlOeW9TZi1WVDZQdtIBxgJBVV95cUxNVE1WTHE1eW54UkozVjFENWlUcHJSaG9tSGJySm1YSGpKaVRLYlctLUtER1lVS3dObktjaGowTzB6cGx6U1EtTnowdk9KMVBPRHJ3T0RoWFlWaDVlWFdDdW1laHlXOEFmdmJGam9Td1VpSkVNeFZtSC1NUzFmZEgwSzU0UjB3TWgxeW45aUc3UW43QkhFeVEtbUdLakl1RmsyTUxRaDNISHlqZ1JnZERER1RTcGg4YW9TR0h4S0Mwd2RLTTFod21qcXNQX3BGZ3lWZjFtMDRxc1A1dkVJWjQ1TFl1dDlsLWt0UkxyeUJaRm1naHRXLTl6VVFKYUlOUXhXTGVjYThJSzBSWFNBc040R3Y3eEo1dzBfb0FNVmEyOVlUaXkwVXA1bUt0X3hoMXVROXRyb3p0RGxyY29OcDkyd1dYcTBSdw?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -479,7 +490,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-11T14:36:02.000Z",
-      "originalHeadline": "بنك قطر الوطني: تداعيات ح��ب إيران ستطيل أمد أزمة الطاقة في آسيا"
+      "originalHeadline": "بنك قطر الوطني: تداعيات حر�� إيران ستطيل أمد أزمة الطاقة في آسيا"
     },
     {
       "headline": "America announces easing export restrictions on the UAE.. What does the decision mean?",
@@ -532,17 +543,6 @@
       "language": "ar",
       "date": "2026-07-11T14:24:00.000Z",
       "originalHeadline": "أمهات المختطفين باليمن تدين تأجيل الحوثيين تبادل الأسرى وتحملهم المسؤولية"
-    },
-    {
-      "headline": "Axios: Qatar joins the \"Hormuz talks\" in Muscat",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVkZTclNTQWVrc0FvbFNKZ1pYUV9tcGhqVERqWVNKcE9sRnREamxxQmdTTV9DRHlaWVk4a2JWcVZVRFFjYXA0NzdxdkNqOU9FOTl3SzRDUXZ4MVlDMVNEQ0tfLWlOdjF1TFFzUGlEQ0pmVGdGOTVUZXdhd0s3SzkydUdINjVVMlVTbEJzc1lwaHV1cFRmbC1rZTdobklyYUZOWndMektHc25EaURId09mQmNPS0lWV3RTUktmTnloZXZaaC03QlZjcGNZUlk5ZENFVnBkRXRqdkJCazdtTUhUZDItcnNSUHJNci1iWUtaUU43bjh3dk1QRW00WnhZbU5PTzQxV3pDVkFFOEJMWFJIeXNWTkRuTXkyS1hCQklFbzhTT3JkbUw4RlYxdDJuTk5kQVdteXNWamMxaktXVFpPc3dGbDZmbnFlUjZMa1RzWjdlXzUwa01z0gHcAkFVX3lxTE9HQ01HQ2E2Vi0xbTh4RkZGaGZ3bm1SSmszbnMtOUtmOU5udG5mY2NnUlJJcWZsVkxQbGZvM3prcjFqamVSSUxUSFhoSkFNOFVnT2lBM21XZVU0cmtOaEdEQlhOTDlhbkIyTXBVVW96amxuWmNDTUk0M19qTkdrdHhXOTk5VldOX2hEcHRNamtvNjZUMlJ2eU9hdWROUm5GQ1BjYjhQZUF0V1BRVDU4dEVjbkwtRGhGVTY3WHhqbjZhZEl2S0R6b1U2cHFpZzFQb1N0ekFCRThTM001aW9vUm04eTAwX3ZBVWJuMkNSTGZ0cTVLWGJTNzc4ajhvbzBGWEMtUGVNZjF0U05LMmJ2cHEtMklyN3gyaTQwSGZKOXJtX2pmUzJOZ1h4ZWVrZ2ZpeWhVZG16Y1hyRE5mZUpwa3FESzNONWJIaWFTTWZsU2xTRXRCQnp2RnZFZFQteQ?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T14:23:24.000Z",
-      "originalHeadline": "أكسيوس: قطر تدخل على خط \"محادثات هرمز\" بمسقط"
     },
     {
       "headline": "Royal Umrah Program Guests Visit Historical Islamic Sites in Madinah",
