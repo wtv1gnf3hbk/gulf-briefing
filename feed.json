@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-11T00:16:32.534Z",
+  "updated": "2026-07-11T00:32:55.840Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Mawani Adds Maersk Shipping Service to Jeddah Islamic Port",
+      "url": "https://spa.gov.sa/en/N2631697?type=news&uuid=N2631697",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-11T00:28:12.000Z"
+    },
+    {
+      "headline": "Saudi Cultural Attaché Highlights Growing Saudi Academic Presence in Canada",
+      "url": "https://spa.gov.sa/en/N2631692?type=news&uuid=N2631692",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-11T00:17:32.000Z"
+    },
     {
       "headline": "Palestinian Delegation Praises Saudi Humanitarian Efforts in Gaza",
       "url": "https://spa.gov.sa/en/N2631690?type=news&uuid=N2631690",
@@ -42,6 +62,30 @@
       "language": "ar",
       "date": "2026-07-10T23:28:00.000Z",
       "originalHeadline": "ترامب وولي عهده السعودية يبحثان تطورات الأوضاع في إيران"
+    },
+    {
+      "headline": "Will the next British Prime Minister take a different position on Israel?",
+      "url": "https://www.aljazeera.net/news/2026/7/11/%D9%87%D9%84-%D9%8A%D8%AA%D8%AE%D8%B0-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-10T23:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل يتخذ رئيس الوزراء البريطاني المقبل موقفا مختلفا من إسرائيل ؟"
+    },
+    {
+      "headline": "King Charles hosts Prince Harry and Meghan in a private meeting",
+      "url": "https://arabic.cnn.com/world/article/2026/07/11/king-charles-hosted-harry-and-meghan-for-a-private-family-gathering-in-gloucestershire",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T23:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الملك تشارلز يستضيف الأمير هاري وميغان في لقاء خاص"
     },
     {
       "headline": "The Emir of Qatar and the Prime Minister of Pakistan confirm continued coordination to support the security of the region",
@@ -105,78 +149,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-10T22:31:00.000Z"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Fitch agency affirms the Kingdom’s credit rating at “A+” with a stable outlook",
-      "url": "https://www.alriyadh.com/2197353",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | وكالة « فيتش » تثبّت التصنيف الائتماني للمملكة عند « A+ » مع نظرة مستقبلية مستقرة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | An international report calls for strengthening the protection of submarine communications cables",
-      "url": "https://www.alriyadh.com/2197347",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | تقرير دولي يدعو إلى تعزيز حماية كابلات الاتصالات البحرية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Kingdom affirms its commitment to striving towards achieving the sixth goal of sustainable development",
-      "url": "https://www.alriyadh.com/2197334",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | المملكة تؤكد التزامها بالسعي نحو تحقيق الهدف السادس للتنمية المستدامة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Xhaka: Switzerland must outdo itself against Argentina",
-      "url": "https://www.alriyadh.com/2197332",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | تشاكا : على سويسرا التفوق على نفسها أمام الأرجنتين"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The European Union demands that “Instagram” and “Facebook” modify their addictive properties",
-      "url": "https://www.alriyadh.com/2197344",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | الاتحاد الأوروبي يطالب « إنستغرام » و « فيسبوك » بتعديل خصائصهما المسببة الإدمان"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | China succeeds in landing a reusable space launch rocket",
-      "url": "https://www.alriyadh.com/2197350",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | الصين تنجح في إنزال صاروخ إطلاق فضائي قابل لإعادة الاستخدام"
     },
     {
       "headline": "Al-Riyadh newspaper | The Kingdom distributes (24,500) hot meals in central and southern Gaza",
@@ -285,6 +257,89 @@
       "date": "2026-07-10T22:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | روسيا تدرس اتخاذ مزيد من الإجراءات لدعم سوق الوقود المحلية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Fitch agency affirms the Kingdom’s credit rating at “A+” with a stable outlook",
+      "url": "https://www.alriyadh.com/2197353",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | وكالة « فيتش » تثبّت التصنيف الائتماني للمملكة عند « A+ » مع نظرة مستقبلية مستقرة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | An international report calls for strengthening the protection of submarine communications cables",
+      "url": "https://www.alriyadh.com/2197347",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تقرير دولي يدعو إلى تعزيز حماية كابلات الاتصالات البحرية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Kingdom affirms its commitment to striving towards achieving the sixth goal of sustainable development",
+      "url": "https://www.alriyadh.com/2197334",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المملكة تؤكد التزامها بالسعي نحو تحقيق الهدف السادس للتنمية المستدامة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Xhaka: Switzerland must outdo itself against Argentina",
+      "url": "https://www.alriyadh.com/2197332",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تشاكا : على سويسرا التفوق على نفسها أمام الأرجنتين"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The European Union demands that “Instagram” and “Facebook” modify their addictive properties",
+      "url": "https://www.alriyadh.com/2197344",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الاتحاد الأوروبي يطالب « إنستغرام » و « فيسبوك » بتعديل خصائصهما المسببة الإدمان"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | China succeeds in landing a reusable space launch rocket",
+      "url": "https://www.alriyadh.com/2197350",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الصين تنجح في إنزال صاروخ إطلاق فضائي قابل لإعادة الاستخدام"
+    },
+    {
+      "headline": "The UAE announces the decision to exit “OPEC” and “OPEC +”",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOEdvRXBuT19yLThXUm0wWTZ3dExjVHN6eVB1Y2s2S1FXSDNEYUVsODF4QlZ4ZGk1WUQxTE9YOUZZTnlvSTFfM1Q2YkIweU0ycXBnWmJjSzNRQXMxcFNDRGc5a3ZqMzRENzFHT3RPRmtKbnR1SE1jZnljYzFUaEtaUWxPUzludjN5VHJBTndJbGRWZEtKd1dIcTlnMXRnaXBvWXdLbUpnaW02RmxWVGt2WE9SN0RpdHg4SnpiYVNXNFkwUVVHTTdmY3NreXRlOGFyUVJzOG81NG4zNDRxWDZ1d0syQUdGWG9aUjFVcTZ2V1pYZmZxNHh2SjQ4dkQyX3NnYnVLdklkelJfdHJjQ3Q2a29Wc1hBbU10WDd3RWR4N0tqVFdkUEw0V01IR2QtT2RmaFZSMUI2ekptb1NUeTBRcW14RDMtZw?oc=5",
+      "source": "وكالة وام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-10T22:28:54.000Z",
+      "originalHeadline": "الإمارات تعلن قرار الخرو�� من \"أوبك\" و \"أوبك +\""
     },
     {
       "headline": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over - Reuters",
@@ -907,15 +962,15 @@
       "originalHeadline": "اليمن: الحوثيون يعطلون الناقل الوطني لصالح \"ماهان\" الإيرانية"
     },
     {
-      "headline": "The Emir of Qatar and Shahbaz Sharif discuss the US-Iranian talks and navigation security - Mubasher Info",
+      "headline": "The Emir of Qatar and Shahbaz Sharif discuss the US-Iranian talks and navigation security",
       "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOWXFvTGk4bnhOdmc4OGxzeEVtYVM0RHVWYzNldnl0dzJrMDJxVlcydGc5dHYtbEdRemdLQUR6emdtX0xuVXpFa0xZeEx1RFpMVlV2TU1IbFdpaHpORXh3YnlDMHplcjlreTJiV2szNEtwblU3WVE4VXFLNkZJa2V1c0QtbHoxVjdJTnlvZmdOVHhhVTZQaFlaT0FuR2FsbUFhN0d4WWRBNXY1UDJkTHVYalpjd1FySnlTa25OSnlxb1lmUFRRRVJxMVZEbVdJSzRyQVl5cm84LUhZMnJRVkI2eDhOenJILVJUS1V4T2plVDhEVHhGWjk0RWNiZC1QMDZQV0t6clRCRXZPQUJLd1VrZHpRRldvOUtwM3R0TXhlcUMwYzJkeVZZNldzZjM0SDl1Q1I0c0ZYbVVGdk4xUzUwamVTbTF1MkNpUVNtNUdLdndZRHdveHc5bHNkc0tGV0pjblRKaFZjQVYyVEtCcHFsVFBXUjh5ZVZpUXl3RC1zNEhZZnVJLUpXdmpPdHgyTXVndV90MWRoVGdnd090N2d4WU1XUmF3QnNtc3ZMdVRGR2M4bDNYeHQ1S3ZhWG5JOV9PNFZ5UXItX2tTWmg1emYxZ205U0FkMWdlNXJ3ajhmU0p2bkR2R05zWFd1SjFjMVlLZkZXNXUyV2dNTGFBOEI0MkdRcE9lUC1fcEZleGhBSG9HQ3FKbTZJSDA3WVpaeC1FTGdfOWpoRG9rTWhzVmVvbjlRb1Bjal9MRHRjMHFoZXdGbTAwQlE?oc=5",
-      "source": "معلومات ��باشر",
+      "source": "معلومات مباشر",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-10T20:14:22.000Z",
-      "originalHeadline": "أمير قطر وشهباز شريف يبحثان المحادثات الأمريكية الإيرانية وأمن الملاحة - معلومات مباشر"
+      "originalHeadline": "أمير قطر وشهباز شريف يبحثان المحادثات الأمريكية الإيرانية وأمن الملاحة"
     },
     {
       "headline": "Prosecutors to lay out their case against the man accused of killing Charlie Kirk - AP News",
@@ -1143,7 +1198,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-10T19:22:29.000Z",
-      "originalHeadline": "بين التصعيد والوساطة.. هل تنقذ قطر مذكرة التفاهم الأمريكية الإيرانية؟"
+      "originalHeadline": "بين التصعيد والوساطة.. هل تنقذ قطر مذكرة التفاهم ال��مريكية الإيرانية؟"
     },
     {
       "headline": "The Iranian Foreign Minister heads to the Sultanate of Oman to discuss developments in the Strait of Hormuz",
@@ -1239,7 +1294,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-10T19:14:08.000Z",
-      "originalHeadline": "واشنطن توسع تصدير ا��تقنيات العسكرية والفضائية إلى الإمارات"
+      "originalHeadline": "واشنطن توسع تصدير التقنيات العسكرية والفضائية إلى الإمارات"
     },
     {
       "headline": "Yemeni Leadership Council Discusses Iranian Violations and Demands Tehran Halt Its Interventions and Respect Yemen's Sovereignty",
@@ -2620,28 +2675,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Military discussions between the UAE and Italy to strengthen the strategic defense partnership",
-      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNbXowOXBnYTBhNjlfOVlkZDYyTmxSQ2F0TEFPVmhiOGhEVWVtNUs2c1lGU0NEaEhiWGtjRFlRRUpDQmZxMGJRVWJEUm9NWm1PZE82ZTQyRTNtVm1lS3lGZEkwaVRQc2J2Q0o2Q1A2bnVTS083aV9RQTBQTDhia2FTVEpDQmtQQ1AtTzY4QVRxMk12NXM3TkdZTTlobUtDZG1ZN1NLY3ZISTRtQm5MN2RjOFJ5TUFxSk9malVneFRMNVA1TWE1Mjl6QzB6RTBFZ0NNbG1BRm1YaFBEZ0dKeENkeWNjUG1rNm5wM2NiX3JUd0ZLN0U1Mm1oOEZ6dVB2ZzlVb19xTGVrdC1pbHBUOWFrenJZMEZFMC11Y3FxbGRNcHhCak1RT0V4aExHUG9LdjdZTU52QVQ0TjFPUmg3akpqeFRrSk0zQVYteWFqVVdQYlJFcHZ1UXV2LXhQb3QzZmFqUXRMcEp0aDlfcnhnZVFhZDBsTUFLS1ZKRk5FVFFtQ1dLS09vd3BPOUotaThKVVFYUGZBakY4c0FKb0pPTS14LTRyVEhZU29JOUJVb2hXVHIyeUJHNlNlcGs5M1YwRXdfblplMmFJLWM3OGg5NlFZVDlSUVh3WTFsdVpVTDdzRjlDLWd4MTY1Z1h0NXByWE5ub1Vha1VjZExMS0pVSmR3NnNjWVlfVFZQaHpXVy1MUk9MaEJLQjVRQlBXUGpMZkg3cEFkMUFXZ0pkcXJTVklUV0o0VTI2ZnlTUmx3U0M2dzI4bkhObnl1dUh5c1B6bDd4SmNtbUw2Qndpenl6TlNzN3NPSVloUXRNX21XZ9IB5wRBVV95cUxOdEt3ekkwWlBRaHhkcDJ5bTVOOWtNekZqQ2VYdWNkZTk0dFNLR2hPWkpPRkNucFhzTEc1VVg3MDZrMVBWT0t3NV9vNThuckFDWnJjRmNpbXVKcjFyWTE4cVZiTnBzMjlSVVJOdlVlc1VFT1EycThKWTFFVmZ2Z2ZSaFhuR1dMYzNHZlpCSTc0bVhwbFFQcU1CYjF5enExaGl0REk3NE12YUdhQTV2WElZMUhUNHA2aDduT0ZHeG1WQTh0algwRWs5TXBsWEJQR1lhdmYyT1Y2UXdCa2RWZzd2Uy1QVXZDdy0yTTZWTkFhWmxWRXlwSGNrTnU3enljM09DcHVodE5jSmJ6TDRBMUliZ2ptM243OG44VW9hR0h2ZEliS3BHd0hmWDdyVUMwNVVNbVNDeVEzeXFQeHR5RGMxRWt3YUluUE9oWldNNy00NVQ3NG14UWlUcF9aSXJQcFk2R0gyWnFmWmFDTS1wTTBqaHNnRWlMV2tLM3Z0ZlZ3VVZwZUt4YzZGdEpfN1ZPSVhRRkw3RHpHd3BMal9DTmhuNWVEVjJid0VNU2l6TzR0cExkT1pHN1I0R2p0SkQ4VEl0WjloUFhEUklXYkpibVFrb19KcDU3d2ZRaVI5Q0FtN1h6MjVTY21RckdUMXhScE5PSko3WFg1R1lGMy0tWWpkV1Vab3hEYVBzQWNZU05UQVBzYW1xZ1RRcjF6R0w1WXlyYnp0YkNJMFNTSzh0eTNSZFNpZzhORVQyNjJTc2NUX2lpWVVpNTJUNmlER1ZYUndpVllYb09qd3RvbzhrY0FTbndvakw5ZXM?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T14:12:00.000Z",
-      "originalHeadline": "مباحثات عسكرية بين الإمارات وإيطاليا لتعزيز الشراكة الدفاعية الاستراتيجية"
-    },
-    {
-      "headline": "The European Union and the UAE enhance cooperation to combat money laundering and terrorism",
-      "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPaDB6ZFJnT3lKOTRQOG12MUllN1czZHpwWTdwNmc2TXdxdXpJa2hWWWw5X3FzLTlVZTRFckdiSEdCZjZSMnpCRkNiNGtWTld1cUJkaXpDRXNZWDhpUTZkVEhyQUJZS2U2ejBzTURqOVBqNW5rejJDT0RKTlh4SnVfU1VFbFk0dnB5dERzQVFjRWNwZl9ZR0lodkh6dHhrUWNpb2pUTFhpcUJDbl9PZUR2WkVwUTd4bEMzTGt4ZzV5YkJNdHNPRl9kTjk3UnpPT1VUbnNsVkFacUVNanFDcmlSZndSNklaYmhSODRHNXJxZndDNDU0ZVdzMU1NMGJVRGVNbzJ5NTJIM0UwSkNpbVNabWxiNW9WcnVybHBJQjlfWm5XYkZhT3VCVndGZlI5YVFxWDRBRkM2MHQ4QXZXVkRDZGF2enhvVl9yOWdEZU1uRjNzdGIxbWhLZzJ3aHhQRnJGa2pCYzc5SmttRl8xQlhxbnd5b2xkZWFkTXlQcDhCLW9KclliM2pJeUdaUEVZOFhLZjRnQk0yQXdzUHNmN1FlMnFVdWtEckNNOVNJQklFOEhkbi1MdzFZM2FBV2JPVDhGY3c0UldIampKSWJFRG5QY2RhOGN0NDVGXzExTjNPSERTZ0Z2bVFKYUE0Q0o1V2ppb21OY0dJMEhNRFR5aUotYU1BYTlPMThkTFduNjZyU2RqeDMzQVBOcHBMSF96dy10MmIzMDFoX3p3QXVhTy1MTVN2YlowQkRyaV9Sd3BYU1NTRGMtcnJLNzRoSGU5RktwVEtNRk5iMFhpWEFBclZYcVZHT2NkZTl3Wkp1QnBselh4d0EwV2hlOGhUMXVlclp4Y19ZUTl0NlF1b2s?oc=5",
-      "source": "الهيئة الوطنية للإعلام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T14:06:52.000Z",
-      "originalHeadline": "الاتحاد الأوروبي ودولة الإمارات يعززان التعاون لمكافحة غسيل الأموال والإرهاب"
-    },
-    {
       "headline": "Read more:",
       "url": "https://x.com/ADMediaOffice/status/2075582017975242761",
       "source": "Abu Dhabi Media Office",
@@ -2692,30 +2725,6 @@
       "date": "2026-07-10T14:00:39.000Z"
     },
     {
-      "headline": "Emirates Global Aluminum resumes Al Taweelah refinery operations",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/10/emirates-global-aluminium-operations",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-10T14:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الإمارات العالمية للألومنيوم تستأنف عمليات مصفاة الطويلة"
-    },
-    {
-      "headline": "Removing Syria from the terrorist list breaks its digital isolation?",
-      "url": "https://www.aljazeera.net/news/2026/7/10/%D8%B1%D9%81%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%8A%D9%83%D8%B3%D8%B1",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-10T14:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "رفع سوريا من قائمة الإرهاب يكسر عزلتها الرقمية ؟"
-    },
-    {
       "headline": "Western Tabuk Mountains.. Towering rock formations and red sands paint a unique natural scene.\n\nhttps://\nspa.gov.sa/N2631474\n#واس",
       "url": "https://x.com/SPAqualitylife/status/2075579311445119447",
       "source": "Saudi Press Agency (Regions)",
@@ -2725,17 +2734,6 @@
       "language": "ar",
       "date": "2026-07-10T13:54:04.000Z",
       "originalHeadline": "Western Tabuk Mountains.. Towering rock formations and red sands paint a unique natural scene.\n\nhttps://\nspa.gov.sa/N2631474\n#واس"
-    },
-    {
-      "headline": "Al-Sawaha: Saudi Arabia launches the most ready and available artificial intelligence infrastructure in the world",
-      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxPcDktUXhXZFhDdE43Vy00UjRrajJPYTdJX1ROVVVRTF8wdUJ5T2lhaXdBclBLamkxU29odTg0OG9XRWs0bzlmY3c2MXNlUjFmX1FLU05XcTVlVWFKRHhKN20zMi1jWV9KajdyclFIaE1nYlVMWUpRUlItQ0NjYVpPZnhnSldRUFpMZ3ZJQlRuS0FuUXVjZU83Q1JrdUhEQUN4VE0tRlBaM2N2R3R5TG80eENXRzhpSWdUbEJiSzBUcS1kSkk4NVppZnV5Wk96Z0I0cnFMaFlXSmVQTko1Tmk1SnNRYk8ySk5Fd05TdWRKZndvTUxDbkQ1bGZlUXBYWVh5UVA3dmNqdVc3MVc5d0szS2VMRDVZRmdUU1h0WHl4UGtWb2FSdXlwLVpidUZPdWtIZWlROUxPcUk0TksybnpvN2ZxanRzZkhTQ1RsQlhoMUZrMWpjbjg5QTBCLWE3b2o0TkszNWIyVHUtSFFRUnJVYzl0LS1haEZrUHFOLWtXNjE3Q0p0TEJQeEl2M21uY0xKQjFvdHhiZ1Y5X05qUUVZaTZySHJuOEk0bHlKVWhNNmZNSkdROGUxMUpMTnktWFF0SUcyOU9vd0pXWklZU3QySlZ2dGFMZVJFeFlWNnFnN0xrcG1WQmR1VkF6UWk4dDFOMFZQNkFzMEVjTkZKMk52VEs1cjFhR05XOGUyT01aVUpQQWtfaHMyalJHalFIU2ptdVlOLURIamZ5RTlEVXJVbElOanFjRXNtYmgycUpuYTB2MFR1RmJ6RXlIMzY0emJ2dExjNDRn0gHbBEFVX3lxTE5rQzV2MkpWaGh5dzIyNWViNS1OQnA0Tkh2VFZEa0lNWE83Ti1FbXlhWVk1Z3B5XzAycDF4MWJxVnVLRVh6Mnh0Y2x5WkFMSTU2SnVqeG1KNU1tcHZuRHV5T1hzUXdFR2hlRlZlUk1NdWF6MkluMzN2Yk11QjZFdy1FenNVejNMTXEzcVc3bEFqbVdtN1JuV3o1eGdEeVJnemFBM2EtVVVYdFJiVVhQNFdSVmt4WGgyV05ZaDM3Z3lBVDFLSGlHaGZPNV85SXM2ck5FQ3lzM3Vlc29JV0IzSUlwQzVmdWx3MUk3NHdUdVhocjZDcnAzNldsLWdnSzZLVkNpV0Y2SENsUG1qejRvMUZJZDhBUFFZNVc5NW1FSUIzMlRhbXR4RjJQZVFxNXNzNjR3NVJCMXZ0WlE4WGZ6RFBXMFVJNm5HNktITlltVHBOcGJ0ckZjQm1IT2ZDd0t2SGJ5ZDgxc1NfUkNVaEdnLTBJRDltUkJDeG5kdVVhOEhHS0R6Wl9KMlc1YTFaNDdVUTRadTNjZHgwS2tDSFRoZm1JYjBsM0pKTnR6VHRzemJPSks4aFNXUG1rZU9zcVNUVG9CVnRWaGVtVnEtWU1OeVRiTncyckszcHY3Um9YbTZUS3lmU1pxSkFhZ3A5dnNVODI5VFdUcDg1SFJRRFQtQW9pS19kcndNaVlVT3VHY3BVX0l5c1AyQU1OdGt0VENoU2U1c1cwcWtqTnZJa2tLSFpnb05QVUtQbVVKbFFVWkxwajV6akJOSVFia3hGMlJiWTdxTV8wdlF0S0lGUQ?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-10T13:51:29.000Z",
-      "originalHeadline": "السواحه: السعودية تدشن أكثر بنى الذكاء الاصطناعي جاهزية وإتاحة في العالم"
     },
     {
       "headline": "The Director General of #CivilDefense heads the Ministry of Interior delegation at the second meeting of the Saudi-Egyptian Joint Committee.",
