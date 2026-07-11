@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-11T11:16:30.012Z",
+  "updated": "2026-07-11T11:32:33.084Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Oman, Turkey explore explore investment opportunities in urban projects",
+      "url": "https://timesofoman.com//article/174221-oman-turkey-explore-explore-investment-opportunities-in-urban-projects",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-11T11:30:39.000Z"
+    },
+    {
+      "headline": "Over 15,400 Residency, Labor, Border Violations Recorded in One Week",
+      "url": "https://spa.gov.sa/en/N2631846?type=news&uuid=N2631846",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-11T11:28:33.000Z"
+    },
+    {
+      "headline": "National Community Readiness Programme launched to train one million community responders",
+      "url": "https://www.wam.ae/en/details/c161x5c-national-community-readiness-programme-launched",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-11T11:23:01.835Z"
+    },
     {
       "headline": "Royal Commission for AlUla Launches Khayrat AlUla Season",
       "url": "https://spa.gov.sa/en/N2631831?type=news&uuid=N2631831",
@@ -21,6 +51,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-11T11:01:41.000Z"
+    },
+    {
+      "headline": "Egyptian Source to Asharq Al - Awsat : Cairo Hosts Egyptian - Israeli Talks to Avert Renewed Gaza War",
+      "url": "https://english.aawsat.com/arab-world/5294737-egyptian-source-asharq-al-awsat-cairo-hosts-egyptian-israeli-talks-avert-renewed",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-11T11:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "A setback for Israel.. Saudi Arabia is considering transferring the “economic corridor” route to Syria",
@@ -67,7 +108,7 @@
     },
     {
       "headline": "Saudi Meteorology: Strong winds in the Hail region",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOQkpxbmZxa2ZlM05hVm8ySnN3WTkyMHpnOW9rRFczdlFtSV9DdFRNb2QtOFRSVFUzdUVDV3JpV3ZsVW5GSUc0dHp1TzdrWWVIcXRPTjNabUtVOHFodjhUcmtNNGR1TVU3WGdYR3FzQW5PdHREbExza3NLMkp3YmFDNkNvakxnSnhra3EtZ09rNmtrTU5xcjl0Mk1QVG9YaVNMdHdiWlJQZTByLVZWRndNWXU4WmZBcnk1aVdjcV85dmszMTBvUVlvWnduT0E0OEd3ZnhSc3JBeWNvTlAwQ0pWUHNEcTFjMkZyUmV6WGs2Tl9uLUxjbzNWellkRUZUb25POGpWcW5tQWV3aUZuYVQyXzZNd3FmbXpjV1dOMUlXUndVRkhqNWVGZ2ltMHhjWmpFcVEtSWJlY19SNWhkU3FHV1hzX2ZkLWtVdDRQbG9OMHBBMElQY2dMYTlHMlVEbFlGMXFMR2xSaXBMNF90QXlKNlRaMzlwOFpTOWMyR1AyUTlZd9IB_AJBVV95cUxOVG5kbUc2Y2hHMUNqSlRGZGMwa3lRX1BsY3NuaEw4M0dTbWFYYUVZV3p4T2NGQkl2MEJ5SUl2M0JuRU1kV1VSdTRqX2RRNnB4ZjNoOFdyUmJxUEZ0dmFLTFdscWZyMzdYNW51NFpveWFUaUhETVoxVVQyLURReGZsZ08weUxHWGJwMnFlWWhqY1M0TFpHM3ZUajktWFowWEdVcnJZbElTU0hkYXlPSjhUamJHN05zNjVRLWNha0NnX09jU3FTQ0JhSU1iWXAxVmdUeUNiSmRvb1JyWHNHMEZBX2RKYzRHRUx2LXV2dWpjdmZMcC0zSnFBNWhVMklrdW1ITFV1VEhQYVo3LS1VU2ZvNm1ma0h2Sm5OQUdUMTlJdnRlN1gyakFKX0xWS0dKQk4xR28wOGJHWmR0czQySVFvZUFKOGdoUVJ5VGEtUUw0Wk84VFVnb2hQMXlGNXZ0ZWNaRm40RTVFTUFBallkR1F1MGVSN2dwdUZfUGxKeg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOQkpxbmZxa2ZlM05hVm8ySnN3WTkyMHpnOW9rRFczdlFtSV9DdFRNb2QtOFRSVFUzdUVDV3JpV3ZsVW5GSUc0dHp1TzdrWWVIcXRPTjNabUtVOHFodjhUcmtNNGR1TVU3WGdYR3FzQW5PdHREbExza3NLMkp3YmFDNkNvakxnSnhra3EtZ09rNmtrTU5xcjl0Mk1QVG9YaVNMdHdiWlJQZTByLVZWRndNWXU4WmZBcnk1aVdjcV85dmszMTBvUVlvWnduT0E0OEd3ZnhSc3JBeWNvTlAwQ0pWUHNEcTFjMkZyUmV6WGs2Tl9uLUxjbzNWellkRUZUb25POGpWcW5tQWV3aUZuYVQyXzZNd3FmbXpjV1dOMUlXUndVRkhqNWVGZ2ltMHhjWmpFcVEtSWJlY19SNWhkU3FHV1hzX2ZkLWtVdDRQbG9OMHBBMElQY2dMYTlHMlVEbFlGMXFMR2xSaXBMNF90QXlKNlRaMzlwOFpTOWMyR1AyUTlZdw?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -128,7 +169,7 @@
       "date": "2026-07-11T10:26:14.000Z"
     },
     {
-      "headline": "Qatar obstructs a joint advocacy project between Volkswagen and an Israeli company",
+      "headline": "Qatar obstructs a joint defense project between Volkswagen and an Israeli company",
       "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNYzNEemxiaXRZVDdpSzIyRUVkbWNnRkJCWlFWZ3NmLUpadnNmbGZfSXhCWFZBalVuU21yZ3FXLXNjR0g1ei1xWVAyRVZrRGctVklncFZZSWRfdU4xaFhNOGdOdll2aGtfMGVGSXhZMzdOZ1VKRC1PbFZNeUlJaUllVS1MOG5RWWJRT212RjJJdExkb0dPZU1TN3RXQUxsdlo0bkpfNTlpby1zWFE4enJjbVMtQmdKRnpheFVVcmJnSFp2MXc1SEFYWFF6aWxDVldKUm9MUUVqWkg2aVdQcVZSMXViYWZNbWtKVVN2WUdqdGJMWjVPWXVlWXhCVHBjQ3pVbG43aE53eUxhXzlLUUJSQmplem9PS2tCekZTVlBIV0RYNnZCZ0ZVc0wtVEU4R0d3Nk9qXzlOMHpCcnQtY3RpSFFOYnVuSG5zMkNSQjBYYk1qOWZXblk2WlFSVjRkX3ZQZnpCekdVZUFiZFpKcE9RMHFYWW1uLU9HMGlJNEpyMHdrbC1lWDZQNWhVSnJoMlJtNkRLNTdVaVFzc0o5c1piQVpMZTZjNTVQMFNaNjY4U1RvaUM0aWNoRnJBUXlfUm1YYnI5Z1hR?oc=5",
       "source": "الشرق للأخبار",
       "sourceId": "google_news_gulf_arabic",
@@ -136,7 +177,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-11T10:21:27.000Z",
-      "originalHeadline": "قطر تعرقل مشروعاً د��اعياً مشتركاً بين \"فولكس فاجن\" وشركة إسرائيلية"
+      "originalHeadline": "قطر تعرقل مشروعاً دفاع��اً مشتركاً بين \"فولكس فاجن\" وشركة إسرائيلية"
     },
     {
       "headline": "SIH concludes third Heritage Conference",
@@ -2577,48 +2618,6 @@
       "country": "Yemen",
       "language": "en",
       "date": "2026-07-10T20:49:04.000Z"
-    },
-    {
-      "headline": "Shein Finally Wins China Approval for Hong Kong IPO",
-      "url": "https://english.aawsat.com/fashion/5294524-shein-finally-wins-chinas-approval-hong-kong-ipo",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-10T20:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Sea Snail Named Aldisa Vozinha in Honor of Cape Verde Keeper",
-      "url": "https://english.aawsat.com/varieties/5294538-sea-snail-named-aldisa-vozinha-honor-cape-verde-keeper",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-10T20:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "EU reaffirms commitment to honouring Srebrenica genocide victims",
-      "url": "https://www.wam.ae/en/details/17bel76-reaffirms-commitment-honouring-srebrenica-genocide",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-10T20:39:02.308Z"
-    },
-    {
-      "headline": "KSrelief Distributes 500 Food Baskets in Nigeria",
-      "url": "https://spa.gov.sa/en/N2631640?type=news&uuid=N2631640",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-10T20:38:19.000Z"
     },
     {
       "headline": "Al Sailiya Sign Goalkeeper Bautista Burki from Al Duhail\n#QNA\n\nhttps://\nbit.ly/4yv8vrs",
