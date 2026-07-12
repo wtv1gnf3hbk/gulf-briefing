@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-12T10:33:22.854Z",
+  "updated": "2026-07-12T10:46:15.113Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Lionel Messi - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBQ0FKaEtTRHNJR3lRbElfcF9NZVFOWGhkemxSU3g5OEJxb0twbXI5UkZPbEprSXdXYTNXbk50SHp5ZkVhbUNMbVdqVQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-12T10:42:35.000Z"
+    },
+    {
+      "headline": "The Saudi Stock Exchange is moving in a narrow range with the return of geopolitical tensions",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96T2I5T2ZxTFZhUUlGZHAzZWVVQUc3ZVdQLTg5UGl1RG5aeFNYQmVEUGpra0V0WElzdTRDMkcxUGJCWEpwZ2txZU5GOTY0QkFuTUZKMTZBcWZJTEk?oc=5",
+      "source": "جريدة البورصة",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T10:41:15.000Z",
+      "originalHeadline": "بورصة السعودية تتحرك في نطاق ضيق مع عودة التوترات الجيوسياسية"
+    },
+    {
+      "headline": "NWC Completes SAR128 Million Water Reservoir Project in Riyadh",
+      "url": "https://spa.gov.sa/en/N2632277?type=news&uuid=N2632277",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-12T10:36:35.000Z"
+    },
     {
       "headline": "Under 'Operation Chivalrous Knight 3', five UAE aid convoys carrying 792 tonnes of relief supplies enter Gaza Strip",
       "url": "https://www.wam.ae/en/details/c16ncoe-under-operation-chivalrous-knight-3-five-uae-aid",
@@ -11,6 +42,54 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-12T10:29:41.808Z"
+    },
+    {
+      "headline": "After a “sudden illness”.. death takes away “Republican hawk” Lindsey Graham",
+      "url": "https://www.okaz.com.sa/politics/na/2256620",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-12T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد « مرض مفاجئ ».. الموت يُغيّب « صقر الجمهوريين » ليندسي غراهام"
+    },
+    {
+      "headline": "“Real Estate Authority”: Beginning of real estate registry work in Mecca, Tabuk, and Riyadh",
+      "url": "https://www.okaz.com.sa/local/na/2256617",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-12T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« هيئة العقار »: بدء أعمال السجل العقاري في مكة وتبوك والرياض"
+    },
+    {
+      "headline": "Washington - Tehran... Escalation is ravaging negotiations... and diplomacy is on the verge of collapse",
+      "url": "https://www.okaz.com.sa/politics/na/2256621",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-12T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "واشنطن - طهران .. التصعيد يعصف بالمفاوضات .. والدبلوماسية على حافة الانهيار"
+    },
+    {
+      "headline": "“Foreign Affairs”: Saudi Arabia condemns and denounces the repeated Iranian attacks on commercial ships and on the Gulf states and Jordan",
+      "url": "https://www.okaz.com.sa/local/na/2256622",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-12T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« الخارجية »: السعودية تدين وتستنكر تكرار الاعتداءات الإيرانية على السفن التجارية وعلى دول الخليج والأردن"
     },
     {
       "headline": "Bahrain Defense Force: intercepted and destroyed a number of Iranian air attacks",
@@ -44,15 +123,15 @@
       "date": "2026-07-12T10:04:47.000Z"
     },
     {
-      "headline": "Qatar lowers its flags and declares 4 days of mourning...full details of Sheikh Hamad’s funeral and condolences - Youm7",
+      "headline": "Qatar lowers its flags at half-mast and declares 4 days of mourning...full details of Sheikh Hamad’s funeral and condolences",
       "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNS2txb1RRUk9Md0xfMGdpRzdTSHA3RjE2RXVpMnBOVVdTTVFKVHZ1eENWYTVJZkxpQTQ0bUpxUmtwZUIxZlRlSmtFNkU4N3JZUDViekdtT0d6d0VuQmRzQ0dKU0RVd1dxVElEOG1lZnBJZGhtbVRONTFIN1JkX3BYSmpVaHhzcF9XN1VJYTlQbVJDVDRsQzV1N0Nld3RBV1FkV09fNFoxU2g0Nm5ZdlhiWV9aSkxVRU1yTG1Ld0hFcDNYaDV0VmM5TzFCME5DeG5LNnBxWEExREIwTVZsVlUyTTFGdThWLXpKUklMakhGZTU2T2J2WFJyaTVJby10YjctdGVkOVNVbTRUek4yUEFWVWlNLVFXWkg2NmlRS1dnV3J5Vmd5b2JJcDR1N09PVUFoMmxWVzJONzhnMVhQYzNFZGtkcmx6MXpURDdGRXBWSFkzVDc2bFhyUkRnSXpOUHYwR3JlcTZnOGNLMTUxU0EzY1V3M0F0b216SWVLaGZvWGt6MVNPWlA2VlY4TExTTjQ1SE9vRlpCeFlBMUVJY0pla2ZVaXpOVGh0M0NMWllaeDhfXy1zNUd5WkRJVk11bER0dzMzclVoZEVFVVI5SXVjb2JmcE1ISHJXMFA1b3Y0Sm9fTks0UWdvRGhaX3gtUENnYWFDNnNiZ9IB8gNBVV95cUxNc0NoeUw0QnN4U0h4ZURXdDlNSFpkNVp0dl9NWEl2NFlRbjIzaXVGMlpGZnJzVnllQWd2YXQyZUU2a1lkb2xnaUlyNzdCbThCcjM0a1VkMjVXdjZwbmU3NEtxOU53NGRCaHNjT19FU3VHdlNxNU9ya0RzX3FXR09lSmFJa3RxS2FTbG13RmptQmtIemJKVHdNZkdjdDVETzNRS3dRZ0lVMmNxUVNyX2stUEo4N0lKektGN3U0TmQ5QkY3YXBVbGxqcWV1VGw1YzI0Qy1iTTFZVTRDWFZQcGZfaHlpSEhPVXBYNUV2TTlLZm5ZbWRxRlRkYUhnVGtGaFgtMFJaekhjQ3FnU0FJOEdPTUFOX3ZwcTdsZ3FHWlY4WE5nSU5seHZLTEx3YWdNRzk1akNmRk0teTZQUF9YQjIyTWNDSTR3M2t4QXhfTFUzZXZGSHcydFZ3TVZHRzk3LWdZM2UycU54M2FlUXBCYVVLbmcxXzBLcW55b3FGZ3hFallzTnFwdUxWaUVxSnBDVS04alhyM1hFdkREWjJPbE5sWTdRMGtsUE9iSWRMTkRBeXFjU3FuV2JETlA5SGJUWTU5c1VfYlZaYkVGaDZEQ2ZpSS1fVmxNZE9aNWI2bW5oeE1hZ3pybEFWSE4wQnBVc0tWVWc?oc=5",
-      "source": "اليوم الس��بع",
+      "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-12T10:03:00.000Z",
-      "originalHeadline": "قطر تنكس الأعلام وتعلن الحداد 4 أيام.. التفاصيل الكاملة لجنازة وعزاء الشيخ حمد - اليوم السابع"
+      "originalHeadline": "قطر تنكس الأعلام وتعلن الحداد 4 أيام.. التفاصيل الكاملة لجنازة وعزاء الشيخ حمد"
     },
     {
       "headline": "Hamad bin Khalifa Al Thani: Qatar announces the death of its former Emir",
@@ -79,14 +158,15 @@
       "originalHeadline": "زنان هرگز قرار نبوده هنگام زایمان به پشت دراز بکشند"
     },
     {
-      "headline": "Lionel Messi - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBQ0FKaEtTRHNJR3lRbElfcF9NZVFOWGhkemxSU3g5OEJxb0twbXI5UkZPbEprSXdXYTNXbk50SHp5ZkVhbUNMbVdqVQ?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-12T09:43:26.000Z"
+      "headline": "President Abdel Fattah El-Sisi receives the President of the United Arab Emirates at El Alamein Airport",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVDlPZTV4eWZ6TzJ4UGphVHUyaTRFOGw2NEYwNWZVMDhGcFdZYm1sOW5QMkVQbEpYcmRFbXcydEctSktTNjBkQjhsTFBac0JqU0RGVkVHanZWTXA4TDBsaERTdWhLX2NDS3REUXhWa0gyOUl0bXYxRTRScW5VYTRwd1pNZS1SVXJJUzlTVHlvRHREdTJRajI3bUJjVlpoRkg4YVdwSVo2TTR4MGVENnJDSHRiTFdDZWNmckdjcjFhUnF2UnZSQ0lJeExIeF9zSWt6RVhhSGVPVS1ENXRUUjVaUDFVdVR5T2QwTlRjWXMzVDkxLVFZRE1sWXpMdmhoU1FOZGVqVg?oc=5",
+      "source": "presidency.eg",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T09:57:36.000Z",
+      "originalHeadline": "الرئيس عبد الفتاح السيسي يستقبل رئيس دولة الإمارات العربية المتحدة بمطار العلمين"
     },
     {
       "headline": "#BREAKING | Qatar condemns in the strongest terms the renewed Iranian attacks on its territories and those of Jordan, the UAE, Bahrain, the Sultanate of Oman, and Kuwait",
@@ -149,6 +229,18 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-12T09:21:10.000Z"
+    },
+    {
+      "headline": "US Senator Lindsey Graham died after a sudden illness",
+      "url": "https://arabic.cnn.com/world/article/2026/07/12/sen-lindsey-graham-dies-at-71-after-sudden-illness",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T09:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "وفاة السيناتور الأمريكي ليندسي غراهام إثر وعكة صحية مفاجئة"
     },
     {
       "headline": "Casualties in Qatar...and Gulf countries announce confrontation with Iranian attacks",
@@ -478,7 +570,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-12T08:05:15.000Z",
-      "originalHeadline": "قادة ومسؤولون ينعون أمي�� قطر السابق"
+      "originalHeadline": "قادة ومسؤولون ينعون أمير قطر السابق"
     },
     {
       "headline": "Argentina shatters Switzerland's steadfastness with a hat-trick (photos)",
@@ -564,6 +656,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-12T07:48:23.045Z"
+    },
+    {
+      "headline": "Russia says Ukraine struck tanker in Sea of Azov - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmhWWC1hanZqY2JNcURXdGVEMGo3MklhRUxMTlM5NG9aWGwya0Z2SE9RanVYNmUyYjRsZnhEOTd6czNUVEo5dlVSaE11TXFjcVhqVGF6MnRZQ2t3ZzlKek84d0tPcExJTnUzeUsyamJFQmcwRk9Yb2pBZGRmOEw0TFFQUF81WjVhNFotQzVvTFZ2QjR2ZkE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-12T07:48:21.000Z"
     },
     {
       "headline": "#Statement | The Ministry of Foreign Affairs expresses the Kingdom of Saudi Arabia's strongest condemnation and denunciation of Iran's continued destabilizing behavior towards the region's security and stability, and its violation of the principles of international law, the",
@@ -1097,6 +1199,17 @@
       "date": "2026-07-12T06:16:56.000Z"
     },
     {
+      "headline": "Typhoon Bavi Brings Strong Winds , Rain to China as More Than 2 Million Evacuated",
+      "url": "https://english.aawsat.com/world/5294972-typhoon-bavi-brings-strong-winds-rain-china-more-2-million-evacuated",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-12T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "US Attacks Iran , IRGC Says Strait of Hormuz to Remain Closed Until Further Notice",
       "url": "https://english.aawsat.com/world/5294958-us-attacks-iran-irgc-says-strait-hormuz-remain-closed-%E2%80%98until-further-notice%E2%80%99",
       "source": "Asharq al-Awsat (EN)",
@@ -1119,39 +1232,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Bahrain , Kuwait , Qatar and UAE Come Under Iranian Attacks",
-      "url": "https://english.aawsat.com/gulf/5294964-bahrain-kuwait-qatar-and-uae-come-under-iranian-attacks",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-12T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Qatar Former Ruler Sheikh Hamad bin Khalifa Al Thani Dies",
-      "url": "https://english.aawsat.com/gulf/5294986-qatars-former-ruler-sheikh-hamad-bin-khalifa-al-thani-dies",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-12T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Typhoon Bavi Brings Strong Winds , Rain to China as More Than 2 Million Evacuated",
-      "url": "https://english.aawsat.com/world/5294972-typhoon-bavi-brings-strong-winds-rain-china-more-2-million-evacuated",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-12T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Shooting Near Toronto Street Festival Kills 2 People",
       "url": "https://english.aawsat.com/world/5294966-shooting-near-toronto-street-festival-kills-2-people",
       "source": "Asharq al-Awsat (EN)",
@@ -1165,6 +1245,28 @@
     {
       "headline": "One Runner Gored in the Face at Spain San Fermin Bull Run Festival",
       "url": "https://english.aawsat.com/varieties/5294962-one-runner-gored-face-spains-san-fermin-bull-run-festival",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-12T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Bahrain , Kuwait , Qatar and UAE Come Under Iranian Attacks",
+      "url": "https://english.aawsat.com/gulf/5294964-bahrain-kuwait-qatar-and-uae-come-under-iranian-attacks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-12T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Qatar Former Ruler Sheikh Hamad bin Khalifa Al Thani Dies",
+      "url": "https://english.aawsat.com/gulf/5294986-qatars-former-ruler-sheikh-hamad-bin-khalifa-al-thani-dies",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1547,6 +1649,16 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-12T04:27:07.000Z"
+    },
+    {
+      "headline": "US says it struck 140 Iranian military targets Saturday - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-12T04:27:01.000Z"
     },
     {
       "headline": "Kuwait announces confrontation of hostile air targets within its airspace",
@@ -2683,126 +2795,6 @@
       "date": "2026-07-11T22:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | وجهاء قطاع غزة يشيدون بجهود المملكة الإنسانية"
-    },
-    {
-      "headline": "Israel expands the yellow line in Gaza.. One million Palestinians are under the sword of forced displacement",
-      "url": "https://www.aljazeera.net/news/2026/7/11/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D8%A8%D8%BA%D8%B2%D8%A9-%D9%85%D9%84%D9%8A%D9%88%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إسرائيل توسع الخط الأصفر بغزة .. مليون فلسطيني تحت سيف التهجير القسري"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Stopping the artificial intelligence image generation tool on Instagram",
-      "url": "https://www.alriyadh.com/2197397",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | إيقاف أداة توليد الصور بالذكاء الاصطناعي على « انستغرام »"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Al-Ahly wins 8-0 in its first friendly match",
-      "url": "https://www.alriyadh.com/2197394",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | الأهلي يفوز 8 - 0 في أول مبارياته الودية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Al-Ittihad Club announces that Ahmed Sharahili has suffered a new injury",
-      "url": "https://www.alriyadh.com/2197404",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | نادي الاتحاد يعلن تعرض أحمد شراحيلي لإصابة جديدة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Infantino praises Egypt’s achievement in the 2026 World Cup... “A journey that will remain in the history of Egyptian football.”",
-      "url": "https://www.alriyadh.com/2197481",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | إنفانتينو يشيد بإنجاز مصر في مونديال 2026 .. « رحلة ستبقى في تاريخ الكرة المصرية »"
-    },
-    {
-      "headline": "The weapons of the Iraqi factions and the dilemma of sovereignty... Heavy files carried by Al-Zaidi to Washington?",
-      "url": "https://www.aljazeera.net/politics/2026/7/11/%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%88%D9%85%D8%B9%D8%B6%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سلاح الفصائل العراقية ومعضلة السيادة .. ملفات ثقيلة يحملها الزيدي إلى واشنطن ؟"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Al-Ittihad Club announces the appointment of Hamad Al-Montashri as manager of the first football team",
-      "url": "https://www.alriyadh.com/2197482",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | نادي الاتحاد يعلن عن تعيين حمد المنتشري مديراً للفريق الأول لكرة القدم"
-    },
-    {
-      "headline": "A Turkish company begins construction of a real estate project inside the Grand Mosque in Mecca in September",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/11/%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B4%D8%B1%D8%B9-%D9%81%D9%8A-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A8%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "شركة تركية تشرع في سبتمبر ببناء مشروع عقاري داخل الحرم المكي"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | De Bruyne to Napoli fans: “I will come back stronger”",
-      "url": "https://www.alriyadh.com/2197485",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | دي بروين لجماهير نابولي : « سأعود أقوى »"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Trump after a medical examination: I did a cognitive test and answered every question carefully",
-      "url": "https://www.alriyadh.com/2197395",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-11T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | ترمب بعد إجراء فحص طبي : قمتُ باختبار إدراكي وأجبت على كل سؤال بدقة"
     },
     {
       "headline": "Tribes of Uzar in Imran Governorate\n\nAn armed meeting in response to the call of Mr. Commander and preparation for readiness and mobility to end the aggression and siege\n\n#Go_light_and_heavy\n#Wewillbreakthesiege",
