@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-12T05:33:36.100Z",
+  "updated": "2026-07-12T05:47:20.989Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Sunday",
+      "url": "https://spa.gov.sa/en/N2632147?type=news&uuid=N2632147",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-12T05:42:35.000Z"
+    },
+    {
+      "headline": "Pakistan's groundwater crisis deepens as experts warn of gallons of water wastage",
+      "url": "https://timesofoman.com//article/174259-pakistans-groundwater-crisis-deepens-as-experts-warn-of-gallons-of-water-wastage",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-12T05:38:39.000Z"
+    },
+    {
+      "headline": "Qatar: Amiri Diwan announces death of Amir",
+      "url": "https://timesofoman.com//article/174258-qatar-amiri-diwan-announces-death-of-amir",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-12T05:37:08.000Z"
+    },
+    {
+      "headline": "Qatar.. The death of Sheikh Hamad bin Khalifa, the “Father Emir”",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelRRZ1pZZHNQY3Q1eG02bjJ5X1E1bmxqUEZGUjRQQ3lncndOcHJGNlJ6TjRBbXhLUWZFSnRrNmNZYWlTd3RCV210WG1aVFJiWFhRYWhDVFVYWHY4cFNKbERoeEk4WEpzeW5tOVZxNVRpOE16cUFmSDBqenVNV09qYUNEdDcxdmZoSzdkdnB0RDlhbmVqZ3lURnRTYTlOSHI0ZHfSAawBQVVfeXFMUGlyUGx0dlhJYmVHbTkyckRtWXljRDBqbGNJUmd6ZmpDX2NpclJSOUljSHZ5SDJSVW5wSDJabnZMRnQyTWhfanFyc2FHQ1dHMUl6YXpUd1lzajBqbFVoelBqeVV5cDVfVXVzNTB3WnVub1NFbWl4S2FNaDBFdHdRSFVIY0VPRktLMGRSa014S2FOYkJidlN2R1dyVDh4eTUyN1hfUG54UERDbTBZeQ?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:34:42.000Z",
+      "originalHeadline": "قطر.. وفاة الشيخ حمد بن خليفة \"الأمير الوالد\""
+    },
+    {
+      "headline": "Urgent: Qatar announces the death of its former Emir, Sheikh Hamad bin Khalifa Al Thani",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLdndfb2NlS1dPTVpVWmxhdVhMTUphelhwMEpmVVFCOVJ5OTlZNmlxSnRqNmFkNVExU2lvMHVkQ2NGdkszT2pvQVloR1UyOWFaLWZXcGZha2diM0I20gFiQVVfeXFMUEpZR2t3WGdZbFJlWC0tZ0wzMXpsbEY5REVaa3I3aDdPU1B5SjJPU3pZY205cktibTZaYXlpMUdJSWlfbFdwcnRHU2NWQWlpWUQ2dmpUSXlpb0dpNF9fRndYX3c?oc=5",
+      "source": "BBC",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:33:24.000Z",
+      "originalHeadline": "عاجل: قطر تعلن وفاة أميرها السابق الشيخ حمد بن خليفة آل ثاني"
+    },
+    {
+      "headline": "The death of the former Emir of Qatar, Hamad bin Khalifa Al Thani, at the age of 74",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPdFRXNmY1OFVlbWhQa0pNQjRSX2RPY3gtWUZyU05ERHo1VWxDOHZPMkxrN25wc0pBLU5TWUY1VlFMVW5tNVQ2MWhUWmFhTFN4UjVkdzlQSDAzREtIbXpuTEpxWS1HZXZjbU1vX09qeHhmZ014d1U5WktWSVE3cE44YTQwYk9yNkJfcWR1ZEtxVTRsOXEycDdDd245N19UYVJhR1ZuN2JLSHdQUEd4akJHeTM5M1ZGcFRLY2NEM2FrcERaY21KWHFpRUZ0ejlsTGVZTEFjT2NiQ1NyYjRva3d6bTNKenlpR3VVaGFPYnZ5ZGF3OWFENExROFNWT0tSeThXZ0ozei1MaVlXUGtXVnZZVjdHcU5FMzkzdVBWakc2b0NHQVdxbm8waXB3RUNaUHdKdUluSDBiUDMzdVNfZFE0MXlycWZtNV8wcUZYMVFjbUloWWJiRXVyV0R3YmVoQXlnQnJmdHJlaWNaSC1JakNidDMxLXRoSjZvMlJ6d1NGYmpjd2NsNG9NMTktTndzSTNYeUMwZXczNzZac3Q3QWV1OU4zZ0FUTDF0TGQ1VDdZR2VlaXRHTHBwN21LcEdBNXpnMk05dktPTW9jSWVnQVNpeFdkeWgwWWh6NzUzUzl2T3pKSTN0MGhZ0gHsA0FVX3lxTE5yZXhiZU1tejZaNjNvN2pSZzBJbXh1VFZUeUVRX250SHZYdFdiOWFISHRyLXVFSkFhRmYxb3o1U0M2RkY1Q3lJQmVKM05qRVQyZU5ob21JWGtwT2JNcDZPNDJBVUFRaTd6WFVDYWFnQ3FTN3RsaTJzSkdjWWRyZWZRdk5IZU40Wjc3Zl91a2taOC1sdmtNbUdremlBUEFTc0w2bnI4RTJlRGN5ZWwtQVdTNWp0YUg0cmM1T3dSdW9ubzZqdXRNSHBrOHJ0OFZBVm5yNC1Qc1dWMGVVeVQ2WVBwZ2NkTEVxNTFoeFRCLWdRVFd5dkN5djdGWVJ4RDVydVhYZ2wzcXdidG1qdG9TemxIbjhBSlpUUWVGbmVmNzVpY0dfRjZQcFBqWXBCeUYwRF9wXzRXeF9kanlsSURpTzFIN085OFlOV2ZNdl8yWEZoTmZ6REN2TDRvWXhrVEwzMm9IOThFRUhPb1RLWXdSb0ZERENzd2RSQ3ZrNUJaUG93RHlrUnRleDJoMHo4ZXRGOUVDVTFyUUJXeWN3eFdDTUFHT2hJdlNMdWIwWkRfWWtKYVVlenpmV3V6UlVEajA1M2hnNXVKamdoMUVRcFd1TlRLOGxXN3ZwUDFqcTNCQjNULWhULTlJNEtRRFM2UA?oc=5",
+      "source": "تسنیم",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:26:56.000Z",
+      "originalHeadline": "وفاة أمير قطر السابق حمد بن خليفة آل ثاني عن عمر ناهز 74 عاما"
+    },
+    {
+      "headline": "Qatar announces the death of Prince Hamad bin Khalifa Al Thani at the age of 74",
+      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQa1R2VzNhLVA5UUJfekNObGZrR1k0WVNFSVRxX3ZzUTlvT2VkSnktTTdFNjJ5LUhGcS14bkhCNlFtOFdWQUg2SnA3U3I5QVFEa1hxbWNhTkI4dHBVZGpvak9LYXpVSDBjcUM2b3B5Ulc2eGJoVDZ1QTdxbjJXQjV6VnYxTjFjOUtZTXNKc3d2QkJZT1pweGVoZV8tVHpvdzhmWkN0WTM1Vkk1bk5oMXBZYmkwOUFLUF9WbFhHYTdleUQzSnM2dmlGWWlaaGR5TGJKN0htc2w0SWlyeklhNE51dUpWeVVFQWI3WE1hRFNvckNiSG1pUzJsRk5fajItald4cm1UYlRVWEFCME5FWEtJakU3TXB0Wk84NmhCR3dYamJvQUpwUkNKV3N6X3h3Q2VCbmxTRUM2YVNwaFE4eGdTQnJGWndtTmMwdnVkQjNXRUpIU2ctUUlXc1RhUTF5ZXFHWTRxeGFqS3dwNWN6SkNjaE9sWV9WbUZHNm5oUHhXbVJGZGlqbWMwem9ybkZocE5lVmVsSUw4OG1FeHdQaDB5Z1JBUDJiTmo3X0VVOTlCejZDdUFyTkEyM2tQUzBKNFpwSUhpNzItaWJXNUFGalFpRTVLN2pFMDRZ?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:24:51.000Z",
+      "originalHeadline": "قطر تُعلن وفاة الأمير حمد بن خليفة آل ثاني عن عمر ناهز 74 عاماً"
+    },
+    {
+      "headline": "The death of the former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNnlyYnB5TWY4RllXbUpsemFycDdtS2huVGdrM0R0cFdLTmsyRlRDLVJ4a0NHZW9oUThVa2FoUHZHMTZnY2g2R2dhX1NueW9ndUxLUFRNczdYeXJRZnJwVXdnYzZqQ3R0cjdYbXZpa3p1cWw3QVJOc2M4RWY1Rk1sT0p2aC1sdEEtMUdfMmk0OFVnUm9razIyMDIyTnRKSjZHYnhuYzJaeWxhbkN4cHNpZW93eUcwSFZrVlJMcS04eUJfT0FLRnlmRXhhdXhkNFNpZXpkZlptNzZrQmIwZkF5SUppdXBIemFiQlNESkxxWXUzX2JOUWdMVHRPekRNSy1UZWNQWWJrVjI2MVZKd3pFNjlnRTJ1LW5KRjZTRHB4UGxlY2xSVHc5d0hkejNGLVhYdWtnMzJXUGRSUmNCZzRrOExfWDRtS3ZNZHNkWkRsY0YtamY3SnZjS2h2MGs1NXZmaXpJOFN4cDZvUl9uSmJoWkl4bXhuQ184Z0JfbjM2U2VEYm9WbWxsV29SUQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:17:27.000Z",
+      "originalHeadline": "وفاة أمير قطر السابق الشيخ حمد بن خليفة آل ثاني"
+    },
     {
       "headline": "The former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, has died at the age of 74",
       "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxQT1R5MFg1SFh6UnlSTHQwZnNjRGNYMjFsZmNxQzFPWDRpNEk5ckluNXRHZE5XeEhNd1R0V19LYU1QczVURE1ybU1jTVBnSjExY2Vaa1RQSC01eWc3SXl5aldmejlQS0hTY08wcHRTSld3VDB0MG9lVXdDUTBfQjhFdFlQNDlsSXJZaE1IeHcyUDJwUWlyUE9UcEJxZ1dGTXNFaVljMnZQSGdkd0ctalBCdXBWWjNVVkg0TXBKS1YwUXFVWnVPM1laRmZUa1c3NE83NzBhNm9WOHpkeDJPakMyRkVFQUMyWXVjNUt2bFI4N1dMSFRUbHl1UkI4SDBsQXpIRk9GSXE1M1NfdjUwQWRVMVNxc2Y5czhMSEJOeWFfQi1fZnBaLVB2aXZqd19nZ0cxUTlsQWMyZWxIZGhUdWh4cFI5OTJkLV9yaWFUNU9oOFJPVnY5Qm5pZkRRTXZ2Q0pmeklwRWtfYTcyS0h3cG1RanNXNnFOT0gzOTAxSXFRVUNnZmFNT1J3V2xmc0ZDbldGQWlFekhGYmYtTndKWGEzcGtLa2lWc2lXTEh1RlhKMlFDMk5HT2UwNFJpalhIX2hxWUNTZ29hbFBaeHpWcHNOaVB1eXhiem96ajN6QmlyanJHeGFqQ0hLcXlEUEx2SWJ1UGt5ajVrUjJGMGE2Z1dFWU1uMnNpNXRLRk0wR3U2UlJmYVV5LVhkZFQ0bHdnT3d2b1ItdVlXazlLdGJqcVI1LVplZWl4cEl3TmFCOEVMekhoZWpYdjVKRzRqRldPVHh1ZGhxUEkyLWhqZ09tMDlOSk53?oc=5",
@@ -23,6 +108,17 @@
       "language": "ar",
       "date": "2026-07-12T05:16:20.000Z",
       "originalHeadline": "قطر.. وفاة الأمير السابق الشيخ حمد بن خليفة آل ثاني"
+    },
+    {
+      "headline": "Qatar announces the death of former Emir Sheikh Hamad bin Khalifa Alani",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbW5WN0V6UHZCRXdOQkt5Y0s3SHNibnZzQk1pSFF6QlpuSzFnaTd4MTlVMk42LVFzN0hWbWJQaTRCRjlZYUtBbktHdUV3TGRvZlhUMjNxbjFGWXdwbGlQbDZVbjNlTTU5a1hvamNkTmR6Sl80bVo5M3FuQjFadE5yZEdBMDlrVjhtS01BWUJ6bVZJTWZmcDN1cFZHOGdHSGtSU2thQ1BfcjhBZ2UzampjSmxjSlZEMktQZk5VT3FGclR3ZWJOQ1hndzZ4WUxjM05hcllQOXhqd2d0dFF1REMwd3BSdTdDem9sMElyY1YwdzJHaGRoSV91S3l3VDB1WWMtVThzX2lPS0gyQkl0cTY2RlEzM3J6aWU2SE9JazY3aHRTbTlqWDZXY3phbHJXNGp5ZzlvWFlpTG5Rc1d4dFNCbklLeHVNTzVSa0N4RzRLZlAwclhPeHhtOV9FSU9jQ3R0ZTJ4UGtsZk0zNXlkQlhDVGdrUjlqaUpYWmNfQTVUWWllZERVT09lMjV4WkVCenhralJZUmFFcXl3V2JENUp4aFJSbl9leExxZUVISTB3ZnpOV1lTclJhSFFHZDdlYWstUTJRWkdINWZUM0tJ0gHSA0FVX3lxTE45ZXVPM2pVdUU4X0taUTY4eVdUTG9LY0lpc2ZFdnpJTW1tSHpHRXh6QlRUbktvU1JGWTJpZkE1eFVoWS15eWx5RUxKVm93UzhoZ0ZmaXhzNTQtWnUxSWRfS21iX0dUUGdkWVYwSG94LURicVZhTEdXMXI2U0RWU3ZGbnBhRjJndkFZR0xPVDVkVzFrTjd4ZjhOdHpWVEVQNjJFNmhwd0NUYzVZdm1JcFZ3UllDeGltMUJwMHlBa1drajRCYkdNZ0Vaa3YwYkQ5LXdCSFpHVHpsbloweWNxMXZRd0Jyd3l0eUpoQU9nNlVWSnpSY1R0OUFnYWt2WlQweFZQYzh1cGFqOXl4Ynk1MFhuUHFmRTkyMU5zVWNJd0toTzJKR25jNW1XMnB1eGNIdkttcTFRaUU2Q21hemN6Nm9wN0JJWm1MdUdDWlNNZmFoMGV1MUdrZkoyVEZPUWFfN1duaDNuSDZvUFhqRmZzZEpTbklyeUxKUl9HUHNOcWV3R1J0d2FMZWZWdk5uX25Xb2c5NkpGN3RRcUF4WXFxZC1QaHFpRVNqMGVmelVaNEpqNFNVTUVLVzExcEtBUTRPbEpKc28xekVKRWl3ZHhMTVBUdVE?oc=5",
+      "source": "سكاي نيوز عربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-12T05:12:48.000Z",
+      "originalHeadline": "قطر تعلن وفاة الأمير السابق الشيخ حمد بن خليفة آل ��اني"
     },
     {
       "headline": "Qatar announces the death of former Emir Sheikh Hamad bin Khalifa Al Thani",
@@ -362,15 +458,15 @@
       "originalHeadline": "البحرين: إطلاق صفارات الإنذار"
     },
     {
-      "headline": "Warning in Qatar, Bahrain...and the UAE: We are dealing with “missile threats”",
+      "headline": "Warning in Qatar, Bahrain... and the UAE: We face “missile attacks”",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHNFRTJZbnRYM19TcEVQWVFjSHVrVTg4c3I1MW4zb1l3UHVYUlVvUUFxdW5sanpOVWFBU1gxQXVDalJNUjkzWE5vMXFCNDNEc1c5bkZRMVVzeHJ5aWxZUTdlaUUtdUp5eUtUcFZtTl9sNWIyemdzenNobkVRRDhXLTBJVFhrd0JhUzVuRjBITnprRjgxQ2M1dVpmUzZ5LXJUejlKUzhiTDdUZ9IBtAFBVV95cUxPbHZhSzZrSFhHdUlxWlRlV2pBQWU0VlVMWXFkMUh2clBfTVhCUXlQT2Y0LVJGdFVxRkd4NjNXLWlEVXJCZlpuOVY1cDBDMFptcURRUlB3aU9DMlhyV1k1NmdnaW03eEFic1E0RWh5UnpuZ05KenlYbEdjUGtIVUZJRWtod0dxQktoR0xZRW1Jc0VKaGs1MDM5SG4yTEtfMnNuNXVVUjNlRG10RUNBTXFtdWhmTFk?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-07-12T03:11:15.000Z",
-      "originalHeadline": "تحذير في قطر والبحرين.. والإمارات: نتعامل مع \"تهديدات صاروخية\""
+      "date": "2026-07-12T03:13:37.000Z",
+      "originalHeadline": "تحذير في قطر والبحرين.. والإمارات: نواجه \"اعتداءات صاروخية\""
     },
     {
       "headline": "UAE air defenses repel Iranian missile and drone attacks.\n\n \nhttp://\now.ly/FOBT30sX6EX\n\n#KUNA   #KUWAIT",
@@ -912,6 +1008,16 @@
       "originalHeadline": "سوريا .. مصرع طفلين على الأقل إثر غرق عبّارة في نهر الفرات"
     },
     {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-12T01:38:59.000Z"
+    },
+    {
       "headline": "Axios, according to an American official: The targeted ship was crossing a southern route that Oman proposed opening without restrictions",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2WnY5cllJM2J3dVp4MWNKY1VXd0Q2RDRRVGxrTWp5TkNublBOUkxaSDRzNm84UmJXMmxWeUtqNzZ5Ykxwb29Oc2RQNzRrWmkzNW42aFpn?oc=5",
       "source": "بوابة الأهرام",
@@ -921,16 +1027,6 @@
       "language": "ar",
       "date": "2026-07-12T01:26:00.000Z",
       "originalHeadline": "أكسيوس عن مسؤول أمريكي: السفينة المستهدفة كانت تعبر مسارا جنوبيا اقترحت عمان فتحه دون قيود"
-    },
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-12T01:25:30.000Z"
     },
     {
       "headline": "Gold in Saudi Arabia opens trading on Sunday as markets await economic data",
@@ -2569,114 +2665,6 @@
       "date": "2026-07-11T16:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "من قلب بكين .. حين يتصافح التاريخ مع الذكاء"
-    },
-    {
-      "headline": "Talks in Muscat discuss the declaration of the opening of “Hormuz”",
-      "url": "https://www.okaz.com.sa/politics/na/2256543",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "محادثات في مسقط تناقش إعلان فتح « هرمز »"
-    },
-    {
-      "headline": "Royal orders to enhance the vision and construction process",
-      "url": "https://www.okaz.com.sa/local/na/2256522",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أوامر ملكية لتعزيز مسيرة الرؤية والبناء"
-    },
-    {
-      "headline": "Apple is suing OpenAI for stealing trade secrets to develop artificial intelligence devices",
-      "url": "https://www.okaz.com.sa/variety/na/2256545",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "« أبل » تقاضي « OpenAI » بتهمة سرقة أسرار تجارية لتطوير أجهزة ذكاء اصطناعي"
-    },
-    {
-      "headline": "Amid field escalation, Moscow and Kiev announce mutual losses during the war",
-      "url": "https://www.okaz.com.sa/politics/na/2256534",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وسط تصعيد ميداني .. موسكو وكييف تعلنان خسائر متبادلة خلال الحرب"
-    },
-    {
-      "headline": "Customs ports recorded 1,057 seizures within a week",
-      "url": "https://www.okaz.com.sa/local/na/2256499",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المنافذ الجمركية تسجل 1057 حالة ضبط خلال أسبوع"
-    },
-    {
-      "headline": "Study: A non-surgical technique gives new hope to identical twins",
-      "url": "https://www.okaz.com.sa/variety/na/2256538",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "دراسة : تقنية غير جراحية تمنح أملاً جديداً للتوائم المتطابقة"
-    },
-    {
-      "headline": "“Waqa” participates in the Najran Bounties Festival",
-      "url": "https://www.okaz.com.sa/local/na/2256529",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "« وقاء » يشارك في مهرجان خيرات نجران"
-    },
-    {
-      "headline": "Europe is considering voluntary fees for navigation in the Strait of Hormuz amid escalating tensions",
-      "url": "https://www.okaz.com.sa/politics/na/2256541",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أوروبا تبحث رسوماً طوعية للملاحة في مضيق هرمز وسط تصاعد التوتر"
-    },
-    {
-      "headline": "A member of Congress accuses Israeli settlers of detaining him during a visit to the West Bank",
-      "url": "https://www.okaz.com.sa/variety/na/2256544",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-11T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عضو بالكونغرس يتهم مستوطنين إسرائيليين باحتجازه خلال زيارة للضفة"
     },
     {
       "headline": "KHGC Chairman underscores importance of hope on International Day of Hope\n\n\nhttps://\ntinyurl.com/2agsxdlj",
