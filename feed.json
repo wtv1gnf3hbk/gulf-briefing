@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-13T18:18:19.728Z",
+  "updated": "2026-07-13T18:32:14.547Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Pakistani Law and Human Rights Minister Meets Family Affairs Council Secretary-General",
+      "url": "https://spa.gov.sa/en/N2633383?type=news&uuid=N2633383",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-13T18:28:36.000Z"
+    },
+    {
+      "headline": "Islamic Affairs Ministry Concludes Foundational Religious Course in Maldives",
+      "url": "https://spa.gov.sa/en/N2633382?type=news&uuid=N2633382",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-13T18:26:52.000Z"
+    },
+    {
+      "headline": "KSrelief's Masam Project Clears 1,293 Mines across Yemen in One Week",
+      "url": "https://spa.gov.sa/en/N2633380?type=news&uuid=N2633380",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-13T18:22:35.000Z"
+    },
+    {
+      "headline": "UN ready to disburse US$100 mn in response to El Niño",
+      "url": "https://www.wam.ae/en/details/c178sxq-ready-disburse-us100-response-niño",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-13T18:21:42.465Z"
+    },
+    {
+      "headline": "Starmer offers his condolences to Qatar on the death of Sheikh Hamad bin Khalifa Al Thani",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzYzkyb3J6Y3ByNW85VlRzdk1RWFlpUUc0dWNING5hSnc1V08yTnRxWGhGaU9mLVhVVG5GaGhZMmlzUnBUTHpGYjhRV2NoRkpzTjItamRR?oc=5",
+      "source": "بوابة الأهرام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:19:00.000Z",
+      "originalHeadline": "ستارمر يعزي قطر في وفاة الشيخ حمد بن خليفة آل ثاني"
+    },
     {
       "headline": "KSrelief Distributes 1,240 Food Baskets in Nigeria",
       "url": "https://spa.gov.sa/en/N2633376?type=news&uuid=N2633376",
@@ -11,6 +62,174 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-13T18:16:06.000Z"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Trump announces the imposition of a naval blockade on Iran",
+      "url": "https://www.alriyadh.com/2197688",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | ترمب يُعلن فرض الحصار البحري على إيران"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Al-Alimi: We will not allow the violation of Yemeni airspace",
+      "url": "https://www.alriyadh.com/2197679",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | العليمي : لن نسمح بانتهاك الأجواء اليمنية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The American command targets military sites in Iran",
+      "url": "https://www.alriyadh.com/2197669",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القيادة الأمريكية تستهدف مواقع عسكرية بإيران"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Tourist demand on the Red Sea increases flights",
+      "url": "https://www.alriyadh.com/2197690",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الاقبال السياحي على البحر الأحمر يرفع الرحلات الجوية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Jeddah Municipality destroyed more than 4. 5 tons of violating food",
+      "url": "https://www.alriyadh.com/2197687",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | أمانة جدة تتلف أكثر من 4 . 5 أطنان من الأغذية المخالفة"
+    },
+    {
+      "headline": "The US Secretary of State pledges to dismantle the International Criminal Court: it is waging war against us",
+      "url": "https://arabic.cnn.com/world/article/2026/07/13/rubio-vows-to-dismantle-international-criminal-court",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "وزير الخارجية الأمريكي يتعهد بـ تفكيك الجنائية الدولية : تشن حربًا علينا"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The High Representative of the European Union receives the Secretary-General of the Gulf Cooperation Council",
+      "url": "https://www.alriyadh.com/2197689",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الممثلة العليا للاتحاد الأوروبي تستقبل الأمين العام لمجلس التعاون"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Turki Al-Sheikh announces the details of the fights accompanying The Comeback in Jeddah",
+      "url": "https://www.alriyadh.com/2197685",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تركي آل الشيخ يعلن تفاصيل النزالات المصاحبة لـ The Comeback في جدة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Washington will impose a 20% duty on all goods shipped through Hormuz",
+      "url": "https://www.alriyadh.com/2197686",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | واشنطن ستفرض رسومًا 20 % على كل البضائع المشحونة عبر هرمز"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Saudi stock index fell 17 points",
+      "url": "https://www.alriyadh.com/2197678",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | تراجع مؤشر الأسهم السعودية 17 نقطة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | European Union: We refuse to impose any fees on ships in the Strait of Hormuz",
+      "url": "https://www.alriyadh.com/2197691",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الاتحاد الأوروبي : نرفض فرض أي رسوم على السفن بمضيق هرمز"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Guests of the Custodian of the Two Holy Mosques Umrah and Visitation Program leave Medina heading to Mecca to perform Umrah rituals",
+      "url": "https://www.alriyadh.com/2197674",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | ضيوف برنامج خادم الحرمين للعمرة والزيارة يغادرون المدينة متجهين إلى مكة لأداء مناسك العمرة"
+    },
+    {
+      "headline": "Trump recommends appointing the sister of the late Senator Graham to fill his seat in the Senate",
+      "url": "https://arabic.cnn.com/world/article/2026/07/13/trump-says-grahams-sister-should-be-appointed-to-his-seat",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ترامب يوصي بتعيين شقيقة السيناتور الراحل غراهام لشغل مقعده بمجلس الشيوخ"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Undersecretary of the Ministry of Foreign Affairs for Protocol offers condolences on the death of Sheikh Hamad Al Thani",
+      "url": "https://www.alriyadh.com/2197684",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | وكيل وزارة الخارجية للمراسم يقدم واجب العزاء في وفاة الشيخ حمد آل ثاني"
     },
     {
       "headline": "Family Affairs Council Represents Saudi Arabia at Ninth OIC Ministerial Conference on Women",
@@ -32,6 +251,17 @@
       "language": "ar",
       "date": "2026-07-13T17:55:43.000Z",
       "originalHeadline": "بعد استهداف مطار صنعاء.. الحوثيون يتعهدون بالرد على السعودية"
+    },
+    {
+      "headline": "Saudi Arabia: Countering Houthi missiles launched towards the Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRjg2QnVkRW9TX2YweDdTMnBGS1hYQUdFTDhmQ1h3Vm5wSGMyV3VaSDZEelBZTkdQclk2Qkp6Ui1XeEh2T2dPeG14SDBXTDkwTmNNN21XdHVGbHJrMWNOUWI1bUVMbFA5ZmwtSjlKa0NCUVVVblM2WE96Q1lvY19oUGlGdUE3NF9OQURHNGw4Qlc0Zjk0bjNZT3VSdFVMbkV1cDVYSE4xcDlaTDNmeE13NTFOMkhBUU8zdkRBSmx3WlBIaEVWeVhGVHRxYWdRWlc5NVpn0gHeAUFVX3lxTE16SG54OFBBOU9vblJMazlZNWRrMWpUcG9vZXV6VTJNRHlXbmJxT3h2bG1LRHR6b1Vld3VSeFRYWkNpb1IxX1ktdDZwMXptaXdTQm53cXFUNlBsVGRiNkVLZ1pMUVZ1a0FqSWxmTDR0STNmd0lSOV9ralZmQS1BcW5NX3RtRVJvaW5BWUQwNlU4UlhuWGNfdXV3aDN4NzVPd09PbEs2TnlFYkJ3cW1QRFNkV3B4OEQwNmh5dENLZ3dBektSZ21yTF9jTV9YS3hzY18yY3llQ0NPWUpiWklCQQ?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T17:52:20.000Z",
+      "originalHeadline": "السعودية: التصدي لصواريخ حوثية أُطلقت نحو المملكة"
     },
     {
       "headline": "The Ruler of Ras Al Khaimah discusses with the Russian Consul enhancing joint cooperation between the UAE and Russia",
@@ -56,6 +286,18 @@
       "originalHeadline": "اللواء محمد عبد المنعم: تطورات اليمن مرتبطة مباشرة بالتصعيد الأمريكي الإيراني"
     },
     {
+      "headline": "Israel laments its iron shield.. What did Graham’s death reveal about its fear in Washington?",
+      "url": "https://www.aljazeera.net/politics/2026/7/13/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B1%D8%AB%D9%8A-%D8%AF%D8%B1%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D9%85%D8%A7%D8%B0%D8%A7-%D9%83%D8%B4%D9%81",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-13T17:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسرائيل ترثي درعها الحديدي .. ماذا كشف موت غراهام عن خوفها في واشنطن ؟"
+    },
+    {
       "headline": "Oman stresses the importance of maintaining the security and stability of the region",
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSG04UUctaFppMkxQejE0WGVKeVFySWhzU255ME96ZmxEZm0tT3A4Sm40cVNaSnh1cWMycWh4MlVFZkRtcWxGRWNKZ0U3V2p3U2phdDZzVkkyem1PNUlGYWYzSXdTRGtQd3dIVjd0S2t3dUpVYWlpSm14eE1PQ3hVUFlCOG9xZUFhQVV4VjJNMXpHY1h4NFN6alZJdFBoa1FKcGdwUmEyZmNzdWdLeW5JVlptRU4wOThoemt2TW94ZGo2OGp0NHE4U2FmaHF5bUN6bDNjZDZ1aTRwdDIwUGtybHBZdFlRMG5KNHRrb25NR3RYMVNDN1FzMjE1aUdIOXhBNVpuaUo1WXhwUUY4R2NHUnE3OXVEM194SzlBNE00WWtoSGx5SVNCQjZBMGFyWVg0MXpOeFI5c2gteFJaUkl6YmtJOXFWWjlEU0wtRmYtVjJXTUFFb1BVbEdJMi1PakNmYkJJaDFxU1FyQVBoYzJONzBmbWdpUkZMQjNrcGo0emRGcGc0dEdMNnR4Q3UzUF9wMEJHaHJXM21PTVNxZUUxRGZlTU1wTEwxLVJ0U1lLZjlodW1m0gG6A0FVX3lxTFAzb3ZlVi1ydUxiUzZmNXdZYjdZZ2pCZmJmeWVYbm1mbHFiY3NGUlRqZkdaN21BRkRkb2dYWlBPVWp4NDd2VXluUzRYYzZQTlMzT2NJLUl4MHp6b1E3MFpfb0hheXBEU040TEwxUVJEajB3NkRhYnlfTXN0TFc2M19kUGo4NE1XeURtalRqWW5GMTJuUVVxQzJhRnpXcGt0b1ZmTDd3c21JZmRYa1dITWN5SFdNMGk1QVF0VGk2SzR2dTJXSDNTbWphNzJnYkdnRkp5dkZxNlZ3ejJQbjZmSVFwU00yQUVmMDhZcERYTXRUckVvU291eEprZFBSaXh4TjM3aXZFd0JacTJxeTBXN0pYOUJJMEI5NTdDZUdZWFRCSUdTUHEtd1JXSkZQc29YMk5KMkgzVzduUXpodHJpVkZfNGp1RFNvRE5vUkNHZER0TnFSMldfSXVPdHVkS1JBRHdZSDRwRjZHWGRWcVpwYmVUSnRfSFJ3dmF5ajJoRmJCTUpvQUhWQ0Z6UVJGQXh4dGFwc1VtMlZyakQ4YVQ0dWVNOElDN2NyeTEydWFMTi1wazRjTGw4NzFMOVE?oc=5",
       "source": "العربية",
@@ -78,7 +320,7 @@
       "originalHeadline": "اليمن.. الهيئة العامة للطيران المدنى تلغى إغلاق جميع المطارات “حتى إشعار آخر”"
     },
     {
-      "headline": "Coalition Forces: Saudi air defenses dealt with Houthi missiles",
+      "headline": "Coalition Forces: Saudi air forces dealt with Houthi missiles",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdDV6RE4zQVpxWm90eEZtZ1VlMENaM3BSeGFuR0NkUUNLOTJuUmF2endHall3VE1POEh3b0M0ejdJS2JFZEYzU0R5NFI1d3F1d2ZEWFhDRjJremd3MTlWa2xsc2FQZ1NDb1lRdXJjTlZJMTB2SXptU3k3YWFpMXJtT0sxeERyNzRUdmlvRzFmZ1cxQzlKYkVGcHYzakxfN2MwU0dSQnpiRTQ4YVFOX01DU3BCMDItQWlGQmV2MTlQckE4a3F3cVJYVS1XZkZtc3ZsVHlOV1hub0tpNWFIS29adWo4allNZ2s4NnpWc2V3ZnU3eWxFZXlpWkJvWGJwd2FTUy1QNEt6WkVadmczVTdUSFhnZ3NGT05QTVQ4Wm5Cb2kxQm1Yamp3d2hmNkZzSnNQVFYyMW0yVkgwN0xpYkxvQ3ZjYmlCTDhKSlpMeDI2TlV6ZG9WMWVZdTAya3pZYm5qUWdfbms5TlI4d25qU2phRTZiYUxFYVExbC1JN2VBaHVLNjdRQm50d2lOa0Vrek1XVWpFRFBILWlTM3hXdlFxOHpVLV9JY1MzQ2VMbFE5cFg1SUlzX1pHRjhhbTFCN1dpbE5DSldUVldJLWJFSndjR2xJUnFzdw?oc=5",
       "source": "الشرق للأخبار",
       "sourceId": "google_news_gulf_arabic",
@@ -86,7 +328,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-13T17:22:34.000Z",
-      "originalHeadline": "قوات التحالف: الدفاعات الجوية السعودية تعاملت مع صواريخ حوثية"
+      "originalHeadline": "قوات التحالف: الدفا��ات الجوية السعودية تعاملت مع صواريخ حوثية"
     },
     {
       "headline": "The Houthis announce that Sanaa Airport was subjected to a “Saudi bombing,” and the Yemeni government adopts targeting the airport runway to prevent an Iranian plane from landing.",
@@ -333,15 +575,15 @@
       "date": "2026-07-13T17:03:39.000Z"
     },
     {
-      "headline": "Mansour bin Zayed chairs the meeting of the Board of Directors of the Emirates Investment Authority",
+      "headline": "Mansour bin Zayed chairs the meeting of the Board of Directors of the Emirates Investment Authority - Mubasher Info",
       "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQT0k1ZXNhR1J2bzRKTjFNdEd1Wm10cTFOUjZ3dmt3dlFjdE94RjhGaFA2MTJlQ0ZaOEc3VVM4azAyNHBEMWdEdDhzdnJRbXh6RjFXa016X0VpQjRBd2hBVDlDdXhqOENDQ1V1R3JUZmtnZ1dhZGJPcWRhNE94azkwRlp2ZElTakk5ajZfV3JUc0VOeVdVZGJxT2pRSE1CdzA0cTZ4UFhOeXRzN211RGVaYTlRbGtsTWlpNFFXeC1nNzg2YWFmRTctLVhEZWZNdW5KVXJkdFlnbmF2SG5ma0s1ajduZFIwdElNdzhET0RlcHhPQTI4Rk9kcHRjMXJ0SVlveDlVUHYyRDNvRXF1QTl2NjgtSHpST1lBWW8zaDJtNzlwWkpuMEM5N1dOOHh4aUJrc092QW50Q044MzEyNHhZMDhxeVl2X0Rsekc1SjMydkdGbEdCVHB4b0czOXVVcVI5QzFSQ1lDM1JKUGh4X0RvRFpKWTJQVl84blIyVVJRSWV1eUZIR1pYTFZsWEU0RGVHdVRvRGpHWm5KTG1LZU00T05JV0JWT01BcXZ1WThuVTRqY0xkWmRqS25NVUpFU1NvV3pvNGhBMnZzWl9zam5nVHdwX1RwOFoyOVhsQlNlVmZSd2Vpc3FUZHFtWmZSeGFDM0RGZ2RBdGZCTjA3Wmc?oc=5",
-      "source": "معلومات مباشر",
+      "source": "معلومات مبا��ر",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-13T16:59:21.000Z",
-      "originalHeadline": "منصور بن زايد يترأس اجتماع مجلس إدارة جهاز الإمارات للاستثمار"
+      "originalHeadline": "منصور بن زايد يترأس اجتماع مجلس إدارة جهاز الإمارات للاستثمار - معلومات مباشر"
     },
     {
       "headline": "Officials pay condolences at Qatar’s Embassy in Muscat",
@@ -352,6 +594,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-13T16:57:41.000Z"
+    },
+    {
+      "headline": "Ukrainian PM Svyrydenko has submitted resignation, parliament speaker says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVVaaHVBMjk1UVJVZUFKS3BEWlVTaVhCWXBDcmhucUNVcGZOSTN1QVlXUEthVWxPNmdwVkNvcEs2NzVEQjVKTG10VF8tdXlUNE1UWGVHRnVQdEFEclFYRmlXUmRaM1d5WTRZcy1Mc2NORHNrQnBnM0kwNmJkYUJrZHVFSFhoeFhCOXkwYlFyUEZQSHNreWFZNkpQbEVMUWs4NHZhOEtZVlJSd3dhVDhuVllkWmFsdw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-13T16:51:43.000Z"
     },
     {
       "headline": "On Behalf of Foreign Minister, Deputy Minister for Protocol Affairs Offers Condolences on Passing of Sheikh Hamad bin Khalifa Al Thani",
@@ -978,6 +1230,16 @@
       "language": "ar",
       "date": "2026-07-13T15:08:59.000Z",
       "originalHeadline": "البحرين تعزز الكفاءات البحرية بإطلاق برنامج متخصص لإدارة حركة السفن"
+    },
+    {
+      "headline": "Western leaders agree anti-ballistic missile coalition with Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUJ0anRLODRFQ0lXTWE4emFJVWZwM2Y4WTZtRUFXeFNwQ3ctQXlUWGJZQ2lRMUdGWnUxTVViM3pBaWpzdGZ2THdQTHVfQWpkNWNCZGJCWGg5bzk3eE5YQTdwT2xzQXROV1hfVHppekZCYTh3TFAyZkdTNHZjRjViX1pMWHJjQUhRZnkyUmJGcEw5bFMxMW1pM0c5RjJ5dkFoaVItYUo0LTNzN0JZSXJtYW5LTEFoSWpZSTh2SUhxSlBtcTFpMTZMRWJ3?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-13T15:07:02.000Z"
     },
     {
       "headline": "The President of the Yemeni Presidential Leadership Council directs the government, the armed forces, and the security apparatus to continue raising the highest levels of readiness and to take all measures to ensure the protection of Yemen's sovereignty.",
@@ -2613,28 +2875,6 @@
       "originalHeadline": "Mud Houses in Thul.. The Memory of Place Woven by Centuries on the Red Sea Coast.\n\nhttps://\nspa.gov.sa/N2632997\n#واس"
     },
     {
-      "headline": "In the presence of presidents and ministers.. The Emir of Qatar receives condolences on the death of his father | Photos",
-      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNV0I1SEp0Ry1fNGJ3TmpjdzE1MEo2cERhVXZ2MkZ2bTUyUExZcVl1R0hILXIwODBjaVBjTXl5UkVxVjhIUTdBb1Z2M1E0VzB2blMwTlZoeVFJSGZiaHFYbk5zQUNUaC11WmhENnBreXBfRExUdlVLTkNHU215T3Vib05vYlNueFNJbzl3Sy1VWmtSOXpkNDI2NUF0UzBtVnZfMXZDSXdTZlhsc3Z1VG5JcHdPd1l0NkdoNkM2SzFpeE5jVENES3luZV9pVzQzSlBCc3ZDM1hKT3BtTk5qTVVnTUxVdFlFYnk5SEVQQUpvRVBYcnpGNnIxN050eTM2M3RObS03VTRCR3kxSUJJYWs3b1Q0bzB0TjFKaDJvZXpvY3hOVWNLXzBTdXhYMEY4M1lZNWpQNi03VkJEeDBHWnZaUjJnSHB6VEJEN29IR1ZOMWtDdDVaQXNVY0thdk9YS1cwbE1MRUNPQzhsY2IxeUpvaWNvenBLSm92MXkwOTlJWml2NzFaRE0zaGxnQ1JEaE1jT1FMTDQ3MEdpd2tyN29QWG1fVlE3Y29jV2FPeHp6aDI5TU5JaVFKMVAtWkhvSEkycHM4Q1lqM01oVm5uTk9SSjBxem5lNXJzYmIycUZaMTZlVTdCbjEzLVFmX2lNdlhrMkdIV3RGNmUwLVJtTjdVdGVoWnlUOFhmWmV4Sk9wd2ptQTBn0gGaBEFVX3lxTE9abXRsSFFNcnhTX1NzNE9KSTE5LTZrTWhBalpzRm52OHRFRGlfdzMzNGVISU1UZlRmMDNMQU5oVEVhYlRlcDNOQjNKdVVmSEVUSkpxaVByNjRrRGNncy1ZandqYUhuS2QybFFRQmlXQmtKX1QyMUYya2dIUGVCb2RITlpaLThRbU83Y0c3LTlMUmFPdFktZ0NsaEkyWTM4M2F1dmtlYy1mc1VaTU9fYU5XcDViRGtGVHYxelN4dUtYNVVMdG8zUG9Gdk5DY2FNdXVRSUlUclJJQUw0OHBXb2swQTVqVWNBOFJCYlNQTmZjMk14eE9CZDNtcmRUVEt4NzhwQkM5VERuYnluVFdFWHpGZk9PaUVFSVlQNGxadXpYUER5ZW9XTTJGa2w1eURjMXJjUVhWRUhEbFZ3RVZ3bG9NdUpIWHVxR2E4ZUk5d0JWWGxEd2p2OHo2TXd1RWxuSzJZcnM0R3RxYWdSX2Ffa0NCa3dWbm9HM1Q0bmNDdzlLNnZ6Mi1TSDRSb1l2MWxFdHY2a1NoVjlQTzlkclJPOXotTHdlMTR6eXd6bktqZ211NzJuQkRZaUo5Slh2Ymp5T2pJN0V4VzRnYkpxclV1S0ZfeW05bklkMkZIUUZXOWVJVzdQTG9WWGxjdlQ5VElCRllPdEhTVW5lS2o0OEFQeVpDcGRYM21oMHA3SVpvV0YyanNYTTltODJMdUE?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T11:21:52.000Z",
-      "originalHeadline": "بحضور رؤساء ووزراء.. أمير قطر يتلقى التعازي في وفاة والده |صور"
-    },
-    {
-      "headline": "Saudi Arabia and Egypt demand an immediate cessation of all escalatory actions in the region",
-      "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQYTdMZTkySnRRbzdDa3VlamVaMk1NdERPM2pqWkY1NURLdHRQX0ZyTjd2WlY2R1c1NnRReFoybERFRUZpTG55S0pvRlpFRlk2eTB0SS1fa0RvVHJwVTY2S0VOZ21xTFB6N2N5V3VNR0JfaHhDcFJTVkI3bmhBTFNadVFzRWJnbTdJRExjVTktRkd1SUtjVlhTclkwb2dPNWw4T1hCTmVRWmd1ejgtSFZ5LURfbWVXUGFUdjQ3YUp5QWgxWjNRSzMwbTdMX0pseUsyNUdBeU9xVmpxYldvUFB5Snp1bjkxN3MydDNDTUhrQUV1bzM0elRvOWlFb1FMNTh5MnJFZVRhUUp2XzA3OVhoN3ZwZEJEZm40ZUdMdWc0SHUtVkFTUGtxMXRVZnVLakxrMVpoNHBpaE1WQVFfNkRfY0FtNEN3RlJUSXNPdThtTkZPdFQtQnNGNEZLejUxbXFDcEJFUnI0S1pHSDMyUmZEQ3hiYnMwVFRSTlU2ejdLTXI0T3ZIaHk5ZHZSZGlWUzdTZVRMbmcwTkR4eElxTTFUbDA4a2tNUUFpMVVFMFZkWFZSVzlkYVVUWUR6QTJ2czhVdlJrdWQ2dFo2bG05OTA0WnFZV1Y1T053bUZkSDh4ZHhIRzlIRndmR0hPa1V6VXFleDU0c2JXWlY2dXJlTkN0aTVxejZhOGN5X0tHSDRDSVpqTi1Sd3dYT01OaE1RUGFZZ1dkQTJMUGZCdmRlZ2JicmwtbmZEYlhXbHhXeUl6alduWUxnWks4YW90LXN2ZnU4UjJSeUl3enpGaXlBdlJ3MmZqNFpCbGVmd216RUxLQkZNSlFMNm5oVGlyTG1jeWl6dFo2ZzQyb0FvcElvZ25KZWJVbjUwWDFC?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T11:21:49.000Z",
-      "originalHeadline": "السعودية ومصر تطالبان بوقف فوري لجميع الأعمال التصعيدية في المنطقة"
-    },
-    {
       "headline": "Statement Issued by the Ministry of Foreign Affairs  \nMonday, 13 July 2026  \n\nThe Ministry of Foreign Affairs expresses the State of Kuwait's condemnation and denunciation, in the strongest terms, of the heinous aggression being waged by the Islamic Republic of Iran, and the",
       "url": "https://x.com/MOFAKuwait/status/2076628015019110724",
       "source": "Kuwait MFA",
@@ -2643,78 +2883,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-13T11:21:15.000Z"
-    },
-    {
-      "headline": "Programme launches in Dhofar to strengthen family stability",
-      "url": "https://timesofoman.com//article/174318-programme-launches-in-dhofar-to-strengthen-family-stability",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-13T11:20:53.000Z"
-    },
-    {
-      "headline": "US strikes on Iran and Tehran targeting Kuwait, Bahrain and Jordan",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQcGZNVXluVGJ1TFAyclV0WlZmM2dHcVdSS2xvNHBTWXJmWW56c3M0WFhGR0gzRzJsMHhwRHJVZ29yajlTUVpBN2pYWEhlZVdRbWpWSTc4MVdlR0xDZlV4OFRFNjBUOTZmemRfZFVnMS1HLTBHY2xXOXczQWQxQmlZWEJKYlV1UVZfQlZWX2pwSlg1OHdKNF9QSGc3T0FKbHRGN1lyYjZTNnpvM0pWXzZYekE0aGJzN2tRa09uSzZvSGt1Ym42QWtQZlgzbFBKYUpaaVRMSnhzc09QeF9FM1ROWW1hOEFLTkE0MGU3S2x6S1MxdExGSm5jWHZPbEhoMWo1QkVNeWJyVmdaWmI4MGxxT2d2cjNxZ1VBbHN3MFZwTnJUcDFyTHNiclA4akUwMDN1LVNoNXBmTE1wZEdZbnhycDlnOFo2RFItWXR6MGNaYXNMMWpoTlFNcnln0gHfAkFVX3lxTE5GXy1PS1lzanZYWkVYZFlpb2RRWW8wMlotOVZPVm1VX0NaNVdEYVdtZHFpT1IyUTRCeEVXZkJMdVc0YzV3ckM2ejRaN3BPa0lHYkN0X3dPb3g4OWN0c01hTmdPOUtHQ20tR1dyNWVWdFNraXZCaUJleVZmTHlRYV96ZlJFbDBoMTZ0MDFyTlRpaW9haWVlSkN0cmpUNDlJaHBrS0dGa0pYVjA0dnFWaDZfMTg0Q1dsWml6Y2xlT3hTR2tncGlCcHVwczNiZGJCZjlndVk2TjQ0MUlsbXVnOHNHU3ZvX2tXNmh1NTVfLS1qaldQYzA0RkhQcDZsclRidGxNeVdIQ2VaQ1pUQ1ByRGZnSlZlX3JWbzNZOWlqRGJhRVdkSE4zSHJLQU5vOG8tbHYzYndyNUV2RE5MeENSY3BlYUhSYVpMeUtqNEFEWV9CWWJ5S1ZtVjJfY0pMZjFLbw?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T11:20:16.000Z",
-      "originalHeadline": "ضربات أمريكية لإيران وطهران تستهدف الكويت والبحرين والأردن"
-    },
-    {
-      "headline": "How did Qatar lead the global gas industry in a few years?",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOZHRnT2FGLWE4cmYyREFESUI3LTNkUFB4cVVvMzNnVXotRjdxTFU5LXh4ZGhuYlVIRjU3WUpTWllOUEs5MUZrMTh0SGJYeVZlTjk0OXZhV3ZNZkJjN2JhazVxcmt6a0tfbXVpM2VBX3o4QkpRbWdkdXR5QnBfUjhfTTB0ckhyRGtBSG9wRDRXak1FYkp1NzBhenBPNGJYRzA1ZVRSZHhYa0N2ZjBmdk1WMGlyZkVnTDRZeHFNNFpLTlJ5RmJoWEJ4RTJQZjNpY1p4WGJTRC1uazdyVGxnVzc2QVFUYk1ETXVyeTRVTTBxRG9CX256S19oVmJXRmNzdlRtY2gxSVFfX3FmNWZ4UE5MQUhBY3BTREwyY2QzdkhoYVhPdjlkM3NMV1Z6RGxZU1VvSzBmS0F5ZkhuOUdrNFBDOHFfYS1VTEVCY1HSAc8CQVVfeXFMT2s2a0RaZTQyZGpGaERVdm5pYVlXZndRTEpZdXlrZ3o1UU51aGN2Z2ZEZ1VTaWNxWndoeDJjUTB4RTdYVHZLZlFtTGlVbnJQdDZFWkRtNF8yZnJVWF92Y0V4akVmRy1uc0EtbjNubGp0QVQzYWpfOUx5cExmVUR3UGJ0dE50V0ZQTnY3bmVlM0J3bjV6d195SGVNMEtUUjNRdG5JZGtUWDhXVUMwTzhtUWFkR2tXdl9jTGJxVlo1cWNpVUkzT2ZLb0FPa2tlRzJWc2k1cW85czcyV0JzSUxrTGN3Z1ozMjhkc0xUd0k1VHM1VlR0Z25ubzlhUk52c244Wm9nZGZfZHp3c2MyaVV5Q3FFSFY1akRWWGJ0d3lqSmROYm94b2xVeHhITXdtZFlsbHB0bE9GRE1DUWRJZUV1SlZTZmlBX3dnU2VDX2tkSE0?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T11:19:21.000Z",
-      "originalHeadline": "كيف تبوأت قطر صناعة الغاز عالميا في سنوات قليلة؟"
-    },
-    {
-      "headline": "Electricity generation in Oman rises by 6.8%",
-      "url": "https://timesofoman.com//article/174317-electricity-generation-in-oman-rises-by-68",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-13T11:17:32.000Z"
-    },
-    {
-      "headline": "HRH the Crown Prince Congratulates President of Montenegro on National Day",
-      "url": "https://spa.gov.sa/en/N2633009?type=news&uuid=N2633009",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-13T11:15:49.000Z"
-    },
-    {
-      "headline": "Bahrain Defence Force intercepts Iranian aerial attacks",
-      "url": "https://www.wam.ae/en/details/c178sdb-bahrain-defence-force-intercepts-iranian-aerial",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-13T11:15:34.609Z"
-    },
-    {
-      "headline": "The Custodian of the Two Holy Mosques Congratulates President of Montenegro on National Day",
-      "url": "https://spa.gov.sa/en/N2633006?type=news&uuid=N2633006",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-13T11:14:04.000Z"
     },
     {
       "headline": "Ras Al Khaimah Ruler receives RAKBANK, Mastercard delegation\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c178sda",
@@ -2757,16 +2925,6 @@
       "date": "2026-07-13T11:11:02.000Z"
     },
     {
-      "headline": "Ras Al Khaimah Ruler receives RAKBANK, Mastercard delegation",
-      "url": "https://www.wam.ae/en/details/c178sda-ras-khaimah-ruler-receives-rakbank-mastercard",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-13T11:09:30.428Z"
-    },
-    {
       "headline": "Youssef Al-Balawi, Ambassador of the Custodian of the Two Holy Mosques to the Federal Republic of Nigeria, presents his credentials as a non-resident ambassador to the Republic of Benin to His Excellency Romuald Wadani, President of the Republic of Benin.",
       "url": "https://x.com/KSAMOFA/status/2076624406126694744",
       "source": "Saudi MFA",
@@ -2775,16 +2933,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-13T11:06:54.000Z"
-    },
-    {
-      "headline": "HRH the Crown Prince Holds Phone Call with Qatar’s Amir to Offer Condolences on Passing of Sheikh Hamad bin Khalifa Al Thani",
-      "url": "https://spa.gov.sa/en/N2632990?type=news&uuid=N2632990",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-13T11:02:48.000Z"
     },
     {
       "headline": "His Royal Highness #Crown_Prince offers condolences via phone call to the Emir of the State of Qatar on the passing of His Highness Sheikh Hamad bin Khalifa Al Thani -may God have mercy on him-.",
@@ -2817,69 +2965,6 @@
       "date": "2026-07-13T11:01:07.000Z"
     },
     {
-      "headline": "HM the Sultan greets French President",
-      "url": "https://timesofoman.com//article/174316-hm-the-sultan-greets-french-president",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-13T11:00:49.000Z"
-    },
-    {
-      "headline": "Mulling AI Investment , Anthropic Lobbied Australia on Copyright Law",
-      "url": "https://english.aawsat.com/technology/5295342-mulling-ai-investment-anthropic-lobbied-australia-copyright-law",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-13T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Cruz Hewitt Sets Sights on Playing Australian Open after Losing Wimbledon Boy Final",
-      "url": "https://english.aawsat.com/sports/5295333-cruz-hewitt-sets-sights-playing-australian-open-after-losing-wimbledon-boys-final",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-13T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Jurassic Park Star Sam Neill Dies Aged 78",
-      "url": "https://english.aawsat.com/entertainment/5295320-jurassic-park-star-sam-neill-dies-aged-78",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-13T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "HM the Sultan sends written message to President of Kazakhstan",
-      "url": "https://timesofoman.com//article/174315-hm-the-sultan-sends-written-message-to-president-of-kazakhstan",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-13T10:54:59.000Z"
-    },
-    {
-      "headline": "ECI supports US$50 million trade finance facility for Gerald Group with ADCB",
-      "url": "https://www.wam.ae/en/details/c178sah-eci-supports-us50-million-trade-finance-facility",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-13T10:53:35.737Z"
-    },
-    {
       "headline": "Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince congratulate the President of Montenegro on the occasion of the anniversary of their country's National Day.",
       "url": "https://x.com/KSAMOFA/status/2076618728884551748",
       "source": "Saudi MFA",
@@ -2888,47 +2973,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-13T10:44:21.000Z"
-    },
-    {
-      "headline": "Bahrain: Air defenses intercepted a number of Iranian attacks this morning",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93U2V4X1I4MUVremwxMzdObWlNWTQ2QWVhbFBSaU9xRklXdVB0ck8xWFh5czlac0YyVzZnckJ6TVhhcmtBMWxzYVN5SG1abnNvcjh1TzFn?oc=5",
-      "source": "بوابة الأهرام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T10:44:00.000Z",
-      "originalHeadline": "البحرين: الدفاعات الجوية اعترضت عددًا من الهجمات الإيرانية صباح اليوم"
-    },
-    {
-      "headline": "Morning Bid: Crude up, chips down - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzZJNlNOeHRMSUJDNG1YUkl4MnhqLVZBcGRxR1RoNWxPR0IzY1lHMWNEUUdyWVd4bGNQLU5CbUNSbmJRRFVpSGVLWWdFQ08wbHF1VVZuNWlEQnFsTVVQZFZzQm45eGJZV3FraXBCMHhWREwwVjE3dlExRlhVYkVaSXhIZlFjbEw3bkZFaV9pWEUtUksxeVNj?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-13T10:42:06.000Z"
-    },
-    {
-      "headline": "After 80 years, Czech tractor maker to move production to Asia because of costs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUl6NGdnUXVrVTFsOVpNaERPQjQxTXR5M0RSSkIwTkl3U3c0SkZsY1dibEpkbU85MWh2cVdwS0xYVmxvWURLY2FNM1RYejVQa2M1UWpCT2dTZUdjZW9tNXRSakNlME1qOFRzeVFHTk9BSnh6cXVYMW85a0dIOXdqc2I5U0pRd1lmT1FYQ2tlb3BBdEliNURuS2pCMk1CYjRzbkdvYTd6dTZxVTBlcUVFVnZtd2NfeXNud3JRYzJvckpTZw?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-13T10:36:09.000Z"
-    },
-    {
-      "headline": "Sharjah Islamic Bank reports AED803.9 million net profit, up 15.3 percent",
-      "url": "https://www.wam.ae/en/details/c178sag-sharjah-islamic-bank-reports-aed8039-million-net",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-13T10:34:48.948Z"
     },
     {
       "headline": "Beneath the Kingdom's diverse geology lies a potential new clean energy source: geologic hydrogen.",
@@ -2961,18 +3005,6 @@
       "date": "2026-07-13T10:30:15.000Z"
     },
     {
-      "headline": "With a broken heart.. Sheikha Moza mourns the Father Emir: the pioneer of the modern State of Qatar and the maker of its glories",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/13/sheikha-moza-mourns-father-emir-qatar",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T10:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بقلب كسير .. الشيخة موزا تنعى الأمير الوالد : رائد دولة قطر الحديثة وصانع أمجادها"
-    },
-    {
       "headline": "The Emirates Human Resources Development Council in Dubai celebrates the graduation of the first cohort of the Chief Financial Officer (CFO) Program, which aims to empower Emirati talents with advanced leadership and financial skills that qualify them to assume impactful",
       "url": "https://x.com/DXBMediaOffice/status/2076614962064285884",
       "source": "Dubai Media Office",
@@ -2981,17 +3013,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-13T10:29:23.000Z"
-    },
-    {
-      "headline": "Bahrain: Air defenses responded to several treacherous Iranian attacks",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPS3c4bVpTM3J2eWpnbmc3Qk1BX01zeTA3RVRZZ0RYcThSTHh2SVNEczE4YnJ4ZGdOTEpBakJuM3R5WXE3VzV5S3l5bG5SZmlwM1VWY2RZM2p3eWRmUkpBcGlyWkRBSDFpV01EblpZVi1CYlJ5aWZpb0hoalpuSGowYlQtQW1TY1NKcWF1THdjUUtpR3NWNzh1czhVRjZJRUR5OWp5dGxTNGUwb004UWdqeVZmQzIxMzUycjBORlZ1QkhHVkpERE94NllIV211QlFaRDR2dUZ2dE1UVUlfeFJCTUd1VWVuaE1mMUtOUjdjNXpzOEFNR25XRkhtN3c3Mi1kZ19xdjY5dUZKUDV5c1V5N05jLUk1a3F6TzBSRDQ2cWdDZ1IwREZWQ0RlUFpFc1hfR2IzM2ZtSlBMbUdiVlhuazdFeWFYb2ZnSTJxZTB5QWtpLWJIcEx6bzhGSG95WXJ6Y1NRY1NkZjBfSUp3Wnk3V00wQjE2YUhHbjZpQmtvdmZ1ZVpvSjVlU3BmWGRrY09UWGJlUzdmcnVYc3ZWeVQ5RlhoSmRtNkZQajhuSWF4R0h4SENNVUVOeTJJMWZpNzZSRTQwUERybVlyb3pGdFB6a1c5d1BrVU8zM29pZEJGcWpVd0NwRUIwZ1FISDJvSXNw0gH2A0FVX3lxTE1sYm8yWEItMUFncnlSaGIyUklfVWJJT25GVGplV0hKQjc4Y0Q0ejNIUXpUVzNwbDJCcm52V3diRjlmNl9uSUlTWkcxOGhwNVYzbmgxdUQ5LW4yYVpqMmtqX0FiZmwwbGlVY2dyN0NoX3FXQmkxNHFabW9oeEViNHdvclhnZGI5U2ZOUlVmRjNheGpyZDN0ZThXeXpYVVROdXNHNEt3d0NKNVk2WlpWMW00dWxXbFIxV2VqWl9OLTJ1WGpEVnpUNFBLUEFUdl9GdUJ0ZW13aG9SeF9YbjBRRUtmOWNPVWF5bWkyZlBIT0NDc2NGemtIdXBIaTdtdWVQTVBjcl9aMUJiSlJCdHBRMG1yajFSNHBqd1hIbDhhUkNjdi1kQ3pIcjBTbWcxdE9fZ0VzWnNHV1VvX1pKRUhTZGtNdTNuV0t5UjhlSm5leFFZeUMtbUVIMnBJd3RGcnNzdGVhdUk4WUM2UHNkSFJUelhtb3hiaFVmWGVnNWtOOVhGMldvcmsyZU9CZV80cHFLTUgxRXlBVTFjLW51R01TalRTamJZYVBUQmpRVGY3Z1NJallURUROR2FlTGNWQld2WjlwME1vWWJFaEZ6d280SHQ0dUxSbkZ3RGV3RkJoNzA2ekg1Z2dWZ25yNFphZi1pWktOZUo4dFE?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T10:29:04.000Z",
-      "originalHeadline": "البحرين: الدفاعات الجوية تصدت لعدة اعتداءات إيرانية غادرة"
     },
     {
       "headline": "His Royal Highness #Crown_Prince offers condolences via phone to the Emir of the State of Qatar on the passing of His Highness Sheikh Hamad bin Khalifa Al Thani -may God have mercy on him-.\n\nhttps://\nspa.gov.sa/N2632952\n#WAS",
