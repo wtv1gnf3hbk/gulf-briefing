@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-13T06:03:49.270Z",
+  "updated": "2026-07-13T06:17:45.300Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Monday",
+      "url": "https://spa.gov.sa/en/N2632833?type=news&uuid=N2632833",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-13T06:07:25.000Z"
+    },
+    {
+      "headline": "Document: Kuwait reduces the selling price of crude oil to Asia in August",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVWx3RHZSVVJIWkJhZkV4cE1DSGI5clVwNW5pb0RBQzBSSUVoclZVUFlPbGgwVjBwdDdScmtGWnRiNGwwSUJsMUNaalJ4cjZzNDZkcnUxdWI0aVpyMHUzTzNmYUFuX1N6bTNoWkE2SWFwYXB5YTVxNERlbGxZMkk?oc=5",
+      "source": "Reuters",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T05:59:00.000Z",
+      "originalHeadline": "وثيقة: الكويت تخفض سعر بيع النفط الخام لآسيا في أغسطس"
+    },
+    {
+      "headline": "Qatar Islamic Company partially exits its stake in Bima",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQZmpUNFcyNEtEYlFlejE1SFRzM3lsNW1wbFoxU3ZhZ0w5dWh4dEFSV0szel9tUTV1UXozYkVkdlVmX0JWQTVhSVpIZzN1VVBhZWRIZ1IzdWlZX3AzS2tZWGN3NTN1SnZfS0syMTU0Y3BtZEhXVHlDZDhUWFM3NUdjVFVpWmpNRkZNcGdGWngzMUdCMU96WW0tc2ZFUU5JRXBMQndkWmprZ3NFTmhqTC1LOGxGV0NtamdjWURsR1hZb0Y4VTdSQWR4TEhKVnFPMzRXNE54c2dxaXkyZ1Q2LW9SVXZZTXh2TUlKYlZjRHdFSE1aV0d1aFFIUDZ6WU9zR2lCT2J6cGNvTTFiakd1Q0R0SFNoNThHaGU0dUtJRkpLLWlPRnV6LVVibGZXeDlWR0NTTkQyeVZ0MHZwX29jRHRJNERjV0dCYVkyaDRsX2dNeVhLVnp0ekpUSWljcW1Yak1QNTVfQUQwMEpJVWR4NGc?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T05:54:56.000Z",
+      "originalHeadline": "\"قطر الإسلامي\" يتخارج جزئياً من حصته في \"بيمة\""
+    },
+    {
+      "headline": "GCC inflation remains stable at 1.8% in 2025",
+      "url": "https://www.wam.ae/en/details/c178rw0-gcc-inflation-remains-stable-18-2025",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-13T05:53:43.331Z"
+    },
+    {
+      "headline": "Huge Fire Rages in Fontainebleau Forest Near Paris",
+      "url": "https://english.aawsat.com/varieties/5295295-huge-fire-rages-fontainebleau-forest-near-paris",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-13T05:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "MWL Condemns Continued Iranian Attacks on Gulf States , Jordan , Commercial Vessels",
+      "url": "https://english.aawsat.com/gulf/5295300-mwl-condemns-continued-iranian-attacks-gulf-states-jordan-commercial-vessels",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-13T05:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Oman Says 23 Crew Members Rescued from Vessel Attacked off Musandam",
+      "url": "https://english.aawsat.com/gulf/5295304-oman-says-23-crew-members-rescued-vessel-attacked-musandam",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-13T05:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Arab League Secretary - General Reiterates Rejection of Iranian Attacks on Arab States",
+      "url": "https://english.aawsat.com/arab-world/5295297-arab-league-secretary-general-reiterates-rejection-iranian-attacks-arab-states",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-13T05:30:00.000Z",
+      "tier": "gdelt"
+    },
     {
       "headline": "Iran announces the start of an attack against American bases... and sirens sound in Bahrain",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFNKeldKZU13THRSeGdyVENCYVZjRWhOSDhBNnRyMmt1MG9LWVFWenZpQ0I0MXpsblZUZUZmTlU5OTFPTDlGRDhUV1hlTDQzb29ZOFJUS2hSbjA4VU9KTkM2UnRBMkNGZ2VHV250WS1pQmVrOU9JTjNPRi1hTXIwUEE1amhGSnczMW53TVhZRUVGWldlU2RkS1pYY3RzcnJIRDVEdV95WXdqbklKN3ZyczU2SdIBvgFBVV95cUxPVWVTY01pdGdqbGVVSGRDelJqbzZHX3F4YmRLZzdwTi1Nei1reF8zb3JoUmh5eWx6MnRweTN1REFSTEhvNndQYjVkNTdfNXpEUWlnY3RtS1ZmYlFlemtJNkRuWHByTGVoZFE2ZWcyay1VejlrWDZWZFdidzdWZUEzV0h2cjVQejhHaXQ4MDJhT1E2WXRtdWh6QVBfY3BKSUk5bDU2XzczeExyeHFSSnI1WUpIV3A1dDJFRzliS09B?oc=5",
@@ -48,6 +134,18 @@
       "originalHeadline": "11 دولة ترفض مطالب بكين بالسيادة على بحر جنوب الصين"
     },
     {
+      "headline": "Why did American-supported biological laboratories become controversial again?",
+      "url": "https://www.bbc.com/persian/articles/cn4rnk31evmo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-13T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "چرا آزمایشگاه‌های بیولوژیکی تحت حمایت آمریکا دوباره جنجالی شدند ؟"
+    },
+    {
       "headline": "Gold prices in Qatar stabilize as markets await US inflation data",
       "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPekFoLXB0UlpWcUNVM2xiZEF0bGpqR2hjWEg0U1ZQdWZ4NlhKdWVVam52dXJURWZHc3hSM3pnN3VreXdsb3JrT0tPby1vYmRKdzZWdHNPT3p3UEs4WlM2MEV4RDdoTnlGSXl4eEtFd2MxTEp1Z1daWENuUE5NZ0k5OXVDdnQ1eFZyRFl2WS1vQ1hPQnMyY3RrWEpnWjhlTlFjUmNra2RiM2s1MG9qX0ZTOXkxUUFjSGQyWGdIbEp2RHNWRWN3ellrUVBPcmdzNUhCSHMtMTd5aGl0eVVyc2JFQkNaazZuLUZudGFUZC1mMVBEZjVYVnJPcVlLOEl5VkNSYlp3QTd1RzlkVnNHOUREbXR1SmQ0LXROaW9VNXBxejJRb2c2dUZGZkRpM2E4bWo5RVRwcl9nNVA3emw5YTdHY1p2YUEtZy1VVDBXSi1iS01aWFJISEF2R2JkVG4wNy1EdXBWa2ZqS01xRnNnRGEtSUN6MjVFLTdrLUMwRlJBeWR1a240LTgxQWRHVzJmUGdidVhheEV5OVRMbG1pVWV2aThMWXJRUjNBTG5GYUplZ2k0Unljc3A1NE52QzI0ZGpCeWZjQWlWQ21PTUdXTGZqMGJLbGV5YjloM3JYNER30gHYA0FVX3lxTE80ZkxQa2hJWlU3LTVyQTBMNmRmaFZJbTlQeXY0MS1OQ0Y2WWoyY2RZZ1lNSFhsTWJZUXN0b2NvNTk0ZDBrUHdvTXhLUlBoNkVsc25IZWNzdXZNMEllY1ozb1BVOWpPVjN6V1RwRlFiYW9iaWd2b3poU3pyTHJ2c0UwWTdXeDIwM2hFWjBZRzFTMm9oSDJjaXc0bHZ0d2VzOVZKY21sUGpTejEtNzBqcVE3NmhQRDBPNkkyakFTbk8xRF9mZ05FTVF1MkNITXczV0xEYjNScjRmRU1vdVNabVZYUmF6X1BaaHJzY3c2MlFvWW13anRWc19wN2FwbkdGMHdqTUFVU0RWbkJNQ0ZmWHhVbUpyNTN6ME9rdnRkZDcwTWhiOEdMdFlhcGIzdXNhd1dvRFRpSDJWVm5ZYXB1NDVVbjBYT3JjVjJ1X1hLODVINTU4ZWJJS3daMGRZWF9TVGdqcTF6UEVBOWlFaTBWdlBmVVhwd0N6eGF4d1ZuMU1LQVhlODRBaUI4TWtnVFZjVDc3VlIwVmMzbzl1N0Eya0NmLXE1UVVlTGxtZFpVRzJwVXF4THFONkhWNlpkTFZDc29nZEgtU1g0QzFpSEtHcXl4U3JJVWZOYTE?oc=5",
       "source": "اليوم السابع",
@@ -77,7 +175,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-13T04:41:15.000Z",
-      "originalHeadline": "مفتي الجمهورية يعزي أ��ير دولة قطر في وفاة الأمير الوالد الشيخ حمد بن خليفة آل ثاني"
+      "originalHeadline": "مفتي الجمهورية يعزي أمير دولة قطر في وفاة الأمير الوالد الشيخ حمد بن خليفة آل ثاني"
     },
     {
       "headline": "Gold slides over 1% on Monday",
@@ -161,17 +259,6 @@
       "date": "2026-07-13T04:08:27.620Z"
     },
     {
-      "headline": "The UAE condemns the attack on land border posts and an offshore oil platform in Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNeVkxRlo3VDZfM21FVElFTmxDdjljODQtenRTdzlFT05tUXF5TGNMVnJHcTJqV1VjX3NGOWhpT0NFa01wYVlGWkhJWDR0MkRSdUhNN3QtQ0dfYkhrWVoyczB0MWExbXpDOXZQeVVvRXlXZWs4MXFzSkpWemRxaENMVVYzcHpJX0dldUlMMEN3SEpQVXlOaWVPN2hEdGppQnl1ZHFQR1RUY2s3clRuSDdqOGgtWTZ2UHJnQUVwYl9SbThjUnFLT0g4aUx1VlBXVDB0c192Y0ZXZDA4UXlHSk1VZXB5c2xTMW51SG5SQUFtUi1qOUxEM1AyR2RwZUdHY3Frdks2cW9RZ2xDZ0dEdk1uaS1TbmxCbjk4OEllbTdHT2Z5Y0RZakl2Yzl1dXVKNTg0UDRrMHE1QjJIM3FRNFpYbjFZanFLc0RGaTU4X3R0Nm41M3VQOEo0TmozYzFNTTBSbkwwYnplVkNBZXpxT3pLM3UxSURTeFZOTEgtakdEcVh0a2Exb0I4Q1NYb2tLZ3hfc2lHZjhRRktfQlFMU2xzMUxfNTZOdlZlbWYzNHRLaU1MOWRBRlRNTWtpdWQ4VTdjRy1JcmhKc1d6RDdrVDVRN2djdzNXWXZLVFNwX1gzOXAyZTk0VFJNaHh5eDQ5d9IB6ANBVV95cUxPN2NYYWItdklmU1dfWHdLdkY5Y2ZOZl9KSTJucVBPMzNpbi1PTFZzR0lfZ2hkYW5iU1lDR2dFM2kxTHd0ektCd1dqbWYwRVNMX0FDU19GZk1yeGNxTUtmUFlvYklIQVE1X09IMENGc3RFVnl5bUxRckFhYS1UdTZ5ekFpU3R2emtVUGljVDlVLVpBVWpRRm1uUGUtNmYzYWh1b0FSTVlUOEl0WnlCTzZQeWFsRXEweEdzVU93MkJTeXBuaWI3ajFobG80ZG9FMzRTVVpsMDh3S3h6Q1FvS0RnODRwYm85VkV6Nmhwa0RSWldJcHlHNWVQTEFlQndubDBYNk9IczFwTkowdGs2ZnpaeXBuNkU0LTBaMG1tQUZ1WTVXWjRjS25GYTZBYzR4LXZBUFBYQnNoNU5pYkpWZW9ScGxrdTEzR3VCX2x0b19nN3Vyd29iVURYUHBDSWJJWWRNdjFxNmVaQjJvNmNEVk5TZG9sRTlfY0VEMFluOWFuT20tRE5VSUZ1TDliaDctYVVEeHZzVWd4WG5yWVZBUlYwX2hVQXVheldfR1Q5bkl3ODNVdDY0RlI2eHd5THBiY2RqUmdnMldyWWZLdFlQVUctOWg0U2Y0WHVnTDFjdmdkbG1RQnZmb3BRSg?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T04:03:48.000Z",
-      "originalHeadline": "الإمارات تدين الهجوم على مراكز حدودية برية ومنصة نفط بحرية فى الكويت"
-    },
-    {
       "headline": "Iran attacks sites in Bahrain, Kuwait and Jordan",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPX3FmdkkteGVVZTBMZUJNUW5XX0QyNC1ZdmFLNGtzV2doSFhmdEk3SElvSm5Ibkdic0lTVjFxQ0lXeHFRS0ZhdXY5eGpXUHlGa3RZbUV6OC14RkZxVGdQMV95dFJiYVlYTldDYk9LWFBGenUxUjJXckcwYWFpWG9uMmZmSlZ1QmR0OE1CYjRsUUl5cTdlbS02Q01Yc1NhOXl3OGF1ZkdHU3BaeWZHbzAtVEdTYUZqQk4xX1RPQ05aVFBaQ2FYNVc2RnVGWVhXa2I3V3h4dUl6LVVIZV8teHZ5Q2RoZnlqbTZhOVdjb1hpS3I3TXdGTTRWeW1ySzNJYnFMc0NVSHNJT0haY3BqVHUwX3ZkcG1GOERVWERlTmt4VWV5RVdzMVZSM0x1UWt4TDkzN3hRV0ZXTGxMQi1acnhsOHVtZF9uZWd1ck1hRkNkdkVNUVVNM05OeUhiczA3VWxYZnktcFVfOW9ZVWJZNWZ2LW52VUZ0aE1kUEJOOUlIMjBsTmJTeXVNeEhTVWLSAZIDQVVfeXFMTmVHMzF3NmU1eXVsRERLS2lZVUswVHlSRlJ5RklHM0pzcHA4VktKRnphcDdEY3c5aEtyZGxYRWJ3TFpzQjB3TzVsVkttMmx6XzE3SEVfUjIxUEV6NUpaS21zYmpweWYzMmkzR0VEVnZRczJLS3B3ZV9NampnQU5BYnF3LUhlN0pLOTlRLUVUOEFkMVVWUXZjTm9LeVBfRHI2Q2lvdlBGWXd4Y3dQb0F3R3FOWkl0TENHRGRTZ3l5cWdqSGUteld5c0JHRzFtZmc1VFhuV1NoWTgzcnhtdmRPV0pyOFBPOGJoZENyeEpIQWVtS1k5Qmt6S0cyMjBteUFRbVhZZ3pBZjlYTG9USjRYVHVZZlE5ZXpfQnoyLXBaVlh0SzEtMWNSQkFBMVJvRk9HQXZ5RWVhQjZIMUM2MXI1aHJwSnR2WV9YYnJaVC1kMFBjdnNJQ0hyMG9Mdk9OSnlHWjBuM3BzU0tvZXI2SlhoZWVZZXFiVzhHZFMzTUhMaG5sWHNZeE1peHBpQ1E5a29BOWln?oc=5",
       "source": "العربية",
@@ -191,6 +278,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-13T04:00:53.714Z"
+    },
+    {
+      "headline": "The UAE condemns the attack on land border posts and an offshore oil platform in Kuwait",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNeVkxRlo3VDZfM21FVElFTmxDdjljODQtenRTdzlFT05tUXF5TGNMVnJHcTJqV1VjX3NGOWhpT0NFa01wYVlGWkhJWDR0MkRSdUhNN3QtQ0dfYkhrWVoyczB0MWExbXpDOXZQeVVvRXlXZWs4MXFzSkpWemRxaENMVVYzcHpJX0dldUlMMEN3SEpQVXlOaWVPN2hEdGppQnl1ZHFQR1RUY2s3clRuSDdqOGgtWTZ2UHJnQUVwYl9SbThjUnFLT0g4aUx1VlBXVDB0c192Y0ZXZDA4UXlHSk1VZXB5c2xTMW51SG5SQUFtUi1qOUxEM1AyR2RwZUdHY3Frdks2cW9RZ2xDZ0dEdk1uaS1TbmxCbjk4OEllbTdHT2Z5Y0RZakl2Yzl1dXVKNTg0UDRrMHE1QjJIM3FRNFpYbjFZanFLc0RGaTU4X3R0Nm41M3VQOEo0TmozYzFNTTBSbkwwYnplVkNBZXpxT3pLM3UxSURTeFZOTEgtakdEcVh0a2Exb0I4Q1NYb2tLZ3hfc2lHZjhRRktfQlFMU2xzMUxfNTZOdlZlbWYzNHRLaU1MOWRBRlRNTWtpdWQ4VTdjRy1JcmhKc1d6RDdrVDVRN2djdzNXWXZLVFNwX1gzOXAyZTk0VFJNaHh5eDQ5d9IB6ANBVV95cUxPN2NYYWItdklmU1dfWHdLdkY5Y2ZOZl9KSTJucVBPMzNpbi1PTFZzR0lfZ2hkYW5iU1lDR2dFM2kxTHd0ektCd1dqbWYwRVNMX0FDU19GZk1yeGNxTUtmUFlvYklIQVE1X09IMENGc3RFVnl5bUxRckFhYS1UdTZ5ekFpU3R2emtVUGljVDlVLVpBVWpRRm1uUGUtNmYzYWh1b0FSTVlUOEl0WnlCTzZQeWFsRXEweEdzVU93MkJTeXBuaWI3ajFobG80ZG9FMzRTVVpsMDh3S3h6Q1FvS0RnODRwYm85VkV6Nmhwa0RSWldJcHlHNWVQTEFlQndubDBYNk9IczFwTkowdGs2ZnpaeXBuNkU0LTBaMG1tQUZ1WTVXWjRjS25GYTZBYzR4LXZBUFBYQnNoNU5pYkpWZW9ScGxrdTEzR3VCX2x0b19nN3Vyd29iVURYUHBDSWJJWWRNdjFxNmVaQjJvNmNEVk5TZG9sRTlfY0VEMFluOWFuT20tRE5VSUZ1TDliaDctYVVEeHZzVWd4WG5yWVZBUlYwX2hVQXVheldfR1Q5bkl3ODNVdDY0RlI2eHd5THBiY2RqUmdnMldyWWZLdFlQVUctOWg0U2Y0WHVnTDFjdmdkbG1RQnZmb3BRSg?oc=5",
+      "source": "اليوم السابع",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T04:00:00.000Z",
+      "originalHeadline": "الإمارات تدين الهجوم على مراكز حدودية برية ومنصة نفط بحرية فى الكويت"
     },
     {
       "headline": "Iran announces targeting military bases in Jordan, Bahrain and Kuwait in response to a new wave of US strikes",
@@ -418,7 +516,7 @@
       "language": "ar",
       "date": "2026-07-13T03:00:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "ترمب يأمر بضربات في العمق الإيراني .. وأسواق الطاقة تقفز بأكثر من 3 %"
+      "originalHeadline": "ترمب يأمر ب��ربات في العمق الإيراني .. وأسواق الطاقة تقفز بأكثر من 3 %"
     },
     {
       "headline": "Gold in the UAE is moving within a narrow range with anticipation of US economic data",
@@ -504,6 +602,17 @@
       "date": "2026-07-13T02:13:59.000Z"
     },
     {
+      "headline": "Bahrain.. Sirens sound and a call to go to safe places",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbU15UUJwRkcxalh0cUNSU3lsM3FwYUJmVEdMQWdGamJrNWpGckJiX2liRU0tOXg5eGh3UmhxSE9uMHZkdm5BbTItSk5FUXdSOVc3MGNVZllfNUxVV2pwU2U4RE5MdHhRTzNsSUdnTXItaEhMNjN2ejBnaGNJTmR3WWNyUjlsOTZGM1NWMENaaWxPYy0xc0M1Zl8tZkVsMFVvbmJQMy1UazhyZjlqQ3NNMjVMQmxfUG1VckYxcUJjazhrTmRoM0pNd3gtcnAzOExwQ1l2QW5TR21CUFloMk9XclU4NjBKU0V5RHpBTnpRXzVNX3VYbHhMTVdWejlDdmdjOFJjekphNVhJRFUxRzZBSVFtdGxOVjUzZWs4ZmoxMF9CZjkyd0lnV0djYVJuNnk2dW9YN21yWjVnenVqb2VNMlFCX0dlZkZ4MG1qdTN0dkxvRVJXcUFnSUtvSFBaQ2phSnNZSTJpQXdsdDdPU05LcnpxeUU1X1VXVjZvaDZ1SENsTUMybXB5czZDWjdURksyeUZhSlhuQjJtTUlqbTFWVHo3R0t0dm05LXQwYWlMa3BEdlhuczFyaGdlNzZwcTRCTUpCSWNkUEtvdVg5MVcwatIB1gNBVV95cUxPUDA2S0VrOHM5QVRmSDNjTk5IQ3RBcDM2dnUzMFFpU2pzd0RQMTlmU1NaSGV2U1lYREpNeHFKazdVVHQ2ZTl6cFFRQnNTRHhQbHB3S0xNWWxwTzV5bl9JZjJvSHJCOWNjZUVQc09fYk8weTNhRTI2eFFyZmJudFhydTRJYVJ2LUtGaHVENGdkckxtU0tBS2VERDVBWU9aT19PdjRWUUVmcmlJNWxxUmZLeUtZTFphWnlWN0dmNDRoRk1FT25laFBRc0xZX1NnUkowd3hWUmdteUFnbF9obG9YeFdwLXdNU1poSUo2QjZiZ1FXTkdCVEZvYXIzeWFFMjA0SHNZMkd4ZnVQYW9MbWlIVTJxZlQ5M0ZRZkV1dzBLSHNsdjkzQ2RxM2ZiaXRTWWdiYUZiaElmQTF3U000RXpyZnV5cU1ramdXNGtoc3UyY3ZtU2wwNTk2bjlFbjVEWEZORVYwS0V4N093RVRQX0xOUDJYQUF1SF83bjJLVFczcTgxaV95blRSWjBoaE40UUhkWGRwc19faTYyQXdQZWFoVEt0elFIN1JsU0FLNUN2ZUUwTWVxUlRMOFY5Ul9NdWl2UjNabUtfUjl6UVN4LUFvdUg4RlVpUQ?oc=5",
+      "source": "سكاي نيوز عربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T02:10:37.000Z",
+      "originalHeadline": "البحرين.. إطلاق صفارات الإنذار ودعوة للتوجه إلى أماكن آمنة"
+    },
+    {
       "headline": "Trump orders US flags at half-mast to honour Senator Lindsey Graham",
       "url": "https://timesofoman.com//article/174299-trump-orders-us-flags-at-half-mast-to-honour-senator-lindsey-graham",
       "source": "Times of Oman",
@@ -585,17 +694,6 @@
       "date": "2026-07-13T01:39:44.000Z"
     },
     {
-      "headline": "Bahrain.. Sirens sound and a call to go to safe places",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbU15UUJwRkcxalh0cUNSU3lsM3FwYUJmVEdMQWdGamJrNWpGckJiX2liRU0tOXg5eGh3UmhxSE9uMHZkdm5BbTItSk5FUXdSOVc3MGNVZllfNUxVV2pwU2U4RE5MdHhRTzNsSUdnTXItaEhMNjN2ejBnaGNJTmR3WWNyUjlsOTZGM1NWMENaaWxPYy0xc0M1Zl8tZkVsMFVvbmJQMy1UazhyZjlqQ3NNMjVMQmxfUG1VckYxcUJjazhrTmRoM0pNd3gtcnAzOExwQ1l2QW5TR21CUFloMk9XclU4NjBKU0V5RHpBTnpRXzVNX3VYbHhMTVdWejlDdmdjOFJjekphNVhJRFUxRzZBSVFtdGxOVjUzZWs4ZmoxMF9CZjkyd0lnV0djYVJuNnk2dW9YN21yWjVnenVqb2VNMlFCX0dlZkZ4MG1qdTN0dkxvRVJXcUFnSUtvSFBaQ2phSnNZSTJpQXdsdDdPU05LcnpxeUU1X1VXVjZvaDZ1SENsTUMybXB5czZDWjdURksyeUZhSlhuQjJtTUlqbTFWVHo3R0t0dm05LXQwYWlMa3BEdlhuczFyaGdlNzZwcTRCTUpCSWNkUEtvdVg5MVcwatIB1gNBVV95cUxPUDA2S0VrOHM5QVRmSDNjTk5IQ3RBcDM2dnUzMFFpU2pzd0RQMTlmU1NaSGV2U1lYREpNeHFKazdVVHQ2ZTl6cFFRQnNTRHhQbHB3S0xNWWxwTzV5bl9JZjJvSHJCOWNjZUVQc09fYk8weTNhRTI2eFFyZmJudFhydTRJYVJ2LUtGaHVENGdkckxtU0tBS2VERDVBWU9aT19PdjRWUUVmcmlJNWxxUmZLeUtZTFphWnlWN0dmNDRoRk1FT25laFBRc0xZX1NnUkowd3hWUmdteUFnbF9obG9YeFdwLXdNU1poSUo2QjZiZ1FXTkdCVEZvYXIzeWFFMjA0SHNZMkd4ZnVQYW9MbWlIVTJxZlQ5M0ZRZkV1dzBLSHNsdjkzQ2RxM2ZiaXRTWWdiYUZiaElmQTF3U000RXpyZnV5cU1ramdXNGtoc3UyY3ZtU2wwNTk2bjlFbjVEWEZORVYwS0V4N093RVRQX0xOUDJYQUF1SF83bjJLVFczcTgxaV95blRSWjBoaE40UUhkWGRwc19faTYyQXdQZWFoVEt0elFIN1JsU0FLNUN2ZUUwTWVxUlRMOFY5Ul9NdWl2UjNabUtfUjl6UVN4LUFvdUg4RlVpUQ?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T01:39:01.000Z",
-      "originalHeadline": "البحرين.. إطلاق صفارات الإنذار ودعوة للتوجه إلى أماكن آمنة"
-    },
-    {
       "headline": "The US military launches new strikes on Iran",
       "url": "https://arabic.cnn.com/middle-east/article/2026/07/13/us-iran-war-gulf",
       "source": "CNN Arabic",
@@ -629,7 +727,7 @@
       "language": "ar",
       "date": "2026-07-13T01:30:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "مسؤول أمريكي لـCNN : الضربات الحالية ضد إيران أطول ��سبيًا من السابقة"
+      "originalHeadline": "مسؤول أمريكي لـCNN : الضربات الحالية ضد إيران أطول نسبيًا من السابقة"
     },
     {
       "headline": "Iran sends a warning to neighboring countries after US strikes",
@@ -2330,27 +2428,6 @@
       "originalHeadline": "قطر تشيع الأمير الوالد الشيخ حمد بن خليفة آل ثاني"
     },
     {
-      "headline": "The world mourns the father Emir Sheikh Hamad bin Khalifa Al Thani",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNeWx3MkRvNk0yT1U0Zm45b1hNVjRLQ3FLa2RhbzlkVjRRd3otVFVtajg5UkVQRktDSkhHdktvRDVjbGZ1WFdvalJoN25NYjQxQW55bG9tNVRRaEo2WUdPT0ZFN3ZBNWs3QWZ1b0ZvOUhRMHcwVXVlcnRUSmFjWWQ1UTY0MWRtNHVvQkFnNmVLRlJqS0toVWxLZzZHNzMtTTRiTGdiRUhBSUVqeHpCaFhjOTFSbkZKV0JPODRHMTMzR1d6bHpZQjVoZEpIUFp2STB1SThKM3M4QjlqX2ExaUtRVkEtdTlmb1ZoVXdtcktCdEt1WDl4NGUtV2dTU1NHZzdiemlmOUNhY2xTZ2xJeXlzSzlPUkZBcy0wZE1nRXJmeGFheks2ZkVNTnIzbmZhVlBDeHB6THRPMFV6dWhIT29NclVrWFF4d1dPLWczU2N1ZWp3MHZNZVE3Uk1VWdIB4AJBVV95cUxNYTVJdVkyYVd0TUtHeUU5UzlFamRmZzFsQ0Q0TlN3Uk8tNVpQcG9DRnIzajZfVXRhYmEtN3pUcDFnR3I2X0RJWnhoVVB4R1FJRmhHY3VzQ1h6TWs1S0t2UVpza29LRl8yV0RTdXJkZTNiRHJPV3dSemp3RTFXWWFRd3RKTzd5SHZoUUJNLVdNZXZCaWdiSVExcVdvRVpLQlhWNEp5VUF4QndNOXNfaHFsbTE4RTAtR0ljWFhyQlo1dnNZWk5iNlZUNlVxQ182WHdYZ3JKMkNwQTVDNUd4YWVMUWdWMzNjUnhINVh4dm1NeWd5Q1hXQUkyTVlYMElFNDRRUXpIV0psaVNHdUQ4dE95ZWJfRGU0QUdDWS1yZ1NHSHhnWUN5WXFCNHUzUkRxRVBzbDE5NUliR0tzeEJvRV9TQmJ4QjBaZkU3a2VhcExiSU9Td0ZtUnpGNW55b2Z2MTFp?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:56:08.000Z",
-      "originalHeadline": "العالم ينعى الأمير الوالد الشيخ حمد بن خليفة آل ثاني"
-    },
-    {
-      "headline": "Israel's election will be held on October 27, coalition head says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-12T17:50:00.000Z"
-    },
-    {
       "headline": "#Palestine Declares Official Mourning, Lowers Flags to Half-Staff After Passing of HH the Father Amir Sheikh Hamad bin Khalifa Al-Thani\n#QNA #Qatar\n\nhttps://\nbit.ly/4pdRrSl",
       "url": "https://x.com/QNAEnglish/status/2076361827366174805",
       "source": "Qatar News Agency",
@@ -2359,17 +2436,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-12T17:43:31.000Z"
-    },
-    {
-      "headline": "The UAE declares 4 days of mourning for the death of the father of the Emir of Qatar",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNWnlhc0Etbkl5cVZjcmNCdGNCTlRqWFJHYkwwdkhUS0l1anlFamxiUU1CV3RaVnlKOHR2UVRONjJIbkdYOG1IQWN5Vk14WE5PU2ZpUzRBVU9raVdNeDhoN3JwVXo5bC1HdDZsbVJrZGlwdEJHTEcxb3JoYVdGbE5RQmNhVmUwaGNrM2V0Z0U2ZmhfQjNBa1lSWXdSN0FpR2ZMbVB5MWFwMUNDSkJIcV8wampscy1IV2xIWTFIZkdJeFFCdGk2cWFSZWtsMERzZ2pBMW9URXR2cXh5eXBZN2l0ajNwQkRLcVBVTW16bHRUU2ZmTmNjQUc0dHpQLXl2TFhXeC1FV3E0QmhaVmZBTWNkbXFiYW9TSVZGN3JvVjZ6amdBN0ZyYVI4Y01JOHZIbEtOOWNxM0NodGlGa2h6T1RPeGdrdzE5SkFLRFA5X2U0cXp4TDRROFd3N2ctenA2ckI4Szl4RVlveG14WUJCX0dTSXJlb0F3WEw0OWhOWnNjdmpXekFmR21xNGEzVnFSajMwY2Z2QTh6cmF2MUdlX3JB?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:42:58.000Z",
-      "originalHeadline": "الإمارات تعلن الحداد 4 أيام على وفاة والد أمير قطر"
     },
     {
       "headline": "His Highness the Minister of Foreign Affairs receives a phone call from the Ukrainian Foreign Minister, during which bilateral relations were reviewed, regional developments and the evolving Ukrainian crisis were discussed, in addition to addressing several topics of mutual",
@@ -2400,74 +2466,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-12T17:40:44.000Z"
-    },
-    {
-      "headline": "Muslim World League condemns Iranian aggression against Gulf States, Jordan, and merchant vessels",
-      "url": "https://www.wam.ae/en/details/c16nd8h-muslim-world-league-condemns-iranian-aggression",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-12T17:40:37.212Z"
-    },
-    {
-      "headline": "Egypt condemns Iranian attacks on UAE, Qatar, Kuwait, Bahrain, Oman, and Jordan",
-      "url": "https://www.wam.ae/en/details/c16nd8g-egypt-condemns-iranian-attacks-uae-qatar-kuwait",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-12T17:33:24.014Z"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Muslim World League condemns the continued Iranian sinful aggression against the Gulf states, Jordan, and commercial ships",
-      "url": "https://www.alriyadh.com/2197546",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | رابطة العالم الإسلامي تُدين استمرار العدوان الإيراني الآثم على دول الخليج والأردن والسفن التجارية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Meteorology records a decline in dust storms in the Kingdom",
-      "url": "https://www.alriyadh.com/2197554",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | الأرصاد تسجل تراجع للعواصف الغبارية في المملكة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Speaker of the Arab Parliament condemns the Iranian attacks on a number of Arab countries",
-      "url": "https://www.alriyadh.com/2197544",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | رئيس البرلمان العربي يدين الاعتداءات الإيرانية على عدد من الدول العربية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | 86% of travel AI users in Saudi Arabia are concerned about their data",
-      "url": "https://www.alriyadh.com/2197547",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-12T17:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | 86 % من مستخدمي الذكاء الاصطناعي للسفر في السعودية قلقون على بياناتهم"
     },
     {
       "headline": "The most expensive in Tabuk at 1,121 riyals per night..\n\nWhat is the average daily hotel price in the Kingdom's regions?\n\n#إنفوغرافيك_الإخبارية:\n\n• Tabuk: 1,121 riyals per night\n• Riyadh: 783 riyals\n• Madinah: 470 riyals\n• Eastern Region: 460 riyals",
