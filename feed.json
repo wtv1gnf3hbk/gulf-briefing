@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13T18:32:14.547Z",
+  "updated": "2026-07-13T18:46:03.029Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Abu Dhabi Nokhatha Programme connects youth with UAE maritime heritage",
+      "url": "https://www.wam.ae/en/details/c178sxr-abu-dhabi-nokhatha-programme-connects-youth-with",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-13T18:36:46.368Z"
+    },
     {
       "headline": "Pakistani Law and Human Rights Minister Meets Family Affairs Council Secretary-General",
       "url": "https://spa.gov.sa/en/N2633383?type=news&uuid=N2633383",
@@ -62,54 +72,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-13T18:16:06.000Z"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Trump announces the imposition of a naval blockade on Iran",
-      "url": "https://www.alriyadh.com/2197688",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T18:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | ترمب يُعلن فرض الحصار البحري على إيران"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Al-Alimi: We will not allow the violation of Yemeni airspace",
-      "url": "https://www.alriyadh.com/2197679",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T18:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | العليمي : لن نسمح بانتهاك الأجواء اليمنية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The American command targets military sites in Iran",
-      "url": "https://www.alriyadh.com/2197669",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T18:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | القيادة الأمريكية تستهدف مواقع عسكرية بإيران"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Tourist demand on the Red Sea increases flights",
-      "url": "https://www.alriyadh.com/2197690",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T18:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | الاقبال السياحي على البحر الأحمر يرفع الرحلات الجوية"
     },
     {
       "headline": "Al-Riyadh newspaper | Jeddah Municipality destroyed more than 4. 5 tons of violating food",
@@ -232,6 +194,54 @@
       "originalHeadline": "جريدة الرياض | وكيل وزارة الخارجية للمراسم يقدم واجب العزاء في وفاة الشيخ حمد آل ثاني"
     },
     {
+      "headline": "Al-Riyadh newspaper | Trump announces the imposition of a naval blockade on Iran",
+      "url": "https://www.alriyadh.com/2197688",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | ترمب يُعلن فرض الحصار البحري على إيران"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Al-Alimi: We will not allow the violation of Yemeni airspace",
+      "url": "https://www.alriyadh.com/2197679",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | العليمي : لن نسمح بانتهاك الأجواء اليمنية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The American command targets military sites in Iran",
+      "url": "https://www.alriyadh.com/2197669",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القيادة الأمريكية تستهدف مواقع عسكرية بإيران"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Tourist demand on the Red Sea increases flights",
+      "url": "https://www.alriyadh.com/2197690",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-13T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الاقبال السياحي على البحر الأحمر يرفع الرحلات الجوية"
+    },
+    {
       "headline": "Family Affairs Council Represents Saudi Arabia at Ninth OIC Ministerial Conference on Women",
       "url": "https://spa.gov.sa/en/N2633362?type=news&uuid=N2633362",
       "source": "Saudi Press Agency",
@@ -320,7 +330,7 @@
       "originalHeadline": "اليمن.. الهيئة العامة للطيران المدنى تلغى إغلاق جميع المطارات “حتى إشعار آخر”"
     },
     {
-      "headline": "Coalition Forces: Saudi air forces dealt with Houthi missiles",
+      "headline": "Coalition Forces: Saudi air defenses dealt with Houthi missiles",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdDV6RE4zQVpxWm90eEZtZ1VlMENaM3BSeGFuR0NkUUNLOTJuUmF2endHall3VE1POEh3b0M0ejdJS2JFZEYzU0R5NFI1d3F1d2ZEWFhDRjJremd3MTlWa2xsc2FQZ1NDb1lRdXJjTlZJMTB2SXptU3k3YWFpMXJtT0sxeERyNzRUdmlvRzFmZ1cxQzlKYkVGcHYzakxfN2MwU0dSQnpiRTQ4YVFOX01DU3BCMDItQWlGQmV2MTlQckE4a3F3cVJYVS1XZkZtc3ZsVHlOV1hub0tpNWFIS29adWo4allNZ2s4NnpWc2V3ZnU3eWxFZXlpWkJvWGJwd2FTUy1QNEt6WkVadmczVTdUSFhnZ3NGT05QTVQ4Wm5Cb2kxQm1Yamp3d2hmNkZzSnNQVFYyMW0yVkgwN0xpYkxvQ3ZjYmlCTDhKSlpMeDI2TlV6ZG9WMWVZdTAya3pZYm5qUWdfbms5TlI4d25qU2phRTZiYUxFYVExbC1JN2VBaHVLNjdRQm50d2lOa0Vrek1XVWpFRFBILWlTM3hXdlFxOHpVLV9JY1MzQ2VMbFE5cFg1SUlzX1pHRjhhbTFCN1dpbE5DSldUVldJLWJFSndjR2xJUnFzdw?oc=5",
       "source": "الشرق للأخبار",
       "sourceId": "google_news_gulf_arabic",
@@ -328,7 +338,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-13T17:22:34.000Z",
-      "originalHeadline": "قوات التحالف: الدفا��ات الجوية السعودية تعاملت مع صواريخ حوثية"
+      "originalHeadline": "قوات التحالف: الدفاعات الجوية السعودية تعاملت مع صواريخ حوثية"
     },
     {
       "headline": "The Houthis announce that Sanaa Airport was subjected to a “Saudi bombing,” and the Yemeni government adopts targeting the airport runway to prevent an Iranian plane from landing.",
@@ -555,6 +565,16 @@
       "originalHeadline": "السعودية: تعاملنا مع تهديد صاروخي حوثي باتجاه الجنوب"
     },
     {
+      "headline": "Trump administration launches effort to isolate International Criminal Court - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBNdERDYVRUMURpVDAzcXVQWUwtRl80S09ud3hCc0ZZZkdQNFZXSEVUV0UySGJEZjE5aUJyeWtwM0VHVHNJeVNIR05RWFhWODcwZy1oLWZwNnZLU2E0SUxobTlFSDNrQ1hsRkdrYmxjd3JyVk40NlFFdkdZZGVEc2dGU2R6X1RheWxoOTdpdTBsMmJtN0tBRnhsc0ZjVzZWRUI5YVc0d2NUSUdzRlJJcEwwUlBuZw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-13T17:09:51.000Z"
+    },
+    {
       "headline": "Sharjah Ruler commends SCCI’s initiatives across emirate cities",
       "url": "https://www.wam.ae/en/details/c178suv-sharjah-ruler-commends-scci’s-initiatives-across",
       "source": "Emirates News Agency (WAM)",
@@ -575,15 +595,15 @@
       "date": "2026-07-13T17:03:39.000Z"
     },
     {
-      "headline": "Mansour bin Zayed chairs the meeting of the Board of Directors of the Emirates Investment Authority - Mubasher Info",
+      "headline": "Mansour bin Zayed chairs the meeting of the Board of Directors of the Emirates Investment Authority",
       "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQT0k1ZXNhR1J2bzRKTjFNdEd1Wm10cTFOUjZ3dmt3dlFjdE94RjhGaFA2MTJlQ0ZaOEc3VVM4azAyNHBEMWdEdDhzdnJRbXh6RjFXa016X0VpQjRBd2hBVDlDdXhqOENDQ1V1R3JUZmtnZ1dhZGJPcWRhNE94azkwRlp2ZElTakk5ajZfV3JUc0VOeVdVZGJxT2pRSE1CdzA0cTZ4UFhOeXRzN211RGVaYTlRbGtsTWlpNFFXeC1nNzg2YWFmRTctLVhEZWZNdW5KVXJkdFlnbmF2SG5ma0s1ajduZFIwdElNdzhET0RlcHhPQTI4Rk9kcHRjMXJ0SVlveDlVUHYyRDNvRXF1QTl2NjgtSHpST1lBWW8zaDJtNzlwWkpuMEM5N1dOOHh4aUJrc092QW50Q044MzEyNHhZMDhxeVl2X0Rsekc1SjMydkdGbEdCVHB4b0czOXVVcVI5QzFSQ1lDM1JKUGh4X0RvRFpKWTJQVl84blIyVVJRSWV1eUZIR1pYTFZsWEU0RGVHdVRvRGpHWm5KTG1LZU00T05JV0JWT01BcXZ1WThuVTRqY0xkWmRqS25NVUpFU1NvV3pvNGhBMnZzWl9zam5nVHdwX1RwOFoyOVhsQlNlVmZSd2Vpc3FUZHFtWmZSeGFDM0RGZ2RBdGZCTjA3Wmc?oc=5",
-      "source": "معلومات مبا��ر",
+      "source": "معلومات مباشر",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-13T16:59:21.000Z",
-      "originalHeadline": "منصور بن زايد يترأس اجتماع مجلس إدارة جهاز الإمارات للاستثمار - معلومات مباشر"
+      "originalHeadline": "منصور بن زايد يترأس اجتماع مجلس إدارة جهاز الإمارات للاستثمار"
     },
     {
       "headline": "Officials pay condolences at Qatar’s Embassy in Muscat",
@@ -614,6 +634,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-13T16:42:18.000Z"
+    },
+    {
+      "headline": "Latest news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-13T16:40:49.000Z"
     },
     {
       "headline": "Barwa Programme concludes second phase with 169 participants, 94% customer happiness",
@@ -1340,16 +1370,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-13T14:54:03.000Z"
-    },
-    {
-      "headline": "Latest news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-13T14:51:25.000Z"
     },
     {
       "headline": "Within the Initiatives of Manama, Capital of Arab Entrepreneurs .. The Capital Governor Inaugurates the University of Technology Creativity Exhibition for Gulf University Students\n\nhttps://\npolicemc.gov.bh/news/80184/",
@@ -2833,16 +2853,6 @@
       "date": "2026-07-13T11:25:54.000Z"
     },
     {
-      "headline": "Jeddah Governor Receives Italian Consul General",
-      "url": "https://spa.gov.sa/en/N2633028?type=news&uuid=N2633028",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-13T11:25:33.000Z"
-    },
-    {
       "headline": "#BREAKING | Kuwait condemns and denounces the continuation of attacks targeting the Kuwaiti General Consulate in Basra in an unacceptable violation of the consulate's sanctity",
       "url": "https://x.com/alekhbariyatv/status/2076628820371599631",
       "source": "Al Ekhbariya TV",
@@ -2851,17 +2861,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-13T11:24:27.000Z"
-    },
-    {
-      "headline": "Al-Alimi: Protecting Yemen’s sovereignty is a national, constitutional duty that does not tolerate tolerance",
-      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOSFdKRHl5SGExeS1PamxZVWV1a2c2M1I5ZDhXemk5YTZvVW5SSjNMVUREZ05tVDdTeE5pTWNHS0wxRFptY2ZOUGVPdVJ6bW1hM3JRNHd1cWdnLTVuR0lUdnlJY09DT2lRSTk1YWFVdkdsckpNbW11djJERnI2MFFDXzk4eF9aQnFfQTdaTGFsMzJEQlRmZU1VV3hJMmFvYnBuS2F2c1hqRXZ5SEtKZlBxS3hGU05OTjBmZjhvckJtSlY0WjBTakJvUXF6cGtXUjFxS01DdVdTWThPNURKZmVtZGk4cFJaamJwMnN5bmlEVzUzQlpRaUFhOHIteW5MN09VU0tYMVBxT29TWEVkWTFYYkxxb2tHc2F0M2NyNXhUdS05VzlseVRTenlfWGFUUnFqdVJjS1lHQl9GS28xOWRMcUVrMWlmb3RDM1lPaHRTVEYzaXV6Uy05aEhxaGp0dWRXbzR0SWk1elZUSjFQVFEtS1otb1hEUmxvUGJFeWlrYWxidno0d2VaVk1oSllucVNjck9GTEMtY1dqOFN4cUdIWDN2VkJTNXlvUmNDSEFDb1BhZElaQXdaQW5Oc0U3LUdKb0lLdExzRkVlcHJoRzItV1gxU3dheTBRU2xUTGo0SXprRUVvTDMwX1RnVTlDUXpfOWhRMkp6a2sza0xoZUxtcHk4MNIBiARBVV95cUxQMUtPb2RISUVoaXNJUnBlWXlwZWUzdDBIS3JnNkEwbUcxN3JzNS15MmZ6U184azE4dGFuZDFKbGNva0VoRkxJWkRKbnZtWGp5SEUtWWxzSkpBQ2o3bi1ma19oc0s1amF4bWNUTWVuN3BaWWJQUXdaQzI4QmNYZ0xSSUdJdmNuODZaUEVoRjlqdm5NQl83cmtEdHNiZS1BUU5xQk1lMENwVXcxaGhCUXg5YkZ5MmlETFJrT3pMRGEwUzNIRzNHNW5BNmRwOXQ2Q3pTQkdSTm1tT01KUFVWMDktVDkyT1dyQk9fQnNSUnh3ak5BQnpQSG10TEJVaThqN204a0xwSkowLTl1VU5wZV9ZYjFlb2dnY3U1WDRIcWFUMzBESHB3SHJqTlVxdEV5RTFtS1VIVS1BZURYd0ZLZUFIdzh2U1hidUx1ZjRTOEpONmEybURtNVYwaGlrbjNiNVZ0cXdDdS1kOFdWV2RMNFFMM0hnbTcyYVRCTUhXTE00a2lpTk9VSnZTWkx6SjZUSDMyOTVkSTZmeW5ycDByTmRESnFSV25CNjV1OElsRTc3aHhuVGdPUzlvQ3JCM2hhRmZ3TTBMVE1GZWt1UGc1REgxS2FIWUZQSUZnMHdGMTRMVzR5NG5MQ1ZjVlUtYm5pYllUZ0dSMW14Wmp4YWRFbTM2YzBFbTdpQ2Ns?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-13T11:24:00.000Z",
-      "originalHeadline": "العليمي: حماية سيادة اليمن ��اجب وطني دستوري لا يقبل التهاون"
     },
     {
       "headline": "Mud Houses in Thul.. The Memory of Place Woven by Centuries on the Red Sea Coast.\n\nhttps://\nspa.gov.sa/N2632997\n#واس",
