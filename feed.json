@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-14T16:17:10.807Z",
+  "updated": "2026-07-14T16:32:19.064Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "SWA Continues to Accept Applications for Fourth Edition of Global Prize for Innovation in Water",
+      "url": "https://spa.gov.sa/en/N2634130?type=news&uuid=N2634130",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-14T16:31:56.000Z"
+    },
+    {
+      "headline": "Kuwaiti air defences intercept hostile missile, drone attacks",
+      "url": "https://www.wam.ae/en/details/c17u8e3-kuwaiti-air-defences-intercept-hostile-missile",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-14T16:30:48.772Z"
+    },
+    {
+      "headline": "Saudi Arabia Condemns Iranian Attacks on Kuwait, UAE, Jordan, Bahrain, Qatar",
+      "url": "https://spa.gov.sa/en/N2634123?type=news&uuid=N2634123",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-14T16:26:48.000Z"
+    },
+    {
+      "headline": "Arab Parliament Condemns Houthi Attack on Saudi Arabia's Southern Region",
+      "url": "https://spa.gov.sa/en/N2634120?type=news&uuid=N2634120",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-14T16:22:55.000Z"
+    },
+    {
+      "headline": "Saudi Arabia launches the largest dancing fountain",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RSC1ESVBnY1E3R2xyaVdRREtVV1pzRFN1OVcwLUJYLWdCcmFzOGExZWFlcFkwekE5LUNhQ0MtQndlS0laTXB0eFd5b05Rb293cGo4aGZBS19ZWUp00gFiQVVfeXFMTl9SdG1hWEVrMG5Ecnl6WUh4eTdJTnNHYVVfcDFUT3M2ZV9UcVhyMkpueHNYZUlGa3ZUTHIxeVYtZ3Y0X3l2SzlOMkZ0Z0N5Q1BaYkdBRFNKemp6TWdydDBDcWc?oc=5",
+      "source": "BBC",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:08:35.000Z",
+      "originalHeadline": "السعودية تدشن أكبر نافورة راقصة"
+    },
     {
       "headline": "Saudi Permanent Representative to Arab League Meets Algerian Ambassador",
       "url": "https://spa.gov.sa/en/N2634108?type=news&uuid=N2634108",
@@ -22,6 +73,66 @@
       "language": "ar",
       "date": "2026-07-14T16:06:00.000Z",
       "originalHeadline": "البحرين المركزي: تغطية إصدار من أذون الخزانة الحكومية الشهرية بـ100 مليون دينار"
+    },
+    {
+      "headline": "Oil prices rise sharply as tension returns to the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/14/global-oil-prices-rise-sharply",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أسعار النفط تسجل ارتفاعًا حادًا مع عودة التوتر إلى مضيق هرمز"
+    },
+    {
+      "headline": "Britain reveals its position on Trump’s desire to impose fees on crossing the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/14/uk-rejects-idea-of-strait-of-hormuz-tolls-after-trump-touts-20-cargo-charge",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بريطانيا تكشف موقفها من رغبة ترامب في فرض رسوم لعبور مضيق هرمز"
+    },
+    {
+      "headline": "From Dimona... Netanyahu warns Iran against carrying out any attack against Israel",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/14/this-will-be-a-different-event-much-more-powerful-netanyahu-warns-iran-if-israel-attacked",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "من ديمونا .. نتنياهو يحذر إيران من تنفيذ أي هجوم ضد إسرائيل"
+    },
+    {
+      "headline": "Iran claims to have coordinated the crossing of hundreds of ships in the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/14/iran-says-hundreds-of-non-iranian-ships-have-coordinated-with-its-new-strait-authority",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إيران تزعم تنسيقها عبور مئات السفن في مضيق هرمز"
+    },
+    {
+      "headline": "Egypt: A 3-year tax incentive to encourage the listing of companies on the stock exchange",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/14/egypt-3-year-tax-incentive-to-encourage-companies-to-list-on-the-stock-exchange",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصر : حافز ضريبي لمدة 3 سنوات لتشجيع قيد الشركات في البورصة"
     },
     {
       "headline": "Ajman Civil Defence contains minor fire in residential tower with no injuries",
@@ -187,16 +298,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-14T15:31:56.000Z"
-    },
-    {
-      "headline": "Kuwait’s military says air defenses are responding to an attack - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-14T15:31:00.000Z"
     },
     {
       "headline": "#BREAKING | The Kingdom condemns and denounces in the strongest terms:\n\n- The targeting of several Kuwaiti border centers, a maritime drilling platform, and its consulate in Basra\n\n- The targeting of two Emirati oil tankers and Iran's continued targeting of Jordan, Bahrain, and",
@@ -991,6 +1092,16 @@
       "date": "2026-07-14T13:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "اینفلوئنسرهای غربی و تشییع جنازه علی خامنه‌ای ؛ « از مسلمان بی‌حجاب تا مارکسیستی که شربت نذری پخش می‌کرد »"
+    },
+    {
+      "headline": "US attacks Iran and Tehran retaliates across the Middle East, threatening a return to all-out war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-14T13:37:00.000Z"
     },
     {
       "headline": "FII Institute Announces Landmark 10th Anniversary Edition in Riyadh",
@@ -2432,48 +2543,6 @@
       "date": "2026-07-14T10:28:49.195Z"
     },
     {
-      "headline": "Kuwait condemns the Houthis targeting the southern region of Saudi Arabia with ballistic missiles",
-      "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOdWZuaVpoNmx0MDBuLW1tTHhIRW04MDNkMHY5U082T183V3J1UG11MzRBaWpuUzdRZUVsVGY2VF9PSTlTT05TUExCTkhqV0IxX3Q2aEFlMnNpZEU4cHFJLW5vYllUS2RIQjBZUWs2V1ExWHNHaGFYTjdWTU03VWlhRVlVdmZDcTdRWUJ4bjBsSXlsbVdMbzZmUUI2U3dTcHFCVUJFRVFLbXRtYklwNFNhM1JoMS1yQVdFb1BMdGkwcjBIVW5pMzV3WkU0OTA1TFhsZUhBV1VSaHN4Y2dDZzBUaFBKenRUaFZfVlBkZlUwR1NaSnBhUHF4UWItR0h4UVhpTGlfdnVuN2VDanpDRG1WRG5MSXM4RWFOeU9USVpTNHI2cXBSX0NLbzZjS2dFSWd5MlVaTFkwMk8yVzB4a3lnUjItdFU5TG1WcUV4TEotbmJpMnlDOTlabUoyTWV2NE50R1VoYzV3TFQxbEhUMmNhOU5TTTVvZV9Ndm81NHlsUUpub0k3Q3RkM3ZWZ0JOWGhQM3pzS1MwLUJzcy1IaWlYZnRtWFFoWUg1SkZFQms2ZFNvamRoaWRBSUtSenJJTUs2SUV0SWUwVjBuU3JmcGp2TkRacGJMV0EtZUp0U1c0TVdWcmdNRVNFbFF0bDV5djRjamhlcGY1UkNvUjQ4RHliQUdVemw5dkFnXzhEbTdqcUhrenJzLW9GMm5udE1hMW1PbFBjakMyQjNXel9zak0xSlo2R010d1B5LThwblNXSEZJUktQaEFORk5vYnRRcGZrTjUwbtIBzwRBVV95cUxPaGE3ZjdjVXlLMUU2NUVYa0hSeEdIVHVzcjE2dmJHZ1hoNWs0azkxV2JBN3J0bDJmUG5rSnc0WVBXNHV5eTA2UTlXMGxOSXV1MjlrNG9QUlY2WTNWMUtIQjZZa21nZjA5UjdpSnl6c2FHWTFBUDN5Tmw2SklISFBYbkRRX2FTUjdFa1pNRjUtWm13RXM1ZzRQZUpkZzFaazdiQ2VVQjN2Tm5ZM0VVUG9xMGN6UVJuMWxkaUFQVEZCU3NremY4a3F3MFlIWm5vdkhsVVI0OEtSRHJrMDBPT0d0Mjdrc0ozVjBTaVBTUVJBVDZGZkJmMnNZZ1BYRFpfdHQ5MUloOHgtN1dtUXNmQWM4ZFhBSFdEQnFkVTNVdkpjLVA5anIzeWNuVUFNUmc4Qzh0eU5Cc0lZX2lGZHJZZWtzY0ZERGZFQy1waU5KRUhQWjJINDdMY3lFMndmZGhkV0tXQXV4SWhCakRVM0lJdEY4MW1HQzFwODh6TG1FdG52Qm5vanZDUFc1UERUNDUwZk9KdjZYY3ppVTVMMWltZmFueVMtWXpMS1c4MVhRNVY1cFEwNTdRMktKbXNSaGJEM0NtTGh1M1ZTUG50TDdXaWttWUpwdFhuaWlwSVNCeWNFRjhDd2hkT045UzVNYU8yT0dZVkRSYWJRQklLM1JUVnRBTWkta1FuWHduREN6ZjI1MkFneHUxMVd4VWZSWkEyMzhCVG9hMW5QUHctMDJNeDFqWk1zYUppWlcwRFFJWm1jWTg4aGp4RmtGa2NmLWp2dmc?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T10:26:55.000Z",
-      "originalHeadline": "الكويت تدين استهداف الحوثي للمنطقة الجنوبية بالسعودية بصواريخ باليستية"
-    },
-    {
-      "headline": "EU Council gives final approval to EU-Mexico modernised trade agreement",
-      "url": "https://www.wam.ae/en/details/c17u7wg-council-gives-final-approval-eu-mexico-modernised",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-14T10:17:13.975Z"
-    },
-    {
-      "headline": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2RXajFFQnNrc2hrdlM4OURSbS1zUVUyR2xaUjdkNk1XZ0s0dml0NkctWWdtLWFhUU9FU0Vxa2Z0aFpqOWt4aU5JWDFTeDNjTlR1bUM5dXJVOHVxNEpfYlBKQXRFYjM5TnBIZmI3cnBSRVUybFQyZEFBdjZ6YzRJR1FhYkN4TkROc25RNDRLMzBsSDFqNXk4S05qcmpsWHVqOGFPcEdjcGt2aFRNWk5BME1fV1lWRDFtMnNXZ20xTnF3endCbUE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-14T10:16:06.000Z"
-    },
-    {
-      "headline": "Iranian flights to Yemen are violation of sovereignty , says Yemeni official",
-      "url": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-14T10:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Ministry of Higher Education and Scientific Research launches UAE Award in Higher Education\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c17u7th",
       "url": "https://x.com/WAMNEWS_ENG/status/2076971806574215267",
       "source": "WAM (Emirates News Agency)",
@@ -2482,73 +2551,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-14T10:07:21.000Z"
-    },
-    {
-      "headline": "A historic achievement: Emirates Airlines renews 100 aircraft within 44 months",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNVNBT3BDdkFOaUEyOTd0MWZpbGI0Zl9RcEtRVGgzZW1wSDRzNkh4RGtwRWczdlFfX3gybXg3bkVWcFZpMk13OUF4R1JvS1N6Yk9ic2drRmowV2V2YnhBUmZ4RFlqeXNZck9ibjlUQ1UtM3M2dElJbnFnTEJxeWJycVBfMjFDUkNrSWxQMzROR3FmMlBxOXhXOTh1VV9jMmZlM2l4c05YakdmQ3F5UjFYZ1I3MG9kVzBOM2RHTk1HVF9OQ2F2TFE3b19fWWxSLVpVWjJ6aTNaTzJBSUVsbGtqSGp4eVJmYkxrWGM1SkF6eTlWMFJfaU4tbXdKOXNKblVmUExiNGF0bmtJdzJYbjlpTVpWTURmemV6T01IZGd1RUI0Q1pGUk51b3A0aVFmcFhIZkFka21pbExiQ3dZTGk1VTZHU1pEX0RXMWJseGhEbEdQdWpZN1JfSGVpVnZqZDRFSDdMVnRzUThJUENER2dmOEhBWWpaajdRZ011QlpxUXBRM1dKQVJSTXVueTlZSFE5?oc=5",
-      "source": "اقتصاد سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T10:07:01.000Z",
-      "originalHeadline": "إنجاز تاريخي.. \"طيران الإمارات\" تجدّد 100 طائرة خلال 44 شهرا"
-    },
-    {
-      "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-14T10:02:43.000Z"
-    },
-    {
-      "headline": "Lula : Trump Plans to Impose Hormuz Shipping Fees Will Turn US Into Pirate State",
-      "url": "https://english.aawsat.com/world/5295726-lula-trump-plans-impose-hormuz-shipping-fees-will-turn-us-%E2%80%98pirate-state%E2%80%99",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-14T10:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Gold rebounds amid anticipation of US inflation data",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/14/us-inflation-data-gold",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-14T10:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الذهب ينتعش وسط ترقب بيانات التضخم الأمريكية"
-    },
-    {
-      "headline": "Adel Al-Ashi.. He went out to play football and returned without his eyes and hearing in Gaza",
-      "url": "https://www.aljazeera.net/news/2026/7/14/%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%B9%D8%B4%D9%8A-%D8%AE%D8%B1%D8%AC-%D9%84%D9%8A%D9%84%D8%B9%D8%A8-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%81%D8%B9%D8%A7%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-14T10:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عادل العشي .. خرج ليلعب كرة القدم فعاد فاقدا عينه وسمعه في غزة"
-    },
-    {
-      "headline": "New Era for Gibraltar as Border Controls with Spain Set to End",
-      "url": "https://english.aawsat.com/world/5295737-new-era-gibraltar-border-controls-spain-set-end",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-14T10:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Bahrain hosts GCC Municipal Award judging committee meeting\n\n\nhttps://\ntinyurl.com/mtkjrxj3",
