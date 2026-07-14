@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-14T13:32:21.003Z",
+  "updated": "2026-07-14T13:48:22.002Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "FII Institute Announces Landmark 10th Anniversary Edition in Riyadh",
+      "url": "https://spa.gov.sa/en/N2634007?type=news&uuid=N2634007",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-14T13:35:31.000Z"
+    },
+    {
+      "headline": "Trump makes big claim as US-Iran conflict spirals out of control",
+      "url": "https://timesofoman.com//article/174381-trump-makes-big-claim-as-us-iran-conflict-spirals-out-of-control",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-14T13:34:17.000Z"
+    },
+    {
+      "headline": "Ammar bin Humaid directs exemptions of Ajman citizens from government housing mortgage release fees",
+      "url": "https://www.wam.ae/en/details/c17u85g-ammar-bin-humaid-directs-exemptions-ajman-citizens",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-14T13:28:24.135Z"
+    },
+    {
+      "headline": "Nabil Fahmy: The Houthi terrorist attacks on Saudi Arabia are completely rejected",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCLVNsdnk0THc2OGpkLUNIR2Z2T1FINUNMVFU1V3pNbUhHUTJVM3JNUGxoTFR3cmZENzA5M3F3OGJMTmhoY1VHU0I3VFRCVHMtLXI3aS13?oc=5",
+      "source": "بوابة الأهرام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-14T13:27:00.000Z",
+      "originalHeadline": "نبيل فهمي: الإعتداءات الحوثية الإرهابية على السعودية مرفوضة على طول الخط"
+    },
     {
       "headline": "World Shark Day Highlights Whale Shark's Importance to Red Sea Ecosystem Health",
       "url": "https://spa.gov.sa/en/N2633998?type=news&uuid=N2633998",
@@ -11,6 +52,26 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-14T13:25:33.000Z"
+    },
+    {
+      "headline": "Dubai Humanitarian sends fourth relief airlift to Uganda as Ebola response continues",
+      "url": "https://www.wam.ae/en/details/c17u85f-dubai-humanitarian-sends-fourth-relief-airlift",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-14T13:25:20.746Z"
+    },
+    {
+      "headline": "Arab Parliament Speaker condemns Iranian attacks targeting two UAE oil tankers in Strait of Hormuz",
+      "url": "https://www.wam.ae/en/details/c17u85e-arab-parliament-speaker-condemns-iranian-attacks",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-14T13:25:10.508Z"
     },
     {
       "headline": "Academy of Strategic, Defence Studies celebrates graduation",
@@ -52,6 +113,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-14T13:08:28.000Z"
+    },
+    {
+      "headline": "Chemical tanker Stolt Magnesium hit by explosion off Omani coast, manager says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0hwdkFXSVNkZmdzUXllTXZ4QnhLajRNV3pJTm43MmFoSGcxUTBxU0xNSWJiVnVpVkNUMGdkYjlHVUtkVzFvT3h1YXd0Y0RLZXBqYjV0bmVnRFpXV2tlUExxejRCTDVFQmxDUzdJc3ZHNUhkbWczZnBTWVB6WEYyWk15MWxHaDVRVWZUZ0JGWC11eERIVExXcTFLd2VZM0FvdVlTT1h5YlZKZlM0QkpaUEFldm9BMFJYS2hBRTgyQQ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-14T13:06:36.000Z"
     },
     {
       "headline": "Jordan condemns the Houthi attack on southern Saudi Arabia and Iran's attack on two Emirati oil tankers",
@@ -188,7 +259,7 @@
       "date": "2026-07-14T12:36:55.000Z"
     },
     {
-      "headline": "Saudi Arabia approves the state revenue system and condemns Iran's attacks on ships",
+      "headline": "Saudi Arabia approves the state revenue system and condemns Iran’s attacks on ships",
       "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQTkxKU25YUnA3V0FqMG5HcEg0cGhHTUpGTXNROXA5LWMxTDhjTlZqSVdpcUtaZGt6RjhMbzg0YjVScDcwLXh1XzRVOHZRU2ZfQjRDQnpKZ010MmZtcGhqUnJGYTVlMWpaX01LVHMtLXk2SDVXNWVhcW5zNjVWMUl5S1BUY0Jvd2hGVHFLUzRrcjhtWk54eExaUTFSR3VDUnJSUGU4S1pEblZEdS1WMWMzZ3JvZERnSWtUMmp5UExzUVNDWjQxbGhTZUlhNl92MzVEb3VRYXVVZHA5WGJocUZIUVNNLWlKMzNfanpLYlZXVE53VndacWtlMFVKNFdKVG5nUzVGSy1QVlFLVXdLTEFpM0RNU0N2VkJmcUlXV1pZWHluVmRKaGxHTXJDdDAwZTM2V2ZLajBaVndZcFFlNmYtaVRJMzRiQnJOS29TVHJZOEYyQS1qTVB4QW55OHFocVpqb3Z6bzJ5NFBObHFGMmR6WEh2T1hVaVo2VG4wdURCRVo3bjhQQ1dPZkgxM2FNR2RUZkZ5bHU1VjE0c29vaC0yWTZidFdWSXFzcXFWNTYzMjZpZlB0MlBfRFZQSUVYUndjQlZ2RUJlSkhNcWloMlBkd2NNT0c2Tm9RWVZ1R1I1djluY1FKMEJXX0txT3FNWS1kaDlfWjZsSkdiNFNydmpuS01Yam8?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
@@ -196,7 +267,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-14T12:34:00.000Z",
-      "originalHeadline": "السعودية تقر نظام إيرادات الدولة وتدين هجمات إيران على السفن"
+      "originalHeadline": "السعودية تقر نظام إيرادات الدولة وتدين هجمات إيران ��لى السفن"
     },
     {
       "headline": "The Father Emir Project...the Qatari Sovereign Fund’s journey towards globalization",
@@ -220,7 +291,7 @@
       "date": "2026-07-14T12:31:10.000Z"
     },
     {
-      "headline": "How did Sheikh Hamad bin Khalifa make Qatar a force beyond its size?",
+      "headline": "How did Sheikh Hamad bin Khalifa make Qatar a power beyond its size?",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNXzV6bGdBWmY4TTFhME81UlBRelhYWU9hVnRrb1VrMHIwNFZ4RWdGLS1OaXBxclZreEtjdTBNM0tvU09uVk9CN1Y2X1lJSnBDUHZxN3BTRVlETnZ6dzBjWXllVldNbmZfSDhkRnZSRFlnbVNyZUV6YlRnYjJKUjE4TUNhNGdjVUlvNE0zci1LR0ZLamlsLUlTUHd4NWlLN1U2WGVUM25pOGRfdjhRdEJLNTB4RmdmOFhJZU15UkZlLWUzSmJjQlJaYjVEQzJNejFJWXpNcDdCZk1CdktYYWNDd0tLUWJJN3pGLTVIalpZM1NMb0xKcUdQSE00TVdZTV9lY0lyZUg5czBHcW9TWlJJOWt6bEk4LWl6N2sxMUcxVmdUblBMRHN1ektRbEVkWjZKalZrZmwzaS01VVdVSkRsc0thQkoxSDTSAcwCQVVfeXFMUF9EMWV6VXNZdzQ1dUlxbDVrczBXc3VkcFo5QmlDaUF6WDBMUU1OT3d5V2lxUG5scC05ZG9vVHB6VEhVby16RWhCUG45dmxMNTVRczBaRVRtT3EwT1NtSEIwQTFNSjhQMEZXeTVsWEdIYldOcG8xblNMNUZKOFkyNGhsOF9GS3REc2hSTERfV2k5ZmhIWDZxOGhSN0NWSEJRUlZiWEhFbjB6ZGNQQnhraldMTzA3Vl9WVUtSZ0lVdW5uQVhYZ1BaZ3RzbURlTVlQblhqWnNMSk14T0V4ZzFXcXRDN2VQM1N6TmxMellEM0NCU1R4dHBOZng3a0tjeTdubVBLeER2S3RmU0JxTzJoMnhFdFNDSV9yd1FSamhOWFFnVXJ1aVJCX29rYkRBSlZDbm04elh3VlNRQmNzMW1ZcG9PTVlFSnlaYmtXZi0?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -228,7 +299,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-14T12:31:03.000Z",
-      "originalHeadline": "كيف جعل الشيخ حمد بن خلي��ة قطر قوة لا تقاس بمساحتها؟"
+      "originalHeadline": "كيف جعل الشيخ حمد بن ��ليفة قطر قوة لا تقاس بمساحتها؟"
     },
     {
       "headline": "Youth Centre launches Ruwaj programme to empower youth in North Al Batinah",
@@ -403,7 +474,7 @@
       "originalHeadline": "من المكسيك إلى لبنان .. رسّامة تنقل فن الجداريات إلى شوارع بيروت"
     },
     {
-      "headline": "President Sisi visits Manama to confirm Egypt’s solidarity with Bahrain.. and confirms: Gulf security is an extension of Egyptian national security.. King Hamad bin Isa appreciates Cairo’s support and stresses the continuation of close consultation and coordination between the two countries.",
+      "headline": "President Sisi visits Manama to confirm Egypt’s solidarity with Bahrain... and stresses: Gulf security is an extension of Egyptian national security... King Hamad bin Isa appreciates Cairo’s support and stresses the continuation of close consultation and coordination between the two countries.",
       "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNdWJZZ3lKNldleU5EazBzQXJrRzl6Wll5cm5UaHRFeVRPWGNYb05ERXRTT2pCRFFQdWFfeHNQWmRidVVTY0FlMW1iSlZudnYzOExyUmZLUWZLQXY5VlUzTEN0QVRQRmNuZUQzQkozM1YxWTZhdllnOFpEY1FPLXRaQlU5cWtSbko1cERpZTJ0amdzSDB2VTBuaHppQ2RyODl1M2RFRmY5SW56Unh3dXRrZXk3NklWei1wbjV6cW9TMFh0cExTRmVpMzAxSHhBanA2ZTNyVS1DWUJ4Tzc0X194YVhIcWFoVnc0enAtMldtZ0pBNGtMOXpOT3k2THVydWZlbEhLcVJ5aHVWSXZabEhEc1M5OTJqb1gwb2VfcWloY1JtTmR3N29zVXBzeWtpdWNuNDVseWgwOGtSLTJ1RWt6ekxjcHV0V1dJd1djVmY3M2pqODBRcmQ0TzNmV01KYTdWSHlZWVRIamx3Q0dzcXRZYVUwVTl6d1BnbXFGdmxsSjBxZkpTcURGaktneFl3QWFjLVhLZWx1d25mMC01RVdXV2p1VENHc0habU5fdzd3SmZsSUJoZ2ZvUU9YdHRjYkVBWEVuOUEzVnN2V3psWU9waXpRTU00aHQzN21DZlJMOVJ6aWRUOHdUZWRlSlVBN1RDalR2SQ?oc=5",
       "source": "برلمانى",
       "sourceId": "google_news_gulf_arabic",
@@ -411,7 +482,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-14T12:14:29.000Z",
-      "originalHeadline": "الرئيس السيسى يزور المنامة لتأكيد تضامن مصر مع البحرين.. ويؤكد: أمن الخليج امتداد للأمن القومي المصري.. الملك حمد بن عيسى يثمّن دعم القاهرة ويشدد على استمرا�� التشاور والتنسيق الوثيق بين البلدين"
+      "originalHeadline": "الرئيس السيسى يزور المنامة لتأكيد تضامن مصر مع البحرين.. ويؤكد: أمن الخليج امتداد للأمن القومي المصري.. الملك حمد بن عيسى يثمّن دعم القاهرة ويشدد على استمرار التشاور والتنسيق الوثيق بين البلدين"
     },
     {
       "headline": "Iran: Living in limbo between war and ceasefire",
@@ -466,16 +537,6 @@
       "date": "2026-07-14T12:04:22.466Z"
     },
     {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-14T12:00:34.000Z"
-    },
-    {
       "headline": "President Sisi is in Bahrain to confirm Egypt’s full solidarity with the Kingdom in light of the current regional conditions",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQN1IxS050SlZUN1BiRnFuWE1USE9TVnl2aXl5YktnWGJkbWVlRzI3aVJnVHpwMGRtWUZSMGt5dHlZOTQxVEtrbUJvMU9ONVBlRU91TGZVZkFLWnRXUHNTclFjWXNGZmdfOGZpaXlXS0pQcmg4VXR3TkpDaGJzNTB5STR1d0hFYTBRZVFLRU1mSkFsQmZYQUNhRjBiNWhoel9oZkYxQ0xQbk13c1A5VGxKQTIyS2gwQ2xCSWdCWG5tTy1JU3hVcHRsRlZPdDdQUmxlTkxiaktVTkZHa1o1Vm5MMzR0b2J2MGtScHNSeGViMTdEUWEtcHhBYktEeXVNNHB5d080NU85SERHUVQ2aGx1R1o3Rk1QYUZKcXBTcTNSenEzbGhkYnoyUG45cnN2QWZaTFJQeW5NWFR2QUpnSUE?oc=5",
       "source": "قناة النيل للأخبار",
@@ -487,7 +548,7 @@
       "originalHeadline": "الرئيس السيسى فى البحرين لتأكيد تضامن مصر الكامل مع المملكة فى ظل الأوضاع الإقليمية الراهنة"
     },
     {
-      "headline": "President Sisi confirms Egypt's rejection and condemnation of the unjustified attacks against the Kingdom of Bahrain",
+      "headline": "President Sisi affirms Egypt’s rejection and condemnation of the unjustified attacks against the Kingdom of Bahrain",
       "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQakhhSlduOFdVa0FOazRCdDF5MkJuNEMyVmRBWHlTVXdYUmNrOER3WVVZcXN5aTM2MUNyN0FJXzl1aHViT0V3UjFfeTE0N19xbGNva2VmajlNcGVWTlRRNmNXQ3NWcjZhMzUyTzgtTzR1aHlrejhjd0NVODFvQ0xwUEI5a2IxcE5uTlgyZ0lZUVpNUHp4TGM5dnlfbXAzMWo5d1BmeGtaSVRWd3d1WFk1OHpUcUhhaWRHMzRrdVoxbUp3cUF1dTdMNTNIRGpXeHFYVjZpVWlnWi1GSHIzRmwwcmNTbjVueTMwME1KY0tOWHl3d19kR3RLS3JIZlJLOW1sdDdmcUFyUUczVFBBdFhTa1ZIMVNMdXJTUEtsbEF6LWkzNnctTDg1YVNnWHAxVm92UUFNRVl5cTlaSk9Kcm1STkFDcUNwa2N2bXV3OWljWDBxUWVpYjJCY1pXX0VFSDdEcGNzZlJSNS1tM2QwMks3aWhyV1NkRHRwN1AySUlIV0prMC1mT0dxT3JmR2RNWnZPMmF5Y1paTDE1NlNjZ2YxTjFwcUdQbm9FMndwbERhSGFpRTdyMk9HQkQxZnJPdFUyQ1JpRHBPbVhrZmZOZ0JSQkVUUkZXaUNsei1aZmxqZENiOVlYUDNOdmJWeHBXUFE2Nl9LS19B0gHwA0FVX3lxTE42bnVYbGJFQWU3Ny0tUWpPZkl6VnczQnJwVGlGbU9DZ1UweHhZZzVRWlN5amNHZ0UwbExGeFVQXy1ZUlZpcnVjcTdtLW9hblFlTEVyR1Rhb19xMXlfWmhXWjNLc1FvbFVrcWZLenVaY2dyN2liNF9RYmhaNUltTDl6V0NZYjByX0EzN2NaS1VkYUVTdFJuWHpyNkh0QWxvbEJ0TUxMZjUxX3hvUFAwRGF4N2dhZk9jQVhIOGpac2JRZ0FMUzhXWnNYR2x3M0xnX3pIaTNFeFlWWnY0UENxNXZFODVnUm1JV25COXdEMUZaYnp4emlMenIxY3lIcnUwaUxVbEFrWXVXTGU4TThRSUJOcTNiMElEWC16T2VlZWNsQ1lOa1M4UTNnSHp0NlJLczVHRGxHb0JGNjFlejdiNVRaaE04MVlweWZhRmJaSUdLeHA4OTNka1FlN0IxTXp5Nm05SlZNalF1czVTYzRtcXVCVkVPcXQza3BNd0NqRVB6N3FZUzRxWVVFd2tSZndOZzNvRUR6cmlNSExac2dDdWh3dzhwN0JxM2VWbDNGX2pXSUZmc3EwaHlaTWJiTzlibXY3dnFQOFdkdVFEdm1QRzRtTjNwUWZYYXk3djNOd1hlMERHZEpGWHFVYU5PbEczMzE?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -495,7 +556,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-14T11:55:00.000Z",
-      "originalHeadline": "الرئيس السيسى يؤكد رفض وإدانة مصر للاعتداءات غير المبررة ضد مملكة البحرين"
+      "originalHeadline": "الرئيس السي��ى يؤكد رفض وإدانة مصر للاعتداءات غير المبررة ضد مملكة البحرين"
     },
     {
       "headline": "President Sisi visits Bahrain to emphasize Egypt's full solidarity with the Kingdom",
@@ -620,6 +681,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-14T11:30:19.000Z"
+    },
+    {
+      "headline": "1,000 evacuated from Fontainebleau fire near Paris; Spanish authorities identify some fire victims - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0lhN2k2cVBLV2xodk5MeDJQS0NLYmRUX0VsOHNuQmk0MzF4cXE0b28weFNKN3lrUjNJbnpaN0FWTktjWUNGX0dYSjFqQmVLN1ozOFJNTVJEMjQxd2tDOVJBZUduZlVJcFU2aF91OS0xbWdhRU14OTJzX2ZSNXU2U1BrM0xFaUtXSGZnYjIzOUtKSXVWRWk5RnNWcUs4SEZqQ043VnNzQQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-14T11:27:00.000Z"
     },
     {
       "headline": "Emirates achieves milestone with 100-aircraft retrofit in 44 months",
@@ -886,6 +957,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-14T10:48:30.486Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-14T10:48:10.000Z"
     },
     {
       "headline": "Gaza Strip: EU conference pledges €900m in donations",
@@ -2161,18 +2242,6 @@
       "date": "2026-07-14T08:05:00.000Z"
     },
     {
-      "headline": "From the heart of China...a Lebanese traveler explores an engineering marvel that extends thousands of kilometers",
-      "url": "https://arabic.cnn.com/travel/article/2026/07/14/great-wall-of-china-travel",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T08:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "من قلب الصين .. رحالة لبنانية تستكشف أعجوبة هندسية تمتد لآلاف الكيلومترات"
-    },
-    {
       "headline": "GCC Ambassadors in Moscow meet Head of Russia's Karachay-Cherkess Republic\n\n\nhttps://\ntinyurl.com/3dmwa8z3",
       "url": "https://x.com/bna_en/status/2076939496709329327",
       "source": "Bahrain News Agency",
@@ -2181,16 +2250,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-07-14T07:58:58.000Z"
-    },
-    {
-      "headline": "Environment Ministry Campaign Enhances Health Compliance, Food Security in Makkah Livestock Markets",
-      "url": "https://spa.gov.sa/en/N2633714?type=news&uuid=N2633714",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-14T07:58:41.000Z"
     },
     {
       "headline": "Under the patronage of H.H Sheikh Abdullah bin Zayed . . Ministry of Higher Education and Scientific Research launches the UAE Award for Higher Education",
@@ -2223,59 +2282,6 @@
       "date": "2026-07-14T07:56:53.000Z"
     },
     {
-      "headline": "The Arab Parliament condemns the Houthi group’s attack on Saudi Arabia and confirms: a blatant violation",
-      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNRHp3NnVPbHlBUWlPaG9IT1F5czhNLVZEMldnVzJrNkc3NmtzbjdpN3dfekdDOEZyZDBxU2JrS3JRdjBJTUNVUmxmOWdkQWNaSXJjVzlrZXJZcnBHblpHakF0aVFLUEVpcXBESVduNmNjVlpyT3VEWThvMVlCV3l1ZlRrMHAwYnJEakN3dDl1OFl3cnpjV3dxczJ2NHQ3ZHo2YTlNczFEZW5KcENaUFNzd1hXdFgyMFNBSDR2ZjJtNU1pbVZGRUtFdHN2QndVNlJqN0VNM01iQU93NExuV3d2Z1R6ZTk4bm1vTWhWMElVNHRObjdicGdPZ0REbEZlc19ianR1Sl9yN1ZsRjlfOEJCX3hIOURzdnptQ1ZwRkhjTzlkZlJxcmxOOUs5VG9LUHRSVjZVT005am5YTVcxbnBORTBIbWZ2WW1kMmNfa253dmRyRG1XOWFLLWo2T1FrMDR1VTB0MjlNT2oxcl80S0JrUEZMM1c2N1E0NmpPV19GSDhYS25nVXRyT1kySXc1ZlNFLWxtclgxQ2VIWEFrLU1wSzI1XzBXcVVNUFBnTHdVcmxBSGhvZnQzSHB5ay1OeWxQbGFsa2FHakZDdjVvZ0E2MS1TdlFRZ2xzazNNaHlTWHJFdGRYSE4zTUQzNkN0WE5aN01KUWdRMFRuSlFKTXZEN3ZsSDF3Y2p0d3NvYmFQdHdjX2pod0VGNzkySnNRSXl6RmpzdjdyajBSdmN2ckHSAagEQVVfeXFMUHZSWE8ybXhSQ20xVHJIeHVKTzY2VGVjVXVOZW95eUg1eEJaNThwNVFMWUFST2ZCU3hudTNVRmdZUWtRaFlhOF9kaXVXMTBkSUQ5djA5dGNmeGJpWjUtN1BHeTVqaVdHQzRlSHBHQV9ra1FGMy1XeDRfTUxIemtLRUlZRGszMXFYMTFzRE82YWVjcGR1SnNGUGpjYWVnWGZGZUlnUG1fWHNubGRVVkhYQjlYRVljelJJYlgtZHNhc0FkWU01VkI0cldVUXNPenRUR2V3VkFUT0RtMlZDd3Q2bFlDVm8tbnhGYWpjdGVfczIyWXo0RHFLTkE4RkthdFNZdGMwX0p2T3p3eUpWYmdnM3Z3eEM0aUMxdWpXcENGQThKSmhfODAyRF8wOTVFZVJyNFRPbGxqRmRhUkZJSWVMaXp5RjlNNk5jZ3lRNHcxSUlGYUU1eHc2enZtbHJ1LTRyTl9Qd08yYnEzbE5JTllQdjFoWXVaVmhWVjFkOTFqQTVQaExrU1FSTGQyakNEMi1yclY1TG1McHA5YXZqNVhzblVvYkkybTcyVXNTcUpPU09XUkdsZzRxQ1BLaEl2Y2dza1BQeFFmUDE3Y2poNHh0WFR2YTFJWHFzMWg2UExYOFNLa2NrVUxJMUZ3SlAzbEJoRHkyTnFwQjYzVlB6ZmEyTTRhM1oxTlMxVmlJem0xRHdsb0xsdHktNHk0QmJjX0VnZnRiUFRETXR6?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T07:54:00.000Z",
-      "originalHeadline": "البرلمان العربى يدين اعتداء جماعة الحوثى على السعودية.. ويؤكد: انتهاك صارخ"
-    },
-    {
-      "headline": "The Qatari Embassy receives condolences on the death of the Father Emir Sheikh Hamad bin Khalifa Al Thani",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxONDQtSVpFdjJHVWVZQkpKeGNrcTQ2NkNXVXFIRExwLVVVbmRhdXRIdTRGT3I4QUFfNW00cVBaQjh5ZUNvTDFndjhJT0pMalY0OEdvWG1JemFUNGJxZDEyVVN5dDhOLWVPMVlKeW1vNHlzLUVUcDBiQVB1X3JxNlBlLXBIZW1MMXdYVUZoYlQtNGJIdWhQYWhtOVNmakU1S1FxOXp3SkJabEE1VkFTQ2dhcWh3LWNSamMzSF9SRm1yQmRCaG54TUNsbFgzXzM4bWhCaDB2NHZmMG5IOHdmZHRmc3JPaWg4TjlmRTh6NWRHcjExUWVnNkd6S24xV1QtWnZXd05HSjI2akFMWlJ2VmxQajRJSnhScjFtRk1XdUk3bmU1dE1nMHA2TVhCaFhiOGRNenJfaV93RDh6VGFIcjgyZ3hpREdpaHc3bFRzME4yaER2eXIwYmR2aGF5T0haT25DWVJrcEJnNDlCZ2NUNDNsdjNTclE4aTBpSGZNM2szdVRwSVF1QVo5emJVNnhlbm1XVjVRSkxJM3VoaF91czVJblZzZG0tUjZhWWtJVm5aWU93Wk10WURHalcwRlpwNkJsUklXZ2hBX0VZYnFPZEFRUFpRMmVTd9IB0ANBVV95cUxQMjJCWkFqT1lBVThyTWRPNGpraFlINFYzX2NCUGJFNWk2dDNPYjBoVG1sM1drdnF1cUVUZ2lOOC1lbFlJUWRMLTZ2Y1RLLW1fel9KOXZXcUhqcHZTTF9sTThXT1RRQzFNRW1GNWR1OVgxdzFrOFQzVGQxWHlyOE11dGYtRjdlYnpycVNMZjRwMmFsaW5jaWt5ODVOUHR2aGRSN1FZWm54VExsM0xXUUJ1b0xZWDZlbV91a3E4QnFVc3RudkRucGJTd0syMGJYRm1VWVpLMnpLdjhJeGZYU01JaUtodEQtUUdZdHVoWWs3eC1sRnhEVVc3dnk4eVlQUTZ3dHB2bDZkN0xaQ1RYd0x6TjRJUlU1cWRnYzNTOEotZXk5TVRZRDhFd2NKWWFKYWNPdUU0b00zZ0tha0pMSGxOX1kzNEtOaWJvWWlmMTJaUzVxakZ2alRHQW5kTkRJVzl1OWt3VkotWTV5Rnc2VzN2VXVTaXB5eFhaejltNGEzYW9YQzdkdU9vbXdhZGlkSmRXRGJWNlVjcFppd04wZEZTY0xvRkNFN2VoRXF1MDFVa0Vqd2pIQmZSWFRsT2ZvUVgyVktoRTY2SmRIaWl1VWU4RA?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T07:50:00.000Z",
-      "originalHeadline": "سفارة قطر تستقبل العزاء فى وفاة الأمير الوالد الشيخ حمد بن خليفة آل ثانى"
-    },
-    {
-      "headline": "Maritime Authority: An attack targeted a tanker while it was crossing near the coast of Oman",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNTEVrRUZueG9GZnFJSWZaQ3FCaVNhckFtbEg1VjBaUlJJVVBvcTdOcnRmVlJ3VzJlX1owWDljVDhLS1FLRnVsd21fN09xZzZzZzdkNFNGd25yeXpzeXdKTXcwOTVnUF9MRDIycU9ucEdGWVFnWjRBSWhqNWRTWmhKelFxaVRtaThjNHl0ZGh2ZUFRS2Y1SDg4cUtLbnVzN3pHMERxNndwY0FFdjJqNEhDdnRnWTUxTVliU2YtUXJsc1BFYjYwVkhDeFViMF9RUkhha2RfQnd5ellfTnVHV2F6aTlNNkF3MDY4MnktZEVEMmdKbUk2allaU2txaFJvTjVIakdKcjZ0RENZaFd1OEYxQlRPcHJEN3pmbmZ5dHU1T0tQMktSQ2pKSENjek8wRkpiLVRiS1RsZTh4S1FTcWNaODVpNnhYelJocUxqVjdXcll2cW5xZUdOOEh1NnNDUXR5ZldTNTA2NXYwaVRPaG1JTEQ4UkFGWkFyelRSY2pIcDFTVUVSUm9nNlE4M2dhWVRBTDNGOWJvLVFhbm03cDA1RUxPZU5ybkJFdGRZVGVVOXpTUVFmZDlwRVk2SGkyR3laM1lzVVVDNjBqX09XTTd6TjRGZjRsQVltb0xSZjZ1Nmt4TGPSAegDQVVfeXFMT2xDV1FqSVMzNTdDMk1ZcTR5MWUxUmdoT1FlQ3FTODlLYUQzVEYzV3VOcjZud01EbHpCbUJ5OUZwaUlUVDJrUHFLUGlwbDRpRU8zRjdvX01WdVZBMng3SzRaMGRleWxfUmZaRThOR1Awd2oyVzlqLXEtUzY5V0VoWHJfbEt5NVB4NVdJQUM0ekFBRnBQamxoWF9BckNUZUc2UXd6Y3RVT2RXZ1JXWThqeFRIRFNTZE1lbEFhVUY5MnhCY3VDemw2dUEtWnlVb21nS25qQ1ZETzhVTlU2RFRheU1QWmFIVGozRkRMNzBGNkc2bkVpMWttczFuZi11S2lSYVNnTTV2WWZrRDF6WWR2Z1dyZVlNWGRpR0pld3FjekJtUXNueVc5dmtiUEhZV0c5QVNLMVRYb0NuSjR4RzFjdjhENzdZT3dEb2o2ZGZ4V1pFWllzbFJLaUQwbkZ2cVNoc1J6eWV2VHhhTUF3ODdaa2Z1X0sxbGhNUFNpZTA5SmJKWEtKa1duT3Jvd1dMQktDX1IzeGR0YjBxRmt5RXlsSmw3UzNGWnVlYk55SUFIZTZGcFdVbngza244U0dRWXZYRWU1Qk5rd1ZJZXRzektGT3k4SllJWHF1MXJ3T2UwV0YzLUpuUXFzSko?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T07:42:01.000Z",
-      "originalHeadline": "هيئة بحرية: هجوم يستهدف ناقلة أثناء عبورها قرب سواحل عُمان"
-    },
-    {
-      "headline": "DCT Abu Dhabi presents 'Rooted Movements' at NOMAD The Hamptons 2026",
-      "url": "https://www.wam.ae/en/details/c17u7no-dct-abu-dhabi-presents-rooted-movements-nomad-the",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-14T07:41:42.314Z"
-    },
-    {
-      "headline": "UAE to compete in largest-ever AFC U17 Women's Asian Cup Qualifiers",
-      "url": "https://www.wam.ae/en/details/c17u7nn-uae-compete-largest-ever-afc-u17-womens-asian-cup",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-14T07:41:04.227Z"
-    },
-    {
       "headline": "The Ministry of Interior warns of fake accounts impersonating vehicle insurance companies and offering attractive offers for the purpose of fraud\n\nWarning.. Fake accounts impersonating vehicle insurance companies are offering attractive but fraudulent deals with the aim of commit",
       "url": "https://x.com/moiuae/status/2076934647217610977",
       "source": "UAE Interior Ministry",
@@ -2285,17 +2291,6 @@
       "language": "en",
       "date": "2026-07-14T07:39:42.000Z",
       "originalHeadline": "وزارة الداخلية تحذر من حسابات وهمية تنتحل صفة شركات تأمين المركبات وتقدم عروضاً مغرية بهدف الاحتيال\n\nWarning.. Fake accounts impersonating vehicle insurance companies are offering attractive but fraudulent deals with the aim of committing fraud \n\nوارننگ.. سوشل میڈیا پر جعلی"
-    },
-    {
-      "headline": "British Maritime Authority: An oil tanker was attacked by a missile off the coast of the Sultanate of Oman",
-      "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxNY0RXbDNnbk9FM29zZXc0amlZMkhmb2dOdlJLek1kQ001c2d2bVY5Y2d4VkZVb1NvSjZ1bk5SakV1MUREaW9fek0xaXRINVQ3Y2ZzR2lmZUxwejJ1bWN1cExKbUEyWUtUVUhuOWY1VEFQck8yX3BqNklCTVZLajUtZGIzT1N5OWxTUWhHZ0RKaW5WQTZFTTBwcHROaUdjVDFOWGlVMk9vcGdtLXdGeUNMdEd5OWFpbzJnNUNnNjRQSjlqejY5RmNxQUwwbmJ3SXMyend3OTZPVnFLemVkS1N1U0tvbzR3S0pDQU81dkFvTkFVM2Q1OGx5Z3BNZVM1QTF4UmM0U1lIRXFhRV9PYTBKN2dpNUJVa1V4OTdnZUFMSlhXRThwRlZiUnRTaFIyeU45elhWUGNCTjMwMXVtZkxUV0pReEd6LWZXTE5xcFBaQ3N6am1lbk01NUNweTBlSkQ3R290WS1XcFZyTmRTTE44T2l5dXBPSXRzbGtQTU51RGhDaWd6YlE1bWlWUEh2RUlJOWhQTmdOY1ltMGwtaDlWUEZSZXZhcVZjalc3dGh0US1iazFIX1BRTmE3QlRwQURyWmNRTldLanFsbTgwVmQwYktxUTNuMHN1aW5ybEJKVmR3OWFQd1RoZDlLcTMwSndwT2UyblBaSlhxNHpfQ2o4M0hpSTZnNTEwMTh5Nk1YaGFvN2hxTTV1ZUZodlJ3b3Nic29KSWQySDhDc2pHSUp4VktxQXhjWTZFZ0FTbGQ4YlpodEItY1pMemQ1c0hycFdsdVdIbNIB1ARBVV95cUxNY0RXbDNnbk9FM29zZXc0amlZMkhmb2dOdlJLek1kQ001c2d2bVY5Y2d4VkZVb1NvSjZ1bk5SakV1MUREaW9fek0xaXRINVQ3Y2ZzR2lmZUxwejJ1bWN1cExKbUEyWUtUVUhuOWY1VEFQck8yX3BqNklCTVZLajUtZGIzT1N5OWxTUWhHZ0RKaW5WQTZFTTBwcHROaUdjVDFOWGlVMk9vcGdtLXdGeUNMdEd5OWFpbzJnNUNnNjRQSjlqejY5RmNxQUwwbmJ3SXMyend3OTZPVnFLemVkS1N1U0tvbzR3S0pDQU81dkFvTkFVM2Q1OGx5Z3BNZVM1QTF4UmM0U1lIRXFhRV9PYTBKN2dpNUJVa1V4OTdnZUFMSlhXRThwRlZiUnRTaFIyeU45elhWUGNCTjMwMXVtZkxUV0pReEd6LWZXTE5xcFBaQ3N6am1lbk01NUNweTBlSkQ3R290WS1XcFZyTmRTTE44T2l5dXBPSXRzbGtQTU51RGhDaWd6YlE1bWlWUEh2RUlJOWhQTmdOY1ltMGwtaDlWUEZSZXZhcVZjalc3dGh0US1iazFIX1BRTmE3QlRwQURyWmNRTldLanFsbTgwVmQwYktxUTNuMHN1aW5ybEJKVmR3OWFQd1RoZDlLcTMwSndwT2UyblBaSlhxNHpfQ2o4M0hpSTZnNTEwMTh5Nk1YaGFvN2hxTTV1ZUZodlJ3b3Nic29KSWQySDhDc2pHSUp4VktxQXhjWTZFZ0FTbGQ4YlpodEItY1pMemQ1c0hycFdsdVdIbA?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-14T07:37:00.000Z",
-      "originalHeadline": "هيئة بحرية بريطانية: ناقلة نفط تعرضت لهجوم بصاروخ قبالة سواح�� سلطنة عمان"
     },
     {
       "headline": "Statement by General Command of Bahrain Defence Force\n\n\nhttps://\ntinyurl.com/yxyzwhtu",
