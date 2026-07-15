@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15T10:32:18.086Z",
+  "updated": "2026-07-15T10:47:12.454Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Bahrain Defence Force intercepts, destroys Iranian aerial attacks",
+      "url": "https://www.wam.ae/en/details/c18fnhr-bahrain-defence-force-intercepts-destroys-iranian",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-15T10:46:00.014Z"
+    },
+    {
+      "headline": "Truck breakdown partially disrupts traffic at Yasmin Pass in Dhofar",
+      "url": "https://timesofoman.com//article/174413-truck-breakdown-partially-disrupts-traffic-at-yasmin-pass-in-dhofar",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-15T10:44:40.000Z"
+    },
     {
       "headline": "Oman U19 Handball Team turns focus to Hong Kong after Saudi Arabia opener",
       "url": "https://timesofoman.com//article/174412-oman-u19-handball-team-turns-focus-to-hong-kong-after-saudi-arabia-opener",
@@ -80,7 +100,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-07-15T10:02:50.000Z",
+      "date": "2026-07-15T10:03:49.000Z",
       "originalHeadline": "الأمير الذي فتح قطر الصغيرة على العالم الخارجي وحقق نجاحاً استثنائياً - مقال في واشنطن بوست"
     },
     {
@@ -379,17 +399,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Historic Agreement Facilitates Border Crossing Between Spain and Gibraltar",
-      "url": "https://english.aawsat.com/world/5296188-historic-agreement-facilitates-border-crossing-between-spain-and-gibraltar",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-15T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "US Expands Sanctions Targeting Iran Oil , Cryptocurrency Sectors",
       "url": "https://english.aawsat.com/world/5296197-us-expands-sanctions-targeting-iran-oil-cryptocurrency-sectors",
       "source": "Asharq al-Awsat (EN)",
@@ -412,30 +421,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "China Economy Grew at 4 . 3 % Annual Pace in the 2nd Quarter , Slowest Since Late 2022",
-      "url": "https://english.aawsat.com/business/5296187-chinas-economy-grew-43-annual-pace-2nd-quarter-slowest-late-2022",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-15T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Oil Prices Rise as Hostilities Worsen in the Middle East",
       "url": "https://english.aawsat.com/business/5296175-oil-prices-rise-hostilities-worsen-middle-east",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-15T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Scientists Sail for Greenland to Study Glacier Melt Risk",
-      "url": "https://english.aawsat.com/varieties/5296183-scientists-sail-greenland-study-glacier-melt-risk",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -467,6 +454,50 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Saudi Arabia Approves Updated State Revenue System",
+      "url": "https://english.aawsat.com/business/5296181-saudi-arabia-approves-updated-state-revenue-system",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-15T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Historic Agreement Facilitates Border Crossing Between Spain and Gibraltar",
+      "url": "https://english.aawsat.com/world/5296188-historic-agreement-facilitates-border-crossing-between-spain-and-gibraltar",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-15T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "China Economy Grew at 4 . 3 % Annual Pace in the 2nd Quarter , Slowest Since Late 2022",
+      "url": "https://english.aawsat.com/business/5296187-chinas-economy-grew-43-annual-pace-2nd-quarter-slowest-late-2022",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-15T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Scientists Sail for Greenland to Study Glacier Melt Risk",
+      "url": "https://english.aawsat.com/varieties/5296183-scientists-sail-greenland-study-glacier-melt-risk",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-15T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Police : Muslim Man Stabbed Multiple Times in Utah over his Religion",
       "url": "https://english.aawsat.com/world/5296168-police-muslim-man-stabbed-multiple-times-utah-over-his-religion",
       "source": "Asharq al-Awsat (EN)",
@@ -480,17 +511,6 @@
     {
       "headline": "Trump Says Iraq Will Be Rid of Iran Burden Soon",
       "url": "https://english.aawsat.com/arab-world/5296184-trump-says-iraq-will-be-rid-iran-%E2%80%98burden%E2%80%99-soon",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-15T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Arabia Approves Updated State Revenue System",
-      "url": "https://english.aawsat.com/business/5296181-saudi-arabia-approves-updated-state-revenue-system",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -597,6 +617,17 @@
       "originalHeadline": "​محافظ القاهرة يعزى سفير قطر في وفاة الأمير الوالد الشيخ حمد بن خليفة"
     },
     {
+      "headline": "China grows at one of lowest rates on record ; Thames Water has funds to survive to year end – business live",
+      "url": "https://www.theguardian.com/business/live/2026/jul/15/china-growth-thames-water-stock-markets-live-news-updates",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-15T07:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Al-Riyadh newspaper | Mbappe: We did not perform well against Spain",
       "url": "https://www.alriyadh.com/2197954",
       "source": "Alriyadh",
@@ -643,17 +674,6 @@
       "date": "2026-07-15T07:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | تعليم الطائف و « كاوست » يصنعان جيل الذكاء الاصطناعي"
-    },
-    {
-      "headline": "China grows at one of lowest rates on record ; Thames Water has funds to survive to year end – business live",
-      "url": "https://www.theguardian.com/business/live/2026/jul/15/china-growth-thames-water-stock-markets-live-news-updates",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-15T07:45:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "After winning 30 million dirhams in the UAE.. What was the first decision taken by the Indian resident?",
@@ -2348,16 +2368,6 @@
       "date": "2026-07-14T23:20:00.826Z"
     },
     {
-      "headline": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-14T23:17:27.000Z"
-    },
-    {
       "headline": "The Kuwait Fire Force (KFF) announced that specialized firefighting divisions successfully extinguished a blaze caused by the hostile Iranian aerial aggression against the country.\n\n\nhttp://\now.ly/sW0i30sXayR\n\n#KUNA",
       "url": "https://x.com/kuna_en/status/2077163672980308452",
       "source": "Kuwait News Agency (KUNA)",
@@ -2366,16 +2376,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-14T22:49:46.000Z"
-    },
-    {
-      "headline": "Türkiye Condemns Houthi Militia's Attack on Saudi Arabia",
-      "url": "https://spa.gov.sa/en/N2634429?type=news&uuid=N2634429",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-14T22:41:52.000Z"
     },
     {
       "headline": "Kuwait:\n\nFirefighting teams manage to control a fire at one of the sites without recording any injuries after it was targeted by the Iranian aggression",
