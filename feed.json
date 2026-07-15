@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15T05:48:29.053Z",
+  "updated": "2026-07-15T06:02:39.233Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Wednesday",
+      "url": "https://spa.gov.sa/en/N2634503?type=news&uuid=N2634503",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-15T05:54:05.000Z"
+    },
+    {
+      "headline": "Gold, silver prices slip",
+      "url": "https://www.wam.ae/en/details/c18fn3i-gold-silver-prices-slip",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-15T05:53:01.274Z"
+    },
     {
       "headline": "Reading in Arab newspapers - Al-Arabi Al-Jadeed newspaper: Yemen is on the brink of an open confrontation with all possibilities",
       "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxPaHNRakhwTnRNaWREUFRfdVVHOW9LLV8wRmJ4NktNOUYyWlEzMjJucEVocG1jZm54THphVkJNOEx3dlN0TWhmYkpIY2RiUC1fVlVuZGR3SXk5TDhPbmplN1hUYm9qWVZaZk9xNnQ3VmQ1UUJvZDlxV2xuQUV6Z0Q4REhXdjBSUGpxREpfVnhiV21kaWhIOVRuamVQOE50WWNsYWMyTi1pVnlfZVdpRVdoVzE0cFZEU3lucDNIWjZna2VPekZsdFY2UGtVY0l6NGs5UXFabVZRWVZtUXhfMTNQazA0dThWZGRSX3RkRUEwaGJZY0NGYmZzRHFWbEY0VUtXUExLNFh4SVRqYk56Q3JVbUJzQlFSeXlMU1RyWXNldWkycXJ6dWdxbDE4M1gtdG5QTUx3aUktNjNlMnhCdENJemlob3piZ0pmU3lDQTVGM1RDV3FEZm81b0xyeVdRY3ZhZ3ZVWVBkaldsUnpLMUFobWxhQUlNMTVLdzA2U1B6eVdOc25SLU5pbXVTWkVTU3JHUllObmt3VFhFUlNJZTNYMTM4NnhvV3ZFSTgzbEVmcWVTR1dtMHdCbDgwN0lWMkpsZzZ1X280RXU3bjdxcFhxS09tcXJoeURSd19JVVBCWHhXRzN1UlQtNm1JLTFYa24xbWRaMUFBSWFyOXJtRDhQeGZ2MlFUa2VqbU83bnFPbzRsRmJNNjdTNHFTbzluVVY2NEhXTmpjZ0I5dDJmc1ZjUjg3WVJWeExZRk55QnR2SDJxRFhXbEpRV1o5Y2VLa2JrU0dESFdGTGU0dmNadEdZNkRCUmwtS3RTU2RYNE9JSGY0aGZkRUJjdDhRbUtzaldoS2hRYmJla1RweW1WN3JkaG10eVpFc1RRWmFSVXdLM2FrRnJ0NW5GTVFMSVNZa3lEa0JydmRqTkd6NWpDNHFKYjRydGRKNmJjeWMzeDBRZ3JkcjUzanpjWFQ1d2laLUsxX3k3TWdFXzN2Zw?oc=5",
@@ -44,16 +64,6 @@
       "language": "ar",
       "date": "2026-07-15T05:00:00.000Z",
       "originalHeadline": "أسعار الذهب في قطر اليوم الأربعاء 15-7-2026.. عيار 24 يسجل 605.40 ريال"
-    },
-    {
-      "headline": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-15T04:57:00.000Z"
     },
     {
       "headline": "Dollar extends decline after retreating from two-week high",
@@ -859,6 +869,16 @@
       "date": "2026-07-15T01:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "قانون التوراة .. هل ضمن نتنياهو بقاء حكومته بدعم الحريديم في مواجهة الجيش ؟"
+    },
+    {
+      "headline": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-15T01:09:40.000Z"
     },
     {
       "headline": "Rapid response in Kuwait.. Fire brigades control a fire after the Iranian attacks - Al-Youm Electronic News Portal",
@@ -2443,26 +2463,6 @@
       "language": "ar",
       "date": "2026-07-14T19:35:52.000Z",
       "originalHeadline": "السعودية تبحث مع سلوفاكيا والبحرين تعزيز الشراكات وتسريع تحقيق أهداف التنمية"
-    },
-    {
-      "headline": "KSrelief Distributes 2,000 Food Baskets in Sudan's White Nile State",
-      "url": "https://spa.gov.sa/en/N2634284?type=news&uuid=N2634284",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-14T19:34:10.000Z"
-    },
-    {
-      "headline": "'Rawthah' Native Shrub Thrives in King Salman Royal Reserve",
-      "url": "https://spa.gov.sa/en/N2634283?type=news&uuid=N2634283",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-14T19:34:09.000Z"
     },
     {
       "headline": "Minister of State Lana Nusseibeh participates in EU–GCC High Level Forum on Regional Security and Cooperation, holds strategic consultations in Brussels\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c17u8jr",
