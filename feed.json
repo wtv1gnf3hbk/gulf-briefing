@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-16T07:17:14.931Z",
+  "updated": "2026-07-16T07:32:35.426Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Sudan Condemns Houthi Attacks on Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2635314?type=news&uuid=N2635314",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T07:22:50.000Z"
+    },
+    {
+      "headline": "India, Maldives move closer to FTA after first round of negotiations; see substantive progress",
+      "url": "https://timesofoman.com//article/174460-india-maldives-move-closer-to-fta-after-first-round-of-negotiations-see-substantive-progress",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-16T07:18:17.000Z"
+    },
     {
       "headline": "Indian Cabinet approves Semicon 2.0 with a budget of Rs 1.27 lakh crore",
       "url": "https://timesofoman.com//article/174459-indian-cabinet-approves-semicon-20-with-a-budget-of-rs-127-lakh-crore",
@@ -103,6 +123,42 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-16T07:00:04.000Z"
+    },
+    {
+      "headline": "Greater Tunb included... The US Army announces the completion of the second wave of strikes on sites in Iran",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/16/us-military-completes-second-round-of-strikes-against-iran-today",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T07:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "شملت طنب الكبرى .. الجيش الأمريكي يعلن اكتمال موجة الضربات الثانية على مواقع بإيران"
+    },
+    {
+      "headline": "Hugging a tree.. Why is it beneficial for your health?",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/16/hug-a-tree-energy-tip-nadine",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T07:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عناق الشجرة .. لماذا يُعتبر مفيدًا لصحتك ؟"
+    },
+    {
+      "headline": "A promising blood test to predict the risk of Alzheimer's.. Do experts recommend it now?",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/16/alzheimers-ptau217-blood-test-wellness",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T07:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "اختبار دم واعد للتنبؤ بخطر الزهايمر .. هل ينصح الخبراء به الآن ؟"
     },
     {
       "headline": "Gold in Bahrain maintains its stability as markets follow US interest expectations",
@@ -217,6 +273,42 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-16T06:32:23.000Z"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | A severe heat wave hits Canada and there are warnings of deteriorating air quality",
+      "url": "https://www.alriyadh.com/2198143",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T06:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | موجة حر شديدة تضرب كندا وتحذيرات من تدهور جودة الهواء"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Detection and molecular characterization of the first case of the rare blood type (––D) of the Rh system in the Kingdom",
+      "url": "https://www.alriyadh.com/2198138",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T06:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الكشف والتوصيف الجزيئي لأول حالة للنمط الدموي النادر (– – D ) من نظام Rh في المملكة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Central Bank of Korea raises interest rates to 2. 75%",
+      "url": "https://www.alriyadh.com/2198140",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T06:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | بنك كوريا المركزي يرفع سعر الفائدة إلى 2 . 75 %"
     },
     {
       "headline": "Oil prices turn lower after early gains",
@@ -374,7 +466,7 @@
       "date": "2026-07-16T05:45:55.000Z"
     },
     {
-      "headline": "The Iranian army reveals the details of a new attack it launched on Kuwait and Bahrain",
+      "headline": "The Iranian army reveals details of a new attack it launched on Kuwait and Bahrain",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkx6b2hfd3VtVzhsRFlKbTZ2TVhMUEJnbVJFRGliSWRpcUpXUWtSNk43am5kZnVuM0JuQlNBMGpuTjVrRmRUQW5JS1RBWG1EcW9wUE92aWxJNnF1cU1YSVUySjh2a1JXOFYtQ041bzg4SV9DX0tsZW9pZTVMM3gyY0pTUUxUckkzMHlyVzREY2ZzSWUya19TWnY5VEZMTWVpRmFUcDhMbkfSAbMBQVVfeXFMTXhRbVhlRm4tMlpNQ0tTaWpuTjExZVNEQVQ4QlpBQW01RUtDR3FSTmJkYVJzbXJmenFRVzBqVFhyS0E5UVhLU2NlS0c3dW1TZV9wVFNiYlNHQmpDNElrb3RmT0NMaDI0VHlVcW9ldFhya2t6Tzk3VC0zWUk3T2NmeF85czFZZ19UYlV5aE1XZi1sQWh0N2NTRlVOS2VZMTcyLWwyLVAyZ0lUSEo5YzlyVTZkUnc?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
@@ -382,7 +474,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-16T05:45:31.000Z",
-      "originalHeadline": "الجيش الإيراني يكشف ��فاصيل هجوم جديد شنه على الكويت والبحرين"
+      "originalHeadline": "الجيش الإيراني يكشف تف��صيل هجوم جديد شنه على الكويت والبحرين"
     },
     {
       "headline": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
@@ -678,17 +770,6 @@
       "date": "2026-07-16T03:32:37.000Z"
     },
     {
-      "headline": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
-      "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-16T03:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Sources reveal to CNN the scenes of a White House investigation regarding a leak about security vulnerabilities in the presidential plane donated by Qatar.",
       "url": "https://arabic.cnn.com/world/article/2026/07/16/exclusive-officials-asked-to-turn-over-phones-at-the-white-house-as-wiles-patel-lead-intensifying",
       "source": "CNN Arabic",
@@ -711,6 +792,17 @@
       "date": "2026-07-16T03:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تصاعد الضربات الأمريكية داخل إيران .. انفجارات من طهران إلى بندر عباس"
+    },
+    {
+      "headline": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
+      "url": "https://www.theguardian.com/world/2026/jul/16/us-attacks-oil-tanker-strait-of-hormuz-iran-tehran-strikes",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-16T03:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "They wanted to break our will.. A German activist accuses Israeli female guards of raping her",
@@ -2450,102 +2542,6 @@
       "date": "2026-07-15T21:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "حفلات يوليو في السعودية .. أجندة فنية تجمع كبار النجوم"
-    },
-    {
-      "headline": "The Kingdom calls for strengthening international cooperation to confront water and climate challenges",
-      "url": "https://www.okaz.com.sa/local/na/2257171",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المملكة تدعو إلى تعزيز التعاون الدولي لمواجهة تحديات المياه والمناخ"
-    },
-    {
-      "headline": "An alarming outbreak of “Ebola”... more than two thousand infections and hundreds of deaths in Congo",
-      "url": "https://www.okaz.com.sa/variety/na/2257148",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تفشٍ مقلق لـ « إيبولا ».. أكثر من ألفي إصابة ومئات الوفيات في الكونغو"
-    },
-    {
-      "headline": "Ahmed Issa celebrates the wedding of his son and daughter",
-      "url": "https://www.okaz.com.sa/people-situations/na/2257160",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أحمد عيسى يحتفل بزفاف ابنه وابنته"
-    },
-    {
-      "headline": "Trump: Iran has asked to meet with us... and defeat is very close",
-      "url": "https://www.okaz.com.sa/politics/na/2257182",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ترمب : إيران طلبت الاجتماع معنا .. والهزيمة قريبة جداً"
-    },
-    {
-      "headline": "Tourism is looking into Korea to expand technical and investment partnerships",
-      "url": "https://www.okaz.com.sa/local/na/2257172",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "السواحة يبحث في كوريا توسيع الشراكات التقنية والاستثمارية"
-    },
-    {
-      "headline": "Hassan Shakoush loses the appeal... and 300 thousand pounds to his ex-wife",
-      "url": "https://www.okaz.com.sa/culture/art/2257153",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حسن شاكوش يخسر الاستئناف .. و300 ألف جنيه لطليقته"
-    },
-    {
-      "headline": "He threatened to bomb Iranian bridges.. Trump: Tehran knows what awaits it",
-      "url": "https://www.okaz.com.sa/politics/na/2257155",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هدد بقصف الجسور الإيرانية .. ترمب : طهران تعرف ما ينتظرها"
-    },
-    {
-      "headline": "After decades of dispute, Spain and Gibraltar open the borders without inspection",
-      "url": "https://www.okaz.com.sa/variety/na/2257149",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T21:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد عقود من الخلاف .. إسبانيا وجبل طارق يفتحان الحدود دون تفتيش"
     },
     {
       "headline": "#QNA_Infographic |\nMedia Figures and Writers Praise HH the Father Amir's Role in Consolidating #Qatar's Regional and International Standing\n#QNA",
