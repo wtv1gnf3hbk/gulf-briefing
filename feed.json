@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T12:17:13.727Z",
+  "updated": "2026-07-16T12:31:13.233Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-16T12:16:29.865Z"
+    },
+    {
+      "headline": "US strikes tanker with missiles as it enforces new Iran blockade",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-16T12:09:26.000Z"
     },
     {
       "headline": "Bahrain Bourse signs a strategic partnership with an international company",
@@ -63,6 +73,54 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-16T12:01:18.000Z"
+    },
+    {
+      "headline": "A famous Italian grandmother on TikTok reveals how to prepare a quick, simple and inexpensive pasta dish",
+      "url": "https://arabic.cnn.com/travel/article/2026/07/16/nonna-cooking-italy-granfluencers-creators-digvid",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جدة إيطالية مشهورة على تيك توك تكشف طريقة إعداد طبق معكرونة سريع وبسيط وغير مكلف"
+    },
+    {
+      "headline": "Under the Jasmine... Saber El Rebai opens the 60th session of the Carthage International Festival",
+      "url": "https://arabic.cnn.com/entertainment/article/2026/07/16/saber-rebai-opens-the-60th-edition-of-the-carthage-international-festival",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تحت الياسمين .. صابر الرباعي يفتتح الدورة الـ60 من مهرجان قرطاج الدولي"
+    },
+    {
+      "headline": "Astronomers detect natural sugar in space for the first time",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/16/sugar-detected-interstellar-space",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "علماء فلك يرصدون سكرًا طبيعيًا في الفضاء لأول مرّة"
+    },
+    {
+      "headline": "Behind the scenes of the dangerous and hilarious shows in the circus capital of the world",
+      "url": "https://arabic.cnn.com/travel/article/2026/07/16/sarasota-florida-best-towns-digivid",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T12:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "خلف كواليس العروض الخطرة والمرحة في عاصمة السيرك العالمية"
     },
     {
       "headline": "Princess Sarah bint Bandar Discusses Algeria's Membership in International Dates Council",
@@ -433,66 +491,6 @@
       "originalHeadline": "القتل تعزيراً لجانٍ تلقى أقراص الإمفيتامين المخدر"
     },
     {
-      "headline": "11 dead and 19 injured in an orphanage fire in Algeria",
-      "url": "https://www.aljazeera.net/news/2026/7/16/11-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%8819-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-16T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "11 قتيلا و19 مصابا بحريق دار أيتام في الجزائر"
-    },
-    {
-      "headline": "After the success of their cooperation, Tamer Hosni and Al-Shami meet at the Jeddah Theater",
-      "url": "https://www.okaz.com.sa/culture/art/2257230",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد نجاح تعاونهما .. تامر حسني والشامي يلتقيان بمسرح جدة"
-    },
-    {
-      "headline": "Horizontal and vertical expansion... How are new fire lines formed deep inside Iran?",
-      "url": "https://www.aljazeera.net/news/2026/7/16/%D8%AA%D9%88%D8%B3%D8%B9-%D8%A3%D9%81%D9%82%D9%8A-%D9%88%D8%B9%D9%85%D9%88%D8%AF%D9%8A-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B4%D9%83%D9%84-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%A7%D8%B1",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-16T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "توسع أفقي وعمودي .. كيف تتشكل خطوط النار الجديدة في العمق الإيراني ؟"
-    },
-    {
-      "headline": "With its current capabilities... Can the Lebanese Army implement the framework agreement?",
-      "url": "https://www.aljazeera.net/news/2026/7/16/%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B7%D8%A8%D8%A8%D9%82-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7-%D9%87%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-16T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بإمكانياته الحالية .. هل يستطيع الجيش اللبناني تطبيق الاتفاق الإطاري ؟"
-    },
-    {
-      "headline": "An American scientist in the grip of China.. Did his research reveal Beijing’s “nuclear secrets”?",
-      "url": "https://www.okaz.com.sa/variety/na/2257081",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-16T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عالم أمريكي في قبضة الصين .. هل كشفت أبحاثه « الأسرار النووية » لبكين ؟"
-    },
-    {
       "headline": "Oil is re-pricing the markets... Gold is declining and the dollar is anticipating inflation",
       "url": "https://www.aljazeera.net/ebusiness/2026/7/16/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B3%D8%B9%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9",
       "source": "Al Jazeera Arabic",
@@ -659,6 +657,66 @@
       "date": "2026-07-16T10:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "عاصفة « إليدا » تتحول إلى إعصار .. غداً"
+    },
+    {
+      "headline": "11 dead and 19 injured in an orphanage fire in Algeria",
+      "url": "https://www.aljazeera.net/news/2026/7/16/11-%D9%82%D8%AA%D9%8A%D9%84%D8%A7-%D9%8819-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A8%D8%AD%D8%B1%D9%8A%D9%82-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-16T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "11 قتيلا و19 مصابا بحريق دار أيتام في الجزائر"
+    },
+    {
+      "headline": "After the success of their cooperation, Tamer Hosni and Al-Shami meet at the Jeddah Theater",
+      "url": "https://www.okaz.com.sa/culture/art/2257230",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد نجاح تعاونهما .. تامر حسني والشامي يلتقيان بمسرح جدة"
+    },
+    {
+      "headline": "Horizontal and vertical expansion... How are new fire lines formed deep inside Iran?",
+      "url": "https://www.aljazeera.net/news/2026/7/16/%D8%AA%D9%88%D8%B3%D8%B9-%D8%A3%D9%81%D9%82%D9%8A-%D9%88%D8%B9%D9%85%D9%88%D8%AF%D9%8A-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B4%D9%83%D9%84-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%A7%D8%B1",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-16T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "توسع أفقي وعمودي .. كيف تتشكل خطوط النار الجديدة في العمق الإيراني ؟"
+    },
+    {
+      "headline": "With its current capabilities... Can the Lebanese Army implement the framework agreement?",
+      "url": "https://www.aljazeera.net/news/2026/7/16/%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%B7%D8%A8%D8%A8%D9%82-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1%D9%8A-%D9%85%D8%A7-%D9%87%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-16T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بإمكانياته الحالية .. هل يستطيع الجيش اللبناني تطبيق الاتفاق الإطاري ؟"
+    },
+    {
+      "headline": "An American scientist in the grip of China.. Did his research reveal Beijing’s “nuclear secrets”?",
+      "url": "https://www.okaz.com.sa/variety/na/2257081",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T10:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عالم أمريكي في قبضة الصين .. هل كشفت أبحاثه « الأسرار النووية » لبكين ؟"
     },
     {
       "headline": "Street war in cemeteries... How did an Egyptian funeral turn into a bloody battle?",
@@ -996,7 +1054,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-16T08:43:56.000Z",
-      "originalHeadline": "الكويت.. صورة جوية تظهر مستودعاً متضرراً بعد هجوم درون إيرانية"
+      "originalHeadline": "الكويت.. صورة جوية تظه�� مستودعاً متضرراً بعد هجوم درون إيرانية"
     },
     {
       "headline": "Congo says confirmed Ebola cases rise to 2,073",
@@ -1334,16 +1392,6 @@
       "language": "ar",
       "date": "2026-07-16T07:48:00.000Z",
       "originalHeadline": "قوة دفاع البحرين : اعترضنا عددًا من الهجمات الجوية الإيرانية"
-    },
-    {
-      "headline": "UK economy claws back some growth as Burnham prepares to take power - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cmszandwYnlVcURRcWZmQzlSaTBQdXd1QTg0cHZhYnFaZzFkYThhMGhrRGp1UWQ4akpXZTlmeGRzVWdxa0Njekc2cy13SkZqeWM0NGZ4TlJkbEhweXM1blZBWXdPZVI4ZHVFNWRVLS1JVTAxcTgyOW9B?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-16T07:42:04.000Z"
     },
     {
       "headline": "The United States approves two arms deals for Saudi Arabia and Kuwait - Al Jazeera Net",
@@ -1791,6 +1839,16 @@
       "date": "2026-07-16T06:07:26.000Z"
     },
     {
+      "headline": "UK economy claws back some growth as Burnham prepares to take power - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cmszandwYnlVcURRcWZmQzlSaTBQdXd1QTg0cHZhYnFaZzFkYThhMGhrRGp1UWQ4akpXZTlmeGRzVWdxa0Njekc2cy13SkZqeWM0NGZ4TlJkbEhweXM1blZBWXdPZVI4ZHVFNWRVLS1JVTAxcTgyOW9B?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-16T06:05:00.000Z"
+    },
+    {
       "headline": "Miral Al-Haridi: President Sisi’s tour of Qatar and Bahrain reflects the solidity of Egyptian diplomacy and the unity of the Arab ranks",
       "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxOYmZha2hCaW1XZFJUVEh2dnctdDZJRjV5eGR4UUJEQlBCMU1ucGFpbXZrSkYxVXdvU2pQNTI0LUM5Q1JTSm9xWWNYaURicGN1WEN5ZEZ1TFlaWXp2NjVYbkdWZzNiTGxPZWRwZnZuUWluMVJHX1VnamEyWUFoaFl2VS00R0pOVmRzSmFaV2dpWEctZ0NJdjFSajJScHJhRnJlS2NMbkxrUkluSG94TVhhdk13S093cEhqUzY3aFMwSjQ4OXZkaklLYUtYdWdCZGhQeGNYV29hbHhCQUtTSllzT2JmT1hDandpdWo5bmMzMXlKMkhpQkNwd0tSNkIySlVha3hxeURsSnRVN21WZEpUSWdnWnVEZXBuZlY4bzgyanlVTjBVSlNuQ21qWklHcTlNNkVtS2xJcmVFREtXcE5Lakw4ZDFaNzdyTnF4WDNFQko2Xzd2Z01MODJXeFlmT0p5ZkhrVFNCa2lUZnR0N1VSVk9DcERNcGhYczhRQ1pKUDZXMG9Lcm8yY1JZUEVOUUpXbTl1VWIwV29KcFhMMGx6aXNMenpwY0hWRUs0Rnk4c1RuOE9ua1NVckZTeXI2WGNQUWVnNGQxR0R2dzFrelhCLTRpS1E1Q29RdjFYcUZCWHVyb21UV01JMmhES3pCc3Y1Sm4zX1JUbW1qa01tbmZaMmR3RktrZi0wM2RvVGhLZ2hxU2RGWHBNdXI1UF9jVnIxc25zMmN3LUNFWmZWU3hUS0Rreko?oc=5",
       "source": "برلمانى",
@@ -2105,48 +2163,6 @@
       "originalHeadline": "طرح عوارض تنگه هرمز ؛ چرخش یک‌روزه ترامپ چه معنایی دارد ؟"
     },
     {
-      "headline": "Reading in French newspapers - Le Monde: Strait of Hormuz tension extends to Yemen",
-      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxQbjlTcFNtbkw5RktIX1FsVkdFXzE5VXB4bXhidlZyS19rbTd2MkRqNDE5cm1tbVVrUXlfcEJKaHFOSmhwSG1HNjNocEJ1Z1R2QVhkd1pQY3A1QUZXYXlBczVhZFp4TWxMVGN6dkdFSjRXUVphQ25QTHlRaFY1NkZpTVBmM3JnVjhqNS1aMEtkNDRUT0FmN2kwYkxoZERVQkctSDJtVGU1VVhXWmNLMzBNSW9LdmZOSGNES05rQmlsNkJIM2lOUUFfTnktTlRwLWIxRE5CZFNNSldVZk1HblhkZXNuN0V6SjViQUEwYlhGTEpOUW1WRlcyQmQxRFVpdGpTTG01czhRM2hubklvZVh2Zm5kbGlybURGRUpNRzFIS0t0WHhJSWE3blNwTTVXaDVTTWl1bnNYQVB1VXVxQVYyZS16c2RlaVZac3VON0Zic3o1cU9OOHZnOXNqakZJU1RHSkFQcklqOUJCTWJpdXdjVEZzNVdCWkdPQXUzRzdDT0xtdjNtN0Q4ZndxN2NMOTdmUndKRWZJMnBMcTdNbURiRWtiOE8zQVlRcHcxYVIxQ1U5bjVDakFGQzhGOW9sbXFQTVFLdUhVSklSSDYzNUhVNlliYVdmRlJnRFhlY3llckRlU3pTM25MVUl2bDM3LXBNRVFmRUFOLWRaQS1VQ0tvRV8xYl92RF9ycnZqZFlPeE4tWE93?oc=5",
-      "source": "مونت كارلو الدولية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-16T03:55:23.000Z",
-      "originalHeadline": "قراءة في الصحف الفرنسية - لوموند: توتر مضيق هرمز يمتد الى اليمن"
-    },
-    {
-      "headline": "Large-scale attacks on the American terrorist army in Bahrain",
-      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQSkJMX2ViWXkwcVBsZTRjYXE3aWNYNUJGemFfbmY1OE1GWG1XOGl1Z2V3S2VOZE0yVUl0MmxvUXIzcUZLVTZNc1ZBLS13Qm5DVC0tWi1DQ21NRnBqWkRBRy1oeF9EQ0Z3ek5PSkVQdmtIN1BvdlJpM3FqVXM3THp4dENBQlVkTjhoazZEdWZTbDk2ZGFjRjZJQVpsSTJndVo5d1Q5Rkg5Y1NSSkNBNHN0WXpCR3BTeXJqR2xxaEJhcERUb25CUzZNNXE3dGoxVWFxU2tfMXphSmdxeW5uRV9CY1J0WGtseUp0blVvVWc3cld1WC1xMzV3SDZxUkRHYTBMWm13ZHB4NFNCSnlFZ0MtVV9sbmNsSDdCbHNzdDVQQmpHaEw3ZjFxVkZZMDZrTXpGbXFfVDM0OWk1Ty1tSEJWb1NaV1VQcWVSSzdsNURxWHJNUE1fSHFOb09sZEk4RGZxclZNTzRhd3N4Tm1NWUZzcjlTNlMyTS1FRkVudlVSa3RZM0RGUmFMS19SOEh1VVBxOGYySmNERHJTYTZiS0JPUDU2Y3RiZTBFVVBaWlZnTmVtaWpRSEFhcThPYlcwaVU1bjN2UXlGYjZGNkFuM3RyMTlGSkNmR2U3T0huTnhTTGhja0lNOTVYZ293a0t4VlpXcXIzdV9B0gH7A0FVX3lxTE5tNmdWRFU3cFdDR3dTWmlSYjQ4OC1POU9XbTV1d2NTMzJDOEt4WnM4bTdhMU5BdjdoWXc2ZGR4Wlo0SEdQMGRfV1JTVDk2TDZWNm41eEVXbWZCZTZjWTlWRGxyR01MYzNtaHV5Z2dkWDBwZGFWQ0ZTVzZycmJ5LVdoODdNT0xEOWRjc0xFajJDeVpZR2lKMGdzWW5Hd0xoNXNqT0hXNFJLT0JrLUQzUjJyN3FFTGtvT2s5YXVsUWthT3VqZ2VtQ0p3YnNtUkVjQ3Q5QmVyV1V3MFFTOXAyQlkxeWxGN2wtZ21lNUxOV2o0V2tKSUdhS29IQkxjRGFZcHNnNjhzLW4xMU1KTmFMUzJ2LXoyOS1Ga1RERmxwaHlZckF5TTJGRmtHTHZLT29wV29OZ0VHMWhDWXgwR3RKWno5ZTRfaGl6RGlGbFJqVjE2SWZJUFFvbXBBVkpHTy12cXNXTWEtV3JpSjM5VlpxQVQzNTlIa1AycWtmV2tFT1VYUDZoaFFoSnBBZU5scTI3MnR3Uktha21RUmp6MlA2MTBWbVlCQkFNQmVPUUtrNG5JdWU4bjFlN3ZQamFuM3B1WkZBSDd2Z2Y0V2ZPWlJyVklURFlaOXRTaWtzdXpNVnpWUmlkNDNYTkZTcDVsUlV4Y2lrOWh1bmMxM2lpMA?oc=5",
-      "source": "تسنیم",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-16T03:53:29.000Z",
-      "originalHeadline": "هجمات واسعة النطاق على الجيش الأمريكي الارهابي في البحرين"
-    },
-    {
-      "headline": "Messi celebrates Argentina's SF win, says 'we dug deep to put in another great performance'",
-      "url": "https://timesofoman.com//article/174456-messi-celebrates-argentinas-sf-win-says-we-dug-deep-to-put-in-another-great-performance",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-16T03:47:34.000Z"
-    },
-    {
-      "headline": "Messi becomes first player with 10 WC knockout assists after Argentina's semifinal win",
-      "url": "https://timesofoman.com//article/174455-messi-becomes-first-player-with-10-wc-knockout-assists-after-argentinas-semifinal-win",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-16T03:41:03.000Z"
-    },
-    {
       "headline": "Jordanian Army: Downing of 8 Iranian missiles targeting Jordanian territory",
       "url": "https://x.com/alekhbariyaBRK/status/2077599173793272033",
       "source": "Al Ekhbariya TV",
@@ -2155,16 +2171,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-16T03:40:17.000Z"
-    },
-    {
-      "headline": "Argentina played very good football, Thierry Henry hails defending champion",
-      "url": "https://timesofoman.com//article/174454-argentina-played-very-good-football-thierry-henry-hails-defending-champion",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-16T03:37:18.000Z"
     },
     {
       "headline": "King Salman Humanitarian Aid and Relief Center enhances the wheat production chain in Syria as part of its efforts to support food security and promote the sustainability of agricultural production.",
