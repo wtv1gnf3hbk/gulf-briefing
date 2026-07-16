@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-16T05:33:43.359Z",
+  "updated": "2026-07-16T05:48:27.886Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Thursday",
+      "url": "https://spa.gov.sa/en/N2635274?type=news&uuid=N2635274",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T05:45:55.000Z"
+    },
+    {
+      "headline": "Gold prices decrease by 0.97% in Kuwait",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOXpJVzl3UFZDVjU0bUxpTGZwWjdCcGhVN1pnY1BKX3lkRV95TGYxS2s0M1hFcGtocE41Y0dDZk1SZVEzbkFlVVNLSk9TX1Ayel9icGJCeEFwcVZFT0VxOUdLNG1OaTlyLWxCem5PVnFGMEZKVlkzYTJ4STdrd25GSG9EaW9xWnE4dk5YQVh6a0lLeWhVdWhVRUludng0Nlh6OUYtMy1EckttdmNQeEYzeGJnZ1VIZVQtTnpHekJDcmkzMVNtWTFaS0dkenc0U21BVFdpM0lkblZROUhaN3ZHSzlIc3JuUlJ2UVdNSVRzU1lKQWJvUDZfZHVkWE1uZmpYLVVrcUprVE1aeVFqYlRyUHVmS2Jndw?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T05:25:58.000Z",
+      "originalHeadline": "أسعار الذهب تنخفض 0.97% في الكويت"
+    },
     {
       "headline": "National Museum opens \"The Splendour of Silver: Treasures from the Omani Court\" Exhibition in Belarus",
       "url": "https://timesofoman.com//article/174458-national-museum-opens-the-splendour-of-silver-treasures-from-the-omani-court-exhibition-in-belarus",
@@ -43,6 +64,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-16T04:45:27.000Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-16T04:39:56.000Z"
     },
     {
       "headline": "Iran targets Bahrain and Kuwait, and Washington intensifies its raids",
@@ -87,16 +118,6 @@
       "language": "ar",
       "date": "2026-07-16T04:24:24.000Z",
       "originalHeadline": "قطر.. الشيخ جوعان بن حمد ينشر صورا للأمير الوالد معزيا بوفاته"
-    },
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-16T04:21:46.000Z"
     },
     {
       "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
@@ -211,6 +232,30 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-16T03:32:37.000Z"
+    },
+    {
+      "headline": "Sources reveal to CNN the scenes of a White House investigation regarding a leak about security vulnerabilities in the presidential plane donated by Qatar.",
+      "url": "https://arabic.cnn.com/world/article/2026/07/16/exclusive-officials-asked-to-turn-over-phones-at-the-white-house-as-wiles-patel-lead-intensifying",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-16T03:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصادر تكشف لـCNN كواليس تحقيق للبيت الأبيض بشأن تسريب عن ثغرات أمنية بالطائرة الرئاسية المُهداة من قطر"
+    },
+    {
+      "headline": "US strikes escalate inside Iran... Explosions from Tehran to Bandar Abbas",
+      "url": "https://www.okaz.com.sa/politics/na/2257197",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T03:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تصاعد الضربات الأمريكية داخل إيران .. انفجارات من طهران إلى بندر عباس"
     },
     {
       "headline": "US attacks oil tanker in strait of Hormuz as strikes reported in Tehran",
@@ -815,7 +860,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-16T00:32:53.000Z",
-      "originalHeadline": "قناة إيرانية: إطلاق 6 صواريخ من الكويت باتجاه إيران عبر الأجواء ��لعراقية"
+      "originalHeadline": "قناة إيرانية: إطلاق 6 صواريخ من الكويت باتجاه إيران عبر الأجواء العراقية"
     },
     {
       "headline": "Reda Al-Bahrawi raises controversy...and his manager reveals the truth about retirement",
@@ -1035,6 +1080,16 @@
       "language": "ar",
       "date": "2026-07-16T00:07:03.000Z",
       "originalHeadline": "الكويت تعلن التصدي لمسيّرات إيرانية والبحرين تفعل صفارات الإنذار"
+    },
+    {
+      "headline": "EU urges Washington to exempt key exports from 15% tariff",
+      "url": "https://www.wam.ae/en/details/17bpb1a-urges-washington-exempt-key-exports-from-15",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-16T00:03:59.242Z"
     },
     {
       "headline": "Kuwait announces the interception of 4 cruise missiles and 21 Iranian drones",
@@ -2395,37 +2450,6 @@
       "originalHeadline": "Start of the second half of the match between the England national team and its Argentine counterpart, within the semi-final round of the 2026 World Cup.\n#واس"
     },
     {
-      "headline": "KSrelief Hands Over Agricultural Facilities and Equipment to Support Wheat Production Chain in Eastern Aleppo Countryside",
-      "url": "https://spa.gov.sa/en/N2635105?type=news&uuid=N2635105",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-15T19:56:43.000Z"
-    },
-    {
-      "headline": "Kuwait: 4 missiles and 21 enemy drones intercepted",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPR3pGT0hodTFLQXlxSTVZWlZ5b0ZaV3d0VS0xVjdZMnBrWGo4eGp3cXAtbVRTRnV6ajg2UWlnRE0xVE9uX1g0ZHh4YUF0a2h6elBUY2YtSmRzMC1lbUNySGhCYTFNcjNLOXpxaGdOWk42T19tb0ZOT2RXaGRkX0puVW9QU2xvMWRnUzBzUkdwZ2N3Z1VUa21kTXVWVjZrWV96YU5ZcWxGdzJubzVESWdfQUdLVy1SbWRDYWxMODMzSVMtakdpTHBNeV9HbWlfcXVHR2RjUWF1eDdHc3FMYnV2eWRMYWVydDhLbDh1RXB0aDlsYzlrdlpYd1FORXBRNkN2cmthZXhxYnBJZE9yMDBpczRQRkx5eGl1clEtUTVzRnNiMGx3SVVBc2lMdzlEYjhiWlNEYTR0Y3pYT2FJUmk1VXpxYlBCTUhOaEVLLXhFQjdzLXlBcWV5RHRnQdIB4AJBVV95cUxPZFZxNU9UX1F1TDlTUERubUhCbXBBamFtN2pNMUptMlpmUzE5UHVxX09EYnI5dUhzTzVSX2xGQkplMnlwbWJpWWZYMkFRaFZaQmdlUUN2OVlNTTFrNFNuZlFGZDdBU2k3UXYyRnczeDV1bXFHRS1TUm9reFI5RTRMYVZHMGFBdlFYeWRxd2o3SmpyOFdkMjdDZFYxeTZjZjRpeUV1SzVXNURhTDlSZGZPa1J5OElycUgwd2dLN0QtQl9KN2EwWnN5cUxMRms2c0tFN1BvN3dHUkxzcG5hdU5ISXdkcmlpOGpEY1RkRFRORHlWSDlDWFNIb3o5dkl2cEJDVUtlN0hNQzFzTlVpclpHLTZua04tQ1FJR2hLNmlxaTNhOHo0STZ0TlB1eE9odmU5TFgtT01BVFdfM05LN01zQmFDcFVqMDJvZlN3YTBlbm8teW1DdVRta1pKNHJEeEM3?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-15T19:53:09.000Z",
-      "originalHeadline": "الكويت: اعتراض 4 صواريخ و21 مسيرة معادية"
-    },
-    {
-      "headline": "Three strikes hit different zones of central Gaza after warning from the Israeli army - AP News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOEVPcjZnU0tRX0JCMVk1QTM3RFVXeFB0T2FfY1FGTF9TcU1CVWoxcHJnaHI3NkRyaEtORHV4dFRHNGhiR1RaWEtjS19lc2dvc3VaRnF6dmxSWDJEc2RDcmFocmw1a2w0Q0MzZC1rYUdrNFpraVNEN3dkelROX0VwVEtuTU5ZRE5QVnJlclEybHlHN0s1d2YzUnhfc21VQi0yby13RGVOOXFzWTNVWlpvWFhTdF81c3MyWTFGOHMyLXY3a0poQkh3S0RmS0RJdmR6RHV3REdwTXUwQVk?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-15T19:43:00.000Z"
-    },
-    {
       "headline": "The siren has been sounded .. Citizens and residents are urged to remain calm and head to the nearest safe place.",
       "url": "https://x.com/moi_bahrain/status/2077478728074997868",
       "source": "Bahrain Interior Ministry",
@@ -2436,16 +2460,6 @@
       "date": "2026-07-15T19:41:41.000Z"
     },
     {
-      "headline": "Kuwait's Armed Forces intercept Iranian cruise missiles, drones",
-      "url": "https://www.wam.ae/en/details/c18fo7t-kuwaits-armed-forces-intercept-iranian-cruise",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-15T19:41:26.194Z"
-    },
-    {
       "headline": "The alarm siren has been activated. We urge citizens and residents to remain calm, head to the nearest safe location, and follow updates through official channels.",
       "url": "https://x.com/moi_bahrain/status/2077478596839420384",
       "source": "Bahrain Interior Ministry",
@@ -2454,16 +2468,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-07-15T19:41:09.000Z"
-    },
-    {
-      "headline": "Could Iran's allies close a second key shipping route? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xRS1CaWJ2ZUpaVGhXNTBOM1VhNWEtR2l6UlNIVEh3bDVjSTRaTXk5LUh4YVVPbUE4OVJVWUc1OUhBZ3ZJWlpBb3ZyVGhkbUxkeEpvbWJJeHJxU3QtZUlPVFlFZWdoVG8?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-15T19:29:15.000Z"
     },
     {
       "headline": "Bahrain presents third Voluntary National Review at UN forum\n\n\nhttps://\ntinyurl.com/2684jzos",
