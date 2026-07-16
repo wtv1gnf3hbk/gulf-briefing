@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-16T10:04:44.962Z",
+  "updated": "2026-07-16T10:17:03.493Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Ministry of Sports to organise ‘Emirates Summer’ festival in Fujairah",
+      "url": "https://www.wam.ae/en/details/c19133x-ministry-sports-organise-‘emirates-summer’",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-16T10:12:31.937Z"
+    },
+    {
+      "headline": "Education Minister Honors 1,611 Graduates at International Aviation College Ceremony",
+      "url": "https://spa.gov.sa/en/N2635399?type=news&uuid=N2635399",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T10:08:59.000Z"
+    },
+    {
+      "headline": "Lionel Messi - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBQ0FKaEtTRHNJR3lRbElfcF9NZVFOWGhkemxSU3g5OEJxb0twbXI5UkZPbEprSXdXYTNXbk50SHp5ZkVhbUNMbVdqVQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-16T10:08:00.000Z"
+    },
+    {
+      "headline": "Arab League Secretary-General Holds Calls with UAE, Oman, and Kuwait Foreign Ministers",
+      "url": "https://spa.gov.sa/en/N2635397?type=news&uuid=N2635397",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-16T10:06:18.000Z"
+    },
+    {
+      "headline": "DIEZ, Salik to advance innovative, seamless mobility solutions",
+      "url": "https://www.wam.ae/en/details/c19133w-diez-salik-advance-innovative-seamless-mobility",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-16T10:05:39.201Z"
+    },
     {
       "headline": "QS World Future Skills Index reaffirms UAE’s leadership in building future-ready higher education ecosystem",
       "url": "https://www.wam.ae/en/details/c19133v-world-future-skills-index-reaffirms-uae’s",
@@ -117,16 +167,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-16T09:11:56.748Z"
-    },
-    {
-      "headline": "Lionel Messi - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBQ0FKaEtTRHNJR3lRbElfcF9NZVFOWGhkemxSU3g5OEJxb0twbXI5UkZPbEprSXdXYTNXbk50SHp5ZkVhbUNMbVdqVQ?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-16T09:09:19.000Z"
     },
     {
       "headline": "Investindustrial Foundation expands support for Stern at NYU Abu Dhabi",
@@ -381,74 +421,19 @@
       "date": "2026-07-16T08:20:17.845Z"
     },
     {
-      "headline": "US War Against Iran Enters a New Phase",
-      "url": "https://english.aawsat.com/world/5296591-us-war-against-iran-enters-new-phase",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Strikes Expand into Northern Iran as it Disables Ship Trying to Run Blockade",
-      "url": "https://english.aawsat.com/world/5296566-us-strikes-expand-northern-iran-it-disables-ship-trying-run-blockade",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Foreign Minister Receives Syrian Counterpart",
-      "url": "https://english.aawsat.com/gulf/5296579-saudi-foreign-minister-receives-syrian-counterpart",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Why Greater Tunb Matters Near the Strait of Hormuz",
-      "url": "https://english.aawsat.com/world/5296575-why-greater-tunb-matters-near-strait-hormuz",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Hamas and Mediators Reach Broad Agreement on Road Map , Await Israel Response",
-      "url": "https://english.aawsat.com/arab-world/5296602-hamas-and-mediators-reach-broad-agreement-road-map-await-israel%E2%80%99s-response",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Global Economy Faces Fresh Supply Shock as Hormuz Crisis Escalates",
-      "url": "https://english.aawsat.com/business/5296568-global-economy-faces-fresh-supply-shock-hormuz-crisis-escalates",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Japan to Recognize Cryptocurrency As Financial Assets",
       "url": "https://english.aawsat.com/business/5296597-japan-recognize-cryptocurrency-financial-assets",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US War Against Iran Enters a New Phase",
+      "url": "https://english.aawsat.com/world/5296591-us-war-against-iran-enters-new-phase",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -480,6 +465,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "US Strikes Expand into Northern Iran as it Disables Ship Trying to Run Blockade",
+      "url": "https://english.aawsat.com/world/5296566-us-strikes-expand-northern-iran-it-disables-ship-trying-run-blockade",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Natural Sugar Floating in Space Between Stars",
       "url": "https://english.aawsat.com/varieties/5296599-natural-sugar-floating-space-between-stars",
       "source": "Asharq al-Awsat (EN)",
@@ -502,6 +498,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Saudi Foreign Minister Receives Syrian Counterpart",
+      "url": "https://english.aawsat.com/gulf/5296579-saudi-foreign-minister-receives-syrian-counterpart",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Trump Remarks on Soleimani Spark Debate in Iraq",
       "url": "https://english.aawsat.com/arab-world/5296588-trump%E2%80%99s-remarks-soleimani-spark-debate-iraq",
       "source": "Asharq al-Awsat (EN)",
@@ -513,8 +520,41 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Why Greater Tunb Matters Near the Strait of Hormuz",
+      "url": "https://english.aawsat.com/world/5296575-why-greater-tunb-matters-near-strait-hormuz",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Hamas and Mediators Reach Broad Agreement on Road Map , Await Israel Response",
+      "url": "https://english.aawsat.com/arab-world/5296602-hamas-and-mediators-reach-broad-agreement-road-map-await-israel%E2%80%99s-response",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "... But What Was the Old Order ?",
       "url": "https://english.aawsat.com/opinion/5296613-what-was-old-order",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-16T08:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Global Economy Faces Fresh Supply Shock as Hormuz Crisis Escalates",
+      "url": "https://english.aawsat.com/business/5296568-global-economy-faces-fresh-supply-shock-hormuz-crisis-escalates",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -2209,52 +2249,6 @@
       "date": "2026-07-16T00:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "محكمة سنغافورية تلزم « بلومبيرغ » بدفع 356 ألف دولار في قضية تشهير بوزيرين"
-    },
-    {
-      "headline": "Japan is full of Japanese!",
-      "url": "https://www.okaz.com.sa/articles/authors/2257163",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-16T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "اليابان مليئة باليابانيين !"
-    },
-    {
-      "headline": "Bahrain sounds sirens, urges citizens to seek safe place",
-      "url": "https://www.wam.ae/en/details/17bpb1d-bahrain-sounds-sirens-urges-citizens-seek-safe",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-16T00:15:40.683Z"
-    },
-    {
-      "headline": "Bankruptcy continues globally",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5296529-%D8%A7%D9%84%D8%A5%D9%81%D9%84%D8%A7%D8%B3-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-16T00:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الإفلاس متواصل عالمياً"
-    },
-    {
-      "headline": "Good education for this time",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5296527-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D9%84%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-16T00:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "التعليم الصالح لهذا الزمان"
     },
     {
       "headline": "Prince Turki Al-Faisal conveys the condolences of the leadership to the Emir of Qatar on the death of Sheikh Hamad bin Khalifa Al Thani",
