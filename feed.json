@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-18T08:33:21.460Z",
+  "updated": "2026-07-18T08:48:12.126Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "War and unrest - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-18T08:40:13.000Z"
+    },
+    {
+      "headline": "Oman accelerates road infrastructure drive with 61 projects under way",
+      "url": "https://timesofoman.com//article/174541-oman-accelerates-road-infrastructure-drive-with-61-projects-under-way",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-18T08:32:07.000Z"
+    },
     {
       "headline": "Nama Water's OMR19 mn Sohar sewerage project reaches 67% completion",
       "url": "https://timesofoman.com//article/174540-nama-waters-omr19-mn-sohar-sewerage-project-reaches-67-completion",
@@ -11,6 +31,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-18T08:25:58.000Z"
+    },
+    {
+      "headline": "Bahrain.. Sirens sounded for the fifth time in 12 hours",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQy01b1FzMnV0bGR6NW5QekRYSkNtRE1sYWpUWlpSQmcwMWFfaUk1S1FLMFdwS0ZiSUtCVm9YWVpxa3JiVnBUbExKZEtwaU52WXVwWEtXNTVfQUp4MEt2VFpYdkVyZjNBanJYeEQ4Z3lyaTFoOEtYeXVYS1pob2NjdHp5M0VWaFRmTVA2cVdyYmZHU3dncHRMZWgwR3RmNU9rbkF3ekRRaHpMYVBucnlESmhITnoyLXfSAcIBQVVfeXFMTVhhNW5ZcXFRamRFbEpSY3RfazNhd1RvMjVWZnJiM09YM2Qtbjlsd3BHQU0ydEFSMVpQZ1hLdkdNeFFrazFTRzJmR3VuVDNrenlsb3dkN2xBQzFvUzFVMVAzc1FGejZ0SkEtZWphaUU5Z2lNZUEzQm5FakF1cFpDRVNzZmZreS1CSE80dThQZ05sRmp0OTNxQjlSanNZd3NvRjJ5Sjh1SE9DVnJqWGowN1BoRFlCNVB4YVZ0Umg3SXNWSXc?oc=5",
+      "source": "arabic.cnn.com",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-18T08:24:30.000Z",
+      "originalHeadline": "البحرين.. إطلاق صافرات الإنذار للمرة الخامسة خلال 12 ساعة"
     },
     {
       "headline": "The Bahrain Defense Force announces the interception and destruction of a number of Iranian missiles and drones",
@@ -118,14 +149,15 @@
       "date": "2026-07-18T07:45:59.383Z"
     },
     {
-      "headline": "War and unrest - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
+      "headline": "Iran : Waxaan garaacnay bartilmaameedyo ku yaal Kuwait , Bahrain , Jordan iyo Saudi Arabia",
+      "url": "https://www.bbc.com/somali/live/ckge9z4q3kpt",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
       "language": "en",
-      "date": "2026-07-18T07:40:10.000Z"
+      "date": "2026-07-18T07:45:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "US strikes hit Iran for seventh consecutive night",
@@ -295,6 +327,16 @@
       "originalHeadline": "الكويت: تعرُّض محطة ثانية لتوليد الكهرباء لهجوم إيراني"
     },
     {
+      "headline": "Canada - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-18T06:46:15.000Z"
+    },
+    {
       "headline": "Kuwait air defences currently responding to hostile Iranian missile, drone attacks",
       "url": "https://www.wam.ae/en/details/c1a7xzn-kuwait-air-defences-currently-responding-hostile",
       "source": "Emirates News Agency (WAM)",
@@ -391,18 +433,6 @@
       "originalHeadline": "القيادة المركزية الأمريكية تشن الجولة السابعة من الضـ ـــربات على إيران التفاصيل👇👇👇 أعلنت القيادة المركزية الأمريكية (سنتكوم) شن جولة جديدة من الضـ ـــربات الجوية ضد إيران لليلة السابعة على التوالي، وفقا لتوجيهات القائد الأعلى للقوات المسلحة الرئيس دونالد ترامب"
     },
     {
-      "headline": "Will Iraq succeed in resolving the arms issue before next September 30?",
-      "url": "https://www.aljazeera.net/politics/2026/7/18/%D9%87%D9%84-%D9%8A%D9%86%D8%AC%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AD%D8%B3%D9%85-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%82%D8%A8%D9%84-30",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-18T06:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هل ينجح العراق في حسم ملف السلاح قبل 30 سبتمبر / أيلول المقبل ؟"
-    },
-    {
       "headline": "US - Backed Oil Pipeline to Link Iraq , Syria",
       "url": "https://english.aawsat.com/arab-world/5297281-us-backed-oil-pipeline-link-iraq-syria",
       "source": "Asharq al-Awsat (EN)",
@@ -436,6 +466,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Trump , not Iran , is the world greatest danger . He a one - man weapon of mass destruction | Simon Tisdall",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-18T06:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Saudi Arabia Welcomes Jordan Initiative for Commercial Flights Between Amman , Sanaa",
       "url": "https://english.aawsat.com/gulf/5297279-saudi-arabia-welcomes-jordan%E2%80%99s-initiative-commercial-flights-between-amman-sanaa",
       "source": "Asharq al-Awsat (EN)",
@@ -447,15 +488,16 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Trump , not Iran , is the world greatest danger . He a one - man weapon of mass destruction | Simon Tisdall",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
+      "headline": "Will Iraq succeed in resolving the arms issue before next September 30?",
+      "url": "https://www.aljazeera.net/politics/2026/7/18/%D9%87%D9%84-%D9%8A%D9%86%D8%AC%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AD%D8%B3%D9%85-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%82%D8%A8%D9%84-30",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
       "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
+      "country": "Qatar",
+      "language": "ar",
       "date": "2026-07-18T06:00:00.000Z",
-      "tier": "gdelt"
+      "tier": "gdelt",
+      "originalHeadline": "هل ينجح العراق في حسم ملف السلاح قبل 30 سبتمبر / أيلول المقبل ؟"
     },
     {
       "headline": "Saudi Arabia welcomes Jordan's initiative to operate commercial flights between Amman and Sana'a",
@@ -543,16 +585,6 @@
       "language": "ar",
       "date": "2026-07-18T04:50:57.000Z",
       "originalHeadline": "واشنطن تنهي ضرباتها على إيران لليلة السابعة، والحرس الثوري يعلن قصف مواقع في \"البحرين والكويت والأردن\""
-    },
-    {
-      "headline": "Canada - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-18T04:46:07.000Z"
     },
     {
       "headline": "The US Army ends a seventh night of strikes against Iran and announces the injury of 13 of its soldiers",
@@ -1767,6 +1799,17 @@
       "date": "2026-07-17T21:00:15.000Z"
     },
     {
+      "headline": "Al Akaria Riyadh Land Cleared , Returning Strategic Asset to Development",
+      "url": "https://english.aawsat.com/business/5297179-al-akaria-riyadh-land-cleared-returning-strategic-asset-development",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-17T21:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "From Manchester to Downing Street... Will Burnham change the rules of government in Britain? | policy",
       "url": "https://www.aljazeera.net/politics/2026/7/17/%D9%85%D9%86-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D9%88%D9%86%D9%8A%D9%86%D8%BA-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D9%87%D9%84-%D9%8A%D8%BA%D9%8A%D8%B1",
       "source": "Al Jazeera Arabic",
@@ -1789,17 +1832,6 @@
       "date": "2026-07-17T21:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "5 دقائق قد تنقذ يوم عملك .. لماذا ينصح الخبراء بإنهاء الاجتماعات قبل موعدها ؟"
-    },
-    {
-      "headline": "Al Akaria Riyadh Land Cleared , Returning Strategic Asset to Development",
-      "url": "https://english.aawsat.com/business/5297179-al-akaria-riyadh-land-cleared-returning-strategic-asset-development",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-17T21:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Egypt Greece , Cyprus Partnerships Do Not Hinder Ties With Türkiye",
@@ -2722,16 +2754,6 @@
       "date": "2026-07-17T17:40:18.000Z"
     },
     {
-      "headline": "Uganda halts school trips as bus crash kills 20 kids",
-      "url": "https://timesofoman.com//article/174518-uganda-halts-school-trips-as-bus-crash-kills-20-kids",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-17T17:37:35.000Z"
-    },
-    {
       "headline": "Dr. Waleed Al-Qahtani, Consultant in Maxillofacial Surgery at King Khalid Hospital in Al-Kharj: The difficulty of the case lies in its rarity and the similarity of its symptoms to other diseases, and delaying its diagnosis or treatment may lead to the spread of infection,",
       "url": "https://x.com/alekhbariyatv/status/2078172119347724578",
       "source": "Al Ekhbariya TV",
@@ -2760,28 +2782,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-17T17:30:47.000Z"
-    },
-    {
-      "headline": "An earthquake of magnitude 7. 3 degrees hits Mexico and shakes Guatemala and El Salvador",
-      "url": "https://arabic.cnn.com/world/article/2026/07/17/powerful-earthquake-mexico-shakes-guatemala-el-salvador",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-17T17:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "زلزال بقوة 7 . 3 درجة يضرب المكسيك ويهز غواتيمالا والسلفادور"
-    },
-    {
-      "headline": "Moderate 4.9-magnitude earthquake recorded in Arabian Sea off Salalah",
-      "url": "https://timesofoman.com//article/174517-moderate-49-magnitude-earthquake-recorded-in-arabian-sea-off-salalah",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-17T17:29:42.000Z"
     },
     {
       "headline": "His Royal Highness Minister of Foreign Affairs Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n holds a phone call with His Excellency Deputy Prime Minister and Minister of Foreign Affairs and Expatriate Affairs in the Hashemite Kingdom of Jordan, Mr. Ayman Al-Safadi.",
