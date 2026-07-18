@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-18T07:33:25.067Z",
+  "updated": "2026-07-18T07:48:22.625Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Bahrain Ministry of Interior activates emergency siren, urges public to head to safe locations",
+      "url": "https://www.wam.ae/en/details/c1a7y2m-bahrain-ministry-interior-activates-emergency",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-18T07:45:59.383Z"
+    },
+    {
+      "headline": "War and unrest - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-18T07:40:10.000Z"
+    },
+    {
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-18T07:33:40.000Z"
+    },
     {
       "headline": "Hazza bin Zayed: Union Pledge Day reinforces values of loyalty, belonging",
       "url": "https://www.wam.ae/en/details/c1a7y2l-hazza-bin-zayed-union-pledge-day-reinforces-values",
@@ -418,16 +448,6 @@
       "date": "2026-07-18T04:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الجيش الأمريكي ينهي ليلة سابعة من الضربات ضد إيران ويعلن إصابة 13 من جنوده"
-    },
-    {
-      "headline": "US strikes hit Iran for seventh consecutive night",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-18T04:40:11.000Z"
     },
     {
       "headline": "Iran targets US bases, drone depot across Jordan, Kuwait, Bahrain",
@@ -1051,6 +1071,16 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-17T23:50:45.000Z"
+    },
+    {
+      "headline": "European indices fell, pressured by technology stocks",
+      "url": "https://www.wam.ae/en/details/17btlcm-european-indices-fell-pressured-technology-stocks",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-17T23:46:12.890Z"
     },
     {
       "headline": "Bahrain: Sounding of warning sirens and we call on citizens and residents to remain calm and head to the nearest safe place",
@@ -2856,42 +2886,6 @@
       "date": "2026-07-17T16:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "اعتذار زعيم حزب كندي عن صورة يثير غضب المؤيدين لإسرائيل"
-    },
-    {
-      "headline": "Police reveal the cause of the orphanage fire in Algiers",
-      "url": "https://www.aljazeera.net/news/2026/7/17/%D9%85%D8%A7%D8%B3-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D9%85%D9%83%D9%8A%D9%81-%D9%87%D9%88%D8%A7%D8%A1-%D9%88%D8%B1%D8%A7%D8%A1-%D9%88%D9%81%D8%A7%D8%A9-11-%D8%B4%D8%AE%D8%B5%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-17T16:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الشرطة تكشف سبب حريق دار الأيتام بالجزائر العاصمة"
-    },
-    {
-      "headline": "How did Sheikh Hamad build Qatar's strategic bridge to China?",
-      "url": "https://www.aljazeera.net/blogs/2026/7/17/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D9%83%D9%8A%D9%81-%D8%A8%D9%86%D9%89-%D8%AC%D8%B3%D8%B1-%D9%82%D8%B7%D8%B1",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-17T16:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كيف بنى الشيخ حمد جسر قطر الإستراتيجي إلى الصين ؟"
-    },
-    {
-      "headline": "Europe eases banking restrictions in response to Trump's measures",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/17/europe-banking-trump-measures",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-17T16:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أوروبا تخفف قيود البنوك ردا على إجراءات ترمب"
     },
     {
       "headline": "Arab Interior Ministers Council condemns the repeated Iranian attacks on #Kuwait, #Bahrain, #Qatar and #Jordan as blatant violation of international law\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3315762\n…\n\n#KUNA",
