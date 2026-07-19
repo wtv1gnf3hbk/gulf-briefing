@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-19T20:01:10.830Z",
+  "updated": "2026-07-19T20:18:31.170Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Aromatic Plants Add Natural Beauty to Home Gardens in Najran",
+      "url": "https://spa.gov.sa/en/N2637389?type=news&uuid=N2637389",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-19T20:16:19.000Z"
+    },
+    {
+      "headline": "KSrelief Distributes 3,500 Cartons of Dates in Hasakah, Syria",
+      "url": "https://spa.gov.sa/en/N2637376?type=news&uuid=N2637376",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-19T20:04:36.000Z"
+    },
+    {
+      "headline": "Gold prices in Saudi Arabia today: 21 karat for 423 riyals",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE90YmhRenJIT0MySk9JdHVDSEkzSl9URXdmRkxhMWx4UUtmTzNiVDhIRlBESmVRUWVocnlsbjFnVGpXcXlkLXJ3?oc=5",
+      "source": "صدى البلد",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-19T20:00:00.000Z",
+      "originalHeadline": "أسعار الذهب في السعودية اليوم .. عيار 21 بـ 423 ريالا"
+    },
     {
       "headline": "Foreign Minister Discusses Regional Developments in Calls with Qatari, Jordanian, Egyptian Counterparts",
       "url": "https://spa.gov.sa/en/N2637372?type=news&uuid=N2637372",
@@ -224,7 +255,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-19T18:44:47.000Z",
-      "originalHeadline": "سر عودة نج�� الأرجنتين إنزو فرنانديز لحذاء مونديال قطر 2022"
+      "originalHeadline": "سر عودة نجم الأرجنتين إنزو فرنانديز لحذاء مونديال قطر 2022"
     },
     {
       "headline": "Jordan, the UAE, and Oman call for stopping the escalation and giving priority to dialogue to end the crisis in the region",
@@ -246,7 +277,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-19T18:40:00.000Z",
-      "originalHeadline": "مصر تدين الاعتداء الإ��راني على المنشآت الحيوية في دولة الكويت"
+      "originalHeadline": "مصر تدين الاعتداء الإيراني على المنشآت الحيوية في دولة الكويت"
     },
     {
       "headline": "Saudi stocks are unique in attracting foreign funds amid a wave of selling on Gulf stock exchanges",
@@ -3154,42 +3185,6 @@
       "date": "2026-07-19T10:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | الدفاعات الكويتية تتصدى لهجمات إيرانية"
-    },
-    {
-      "headline": "The death toll from Ebola in the Democratic Republic of the Congo has risen to 2,267, and deaths to 893.",
-      "url": "https://www.okaz.com.sa/variety/na/2257584",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-19T10:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ارتفاع حصيلة إصابات إيبولا بالكونغو الديمقراطية إلى 2 , 267 والوفيات إلى 893"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | An Israeli incursion into the Syrian countryside of Quneitra",
-      "url": "https://www.alriyadh.com/2198507",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-19T10:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | توغل إسرائيلي في ريف القنيطرة السورية"
-    },
-    {
-      "headline": "An expert warns: The occupation divides the Gaza Strip with iron gates",
-      "url": "https://www.aljazeera.net/politics/2026/7/19/%D8%A7%D9%84%D9%83%D8%A7%D8%AA%D8%A8-%D8%AB%D8%A7%D8%A8%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AE%D8%A7%D9%86-%D9%8A%D9%88%D9%86%D8%B3-%D8%B1%D9%81%D8%AD",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T10:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "خبير يحذر .. الاحتلال يقسم قطاع غزة بالبوابات الحديدية"
     }
   ]
 }
