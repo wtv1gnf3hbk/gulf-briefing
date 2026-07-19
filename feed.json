@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19T06:02:24.106Z",
+  "updated": "2026-07-19T06:17:13.660Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "GCC, EU condemn Iranian attacks, reaffirm freedom of navigation in Strait of Hormuz",
+      "url": "https://www.wam.ae/en/details/17bvqk7-gcc-condemn-iranian-attacks-reaffirm-freedom",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-19T06:12:28.342Z"
+    },
+    {
+      "headline": "Weather Forecast for Sunday",
+      "url": "https://spa.gov.sa/en/N2636856?type=news&uuid=N2636856",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-19T06:04:19.000Z"
+    },
     {
       "headline": "The Ministry of Commerce announces gold trading prices in Kuwait",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONGxvb3MyaXJDN0xDeVBUQnZqZ1pLZWlQNzZIZ3ZnSE04U0s5TWw1UVQ2RHVESFpGMGt1empFc0ljcS0tdUg2RThRWmFoSk9CVTFycFM3Sk04NE04MzlGamhsWnFOeTIwSy1YQTM4UmU4bGh0cjVnT2VsakRGMktDYmVJNExteUNLVHkyZi04Q2FPR0tLbTJWdWRUeVBDekRKOENjWnhyRTI0aTZuTld2bV9ucktTNnhwVmN1dmRkQzc3bGZfcTFqYTVRQk9RMUgxQjBRcC1mV1BfeWV3c1NiZDR0OVl3dTM3OVZYREdyQXBEa21XcHlnSF9YR3R3SVpwdHprSk1ydmNVVlE2NkYxYkh4QlNrdGJadGRBaTVxbEpYTVpvOXpHUWNIUUptQVNoZmxsLVF2amZqT2VqcTJuUDNNLXRfSmRlSEZhVTJ4cW9GQzZPVDNTLUdYZGF2SE5aVGhhYzRORi10OW5J?oc=5",
@@ -22,6 +42,28 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-19T05:27:11.000Z"
+    },
+    {
+      "headline": "MWL Condemns Iran Continued Aggression against Kuwait , Bahrain , and Jordan",
+      "url": "https://english.aawsat.com/gulf/5297588-mwl-condemns-irans-continued-aggression-against-kuwait-bahrain-and-jordan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-19T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Military Launches New Airstrikes to Swiftly Punish Iran for Deaths of US Troops",
+      "url": "https://english.aawsat.com/world/5297587-us-military-launches-new-airstrikes-swiftly-punish-iran-deaths-us-troops",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-19T05:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "The $50 million experiment...this is how Israel works to improve its image in the United States",
@@ -46,28 +88,6 @@
       "date": "2026-07-19T05:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "إيران تجدد قصفها للكويت وواشنطن توسع هجماتها ردا على خسائرها بالأردن"
-    },
-    {
-      "headline": "MWL Condemns Iran Continued Aggression against Kuwait , Bahrain , and Jordan",
-      "url": "https://english.aawsat.com/gulf/5297588-mwl-condemns-irans-continued-aggression-against-kuwait-bahrain-and-jordan",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-19T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Military Launches New Airstrikes to Swiftly Punish Iran for Deaths of US Troops",
-      "url": "https://english.aawsat.com/world/5297587-us-military-launches-new-airstrikes-swiftly-punish-iran-deaths-us-troops",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-19T05:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "US and Iran exchange strikes after two US deaths in Jordan attack",
@@ -2783,30 +2803,6 @@
       "date": "2026-07-18T16:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مفاتيح السيارات .. من معدن بسيط إلى هوية رقمية"
-    },
-    {
-      "headline": "While they were inside a restaurant, 8 soldiers were killed and injured in an attack in eastern Yemen",
-      "url": "https://www.aljazeera.net/news/2026/7/18/%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D9%88%D8%AC%D9%88%D8%AF%D9%87%D9%85-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%B7%D8%B9%D9%85-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-18T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أثناء وجودهم داخل مطعم .. مقتل وإصابة 8 جنود في هجوم شرقي اليمن"
-    },
-    {
-      "headline": "Frequent breakdowns, vast distances, and population pressure...the water crisis is worrying the residents of Aleppo",
-      "url": "https://www.aljazeera.net/news/2026/7/18/%D8%A3%D8%B9%D8%B7%D8%A7%D9%84-%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D9%81%D8%A7%D8%AA-%D8%B4%D8%A7%D8%B3%D8%B9%D8%A9-%D9%88%D8%B6%D8%BA%D8%B7-%D8%B3%D9%83%D8%A7%D9%86%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-18T16:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أعطال متكررة ومسافات شاسعة وضغط سكاني .. أزمة المياه تؤرق سكان حلب"
     },
     {
       "headline": "Hamdan bin Mohammed: On the day of the Union’s Covenant, which coincides with July 18 of every year, we recall the pledge and promise that brought together—may God have mercy on them both—the late Sheikh Zayed bin Sultan Al Nahyan and Sheikh Rashid bin Saeed Al Maktoum and their",
