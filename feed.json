@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T22:03:46.193Z",
+  "updated": "2026-07-20T22:17:45.643Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,18 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-20T21:50:39.000Z"
+    },
+    {
+      "headline": "An atmosphere under test... How did the World Cup reshape American national security?",
+      "url": "https://www.aljazeera.net/news/2026/7/21/%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%83%D9%8A%D9%81-%D8%A3%D8%B9%D8%A7%D8%AF-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T21:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أجواء تحت الاختبار .. كيف أعاد كأس العالم تشكيل الأمن القومي الأمريكي ؟"
     },
     {
       "headline": "Political researcher Dr. Mutlaq Al-Mutairi: The Houthi movements towards Bab al-Mandab are an extension of the Iranian conflict in the region, and far from Yemeni national interests.",
@@ -3158,16 +3170,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-20T13:44:50.000Z"
-    },
-    {
-      "headline": "UAE Team Emirates-XRG's Isaac del Toro rides into White Jersey at Tour de France",
-      "url": "https://www.wam.ae/en/details/c1betru-uae-team-emirates-xrgs-isaac-del-toro-rides-into",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-20T13:42:58.102Z"
     }
   ]
 }
