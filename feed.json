@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-20T11:33:37.820Z",
+  "updated": "2026-07-20T11:47:30.110Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Dubai Chamber of Commerce launches Kenyan Business Council",
+      "url": "https://www.wam.ae/en/details/c1betls-dubai-chamber-commerce-launches-kenyan-business",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-20T11:46:18.832Z"
+    },
+    {
+      "headline": "ADI Chain, Tangem launch co-branded hardware wallets to Virgin Megastores across UAE",
+      "url": "https://www.wam.ae/en/details/c1betlr-adi-chain-tangem-launch-co-branded-hardware",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-20T11:40:19.920Z"
+    },
+    {
+      "headline": "Spain: Emergency crews battle wildfire north of Madrid",
+      "url": "https://timesofoman.com//article/174632-spain-emergency-crews-battle-wildfire-north-of-madrid",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-20T11:37:30.000Z"
+    },
+    {
+      "headline": "Guyana: Dozens feared dead after ferry capsizes",
+      "url": "https://timesofoman.com//article/174631-guyana-dozens-feared-dead-after-ferry-capsizes",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-20T11:32:45.000Z"
+    },
     {
       "headline": "UK: Andy Burnham takes office as seventh PM in 10 years",
       "url": "https://timesofoman.com//article/174630-uk-andy-burnham-takes-office-as-seventh-pm-in-10-years",
@@ -112,6 +152,114 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-20T11:02:43.000Z"
+    },
+    {
+      "headline": "There is no ability to refuse.. Israel is preparing for the arrival of American military planes to Ben Gurion",
+      "url": "https://www.aljazeera.net/news/2026/7/20/%D9%85%D8%B9%D8%B6%D9%84%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لا قدرة على الرفض .. إسرائيل تتهيأ لوصول طائرات عسكرية أمريكية إلى بن غوريون"
+    },
+    {
+      "headline": "Charred buildings.. Ukraine reveals details of one of the largest Russian attacks with ballistic missiles since the start of the war",
+      "url": "https://arabic.cnn.com/world/article/2026/07/20/russia-unleashes-biggest-ballistic-missile-attacks-ukraine-war-kyiv",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مبانٍ متفحمة .. أوكرانيا تكشف تفاصيل واحدة من أكبر الهجمات الروسية بالصواريخ الباليستية منذ بدء الحرب"
+    },
+    {
+      "headline": "Taiwan: China is trying to implement an anaconda blockade strategy to encircle the island",
+      "url": "https://www.aljazeera.net/news/2026/7/20/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تايوان : الصين تحاول تطبيق إستراتيجية حصار الأناكوندا لتطويق الجزيرة"
+    },
+    {
+      "headline": "ECOWAS searches for itself in a time of divisions.. What happened at its summit?",
+      "url": "https://www.aljazeera.net/news/2026/7/20/%D8%A5%D9%8A%D9%83%D9%88%D8%A7%D8%B3-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%B0%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85%D8%A7%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إيكواس تبحث عن ذاتها في زمن الانقسامات .. ماذا جرى في قمتها ؟"
+    },
+    {
+      "headline": "The decline of the Nile in Sudan.. Will the Renaissance Dam fail the first drought tests?",
+      "url": "https://www.aljazeera.net/science/2026/7/20/%D8%A7%D9%86%D8%AD%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%87%D9%84-%D9%8A%D8%B1%D8%B3%D8%A8-%D8%B3%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "انحسار النيل في السودان .. هل يرسب سد النهضة في أول اختبارات الجفاف ؟"
+    },
+    {
+      "headline": "The smell of defeat wafts from Likud.. Has Netanyahu surrendered?",
+      "url": "https://www.aljazeera.net/politics/2026/7/20/%D8%B1%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9-%D8%AA%D9%81%D9%88%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D9%84%D9%8A%D9%83%D9%88%D8%AF-%D9%87%D9%84",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رائحة الهزيمة تفوح من الليكود .. هل استسلم نتنياهو ؟"
+    },
+    {
+      "headline": "The high cost of fuel is suffocating the Lebanese, and there are demands to cancel taxes on diesel",
+      "url": "https://www.aljazeera.net/politics/2026/7/20/%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "غلاء المحروقات يخنق اللبنانيين ومطالبات بإلغاء الضرائب على الديزل"
+    },
+    {
+      "headline": "A barrel of oil exceeds $90, and the dollar is declining due to the escalation of the American-Iran conflict",
+      "url": "https://www.aljazeera.net/ebusiness/2026/7/20/%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-90-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "برميل النفط يتجاوز 90 دولارا والدولار يتراجع جراء تصاعد صراع أمريكا وإيران"
+    },
+    {
+      "headline": "Oil prices jump above $90... and gasoline rises again in America amid tension in the Strait of Hormuz",
+      "url": "https://arabic.cnn.com/world/article/2026/07/20/oil-climbs-above-90-as-tanker-struck-strait-of-hormuz",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-20T11:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أسعار النفط تقفز فوق 90 دولارًا .. والبنزين يرتفع مجددًا في أمريكا وسط التوتر بمضيق هرمز"
     },
     {
       "headline": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
@@ -281,7 +429,7 @@
       "originalHeadline": "من مركز تمنية..\n\n \"فرسان آل ينفع\" يمثلون الفنون الشعبية لمنطقة عسير في المحافل الدولية\n\nعبر مراسل الإخبارية عبد الرحمن الأحمدي"
     },
     {
-      "headline": "A new comment from Trump about the presidential plane gifted by Qatar.. What did he say? - Day seven",
+      "headline": "A new comment from Trump about the presidential plane gifted by Qatar.. What did he say?",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQbDR4aldORmZkRUhPeURoTUltTE1zZ0Q1VmxDWkhiWGVPLVpvN1gzU0FQNHE0S1AzdW9iZUIyRmJTOUNqUE5qVjFjYkJwSWI5ZXNzZldlQjQzZjZ0QWtiX3hpdWtMcThWZVpTUnpDOEJ0cDBZT2tJQklCeUFpb1JlalpLLUl6R2FDVXN1VWNsMmxvUUgyYkZPOGdjbWdTQmliUG9CSkZ2WkJHSE9Vcmhkb3I1MjRhaENBcUJ0Z2tFZUtYMFE0UG9pLTBuYV9aWjZEZUktemdIakkxdTdOck9RakdoRnFaT0E0b05tTU0yS0ZkWmhkSUo2a3VmXzExcWlVM0hMMFdKR0JzdVhqR2JkeEVzdGd4Zk1OMDF3Sm96QjJYTjRIWkg2aG1qWlN5UjNBVHJ0MUZSbDllMWktbXBKZVBoMWQxZm5fSWZaRUlSYVFXYWJSWDZFRVMzamdURGVRSmlLYnNuVko2YWtKZ3A4ajJuSllPMldvdGZfUzdtRldUVGVCQXVpb1lxUzh4aUJkOE9lOVZOUHRNaE84bG5lal93LWdpUU8wU1BkeGlBZUtScjBkSlcxUjk3eTRUc3o4elZ4TmRjRTRjSjhzRlNNSTJyeWxrd9IB0ANBVV95cUxQQll5NHJ3djZEb095YW1WMnFhU3JmNklUSGJoX3k2UWQ4VWhRN2w1cHkySlB4Qk5EWks0bEV3cWduOEVtU3E0Nk9Gcmw4a0p0dldyQTE0R3lnT3dFcGtHV2hGbkZ4ZzZPYTYzVzk3VF9mU053Q1g4bWNENXFibjhON3lURHZaTlpDYjh3QVVGQXZLbUhFbWIyUl9qVHlKcUVLdEhZNUpTYkJxUk9Gb0xPekxCOHNXWEZiWi1BTUQ3aU5La0poMjBMeVFPVjN1NjE0aUxPdFhkeHFIUURkLThUckpVaWJBNEltb0NYdERibVhpaWFZajRCem15dllLaW1Dc2MxOEl3Q2lhWTNINFpBNW5hREVpYnJtVkc0c09XYW1IMHVJclNPS2hhWmY0cE1IREhCUVlsUno3X21zMDJ3cTNYMGxqV0xvbnFxOUlqU2JDbjJpUkRFaG1ncUJjanVxTmctWUxDUkdRaHMzOHN3bGpnREVESDIwNWM0RFJDWXpxWHNrUEF4emktWGhFakRzYjd5WnVmUUVkUHVYUU5nOHBzNUFQM3AybFZGUXoxc29Za0Rtamg4ajYtSjFhZHZDQ3p2alpvNGd4X2ptNFd2TA?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -289,10 +437,10 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-20T10:12:00.000Z",
-      "originalHeadline": "تعليق جديد من ترامب حول الطائرة الرئاسية المهداة من قطر.. ماذا قال؟ - اليوم الس��بع"
+      "originalHeadline": "تعليق جديد من ترامب حول الطائرة الرئاسية المهداة من قطر.. ماذا قال؟"
     },
     {
-      "headline": "Bahrain confronts a new wave of Iranian aggression",
+      "headline": "Bahrain confronts a new wave of Iranian attacks",
       "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOTU5OS21FVnZoNTg1S2djUGRua090blhyY09CWWZ2WlNkTV9BbnI4UlZjMVFScVA0UnYzRnFYWHJyTzc2b1ZMWm5XT2o5bXFKTmg1MTVBVkJnQ3ljQ08yOURxV1IzNUhDTklmQk0zQ0pKRUhrSXZMY0xJMDVzdFA1eUtURWp6YkJnRFphMVFkSkJjMzFZdllWSDkzenJza19xUm5oRWxXQnMxYjRKWGFDaXJ3RTNkQU5QRjAtcncyUmlTOV9wZkpBRlJBRGF1RjUtZVJEVGpYTURyaWVQejByWnlnbU1rWGhva05GVjAzMzdoQlRGbnJRbUUxTS1pZTJVMkZRbW1pbDdTQ2RJSjVpZG8tWEJ1OVlNS1dFd3JxQkdEaEhmY1pfMFNPajJMcmJKbWdPc3ZhbFZ1ejdnQWlQdkVJRHE1TC12SWRHU2tnR01nU1ljSUFiODQ5LVJBSEZXaDU0SlpkdWZZamJhWDk3dWZJODF5QXhrQW5jbTF4Zk1uWEVkb2NQdHAxNndqeVRTS0hCSnRfSDZscExJZkZEbDZxRzlRMXJDX0hUeGpB0gGzA0FVX3lxTFBhbTFUaV80RW9LTi1WdUNGZW9KUlp3U0hqWG5pc0FPTHlmX1dHSUhNTVR6Yk9TN1JteWlLeVMtbFBHVi11Y3pHdi1iT0djX1JxaW5FeW9rZHJzS2U1Ml93OHdlUHNpLV93SW9NUjBLMnM0SjhVclRKTmxNRlY0RmQ2anBWYVlmaWhBMjl4ZENOVXlGeS1WeEpQVHlMel90bzlaMFJGcndXd0FwWUVla0hBcWxlanpyU3V2VUFyVmlNbmtfeFFRUzUtVDhrYXJSdzhoRFU1LS1hdjlRWTNrX1dVam4yRjh1TExQSEFoeTFrSHhkb1lSRTZ6aWp2ZFpaMHFJX2o3Q1pDVjduQW5KdF9PSGJ6SzZoN3N1YzI3ZjdmMXFFeVRtUExvZkFVQXFka3Y0YzlEcE5EbmpfMWpBVjhscTJFam1LZEFadmtaV0F3SVB3RF9FUTY5aWdmaVhxRE1ra1l6alByTWFteTc3Z3BtVkFMQXItTjBuUTBuQlEwVUZXcXNqV1V4S3ctdHFaNXRMQUFKNm1aOVoxa2JrOEZ3V1BlVlpHTENRMVFiRjFFTjBENA?oc=5",
       "source": "سكاي نيوز عربية",
       "sourceId": "google_news_gulf_arabic",
@@ -300,7 +448,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-20T10:10:26.000Z",
-      "originalHeadline": "البحرين تتصدى لموجة جديدة من الاعتداءا�� الإيرانية"
+      "originalHeadline": "البحرين تتصدى لموجة جديدة من الاعتداءات الإيرانية"
     },
     {
       "headline": "#Our_summer_how_we_are \n#SPA",
@@ -726,7 +874,7 @@
       "date": "2026-07-20T08:51:18.000Z"
     },
     {
-      "headline": "Saudi Arabia launches a multi-entry, 90-day residence visa",
+      "headline": "Saudi Arabia launches a multiple-entry visa with a 90-day stay",
       "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPWXREOU9VSUxDd3BSZE1vSGI4VjZlM2xPYXpEQWlxcDdUY2s4OTdUbnBVT0phRWxOSUo5d3pDbjJGa0U5b2VYT1JkbnpvRGdTMGd3UzMyUmJsRUE1OEdPaEdIaGtaX2NUeUthblBGcTRNdlFmX2pYbUxhWmJERVdJWjB6ZmMzdjBtMU04YjBhU0JKeTBfbkROU3RZN3Vrc0JBRVhaSmUxYVhiUlh6MmNMMV9Fb1dtcUROa3NsOFNTWURrbUlOWXRvZlF1Sk9ZdzJPTFd2NzZjdERzaTdFRkhraEE2MkhQVnJhd1NtTWg0X0w5SEtIQzJzODlFR1VfWnNNdjZkS2RkSi1FX2pfQnIxd2hKb05HMGpQX1ZCOHZOZnZ0TUFIUDhkQUFGZjBvYjdYaFpoQ1ExWWUwR3ZPQTdmajl6dnRrWWJlMXdDNkI2WnAyVnF2akdLYXgtTkdoblBsSzVjSS04M3pxTG1rd1ozUWd5OTE3SDVPcTdEMURxVXJDSFVHRHlrazVCdGxQdjNCWW83cTJac0ZEY0hZRms4SVJvWlRnSjhQTmNYbkc5ZTJjWWNvRm1QaE1CX2VtN3cwelRkN2R0TE1lTDVrd3UyS2JCMnBsQm9DRjRKZ0M2RGVjUDdvWkNxb3JCT2FBc2xWbTZ6ODh6RE1xQ2l2TkQtUjZVWXhkdS1kc01kTFJEVURfRXRvbzhyVGpGb1ljZG5oQ0Y2Z0R2VEhRRHozN1VDTnFwWjM3M2hDQUsyTFlFanEtMHYwYi1Xb3BwaUF1RHQzdDF1czYzLWZFT2dEd1poTHhKa2xCd053RVdz0gHwBEFVX3lxTE5keHBRSndZTURjQTVyVk1BdVF5VHJLaW5hWmNUSWt3TWFEcjNNTE9tOEtmV1pTbEQzdmxIcTl5ejlwbkRwc2hPRWFMYjNVbVFqTmsySjRTZm9NN1JSNE1zTjEtQUlhaUtZSlNxaXoyMHN3T2tZc3JtRm1QTmJhU0hqQTJSUGx6MDdqdEtsa1N0T21BN2RQOV9HOEVTOUFiVTdId1dkTGdxazFrUFJKWFBWWUZsLXlCVV9ISHY1RExQYUdqRXF4aE1CcFU1dDJUbGpBQzZEald2a1NvUjJEVmZVTU1NM1VkNmhFVDdUZVlZV0VIQzZNeFAxbjFQN1kxRkhITjRLbHVnYzRnUGZ5M1BSRHdoeENHUFVvSzQ0NENrM2RyMDV1MVVzR1k5X1VyOXBKUS02MmFCRjdpN0VTeTYzOWliUXIxbUJuX0g4a2ZvT1o3RU0wRG51MkRqdmVBenlNNlpGVDFpbGRUSHJ1UGxEWDhCSUY5VFZ6N0VRdEM1OWg2TktRY1V2a3RZNC1UU012bGsxMnh2dzVuWG10cERFUTdXLUQ1YzM1cGpCYU93UXNCSVIydDBOU2pNcm91S3RUOUpGbk1mMlJTMDNaREItbGdDVDFRWVdUVnc5OG5yUjFKVi15TXAyMUJGWUhlTmpPNTdCZFBGUFliWEsyZUVvY3pRMXZmTi15aHo0aEJ5bUJfc01ENE1sSTB1ckg1eEM2WXpicE10QzNNSE1VOEsyZzZrS243WE13eEdWd0FybTNGMWRGTlNBMzFUcXV2NXFPTFNyT3hrRmtTLXV3QW9tV0x2VUpOVXl6YXhiZXV0SA?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
@@ -734,7 +882,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-20T08:51:00.000Z",
-      "originalHeadline": "السعودية تطلق تأشيرة عمر�� متعددة الدخول وإقامة 90 يوماً"
+      "originalHeadline": "السعودية تطلق تأشيرة عم��ة متعددة الدخول وإقامة 90 يوماً"
     },
     {
       "headline": "URGENT\n\nThe statement of the Yemeni Armed Forces regarding the announcement of its important stance will be at exactly 3:00 PM.",
@@ -806,6 +954,17 @@
       "originalHeadline": "البحرين: إيران تواصل نهجها العدائى عبر استهداف المدنيين بالمملكة"
     },
     {
+      "headline": "Off the coast of Oman... targeting a ship that ends with it running aground and the crew being evacuated",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNWTAwZHZnUnRFNUdJelA5cm9KTFEwMWRoT1RNdTAyQzg2Y1p2NWVTRF9lLW1DOEtESHIxUjFfRGhsZnBHNm54T2tSUG5LeUFrM2J6ckRucUFqaHQxRkdVb1JJc2xQbGhlUHFRaWh4MlZEdVkxZ3VpejBYcGVrVUNnMjk4bzlwOWNaTndvVV9uTmVMbnZ1ZUVaLVRhWDU5bWVuZ3g4d1Q3ejJrbWJnUVRlQk5mOGxhbWRHOE0tLThZZkNrSW5sTHNWbFlod1pzM01Oczdmdl9oMGdQZDRlcFVNdEtPVGtiVjhqTDE2Y3pDVjQ4dGVMWlBHcmo3SFhLYjdoZE1fTTZZMTR0UU5JVjV0THNyYVZpZjA2akoxVkRqUzh2dGRBV1BSRTJMclBhdUduOTJYWVJOSXdFaHhURmVmdVdYTkYyZGY4aG4zeThDeXFfZ1kwYUZxVUplS3MxazJkV3VOcWNkZzJHWnZpMFJBRlRVLU1PUWd0eVBvZjNCUy1ielo2MU1aSmtyQ0Q5dnBDRjVqTmhxOFg1TkRoT3dqcEFJWFFva2J4cUtGVkNaa2twUi03ZU1tYzNUYzdpQW5nWGJDM0NhSnBJNTRIY2dST3NaLVBPZ0lSUFIxZFVEN2ZVaFJrTGtpLXpiWGhmdDlfZWfSAfcDQVVfeXFMTXhjVU5sNVoyZ0hFOGdpWFBVTXV6TkllY1JkWWVaUlFyejAzbUU2WU9TMTlRUS1IQVpuN1R4SkZMM3BMLTJjMVM4WW1IWGd5dHFDcmN2Vng0akg3dC10aC1kSk1GX3BraXoxTFIxeWZhdm9yUDVqTEFtOUpCUV9oMW45XzJpUFpIaGd0QUw4Nm16WVJ3Yk9YczBDamNCV0ZJNmRyeFlGX1pDSThRVXhzckNQMkxXbktMdFNBVy1lemZ2UUMwU21QTXQtRUNpal9oWjFUdllCWVZtSFBjNFNYYUExeXQ2RzI2R0dKbXBKYkdJaFNBTl9TekI0cERsNnp3Ry02N2FhM1NZNnZwYzVvcGlvV01aUWlEQ3pjRDRYUFhseDZNQzgtYUE4ejF1OHZvTnBuWDlldlU3Y1BRVS1lNzJnREhHM3QtbGtlNEg5dTVKWE01ajF5V25IUElrSm9GRlBjWG1HdXh5VUtEZG0ybG9qRFFYaTNSNXZqTjVUVUtxTWVWSGxud0VvczhISS0yLVZ1NFRzQmNVYzZ1aUp4SnpjcmNZODI4UnVpY0NRVGZ5MUdlcWgwWG1MOHN6Zl91VXpPOXZkcTNzYUo0Y0pUUUZEU0FsekFBR0l0akZMSzZHeGRaVncyaThRNTgzTU1ubDZCMm1SY1U?oc=5",
+      "source": "سكاي نيوز عربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-20T08:43:51.000Z",
+      "originalHeadline": "قبالة ساحل عُمان.. استهداف سفينة ينتهي بجنوحها وإجلاء الطاقم"
+    },
+    {
       "headline": "5.6-Magnitude Earthquake Strikes Western #Canada \n#QNA\n\nhttps://\nbit.ly/4ywOyAr",
       "url": "https://x.com/QNAEnglish/status/2079123410584543369",
       "source": "Qatar News Agency",
@@ -837,17 +996,6 @@
       "date": "2026-07-20T08:30:49.000Z"
     },
     {
-      "headline": "Critical Minerals Drive Billion - Dollar Saudi - Canadian Partnership",
-      "url": "https://english.aawsat.com/business/5297941-critical-minerals-drive-billion-dollar-saudi-canadian-partnership",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-20T08:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Chinese Rescuers Use Explosives to Clear Boulders Trapping Landslide Victims",
       "url": "https://english.aawsat.com/world/5297979-chinese-rescuers-use-explosives-clear-boulders-trapping-landslide-victims",
       "source": "Asharq al-Awsat (EN)",
@@ -861,6 +1009,17 @@
     {
       "headline": "Ukraine Hits Moscow Region with Drones , Wounding 10",
       "url": "https://english.aawsat.com/world/5297984-ukraine-hits-moscow-region-drones-wounding-10",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-20T08:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Critical Minerals Drive Billion - Dollar Saudi - Canadian Partnership",
+      "url": "https://english.aawsat.com/business/5297941-critical-minerals-drive-billion-dollar-saudi-canadian-partnership",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -944,17 +1103,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-20T08:27:11.498Z"
-    },
-    {
-      "headline": "Off the coast of Oman... targeting a ship that ends with it running aground and the crew being evacuated",
-      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNWTAwZHZnUnRFNUdJelA5cm9KTFEwMWRoT1RNdTAyQzg2Y1p2NWVTRF9lLW1DOEtESHIxUjFfRGhsZnBHNm54T2tSUG5LeUFrM2J6ckRucUFqaHQxRkdVb1JJc2xQbGhlUHFRaWh4MlZEdVkxZ3VpejBYcGVrVUNnMjk4bzlwOWNaTndvVV9uTmVMbnZ1ZUVaLVRhWDU5bWVuZ3g4d1Q3ejJrbWJnUVRlQk5mOGxhbWRHOE0tLThZZkNrSW5sTHNWbFlod1pzM01Oczdmdl9oMGdQZDRlcFVNdEtPVGtiVjhqTDE2Y3pDVjQ4dGVMWlBHcmo3SFhLYjdoZE1fTTZZMTR0UU5JVjV0THNyYVZpZjA2akoxVkRqUzh2dGRBV1BSRTJMclBhdUduOTJYWVJOSXdFaHhURmVmdVdYTkYyZGY4aG4zeThDeXFfZ1kwYUZxVUplS3MxazJkV3VOcWNkZzJHWnZpMFJBRlRVLU1PUWd0eVBvZjNCUy1ielo2MU1aSmtyQ0Q5dnBDRjVqTmhxOFg1TkRoT3dqcEFJWFFva2J4cUtGVkNaa2twUi03ZU1tYzNUYzdpQW5nWGJDM0NhSnBJNTRIY2dST3NaLVBPZ0lSUFIxZFVEN2ZVaFJrTGtpLXpiWGhmdDlfZWc?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-20T08:24:40.000Z",
-      "originalHeadline": "قبالة ساحل عُمان.. استهداف سفينة ينتهي بجنوحها وإجلاء الطاقم"
     },
     {
       "headline": "Saudi Arabia launches a multiple-entry Umrah visa with a validity of one year",
@@ -2579,26 +2727,6 @@
       "date": "2026-07-19T23:25:37.699Z"
     },
     {
-      "headline": "Bahrain activates warning sirens",
-      "url": "https://www.wam.ae/en/details/17bxvo0-bahrain-activates-warning-sirens",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-19T23:25:27.641Z"
-    },
-    {
-      "headline": "Jeddah Islamic Port Introduces 60-Day Logistics Incentive Package to Enhance Supply Chain Competitiveness",
-      "url": "https://spa.gov.sa/en/N2637457?type=news&uuid=N2637457",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-19T23:23:35.000Z"
-    },
-    {
       "headline": "Aala Al-Rashed.. A Passionate Journey Reviving Al-Ahsa's Pottery and Engravings",
       "url": "https://x.com/alekhbariyatv/status/2078983622078447999",
       "source": "Al Ekhbariya TV",
@@ -2619,17 +2747,6 @@
       "date": "2026-07-19T23:16:11.000Z"
     },
     {
-      "headline": "- Saudi Arabia Mubasher Information",
-      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQLWg4ZG93MFItVzEwZjloMkhwMkVZdnNKMGNaQWR5ZldSbWJ2T3Awa2s5RmZXT2Q0YU1ubDdMaUprNGtiYTNzS3VvbzBEcDBkZmRiWDFpNDdyS0JnUzF6a3d1ektWZmg5YXRnZUxJeVZUXzMzYUxTeU5pQWtZSlV2djdseXU5QkpqTHMwYW1NOFBEZkpmZE9POTVyQWkwMW1OcFlieHJLbmZQbWNHOHBSZGVrVmpjRnVyaGVZbVY2bUQ5Wmp1OG1kLVB3aktGamducks1U3dwN2NiTzE1MjgxZGhtdnRmTnZiVUxQZ3lXTG94SjZOTzVqQThGSVU1bFFQOGt3RDdCaU1wSzNCQWpJcDBKSUFsODJCS2M0aWpwb0V3X3VBZjZlYVFPRnJoYVl1NnRqNV91VUpXVmhfeC0xdHNBQlBaTFN6Zm9mdlZRVmdaeGtxNTdZQTBTOE5BTHRIRnQzUVhWNnZqMVpuUkszR01nODRmZGJtZFZ1TEJwZ1F5Wll3d0pTM25FOVpabUpadlpNVGpmTjBUQ2IxUmJnQmRMazAwRkdVUEVQb1dCOEUtUzFVM0FXWGluZ1cycXdTTTFnMDZqSjlZUl9keVVRTEZwRXdqSEtSZUxDcUxfYW50Z3puMVRDSkZkaldVbGs5Ri1wdzRKY21OWmZlZnI4T09seVVoNTgtbGxOTU55N3JBdzlXNFgtMGdJOW8taThmRnRRRi1wOS0?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-19T23:12:50.000Z",
-      "originalHeadline": "\" - معلومات مباشر السعودية"
-    },
-    {
       "headline": "#QNA_Infographic|\nHE Prime Minister and Minister of Foreign Affairs holds phone calls and meet Turkish Foreign Minister \n#QNA #Qatar",
       "url": "https://x.com/QNAEnglish/status/2078980689630781922",
       "source": "Qatar News Agency",
@@ -2638,16 +2755,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-19T23:09:56.000Z"
-    },
-    {
-      "headline": "Greater Sand Plover Highlights Migratory Bird Diversity in Northern Borders Region",
-      "url": "https://spa.gov.sa/en/N2637451?type=news&uuid=N2637451",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-19T23:05:51.000Z"
     },
     {
       "headline": "#Spain defeat #Argentina 1-0 in extra time to claim their second World Cup title, with Ferran Torres scoring the only goal in the game\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3316083\n…\n\n#KUNA",
@@ -2670,17 +2777,6 @@
       "date": "2026-07-19T23:01:48.000Z"
     },
     {
-      "headline": "The Iran war.. How was “Muawiyah’s hair” broken between Tehran and the Gulf states?",
-      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOcWRHOWItMDYzSzhMeGV2M3djc0FWVl9yMU1ocENMSzU4Wm9iZEQ4eHJzdGwxNUFLeV94eXJlRlNwMDJtV0tCanpHTTRDTC0zTDM2bFdMTXM5bVlaZV9QSGRQbVB6UVZTSXR2eTB3MUh1dkYtYVRkRS1qYVRUMGVKeWxtLVJ2dVFOQmpYVjZqUnpsUHpldDJJTklrT2diV2tid1gzWm9pR1ZWa3JNeS1kZU1JVlVPMXJOcTdDWmd1c2ZKMi1INEhEOHlMbU5VeUZHQmVPQm1KdElTZ3UxLVpMTGJnZjNxT2IzLS1RTXRDU3VrRWt0cjlyRWVnOXJuS1JDSVN2X1hGeXkxUFNMeUJLOXczZ1lxUm1nUnJZNWozMmwzQTU3aXYyOEVVSlJmaHhEdkFiMHQ0eDAyTmFGVENMZDhSRmp6ajF3QTdTSHJzaUJha2Z5N2x6U3dURDMwbEVHUzlWck5tVU5aLTd1RlRWMTF2QTM0WTFUcUdKZ3h2amZkUTc5UmgzRHNNeU83RWtUSm1pV3UzazUyMXdrc1JlazBZYVhYcHZUR1BGVmNQN0RoX3R6dFgzcFJCMlRtSzgyR3pvZnM5YXl3X05ORXFfektMLW9xdkFlWmkyaHNOTUtuYlpKX0tFVVd2RHJjMzh0cThJadIB-gNBVV95cUxQRFRERE5CSFZsbjNDendxOVU2S28tclRpOVJXRjdKSXI3WV9RdFpsRWhwRXU4dVNta0YybEVFUGNjMHN1bHlqV2Z6Q2ZKNlVidF9BNmhxellGQ1FKcWxGUWE2cEVRbDIwQzZTd1lSRmRjbkpUZWRubVJNU01YYzdNUVJ2VGVTd0pqNVNIMlpVRjQ1WERKbjVJUmRwSnVaRDVlOFZIWFUwdmNXNXNPTUFKYXVrcWNGWEs3aFpMNkhDb3FFN3ljRGF2TXEzTzdJUXVzQ2hyTGVZWUFiSGZEM21aMzdmaE1SRFFPZmR0Z1YyMWx0RjhrX3gtUWI2UXpIS012RjNGQkFCeV84MUh0Ny04VjlTV09BYXFhWEFpTTdSNFFSNzB0Z2FFYlcxeEVFZnNPTUVrWVFhYmw4Z0xPb2tLWTlzSUMzbFpIMTFOMmNjY2p1VFdBZ1JsbjYybzdhQzc2Sm1kVDdsczVyUlIydy1mZUMxaHVWTzN6TXBDb2U1ME84ZWk4Q2JKZU02Mm1NbjZDQU0yUWlYOXJzNFA4NjZDbWU1T3BXOUZfVHljN01sdW03MnpibF8xUHl2SW9ZV09YbWlETU9jV2hLVWdDLTcwVjQ0RlBQZzdHRHRBRE9uUS0yQU5xWjhwQko0Y0h6aDBEX3A1MHl1VWxEUQ?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-19T22:57:53.000Z",
-      "originalHeadline": "حرب إيران.. كيف انقطعت \"شعرة معاوية\" بين طهران ودول الخليج؟"
-    },
-    {
       "headline": "#Kuwait's armed forces are currently intercepting hostile drones amid the heinous Iranian aggression, according to the General Staff of the Kuwaiti Army\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3316081\n…\n\n#KUNA #KUWAIT",
       "url": "https://x.com/kuna_en/status/2078977505097081062",
       "source": "Kuwait News Agency (KUNA)",
@@ -2701,18 +2797,6 @@
       "date": "2026-07-19T22:52:04.000Z"
     },
     {
-      "headline": "Dengue fever is sweeping Sudanese Damazin... Thousands of infections and efforts to contain the outbreak",
-      "url": "https://www.aljazeera.net/politics/2026/7/20/%D8%AD%D9%85%D9%89-%D8%A7%D9%84%D8%B6%D9%86%D9%83-%D8%AA%D8%AC%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%B2%D9%8A%D9%86-%D8%A2%D9%84%D8%A7%D9%81",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حمى الضنك تجتاح الدمازين السودانية .. آلاف الإصابات وجهود لاحتواء التفشي"
-    },
-    {
       "headline": "Healing in Taif.. A summer destination that combines moderate weather and the charm of mountain views.\n\nhttp://\nspa.gov.sa/ar/w2637434\n#واس",
       "url": "https://x.com/SPAqualitylife/status/2078973529890984390",
       "source": "Saudi Press Agency (Regions)",
@@ -2724,17 +2808,6 @@
       "originalHeadline": "Healing in Taif.. A summer destination that combines moderate weather and the charm of mountain views.\n\nhttp://\nspa.gov.sa/ar/w2637434\n#واس"
     },
     {
-      "headline": "Kuwait: We confront Iranian attacks with drones",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThzbUd4TDNES2w3MTE2TUJuTDBZVEdNdGhHRkVPenlXUFFERnNLQTgxSGVWNWplTDFDaGxNY3Z0bVNTbnRpRzdObnBkREtETDE3eWZxalNQSWN4QWt6dHlDUjNPWTFiTGNUUF9UNzczLU40OHBlMjhIeXVmaGR2akFGMNIBjgFBVV95cUxPQUFSQUxWUTNNS0hPZUN2STdURWUzZWk5RDVQV2kwRXU5S1pkTUU4MXBuZ3F4dFBsaGI4b1ozUks4RkpPZjA0d214amU4VTdrdXExejFuX1dsUTd5N1JCVUhhMnFnMk9MLTd1OEZRNVRYN1dacWtjTEpFUk5DZlNYVkF0c3NnNVpSc1lyeld3?oc=5",
-      "source": "CNN Arabic",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-19T22:35:04.000Z",
-      "originalHeadline": "الكويت: نتصدى لهجمات إيرانية بطائرات مسيّرة"
-    },
-    {
       "headline": "\"The Ring of Fire\" Expands .. Yemen on the \"Fast Track\" .. \"Israel\" Senses \"Tehran's Missiles\" .. It's Approaching!\n\nAnalytical Paragraph - Khalil Nasrallah\n\n\nhttps://\nyoutu.be/Eqj91jHb2Ss?si\n=DT_cE7MXqFNXl7LO\n…\n\nPlease, Not an Order: Subscribe to Al-Waqe' Channel Subscribe",
       "url": "https://x.com/khalilnasrallah/status/2078971095785369816",
       "source": "Nasruddin Amer",
@@ -2743,78 +2816,6 @@
       "country": "Yemen",
       "language": "en",
       "date": "2026-07-19T22:31:49.000Z"
-    },
-    {
-      "headline": "Gaza is out of the headlines... 4 paths by which Israel continues the war despite the ceasefire",
-      "url": "https://www.aljazeera.net/news/2026/7/19/%D8%BA%D8%B2%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%88%D9%8A%D9%86-4-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D9%87%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "غزة خارج العناوين .. 4 مسارات تواصل بها إسرائيل الحرب رغم وقف إطلاق النار"
-    },
-    {
-      "headline": "Where do the destructive tendencies of the soul lie?",
-      "url": "https://www.aljazeera.net/blogs/2026/7/19/%D8%A3%D9%8A%D9%86-%D8%AA%D9%83%D9%85%D9%86-%D9%86%D9%88%D8%A7%D8%B2%D8%B9-%D8%A7%D9%84%D9%86%D9%81%D8%B3-%D8%A7%D9%84%D9%85%D9%87%D9%84%D9%83%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أين تكمن نوازع النفس المهلكة ؟"
-    },
-    {
-      "headline": "When he talks about illness, people think he is a genie!",
-      "url": "https://www.aljazeera.net/blogs/2026/7/19/%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%85%D8%B1%D8%B6-%D9%81%D9%8A%D8%B8%D9%86%D9%87-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D8%AC%D9%86%D9%8A%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عندما يتحدث المرض فيظنه الناس جنيا !"
-    },
-    {
-      "headline": "Israel threatens Iran with an independent and strong response and indicates an imminent military escalation",
-      "url": "https://www.aljazeera.net/news/2026/7/19/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%AF-%D9%85%D8%B3%D8%AA%D9%82%D9%84-%D9%88%D9%82%D9%88%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إسرائيل تتوعد إيران برد مستقل وقوي ومؤشرات على تصعيد عسكري وشيك"
-    },
-    {
-      "headline": "What does the map of targets struck by the United States in southern Iran say? | news",
-      "url": "https://www.aljazeera.net/news/2026/7/19/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%82%D9%88%D9%84-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B6%D8%B1%D8%A8%D8%AA%D9%87%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ماذا تقول خريطة الأهداف التي ضربتها الولايات المتحدة في جنوب إيران ؟ | أخبار"
-    },
-    {
-      "headline": "The gate that my son drew thirty times",
-      "url": "https://www.aljazeera.net/blogs/2026/7/19/%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B1%D8%B3%D9%85%D9%87%D8%A7-%D8%A7%D8%A8%D9%86%D9%8A-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86-%D9%85%D8%B1%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-19T22:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "البوابة التي رسمها ابني ثلاثين مرة"
     },
     {
       "headline": "Statement issued by the Ministry of Defense\n\n#CGCKuwait",
