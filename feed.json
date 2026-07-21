@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-21T14:48:52.558Z",
+  "updated": "2026-07-21T15:04:12.535Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Bahrain's air defence systems intercept Iranian attacks",
+      "url": "https://www.wam.ae/en/details/c1c09gg-bahrains-air-defence-systems-intercept-iranian",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T14:52:43.627Z"
+    },
     {
       "headline": "Kuwait Condemns Houthi Statements against Saudi Arabia",
       "url": "https://spa.gov.sa/en/N2638669?type=news&uuid=N2638669",
@@ -11,6 +21,26 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-21T14:48:04.000Z"
+    },
+    {
+      "headline": "Israeli air strike in Gaza City kills family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T14:47:41.000Z"
+    },
+    {
+      "headline": "Why Iran is risking so much over the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T14:36:47.000Z"
     },
     {
       "headline": "Saudi crude tankers turn back as Houthis open new front in US-Iran war - Reuters",
@@ -103,6 +133,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-21T14:00:28.512Z"
+    },
+    {
+      "headline": "Weve been desperate for someone to take on Donald Trump . Who knew it would be Coldplay Chris Martin ? | Simon Price",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/21/coldplay-chris-martin-world-cup-trump-infantino-half-time-show",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-21T14:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Dubai Municipality leverages AI to deliver rapid testing of household water quality",
@@ -1041,6 +1082,17 @@
       "date": "2026-07-21T11:16:43.000Z"
     },
     {
+      "headline": "First Thing : Trump urged to end Iran escalation as US deaths and injuries rise",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/first-thing-trump-iran-injured-service-members",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-21T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Why did General Traoré launch a battle with the Islamic community in Burkina Faso?",
       "url": "https://www.aljazeera.net/news/2026/7/21/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D8%AA%D8%AD-%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D9%8A-%D8%AC%D8%A8%D9%87%D8%A9-%D8%AA%D8%B5%D8%A7%D8%AF%D9%85-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
       "source": "Al Jazeera Arabic",
@@ -1147,17 +1199,6 @@
       "date": "2026-07-21T11:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "من مبنى قائم إلى ركام وأرض خالية .. كيف محت إسرائيل مقر الأونروا في القدس ؟"
-    },
-    {
-      "headline": "First Thing : Trump urged to end Iran escalation as US deaths and injuries rise",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/first-thing-trump-iran-injured-service-members",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-21T11:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "For the fourth day.. Water and electricity stations in Kuwait were subjected to Iranian attacks",
@@ -2148,17 +2189,6 @@
       "date": "2026-07-21T08:35:25.000Z"
     },
     {
-      "headline": "The Houthis impose a maritime embargo on Saudi Arabia and threaten navigation in the Red Sea",
-      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxOTWo0bTdpOU4zZ3JKaDVFQXczUzZ0VFhFMWRZVVNtMFo2bk5MSE92WDhqLWpSOThSNzhteEFxb0N5b3JSMl9BOHZlVzRfNEg3VmsyU1NsTXFqd0RBSE1Lb2RUVWstQ292T3QwSk5VdUxQS0lGWmd3blZ0OXlxYTljUHRWMDZnU2hvUVNfYzNqZU9XUmZkVDg0S2VxTnZGeENTaVptZXhFaW5JTmVXaHIyS1R2WTBPMVZNaWhQcUhVeVhQTEp4OWduZWxRZGJ0ZWo1eFFSd3NycUNuS3hoNFZvelpuT1pCVzROdjY0UGxiMDR3TWkwMlI1dnVFUEF4ZzdBbTFUZFRfb1pEaWxUN2VIWVNSSXF6ZE52V3YtV04xX1Bzc0I2TlFwSHRMb3phWGpNdTQ0SHJ4a191Y1lTWWRmZDg2YjRGQWdyZlZBQ3U5UVlJMVdxaV9LMGF3X0ZhNmg0Mkp0VWlWelVMbXNCaWx6NVJMdm4wVlpDMGV3N1Q3aVVSMWozNkVTX2syS2k2d0F4RGdiTkZYY29PUVk1VUM5cDZYTzBDQ1ZMb0IycWNlSlZJeUFLSDVCYTh5NzEzb1c0SXVDOHdDQ2VWdFMwWE1ULTZQNDNlUDUwWnhDS19UUlhuelFuLTZvVU5pOGl2YXl3MmFCSWlHNDhlQVFaaXJNVlBzeUJfVjZHY1IzckNLZ1VLOU5SODAxMURhbmVlVzlXNk1kQkl5VElPSV92c2NlZlFnRnJFWXNfUmUxV2VlZkRrSXoxTG9ZUndNQ3VTYzlRa1p4d0JnOVZFT0RzYzB4aTJUc0JGNk1xUlRpNg?oc=5",
-      "source": "France 24",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T08:31:33.000Z",
-      "originalHeadline": "الحوثيون يفرضون حظرا بحريا على السعودية ويهددون الملاحة في البحر الأحمر"
-    },
-    {
       "headline": "Foreign Minister receives telephone call from Saudi counterpart\n\n\nhttps://\ntinyurl.com/2aevk9xp",
       "url": "https://x.com/bna_en/status/2079483950800515135",
       "source": "Bahrain News Agency",
@@ -2199,16 +2229,6 @@
       "date": "2026-07-21T08:25:48.000Z"
     },
     {
-      "headline": "Cleveland Clinic Abu Dhabi introduces remote monitoring implant for predictive heart failure care",
-      "url": "https://www.wam.ae/en/details/c1c08yo-cleveland-clinic-abu-dhabi-introduces-remote",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-21T08:20:18.826Z"
-    },
-    {
       "headline": "#Kuwait oil price up USD 2.58 to USD 84.83 pb - #KPC\n\n\nhttp://\now.ly/yn2I30sXkIz\n\n#KUNA",
       "url": "https://x.com/kuna_en/status/2079480603360030874",
       "source": "Kuwait News Agency (KUNA)",
@@ -2230,17 +2250,6 @@
       "originalHeadline": "With the participation of 4600 male and female students.. The General Directorate of Scouts and Guides implements a package of student summer programs and activities for the year 2026.\n\n\nhttps://\n2u.pw/p03lue\n\n#نشرة_الشباب_والرياضة\n#العُمانية"
     },
     {
-      "headline": "Qatar condemns the Houthis' statements regarding accusing Saudi Arabia of blockading Yemen",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xOXoyUUFaY0Q2Tzd5Sl8wcnJZeVZGT3ZpRHQ1R251VHhURVRIcW02QnRndEpoLWRrS0U3X2d0SUU5ZFZZYS1VUk5TQTN4bndMSW8zTkMxRTQzd01HdVpicUtGUHV2bUdDVGRRUHdjONIBdEFVX3lxTE40bDRNa09PYzBjb19pd3ZjMmVzblBDWkFFQ0lBbnhQbWdMQzBiNVZ1cmJUczl4cko4Nmx5QzlGWTh1YXFwakQtdWRjYzF3NjJxODk3VF9acUNtTTJEYjd4S1pnck42RzVZTXVPc0xxRGFLNmRG?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T08:09:27.000Z",
-      "originalHeadline": "قطر تدين تصريحات الحوثيين بشأن اتهام السعودية بحصار اليمن"
-    },
-    {
       "headline": "The Youth Center launches a new package of in-person and virtual summer programs aimed at developing the skills of young people, nurturing their abilities and talents in line with their interests and aspirations.\n\n\nhttps://\n2u.pw/tzUOTu\n\n#نشرة_الشباب_والرياضة\n#العُمانية",
       "url": "https://x.com/OmanNewsAgency/status/2079478509140115914",
       "source": "Oman News Agency (Arabic)",
@@ -2250,16 +2259,6 @@
       "language": "ar",
       "date": "2026-07-21T08:08:06.000Z",
       "originalHeadline": "The Youth Center launches a new package of in-person and virtual summer programs aimed at developing the skills of young people, nurturing their abilities and talents in line with their interests and aspirations.\n\n\nhttps://\n2u.pw/tzUOTu\n\n#نشرة_الشباب_والرياضة\n#العُمانية"
-    },
-    {
-      "headline": "Ski enthusiasts flock to sub-Saharan Africa and a snowy mountain resort in Lesotho - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1SeUNBbEFyWDNwbGFtT3FFRlZ1em9rNDhUSDlocU40c1hDZnBfN1VpRU5FZjljT21sdTJTYXRLLVI4Q1pNaUtLblFJLS04NXJwQjc5WWtONzJoUHRVQjQ2YlAtRjRGOEFOSHh2Q0pNMWZ5SElKZjRpUl9QbmdGYUxLSUtzM2EzNzZwMk4tWDZOdGYxa0FlRFZGdFJ4RV9PaVE?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-21T08:08:00.000Z"
     },
     {
       "headline": "DP World, EBRD sign €25 million green loan for Constanța Terminal\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1c08vv",
