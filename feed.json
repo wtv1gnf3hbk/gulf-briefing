@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-21T05:48:53.781Z",
+  "updated": "2026-07-21T06:04:12.150Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "ADNOC accelerates gas growth strategy with $6.2 billion FID for Umm Shaif Gas Cap",
+      "url": "https://www.wam.ae/en/details/17c00vu-adnoc-accelerates-gas-growth-strategy-with-62",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T06:02:35.333Z"
+    },
+    {
+      "headline": "Iranian Revolutionary Guard: Targeting US Amazon infrastructure in Bahrain",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zWlFORy1VZndlVXA3U1VYVWNoSjV0SDNmcWZnMWlRLUUzZXppdkRrb1lGZWNlU1BCVEltdm9nZDFURkQxaEoxTWRHMUpBYUtQWlFVU0tITllVTVVPeFMtdXdock1JRzBMSkZKeGRUZ0JqZTh0c19IQ0xTQQ?oc=5",
+      "source": "Reuters",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T05:53:00.000Z",
+      "originalHeadline": "الحرس الثوري الإيراني: استهداف بنية تحتية لأمازون الأمريكية في البحرين"
+    },
+    {
+      "headline": "Oil prices dip on Tuesday",
+      "url": "https://www.wam.ae/en/details/17c00vj-oil-prices-dip-tuesday",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T05:49:17.535Z"
+    },
     {
       "headline": "Cummins, Hazlewood, Lyon return as Australia name 13-man squad for Bangladesh Tests",
       "url": "https://timesofoman.com//article/174661-cummins-hazlewood-lyon-return-as-australia-name-13-man-squad-for-bangladesh-tests",
@@ -42,42 +73,6 @@
       "language": "ar",
       "date": "2026-07-21T05:29:58.000Z",
       "originalHeadline": "قطر: استئناف الملاحة لجميع أنواع الوسائط والسفن ضمن نطاق 7 أميال بحرية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The National Debt Management Center completes the arrangement of a local early repo operation for the Kingdom",
-      "url": "https://www.alriyadh.com/2198760",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T05:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | المركز الوطني لإدارة الدين يكمل ترتيب عملية إعادة شراء مبكر محلية للمملكة"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The new British Prime Minister announces the formation of his government",
-      "url": "https://www.alriyadh.com/2198761",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T05:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | رئيس الوزراء البريطاني الجديد يعلن تشكيل حكومته"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Bahrain condemns the repeated Iranian attacks on Kuwait and Jordan",
-      "url": "https://www.alriyadh.com/2198765",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T05:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | البحرين تُدين الاعتداءات الإيرانية المتكررة على الكويت والأردن"
     },
     {
       "headline": "Spain's victory over Argentina is a symbolic victory for Palestine policy",
@@ -126,6 +121,42 @@
       "date": "2026-07-21T05:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | تراجع أسعار الذهب مع ارتفاع الدولار وعوائد السندات الأمريكية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The National Debt Management Center completes the arrangement of a local early repo operation for the Kingdom",
+      "url": "https://www.alriyadh.com/2198760",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المركز الوطني لإدارة الدين يكمل ترتيب عملية إعادة شراء مبكر محلية للمملكة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The new British Prime Minister announces the formation of his government",
+      "url": "https://www.alriyadh.com/2198761",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | رئيس الوزراء البريطاني الجديد يعلن تشكيل حكومته"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Bahrain condemns the repeated Iranian attacks on Kuwait and Jordan",
+      "url": "https://www.alriyadh.com/2198765",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | البحرين تُدين الاعتداءات الإيرانية المتكررة على الكويت والأردن"
     },
     {
       "headline": "Gold prices in Qatar stabilize as markets continue to await the US Federal Reserve’s decisions",
@@ -279,30 +310,6 @@
       "originalHeadline": "بين شروق الشمس وهمسات دعاء الطائفين.. مشاهد تفيض بالطمأنينة"
     },
     {
-      "headline": "France denounces the intimidation of two of its diplomats in Iran and vows to respond",
-      "url": "https://www.aljazeera.net/news/2026/7/21/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D9%86%D8%AF%D8%AF-%D8%A8%D9%80%D8%AA%D8%B1%D9%87%D9%8A%D8%A8-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%85%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-21T04:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "فرنسا تندد بـ ترهيب اثنين من دبلوماسييها في إيران وتتوعد بالرد"
-    },
-    {
-      "headline": "Football success and political controversy.. How did the 2026 World Cup redraw the image of America?",
-      "url": "https://www.aljazeera.net/politics/2026/7/21/%D9%86%D8%AC%D8%A7%D8%AD-%D9%83%D8%B1%D9%88%D9%8A-%D9%88%D8%AC%D8%AF%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%B9%D8%A7%D8%AF-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-21T04:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نجاح كروي وجدل سياسي .. كيف أعاد مونديال 2026 رسم صورة ��مريكا ؟"
-    },
-    {
       "headline": "The President of Colombia calls for preserving the legacy of his government and renews accusations against Israel and America",
       "url": "https://www.aljazeera.net/news/2026/7/21/%D8%A8%D9%8A%D8%AA%D8%B1%D9%88-%D9%8A%D8%AA%D9%87%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
       "source": "Al Jazeera Arabic",
@@ -325,6 +332,30 @@
       "date": "2026-07-21T04:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بيرنهام يكشف تشكيلة حكومته ويعرض أولويات داونينغ ستريت"
+    },
+    {
+      "headline": "France denounces the intimidation of two of its diplomats in Iran and vows to respond",
+      "url": "https://www.aljazeera.net/news/2026/7/21/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D9%86%D8%AF%D8%AF-%D8%A8%D9%80%D8%AA%D8%B1%D9%87%D9%8A%D8%A8-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%85%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-21T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "فرنسا تندد بـ ترهيب اثنين من دبلوماسييها في إيران وتتوعد بالرد"
+    },
+    {
+      "headline": "Football success and political controversy... How did the 2026 World Cup redraw the image of America?",
+      "url": "https://www.aljazeera.net/politics/2026/7/21/%D9%86%D8%AC%D8%A7%D8%AD-%D9%83%D8%B1%D9%88%D9%8A-%D9%88%D8%AC%D8%AF%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%B9%D8%A7%D8%AF-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-21T04:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نجاح كروي وجدل سياسي .. كيف أعاد مونديال 2026 رسم صورة أمريكا ؟"
     },
     {
       "headline": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes - AP News",
@@ -462,7 +493,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T02:29:06.000Z",
-      "originalHeadline": "الغذاء يصل والسلاح ممنوع.. كيف ��دّت السعودية على إعلان الحوثيين حظر الملاحة؟"
+      "originalHeadline": "الغذاء يصل والسلاح ممنوع.. كيف ردّت السعودية على إعلان الحوثيين حظر الملاحة؟"
     },
     {
       "headline": "US soldiers killed by Iran were from Texas and Hawaii, military says - AP News",
@@ -1210,7 +1241,7 @@
       "date": "2026-07-20T23:33:40.000Z"
     },
     {
-      "headline": "Saudi Arabia denounces the Houthis’ announcement of a ban on maritime navigation and pledges to protect its ships",
+      "headline": "Saudi Arabia denounces the Houthis' announcement of a ban on maritime navigation and pledges to protect its ships",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaW9POWwxSjdFdGp3WkQ5NWIwUmtVVG1TbnNuNkwtMm1kQVhiREpObWlXU2dFMVdEMjhUdUFvVG9tSm5uUThLRGpSVXkyVHNOemlpNWkwbTU0QVdwTTQ3VEEtajIyUWlPX2lNSHlTTFdDVVhuNUhsQUd6MWZHZHlrUUhmRnFDdEppa1NuM1J2b1NxUDFKZHBoZFBJRFExWW5TVEFqT1g2a2lkTk1NTE5sT0hCQmktZWV6X2tnWExvUjIxVVR0OXlvLXJmTEVqNUtObkEyaUZlZ1NtcENsSmN1WWJrT0V4N1JwNE44UDRyRnBteTlfOFlNVmFBMG1FZDZya24yX21hOXh2bzlhQ1VyR3FiMTNRQW54TVVLSUtxQS1sNVlFN1RRbmpwMU9RSl9tUzBWV0dGSmh5MkNsYkNFTnZJWVBaeDdWT1HSAc8CQVVfeXFMT21BVGNtUDR3Y1I3WmtUWG1NdzhRc0t3ejBJbURhV2JOVXM2TG4yaDdpLVdnZE1YOE12djFoWFBFUTFGUERoTGFIenlvYVc5ZTM2Mk5BS2lHd3FJMzBXZ3FudlJhZUY3N0V3cTRvT2RiNlNIOUxyQkY2dFFNaGZXcXpQb2pWdVhxOEdZSnVIZHFYdlFSdktINEdtVHNuNVBacDFaTGZGUFFabVVEVEcxb1dOU2JObHNmSUoyVkhpWTdkZ0R4NVJZX250NlpLMW1XRHFBOW94TjhKZlVKNWJTTEl2QldWaklfT0Z0cTQzeTFJQzQteE1tYmVEdkxxUnRYM2NGdXYxa0R4bHRzdU45d25TekZRaG1oNHdCMGp3dlFDTHlmOEt4c3NwRFE2SlRWQUNtRGVVZThSdFNnTFRLWXB3UlE2d0RyaFJVZGRQMkU?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -1218,7 +1249,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-20T23:24:22.000Z",
-      "originalHeadline": "السع��دية تندد بإعلان الحوثيين حظر الملاحة البحرية وتتعهد بحماية سفنها"
+      "originalHeadline": "السعودية تندد بإعلان الحوثيين حظر الملاحة البحرية وتتعهد بحماية سفنها"
     },
     {
       "headline": "Qatar notifies the United Nations and the Security Council of developments in the Iranian attack on its territory",
@@ -2782,38 +2813,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-20T17:50:34.000Z"
-    },
-    {
-      "headline": "An unknown projectile hits a ship near the coast of the Emirates",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPbXJNd3lFV3dXWUMyeWxFbzFza3dMV2JoMUtTMTdsNnMyRG12M0VYU0tlSXRXN0lndmVIcWxZbDlnTklJMTRnYldKYkJrSGhKM0hNVXgxaFFlVzF2Y2RoZkdKWmlJOFpvbzBvT3hmYjRWWHlOZXR5RzRZQWhFNV9QdkFMR3VzTWdzbllvd2JURkJjVkc1cW9QMXBCZjZaaFE4S3d3MDRLcER2UDZmUDNIdXQ0c1RpTXlXN29CU3gtV0JBQkIyRXlWdVZYa2pSQWc2UDVWNWVwMlh3eHpGREdjQ05aeC1nZmlVWFg2MnFsc3B5MHJNaV81TWlxbWtWaVF1NzhGQUhMSmR1akp1ejZUX1pLc21uMnh4T09mRE9nSUxra1k0Sk9uVHdQM2xmT0NNbWJaWnd0N1Vxc3U0OHlBUERqSVROOWRheTdROXpXTmkyYXMxQ29FM2FNMFVLbHhqMUFfeWZpYTVwQnluMXZnZmwwcjI1MEZtV1h1bkR3RzEyUnAxeWxnWExVaGxrREhxLW1QOFlVc3JYZGZDVXEyN1oxbGRINkVKVnBV?oc=5",
-      "source": "alghad.tv",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-20T17:49:21.000Z",
-      "originalHeadline": "مقذوف مجهول يصيب سفينة قرب سواحل الإمارات"
-    },
-    {
-      "headline": "Dubai Police advance future ready infrastructure with 88 logistics projects",
-      "url": "https://www.wam.ae/en/details/c1beu3i-dubai-police-advance-future-ready-infrastructure",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-20T17:47:55.237Z"
-    },
-    {
-      "headline": "Bahrain Says Iran Targeted Air Navigation Systems , Traffic Unaffected",
-      "url": "https://english.aawsat.com/gulf/5298187-bahrain-says-iran-targeted-air-navigation-systems-traffic-unaffected",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-20T17:45:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Live Broadcast | March in Al-Sab'een Square in the capital Sana'a, blessing the decision of the Armed Forces to ban navigation on the Saudi enemy and declaring readiness",
