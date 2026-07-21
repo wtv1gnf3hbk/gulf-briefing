@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21T19:17:45.319Z",
+  "updated": "2026-07-21T19:34:02.167Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Foreign Minister Discusses Regional Issues with Ethiopian Counterpart",
+      "url": "https://spa.gov.sa/en/N2638863?type=news&uuid=N2638863",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-21T19:28:05.000Z"
+    },
+    {
+      "headline": "French lawmakers approve social media ban for children",
+      "url": "https://www.wam.ae/en/details/c1c09uu-french-lawmakers-approve-social-media-ban-for",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T19:16:55.171Z"
+    },
     {
       "headline": "Etihad Airways, Abra Group establish strategic partnership to strengthen connectivity between Latin America, ME, key global markets",
       "url": "https://www.wam.ae/en/details/c1c09ut-etihad-airways-abra-group-establish-strategic",
@@ -136,6 +156,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-21T18:06:25.000Z"
+    },
+    {
+      "headline": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T18:05:41.000Z"
     },
     {
       "headline": "Mubadala and Embraer sign a strategic agreement to enhance the aviation industry in the UAE",
@@ -284,16 +314,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-21T17:14:50.272Z"
-    },
-    {
-      "headline": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-21T17:14:28.000Z"
     },
     {
       "headline": "Kuwait lodges formal protest with Iran over tanker attack; ministry says power station fires contained",
@@ -478,18 +498,6 @@
       "originalHeadline": "الكويت تستدعي السفير الإيراني بعد استهداف ناقلة نفط"
     },
     {
-      "headline": "The mediators' 10-day truce plan at the same time as America prepares for the possible expansion of attacks on Iran",
-      "url": "https://www.bbc.com/persian/articles/c998x4mk01go",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-21T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "طرح آتش‌بس ۱۰ روزه میانجی‌ها همزمان با آماده شدن آمریکا برای گسترش احتمالی حملات به ایران"
-    },
-    {
       "headline": "The Lebanese army enters Zawtar al-Gharbiya... Map of destruction in the towns of the pilot phase of the framework agreement",
       "url": "https://www.aljazeera.net/news/2026/7/21/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B2%D9%88%D8%B7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
       "source": "Al Jazeera Arabic",
@@ -658,6 +666,18 @@
       "originalHeadline": "تايتان .. عالم الأنهار والبحار الميثانية الذي يشبه الأرض ويخالفها في كل شيء"
     },
     {
+      "headline": "The mediators' 10-day truce plan at the same time as America prepares for the possible expansion of attacks on Iran",
+      "url": "https://www.bbc.com/persian/articles/c998x4mk01go",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-21T16:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "طرح آتش‌بس ۱۰ روزه میانجی‌ها همزمان با آماده شدن آمریکا برای گسترش احتمالی حملات به ایران"
+    },
+    {
       "headline": "Bahrain Condemns Houthi Militia Military Spokesperson's Statements against Saudi Arabia",
       "url": "https://spa.gov.sa/en/N2638744?type=news&uuid=N2638744",
       "source": "Saudi Press Agency",
@@ -759,7 +779,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T16:05:58.000Z",
-      "originalHeadline": "ترامب يعلق لأول مرة على تهديد الحوثي بحظر حركة السفن السعودية"
+      "originalHeadline": "ترامب يعلق لأول مرة على ته��يد الحوثي بحظر حركة السفن السعودية"
     },
     {
       "headline": "A blast in a tunnel at an Indian hydropower project leaves 12 dead and 13 missing - AP News",
@@ -2474,27 +2494,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-21T12:37:02.000Z"
-    },
-    {
-      "headline": "ZATCA Urges Establishments to Submit VAT Returns for June, Q2 2026",
-      "url": "https://spa.gov.sa/en/N2638558?type=news&uuid=N2638558",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T12:36:16.000Z"
-    },
-    {
-      "headline": "Kuwait: Several power generation and water distillation plants were subjected to Iranian attacks",
-      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOc1RLY0h5X2hIbl9ZMDlJMVpzV1ZXM1ZmQWEzeDFqMmdxOHVhSDJjbG5yZW1FRkoxcHR1eHMwWWZLWG1UMmpFdjljZ1dSTWl6RGdjZ2pRX3Jyb3Bpb3lZNV9telQ0d2pRUGhkWUVOWnIteXRrZUM5eTNzbjNMXzlWdU04d2xsUWxkMTI1ZktHVmVnX29FR0VId3BSRzdPRlJ4SEdCS2YwTlB2V3l6RERjZHhLeVB6cVZDNmdoRmMxWUZxOGtQankzYWdyUGYwc1hqNjdBTzl6T201QnB0NU9TWVRHbHJ0NGYtbkN1LUQwd3kySXhuZzZORWI0M3l6VS03S0lvME4zbDJudjUxTzZkN2t1WFpqWVBYenpEOU1tU1ZOcldMb25NWFhMYm55aUctUjE4ZVg0OUJPd1Rpek80ZEFUQmx4ZE9WNGpCTXdjcjRZRjA2eEhvN2UwTXNGbnVkTjN5VXpxTHlNQkF4Zk90U0h0dXNnTHpxZ1NLRVFTVVItcTVvcFVYZzRtTTMxM0pscFItaWxtNGdfOHI5QXlIOWJzNWNtSm5oc18tcU0zTl9LYjF3VDlnNGYtQ2hOOFJwN2Z6QVY3Nzl1dFNVUzNxLWEtLWk3QUJ6OEV2QXRKTUpjQmR0YjlxY0ZBWkNhb2gzQTZhaDBuVmNta1cyQ1lSbms3RUFjYWNJeVZMZFNXa2NZbVQ2OGhQdWVKaGlkd9IBmARBVV95cUxPZE5nLVRPQVVoNTZrdkUxN0Z0RjVnWW11dzlqOVA4WVhFUnl3T0diWFV6MTJldHRTTUFnLVdrTDFwMHBKeHpqZUktZk5yWFZXeDk0ZDhWc2h2aUE3Y0U1OXY3ckxtMDhMVndic0FTQm95azBMTlVKQTY3MXpZSVdBQWNNU1R3VldnSW1iaDVZWXBZSGxmeHFuTm9sdWw3ZkppQVY4N1VHaWt4ZWVyVDBIaE0zbF9mSVllQ2wxdmlLTk9xXzd5REJCcWIwVkdLMW5ndDF2RHVNd09nZXlaS3dJRENtcUUzOTl0dllSdDNZd2ozMERBTkxYRzVGZG82bmdpWWw1UzBYZ2N1SHVfZFI4Z1puTFZHMW8zQkMwbXBRRzRFakN3UHkxTE5NVXhodVVpOHlidDhUNTdHdjFuZEczMkJCQWFWaUtoVTRGWDhCVHNLT0p6ZnNoV3NOUW1ZcHNKR1RFcTFjS1JISllWQmpzdnlUU1dpdU5lNlFVTHNDY3Z5a1pjYW5hV0NhYU1ZYTJycXlmYmtXQXlka1BJeGg1eElBZjV6WVk2LV8tZVhIXzJkU2FJeFQ4cTdpd2h5MDVnMENkcGd0VVNEaU9aMDU4RURBNU9TUVhxaDhVNDh4dVcxQkJ1OTV1Y2NFald0YTFLR1A5bHZfMkV2cnlRQmVYV1ZnX3h0cEs5RExKOWFWZkQwLV9BRU12NQ?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T12:36:00.000Z",
-      "originalHeadline": "الكويت: تعرض عدة محطات لتوليد الطاقة وتقطير المياه لهجمات إيرانية"
     },
     {
       "headline": "The Sultanate of #Oman and the European Union #EU sign an agreement for the establishment of a diplomatic mission of the European Union in Oman. The move represents an institutional framework through which both sides will advance their shared interests, thereby contributing to",
