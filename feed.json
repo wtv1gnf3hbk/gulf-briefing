@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T06:47:48.043Z",
+  "updated": "2026-07-21T07:03:01.167Z",
   "itemCount": 300,
   "items": [
     {
@@ -95,7 +95,7 @@
       "date": "2026-07-21T06:04:20.000Z"
     },
     {
-      "headline": "The Houthis announce a naval blockade of Saudi Arabia.. What are the risks?",
+      "headline": "The Houthis declare a naval blockade on Saudi Arabia.. What are the risks?",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmlBSktTS3RSV3Z5ajJvUUxKMVZleTBqYWZKLWF6eE4tN29JM3UwMTNUWm5Nek1GYnlnZl9qc0p5aFVOSl9GbXBaTzF1R05FbTgzMmJ4dlYzeTlNVVYwdjQ4RGlWbGpmRXhJRkstclNYYUxKci1zXzZxbG82WEdDZWZSWHBDWkpjOFVyVW44N1lHcEN5ZEtYWWdwX1F5VjhlY3piSHplaENqUTBSTlV4ZjY1MU9ud9IBwAFBVV95cUxPakFXSFd5dG9JbWd5OVg2VzFZOV9TUTA0OHBqSWl3cjlMQktzdTV4MTJ2LUJLM3NfS3JXV3hKQUxHR2FNVUZYbE9PbFVnZzg5SC1JU1ZEVEEyY19wc3FNQTdUREVtYi1MVTFzYko4QllRVWlFUC1MSmY1WC12ZGJXRExKMVpKWVBqMnMxQ0VKRWk0VllndnN5bDNUYnZVcDFBSGlWZEwxd2JFMjFpOWw2eDN3QlFaTTByVXJJaGpYQUU?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
@@ -103,7 +103,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T06:04:16.000Z",
-      "originalHeadline": "الحوثيون يعلنون حصارًا بحريًا على ال��عودية.. ما المخاطر؟"
+      "originalHeadline": "الحوثيون يعلنون حصارًا بحريًا على السعودية.. ما المخاطر؟"
     },
     {
       "headline": "ADNOC accelerates gas growth strategy with $6.2 billion FID for Umm Shaif Gas Cap",
@@ -127,6 +127,16 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T05:56:46.000Z"
+    },
+    {
       "headline": "Iranian Revolutionary Guard: Targeting US Amazon infrastructure in Bahrain",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zWlFORy1VZndlVXA3U1VYVWNoSjV0SDNmcWZnMWlRLUUzZXppdkRrb1lGZWNlU1BCVEltdm9nZDFURkQxaEoxTWRHMUpBYUtQWlFVU0tITllVTVVPeFMtdXdock1JRzBMSkZKeGRUZ0JqZTh0c19IQ0xTQQ?oc=5",
       "source": "Reuters",
@@ -146,16 +156,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-21T05:49:17.535Z"
-    },
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-21T05:43:15.000Z"
     },
     {
       "headline": "Cummins, Hazlewood, Lyon return as Australia name 13-man squad for Bangladesh Tests",
@@ -326,12 +326,23 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Almost 100 troops injured in recent weeks , Pentagon admits , as Iran launches reprisals on US allies",
-      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
+      "headline": "US Issues Worldwide Caution Alert for Citizens over Iran Tensions",
+      "url": "https://english.aawsat.com/world/5298336-us-issues-worldwide-caution-alert-citizens-over-iran-tensions",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
-      "country": "Regional",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-21T04:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Imposes New 50 % Tariffs on $20 Billion Worth of Canadian Products",
+      "url": "https://english.aawsat.com/business/5298334-us-imposes-new-50-tariffs-20-billion-worth-canadian-products",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-21T04:45:00.000Z",
       "tier": "gdelt"
@@ -359,12 +370,12 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Dünya Kupası 64 takımla nasıl olabilir ? - BBC News Türkçe",
-      "url": "https://www.bbc.com/turkce/articles/c3ek8gvgw1do",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
+      "headline": "IMF Approves $690 Mn for Ukraine Following Review",
+      "url": "https://english.aawsat.com/business/5298341-imf-approves-690-mn-ukraine-following-review",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
-      "country": "Regional",
+      "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-21T04:45:00.000Z",
       "tier": "gdelt"
@@ -381,34 +392,23 @@
       "tier": "gdelt"
     },
     {
-      "headline": "US Issues Worldwide Caution Alert for Citizens over Iran Tensions",
-      "url": "https://english.aawsat.com/world/5298336-us-issues-worldwide-caution-alert-citizens-over-iran-tensions",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
+      "headline": "Almost 100 troops injured in recent weeks , Pentagon admits , as Iran launches reprisals on US allies",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-troops-injured-killed-iran-war-attacks-pentagon",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
       "category": "gdelt",
-      "country": "Saudi Arabia",
+      "country": "Regional",
       "language": "en",
       "date": "2026-07-21T04:45:00.000Z",
       "tier": "gdelt"
     },
     {
-      "headline": "US Imposes New 50 % Tariffs on $20 Billion Worth of Canadian Products",
-      "url": "https://english.aawsat.com/business/5298334-us-imposes-new-50-tariffs-20-billion-worth-canadian-products",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
+      "headline": "Dünya Kupası 64 takımla nasıl olabilir ? - BBC News Türkçe",
+      "url": "https://www.bbc.com/turkce/articles/c3ek8gvgw1do",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
       "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-21T04:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "IMF Approves $690 Mn for Ukraine Following Review",
-      "url": "https://english.aawsat.com/business/5298341-imf-approves-690-mn-ukraine-following-review",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
+      "country": "Regional",
       "language": "en",
       "date": "2026-07-21T04:45:00.000Z",
       "tier": "gdelt"
@@ -544,6 +544,17 @@
       "originalHeadline": "واشنطن تواصل ضرباتها لليلة العاشرة وطهران تجدد قصف البحرين والكويت"
     },
     {
+      "headline": "The Houthis announce a naval embargo on Saudi Arabia amid an American-Iranian escalation",
+      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQa3dRdjZjQ3g1RWstM2drR3h4UkFpbk15LWtObi1VMi0tMHZnWUI4X3lFbnhqZmRQZzJuWVYwc3NVMjhPTTM2TlVzX3ktQ0czdHVFZXVSNGZQMFBibllnRzFqSmdaVlh3Q2U0Y0c0UThscF90eEN2Q0d0VklOamsxMHoxYmREYjJuYi1keE9RVS02RV96OVlHcFR3UjA0Mk5GQmwyajR4QnRDV3BCV3p4N29hdDE5NE1Oa0hKa3FtLVk2ZVlJT2huX0ZyWXo2T1dMLWJyWUg1V1l5Y0N4SEdMbGM0STBwZE1HR1ZFQ3A4U21jR1pYWlJoTjg2emtVTi1kMm1FQVVGUlpfWUtMVlpVUHFYbThyOGl3QXMzV2YwaUxTckJZOVJ5cVlmeUNWb1FWbUNDSWRYcDhMRnp4bElLV0g4bi1uQ3Jsd0NlaVZjMGJSeWRtX0tnVzRfbVBNb2hTX3RkNXAyQjl6WFdqdXpOdHF4Z2VxU29qOVpKTTdFWERIRG1MR1EtcVB6cldCZWFFTkFrckVFcHBIZTZTSFo5c2FKWTRBMW5KVFU0TGJXMl9UTVJmYUF5azZCUUV4eWlXQVBrS3ZKVjk4cTBHTFd3NGNzVE9YS2E4cjAyVVdBd2RsNkptdU54dXRKQ2pYSlJsVDBjYXNodzFwdlF0QUh2R3VGTHo2am9hcG03Z3JyS0NxWkhUWktCY2d0TDN3NUY3SXlMOXFaSG9XbldzWXBmNVlvODBSWVowZ1AxcjFqMlZkMXlkZUd5Nm5ibmNMY01SMHBBUzhXc1duSWtEV1lObm96Zm0?oc=5",
+      "source": "France 24",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T03:24:49.000Z",
+      "originalHeadline": "الحوثيون يعلنون حظرا بحريا على السعودية وسط تصعيد أمريكي إيراني"
+    },
+    {
       "headline": "Arrival of a Saudi relief plane to Sudan carrying diverse humanitarian aid on board, including food baskets and medical supplies weighing 10 tons",
       "url": "https://x.com/alekhbariyatv/status/2079404811552698731",
       "source": "Al Ekhbariya TV",
@@ -566,7 +577,7 @@
       "originalHeadline": "الجيش الأمريكي يُبطئ في الكشف عن إصابات قواته خلال حرب إيران .. مصادر تكشف لـCNN التفاصيل"
     },
     {
-      "headline": "An oil tanker was targeted by a projectile off the coast of Oman",
+      "headline": "An oil tanker was targeted with a ballistic missile off the coast of Oman",
       "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOLXVPZ0Q4TUMwTnhBX1RHZzZDVVoyYVV0OXFCSTZ1Mk1UTDJvRkNTS2hEMVFObHZhb3dFQlVncmlWdEV5eHhvUWpQNm04c0JzMmw2dWo4X0N2X3NFWTR6M0ZIY3RxM3R2YzJLdzlqNUlvWG5RNE5lYTZYXzBHSXBPVmp5eGFJTk56c1IxblduMXozNjBtTDdvT0l2Z2V4QW84dzRBb0FrRkMxN2M2bE0xZWZQTkhxMEI2SkplYU5tbTlQRzJhb3lVSWx1X1hFMDJsZXk4clktU2MwSVFyTWdCZWx4V1c1TGhiSk9rMVZHLVVCOU11M0VvU1JhMV8tS0hKQ1hEb1V3UG1VV2RjbXBBVGRxclI1NnJWT0RkZUhtb1VzdEk1YjQ5aEYxT0hKZXlDd25veVo5TlRLcTNJYTRnSW1Gc3NIWDNnT3ljUWJTWGNaSEFvRkhMRkk1cHQwOGc1VVRuNER1VTJkYnl1Q0NqTlQzZ05aNFI5aHgxVGRvNNIBhANBVV95cUxNOFNzMExQNk5GLS1rc1Z6MEJveWhDal9NcjFnLXExbHRQZlBKQ0F4cjBKc1lqeGthdFJseXVzZ1hyN0R1S09yZFBYRGxsQ2g2UXJpZGl4cHdIckptX3BRbGw1X3dsOVBLcTl6VDY2WVk2el85LTZIM3FVbnRhdWNWSlZSMDFxdWNKY1haTHVwOEg1YTZrajdGd18wcFBSQlR5ZEhWMHFYTmdzWnE0R1NXcndtcHRnN1l0UGtURy0yZ1lFQnVfcXI1eTF5aWkzWjBpVi1uVktrOVNHcTNLQkMwZmxhSXAwOGRuVVUxN3dLSkNSMld0MmUzQm5SNFRWWnVHRFJuc19kaklNWGx3dzg1QXJLUGVKYkZKVDE3Y0V5UGNuUlFiRk5ISHdSa0FrTnNleG1JTXcyS0ZIaHllVDQwZEwyZmVBdkd6UWw3UnpJWTlkcmtNcmk0TE45aEk4eGhzRlBYZnVRY0hjNkVja1U0TG0yNlNGcmdFQ1NvcjVkeGJ3aloz?oc=5",
       "source": "سكاي نيوز عربية",
       "sourceId": "google_news_gulf_arabic",
@@ -574,7 +585,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T03:14:21.000Z",
-      "originalHeadline": "استهداف ناقلة نفط بمقذوف قبالة سواحل عُمان"
+      "originalHeadline": "استهداف ناقلة نفط بمقذوف ��بالة سواحل عُمان"
     },
     {
       "headline": "Saudi Arabia buys early sukuks worth 17.1 billion riyals and issues others with longer terms",
@@ -620,7 +631,7 @@
       "date": "2026-07-21T02:31:13.000Z"
     },
     {
-      "headline": "Food arrives and weapons are banned... How did Saudi Arabia respond to the Houthis’ announcement of a ban on navigation?",
+      "headline": "Food arrives and weapons are banned.. How did Saudi Arabia respond to the Houthis’ announcement of a ban on navigation?",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZ1N4eHNHSWhfZDNpRFFQLUNONjVmSWg0eXZrTDdsMkRKMU85S2tFNnhmUGJROWFSdlRrYk9TXzVYTXV3Q0xBMHpCbmVac2JHbVFFcmREUkVTemsxQUNlWTctLUtSTU5HOUF4cVRJZEhWcVFocGZEWjRfMC1RZzhON3VSQk5CMnJjZnlpVWlSVHNFZmthMU1PdzR2Si1jQVZoZGRZQU9kSlA4c3phTGZtME1xMHR6R0RFRmFtVGQ1blVVdzFiZy1aYmJFUHRlZEJmS3JSTlJkNHBST0hpMlJrWXAzYVEwWXVfbVFmaG1OMGNqY0tseVEzaExfZ0JMdTNqRS1EdENoQndLZXZrOXZUUDlkSjFORkZDQlA3bktGS1JQNW5GbE8wQUV3NXBBLTNzYnAtcVJUQk5BRnPSAcACQVVfeXFMTjdEUzBGVFRfM0dVaENEM2NrdC1GYkh0eUZLNWlkUjU4MVZXdmRkTXBmV2Jtb2RtdFdpd0h6ampMdDNsSDZPUDdKMU5fQXNLRHprM2FlY25ZMkxoX0k5OVl2SmhmS2ZRYmVBQXV4d3BPZm40dnZKWldYcEdMTlV5WlhEQkNaUDZBejlDY3FnUEt2dmZBY1VDYnItM0pBVHNyRkN1Sm1Ec3ktRU05aTFDUVNhNzZkWVF0U002YkVuY0NOYzJvM3l0UW1ER2xGWFBEbmpIcjVEVEh4d0FrdmpLeXVicE0yS0Jka0Z4VExOVFl3NWVGWVhubDlPTTNjQjFpZVZRUHBka3ozcVRramNiWURtbzdvMF9PZGVnM2hfX0VhS1JBVDhhb0VVMHUtR0FQWVV3UTlqeE5nN0h0TU5jTm0?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -628,7 +639,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T02:29:06.000Z",
-      "originalHeadline": "الغذاء يصل والسلاح ممنوع.. ��يف ردّت السعودية على إعلان الحوثيين حظر الملاحة؟"
+      "originalHeadline": "الغذاء يصل والسلاح ممنوع.. كيف ردّت السعودية على إعلان الحوثيين حظر الملاحة؟"
     },
     {
       "headline": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
@@ -661,6 +672,16 @@
       "date": "2026-07-21T02:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "پنتاگون به سی‌بی‌اس : نزدیک به ۱۰۰ نظامی آمریکایی در جریان حملات دو هفته گذشته ایران زخمی شده‌اند"
+    },
+    {
+      "headline": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEtLXy1sb3RPLTgzWnBsRWhIU2JKV0tEQ3cyMmoxakRWRlpZNk9xUnVsWWxfMklsYzZrelRyd29WTVd5M041dUsyTElCWDd2cmtQWkdVbHhLRk5BcjZEWWRXcWx5bG85LVlBaE90bEVBZldzSERpX0QwdEs3eGlJNFVrTkxWVXZiSWRKNVdxTi1weVJnMUdRUG1tSkk1Y0NYVjVLVnVpd2QtVmRweGlBdmRR?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T02:13:00.000Z"
     },
     {
       "headline": "Piyush Goyal holds talks with UAE Economy Minister to deepen trade, investment and tourism ties",
@@ -2586,16 +2607,6 @@
       "date": "2026-07-20T18:59:50.000Z"
     },
     {
-      "headline": "Aliexpress says €550 million EU tech fine is disproportionate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1BFMVFHcE80Tm9TdUk5SUdJaDNaLXFzbDlxT2ZmdjRYLTI5VUxCS2w0c3o1MXowU1N2dUJ2N0dKc3FaXzh6RHN4S0NvYkRDV1RLdDIwYjEzQk9MOFNJamNyV3VMNzFLdEh2cTF1Y3VaNkdxR3pxdWx4REJZaTRwZGNRb1plQWNEdU5Uc2syRXpGOURudGR4ZzlGTGJlWWN2bXVOZQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-20T18:57:35.000Z"
-    },
-    {
       "headline": "Saudi Arabia and India Hold Talks on Regional Developments\n#QNA #KSA\n\nhttps://\nbit.ly/3TJLeBU",
       "url": "https://x.com/QNAEnglish/status/2079279150485958685",
       "source": "Qatar News Agency",
@@ -2604,16 +2615,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-20T18:55:55.000Z"
-    },
-    {
-      "headline": "S&amp;P 500, Nasdaq rise with chips boost; Iran and megacap earnings in focus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-20T18:54:50.000Z"
     },
     {
       "headline": "#Qatar_Charity Performs More Than 830 Surgeries in #Syria Under \"Defaa Balaa\" Campaign\n#QNA #Qatar\n\nhttps://\nbit.ly/44AEpoH",
