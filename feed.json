@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-21T15:04:12.535Z",
+  "updated": "2026-07-21T15:19:04.046Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "The Custodian of the Two Holy Mosques Chairs Cabinet Session in Jeddah",
+      "url": "https://spa.gov.sa/en/N2638697?type=news&uuid=N2638697",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-21T15:12:56.000Z"
+    },
+    {
+      "headline": "Iran and US persist in their attacks, as Pakistan tries to keep diplomacy alive - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T15:10:00.000Z"
+    },
+    {
+      "headline": "UN chief to visit Syria to reinforce UN support for government, people",
+      "url": "https://www.wam.ae/en/details/c1c09ja-chief-visit-syria-reinforce-support-for-government",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T15:04:31.303Z"
+    },
+    {
+      "headline": "Oman, EU sign agreement to establish EU mission in Muscat",
+      "url": "https://www.wam.ae/en/details/c1c09j9-oman-sign-agreement-establish-mission-muscat",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-21T15:04:05.385Z"
+    },
     {
       "headline": "Bahrain's air defence systems intercept Iranian attacks",
       "url": "https://www.wam.ae/en/details/c1c09gg-bahrains-air-defence-systems-intercept-iranian",
@@ -31,6 +71,53 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-21T14:47:41.000Z"
+    },
+    {
+      "headline": "The Houthis warn shipping companies to avoid Saudi ports, otherwise they will face an attack: what you should know",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzlySjQ2OXVUcEx4TFNkZkVyV2dlZU8zc2hZZ2F6eVhzdC14X01TMjhFdDQtZDZ5anBYNUpDVnJKQ2dIam5hcWhqZ2dSbHhZeDRLN1FtZXdrdWJyQXpXem4wQW5VV3BaRTFQRFFzeWhkcmd1czd5el96dTdDYVVwNUs4TTF0TWZfMExCc1RLWTU0dzFGNEFBTDI4eHpZQkVzMGJ4X05pcFpEcTBndmJqOVVtODl2SUhtU09NT2lpd0NzSXVW?oc=5",
+      "source": "Al-Monitor",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T14:45:13.000Z",
+      "originalHeadline": "الحوثيون يحذرون ��ركات الشحن من تجنب الموانئ السعودية وإلا ستواجه هجوماً: ما يجب معرفته"
+    },
+    {
+      "headline": "America: 10% decline in the market value positions of hedge funds",
+      "url": "https://www.okaz.com.sa/economy/na/2257952",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-21T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أمريكا : 10 % تراجع لمراكز القيمة السوقية لصناديق التحوط"
+    },
+    {
+      "headline": "Washington has two options: truce or all-out war?",
+      "url": "https://www.okaz.com.sa/politics/na/2257949",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-21T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "واشنطن أمام خيارين .. هدنة أو حرب شاملة ؟"
+    },
+    {
+      "headline": "Fighting Alzheimer's... Chess is a mental sport that combines science and art and supports memory and thinking",
+      "url": "https://www.okaz.com.sa/variety/na/2257936",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-21T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "يكافح ألزهايمر .. الشطرنج رياضة ذهنية تجمع بين العلم والفن وتدعم الذاكرة والتفكير"
     },
     {
       "headline": "Why Iran is risking so much over the Strait of Hormuz",
@@ -84,7 +171,7 @@
       "date": "2026-07-21T14:23:13.000Z"
     },
     {
-      "headline": "Qatar and the two countries discuss ways to enhance cooperation relations",
+      "headline": "Qatar and Sudan are discussing ways to enhance cooperation relations",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByUHlTR2V1U2VuYW50WlFEYzVuVWhWcE5uT2FSeFg4Q21UQTlORDc2ZVhOc3ZsTkNWWFhEb1VwSFBFYXdqU3RXXzVvMXl4Nlp5SzNZQ1Zn?oc=5",
       "source": "بوابة الأهرام",
       "sourceId": "google_news_gulf_arabic",
@@ -92,7 +179,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T14:18:00.000Z",
-      "originalHeadline": "قطر وال��ودان يبحثان سُبل تعزيز علاقات التعاون"
+      "originalHeadline": "قطر والسودان يبحثان سُبل تعزيز علاقات التعاون"
     },
     {
       "headline": "Saudi Stock Exchange Ends Trading Lower",
@@ -259,14 +346,15 @@
       "date": "2026-07-21T13:36:39.000Z"
     },
     {
-      "headline": "Iran and US persist in their attacks, as Pakistan tries to keep diplomacy alive - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-21T13:36:00.000Z"
+      "headline": "The UAE increases support for startups amid a regional financing gap exceeding $20 billion",
+      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPbFpWcVNMSGV6YzJ0a01LUXdYT0Rkb1lQbk9IWWs1bWFLYzUyNTBmOXM4bW1JU2hXc3pfUDdPT2lvdG11RnpJWVdmRHB6MmFZR0ExVENYNG9EX09jOHJxcXZLMHRsRGhSMjJCZXdNd3hRNXlzQ1JBMWpWaWRMaEdrUGY2T1BjM0VONUZpTEpNR284eHdhbWlWcFVLTlp6Q1dQOGgweHVuS3AtS1duS0w4elFhamFFUmxnNkZBVWlCSG55Q0VwZ1B1OWtlWGd3dFVoT3JvbzJMclpLZzNRM3FyWS1DbE5FbGdWcTNxNTNLQWd6WkxWQkFHSjdOYURDWU9yN0lOQ1djRFNBYW9UNlRoZDkxS2lYVzlXMER5OWhlR3o0RjFnN05xbl9qOHpvMEF5LXVweGp3Sy1zN05ZTHk1UGZiRFFtVXZtR2RJZ25HSG9NV2FsaTlDdjlab2VaUkJISkw4aVJqS3BkRG5KaVNWanNlQWIzUjVrbHdoM1pFbDJNeFAyY2lsemlMa3N0d2VSbm1QRjFEOGZHWTNRei1HZmlTS2JtZUEydTFFVDhQakt1VGZ3V1ZnLUxHQXQ3d3dmSlRlRGdpY1lZLTQyMW1zY0JpUDYzQjNYVjV6Ukk2QjNucmJyQW1Kc0JXMXluYUc3V3ZOTWFXVGNEREhfWnNCczhTb0dWYmE2d1hEQXF6dm9rbnAtX3UtRFFWdXl3ZmhnVnVEaEZBenA2eDFIaWtXUUNIMVpHZTd3TUN5cnVuTTZkMEdZdjFpelB4ajhFaHBZZ2N3TkpCTDJncHJpckxxYlVadw?oc=5",
+      "source": "annahar.com",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-21T13:36:00.000Z",
+      "originalHeadline": "الإمارات ترفع دعم الشركات الناشئة وسط فجوة تمويل إقليمية تتجاوز 20 مليار دولار"
     },
     {
       "headline": "Kuwait: Iran targeted water desalination and power generation plants",
@@ -569,16 +657,6 @@
       "date": "2026-07-21T12:50:29.000Z"
     },
     {
-      "headline": "The Custodian of the Two Holy Mosques Chairs Cabinet Session in Jeddah",
-      "url": "https://spa.gov.sa/en/N2638568?type=news&uuid=N2638568",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T12:48:47.000Z"
-    },
-    {
       "headline": "ERRA reinforces UAE’s position in global copyright ecosystem at Hong Kong Book Fair",
       "url": "https://www.wam.ae/en/details/c1c09ak-erra-reinforces-uae’s-position-global-copyright",
       "source": "Emirates News Agency (WAM)",
@@ -703,7 +781,7 @@
       "date": "2026-07-21T12:31:46.000Z"
     },
     {
-      "headline": "Saudi Arabia launches a multiple-entry visa with a 90-day stay",
+      "headline": "Saudi Arabia launches a multi-entry Umrah visa with a 90-day stay",
       "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPWXREOU9VSUxDd3BSZE1vSGI4VjZlM2xPYXpEQWlxcDdUY2s4OTdUbnBVT0phRWxOSUo5d3pDbjJGa0U5b2VYT1JkbnpvRGdTMGd3UzMyUmJsRUE1OEdPaEdIaGtaX2NUeUthblBGcTRNdlFmX2pYbUxhWmJERVdJWjB6ZmMzdjBtMU04YjBhU0JKeTBfbkROU3RZN3Vrc0JBRVhaSmUxYVhiUlh6MmNMMV9Fb1dtcUROa3NsOFNTWURrbUlOWXRvZlF1Sk9ZdzJPTFd2NzZjdERzaTdFRkhraEE2MkhQVnJhd1NtTWg0X0w5SEtIQzJzODlFR1VfWnNNdjZkS2RkSi1FX2pfQnIxd2hKb05HMGpQX1ZCOHZOZnZ0TUFIUDhkQUFGZjBvYjdYaFpoQ1ExWWUwR3ZPQTdmajl6dnRrWWJlMXdDNkI2WnAyVnF2akdLYXgtTkdoblBsSzVjSS04M3pxTG1rd1ozUWd5OTE3SDVPcTdEMURxVXJDSFVHRHlrazVCdGxQdjNCWW83cTJac0ZEY0hZRms4SVJvWlRnSjhQTmNYbkc5ZTJjWWNvRm1QaE1CX2VtN3cwelRkN2R0TE1lTDVrd3UyS2JCMnBsQm9DRjRKZ0M2RGVjUDdvWkNxb3JCT2FBc2xWbTZ6ODh6RE1xQ2l2TkQtUjZVWXhkdS1kc01kTFJEVURfRXRvbzhyVGpGb1ljZG5oQ0Y2Z0R2VEhRRHozN1VDTnFwWjM3M2hDQUsyTFlFanEtMHYwYi1Xb3BwaUF1RHQzdDF1czYzLWZFT2dEd1poTHhKa2xCd053RVdz0gHwBEFVX3lxTE5keHBRSndZTURjQTVyVk1BdVF5VHJLaW5hWmNUSWt3TWFEcjNNTE9tOEtmV1pTbEQzdmxIcTl5ejlwbkRwc2hPRWFMYjNVbVFqTmsySjRTZm9NN1JSNE1zTjEtQUlhaUtZSlNxaXoyMHN3T2tZc3JtRm1QTmJhU0hqQTJSUGx6MDdqdEtsa1N0T21BN2RQOV9HOEVTOUFiVTdId1dkTGdxazFrUFJKWFBWWUZsLXlCVV9ISHY1RExQYUdqRXF4aE1CcFU1dDJUbGpBQzZEald2a1NvUjJEVmZVTU1NM1VkNmhFVDdUZVlZV0VIQzZNeFAxbjFQN1kxRkhITjRLbHVnYzRnUGZ5M1BSRHdoeENHUFVvSzQ0NENrM2RyMDV1MVVzR1k5X1VyOXBKUS02MmFCRjdpN0VTeTYzOWliUXIxbUJuX0g4a2ZvT1o3RU0wRG51MkRqdmVBenlNNlpGVDFpbGRUSHJ1UGxEWDhCSUY5VFZ6N0VRdEM1OWg2TktRY1V2a3RZNC1UU012bGsxMnh2dzVuWG10cERFUTdXLUQ1YzM1cGpCYU93UXNCSVIydDBOU2pNcm91S3RUOUpGbk1mMlJTMDNaREItbGdDVDFRWVdUVnc5OG5yUjFKVi15TXAyMUJGWUhlTmpPNTdCZFBGUFliWEsyZUVvY3pRMXZmTi15aHo0aEJ5bUJfc01ENE1sSTB1ckg1eEM2WXpicE10QzNNSE1VOEsyZzZrS243WE13eEdWd0FybTNGMWRGTlNBMzFUcXV2NXFPTFNyT3hrRmtTLXV3QW9tV0x2VUpOVXl6YXhiZXV0SA?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
@@ -711,7 +789,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T12:28:47.000Z",
-      "originalHeadline": "السعودية تطلق تأشيرة عم��ة متعددة الدخول وإقامة 90 يوماً"
+      "originalHeadline": "السعودية تطلق تأشيرة عمرة متعددة الدخول وإقامة 90 يوماً"
     },
     {
       "headline": "ROSHN Group Launches Curated Collection of Villas in SEDRA Community",
@@ -923,7 +1001,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T11:51:29.000Z",
-      "originalHeadline": "\"ذا تلغراف\": طيران الإمارات ترفض استلام 10 طائرات بوينغ 777X"
+      "originalHeadline": "\"ذا تلغراف\": طيران ال��مارات ترفض استلام 10 طائرات بوينغ 777X"
     },
     {
       "headline": "Man stabs and wounds tourists near the Acropolis in Athens, Greece - AP News",
@@ -934,6 +1012,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-21T11:50:00.000Z"
+    },
+    {
+      "headline": "IEA says substantial emergency oil stocks remain after record release - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0VFbTUzNkFDSXZDLXRFM2J2R2ZvRmt1a1haaktTdnlweHloa3Y5WkN4b2ZjMHg2b3o2a1QzMDE3OTBNc2FRY3NzcW9FNEp1UEZFejMyNzRsdkk1SmpabERDTng0RzdXZWV2ajg1clQwQjBkRWV5WW5peDFBczV1dHVieWRQckJpUXFwRkZWSHBoQ1dfTnZDTy1zTW5JR3lZbFB4TEVobEJrRENFSGkzcEZscTdlYnpRVUpBeV9n?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-21T11:47:12.000Z"
     },
     {
       "headline": "Iran targets sites in Bahrain, Kuwait and Jordan after US strikes",
@@ -1082,17 +1170,6 @@
       "date": "2026-07-21T11:16:43.000Z"
     },
     {
-      "headline": "First Thing : Trump urged to end Iran escalation as US deaths and injuries rise",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/first-thing-trump-iran-injured-service-members",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-21T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Why did General Traoré launch a battle with the Islamic community in Burkina Faso?",
       "url": "https://www.aljazeera.net/news/2026/7/21/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D8%AA%D8%AD-%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D9%8A-%D8%AC%D8%A8%D9%87%D8%A9-%D8%AA%D8%B5%D8%A7%D8%AF%D9%85-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9",
       "source": "Al Jazeera Arabic",
@@ -1187,6 +1264,17 @@
       "date": "2026-07-21T11:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "سوريا تطلق الإستراتيجية الوطنية لمكافحة غسل الأموال وتمويل الإرهاب"
+    },
+    {
+      "headline": "First Thing : Trump urged to end Iran escalation as US deaths and injuries rise",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/first-thing-trump-iran-injured-service-members",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-21T11:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "From an existing building to rubble and empty land... How did Israel erase the UNRWA headquarters in Jerusalem?",
@@ -2044,90 +2132,6 @@
       "originalHeadline": "فطريات عملاقة تنبت في قلب الصحراء العُمانية .. ما سرّها ؟"
     },
     {
-      "headline": "An Arab businessman was killed by police in front of paramedics in Europe",
-      "url": "https://www.okaz.com.sa/variety/na/2257883",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مقتل رجل أعمال عربي على يد الشرطة أمام المسعفين في أوروبا"
-    },
-    {
-      "headline": "High blood pressure.. What is the quickest way to lower it?",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/07/21/what-is-the-fastest-way-to-lower-high-blood-pressure",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ضغط الدم المرتفع .. ما أسرع طريقة لخفضه ؟"
-    },
-    {
-      "headline": "He lived for 20 years in hiding at sea... How did the doctor accused of rape fall?",
-      "url": "https://www.okaz.com.sa/variety/na/2257880",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عاش 20 عاماً متخفياً بالبحر .. كيف سقط الطبيب المتهم بالاغتصاب ؟"
-    },
-    {
-      "headline": "She worked as a maid for him for 43 years and it turned out that he was her father...a shock to the Turkish billionaire heiress",
-      "url": "https://www.okaz.com.sa/variety/na/2257879",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عملت خادمة لديه 43 عاماً وتبين أنه والدها .. صدمة وريثة الملياردير التركي"
-    },
-    {
-      "headline": "How did a Nigerian gang rob a money exchange shop in Kuwait?",
-      "url": "https://www.okaz.com.sa/variety/na/2257878",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كيف سرقت عصابة نيجيرية محل صرافة في الكويت ؟"
-    },
-    {
-      "headline": "The Yemeni Minister of Transport confirms that protecting Bab al-Mandab and territorial waters is a battle for national sovereignty",
-      "url": "https://www.okaz.com.sa/local/na/2257881",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "وزير النقل اليمني يؤكد أن حماية باب المندب والمياه الإقليمية معركة سيادة وطنية"
-    },
-    {
-      "headline": "Without a password, a loophole in “Gemini” opens your phone and hacks your messages and calls",
-      "url": "https://www.okaz.com.sa/variety/na/2257882",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "دون كلمة سر .. ثغرة في « جيميناي » تفتح هاتفك وتخترق رسائلك ومكالماتك"
-    },
-    {
       "headline": "Today, the official price of #Oman_oil for next September delivery reached 81 US dollars and 79 cents. \n\n#Omani",
       "url": "https://x.com/OmanNewsAgency/status/2079487550058906046",
       "source": "Oman News Agency (Arabic)",
@@ -2137,16 +2141,6 @@
       "language": "ar",
       "date": "2026-07-21T08:44:01.000Z",
       "originalHeadline": "بلغ سعر #نفط_عُمان الرسمي اليوم تسليم شهر سبتمبر القادم 81 دولارًا أمريكيًّا و79 سنتًا. \n\n#العُمانية"
-    },
-    {
-      "headline": "Abu Dhabi Mobility activates Waterway Monitoring and Control Centre",
-      "url": "https://www.wam.ae/en/details/c1c08yp-abu-dhabi-mobility-activates-waterway-monitoring",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-21T08:41:14.756Z"
     },
     {
       "headline": "#BREAKING | Bahrain:\n\nInterception and destruction of several treacherous Iranian aerial attacks today",
