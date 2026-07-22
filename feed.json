@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-22T23:16:41.283Z",
+  "updated": "2026-07-22T23:32:46.490Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T23:21:31.000Z"
+    },
+    {
+      "headline": "Geospatial Authority Launches Land Surveying Regulatory Workshops",
+      "url": "https://spa.gov.sa/en/N2639783?type=news&uuid=N2639783",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-22T23:17:43.000Z"
+    },
     {
       "headline": "US military says it’s carrying out strikes on Iran as both sides threaten civilian infrastructure - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
@@ -13,15 +33,15 @@
       "date": "2026-07-22T23:05:00.000Z"
     },
     {
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-nuclear-agreement-saudi-arabia",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
+      "headline": "Saudi Arabia and the United States sign an agreement for peaceful nuclear cooperation",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdlZPYm5zdy02VTJkbXJ2VEFVaGxUQktsZjZrZlVESnFnMnRNcGVjZWVCaC1HLXpMa0k4N2Y5VHZIVmNRTGFzdUVJYkxFQ3NPSktDcFY5M2VUNzZ5ejVVdmtSbnRnTk5pdGpWOVJYM3JUd2pEQ3BDY3lBYmZuZ250OG9EdlNVdVJqT2pCUHpSQjFya2kxRTdWUXdIN1VWaXRXNTRlejZsdVBJa2M4cjY0cDNqVk83NS1vejRRQTkwTGNxdHFFQjNJOG1ucEdzSEJSRzNRclhraEdlT1lubEVtYVRHZmkyRUlzcVh3aGZhbndmazdnOWhYX3lod0tVb2JMTkYydGQ5bjVLQmRqR24wOGFnbnYwdUJXNFlXXzlMazZFSDI4cTBSNnptTEZsbHFueG5DSlhzVHZ3OC16ZzFSLXRoejVldDFZeWZlSUl4Tm56NFdMeDV6cG9MeVZ3eHpTemtLTnNTVzNnZTB2Q01PSDNXUWtDUjBYSmxZSldJU244NVJuYnhHYTdoZVB6cE4tWE1hZE90QkdqX0NWZHQxRXdJZU15M241NU5qZ2RJR2ZhUEoxTXJXVlhsS0xLQXU0Nmc3a01mZWp2eUJvdUF0anA1bUlKdw?oc=5",
+      "source": "الشرق للأخبار",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
       "country": "Regional",
-      "language": "en",
-      "date": "2026-07-22T22:45:00.000Z",
-      "tier": "gdelt"
+      "language": "ar",
+      "date": "2026-07-22T23:03:31.000Z",
+      "originalHeadline": "السعودية والولايات المتحدة توقعان اتفاقية للتعاون النووي السلمي"
     },
     {
       "headline": "Qatar seeks help from Egypt and asks for support.. What is the story? #FiftyEconomy #Egypt #Sisi #Qatar #Egypt_Army",
@@ -43,7 +63,17 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-22T22:32:12.000Z",
-      "originalHeadline": "تقا��ير: اتفاق نووي مرتقب بين السعودية والولايات المتحدة قد يسمح للرياض بتخصيب اليورانيوم"
+      "originalHeadline": "تقارير: اتفاق نووي مرتقب بين السعودية والولايات المتحدة قد يسمح للرياض بتخصيب اليورانيوم"
+    },
+    {
+      "headline": "Yemen's Houthis say they targeted two Saudi tankers; source says Encelia hit by missile - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T22:31:34.000Z"
     },
     {
       "headline": "Millions have signed up for Trump Accounts, but some families are still waiting for baby's $1,000 - AP News",
@@ -156,6 +186,16 @@
       "originalHeadline": "ما الذي يحمله الزيدي إلى طهران ؟ مصادر تكشف عن رسالة من ترمب"
     },
     {
+      "headline": "US and Saudi Arabia sign new nuclear agreement that could pave way for kingdom to enrich uranium - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDRmekNIWVdEU2pkNF83UDRQMVY2V2xlTkNHcTlvcURWRGlVZmhZbUdqbUVwWUYzbHUzMkg4US1FMS1XNUt0R2w2VGN2OXIxNFFxeWdXVDBoNFZHME1XZzI0bUJIakphQ1paM2FMeEFURDdUWmJKQW9JU1dPclU0aXVqTm81VG10WEpySXBTNGhJdVRzc1pvUlZnQnhOcmZTRkJVWA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T21:56:00.000Z"
+    },
+    {
       "headline": "IsDB Group’s ITFC Signs $100 Million Financing Agreement with Uzbekistan's Hamkorbank",
       "url": "https://spa.gov.sa/en/N2639758?type=news&uuid=N2639758",
       "source": "Saudi Press Agency",
@@ -164,16 +204,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-22T21:55:55.000Z"
-    },
-    {
-      "headline": "Yemen's Houthis say they targeted two Saudi oil tankers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T21:48:34.000Z"
     },
     {
       "headline": "America and Saudi Arabia sign an agreement for peaceful nuclear cooperation",
@@ -366,17 +396,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-22T21:22:03.000Z"
-    },
-    {
-      "headline": "Saudi Arabia and the United States sign a peaceful nuclear cooperation agreement",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPdlZPYm5zdy02VTJkbXJ2VEFVaGxUQktsZjZrZlVESnFnMnRNcGVjZWVCaC1HLXpMa0k4N2Y5VHZIVmNRTGFzdUVJYkxFQ3NPSktDcFY5M2VUNzZ5ejVVdmtSbnRnTk5pdGpWOVJYM3JUd2pEQ3BDY3lBYmZuZ250OG9EdlNVdVJqT2pCUHpSQjFya2kxRTdWUXdIN1VWaXRXNTRlejZsdVBJa2M4cjY0cDNqVk83NS1vejRRQTkwTGNxdHFFQjNJOG1ucEdzSEJSRzNRclhraEdlT1lubEVtYVRHZmkyRUlzcVh3aGZhbndmazdnOWhYX3lod0tVb2JMTkYydGQ5bjVLQmRqR24wOGFnbnYwdUJXNFlXXzlMazZFSDI4cTBSNnptTEZsbHFueG5DSlhzVHZ3OC16ZzFSLXRoejVldDFZeWZlSUl4Tm56NFdMeDV6cG9MeVZ3eHpTemtLTnNTVzNnZTB2Q01PSDNXUWtDUjBYSmxZSldJU244NVJuYnhHYTdoZVB6cE4tWE1hZE90QkdqX0NWZHQxRXdJZU15M241NU5qZ2RJR2ZhUEoxTXJXVlhsS0xLQXU0Nmc3a01mZWp2eUJvdUF0anA1bUlKdw?oc=5",
-      "source": "الشرق للأخبار",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T21:18:12.000Z",
-      "originalHeadline": "السعودية والولايات المتحدة توقعان اتفاق تعاون نووي سلمي"
     },
     {
       "headline": "Saudi Arabia and America sign a historic agreement to cooperate in peaceful nuclear energy",
@@ -764,16 +783,6 @@
       "date": "2026-07-22T19:52:19.000Z"
     },
     {
-      "headline": "Rubio says any nuclear agreement the US signs will not lead to nuclear proliferation - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDRmekNIWVdEU2pkNF83UDRQMVY2V2xlTkNHcTlvcURWRGlVZmhZbUdqbUVwWUYzbHUzMkg4US1FMS1XNUt0R2w2VGN2OXIxNFFxeWdXVDBoNFZHME1XZzI0bUJIakphQ1paM2FMeEFURDdUWmJKQW9JU1dPclU0aXVqTm81VG10WEpySXBTNGhJdVRzc1pvUlZnQnhOcmZTRkJVWA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T19:46:00.000Z"
-    },
-    {
       "headline": "His Royal Highness Minister of Foreign Affairs Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n holds a phone call with His Excellency the Minister of Foreign Affairs of the Hellenic Republic, Mr. Georgios Gerapetritis.",
       "url": "https://x.com/KSAMOFA/status/2080014119378280832",
       "source": "Saudi MFA",
@@ -856,7 +865,7 @@
       "date": "2026-07-22T19:03:57.000Z"
     },
     {
-      "headline": "Fifty economics. . Officially, Abiy Ahmed challenges, and Egypt responds with a historic move! What did Sisi do that shocked everyone? A terrifying alliance! #FiftyEconomy #Egypt #Sisi #Saudi Arabia #Sudan #Libya #Iran #UAE #Iran",
+      "headline": "Fifty economics. . Officially, Abiy Ahmed challenges, and Egypt responds with a historic move! What did Sisi do that shocked everyone? A terrifying alliance! #Fifty-Economy #Egypt #Sisi #Saudi Arabia #Sudan #Libya #Iran #UAE #Iran",
       "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQSDlySnhVN2swZlpvS0FmWWNQb2hDTlpEQXQ5QlFhRmkzT21iT2tKcjFXcWRaTVN1aXRzRUVUVWV6ak5jRFdhaFRQQ1otOG5LeS1pTXZ5RjJtM2d5MjR6dDhUNHdEZ3NqRjhqSW5VUW5DNTBEQ3F1LXF3TFB0S1ROMy11dFI2Y1NFd0VEb1NWUV9JSllORnBhMHRySWRtbjNSNlpPTlFFMExLR3lEbFpHY1FNdV81c0VXdmpmRElLcERwWDRrUzhUcXJyY19BUEItUVh1VFNEWmx0R3BLdzIyYmpzS01UZW5MRGhRNVFheVlZYkZVV05jeEJaVDd5dXlEb3d3S3I2T3dkM3FCcGFSOWktbkdBTlBvS18zZDZERUo5M1NCTGIyNWxDLW8ySWE1bUZsVmstODZra01rcm5QbkNXdTJkZjFFSmJ4UWd6Y1lTMmZCUDYzVll1ODF4bHVveFdjMFNIb3VwWUlfV3Vma1huSEZxc3prTWtUUWpWem04U3d5QmM0VGdXWG1vbVRzUGhKSUhHOWtoeVotWmtxekVxWTlVbzAyaHRrSjRzLXdLeHNkdlpmOTMtcGFLcW92OGJidXh5dC11cFYwNE9ZNWxnYll6MEk5YWhvMHRYMFZ4UnVOdFdWdWQ0OXpZTXB3QzRadmtoZWlqZ1NudWtaU09NQVJLLU1vTk41QTNOZGY5SGNlSjBuMjJrTGotTUtrWHBkSUxwZURON0tIZHF2d0VRNXRidlQ5MHJGb0MwMW1Fb0ktcnBZbUxoSzM5WHR3UHRVQnhhRUdPcVh1WTh1cmtqTV9pVnc1ZUNraWp4bmh3YXMxRFVObXlrbll3ZzZaWFppd1pqc2JsMWJ2RGlTM1plY3ZmbEJH?oc=5",
       "source": "facebook.com",
       "sourceId": "google_news_gulf_arabic",
@@ -864,7 +873,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-22T19:01:57.000Z",
-      "originalHeadline": "خمسينة اقتصاد. . رسميًا آبي أحمد يتحدى ومصر ترد بتحرك تاريخي! ماذا فعل السيسي وصدم الجميع؟ تحالف مرعب ! #خمسينة_اقتصاد #مصر #السيسي #السعودية #السودان #ليبيا #إيران #الإمارات #ايران"
+      "originalHeadline": "خمسينة اقتصاد. . رسميًا آبي أحمد يتحدى ومصر ترد بتحرك تاريخي! ماذا فعل السيسي وصدم الجميع؟ تحالف مرعب ! #خمسين��_اقتصاد #مصر #السيسي #السعودية #السودان #ليبيا #إيران #الإمارات #ايران"
     },
     {
       "headline": "Bulgaria Condemns Houthi Militia Threats, Reaffirms Steadfast Support for Saudi Arabia",
@@ -2440,6 +2449,16 @@
       "originalHeadline": "Deputy Governor of Al Baha Region Meets President of the Board of Directors of Al Baha Literary Association.\n\nhttp://\nspa.gov.sa/ar/w2639424\n#واس"
     },
     {
+      "headline": "Saudi's Flynas firms up order for 25 additional Airbus jets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDlGUlltOXpyLXp0UnFJWF9Xc3d5bVpUUEw4QTY1Z08tV2RNNXVNVGh0aDZhempFNVU1SUxZUVlaQjdudFRpMEZYN3ZCY1hJcEtDRUN3bFpVb0U5dmJVc3FVOXUzaTRsWWVIUUkxSVl3X0tDZkM3U254Q0czUVk3cmstZWo0Rm95NGczUWtBQi1FVTdaS1p2cDNnTlBmU3QxeXhDeFRwSkdsUEhSdGVLdm96OS1zdUxRMDhmREt3?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T14:53:15.000Z"
+    },
+    {
       "headline": "Minister of Electricity, Water & Renewable Energy discusses with #Canada's Ambassador to #Kuwait Tara Scheurwater ways to strengthen cooperation between the two countries in the fields of electricity, water & renewable energy.\n\n\nhttp://\now.ly/kSTp30sXni3\n\n#KUNA",
       "url": "https://x.com/kuna_en/status/2079942188033614085",
       "source": "Kuwait News Agency (KUNA)",
@@ -2895,27 +2914,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-22T13:52:37.000Z",
-      "originalHeadline": "السعودية والإمارات: هل تعد الصورة والرسائل الجديدة بداية لطي صفحة التوتر؟"
-    },
-    {
-      "headline": "NRAA implements project to document customs, traditions in Wilayat of Manah",
-      "url": "https://timesofoman.com//article/174730-nraa-implements-project-to-document-customs-traditions-in-wilayat-of-manah",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-22T13:52:32.000Z"
-    },
-    {
-      "headline": "Civilians, infrastructure fall victim to hostilities across Mideast: UN",
-      "url": "https://timesofoman.com//article/174729-civilians-infrastructure-fall-victim-to-hostilities-across-mideast-un",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-22T13:50:18.000Z"
+      "originalHeadline": "الس��ودية والإمارات: هل تعد الصورة والرسائل الجديدة بداية لطي صفحة التوتر؟"
     },
     {
       "headline": "Northern Governor Chairs a Meeting\n\nhttps://\npolicemc.gov.bh/en/news/80395/",
