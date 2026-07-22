@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T02:17:54.961Z",
+  "updated": "2026-07-22T02:32:56.439Z",
   "itemCount": 300,
   "items": [
     {
@@ -32,6 +32,18 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-22T01:49:54.000Z"
+    },
+    {
+      "headline": "For the 11th night in a row...the US army launches new strikes on Iran",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/22/us-military-begins-11th-consecutive-night-of-strikes-against-iran",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-22T01:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "لليلة الـ11 توالياً .. الجيش الأمريكي يشن ضربات جديدة على إيران"
     },
     {
       "headline": "What is Pickaxe Mountain , Iran underground nuclear facility Trump is threatening to attack ? | Iran",
@@ -211,28 +223,6 @@
       "date": "2026-07-22T00:46:39.000Z"
     },
     {
-      "headline": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring",
-      "url": "https://www.bbc.com/news/articles/c4gklwpv1wyo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Morning Mail : Queensland buries DV report , rate hike fears grow , Zendaya cultural hijack | Australia news",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/22/morning-mail-wednesday-ntwnfb",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Iran takes the battle to Kuwait and Yemen",
       "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298733-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%83%D8%A9%D9%8E-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%88%D8%A7%D9%84%D9%8A%D9%85%D9%86",
       "source": "Asharq al-Awsat",
@@ -398,7 +388,7 @@
       "language": "ar",
       "date": "2026-07-22T00:30:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "أورتيغا يعلن نه��ية الانتخابات في نيكاراغوا .. والمعارضة أمام طريق مسدود"
+      "originalHeadline": "أورتيغا يعلن نهاية الانتخابات في نيكاراغوا .. والمعارضة أمام طريق مسدود"
     },
     {
       "headline": "Kingdom: The Houthis’ claims are false and they are committed to supporting Yemen and stabilizing navigation in the Red Sea",
@@ -497,6 +487,28 @@
       "originalHeadline": "عمرو دياب وشيرين .. يشعلان الساحل الشمالي في ليلة واحدة"
     },
     {
+      "headline": "Ethiopia police arrest alleged leader of multi - million - dollar trafficking ring",
+      "url": "https://www.bbc.com/news/articles/c4gklwpv1wyo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-22T00:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Morning Mail : Queensland buries DV report , rate hike fears grow , Zendaya cultural hijack | Australia news",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/morning-mail-wednesday-ntwnfb",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-22T00:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "The UAE condemns Houthi threats to Saudi shipping: a dangerous escalation that threatens global trade",
       "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPQlRmUlhBRXRZTXdFNlJ0bzhPSDJPWDJmY1JfQnVsTDMxYzdnNGJfN1dqeEZMU3IxY0pvODR5TzhkM1RxeXdodzNNR2lSVTd6NHlJeW9CR0dZelRsZlFHeXJxQjRxa0hPLVhSWUYwUTIxMW94WURReDF2ZVp4ei1SMHZEdUE2V3JlYk5wWVNGeUFnRmRVVFFmaHh5bjRQTGpYNEt5dm1LdnFTMVgtRGpBYjFLanJvTDEwcWdUT1FCYU1yVURrMVc4dlNJSG1qMVZkcThxUDgwRmhWYVNCN3NHbWdhc1pCVDhhU2Foa3dIcjRRczh4TDBnUzRlYi1kRmNZdzJ0S2VMbDNBQklKeHdUVXJEYXpPd3FJd2hiVWU5X1ZLWEhHVWFQX2NPRXRvbmZjTkpCYlJxNHRoc2I1VUJ0dkdwaG0zR1BYWXhBMTZPNGM2WmRwOUQ4TE95LUpCdUF6Vld5Q2lxZGdmVkF1QjJVd1VFTlFWUWV6YTNuTnpB?oc=5",
       "source": "بوابة أخبار اليوم الإلكترونية",
@@ -551,7 +563,7 @@
     },
     {
       "headline": "The most dangerous Houthi operations to prevent the export of oil and gas from Yemeni ports",
-      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPRmhrVzZ1dXowOWFnaWRkaFpUY3l3dHJDNXNoSTZQZVljMWZtTUpUcThmQTg5dUtzTmlnRUp4Z29RX2w0LVBleHpEVTNUZGNLd1YtSW5JdTI1UURhMXVodlRpeXh6VVlUTk1KeGhHZmp1YjloNktRNWpyb2RZXzN3alV3UUdkYkU1c01rUGtTckJGaklNMlRsU1dJNFp5Ym9mYV9pLUwzTmlNMUZzb3NRVjh4RDlrdVk5bk8tREpPckRHcmNrWXR5SGhCWUgtcThOVDl0cGtoWkNXZ0RCZFRLZjNSdzlMXzhQMVROb2NJcDlCbjNCdUY3Um5GZkhWUEZkWUswN2xka2tYOFBpMmlxX2x4TmJqcnU2eGdHMnQ3b2RsOXJkbjd1UWc2VjF3UGs1YXVvZkpnUkxKa2ZPa1l4dHQ2dlZEV1lFbHdhemp2TFM4WWtBbjhIVU1qeE9GQ0MxSzVBSGdKczhpNEFOSk5FVmxRWjZUMXFQcEZqWVdqekZubzVHMzZsaXl5MXpkNXRFemEtOVViVDAyVkxGQzNMbFJHLXFSdm9vZ09HY2hVR2hINWNHN2JIcktkVy1kcWNzLVhoU0pBWjdxMXVMYUNMS0dnRkFEV0xxY1hiR0p2M3dRSlhBY2FTRGpSODlnTmJZbktmLXBpMHplWExhdlpZ0gGEBEFVX3lxTE5LLXpPS3loamxocFhLUGwtWm5vVm1ocDZGVm5yNkQ3ZzRyRnJReXhnbnY3UlpyMy01VWljUk5BNjZTU2d1aVIzQVdkWGJwUlhkcF8tMTVudjZYWUdCMVNheGlCYkpEV3Bnc0RyS05HNXcwSzMtdDI4OFFXZDQwemViX29aWDBFVHdpbkMyWGxYY0M5akkzYlczWXgwNGZFcTdVX0VicERFWXVXYmNkeFI1bFJ0NVlJMTNiTm1uYlFPWjYyQzVYTWVBUlR1ZlZnX0hON1BZVUd3U0xXUUtVdXF4QVk2QllYY19zZGltNzRpZGRpeTVNcHd4MEk4ZjhEdXVwMmxmSjdCd245eFRzYjhQMWMyMkV6N3h6RFJVMVhsRTFMcmtfc1pFNDlKcFd2dk1WSUo4S0dhdDZLSXlSNkowX0xPTkZBWWhDSlQzTUNnZTZLWlFIbUZsalRWZjZ4QlRiWXVGVDBaYllGZVZBQTltTkQ1RFE0UmgwZXZoOW5lMkh5aFlvX2g0WVAtMVZxUUpVTlBjU1VRaTBMN1dKSVFRR2R0bjBQekFjTHRfU04tdE1GTFlJUDFZQ1U1YWlIeWtxb2pNNzFFc05XMEl3UzFGbzFFOEk1R2FiZEttZzFycVp5TVlNNkZWX2JFWWJ6X1VycG81OXg3RFgtZ0EwREotVDdEWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOSy16T0t5aGpsaHBYS1BsLVpub1ZtaHA2RlZucjZEN2c0ckZyUXl4Z252N1JacjMtNVVpY1JOQTY2U1NndWlSM0FXZFhicFJYZHBfLTE1bnY2WFlHQjFTYXhpQmJKRFdwZ3NEcktORzV3MEszLXQyODhRV2Q0MHplYl9vWlgwRVR3aW5DMlhsWGNDOWpJM2JXM1l4MDRmRXE3VV9FYnBERVl1V2JjZHhSNWxSdDVZSTEzYk5tbmJRT1o2MkM1WE1lQVJUdWZWZ19ITjdQWVVHd1NMV1FLVXVxeEFZNkJZWGNfc2RpbTc0aWRkaXk1TXB3eDBJOGY4RHV1cDJsZko3QnduOXhUc2I4UDFjMjJFejd4ekRSVTFYbEUxTHJrX3NaRTQ5SnBXdnZNVklKOEtHYXQ2S0l5UjZKMF9MT05GQVloQ0pUM01DZ2U2S1pRSG1GbGpUVmY2eEJUYll1RlQwWmJZRmVWQUE5bU5ENURRNFJoMGV2aDluZTJIeWhZb19oNFlQLTFWcVFKVU5QY1NVUWkwTDdXSklRUUdkdG4wUHpBY0x0X1NOLXRNRkxZSVAxWUNVNWFpSHlrcW9qTTcxRXNOVzBJd1MxRm8xRThJNUdhYmRLbWcxcnFaeU1ZTTZGVl9iRVliel9VcnBvNTl4N0RYLWdBMERKLVQ3RFrSAYQEQVVfeXFMTkstek9LeWhqbGhwWEtQbC1abm9WbWhwNkZWbnI2RDdnNHJGclF5eGdudjdSWnIzLTVVaWNSTkE2NlNTZ3VpUjNBV2RYYnBSWGRwXy0xNW52NlhZR0IxU2F4aUJiSkRXcGdzRHJLTkc1dzBLMy10Mjg4UVdkNDB6ZWJfb1pYMEVUd2luQzJYbFhjQzlqSTNiVzNZeDA0ZkVxN1VfRWJwREVZdVdiY2R4UjVsUnQ1WUkxM2JObW5iUU9aNjJDNVhNZUFSVHVmVmdfSE43UFlVR3dTTFdRS1V1cXhBWTZCWVhjX3NkaW03NGlkZGl5NU1wd3gwSThmOER1dXAybGZKN0J3bjl4VHNiOFAxYzIyRXo3eHpEUlUxWGxFMUxya19zWkU0OUpwV3Z2TVZJSjhLR2F0NktJeVI2SjBfTE9ORkFZaENKVDNNQ2dlNktaUUhtRmxqVFZmNnhCVGJZdUZUMFpiWUZlVkFBOW1ORDVEUTRSaDBldmg5bmUySHloWW9faDRZUC0xVnFRSlVOUGNTVVFpMEw3V0pJUVFHZHRuMFB6QWNMdF9TTi10TUZMWUlQMVlDVTVhaUh5a3Fvak03MUVzTlcwSXdTMUZvMUU4STVHYWJkS21nMXJxWnlNWU02RlZfYkVZYnpfVXJwbzU5eDdEWC1nQTBESi1UN0Ra?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -610,7 +622,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T23:57:24.000Z",
-      "originalHeadline": "ترامب يهدّد بضرب منطقةٍ قرب منشأة نطنز النووية، وإيران تشنّ هجمات على الكويت والبحرين والأردن"
+      "originalHeadline": "ترامب يهدّد بضرب منطقةٍ قرب من��أة نطنز النووية، وإيران تشنّ هجمات على الكويت والبحرين والأردن"
     },
     {
       "headline": "Britain strongly condemns the threats of the Houthi militia against the Kingdom.\n\nhttps://\nspa.gov.sa/N2638973\n#واس",
@@ -2097,7 +2109,7 @@
       "originalHeadline": "11 Years of Siege.. Yemen's Economy Between Losses and Organized Plunder\n\n#منصة_مصدر"
     },
     {
-      "headline": "Fifty economics. . Military earthquake.. Saudi Arabia enters the war, Bin Salman summons the army, and Egypt sends support.. Sisi’s secret channels! #FiftyEconomy #Egypt #Saudi Arabia #Iran #Iran #Yemen #Sisi #UAE",
+      "headline": "Five-year economy. . Military earthquake.. Saudi Arabia enters the war, Bin Salman summons the army, and Egypt sends support.. Sisi’s secret channels! #FiftyEconomy #Egypt #Saudi Arabia #Iran #Iran #Yemen #Sisi #UAE",
       "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxOU0ZHZWhaOE1yNzF6NGJjYUN0Z1pnNHdBTGRXNm1yZTdSNl9zTTB1UHJnZEpBcXJTOGNqc0JSS2ZrVXoxbHRxVTZjakF4VXFmb2ZLM2ppRDhNY1doOG5xY0dVNGZqcUZ3VWhtYWxzNFFZa2lQZkpaSHZFWktsUXRkS2NxQVZ1M2RCbWRfRXFYeGR1YlVtaHhRWDF2SFNoSzlfaGtjS09RVmtCMWtRS0hEQlBFcUNodUhEaW11VXl5a0E2eWQyV3NpUngxOEFORmh4S0ZBRnhBM0I0WWEyQ21WMndXaWRydmtpQUVsU2M0aVdvTnJqQXl0MTFnVjM2aUN6NFVqZVdkQWpIdGc0TnI3YjVJU25OeFhpZkFZMzIwOFU0X0NYVzh3RzlxdVh5N21pYWZZTENKSlVORWV0Qy1yOGFpRzhiTGJtUFd0VWdRSDBZMUxOcW45RW1ieTNrSl90akd3RWc2am1tWHpkTmZFT2pXbkVJYWpqVU0yOEx4ZENLak9jWWtHVmdjajdGZFlqNzBHVC1JWW5OUVNLNjZrdDQwOUZsaE42RkZjbFR1T3FKQWNXN2xEWHRVMUV3NEpBMWk5aXZTQ09QSjk4M0J5UW9TeDhHenc5Z0lwNVpvSnVweXZlcnN2M1BFb0lGaUstRXRXaFEzWDBXdW5nbDVITkVLenp1Z0ZSMnZNTVVKT0VHMDlnbmtKdk9VTkhQSFU3cjVsSGlreGF3TV81NVV5SlpjMS02LUFMQXJ1U0RjUHNKSzNfSDFTaEVpSVRsODdJc19zanpPa1NMR0ZqVGhCTW5KU0RUQTd1UkMzb0pOQlo3dkFmUTNObVItQTI5SEtidFFEMWJHdXNoajJWSzZXOXhkUFR1dkVjMUFPcG9PbnlReXdBSHc?oc=5",
       "source": "facebook.com",
       "sourceId": "google_news_gulf_arabic",
@@ -2105,7 +2117,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T19:02:18.000Z",
-      "originalHeadline": "خمسينة اقتصاد. . زلزال عسكري.. السعودية تدخل الحرب وبن سلمان يستدعي الجيش ومصر تُرسل الدعم..قنوات السيسي السرية ! #خمسينة_اقتصاد #مصر #السعودية #ايران #إيران #اليمن #السيسي #الإمارات"
+      "originalHeadline": "خمسي��ة اقتصاد. . زلزال عسكري.. السعودية تدخل الحرب وبن سلمان يستدعي الجيش ومصر تُرسل الدعم..قنوات السيسي السرية ! #خمسينة_اقتصاد #مصر #السعودية #ايران #إيران #اليمن #السيسي #الإمارات"
     },
     {
       "headline": "Israeli media: Oman submitted a proposal to remove mines and open the Strait of Hormuz to resume negotiations... and Trump rejects partial solutions",
@@ -2229,7 +2241,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-21T18:27:36.000Z",
-      "originalHeadline": "6 سفن تعود أدراجها بعد تحذير الحوثيين والحك��مة تتهمهم بالتصعيد لصالح إيران"
+      "originalHeadline": "6 سفن تعود أدراجها بعد تحذير الحوثيين والحكومة تتهمهم بالتصعيد لصالح إيران"
     },
     {
       "headline": "Qatar condemns Iran's repeated attacks on Jordan, Bahrain and Kuwait",
@@ -2784,16 +2796,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-21T16:44:57.000Z"
-    },
-    {
-      "headline": "Riyadh to Host International Engineering Conference in December",
-      "url": "https://spa.gov.sa/en/N2638764?type=news&uuid=N2638764",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-21T16:41:49.000Z"
     },
     {
       "headline": "Delighted to sign the EU-Oman agreement with \n@kajakallas\n, opening a permanent EU Mission in Muscat. This will further underpin the important work we do with our European friends.",
