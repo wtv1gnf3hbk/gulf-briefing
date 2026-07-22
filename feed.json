@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-22T16:32:55.207Z",
+  "updated": "2026-07-22T16:47:43.172Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "RUWAD signs 3.3 M in government deals in H1 2026",
+      "url": "https://www.wam.ae/en/details/c1clp82-ruwad-signs-33-government-deals-2026",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-22T16:35:21.614Z"
+    },
     {
       "headline": "High demand drives total sell-out of Linar Phase 1: Alef Group fast-tracks launch of Phase 2 sales",
       "url": "https://www.wam.ae/en/details/c1clp81-high-demand-drives-total-sell-out-linar-phase-alef",
@@ -51,6 +61,30 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-22T16:16:52.000Z"
+    },
+    {
+      "headline": "They drew the slogan of the Savior and mobilized their supporters... warnings against the escalation of the Temple groups in Al-Aqsa Mosque",
+      "url": "https://www.aljazeera.net/news/2026/7/22/%D8%B1%D8%B3%D9%85%D9%88%D8%A7-%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D8%B5-%D9%88%D8%AD%D8%B4%D8%AF%D9%88%D8%A7-%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%87%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-22T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رسموا شعار المخلّص وحشدوا أنصارهم .. تحذيرات من تصعيد جماعات الهيكل بالمسجد الأقصى"
+    },
+    {
+      "headline": "After the New York attack... How does the American right exploit the incident to target Mamdani? | news",
+      "url": "https://www.aljazeera.net/news/2026/7/22/%D9%85%D9%85%D8%AF%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%B1%D9%85%D9%89-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-22T16:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد هجوم نيويورك .. كيف يستغل اليمين الأمريكي الحادثة لاستهداف ممداني ؟ | أخبار"
     },
     {
       "headline": "flynas Confirms Purchase of 25 New Airbus Aircraft, Comprising 20 A321neo and Five Wide-Body A330neo Aircraft",
@@ -144,7 +178,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-22T15:54:22.000Z",
-      "originalHeadline": "الإمارات تدين تجدد هجمات إيران على دول المنطقة"
+      "originalHeadline": "الإمارات تدين تجدد هجمات إير��ن على دول المنطقة"
     },
     {
       "headline": "SAMA Licenses Malaa Company for Information Technology to Provide Open Banking Services",
@@ -208,17 +242,6 @@
       "date": "2026-07-22T15:45:20.000Z"
     },
     {
-      "headline": "Heritage Commission , Makkah Region Development Authority Sign MoU to Protect Heritage",
-      "url": "https://english.aawsat.com/culture/5298956-heritage-commission-makkah-region-development-authority-sign-mou-protect-heritage",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T15:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Hybrid or regular... The Gulf car market is rearranging its priorities",
       "url": "https://www.aljazeera.net/motors/2026/7/22/%D9%87%D8%AC%D9%8A%D9%86%D8%A9-%D8%A3%D9%85-%D8%B9%D8%A7%D8%AF%D9%8A%D8%A9-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A",
       "source": "Al Jazeera Arabic",
@@ -264,6 +287,39 @@
       "date": "2026-07-22T15:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "في انتظار طبيب لا يأتي .. حوامل الدمازين بالسودان يواجهن المجهول"
+    },
+    {
+      "headline": "Pakistan Condemns Houthi Militia Threats Against Saudi Arabia",
+      "url": "https://english.aawsat.com/gulf/5298953-pakistan-condemns-houthi-militia-threats-against-saudi-arabia",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T15:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "When Gulf Security Becomes a Global Issue",
+      "url": "https://english.aawsat.com/opinion/5298944-when-gulf-security-becomes-global-issue",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T15:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says US Will Destroy a Bridge or Power Plant for Each Iranian Attack in the Strait of Hormuz",
+      "url": "https://english.aawsat.com/world/5299011-trump-says-us-will-destroy-bridge-or-power-plant-each-iranian-attack-strait-hormuz",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T15:45:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Why do central banks prefer London to store gold... and is China competing with it?",
@@ -336,30 +392,8 @@
       "originalHeadline": "هل قادته خسارة الأرجنتين إلى الانتحار ؟.. الشرطة تحقق في وفاة مشجع"
     },
     {
-      "headline": "Pakistan Condemns Houthi Militia Threats Against Saudi Arabia",
-      "url": "https://english.aawsat.com/gulf/5298953-pakistan-condemns-houthi-militia-threats-against-saudi-arabia",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T15:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "When Gulf Security Becomes a Global Issue",
-      "url": "https://english.aawsat.com/opinion/5298944-when-gulf-security-becomes-global-issue",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T15:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says US Will Destroy a Bridge or Power Plant for Each Iranian Attack in the Strait of Hormuz",
-      "url": "https://english.aawsat.com/world/5299011-trump-says-us-will-destroy-bridge-or-power-plant-each-iranian-attack-strait-hormuz",
+      "headline": "Heritage Commission , Makkah Region Development Authority Sign MoU to Protect Heritage",
+      "url": "https://english.aawsat.com/culture/5298956-heritage-commission-makkah-region-development-authority-sign-mou-protect-heritage",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -2786,16 +2820,6 @@
       "originalHeadline": "الكويت تختبر ثقة أسواق السندات بإصدار وسط هجمات إيرانية متكررة"
     },
     {
-      "headline": "Ras Al Khaimah Ruler receives Ambassador of Austria",
-      "url": "https://www.wam.ae/en/details/c1cloqk-ras-khaimah-ruler-receives-ambassador-austria",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-22T10:34:52.761Z"
-    },
-    {
       "headline": "For updates on Aldar, visit:",
       "url": "https://x.com/ADMediaOffice/status/2079877329954938915",
       "source": "Abu Dhabi Media Office",
@@ -2834,28 +2858,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-22T10:31:24.000Z"
-    },
-    {
-      "headline": "The Saudi Crown Prince is in contact with the Emir of Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQaFlJbTFkTDNIamJ2bEp1U0ZxNlMtNjZsOEplVlJwUF8zTUNzemlfSUhQMmNhTXU1UTY4b1pNM3ExQ3hpMVpSUkZSX0pTZTV2UXRHT0ZzSXg4MzZGTnRqbENKQkotaWt0YnJib2tUYTl0V3g4TXpXSEE3Ul85S2hKSWFyRnhtdG0tSDZ0T1BIek5sWjJqOTVxVlgwdzl0WERFZlNGVVVxLXduU3BZeDVrQ25IMGt6MWtIOTdDUlRUbmIxRDRQdmZSVFY4SnlqOGxEWGwwTXFsOWdVcEtGblpfNnYteVhMc1ZtQkhoS2VzRjJBVFcxM2RjZnppeUNUSjM1aXpRc3M5RFR4c19LMmxNb1NGZDJvUUlydWpTdFVEMTJyaHdnWEl3bVdxS0ZoY01VM2NkajlXSkY2clhUd0J6Zk4xSzI4UDR6RXU0dGJRdG83U1B5aXN4SjZQUkZfNFIySVdURG9UbVFRTzVuVzEyVG1ZdWRGMUZxX1JjMlpRRnpieUdOOWFB0gGMA0FVX3lxTFBoLXlDWW9JNnliRnFiUGtMLThEYWtIT2hMQXlPVE85bU5qMzlseDA3blI4aTM3VTR5X2ZldHFpd0ZGb2R1NEljOHEwRFlWclRnWEU3T0JKWmhtY0pIYTdyZTZuUWZMMWR6Nk1JYVQ5aWpVSk9wUnQ0aG9jZTJ1bElla2ltM3pneDRzWk5JTG9KUjE0QjN6VXJaaklYN2lGVGtOTjQ0OWx2TjZ4dXpBdlRWcktRck9IeXJlNVJNMTJBQWpzT1JYWVYwUHYySGk3OGlRWkhSci03ekpEWlNQUEJOY25zdTNPZzBiZU11U2VXdGx0amNTUHh1MHNLVXVVbHNjUFpVMThFbXpUTWtDdkI1a1hIVFBIdm5rXzBwbXlGZjdTNTVjMzdlelVUSUdGOC1sLWc0OWJfR3RaZE1vTTJSbUJmcmNYMFM2dHRkM1RoYWNQTDdJWWxyRWR0X3hKQ1kwNW0ya1A2UHdWV0RtOF9ZYks0SGVFTmYyZmNTcTQ4NHUyZnNDRHJybWl2Ug?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T10:28:00.000Z",
-      "originalHeadline": "ولي العهد السعودي يجري اتصالاً بأمير الكويت"
-    },
-    {
-      "headline": "The UAE and India are discussing opportunities to enhance cooperation in 6 fields",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxORjlXc1hlYk9jRHRnN0dpaDYxODh4RkJKMEZ1Z200RzhZbXUzT2pTR2xHRXkwcVR4YktaT3MwLURvakR0Tm1iT3JaMEY3UDBERlVxZFp6ZHdrcVdGWElPX29GLUNST2dmX1pzOW5LMW5IMUQwQUZfbDAweXBPbEhyb09Gd3prTlVKTlIyZkhpRzVKaHhrem80X21WWC1FYXAzdUpPaFdyTUtyZlNYNDhVdWY2b1VXUXp2S2ZaV0MzSXUxSV80MnNvN01ZYThZakpOUHlvWFdnQ2tmcW9RVGxZeS1sdDlPWUFNOHRCbWZYT21QODl3YWFpNWEzVGFkRTJMSFFTX0xiVXdfT19vLWtJd1hDY0piNW1EZ2tFZ05aVzRyRWVvcUhROTl5cC0wV01pU3k1dDFDSHE2aTF4TE1IT3MtbXU1RHF2U2h0TGNfalhNd3J3LVE4VV9BRVE2cUlJa0JkODJGVWxaT2M0V3hual9rRV9zU212WUVmaDByazdLLWkyTHBNTHFpR2loMXBYWGgxVncySkEzTXVocWxXVkVhYlFXMENFSjFRMXRoeXprN2FuSkE?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T10:27:07.000Z",
-      "originalHeadline": "الإمارات والهند تبحثان فرص تعزيز التعاون في 6 مجالات"
     },
     {
       "headline": "#Lebanon's Prime Minister says the withdrawal of Israeli occupation forces from the southern town of Zawtar Al-Gharbiya marks a key national milestone & the start of a full Israeli withdrawal from Lebanese territory\n\n\nhttp://\now.ly/hU6V30sXmKa\n\n#KUNA #Kuwait",
