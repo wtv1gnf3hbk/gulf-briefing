@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-22T09:18:54.423Z",
+  "updated": "2026-07-22T09:33:54.778Z",
   "itemCount": 300,
   "items": [
     {
-      "headline": "UAE Condemns Houthi Militia Statements Against Saudi Arabia",
-      "url": "https://spa.gov.sa/en/N2639164?type=news&uuid=N2639164",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T09:16:55.000Z"
+      "headline": "UAE judo team secures 8 medals on opening day of Arab Championship in Jordan",
+      "url": "https://www.wam.ae/en/details/c1clonp-uae-judo-team-secures-medals-opening-day-arab",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-22T09:32:39.596Z"
     },
     {
       "headline": "Iran war - AP News",
@@ -20,7 +20,48 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-07-22T09:12:27.000Z"
+      "date": "2026-07-22T09:29:55.000Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T09:26:35.000Z"
+    },
+    {
+      "headline": "Strata Manufacturing, Embraer partner to support commercial aircraft aerostructures",
+      "url": "https://www.wam.ae/en/details/c1clonn-strata-manufacturing-embraer-partner-support",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-22T09:20:28.715Z"
+    },
+    {
+      "headline": "The price of Oman oil rises by $7.72 per barrel in futures contracts",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQUzdocVBlSzA4b2RuY0FobEpoSjJCdDRmRTRpVVJHQmF5THk3QnRZOVVabUZBb0d4LXVnN3JFZDh6YnpzLWQ1SF96c3B5Q0w2aHBrTHljZ0owWTF0ZE1rMXl2WndCd3RydVZMTEV0dXJ5S2pHUjNsUnBkVC13QTc5RkhnUFEtUUVublRNQ1pNb2dFdGZhd2lWWWoyckdUNHpLY0xNN2kxTkItZ1NJN2htdjN0QUMzMk4wVWF6eGJPUmNSV20wZEFia0d3RDlfWW5UNFdONW9YRS1hNHQ5U19VWG9kaGJhSjIwS2I1ZDlvcFQwMmR2SUx4T1FYRlBUeXdjN0VsTkZmdlpYV2g1NWEtUHUzdmlQVGEySHFfcG5tOGhGZ3BjTFc1RWVPWURWV0pBUlUzTEYwQjJqY1dSdU56N2FKR3ZpMEg1YkhhSVJfS1ZxeXFIYmVRRGdFdUIyQU0tZmQ4TUt0a01FS09UZ3VzZ3Fick1LeXN1YlBkSmh0NmFUNW01Mk9TREZqcjFlNGJza3ZrcU9UTkxfbGdmX3FsUWM5Yw?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-22T09:19:20.000Z",
+      "originalHeadline": "سعر نفط عُمان يرتفع 7.72 دولار للبرميل بالعقود الآجلة"
+    },
+    {
+      "headline": "UAE Condemns Houthi Militia Statements Against Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2639164?type=news&uuid=N2639164",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-22T09:16:55.000Z"
     },
     {
       "headline": "Middle East News | Latest News From The Middle East Today - AP News",
@@ -52,6 +93,61 @@
       "language": "ar",
       "date": "2026-07-22T08:47:00.000Z",
       "originalHeadline": "الكويت تسوّق لثلاثة إصدارات قياسية من السندات الحكومية المقومة بالدولار"
+    },
+    {
+      "headline": "Sakani Expands into Riyadh Residential Towers for the First Time",
+      "url": "https://english.aawsat.com/business/5298787-sakani-expands-riyadh-residential-towers-first-time",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T08:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "CMA CGM Will Impose Emergency Surcharge Due to Renewed Hormuz Tensions",
+      "url": "https://english.aawsat.com/business/5298832-cma-cgm-will-impose-emergency-surcharge-due-renewed-hormuz-tensions",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T08:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Oil Extends Gains to Near Six - Week Highs on New Middle East Supply Risks",
+      "url": "https://english.aawsat.com/business/5298801-oil-extends-gains-near-six-week-highs-new-middle-east-supply-risks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T08:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "How Yemen Govt Exposed the Houthi Misleading Blockade Narrative",
+      "url": "https://english.aawsat.com/arab-world/5298771-how-yemen%E2%80%99s-govt-exposed-houthis%E2%80%99-misleading-%E2%80%98blockade%E2%80%99-narrative",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T08:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "What to Know About Iran Pickaxe Mountain , Home to Underground Nuclear Site Threatened by Trump",
+      "url": "https://english.aawsat.com/features/5298811-what-know-about-iran%E2%80%99s-pickaxe-mountain-home-underground-nuclear-site-threatened",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T08:45:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "The General Secretariat of the Cooperation Council holds a bilateral virtual meeting with the Kingdom of Bahrain as part of studying the possibility of building water connectivity projects between the countries of the Cooperation Council",
@@ -96,7 +192,7 @@
       "originalHeadline": "شركة الطائرات المروحية السعودية تسعى لتأسيس أسطول يضم 60 طائرة جديدة"
     },
     {
-      "headline": "Details of the Iranian army targeting ammunition and equipment depots for the American forces in Kuwait",
+      "headline": "Details of the Iranian army targeting ammunition warehouses and equipment for the American forces in Kuwait",
       "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNbkhhNE5vTmtReUE3Y3ZHbkYyX1JNZUhRdGs5bWNuQk5JQTZHZjZRNHFmNWFicHByblR5RElZaV9mTDRDd2trRnctdEtsalc4OGtIVkdCeWpjNHpGMlltclhDWEZRT1YyVlBTTlJVcjg2eF9va1M2UnVhQnhiNmpQWUpNQVotU2VuakJZbDlCVVVKU3NxWE4yWjdkeThxdG5sMDMwQmM4aFFnaGJtNEJGb3ZVMzA5YkVVRHRDQ0Y5RlhiLVllWEhwSk9zSXc5Z2JhUUc2X0ZzZEpUeGVuZ2w2QVZPeHBwMVUxVTZUZGxZMTFFd1VvTTF1TjB0ekd5V2gxUk1zTDB4eC1RQUt0UU80RllCX1U5NkFUWnFPbVcwMjdGaGRzQjBFd3RVUVJGTWk0S0VYRS04OWhMVHROeTNSanMyanBXaEh6d05VWDFNRFNST3ZDMWFhTGhwblJiS05YMEpuYjBNRXhVSy0xbmlTMWN4ZGFpMjBoQWkyaGVYSy1aeVQtTGoxZU41N2gxb1F0M0oxOEpfc19jcHJueUJRLUxNY0VFMWltb2NUekJ3UzI4SnE2cmplNzhiamxidWpXd2hzcjZfWEdxN3ZWTy1uM0lTMFVCTW9QaEdsUHY4YTZrVFRWMU9VS2NZUC1QTVE0Q1MxNU0za2NncVR2eF96b2h2RzZCejJlUkdvYVVrRF9zblBhb0dPUzNDSVdvaXFHZVJxRW92cGZmTDNyZEJDelV6Mzc5a1hJSC1xNkZQdW9FN1VhZHJQQ1BuVExleDN5SGp4eXJR0gHQBEFVX3lxTE9TOFY1Qm15WXFnTG9kRGMyNUttSkJ5TWVUVXRkLXpGQ0lfMFd5bkJRSnU4TTBYXzRYanM1ZEhUZnpINmRCc2FkYkVnZlJGd1VXTGF0amhReUpicHZYN2xXRTVNbmxYTXRDbWdfc2drWV9Ja2lHVUpOQjVUQzRuV08xNWlreWVzVHdleGN0bklFdFJXWHNjYUdTdVR3TWpRdmg4bFdCSUdZOHRoeHNyU2NQUnlPUFV5cExhQVgxUEtPQ3FDOUZKbktoT29rdVFlZndzQlFUMWJ6XzQ1dHRUanJOSFlTcUV2a00tb013a19uRno5R1VDU19rdlBONktsakF1RHNwX2FqRnY3dlVwcFpyek1fOVYwb1Z5eUpkQTVKbkpkeTB2dk90d0xLS28wN0FQenNQbWZJdVRhQmxUaDZ4eUJ3amRiby1Vb0NlWGNHNUtOamxtOXpER19leTIwRk9rZ3E4aHdFcDNJS3dpTEF6LWNucmh4TWJ3QXhyZGpSU1BUVHdYckt5Y3VFR2JiVTlvdEVsN0Z2Y1RMUHVpX2VONFJ2MHJweW9qZFNyY2ZyXzhsYWdaNUpLZ0ZTLWRTRkN3Rm1jblhMekRaSjZwRzV0OEw5WTZPYzNSd19ZU29PeXJMVFd1RUc2RmI4dlQzUG5JQ1pGS0UzR0RFWkp5Mk02OExSUXN0ZjRXUUV1NFl4Qm1zQ3VXMXF2SDhUNjhfaTlERWI2VTFuYXFxYnJybkFkN2s2aUI4eEJTUFlfUXNIenVtUVpjT1B1QUlIWG1kT2M?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -104,7 +200,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-22T08:27:00.000Z",
-      "originalHeadline": "تفاصيل استهداف الجيش الإيرانى مستودعات ذخيرة ومعدات للقوات الأمريكية فى الكويت"
+      "originalHeadline": "تفاصيل استهداف الجيش الإيرانى مستودعات ذ��يرة ومعدات للقوات الأمريكية فى الكويت"
     },
     {
       "headline": "Indian Schools suspend outdoor activities to protect students from summer heat",
@@ -126,6 +222,17 @@
       "language": "ar",
       "date": "2026-07-22T08:16:00.000Z",
       "originalHeadline": "\"الطائرات المروحية السعودية\": نستهدف ربط المملكة بالعالم ودعم السياحة والاستثمار"
+    },
+    {
+      "headline": "Middle East crisis live : US renews strikes on Iran as Trump threatens to attack nuclear site very heavily | US - Israel war on Iran",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-22T08:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "He lives in isolation.. Why doesn't Fadel Shaker have a phone?",
@@ -332,17 +439,6 @@
       "originalHeadline": "ألقيت بأطفالي من الشباك .. شهادة مروعة لإبادة عائلة المصري في غزة"
     },
     {
-      "headline": "Middle East crisis live : US renews strikes on Iran as Trump threatens to attack nuclear site very heavily | US - Israel war on Iran",
-      "url": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-22T08:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "ROP makes several arrests for public morality, labour law violations",
       "url": "https://timesofoman.com//article/174708-rop-makes-several-arrests-for-public-morality-labour-law-violations",
       "source": "Times of Oman",
@@ -423,16 +519,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-22T07:48:41.000Z"
-    },
-    {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T07:40:18.000Z"
     },
     {
       "headline": "Wall Street Journal: Trump approves a historic nuclear agreement with Saudi Arabia",
@@ -581,6 +667,16 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-22T07:02:52.000Z"
+    },
+    {
+      "headline": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T07:01:13.000Z"
     },
     {
       "headline": "Gold in Bahrain maintains its stability as markets await US economic data",
@@ -738,30 +834,8 @@
       "date": "2026-07-22T06:15:35.436Z"
     },
     {
-      "headline": "Lebanon Army Says Israeli Forces Fired Near Soldiers in South",
-      "url": "https://english.aawsat.com/arab-world/5298754-lebanon-army-says-israeli-forces-fired-near-soldiers-south",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "US Military Completes 11th Night of Strikes on Iran as Attacks Overshadow Diplomacy",
       "url": "https://english.aawsat.com/world/5298749-us-military-completes-11th-night-strikes-iran-attacks-overshadow-diplomacy",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Australia Protests China Destabilizing Missile Test",
-      "url": "https://english.aawsat.com/world/5298761-australia-protests-china%E2%80%99s-%E2%80%98destabilizing%E2%80%99-missile-test",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -784,6 +858,39 @@
     {
       "headline": "Conflicts and Energy Shocks Threaten Progress Against Global Hunger , UN Agency Head Warns",
       "url": "https://english.aawsat.com/world/5298762-conflicts-and-energy-shocks-threaten-progress-against-global-hunger-un-agency-head",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Allowing Iran Control of Hormuz Dangerous Precedent , Rubio Tells ASEAN",
+      "url": "https://english.aawsat.com/world/5298751-allowing-iran-control-hormuz-%E2%80%98dangerous-precedent%E2%80%99-rubio-tells-asean",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Lebanon Army Says Israeli Forces Fired Near Soldiers in South",
+      "url": "https://english.aawsat.com/arab-world/5298754-lebanon-army-says-israeli-forces-fired-near-soldiers-south",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-22T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Australia Protests China Destabilizing Missile Test",
+      "url": "https://english.aawsat.com/world/5298761-australia-protests-china%E2%80%99s-%E2%80%98destabilizing%E2%80%99-missile-test",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -817,17 +924,6 @@
     {
       "headline": "Iran Moved Nuclear Centrifuges into Pickaxe Mountain , Israeli Intelligence Says",
       "url": "https://english.aawsat.com/world/5298757-iran-moved-nuclear-centrifuges-pickaxe-mountain-israeli-intelligence-says",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Allowing Iran Control of Hormuz Dangerous Precedent , Rubio Tells ASEAN",
-      "url": "https://english.aawsat.com/world/5298751-allowing-iran-control-hormuz-%E2%80%98dangerous-precedent%E2%80%99-rubio-tells-asean",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1086,6 +1182,17 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-22T05:19:17.000Z"
+    },
+    {
+      "headline": "The Trump administration agreed to a nuclear agreement with Saudi Arabia, according to two newspapers",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQUFRUm9vc1U4SVd2OGpOeDgxUkIzRHhzcXh4N21USW5BQkh2TDUza1lJZVVjYVRVTGpMZ0xDcXRIWUQzcjBxTkhpelYwUlp0YWRmbHdHLXkxQUdiRU40YkFZeGhLM2F2WTdOb2F6QzktbnltMG43c295M3pmSDhqZm9xOUVaQmtsUEsxa3NXWXNMSU9zazk0azBTQnNFY2Q1eW9BcUh0djlkb2FCdHZRVG9LT3AyM1hLWl84ejVMVUJCM2lXVG15WHE5dmxCTjdGeVpqUXNId25BbU1Xa2tVQ1l1dlBUQdIB8AFBVV95cUxQa0ZtSk1fdUN0RkVyQ0hzWG5JWm9xUlNLT2hkcDhiVExudlA5OGNLemdaREtCVFlsdkZ4R0pwS3ZSVkVQVnktTFZJM1lkRUFzZGJtMUFPeWJpQlQ2aDl6SWxhZmZBQk9qSDk4SENadDJmMmRrd2FSTVhGclNhR2FJWk1Cc2FlMkxhRTFDRENGTlA3bjZDRUVJVkwyVUVmUVRDLVpWTUhzMTFGREFOVTI4dThuU3p6akRPakFuaTA1TE4tUDF1ZFh6azd1RlFWcVZ0YTIwM1lwZUxaZURkdVNuVUJSMjFMUDdSTFhNazItaXM?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-22T05:19:01.000Z",
+      "originalHeadline": "إدارة ترامب وافقت على ات��اق نووي مع السعودية وفقا لصحيفتين"
     },
     {
       "headline": "Hot Weather Expected Today\n#QNA  #Qatar\n\nhttps://\nbit.ly/4pvNQzg",
@@ -1481,6 +1588,16 @@
       "originalHeadline": "3 ملايين دولار وذهب مخبأ .. إسقاط شبكة تهريب معادن ثمينة بالجزائر"
     },
     {
+      "headline": "Trump will attend the dignified transfer of 4 US service members killed in the Middle East - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3NfXzBZYV9KUGRjVUZsU3VXM1QxZTA4RkN1TXZ6UWxyVUZMZkZMQmR0b1BlV2hvUzJzVzhoaEwtOWJuVXVWVXRZNTVnS3IyTFNKM1laZ0tkUTliN1B5eGVHd0U4MTlONXZ0LXVWeUo3VnRGX21UWHoyWUVhU1JzNFhqeUNLMVBPNUVHbGIxcVdaa1NzcXJEQQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-22T04:12:00.000Z"
+    },
+    {
       "headline": "#Meteorology: Expectations of heavy thunderstorms accompanied by hail showers and active winds over Mecca, Al Baha, Asir and Jazan extending to Najran. And hot to extremely hot weather over the Eastern Province, Riyadh and Medina with active winds also over the Northern Borders,",
       "url": "https://x.com/SPAregions/status/2079781208804704588",
       "source": "Saudi Press Agency (Regions)",
@@ -1554,16 +1671,6 @@
       "date": "2026-07-22T03:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "إمام مسجد بأمريكا : احتجازي لدى سلطات الهجرة ذكرني بسجون إسرائيل | سياسة"
-    },
-    {
-      "headline": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T03:21:00.000Z"
     },
     {
       "headline": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say - AP News",
@@ -2170,122 +2277,6 @@
       "date": "2026-07-22T00:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "أورتيغا يعلن نهاية الانتخابات في نيكاراغوا .. والمعارضة أمام طريق مسدود"
-    },
-    {
-      "headline": "Kingdom: The Houthis’ claims are false and they are committed to supporting Yemen and stabilizing navigation in the Red Sea",
-      "url": "https://www.okaz.com.sa/local/na/2258027",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المملكة : ادعاءات الحوثيين باطلة وملتزمون بدعم اليمن واستقرار الملاحة في البحر الأحمر"
-    },
-    {
-      "headline": "Immediately after the wedding night, a groom faces accusations, and DNA reveals the surprise",
-      "url": "https://www.okaz.com.sa/variety/na/2258041",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد ليلة الزفاف مباشرة .. عريس يواجه اتهامات والـ « DNA » يكشف المفاجأة"
-    },
-    {
-      "headline": "The UAE strongly condemns the Houthi group's statements regarding Saudi Arabia",
-      "url": "https://www.okaz.com.sa/local/na/2258038",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الإمارات تُدين بشدة تصريحات جماعة الحوثي بشأن السعودية"
-    },
-    {
-      "headline": "Al-Houthi... Imami tales",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298740-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A5%D9%85%D8%A7%D9%85%D9%8A%D8%A9",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الحوثي ... حكايات إمامية"
-    },
-    {
-      "headline": "War and situations with connotations",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298731-%D8%AD%D8%B1%D8%A8-%D9%88%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%B0%D8%A7%D8%AA-%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حرب ومواقف ذات دلالات"
-    },
-    {
-      "headline": "A giant writes about a giant...he is great and revered",
-      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298739-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%8A%D9%83%D8%AA%D8%A8-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D8%A5%D9%86%D9%87-%D8%B9%D8%B8%D9%8A%D9%85-%D9%88%D9%85%D8%A8%D8%AC%D9%84",
-      "source": "Asharq al-Awsat",
-      "sourceId": "gdelt_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عملاق يكتب عن عملاق ... إنه عظيم ومبجل"
-    },
-    {
-      "headline": "She went on vacation...and came back with a child she didn't know she had!",
-      "url": "https://www.okaz.com.sa/variety/na/2258040",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ذهبت لقضاء عطلة .. فعادت بطفل لم تكن تعلم بوجوده !"
-    },
-    {
-      "headline": "Amr Diab and Sherine... set the northern coast on fire in one night",
-      "url": "https://www.okaz.com.sa/culture/art/2258019",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-22T00:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "عمرو دياب وشيرين .. يشعلان الساحل الشمالي في ليلة واحدة"
-    },
-    {
-      "headline": "Oil climbs to near six-week highs as conflict threatens key oil transit routes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T00:26:00.000Z"
-    },
-    {
-      "headline": "A new threat by Yemen's Houthis could widen the Iran war and put another trade chokepoint at risk - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2hFT3FQLUM4NEFZXzFYM19IWXRPZFdlQkVzMG8xTjNiMWtCNjRrcGp3S3dnZUNmT0hMVVpBRHljY1RWTXpYdHM2MXRnZ29NOHVSc3oxSXVaUW5PSjdoTmNid1pTelpoa21LVHUyd1p5ckl4d1lFaGgzR1ZoNjNvQ2E0RklIalNpZDRQY1pHTENYMTN0Y2xkMndUOWNHQjlhR1owQkx3?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T00:25:00.000Z"
     },
     {
       "headline": "#Kuwait urges action on transitional justice and missing persons in #Syria.\n\n \nhttp://\now.ly/rPjO30sXmg0\n\n#KUNA  #KUWAIT",
