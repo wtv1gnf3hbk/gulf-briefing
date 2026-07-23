@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-23T05:48:57.488Z",
+  "updated": "2026-07-23T06:04:06.280Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Guterres urges Security Council to ensure natural resources drive peace, not conflict",
+      "url": "https://www.wam.ae/en/details/17c4b7b-guterres-urges-security-council-ensure-natural",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T06:01:06.875Z"
+    },
+    {
+      "headline": "Weather Forecast for Thursday",
+      "url": "https://spa.gov.sa/en/N2639876?type=news&uuid=N2639876",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-23T05:56:11.000Z"
+    },
+    {
+      "headline": "Saudi Arabia: A fire in the bow of a ship resulted from being targeted in the Red Sea, but no human casualties were reported",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUV94NFdaTVJwaXd0QmZucHpBbHdFaWJOa2pQb1QzbGlGNXNrbFpERDEtRG1yaDBTWl9oM256SWhHZ052azRlUFJtRzNYeF9SYUlicEVTeDNoWVRQQldic2dXWERRenh0dm1Db0tGR3llU3V5RzJteHJja1BXcDRNcm9EZW0xQXpHYmNnZ2c4VnFsS1ZMeFkwSV9EVktsc2FRNkc4d0Q5bk9EaHpLeUdja2hPeUQxN1ROU2FSNk8wVUFZLU9WbHJTZWZBT0JESTluQlhsdXNYQmlLRFRfejhqT085R29IZk90emE3ZW1Ka3JaZnZWaGdBMFZicGhoN1pMNDJfZnRrcDhIdjdHOEVoYS1FRW8xa2RvWXc2SHc2MmJqbmdRcDNUZ0cwdWJxb29GZ1hGejlwUjRHRC1lYjdn?oc=5",
+      "source": "قناة النيل للأخبار",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T05:47:26.000Z",
+      "originalHeadline": "السعودية: حريق فى مقدمة سفينة جراء استهدافها بالبحر الأحمر دون إصابات بشرية"
+    },
     {
       "headline": "US military completes 12th straight night of strikes on Iran",
       "url": "https://www.wam.ae/en/details/17c4b70-military-completes-12th-straight-night-strikes",
@@ -254,6 +285,16 @@
       "date": "2026-07-23T04:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تقارير : رئيس الموساد زار واشنطن وقدم معلومات عن جبل الفأس الإيراني"
+    },
+    {
+      "headline": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T04:15:00.000Z"
     },
     {
       "headline": "Gulf projects withstand the war led by Saudi Arabia and the UAE",
@@ -1175,6 +1216,16 @@
       "date": "2026-07-23T00:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الشعب على الباب .. هذا هو الامتحان الأكبر الذي ينتظر البرلمان السوري"
+    },
+    {
+      "headline": "National Guard deploys as flash floods in West Virginia inundate homes and businesses - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRk5zQXRqY2FRR0FtRWJNcHJQLUJIQ2NqMU5tWHR5bmlYLTU2Q3hGclFSWTgyN3ZXT3h5NWJUWGJmc05sbXBiU0M4bEJVQVVxZnVpbmxkY2h1aUd4OU1TZHp3bG9SWFRvMWhqLXpDc1kycTl3VFhHU3pORkQySHpvalNtdTJ5ZHlWUWNPRHk1Mk8xdw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T00:08:00.000Z"
     },
     {
       "headline": "Trump scoffs at affordability as he touts economic policies at Georgia rally | Donald Trump",
@@ -2452,17 +2503,6 @@
       "originalHeadline": "الاستثمارات مقابل عودة اللاجئين .. أحد شروط ألمانيا للمشاركة في إعادة إعمار سوريا"
     },
     {
-      "headline": "“Air connectivity” in Saudi Arabia connects the “Red Sea” destination to 6 European cities",
-      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPdzNiRjNWS0hRSU9iZ1dUQkhaZ3NqdmxjQ1JfaGMweTBEOVBadzRwbkJlLVo5YThtb3loQmlYbkMzSFZDS1Z2bkdycHptYV9sYjZOWUJGY01qLTU2UThCcFdQemxFbmRLaGFENkxXV0ttVkt3VHNWai1MdVRZcGh0WXVydzJpdnluMzZIVnkySnk3WS1wUG5Ma0E2YTNXb1NCaWtxVHhMQnhRVUlWUDlYNnhBcUQyQXA1cTY0VkdCdThwUkFnWDdNTWg1bUU3N0hYSnNpMDJ3U0ZPNmVpT081LWJSYTZpelFURU5FYVAwMHhSNWg2SzNyV2dyV0wtUHVkQjBEVEdBQ0FuYTRwbkstTDItbUpwT2ZfbGV1aHR6cTZ2dU0tN3I2RGJXMDlsSHBzQjlTU3JVTGdKaloySjFkNkZwRnZtRW9GeXZlVWxsNlktTzdnMm5zRDFCWjhpNEpmZWxJeFpYYjNLakU5ME1wOVFKQWt1NWlWOVhob1N4NVJBemtVVWY3QW85a1VmMzlUaDR6Rm9YdUJOZEg5dHdMaGNsTWszYkZWdnhRRnFoT2VSV3NBLTd3NkxzYVNGMkRMX0NrbFZzUjNjaUxDamh2SUd6YkgtMmR5QXJ3NG81N2tRT25yczZVdWljMmk5MkxJbUtyZEMtaHBkVVdQX2syQl91Q2pGZHUyZWd0MW05Tjd0N2VwSXFQddIBngRBVV95cUxQVjNCYXNYVlVXOENzWHl2b2RTRER2S2FDNVNkdklLSFI4V3FrdERwRWtYVVVzLTNuOHhXVTUwbGMyX3hBOHh0ajVCdWFubENKWkpIcjluay1FN2JyUHYxdnctVUM4U1ZmVHpXdHBBQWNnRUhISkNKSmNJT3BFSlZscVBjeXloelpBUU0xdDc0UldfSVZaSmU2Z0QyZ1Bwb1k1ckMwMlI0OThsQ2tBQ2dYaENYN20yN25QM1AwMVFITmZuZnJxVjVnbjlBYVdQb3JqZ2ZfQVBYTmR3Ti1tc1oxdWE0VW9XRWVkM0plRUtuai1meHlfWm9NU1JFRTRzLW1aQzU4TGFxc2dKdW8tVzJDdTNrTTlzbFNZMXplMUZVTGNPcG5aZWROTWxMZDQtMnFOX2ltRjY0VzdfbmU5QkREdWR6ZHc2dnRUeUwwMzNWbVJoZnMydFBtYkdFWjNLZzdvOEI0ZEFCNW9kVVEtUnBrdVpkVjUxTkJzSlU0bVlFR0c3UDBBRXdudVA0QmVSSV9pS3FyQjhZbWdnRDJ5dXB0SDltQXBhWlZoZDBjbzNjVzVYQUtxYmtEMTNhX3BRNFRRYTJIT1J5dkdGdDFyaGVjaTY1SjBZaURqbzdNejU5ZVNMOXNyVk52UDQ1ZlcyNHl3eGxiQWJGUXFOUzNaeXpPWkgzeTl4Y0x4MzltVzQwdlZmQ1Vtdjg5enl1Z0IxZw?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T18:42:00.000Z",
-      "originalHeadline": "\"الربط الجوي\" في السعودية يربط وجهة \"البحر الأحمر\" بـ 6 مدن أوروبية"
-    },
-    {
       "headline": "Israeli Occupation Forces Detain Palestinian in Jerusalem, Settlers Take Over Nablus Home\n#QNA #Palestine\n\nhttps://\nbit.ly/4fMxJtQ",
       "url": "https://x.com/QNAEnglish/status/2080000334676561954",
       "source": "Qatar News Agency",
@@ -2484,17 +2524,6 @@
       "originalHeadline": "Mr. Leader:  \nThe Saudi does not imagine that the matter is a picnic, but it will be completely different  \n\n#الحصار_بالحصار"
     },
     {
-      "headline": "The Houthis close Bab al-Mandab to Saudi Arabia... and the Suez Canal is under pressure",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5oNXlFU2syanR0ck5jNGRWTVprU2liYUltU1lOZjV1NzNpNGRSeEZOaDNGdEQ1VUxlNFBhSktR?oc=5",
-      "source": "الحرة",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T18:36:33.000Z",
-      "originalHeadline": "الحوثيون يغلقون باب المندب على السعودية.. وقناة السويس تحت الضغط"
-    },
-    {
       "headline": "#US and #China Hold Talks Ahead of Xi's Planned Washington Visit\n#QNA\n\nhttps://\nbit.ly/4wgsIPY",
       "url": "https://x.com/QNAEnglish/status/2079999021574168769",
       "source": "Qatar News Agency",
@@ -2502,16 +2531,6 @@
       "category": "qatar_twitter",
       "country": "Qatar",
       "language": "en",
-      "date": "2026-07-22T18:36:25.000Z"
-    },
-    {
-      "headline": "MWL Secretary-General Visits Al-Noor Mosque in Christchurch",
-      "url": "https://spa.gov.sa/en/N2639610?type=news&uuid=N2639610",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
       "date": "2026-07-22T18:36:25.000Z"
     },
     {
@@ -2523,26 +2542,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-22T18:35:11.000Z"
-    },
-    {
-      "headline": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxVY1ZXb3k0ZmxlWngxbUYxVlAxc240XzR5RlUtWFlmYTAtc0xSWG5WaTNmOEVxTVRwS0N5MVhDRzV3RnJXNmlUS19tbGxUWEZrLXRJTzJPVHYxaW04bG84bGR0R2NzYVA2N0tjalRiWFduVXk0M2puWE9CX1ZSaU51OWR0b0lUb2Y2dnVXZHdreWJDVk0zc0VFdXhNbnBPdUlDMmxuckJWM1R5QTFZOEh5aWtfbDN5c2c0bmlBbk9mSEpL?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T18:31:00.000Z"
-    },
-    {
-      "headline": "Dubai Municipality launches 'Account Manager' initiative to strengthen professional engagement with customers, partners",
-      "url": "https://www.wam.ae/en/details/c1clpdu-dubai-municipality-launches-account-manager",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-22T18:30:52.415Z"
     },
     {
       "headline": "Nazaha is pursuing a number of criminal cases:\n\n- Arrest of a businessman on charges of bribery amounting to 1.6 million riyals in exchange for providing customs facilitations\n\n- Arrest of an employee at the Ministry of Health for receiving an amount of 900 thousand riyals in",
