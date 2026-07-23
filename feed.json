@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:02:57.308Z",
+  "updated": "2026-07-23T22:17:46.048Z",
   "itemCount": 300,
   "items": [
     {
@@ -51,7 +51,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-07-23T21:33:57.000Z",
+      "date": "2026-07-23T21:35:02.000Z",
       "originalHeadline": "ترامب: الاتفاق النووي مع السعودية مرهون بالاعتراف بإسرائيل"
     },
     {
@@ -63,6 +63,30 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-23T21:30:03.000Z"
+    },
+    {
+      "headline": "Mossad reveals an Iranian plan to target senior officials inside Israel",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/israeli-spy-agency-reveals-alleged-iranian-plot-to-target-senior-officials-inside-israel",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الموساد يكشف عن مخطط إيراني لاستهداف مسؤولين كبار داخل إسرائيل"
+    },
+    {
+      "headline": "Egypt.. Gold compensates for part of its losses despite the pressures of global markets.. What are the experts’ comments?",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/egypt-gold-global-market-experts",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصر .. الذهب يعوض جزءاً من خسائره رغم ضغوط الأسواق العالمية .. ما تعليق الخبراء ؟"
     },
     {
       "headline": "UN Secretary-General calls on Security Council to intensify efforts to settle disputes through peaceful means",
@@ -187,6 +211,42 @@
       "date": "2026-07-23T20:30:21.000Z"
     },
     {
+      "headline": "Al-Riyadh newspaper | The Kingdom distributes more than 1,300 food baskets in Khan Yunis",
+      "url": "https://www.alriyadh.com/2199220",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المملكة توزع أكثر من 1300 سلة غذائية في خان يونس"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Elliott moves to Manchester City in a record deal",
+      "url": "https://www.alriyadh.com/2199212",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | إيليوت ينتقل إلى مانشستر سيتي في صفقة قياسية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Arab Parliament affirms its full solidarity with the Kingdom and condemns the Houthis’ targeting of a Saudi ship",
+      "url": "https://www.alriyadh.com/2199221",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | البرلمان العربي يؤكد تضامنه الكامل مع المملكة ويدين استهداف الحوثيين لسفينة سعودية"
+    },
+    {
       "headline": "Al-Riyadh newspaper | Foreign ministers of Arab and Islamic countries condemn the Israeli escalation in Al-Aqsa Mosque and the Holy Mosque",
       "url": "https://www.alriyadh.com/2199224",
       "source": "Alriyadh",
@@ -295,42 +355,6 @@
       "originalHeadline": "جريدة الرياض | برشلونة يعلن غياب دي يونغ عدة أسابيع للإصابة"
     },
     {
-      "headline": "Al-Riyadh newspaper | The Kingdom distributes more than 1,300 food baskets in Khan Yunis",
-      "url": "https://www.alriyadh.com/2199220",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | المملكة توزع أكثر من 1300 سلة غذائية في خان يونس"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Elliott moves to Manchester City in a record deal",
-      "url": "https://www.alriyadh.com/2199212",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | إيليوت ينتقل إلى مانشستر سيتي في صفقة قياسية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | The Arab Parliament affirms its full solidarity with the Kingdom and condemns the Houthis’ targeting of a Saudi ship",
-      "url": "https://www.alriyadh.com/2199221",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T20:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | البرلمان العربي يؤكد تضامنه الكامل مع المملكة ويدين استهداف الحوثيين لسفينة سعودية"
-    },
-    {
       "headline": "Holding of the Seventh Meeting of the Work Team of the Security Committee Emerging from the Saudi-Bahraini Coordination Council.\n\nhttps://\nspa.gov.sa/N2640379\n#واس",
       "url": "https://x.com/SPAregions/status/2080389656386863116",
       "source": "Saudi Press Agency (Regions)",
@@ -413,17 +437,6 @@
       "date": "2026-07-23T20:16:07.000Z"
     },
     {
-      "headline": "Trump justice department to retract New York Times subpoenas over Qatari jet reporting | New York Times",
-      "url": "https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T20:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "The family of “Abu Madini” receives condolences on her loss",
       "url": "https://www.okaz.com.sa/people-situations/na/2258320",
       "source": "Okaz",
@@ -458,6 +471,17 @@
       "date": "2026-07-23T20:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الخرف الرقمي .. هل تضعف الهواتف الذكية ذاكرتنا ؟ | أسلوب حياة"
+    },
+    {
+      "headline": "Trump justice department to retract New York Times subpoenas over Qatari jet reporting | New York Times",
+      "url": "https://www.theguardian.com/media/2026/jul/23/new-york-times-reporter-subpoenas-withdraw",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T20:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Kuwaiti Air Defenses Intercepting Iranian Missile and Drone Attacks\n#QNA #Kuwait\n\nhttps://\now.ly/9ego50Zs5P2",
@@ -777,7 +801,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T19:04:54.000Z",
-      "originalHeadline": "نتنياهو: اعتراف السعودية بإسر��ئيل سيشكل \"قفزة تاريخية\""
+      "originalHeadline": "نتنياهو: اعتراف السعودية بإسرائيل سيشكل \"قفزة تاريخية\""
     },
     {
       "headline": "Joint Statement by Foreign Ministers of UAE, Jordan, Türkiye, Egypt, Indonesia, Pakistan, Saudi Arabia, and Qatar",
@@ -935,18 +959,7 @@
       "date": "2026-07-23T18:35:16.000Z"
     },
     {
-      "headline": "Secret Service agent on Vance detail under investigation | Secret Service",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T18:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Isolation of power...the American vacuum exacerbates the crisis of Israeli legitimacy",
+      "headline": "Isolation of power...the American vacuum exacerbates the Israeli legitimacy crisis",
       "url": "https://www.aljazeera.net/politics/2026/7/23/%D8%B9%D8%B2%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%BA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%81%D8%A7%D9%82%D9%85",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -955,7 +968,7 @@
       "language": "ar",
       "date": "2026-07-23T18:30:00.000Z",
       "tier": "gdelt",
-      "originalHeadline": "عزلة ��لقوة .. الفراغ الأمريكي يفاقم أزمة الشرعية الإسرائيلية"
+      "originalHeadline": "عزلة القوة .. الفراغ الأمريكي يفاقم أزمة الشرعية الإسرائيلية"
     },
     {
       "headline": "War and weather fears push global agricultural crop prices to their highest level since 2023",
@@ -1004,6 +1017,17 @@
       "date": "2026-07-23T18:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "منظمات أممية : آلاف النازحين يعيشون ظروفا مأساوية في المخيمات بالسودان"
+    },
+    {
+      "headline": "Secret Service agent on Vance detail under investigation | Secret Service",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T18:30:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Capital Governor opens “Little Trader” Exhibition\n\nhttps://\npolicemc.gov.bh/en/news/80452/",
@@ -2132,7 +2156,7 @@
       "date": "2026-07-23T15:37:50.355Z"
     },
     {
-      "headline": "Where is the escalation between the Houthis and Saudi Arabia headed?",
+      "headline": "Where is the escalation between the Houthis and Saudi Arabia heading?",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMW9vYU9aTTV3NEloR3dCaEFBTHVidWI0T0YtSEVPS2xxWmI3ejBDQ3l5cHAtN1pOQl83VmlYQkViYlNZRnlhOHZsbEw2a1ZLd3RwXzd6enZZUjV00gFiQVVfeXFMTWw0Sl83ZDk5M3ZvWWl3by1zem9BMUMzeExuQTVlYXdNLTRodW54aHF1UlIzMjNlNFNqSDJRUHBPSEtaSjJ2OHNKUmQ2X1loR2Y0UGI3NVMta2VPM193dXUtRlE?oc=5",
       "source": "BBC",
       "sourceId": "google_news_gulf_arabic",
@@ -2723,26 +2747,6 @@
       "language": "ar",
       "date": "2026-07-23T14:30:21.000Z",
       "originalHeadline": "Chargé d'Affaires of the Minister of Interior Receives the Turkish Ambassador to the Kingdom.\n\nhttp://\nspa.gov.sa/ar/w2640214\n#واس"
-    },
-    {
-      "headline": "Jordan Condemns Houthi Militia Attack on Saudi Vessel in Red Sea",
-      "url": "https://spa.gov.sa/en/N2640253?type=news&uuid=N2640253",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T14:25:06.000Z"
-    },
-    {
-      "headline": "US energy shares gain as Houthi tanker attacks push Brent crude to $100 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-23T14:25:04.000Z"
     },
     {
       "headline": "Federal Youth Authority launches 'National Readiness Programme – Ghatareef'\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1d74l2",
