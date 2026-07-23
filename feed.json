@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-23T18:48:38.618Z",
+  "updated": "2026-07-23T19:03:05.576Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "DSCD: National Statistical Programme boosts UAE data systems",
+      "url": "https://www.wam.ae/en/details/c1d74zo-dscd-national-statistical-programme-boosts-uae",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T18:57:23.110Z"
+    },
     {
       "headline": "SCI launches second season of 'Makers of Good' programme",
       "url": "https://www.wam.ae/en/details/c1d74zn-sci-launches-second-season-makers-good-programme",
@@ -13,6 +23,17 @@
       "date": "2026-07-23T18:39:20.690Z"
     },
     {
+      "headline": "Secret Service agent on Vance detail under investigation | Secret Service",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/secret-service-agent-vance-investigation",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T18:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Kuwait condemns in the strongest terms the continued aggression of Iran and its agents on its territory",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQ0hUdk1QbkU2b2pHS2E3Uk5tR29DZDRJbllRSkxQcmdIUGJ1SWIyRWN1cDZ0U1JlQkJDR2VIVGFMalg5aEExQjBkblJ0RlBoVHplYlRn?oc=5",
       "source": "بوابة الأهرام",
@@ -22,6 +43,17 @@
       "language": "ar",
       "date": "2026-07-23T18:22:00.000Z",
       "originalHeadline": "الكويت تدين بأشد العبارات استمرار عدوان إيران ووكلائها على أراضيها"
+    },
+    {
+      "headline": "Take Centrica gas storage warning seriously – Britain still needs secure supplies | Nils Pratley",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/23/centrica-gas-storage-warning-seriously-britain-secure-supplies",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T18:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "UK Condemns Houthi Militia's Targeting of Saudi Vessel",
@@ -89,6 +121,16 @@
       "date": "2026-07-23T17:58:02.000Z"
     },
     {
+      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T17:58:00.000Z"
+    },
+    {
       "headline": "Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel - AP News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT21CUE92UDctSWt0SEU0elltYVpxR2N0WVJaZkM1RF9feDlNMnh6RU5hS2FCNWNGcjNmOC1Jc1ZqcTAzc21SdlhsRFZVRmNyT1R4SzJ0ZzdmRmFEUHd4N202bzd4VUVpbXBzbWh2TEJwdkl3a3ZLUzN3LUJGeDNBa25FVkhFaElsR016VkpaTkw1SEdwUWFXSENUOGlpVGJGNmtEMGdSb01LYnRIVjk4?oc=5",
       "source": "AP Gulf",
@@ -97,16 +139,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-23T17:55:00.000Z"
-    },
-    {
-      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-23T17:54:07.000Z"
     },
     {
       "headline": "Kuwait affirms its full right to defend its sovereignty against Iranian aggression",
@@ -118,6 +150,17 @@
       "language": "ar",
       "date": "2026-07-23T17:43:03.000Z",
       "originalHeadline": "الكويت تؤكد حقها الكامل في الدفاع عن سيادتها ضد العدوان الإيراني"
+    },
+    {
+      "headline": "$15.6 million net foreign purchases of UAE stocks today - Mubasher Info",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNLVFnU1BCVkJNbTVqUDlsUFl0UFlYMU5sVG4tTkRGajBCSzV4b0diTWxNUS1PaXpzN2l2SWNfRTZIVHZqNFdmWlo2Yk94aU05ZW9ZNkJzeElsMFhZYzFTSGpQRFVuWlAxYm15OEN6TnpzNG5ndzdVOTZySXZuUUFFWUUyYmU0MWxLTGZNalZjVFV0TFBmaTdyT3M1SS1jS0pPbGRhZnRISV9XS3NIYWk1Yk85LWo2VXZHZlc1ZjMyQm1hN2xVU01nd0VfZFdmY1ZTcjBNblhkX3ppS25pZjlTX1lkX3dRMlRHd0RWUFI4VWVnZ1VLRTdZdkhGN0pmVndSaFplS3QxdkhQQU1SQjI1MUFsZEVqNUVROVozWG1WQ19GOC1XRjBVT1libHpvdElNMGdET1lJWU1NbmN6bDVUNmJNTFpQaUg0YmRRUzNFWG9vVXFKM19lcWVnSGtxYXdfSUxxd1N3d0IxRmtVQmw0QThmaWZhWVZQdnBqNEFqTEczOEY5MGVGUDVSVy1yRUR2UkRZQ1RQVXF6TldzN25Kdmk1cW5lOE5rLWZSQ0pCLWM3aWVEaEZBbWtvbFhSLUJNaU1LRlJHbWJwV0laTlhPSGZKdlhfSm5UOE9N?oc=5",
+      "source": "معلومات مبا��ر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T17:37:53.000Z",
+      "originalHeadline": "15.6 مليون دولار صافي مشتريات الأجانب في أسهم الإمارات اليوم - معلومات مباشر"
     },
     {
       "headline": "Trump requires Saudi Arabia to join the Abraham Accords with Israel in order to approve the nuclear agreement",
@@ -220,6 +263,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-23T17:06:08.000Z"
+    },
+    {
+      "headline": "House again OKs resolution seeking to halt military action in Iran, but Senate rejects similar one - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYk9VVlZkTHZyYXUwSWc3T2JVRW54TzhXck5NTExNSjZvblVjLTJjUUdUaFBEclFDR0FMUmRDUU9tVGxmR3h5b0JjQWVGSFNYd3BuQmVLcG9ZZU1JWnFFLWdPckpGSHBtTkxMemYzRnZIYVRRaEhObGtrcVBZckxZWGtCTDRWbWh6TUE0bXJHdlBKd25VX2dRYjFUVFZaSGY3SWc?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T17:02:00.000Z"
     },
     {
       "headline": "Pakistan's US funding push after Iran war role draws skepticism from economists - Reuters",
@@ -389,18 +442,6 @@
       "originalHeadline": "ترامب يدرس استئناف العمليات القتالية الكبرى في إيران، ودول عربية تصف هجمات طهران بأنها \"عدوان صريح\""
     },
     {
-      "headline": "We wish for death...the screams of Gaza residents under the rubble, waiting for reconstruction",
-      "url": "https://www.aljazeera.net/news/2026/7/23/%D9%86%D8%AA%D9%85%D9%86%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%B5%D8%B1%D8%AE%D8%A7%D8%AA-%D8%B3%D9%83%D8%A7%D9%86-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D9%85",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-23T16:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نتمنى الموت .. صرخات سكان غزة تحت الركام في انتظار الإعمار"
-    },
-    {
       "headline": "How the Bab al - Mandab blockade threat helped push oil back above $100",
       "url": "https://www.theguardian.com/business/2026/jul/23/bab-al-mandab-blockade-push-oil-100-houthi-ships",
       "source": "The Guardian",
@@ -423,6 +464,18 @@
       "tier": "gdelt"
     },
     {
+      "headline": "We wish for death...the screams of Gaza residents under the rubble, waiting for reconstruction",
+      "url": "https://www.aljazeera.net/news/2026/7/23/%D9%86%D8%AA%D9%85%D9%86%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%B5%D8%B1%D8%AE%D8%A7%D8%AA-%D8%B3%D9%83%D8%A7%D9%86-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D9%85",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-23T16:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نتمنى الموت .. صرخات سكان غزة تحت الركام في انتظار الإعمار"
+    },
+    {
       "headline": "Saudi Arabia and the UAE account for the largest share of the region’s deal pie",
       "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQcGdjUWI2Z1dmc3BUZ001c2g2cVdPUjh5b1RyVXd6c3ViWXVOWkxKWmVkQlFNQXJkMmFYOWxlT3IxVDNHN09PY0RkQVJjT2oxSjRhd2hrdVlaNVdCZHJSZVF1WXVCR2xvbndDUm1uMS1nS2hmLThLMksxaXc1SHBJWTJjRmJVaHBGNnB4cHMyd0NRc3JDSlQwbDh2anJqT21uMlJ5SWNRb0hWQURrT0ZIaTZqRFFjTmpDb2ozME40U0xYaWpjb3MyUGVCNDVfcktMb3hMNEJiZTRETVlmT3A4T2d6U3dldzRJN0hRU3ZuZmtvajVYcU1iY2o0cjhJc29CRlJFX2FyeW5LMTdhR0RRRkpCMWhzcWxhNm1lb2lwUXhWVFBBNlE5eXVaUTBLb0xwMnRQRE1CdGRWbTRmOUdRWmU2TGJQSHpDSVVxbjh5d1o2ZFdJQUx5RVBEZlBJOF9YZzl0Z1Q1eVNRcmlnaG51MzBOS0RHTHlPX2cwMklaMzVLb3NYTFViX3BQMHhKM1Bhdm5zaWw1VV9nRVpkSHVqUnBHQmk4b3VDSzBfRXRteldpaVNQS1hQdDNUQVZmZnlsYVJwN1pMY0hBdmhwaTZ4aTdXcS1kbkJSa2xjRmZnX2Q?oc=5",
       "source": "اقتصاد الشرق مع بلومبرغ",
@@ -442,7 +495,19 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T16:30:06.000Z",
-      "originalHeadline": "أمريكا: الاتفاق النووي مع السعودية مرهون بالتطبيع مع إسرائيل"
+      "originalHeadline": "أمريكا: الاتفاق النووي م�� السعودية مرهون بالتطبيع مع إسرائيل"
+    },
+    {
+      "headline": "Trump made the Saudi nuclear program subject to the Abrahamic Agreement: Why hasn't Saudi Arabia recognized Israel yet?",
+      "url": "https://www.bbc.com/urdu/articles/cd7ld08epdvo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T16:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ٹرمپ نے سعودی جوہری پروگرام کو ابراہیمی معاہدے سے مشروط کر دیا : سعودی عرب نے اب تک اسرائیل کو تسلیم کیوں نہیں کیا ؟"
     },
     {
       "headline": "When peace becomes a source of division... Why did the statement “We do not want war” spark controversy in Tehran?",
@@ -623,18 +688,6 @@
       "date": "2026-07-23T16:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "غوتيريش يحذر : الشرق الأوسط يقترب من نقطة اللاسيطرة"
-    },
-    {
-      "headline": "Trump made the Saudi nuclear program subject to the Abrahamic Agreement: Why hasn't Saudi Arabia recognized Israel yet?",
-      "url": "https://www.bbc.com/urdu/articles/cd7ld08epdvo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T16:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ٹرمپ نے سعودی جوہری پروگرام کو ابراہیمی معاہدے سے مشروط کر دیا : سعودی عرب نے اب تک اسرائیل کو تسلیم کیوں نہیں کیا ؟"
     },
     {
       "headline": "Muslim World League Condemns Houthi Terrorist Militia’s Targeting of Saudi Vessel",
@@ -2853,37 +2906,6 @@
       "originalHeadline": "أرباح بنك الإمارات دبي الوطني ترتفع إلى 16.2 مليار درهم في النصف الأول"
     },
     {
-      "headline": "Dubai offers tourists benefits worth £610 as numbers plummet amid Iran war",
-      "url": "https://www.theguardian.com/world/2026/jul/23/dubai-offers-tourists-benefits",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T12:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Death toll in India hydropower tunnel disaster rises to 25 as rescue effort ends - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdLUVNTd0RDdk1HZWd5UXU5TEtEb09GbjVXSFhUSm5rczB4eXd5Ti1YV3A5RVRtYVZOS1NWVDNSb3ZfcWktWm5TUjVLLThZVzl5QUw1czNwUnoxYWdZTXU2eHJFc0NUMXBiM3NfeHI5ZWVHS2JIemV1cHVFandJdHBHRE1JdGlxR2tPQTMzZHV2dzBncms5ZXY1WGctUFotUXdGNUw4cHUxZw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-23T11:59:00.000Z"
-    },
-    {
-      "headline": "MoHRE issues guide on existing worker health insurance procedures",
-      "url": "https://www.wam.ae/en/details/c1d74f5-mohre-issues-guide-existing-worker-health",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-23T11:58:38.168Z"
-    },
-    {
       "headline": "The operational headquarters of Oman Visa and Medical Screening Center officially opens in the Philippine capital, Manila, as part of Oman's efforts to develop its workforce recruitment system and elevate the efficiency and reliability of pre-travel procedures, safeguarding the",
       "url": "https://x.com/ONA_eng/status/2080260455155761435",
       "source": "Oman News Agency",
@@ -2902,27 +2924,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-23T11:54:02.000Z"
-    },
-    {
-      "headline": "Britain warns against traveling to Kuwait and Bahrain unless absolutely necessary",
-      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQaHhQSjkyc3hxZUlVeGJNa1JfaV83dXJnYTRfSElBa1JmdzRjZENoSFlqTlp1aGZFWVI5RXB6RkZrWWxUc1I5WEpxem1IQllMWF9od2h6UHBFUVlhcTNFd1VWTm5XaW9lV0hxbzdzSVV3T1dTRWdQZUs2NzBGRDJUMjIxeFpKb2k1aWJTY0o3UVNBMjVYLTNLWXNRbGw1UmJRaUJXa3Mzc3BlQWtOeFJ1SnpTYkIzVGJ5UlFrOHpVTndZeUsxcmY0QWNPWUNmSnRHNlNVYnI5cHhGUVg2dGxGT1ZHWXl5dWlBR0tJb0k1YklvRGdhRUVqdUZESGhqUmduaHE5SjRrMnhsMGU5UWs4RGprZzRPU1NiUENZNzVlNWtfbkY5NUZMUkQxTXZZdVJOWnhZOUIyOERIVlBsdm9XRHFpNkJGc2JQbXAwSktscEFzazE2YTVDdTJDYXYwcFlQUWVpaFFfTmFzMXl6ZE1DbjFDOHEtZlJwaFpSZW8tRm5JNzZ1SnpnRVdZUUpQZGd5d2l3blVUalU1eG9hSjVpY3FxcmhUYS1qaFFmeFdWYnRfbF9aR3pTa3ZnRlV4T1hveGM5Y0JhUDUtdWhxVUtlZHcyYUlTUGUxdWRHbFlOOWxIRGRxU1NKd0dmd2NObmV1aTRnQl9BQ1JOUDdzTmVKMXp5ajM4SjJROWxxZzhlX25CNVM5cTZLbGZsdWYwUnlyVFlaeUlkRTI3MFnSAbAEQVVfeXFMUFZxWk1oM1pLZ3ZWQWk3VkFNTW5XUjNsbHI2V2RkVUFtUUR4bXlaY0ljeWxvRmNEQ3NvSDl1b0pHRnZUNkJYRDVweVZ2Rm9pTFgxMGpURGZPMklQMmhmMlVkbXN1aFNIenNxUzN5UjBtOXFvOGRCWmdFbTZXa0F3TndldG15czE3SDZxQkoxTXBnZ1VpOGJLUjhvcWV0RGhNMVNMUGg0aWtyS0NpNnJVWWxiMlcxU3R6REJhOXB2cWxHU0NlUmtIQWZNTnhvYk1mOWZfQTA2VXBhZTNOaEVYbjJZZDR3XzhtQVRWT2JZelpKdVBfcktBSk9vUWk5a3cway1qd0Fqbzk2VlE3NjdDYXpLTWZ3SHpGUjR3dHRiZXdJRDNrSFc1bEN0NnlOMXJNeldBeTVTVGY5SEF3d281QkozeExhZnRjUzZ0c041eklyOFRCSGpraWVBRzY5UlkxVFUtUi1kVW5ZYUg3aFh0OGc5aW5sbmlYM20zUDJkSTRZTHJtLU5FcmpyUFJCZjBDampKWVBIN3lrRTZEM1dEbGJSUnFuRFJEX253TmdqaVFpMjhuczhpTE1zdkxjcTRlSlgtaERaNGZUS1E3S1pQT1h0Sk1md3NJdjg2NXkzN1drTGtqTTJXaV9EakswVUl4c1JRMEh3YmZNcEZNV2RhaGhNMlN2cm83dWVVeHJ3ZDBoaWVWSjVlTlZTN1pxamhBN3psbElaM3NvcHV2RWdXT2Q?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T11:53:04.000Z",
-      "originalHeadline": "بريطانيا تحذر من السفر إلى الكويت والبحرين إلا للضرورة القصوى"
-    },
-    {
-      "headline": "AMMROC, Airbus Defence and Space sign MoU to enhance military aircraft sustainment capabilities",
-      "url": "https://www.wam.ae/en/details/c1d74f4-ammroc-airbus-defence-and-space-sign-mou-enhance",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-23T11:52:17.387Z"
     },
     {
       "headline": "Excellent catch up with \n@DrSJaishankar\n. Productive discussions on the evolving regional landscape and the need for sustained engagement to address shared concerns and challenges.",
