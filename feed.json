@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-23T05:32:42.944Z",
+  "updated": "2026-07-23T05:48:57.488Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "US military completes 12th straight night of strikes on Iran",
+      "url": "https://www.wam.ae/en/details/17c4b70-military-completes-12th-straight-night-strikes",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T05:33:15.695Z"
+    },
+    {
+      "headline": "Emirates NBD Bank's profits stabilize at $1.74 billion in the 2nd quarter",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVczNZTDZpOWpNRGtnWEd1ajh2WkN0cVctLXRFZFFYbW9CTlpmZ00wZS1BYnY2bHBPdzcxbXdqd3hyRlhQZ0ozQjQ3UHZWQmNUZ0tycXdBZk5MckphaW1kV3FPT0tibWlHX2JBWGdYWlNXWkVZb195Z003aERCZE0?oc=5",
+      "source": "Reuters",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T05:33:00.000Z",
+      "originalHeadline": "أرباح بنك الإمارات دبي الوطني تستقر عند 1.74 مليار دولار في الربع/2"
+    },
     {
       "headline": "UAE leaders congratulate Egyptian President on July 23 Revolution anniversary",
       "url": "https://www.wam.ae/en/details/17c4b6z-uae-leaders-congratulate-egyptian-president-july",
@@ -87,6 +108,66 @@
       "date": "2026-07-23T05:01:48.000Z"
     },
     {
+      "headline": "American writer: Hegseth leads the Pentagon into a crisis that threatens national security policy",
+      "url": "https://www.aljazeera.net/politics/2026/7/23/%D9%83%D8%A7%D8%AA%D8%A8-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%87%D9%8A%D8%BA%D8%B3%D9%8A%D8%AB-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A5%D9%84%D9%89",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "كاتب أمريكي : هيغسيث يقود البنتاغون إلى أزمة تهدد الأمن القومي | سياسة"
+    },
+    {
+      "headline": "Can Zahran Mamdani arrest Netanyahu if he visits New York?",
+      "url": "https://www.aljazeera.net/news/2026/7/23/%D9%87%D9%84-%D9%8A%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D8%B2%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%85%D8%AF%D8%A7%D9%86%D9%8A-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل يستطيع زهران ممداني اعتقال نتنياهو إذا زار نيويورك ؟"
+    },
+    {
+      "headline": "“Transport”: The safety of the crew of a Saudi ship that was targeted in the Red Sea",
+      "url": "https://www.okaz.com.sa/local/na/2258211",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« النقل »: سلامة طاقم سفينة سعودية تعرضت للاستهداف في البحر الأحمر"
+    },
+    {
+      "headline": "They were found inside their prison... “two mobile phones” leading Hadir Abdel Razek and Sarah Khalifa to investigation",
+      "url": "https://www.okaz.com.sa/culture/art/2258101",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عثر عليهما داخل محبسهما .. « جوالان » يقودان هدير عبدالرازق وسارة خليفة للتحقيق"
+    },
+    {
+      "headline": "Monkeys surprise scientists with human-like engineering abilities",
+      "url": "https://www.okaz.com.sa/variety/na/2258210",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "القرود تفاجئ العلماء بقدرات هندسية تشبه البشر"
+    },
+    {
       "headline": "Wahouthi wadai kuhusika na shambulio dhidi ya meli za mafuta baada ya Marekani kufanya mashambulizi zaidi dhidi ya Iran",
       "url": "https://www.bbc.com/swahili/live/cpq8lnp4zg1t",
       "source": "BBC",
@@ -106,6 +187,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-23T04:59:44.000Z"
+    },
+    {
+      "headline": "Reading in French newspapers - Le Figaro newspaper: The civil nuclear program...Saudi Arabia gets the green light from Washington",
+      "url": "https://news.google.com/rss/articles/CBMiwwZBVV95cUxOS1dMWkxhMzZ5VVl3UEtIdktqRUFwbDM1SFpyOUFoNUxDZm5ZVTM3eWxnSklTN1VkazgwMWNxR3h6N0lUS3VKd2l4NW9YREVpSVhDWmRPTzItOXRsclNIQmlldTNOMXlLYXR2d0ZLaGp3Y2JPcjhOcDZRcHdBRlpVYnRhYl9qX1MxMXhNcHFPamdhbHZYc0wzTVNOcmhqMXItdGtzeHh3c3FjVlFaaU1RZVk0clQyMnAyV1FSZ2JyRmpGMlBMcEtrNzdBRFoySURNdjJmclNOdXhMS3AxY2JIV2gwdFZyT2ZTZmdRT1NXLVRzS1N1ZkZTSTVMMjdmS1UzbkVuS3BJaUQ0bTA3anN5MHRwWUhWV0NNUk5oR1BFb25IQ1lYdFRrODVFQ1lCanRtR1E0VlFEWWJnSlBMVUR1Q2MtOVRPZDNmSWN0VXpEc2cydFdjZFpieTUzZHVvcmZrWGN6TFNnbXA3ak1HdzRNQW1nSl9MQi1NWUpuQjdqR3RQYmpkWGI4TnlkWlpXc2Jmd3ZHdThHQUFwM2JXWmFFdXVqQV9XTWFSQkdNSmRmVWpPTFJhSlRma1NlUDBFQS1KMnVzOUNfaGhPU1Bmbm83eDNFbnBJVHlqWkcxZWtYdXkyUnFFdE5OMzctOTJRZS0zeEtNQl9tSTVEMG1Vak5PRmk0dlFPbHBwMl8zQzBkbjFna0FNNEpobldHSGF2Q3pia2RfREc4SkZ1b3Y2RXZRbXFGNnFPajF4bzhwRExFQ0tZZWNPVnNSZnJ4NXZpS1N6SUwta0Y1R2ZyQUNNRXJ4cm5QUmZUQjJ1WnZfQTA1TzRGME44aXJWMHVHNFNpcV92ZHpJYzZydVFhSWltRUs0S0JWYXF1VnhpangxQjNfYmRqT09mdElMNkZncmliU2lqRnVmUHRvMVY1cFFFOFZfVnVmanJNLXJnZzJtWjdzYzZVajNQNTlkY05RZmV6MmRJUGNCR2UtS0Z3QW15LUUtTXFzM09XYkUzOElhdWlYTlNaU1VZcFNQOW1VeXJFZDRvNlI4Z2RvWUMwT29aOVA5UFhVZXRBWkNLOFVrWXFxb0tJcTRmU1dOQTNjMWxXMUpwSGNv?oc=5",
+      "source": "مونت كارلو الدولية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T04:54:19.000Z",
+      "originalHeadline": "قراءة في الصحف الفرنسية - صحيفة لوفيغارو: البرنامج النووي المدني.. السعودية تحصل على الضوء الأخضر من واشنطن"
     },
     {
       "headline": "DP World enhances efforts to avoid the Strait of Hormuz",
@@ -173,17 +265,6 @@
       "language": "ar",
       "date": "2026-07-23T04:03:03.000Z",
       "originalHeadline": "مشاريع الخليج تصمد أمام الحرب بقيادة السعودية والإمارات"
-    },
-    {
-      "headline": "What is the US - Saudi Arabia nuclear deal and why is it causing concern ?",
-      "url": "https://www.theguardian.com/world/2026/jul/23/what-is-the-us-saudi-arabia-nuclear-power-deal-explained",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Al-Riyadh newspaper | Lebanon condemns the Houthi militia’s threats to navigation in Bab al-Mandab and affirms its solidarity with the Kingdom",
@@ -256,6 +337,17 @@
       "date": "2026-07-23T04:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | مجلس النواب الأمريكي يقر حزمة قياسية للإنفاق العسكري"
+    },
+    {
+      "headline": "What is the US - Saudi Arabia nuclear deal and why is it causing concern ?",
+      "url": "https://www.theguardian.com/world/2026/jul/23/what-is-the-us-saudi-arabia-nuclear-power-deal-explained",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T04:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Rubio to revive prospect of US helping end war in Ukraine in meeting with Russian counterpart - AP News",
@@ -376,7 +468,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T02:56:59.000Z",
-      "originalHeadline": "واس: استهداف سفينة سعودية في ��لبحر الأحمر وطاقمها بخير"
+      "originalHeadline": "واس: استهداف سفينة سعودية في البحر الأحمر وطاقمها بخير"
     },
     {
       "headline": "U.S. Central Command: Our forces targeted Iranian military sites including maritime capabilities, missile and drone storage facilities, coastal surveillance sites, and air defense systems.",
@@ -399,6 +491,16 @@
       "date": "2026-07-23T02:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بين العزلة والصمود .. كيف أعاد بوتين بناء نفوذه العالمي ؟"
+    },
+    {
+      "headline": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzBfZ2dVYUNDa2lMZlVQYXFfSWU3bWlaZjRVTV9DM0V3NjRDN2pvWnRhMVE4T2RwYXhGdTd1ZEMybWE4ekJGcC1Oa3lsWnFwQ1ZISE5XcUZOazlVaEZQaU9jLTQ2UmstZkZ3UWw5amhGQU1TTVY4VGRXX2R6d0xOMENmTmlYTHBKOGJnRTNDdzVZQ1p3NXA0alZSOVJxV0dwS3AxQkliUkpES0hneVdYMmtjNFpERW1TRkNUVDN5Z2E?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T02:29:00.000Z"
     },
     {
       "headline": "After the Houthi statement.. Saudi Arabia announces \"the targeting of a ship while sailing in the Red Sea\"",
@@ -2443,47 +2545,6 @@
       "date": "2026-07-22T18:30:52.415Z"
     },
     {
-      "headline": "10th Al Dhaid Date Festival opens tomorrow at Expo Al Dhaid",
-      "url": "https://www.wam.ae/en/details/c1clpdt-10th-dhaid-date-festival-opens-tomorrow-expo",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-22T18:30:41.973Z"
-    },
-    {
-      "headline": "ELIA launches new institutional identity",
-      "url": "https://www.wam.ae/en/details/c1clpds-elia-launches-new-institutional-identity",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-22T18:30:06.575Z"
-    },
-    {
-      "headline": "Saudi Clients Delay Payments To Some UAE Travel Agencies",
-      "url": "https://skift.com/2026/07/22/uae-travel-agencies-report-delays-in-payments-from-saudi-clients/",
-      "source": "skift.com",
-      "sourceId": "gdelt_skift_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-22T18:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Sharjah Digital Department to lead next phase of digital transformation",
-      "url": "https://www.wam.ae/en/details/c1clpdr-sharjah-digital-department-lead-next-phase-digital",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-22T18:28:50.995Z"
-    },
-    {
       "headline": "Nazaha is pursuing a number of criminal cases:\n\n- Arrest of a businessman on charges of bribery amounting to 1.6 million riyals in exchange for providing customs facilitations\n\n- Arrest of an employee at the Ministry of Health for receiving an amount of 900 thousand riyals in",
       "url": "https://x.com/alekhbariyatv/status/2079996960153498069",
       "source": "Al Ekhbariya TV",
@@ -2492,27 +2553,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-22T18:28:14.000Z"
-    },
-    {
-      "headline": "Minister of Justice Discusses Enhancing Judicial, Legal Cooperation with Türkiye",
-      "url": "https://spa.gov.sa/en/N2639598?type=news&uuid=N2639598",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-22T18:24:23.000Z"
-    },
-    {
-      "headline": "Bloomberg: Qatar Energy extends the state of force majeure on liquefied gas shipments until October",
-      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNZVFqdHZRUE96RU9uRDhsU0Itd1l4U2dlVEJ6SDI0aHdDY2J3QUJ0OFoybXFST3NtSjM4Y1V3ZnQzM21FWWRZVTBoM0wxVGd1eGdtTnlEamJYMjlpTVh6YUtVSkozeTltX04zVzM4aE5rR1NhZlZsb3lIcmI2bm1IMTkyZ2lnSmttdGt3SUlwZnNtNmhja2tFd09HSDY2NGJveVlhYUVJdnRjZGkzUFlOZFdJN2Q0LW41NkpMVHNlVjhpeG03STlZNXByTUxFY256dkJZMl9nMF9hbFRzWUYxNWRkSFpRVVRGSTFoa0YxVkxWQVlvSzRMNG5xcjVvU3dzMHRtdS0yWlBXZUZvWDJFQjdxZ1ZJbmZ3Q3RkaU5pa3N1VHc4R3FBZVo5RG5EZzNUVUxIWnVZTjdxQ0tSYUZGajdSanVLVW1yTjdtbzB3QkRienhFVDJjVTJBUkpYdXNDd3drcl94MGNGUnpJRUphRkJJdlZmYmhMU3RzT3Y5cjJRNkx0TlNUQUNRN2Y0YU8zaU0teEtNX0toMTl1SXJ2Q1R6VzhERV9UQ0swN2ozTmVIbkoyT1FrZzE4R3RnZnB4alFUdGxsbndKQjFTZmdiaWpuaWROVEo2OUQtdk1oc3poeXRHZk85SXFBSVpZeXRDMFFCVkpyS0V5UlY4ZzRlNHdLVFJNclhDLWh6aHFLTzBjZnRjdzN4UzJnR0h5bGdPZlhzLUI5NmVPSlNEVXZVQUFFdzRpU2ZwbmN2Tk85dTk3VnhWb0NhUzRjVHUyOFhlemVvZ3h2ZzZtaUlwbHZ6WTNB?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T18:23:36.000Z",
-      "originalHeadline": "بلومبرج: \"قطر للطاقة\" تمدد حالة القوة القاهرة على شحنات الغاز المسال حتى أكتوبر"
     },
     {
       "headline": "Bahrain participates in UN General Assembly meeting on road safety\n\nhttps://\npolicemc.gov.bh/en/news/80396/",
@@ -2533,38 +2573,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-07-22T18:22:31.000Z"
-    },
-    {
-      "headline": "The Council of Muslim Elders strongly condemns the statements of the Houthi group towards the Kingdom of Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FWE1BOUk4Yy01am5palZ1V1g0bnpoaXc3RGpuZy0wSGNpek1VTUcwTzZXNlRSTW8xME12RHU5ZVBsaHF2UkV0MDNoQ0F5ZC1UR1E4QzdR?oc=5",
-      "source": "بوابة الأهرام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T18:22:00.000Z",
-      "originalHeadline": "مجلس حكماء المسلمين يُدينُ بشدة تصريحات جماعة الحوثي تجاه المملكة العربية السعودية"
-    },
-    {
-      "headline": "Qatar Energy is preparing to extend force majeure on liquefied gas shipments until mid-October",
-      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQWjNRTGZPbDR1MUdYOFNVbTlHVlJ2dE1tbUQzMS1oYXdlb05VbU9jcGxiNmdjR3pweDlQTDNVY3dDUi1qclB4Sk5fNlk3VngxMllockMwemFhWkgtMWJHNHNqNzdGQ0NrR1hUVGotMGlYRXhYNWc4TWw0RjVzNVV6anF6Z2VPS2lhUFNKLVlsd2szd0RKcHJVa0dGQWlQV0s3RnhPdWFiLTJnOVBJN1NqSmduSXFlSXlJd0ZsTl9oRjRYYlBiMkZiVlplN3l3UmFpZTZONTZYNDBrZmFETkl6d2NLalB2V2RLcGVxbHliWVhZZEZsZWsxNG5UTnh0dnZzYkswTzVpY3NES2xrN09nQ3ZyY0JzSnRCS3FwWC15WnVqd01TaGxnWC1uZVpHZ3hnUkJGdzlhU1A3ZFpvbWpkcDhYZGFNMnVkLTVBMHZWYzQtV1hhSFhGU0t4T1NnY2lLbnEyQ193WEIzZkN2bU56TUxXYmZ6cEd4R2JQU3ZzeExQMThmc1VIWjR0ZVNSaGtVZHRTY0dhVzd1Q3dCdlUtUmdwM3puczAxNTAtNmF2XzlfWmZVcTAwSW1EVGlYa3JLY2tGX3JTSDJsQWRTZVpoS0YyVzBHQkdyZEN5Tl96bnRTSnJfS1phWFVoa0dzZw?oc=5",
-      "source": "العربي الجديد",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-22T18:20:26.000Z",
-      "originalHeadline": "قطر للطاقة تستعد لتمديد القوة القاهرة على شحنات الغاز المسال حتى منتصف أكتوبر"
-    },
-    {
-      "headline": "QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3lLcWVQOUVJOWRZS1FfX3RhUGkxdy00Zk9qWHR5Sms4WU5zejVDb3ZVNEFpTlhXS2REZFVEZW5keTRVM0Z5bVBjOThoQXNIRHlCbmpNM2k2X0pOOTFnX0dicHhHZTVlcjVTaUdMdF8wSkNaWjFkYU5fSmdGZWVmSnBJaTNhX3d2My1KYkt2QkdXdUpRWGpNdU1fc1RsZlBQeXByZmg5UG5QNDVEdGdzTDVfb253aU9abGVoZUxnc1VPY3FCdHFYNA?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-22T18:20:19.000Z"
     },
     {
       "headline": "#Turkiye Targets $10 Billion in Trade Volume with #Syria\n#QNA #Economy\n\nhttps://\nbit.ly/4bUskOY",
