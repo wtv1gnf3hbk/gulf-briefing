@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-23T12:17:41.383Z",
+  "updated": "2026-07-23T12:31:48.359Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "FANR launches UAE's first National Environmental Radiation Measurements Portal",
+      "url": "https://www.wam.ae/en/details/c1d74i4-fanr-launches-uaes-first-national-environmental",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T12:28:01.832Z"
+    },
+    {
+      "headline": "Federal Public Prosecution, Russian Prosecutor General's Office hold third joint working group meeting in Moscow",
+      "url": "https://www.wam.ae/en/details/c1d74i3-federal-public-prosecution-russian-prosecutor",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T12:27:51.708Z"
+    },
+    {
+      "headline": "SFDA Intercepts over 300 Tons of Non-Compliant Food Products in Q2 2026",
+      "url": "https://spa.gov.sa/en/N2640141?type=news&uuid=N2640141",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-23T12:22:07.000Z"
+    },
+    {
+      "headline": "Trump: The nuclear agreement with Saudi Arabia is conditional on its joining the “Abraham Accords”",
+      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOc2wtS2ZHYXZhYUl2MXNQSUhUamxxczhsNFJjTWdsRERRNC1NSUt1dlpCS3R2bzlpejRmYzBaQy1QOGdoMFhBRUpJZ29uUExJeHBnOU5aemFWTjR5QWhnWHc3bTY2bkZza01yQnFwOTNDeUtudDJvM00walo5Z3lTTHZkRGNkWkxibzJhaGJkM2tSb0loWDdFVTJlV1ptZW1fSFhpY01qclAxUTBRSlIwT0Zmakw4aXJoMWdicExoODJuejJxV2VwNVpVdnFwVzRhaTBhRW1BNkVaM19EUUlIcF9wUkJ4RVQ4dXZGSi02RXVGZjVwU2MzMmJFaXJZbk1rSUl3YnNWVV8yNUlIRDUwc293NEJmak5rTHF4UXowSDdINmhnQjl3WVNHRWNfYVZ3a0VER2dJX292c3FMZlJXNm0zeERDZmE4ZzA5WloyQkZVZXNtZFVjQjRXTElmRDEtMm1HUkxLbVhOQW1pWVY1WmhxWURZVzNkY3poSkhPUklEc0VhYmNUQnFraXRnZGtSWHZCd3NJRGIzSXdycFNHSUFuMldmS3MtSzljUGhTT0EwY0hjSFRoMjFsZFFDdUZJYWF5Tk1sQWFjXzdfZElPWE1jY2RqT1Ey?oc=5",
+      "source": "الشرق للأخبار",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T12:18:34.000Z",
+      "originalHeadline": "ترمب: الاتفاق النووي مع السعودية مشروط بانضمامها لـ\"اتفاقيات أبراهام\""
+    },
+    {
+      "headline": "Sheikh Shakhbout Medical City hosts inaugural Inpatient Smart Room & Innovation Expo",
+      "url": "https://www.wam.ae/en/details/c1d74i2-sheikh-shakhbout-medical-city-hosts-inaugural",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T12:17:28.580Z"
+    },
     {
       "headline": "Dubai Holding Community Management, PlusX Electric partner to expand flexible EV charging access",
       "url": "https://www.wam.ae/en/details/c1d74i1-dubai-holding-community-management-plusx-electric",
@@ -21,6 +72,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-23T12:12:25.833Z"
+    },
+    {
+      "headline": "Dubai offers tourists benefits worth £610 as numbers plummet amid Iran war",
+      "url": "https://www.theguardian.com/world/2026/jul/23/dubai-offers-tourists-benefits",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T12:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "MoHRE issues guide on existing worker health insurance procedures",
@@ -64,6 +126,54 @@
       "date": "2026-07-23T11:46:39.760Z"
     },
     {
+      "headline": "Al-Riyadh newspaper | Hundreds of colonists storm Al-Aqsa Mosque",
+      "url": "https://www.alriyadh.com/2199151",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | مئات المستعمرين يقتحمون المسجد الأقصى"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Saudi Arabia is the first regionally in digital government services",
+      "url": "https://www.alriyadh.com/2199146",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | السعودية الأولى إقليميََا في الخدمات الحكومية الرقمية"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Oil rises for the fifth day as tensions and supply risks escalate",
+      "url": "https://www.alriyadh.com/2199144",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | النفط يرتفع لليوم الخامس مع تصاعد التوترات ومخاطر الامدادات"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Today, football won.",
+      "url": "https://www.alriyadh.com/2199145",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-23T11:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | واليوم انتصرت كرة القدم ."
+    },
+    {
       "headline": "Al-Riyadh newspaper | US Representatives approve a record defense budget",
       "url": "https://www.alriyadh.com/2199150",
       "source": "Alriyadh",
@@ -100,42 +210,6 @@
       "originalHeadline": "جريدة الرياض | القيادة الأمريكية تكمل ضربات جديدة ضد إيران"
     },
     {
-      "headline": "Al-Riyadh newspaper | Oil rises for the fifth day as tensions and supply risks escalate",
-      "url": "https://www.alriyadh.com/2199144",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | النفط يرتفع لليوم الخامس مع تصاعد التوترات ومخاطر الامدادات"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Hundreds of colonists storm Al-Aqsa Mosque",
-      "url": "https://www.alriyadh.com/2199151",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | مئات المستعمرين يقتحمون المسجد الأقصى"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Saudi Arabia is the first regionally in digital government services",
-      "url": "https://www.alriyadh.com/2199146",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | السعودية الأولى إقليميََا في الخدمات الحكومية الرقمية"
-    },
-    {
       "headline": "Al-Riyadh newspaper | Gold declines as oil rises and interest rate hike fears",
       "url": "https://www.alriyadh.com/2199147",
       "source": "Alriyadh",
@@ -158,18 +232,6 @@
       "date": "2026-07-23T11:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | القيادة تهنئ رئيس جمهورية مصر العربية بذكرى اليوم الوطني لبلاده"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Today, football won.",
-      "url": "https://www.alriyadh.com/2199145",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | واليوم انتصرت كرة القدم ."
     },
     {
       "headline": "Madinah Leads Saudi Cities in Hospitality Facility Occupancy Rate in Q1 2026",
@@ -223,6 +285,16 @@
       "date": "2026-07-23T11:29:24.000Z"
     },
     {
+      "headline": "A new threat by Yemen's Houthis could widen the Iran war and put another trade chokepoint at risk - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUZfTktHOEMzX3BScUNmSmY1QU1tZnczMHJJNHJBUmY1UXFNaHAzS3oyMDlBOGtVR3BxNHdwUlBIVXN5MWZRcXJ5YTM4MVlVM2J3TXd0MU5SWWJZRWlnS2FpSzFYS25NLUw3NjJYak5PS05pd2ZqSjBIRkJHczZhdHF1X0lFaWNmdy1RMjZpd2tBTjdla0VOc3JmTWo5TC0yM2JZd001dkFPRDVT?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-23T11:28:00.000Z"
+    },
+    {
       "headline": "Qatar Energy extends force majeure on liquefied natural gas supplies",
       "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOZjJlSTNCVDZra3F5UUhsZThNMHZ3SU9ZSzdqS1pNZDk4ODBsUWJfbjVVSHRFbGx5OGVXNkxaUFFnVnk3Sk1wMWxNb2NiRFdIbWd3YWtrRF9MRnFpN1ZMUU9lQzhYTk9QMGJkdy1XcnNacW4wMGVrcnFTb1FGNFQ3Mi1USFZrcXNrNkVZYnU0LWhQRkpKaFJYbG5HaklFUU5WNEFzQ3hkUmc2SHNDWTljUk82ZDluV3dIb1hCNzZBWk15VWp0NkdXN2JwamZObUJfaVFnNjVsN1d2TlFIZ2xkWGd5ZVFEZEpDcEtJNDB0ZmgzUzVmNHQ1dkk1VlhuM0VIeWZwMTltVllhbWVibU1ZU21Cd0NUUTc1MXZaZTBEa0lGUnNUajVfZlAwOGtpNnNwbHVieGp6c2I1MVAtbUNJN1RleElCSm43N2hoajBZWlhQeWItOE5TSjY5NXVSTmpfWUoweHl3WkJEb0tqalBVc3M5VGVQWHlOQ2NTaEdCNUswLW9CcmRZRW9jUEpucVhhLUpERWUxRHFGMkx1TVdQM0kxdlFnRTAzRTQ5ZThVOGNWa0QzZnFWVXc5QkF6SmZ1SnFfWXh0NFZtQWhjV25aOEx3X0VvdHo2b2M1eHI4OExhbjBIc2hEc0pCdENMQ0hQcVl1UDlMejFyc0dFTFRuTzJWVmxrMnNKY0s5YlBueEIyWkZrZm5kdngycDBOV0dHYk1qdGxPY2hHNWFDRlZ4dVJXOW1Rdw?oc=5",
       "source": "الشرق الأوسط",
@@ -231,7 +303,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T11:27:04.000Z",
-      "originalHeadline": "«قطر للطاقة» تمدد القوة القاهرة على إمدادات الغاز الطبيعي المسال"
+      "originalHeadline": "«قطر للطاقة» تمدد القوة القاهرة عل�� إمدادات الغاز الطبيعي المسال"
     },
     {
       "headline": "Kuwait welcomes the decisions of the Netherlands and Belgium to ban the import of Israeli settlement products",
@@ -919,7 +991,7 @@
       "originalHeadline": "عُمان: نتعاون مع السعودية واليمن والأمم المتحدة لاستئناف المسار السياسي بالمنطقة"
     },
     {
-      "headline": "Washington intensifies its strikes on Iran, and Tehran expands its attacks in Kuwait and Jordan",
+      "headline": "Washington intensifies its strikes on Iran and Tehran expands its attacks in Kuwait and Jordan",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdmxQUnA1VnZRWjdwb0YzWXlIdXUxenpza2tWenlVZlQxc2lQNHlaQmQ0SnlzSmdEMzQ4Q3R0T00xNVVRUXJhUUZZVDNFOThlaVRkVmNHNWhUUWFwTlowRG52QURJYlNpcHhfclpiek55ZmxjaVRlWmhGTld1OENKUnpLMi1jbFRITXBYZUJHTURaVUt5TjFkTVo0bjJpbHRSOFgxU3Rsd3RpTHV3QVo5VVl5MWhPTENaSllKb1lYLXJGeFE0TkpyeGJMWTBsejBqdTRYUXptcGdhdEFic3pwTk04Z0h3Z1VjYzVrLU9DMVUyaXN4TFdSV2JJWVUxQ21SZUhZYTQ0ejhJbkc5bVYyWDY4VExJZWl3OXFJdGlPLS02SDlpVkNpLW1fTUhsbllmRlR0VkR4bF9Bc0I2MW5GNEVZNk50M2l0aXBlMjlyc1RHd2lMOTlzUtIB3gJBVV95cUxOWUpjZHd2eWtWQ3JISEY5S0VFdDBnYUZnSmI4RXZWeEQ4RTNsdm4yeS11TXBoSy1naFVsNXBUVWNDZXBTQ2hHSUUycXFqcnpXbnkxMEl3eVFzcjdQLU9xaDhlemNpelhSaGlfbW84UzdSU19WVExTRDlpV1JOOEdWTEdmUGN6Rzc2OFF2RkV6aDVsY2pRcUtrckI3WlJlZEJJczVkZmx5NXJIajRzTk5yTTY0azVkN2FVY01FLTNmSnZRMjUwMGtpYlh0YVJma2V3SmZFNjhLc3NYYy12aXNKb2ljaDc1dkNfdzVOYkVRU2piLWZodzBFMVhVd05kRUplc0huYzVSTkkwLVFVelJyZDU1NjM3dzdiT25aYXk4VmNRdUVqTHgzdU5zVDhsZDU5VFEyZ002d0Z1R0FhVFVKenh1ak9BNlpOS2t1N200NHNBcHJxZEJlLXFwZ1dZdw?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -927,7 +999,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T09:27:20.000Z",
-      "originalHeadline": "واشنطن تكثف ضرباتها على ��يران وطهران توسع هجماتها في الكويت والأردن"
+      "originalHeadline": "واشنطن تكثف ضرباتها على إي��ان وطهران توسع هجماتها في الكويت والأردن"
     },
     {
       "headline": "ADGM RA strengthens Commercial Permits framework with new sales, promotions regulations",
@@ -2014,6 +2086,17 @@
       "originalHeadline": "هل يستطيع زهران ممداني اعتقال نتنياهو إذا زار نيويورك ؟"
     },
     {
+      "headline": "Wahouthi wadai kuhusika na shambulio dhidi ya meli za mafuta baada ya Marekani kufanya mashambulizi zaidi dhidi ya Iran",
+      "url": "https://www.bbc.com/swahili/live/cpq8lnp4zg1t",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T05:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "“Transport”: The safety of the crew of a Saudi ship that was targeted in the Red Sea",
       "url": "https://www.okaz.com.sa/local/na/2258211",
       "source": "Okaz",
@@ -2048,17 +2131,6 @@
       "date": "2026-07-23T05:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "القرود تفاجئ العلماء بقدرات هندسية تشبه البشر"
-    },
-    {
-      "headline": "Wahouthi wadai kuhusika na shambulio dhidi ya meli za mafuta baada ya Marekani kufanya mashambulizi zaidi dhidi ya Iran",
-      "url": "https://www.bbc.com/swahili/live/cpq8lnp4zg1t",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T05:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Today in #Kuwait's history\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3317605\n…\n#Kuna",
@@ -2218,6 +2290,17 @@
       "date": "2026-07-23T04:03:00.000Z"
     },
     {
+      "headline": "What is the US - Saudi Arabia nuclear deal and why is it causing concern ?",
+      "url": "https://www.theguardian.com/world/2026/jul/23/what-is-the-us-saudi-arabia-nuclear-power-deal-explained",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-23T04:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Al-Riyadh newspaper | Lebanon condemns the Houthi militia’s threats to navigation in Bab al-Mandab and affirms its solidarity with the Kingdom",
       "url": "https://www.alriyadh.com/2199123",
       "source": "Alriyadh",
@@ -2276,17 +2359,6 @@
       "date": "2026-07-23T04:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | تقنية « الجراحة اليقظة » تنهي معاناة ثمانيني مع آلام العمود الفقري بمستشفى الدكتور سليمان الحبيب بالفيحاء في جدة"
-    },
-    {
-      "headline": "What is the US - Saudi Arabia nuclear deal and why is it causing concern ?",
-      "url": "https://www.theguardian.com/world/2026/jul/23/what-is-the-us-saudi-arabia-nuclear-power-deal-explained",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Al-Riyadh newspaper | The US House of Representatives approves a record military spending package",
@@ -2526,40 +2598,6 @@
       "originalHeadline": "His Royal Highness the Ambassador of the Custodian of the Two Holy Mosques to the United Kingdom visits the Farnborough International Airshow 2026 and discusses enhancing Saudi-British defense cooperation.\n\nhttp://\nspa.gov.sa/ar/w2639789\n#واس"
     },
     {
-      "headline": "Iran: A fire broke out in an oil tanker after it attempted to cross a mine-laden track near Hormuz.",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/23/iran-claims-oil-tanker-caught-fire-following-explosion-near-strait-of-hormuz",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T02:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إيران : اندلاع حريق في ناقلة نفط بعد محاولتها عبور مسار مُفخخ بالألغام قرب هرمز"
-    },
-    {
-      "headline": "Israel: A settler is indicted for an attack on journalists, including a team from CNN",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/23/one-settler-charged-after-attack-on-journalists-including-cnn-team-as-three-others-remain-under",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T02:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إسرائيل .. توجيه لائحة اتهام لمستوطن جراء هجوم على صحفيين بينهم فريق من CNN"
-    },
-    {
-      "headline": "Louvre reopens Apollo Gallery after a brazen heist, but no jewels are on display - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlVSTk9UV0R5S2tQQmo5U0ZGalp5NEc5RGloeW5IM1hsM3h0ODhheVdFSFB5aTFpa0JTZVlGTUMyWWhudHdmYmRpa1c0R0JCUnljanY1cFYtX1V1bVMzNlNZbnBFZDltbVhTeks1S2F0bFJBMHdfLTBaQ3ZwVS02MTVEYmllOWVsWEhycUZYRUY3YnVKQVZpWmRyT1lrZw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-23T02:15:00.000Z"
-    },
-    {
       "headline": "A reliable source in the General Transportation Authority:\n\nThe ship (ENCELIA), affiliated with one of the Saudi companies, was targeted while sailing in the Red Sea, resulting in a fire in its bow without any injuries recorded among the crew members.",
       "url": "https://x.com/alekhbariyatv/status/2080112489916735818",
       "source": "Al Ekhbariya TV",
@@ -2568,49 +2606,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-23T02:07:18.000Z"
-    },
-    {
-      "headline": "Transport Authority: Targeting a Saudi ship in the Red Sea",
-      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxORlpQNVRSbC12MTdSQmZvTThlU09MWnA1ZU12SjFMQmFZVU5SMV9WeWRMamlTLWtjZXhhcm4zeXRFQV92ZVIzWGZCOVF3VXBOUlVpcGQ2UlNNVHl6YklCTnVVRGFSdEJYRVR1ajFqc0N0UW1wOUVIM2IzTWY4Sm1tTHFNa25pX18tRWFwNXpKb2c1X0RmS3lRRHBzTlRncUVjdkhnOWFOYXFoMUhRUDc2anhPU09VckgtUXhJRmx2VWwyMEtCX3MyUjRWbmFTOWlNZjlZeTJ4QU5EYUNOdWtmT3JNNVdQNEprODNxNU85V1NodlZ2dWFBZ0NIdE5RVzlhWThETGJfSXlqTEZzcDRoWVRRdXF3a2VfYXpHdS05dG9KbVVESmR2VFpSRWZxUlh6cUlGQmtNVjhRaFlWWk9JUzc1WjlERzJrZE5rYmhFR3BIdkR1MHhpMUNjNWVVMTdqTVd6SGhaRlRXLXpkUnhBNWktMmdLR1NzZkNzZ0JoN2VBUDJ0bGNUUkFjQkxPTmQtYWJ0WVM1b2xLOUhGWlEwVExucGxXMlMyYURzWHl5SEM3d0dzM3ZpbGNOUW9xS3BNN0xVU1dMNHM5YWg1QWE1TWk1VWNUOFFIMkJOYlIybG9nUDZkV1hrcm9CdkxEUWVxMTlLVWUxMF9tZVZDUm1weklNS0dWaUplM29tTHhVdEhoSjZMSU5TdE9LdjdYY0pPcWVnLUFMUkFicWZ2SkhMdjlIVVJKdHU1N2lTWkhqQTRfYXU3TnBRSzk5d29lQzgwZXBnUGh30gHbBEFVX3lxTFBVVE82bHRPNGVrdVlMYlRHbHRiVnp5dERNMlVPYmlPVEhYWVlDRUJIeEQ3SFVFRjZUUHZSQTFCZmxybWNzbGI3UFVTMjBWYlViUTlfbzVnRDZXMnNHLTVZNnpUd0VqV25KRTk2MENZMVViRnp2SUNwM3AyZTlmVmtuODNDdzg1T0VLanBfcGFINllnc3o1d0xPMm1jd0tlcW9PZk9TN0QxRkdGWEtXZ0lzcTBkMFZYQzZ1eDByVm1EUjZrOGR5a2lqRmVvWXplaml2eG1ZNUJrZmMyQnBIYlZaRno5Y0hFanc4eC1Hb000b0xXdUE5bHhsU2I1SVdGYU1OS0d3clJYRzQwWFBQZTBUR3VkenZHLVZqOVhZTzc0X0VDcFJocEN1R2owZHhSdml4QnFYOWhXY05kY05iaUpfcWM3cl9nd1dDR1RjaVRSdVdPWk1yTTdFcS1HRHU4MGZPTmxfaXNFWjdWSzhVY2U1Z084bjBSbkhGNWNrUmFKTTBxbzdrRUxJOTBqem9WZU04WUx6TlQ0R3VVZ3ZSaW1XU0VmcWRCeldHWWN5UzA4Zi1WRnBRLWtsaDIzWG9XV0d2b2VoV3p1OGVBdUlyZF9rNFA1QXY0cEtJN2NFcHRmcUhSLU5JRFlURldTX0ktZGRUdEdnSUJSXzM0M3czYjFDbGdGYzdlMnhBNWNqY0lCVFlvakszZTYxQXV1T2duMFpXdWFtRzVSZ2tDQXFaMTNKNTRqa2Nxa3QxX2lraFJXUEduUzllRER1bEtnbG1ENWVZNXpESjJESkc4WQ?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T02:07:00.000Z",
-      "originalHeadline": "هيئة النقل: استهداف سفينة سعودية في البحر الأحمر"
-    },
-    {
-      "headline": "Urgent: Transport Authority: A Saudi ship was targeted in the Red Sea",
-      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxORlpQNVRSbC12MTdSQmZvTThlU09MWnA1ZU12SjFMQmFZVU5SMV9WeWRMamlTLWtjZXhhcm4zeXRFQV92ZVIzWGZCOVF3VXBOUlVpcGQ2UlNNVHl6YklCTnVVRGFSdEJYRVR1ajFqc0N0UW1wOUVIM2IzTWY4Sm1tTHFNa25pX18tRWFwNXpKb2c1X0RmS3lRRHBzTlRncUVjdkhnOWFOYXFoMUhRUDc2anhPU09VckgtUXhJRmx2VWwyMEtCX3MyUjRWbmFTOWlNZjlZeTJ4QU5EYUNOdWtmT3JNNVdQNEprODNxNU85V1NodlZ2dWFBZ0NIdE5RVzlhWThETGJfSXlqTEZzcDRoWVRRdXF3a2VfYXpHdS05dG9KbVVESmR2VFpSRWZxUlh6cUlGQmtNVjhRaFlWWk9JUzc1WjlERzJrZE5rYmhFR3BIdkR1MHhpMUNjNWVVMTdqTVd6SGhaRlRXLXpkUnhBNWktMmdLR1NzZkNzZ0JoN2VBUDJ0bGNUUkFjQkxPTmQtYWJ0WVM1b2xLOUhGWlEwVExucGxXMlMyYURzWHl5SEM3d0dzM3ZpbGNOUW9xS3BNN0xVU1dMNHM5YWg1QWE1TWk1VWNUOFFIMkJOYlIybG9nUDZkV1hrcm9CdkxEUWVxMTlLVWUxMF9tZVZDUm1weklNS0dWaUplM29tTHhVdEhoSjZMSU5TdE9LdjdYY0pPcWVnLUFMUkFicWZ2SkhMdjlIVVJKdHU1N2lTWkhqQTRfYXU3TnBRSzk5d29lQzgwZXBnUGh3?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T02:07:00.000Z",
-      "originalHeadline": "عاجل: هيئة النقل: استهداف سفينة سعودية في البحر الأحمر"
-    },
-    {
-      "headline": "TGA's Official Source: All Crew Members Aboard the Vessel ENCELIA Are Safe, and Necessary Measures Have Been Taken to Secure It",
-      "url": "https://spa.gov.sa/en/N2639825?type=news&uuid=N2639825",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T02:04:42.000Z"
-    },
-    {
-      "headline": "Saudi Arabia: A tanker was targeted in the Red Sea and its crew was safe",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPemEtV1l0UmhBaXdOOEpqZDVGTzJjSFYwcURpa3I1YzFfRUVfLXd0cXVILWtfZUxGMUs4dzNZcUtia0Y0SnVDRHJNVDllbThDUkVZZzQ2a0pFY1ZSMXJfenRic3ZOTVBFa29Dc0tncDFaMGxRcmVXWGJHOHlRY2hQOW5qTkVZZ3Rkc0JmS2xBNXZiNXVTNzY5TVZNd3AyaGxLMDVfZ1dyclBEbU5YWTh4ZFBZQzlZZ1FDTFJMRDJOREVWTU4yRHN3WDBHdS1Qc3RrZVBvOUUtUGZOV0pwTE9nb18yOXVRRzRwSWYtcktnR3ZiTFJ5RnZ4bE51Z0VlUHdaV1c5SnhQdlFYUFFSS2JFT3lxbmdCb094RWo3dHh4M1hwemhwNnQ1VGctekZkWjdOZ1lrWUJUWHJsd3Q5X0k2Zk1CSlROdF9zeTVzWnRpczE4OTdyWmlFOVdEaFV2blJiakhoWHRTMGloYUN6VUR3SWxQaV8wWFBvLWtNUlVPZUZYUWZPS3Y4MGJ3MGJ0YkJxWGpJTUp6djdOenZpUGFsRzVZLUxSV1FEYnBUcnBxaDdNLU5oRGdZMWQwM0ZYeEFtdUxMZ3k0RdIBzANBVV95cUxQdEg2bG4xdnFkWURKUTI0a2tBY2dfWEpCMEVJa243dVV5OHNIdkRMV0xieWpfT1RZZWpacVZIajJjd3h3X0JlcEZmTkR2ZGRuNGlRdXFpeWtNTE15NDdMbmx4MGhLbzRadkIySUhzSGw5NlpiTmVUeDJ1X0RoTVJvMFIyeVFnTFp5cTFFaEdkQUhvZWNjOWphLWZVbnJSdFI2TWF1R01XU25yZzFpNHF6UFRmZXVhd2pyU3pNUUphSEFrQTFNQzhoNFkxNkZVbDNocVAwNjNMWDExOFU0MktqSWQ3akVGS2V6LW1aSk1CVG9CTTZwNVR4Mlc0aDJHeW53WlA4Qjc5dTJOU3k0TUdGYzF0SnVUN2lYSzI1eHA4TFpaYTFpVHZRaDhYcXRpdGtJdGdDV3NDVVoybWIxcllZNmNyTmhkNHV1SnFkazJiSWlEUl85Z0Z2Z3ZlYWZNcVBDcE1fc2xFMThUakJybGZmOFphMDk4bjgwaXBveWwtUUlOcnRJSVptWkNITWhRZ1RUU2wyUnBNWnFjd3RLS2twalFyUTlEVG5UVTAydDNQU0JaSjB4bFFVRE1FUTN0eGU5SjFRQ2cyQmt4YlJh?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T02:00:24.000Z",
-      "originalHeadline": "السعودية: استهداف ناقلة بالبحر الأحمر وسلامة طاقمها"
     },
     {
       "headline": "A reliable source at the General Authority for Transport: The ship (ENCELIA), affiliated with one of the Saudi companies, was targeted while sailing in the Red Sea, resulting in a fire in the bow of the ship, with the safety of all its crew members intact, and the necessary",
