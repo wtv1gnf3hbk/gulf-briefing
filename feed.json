@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-24T16:32:51.396Z",
+  "updated": "2026-07-24T16:48:59.384Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-24T16:37:17.000Z"
+    },
+    {
+      "headline": "Saudi Arabia Condemns Bombing in Northwest Pakistan",
+      "url": "https://spa.gov.sa/en/N2640850?type=news&uuid=N2640850",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-24T16:34:12.000Z"
+    },
     {
       "headline": "HM The Sultan, King of Jordan discuss regional developments",
       "url": "https://timesofoman.com//article/174796-hm-the-sultan-king-of-jordan-discuss-regional-developments",
@@ -56,6 +76,17 @@
       "originalHeadline": "دونالد ترامب يحذر بكين وموسكو من مغبة تسليح إيران، ووفد عُماني في طهران لبحث الوضع في هرمز"
     },
     {
+      "headline": "Israel Netanyahu to Meet Trump at White House on Tuesday , Says PM Office",
+      "url": "https://english.aawsat.com/world/5299688-israel%E2%80%99s-netanyahu-meet-trump-white-house-tuesday-says-pm%E2%80%99s-office",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "UN Chief Expresses Alarm Over Houthi Strikes",
       "url": "https://english.aawsat.com/arab-world/5299699-un-chief-expresses-alarm-over-houthi-strikes",
       "source": "Asharq al-Awsat (EN)",
@@ -67,8 +98,136 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Al-Riyadh newspaper | Global stocks recover their losses and returns to their highest levels as inflation fears continue",
+      "url": "https://www.alriyadh.com/2199302",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الأسهم العالمية تستعيد خسائرها والعوائد لأعلى مستوياتها مع استمرار مخاوف التضخم"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The League announces the schedule of Saudi League matches for the 2026-2027 season",
+      "url": "https://www.alriyadh.com/2199303",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | « الرابطة » تعلن جدول مباريات الدوري السعودي لموسم 2026 - 2027"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Two people were arrested for selling (77) kilograms of the narcotic khat in Asir",
+      "url": "https://www.alriyadh.com/2199300",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | القبض على شخصَيْن لترويجهما ( 77 ) كيلو جرامًا من القات المخدر في عسير"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Deputy Foreign Minister participates in the Southeast Asia Treaty of Friendship and Cooperation Conference",
+      "url": "https://www.alriyadh.com/2199297",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | نائب وزير الخارجية يشارك في مؤتمر معاهدة الصداقة والتعاون في جنوب شرق آسيا"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Gold is heading for weekly gains amid Middle East tensions and interest rate expectations",
+      "url": "https://www.alriyadh.com/2199299",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الذهب يتجه لمكاسب أسبوعية وسط توترات الشرق الأوسط وتوقعات أسعار الفائدة"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Oil is heading towards a 12% weekly rise amid escalating tension in the Middle East",
+      "url": "https://www.alriyadh.com/2199298",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | النفط يتجه نحو ارتفاع أسبوعي 12 % وسط تصاعد التوتر في الشرق الأوسط"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | A royal decree was issued approving the public education system",
+      "url": "https://www.alriyadh.com/2199296",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | صدور مرسوم ملكي بالموافقة على نظام التعليم العام"
+    },
+    {
       "headline": "Iraqi Govt to Asharq Al - Awsat : Al - Zaidi Talks in Tehran Did Not Include Carried Messages",
       "url": "https://english.aawsat.com/arab-world/5299704-iraqi-govt-asharq-al-awsat-al-zaidis-talks-tehran-did-not-include-%E2%80%98carried",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Russian Ballistic Strike Kills 10 After Ukraine Zelenskyy Hosts US Company Making Patriots",
+      "url": "https://english.aawsat.com/world/5299692-russian-ballistic-strike-kills-10-after-ukraine%E2%80%99s-zelenskyy-hosts-us-company-making",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Maresca Embraces Guardiola Legacy as He Starts Man City Challenge",
+      "url": "https://english.aawsat.com/sports/5299697-maresca-embraces-guardiola-legacy-he-starts-man-city-challenge",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Guardiola Turns Down Italy Role as Search for Coach Continues",
+      "url": "https://english.aawsat.com/sports/5299707-guardiola-turns-down-italy-role-search-coach-continues",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Venezuela Quake Recovery Will Take Years , Says Red Cross",
+      "url": "https://english.aawsat.com/world/5299713-venezuela-quake-recovery-will-take-years-says-red-cross",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -109,14 +268,76 @@
       "date": "2026-07-24T15:52:14.000Z"
     },
     {
-      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-24T15:36:18.000Z"
+      "headline": "The Red Sea enters the equation of war and global energy pays the price",
+      "url": "https://www.aljazeera.net/politics/2026/7/24/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%8A%D8%AF%D8%AE%D9%84-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-24T15:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "البحر الأحمر يدخل معادلة الحرب والطاقة العالمية تدفع الثمن"
+    },
+    {
+      "headline": "Will the occupation repeat the Beit Hanoun model in the West Bank?",
+      "url": "https://www.aljazeera.net/politics/2026/7/24/%D9%87%D9%84-%D9%8A%D9%83%D8%B1%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%A8%D9%8A%D8%AA-%D8%AD%D8%A7%D9%86%D9%88%D9%86-%D9%81%D9%8A",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-24T15:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل يكرر الاحتلال نموذج بيت حانون في الضفة الغربية ؟"
+    },
+    {
+      "headline": "Türkiye and NATO... from Menderes seeking protection to Erdogan seeking sovereignty",
+      "url": "https://www.aljazeera.net/politics/2026/7/24/%D8%AA%D8%AD%D8%AA-%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-24T15:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تركيا والناتو .. من مندريس الباحث عن الحماية إلى أردوغان الساعي إلى السيادة"
+    },
+    {
+      "headline": "5 bomb-laden drones were dropped in Erbil amid loud explosions",
+      "url": "https://www.aljazeera.net/news/2026/7/24/%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B1%D8%A8%D9%8A%D9%84-%D8%A5%D8%B3%D9%82%D8%A7%D8%B7-%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-24T15:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسقاط 5 مسيّرات مفخخة في أربيل وسط دوي انفجارات"
+    },
+    {
+      "headline": "After Houthi threats, an oil tanker changed its course to avoid the southern Red Sea",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/shipping-firm-re-routes-oil-tanker-avoid-southern-red-sea",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T15:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد تهديدات الحوثيين .. ناقلة نفط تغيّر مسارها لتجنب جنوب البحر الأحمر"
+    },
+    {
+      "headline": "Israeli Prime Minister's Office: Netanyahu meets Trump on Tuesday in America",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/netanyahu-to-meet-with-trump-on-tuesday-prime-ministers-office-says",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-24T15:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مكتب رئيس وزراء إسرائيل : نتنياهو يلتقي ترامب الثلاثاء في أمريكا"
     },
     {
       "headline": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
@@ -169,7 +390,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-24T15:20:41.000Z",
-      "originalHeadline": "الحوثيون: الحظر يطال السفن السعودية و \"لا إغلاق لباب المندب\""
+      "originalHeadline": "الحو��يون: الحظر يطال السفن السعودية و \"لا إغلاق لباب المندب\""
     },
     {
       "headline": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say - Reuters",
@@ -1187,7 +1408,7 @@
       "date": "2026-07-24T10:47:16.000Z"
     },
     {
-      "headline": "Afrah Al-Zouba...the first woman to hold the foreign ministry in Yemen",
+      "headline": "Afrah Al-Zouba...the first woman to assume the foreign ministry in Yemen",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMHpkTS1UUXJmNkZqMktieHk4RFZvdURBdnRxcEU2LWY2Qk53bVFSZkhjTHpGUUFWdmJIeHduWjc3WUZ2eVotdXV6NWFmLS1DUzNaWHJwclpmTkg5R2lGQlI5QzBMWHEtX3FNWUR6N3YyanlXY0pSa2lwdzY2Y0NUdVMzbE0yZGV5cXJjYzZwYjZHSlJ2ZEo5Mk9WN0cta1BaMnEyOUFnMWZXSjV5LVB6MWdFWE16Y002TkEteWJ0djc4UUNMTFVBa1B0RktiZ0lLaWR6Uzh5TkhsVUtLc19taENXRENvUG5FUk54cGdxR1l6SE93NEltdWNGSDd6c2k2YVFnMXFmTHcycExmSl8zb2ZFWmY4WjRlMHg1b3czLTAxeHlYVUlxbUhGSnFreG1ycENEUlVrQU40RFNaY2pKSTBoMUtWNlF6c1hhWdIB0gJBVV95cUxOTnBaNnhPLS1EbHRkcnFDc1VzVHJSOFBJY1J0SFMxZW9kUlVrNEVSeVBfbE1kaE1LNC0wSjhHS3N6a1dVZFg5emlidXVGNFoxMmFja09wV3puVWJKOFVsV1Roazl0M0JuWUw0VGNVYjlfZFJYOVQ4QWZyYVk1Mkd0X0FXNTQyeUpvOXI2ajJGZlFkRkZfSkQ5STlYdGJCVnB2ajJSTU44NzdqdmM0d3dvUW1TTm44b1hvX1JCNDRBaG9OeE5jVGxxMG0ycUFpbk5CbzlEclNfM3pyb0wzRWxielFSUWVCR0EtUGY5WV9Wamc4MGRlR1FQSmVxZlVjQk5mT0U0SEI5LVdBYVh3czVyN3gtVi1DWmtYTFREWGN1WG9aOURoNlBZM3lXZk1zd2UxVW5yOUFmTkdnNmp1LVVRTVBMN3czZmVTWWNNNm5ISkNQQQ?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -1195,7 +1416,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-24T10:43:44.000Z",
-      "originalHeadline": "أفراح الزوبة.. أول امرأة تتولى حقيبة الخارجية في اليمن"
+      "originalHeadline": "أفراح الزوبة.. أول امرأة تتولى حق��بة الخارجية في اليمن"
     },
     {
       "headline": "Hezbollah - AP News",
@@ -1751,219 +1972,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-24T08:16:48.705Z"
-    },
-    {
-      "headline": "Betrayed aspirants and broken trust: Inside India’s NEET paper leak outrage",
-      "url": "https://timesofoman.com//article/174788-betrayed-aspirants-and-broken-trust-inside-indias-neet-paper-leak-outrage",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-24T08:12:00.000Z"
-    },
-    {
-      "headline": "The UAE is second regionally in digital government services",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNS3FiUkdfZVFLSVlJU3V0RWd1T2RPLTdIOHNxVkd2RXBVZ1k5a09NQWRuUGZFSHd0NF9ULUd6cGhGTUE1bG5KdmdtT0dmb1pIV2RFY1gydDFleHEwZWxjUHZrZVlSdV8tdE91emI5N09lVFUyLUFYZVYydGl6NklkMl91c0NoTGxLNW90WVJMd1l2NEpTMEdKdWk4dnhzOUZDcklGYldScVgzQ2VjdXNkUjRrZlFUY0FLWUF6MkxkNUlUYVoxeUFSZktaZGpwektvR2Fjc2trTzlPY1dEa3dzWW1jUVlwZUJXb2J3bGhFZTZZaUtNdkdEcVFOUEdCb1RLTWF2NnBGM1ZmaFRsQTc2N01MMVFvWkpDX0lWb2t4UW9RVkZUYzY3NUd1Qk9LeVFxTzZiOXZzVlFmdEttMG42N1Y2LUkxYk12c0JWdjNrYkhObUc3QU9xeTJtRGpKUFNhZkMweU1LX2FEdGgzeGxIWUNwb0h2Vms2ZWE2dU5IYkpjdUF4VnlaS25SYi02MGhmSGFkel9MQldQNGtfTkhIdm5TOW5WN2pVakp6X0pWRVhvUlJwb0pwQWdyNTNBWDVGWWtaNHV1UGlsQQ?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T08:07:45.000Z",
-      "originalHeadline": "الإمارات الثانية إقليمياً في الخدمات الحكومية الرقمية"
-    },
-    {
-      "headline": "The Iranian army announces the targeting of 3 military bases in Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPcHVKU2RJY2k0cDFpaWFYdzdENVFqQS1EOEFPanctMGJacTJCLS1VX2lSMTZIZGZGdmRwMXMyNjBWU25jQnZIQkRFLUxDNmJGbURwZDVBYTYtYl9NWGZCZjRIRFEwQ3d1X0tXS2FfMW5mbndZb2tkSi1ReTNQZHNFLWR4anpOaG5ZVC1Ya211c3VzYXUwM01fNGlXNzlTV1RnOFV6b29ZZVQ4dm5rVjl1bU4ydWhTdkxhWmpsV0RNVkR2cU13SmlXUGJBNENTVmsya0pXQnd3Wk12STRCYm4zNFFMVC1Ra2JlUFlTa3pqZEduX1VydXQwSDN5alZNdVVSaTdndElXQkRFanNKaFFWX3JrTzhwWW15SHlJVlRGNkJPX3htRFUtT3dDd1FVMUgtMGVWZ0w5RFhWbkpvRHdMZEItVWxGUTU3dDhTNjZvTUJXRWFRMWdMQUZlN21TV3Z1QWEtOEpBeklOLTNQVzZ1Zm5Ndl9oSXh1UlR1dmRSQjdyRTBjSmdLaVhpU0txQnBad0dNRzJwWF85OC11Z3pDSlFwbFlDT3Jnd2FCN281Q2thZ0pRRjRUNFpkYXBLZw?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T08:06:00.000Z",
-      "originalHeadline": "الجيش الإيراني يعلن استهداف 3 قواعد عسكرية في الكويت"
-    },
-    {
-      "headline": "EasyLease reports AED44.9 million net profit in H1 2026",
-      "url": "https://www.wam.ae/en/details/c1dsjsc-easylease-reports-aed449-million-net-profit-2026",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-24T08:04:20.893Z"
-    },
-    {
-      "headline": "Algeria Condemns Attack on Saudi Vessel in the Red Sea",
-      "url": "https://spa.gov.sa/en/N2640621?type=news&uuid=N2640621",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-24T07:49:24.000Z"
-    },
-    {
-      "headline": "Consumer spending rises in the UAE and Saudi Arabia during the 2026 World Cup",
-      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxQRzFyR202bDJtYlg2R0Jkdk9WTEFoUHFoRTV6akFZYVhrd0RURVIxT1NIaC1mUHVMZmNOUDhJRVFsblFubzlGbE94RFpta0ZLbng2Y29PS1MyVVRWbF9SWjd3Rnhhay1waTQ0a19Pak0xZVRvak9URjNFQWlfVFo3VE1wMG9RR3pBSXJTNXN1UXBWUUM0ZkZ3NGYzaDhPeVVOU0xMNVcyc0t2eHZXV2JVUFhmakR3dFVTZWlmMjhjZTA3X3JrZnNoS3ZSZGd0M1JOZk5PckJCYjBlRGFWNjB3QWpYcEp3dmRfWHNHRU1MbkVESVIxckdnanFEdkktaG1oZHRmeEVhX2tha2VpdHEzR2N3dnVkRUE0NXdTTXktRW5qbU9xUGtGM0RFWF9WcmtCVkQyT3pOak1IbGR0QVI1T0NOUEJweXlIc0ktTXhwem9hM0ZiSTBwVFl5eE00Q3p3ZlJyN0MzVWlyUGJBQXlYUFNKMzBZVUtoUkJyMnpKX01HUDIyUl9EVUNZak9zbl9hYkxJOTlmeExNYXo0dk93RjBnYVB1NFp6SmVjTnRSMzJJcEFjQzVyenlRYVFPUjZZMzE4b19EaWdQaVlmdWE2YTFub1RkcXVYVFlXRDk5ak1vSVZyTER3MFQtTXY0SVhBNGI1WG1IYjJMVVZMWDc2RnFGenVwdHVWQWZPVlpJVWEyVzZUMDFEcU50UWtsWFJFNDBxdUdBNlVaUmQ0OUtZLVlJZHdydU1IWjZURzRQeWcyWjFHUk9rREJrRHFxLXRWMnI0VHdJSzlvVllhcGNWYlI5VnFIMndiMjRacg?oc=5",
-      "source": "annahar.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:37:00.000Z",
-      "originalHeadline": "ارتفاع الإنفاق الاستهلاكي في الإمارات والسعودية خلال كأس العالم 2026"
-    },
-    {
-      "headline": "Weather Forecast for Friday",
-      "url": "https://spa.gov.sa/en/N2640617?type=news&uuid=N2640617",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-24T07:30:34.000Z"
-    },
-    {
-      "headline": "A restaurant includes ants on its menu... and its owner may face a year in prison",
-      "url": "https://arabic.cnn.com/travel/article/2026/07/24/south-korea-restaurant-ant-dessert-jail-intl-hnk",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مطعم يُدرج النمل ضمن قائمته .. وصاحبه قد يواجه السجن عاماً"
-    },
-    {
-      "headline": "An orca whale jumps high in the air while chasing and playing with its prey",
-      "url": "https://arabic.cnn.com/travel/article/2026/07/24/orca-goes-airborne-hunting-dolphins-ksbw",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حوت أوركا يقفز عاليًا في الهواء خلال مطاردة فريسته واللهو بها"
-    },
-    {
-      "headline": "Official media: Iran announces targeting American assets in Jordan and Bahrain",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/iran-claims-it-targeted-us-assets-in-bahrain-and-jordan-state-media-reports",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إعلام رسمي : إيران تعلن استهداف أصول أمريكية في الأردن والبحرين"
-    },
-    {
-      "headline": "What are the hairstyles that define the features of the stars in the summer of 2026?",
-      "url": "https://arabic.cnn.com/style/article/2026/07/24/celebrity-red-carpet-hair-trends-for-summer-2026",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ما هي تسريحات الشعر التي رسمت ملامح النجمات في صيف 2026 ؟"
-    },
-    {
-      "headline": "Trump imposes new tariffs targeting 60 countries",
-      "url": "https://arabic.cnn.com/world/article/2026/07/24/trump-launches-new-tariff-push-targeting-dozens-of-countries",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ترامب يفرض رسوماً جمركية جديدة تستهدف 60 دولة"
-    },
-    {
-      "headline": "Coal ovens for 150 years.. This is the pizza capital of America",
-      "url": "https://arabic.cnn.com/travel/article/2026/07/24/newhaven-connecticut-best-towns-digivid",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أفران فحم منذ 150 عامًا .. هذه عاصمة البيتزا في أمريكا"
-    },
-    {
-      "headline": "After Trump's post... Araqchi warns against confiscating Iranian assets",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/araghchi-warns-against-the-seizure-of-iranian-assets",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد تدوينة ترامب .. عراقجي يحذر من مصادرة الأصول الإيرانية"
-    },
-    {
-      "headline": "Egypt.. A religious debate and a clarification from Naguib Sawiris about his opinion about who will enter Paradise",
-      "url": "https://arabic.cnn.com/miscellaneous/article/2026/07/24/egypt-religious-controversy-social-who-will-enter-heaven-saweras-post-x",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مصر .. سجال ديني وتوضيح من نجيب ساويرس عن رأيه بمن سيدخل الجنة"
-    },
-    {
-      "headline": "Rugby national team placed in Group C for Asian Games",
-      "url": "https://www.wam.ae/en/details/c1dsjpi-rugby-national-team-placed-group-for-asian-games",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-24T07:28:33.175Z"
-    },
-    {
-      "headline": "Who is Afrah Al-Zuba? The first woman to become Minister of Foreign Affairs in the history of Yemen",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajNOcTJiNDdfV3k1cXVNbmdtdVlZQ1g5dlNpaERNbE95YURJdjJEUjRWQ0xUM1dtV1U4Xzk4Z3NOQm9WMHlOeXNTMm9uYWFCcTRkSE1IN2R1UHZiUEl3MUFoYS1MMXRrY1lMT0twbXl2ejhnT3pHNXBBQk5KWTBvdXRwV1BaUWJDMEE?oc=5",
-      "source": "i24NEWS",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-24T07:27:08.000Z",
-      "originalHeadline": "من هي أفراح الزوبة؟ أول امرأة تصبح وزيرة للخارجية في تاريخ اليمن"
-    },
-    {
-      "headline": "Four people were killed in the American attack on Iran, the claim of the Iranian army to target American military installations in Bahrain and Jordan",
-      "url": "https://www.bbc.com/urdu/live/c4gkxneqk77t",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-24T07:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ایران پر امریکی حملے میں چار افراد ہلاک ، ایرانی فوج کا بحرین اور اردن میں امریکی فوجی تنصیبات کو نشانہ بنانے کا دعویٰ"
-    },
-    {
-      "headline": "US Wants Permanent Daylight Saving Time",
-      "url": "https://english.aawsat.com/varieties/5299531-us-wants-permanent-daylight-saving-time",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-24T07:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Civil Defense graduates more than two thousand qualified personnel to deal with risks and accidents",
