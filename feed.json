@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-24T05:33:56.664Z",
+  "updated": "2026-07-24T05:48:52.500Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Japan's Nikkei falls more than 2%",
+      "url": "https://www.wam.ae/en/details/c1dsjjq-japans-nikkei-falls-more-than",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-24T05:36:51.407Z"
+    },
     {
       "headline": "Brent hovers above $100/bbl, set for weekly rise",
       "url": "https://www.wam.ae/en/details/c1dsjjp-brent-hovers-above-100bbl-set-for-weekly-rise",
@@ -33,6 +43,50 @@
       "language": "ar",
       "date": "2026-07-24T05:22:00.000Z",
       "originalHeadline": "داخلية البحرين تطلق صافرة الإنذار وتطالب المواطنين بالتوجه لأقرب مكان آمن"
+    },
+    {
+      "headline": "Arab League Condemns Houthi Attack on Saudi Vessel , Rejects Iranian Attacks on Arab States",
+      "url": "https://english.aawsat.com/arab-world/5299522-arab-league-condemns-houthi-attack-saudi-vessel-rejects-iranian-attacks-arab",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Military Launches New Strikes on Iran as Clashes Escalate Over Shipping Routes",
+      "url": "https://english.aawsat.com/world/5299521-us-military-launches-new-strikes-iran-clashes-escalate-over-shipping-routes",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi - Bahraini Committee Reviews Joint Security Cooperation",
+      "url": "https://english.aawsat.com/gulf/5299523-saudi-bahraini-committee-reviews-joint-security-cooperation",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "MWL Condemns Continued Israeli Raids on Al - Aqsa Mosque",
+      "url": "https://english.aawsat.com/gulf/5299518-mwl-condemns-continued-israeli-raids-al-aqsa-mosque",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T05:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "Emirates NBD estimates that inflation will peak in Dubai in June",
@@ -79,6 +133,17 @@
       "originalHeadline": "السعودية.. الوليد بن طلال ينشر فيديو لبرج جدة وكم وصل ارتفاعه"
     },
     {
+      "headline": "Mashambulizi ya Wahouthi yazua hofu ya mzozo mpana zaidi Mashariki ya Kati na uharibifu wa uchumi duniani",
+      "url": "https://www.bbc.com/swahili/live/c74gm4xjz17t",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-24T04:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Window fabrication firm fined, ordered to compensate consumer in Al Dhahirah",
       "url": "https://timesofoman.com//article/174784-window-fabrication-firm-fined-ordered-to-compensate-consumer-in-al-dhahirah",
       "source": "Times of Oman",
@@ -110,6 +175,17 @@
       "originalHeadline": "مصدر: ترمب ربط الاتفاق النووي بالتطبيع بدون تنسيق مع الرياض"
     },
     {
+      "headline": "Sky is falling , but no need to be alarmed – News will not be silenced | Amanda Meade",
+      "url": "https://www.theguardian.com/media/commentisfree/2026/jul/24/sky-australia-news-24-rename-weekly-beast",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-24T04:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Conveyed by the Prime Minister of Iraq... Iran rejects an American proposal for a ceasefire",
       "url": "https://www.aljazeera.net/politics/2026/7/24/%D9%86%D9%82%D9%84%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B6",
       "source": "Al Jazeera Arabic",
@@ -120,17 +196,6 @@
       "date": "2026-07-24T04:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "نقله رئيس وزراء العراق .. إيران ترفض مقترحا أمريكيا لوقف إطلاق النار"
-    },
-    {
-      "headline": "Sky is falling , but no need to be alarmed – News will not be silenced | Amanda Meade",
-      "url": "https://www.theguardian.com/media/commentisfree/2026/jul/24/sky-australia-news-24-rename-weekly-beast",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-24T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
@@ -212,16 +277,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-24T03:29:54.000Z"
-    },
-    {
-      "headline": "US military launches new strikes on Iran as clashes escalate over shipping routes - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-24T03:26:00.000Z"
     },
     {
       "headline": "Report: Iran rejects an American ceasefire proposal presented to it through Iraq",
@@ -334,16 +389,6 @@
       "date": "2026-07-24T02:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "كأس العالم « بين عالمين »"
-    },
-    {
-      "headline": "MWL Condemns Continued Israeli Raids on Al-Aqsa Mosque",
-      "url": "https://spa.gov.sa/en/N2640594?type=news&uuid=N2640594",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-24T02:09:31.000Z"
     },
     {
       "headline": "A limited cabinet reshuffle in Yemen, including the Foreign Affairs and Local Administration portfolios",
@@ -984,6 +1029,16 @@
       "originalHeadline": "الأمير فهد بن سلطان « أنا أعشقكم » قصة وفاء في تبوك الورد"
     },
     {
+      "headline": "US Stocks close sharply lower",
+      "url": "https://www.wam.ae/en/details/17c6gb7-stocks-close-sharply-lower",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T23:37:16.512Z"
+    },
+    {
       "headline": "Arab Parliament Speaker condemns Israeli incursion into Al-Aqsa mosque compound",
       "url": "https://www.wam.ae/en/details/17c6gb6-arab-parliament-speaker-condemns-israeli-incursion",
       "source": "Emirates News Agency (WAM)",
@@ -1014,6 +1069,16 @@
       "language": "ar",
       "date": "2026-07-23T23:30:00.000Z",
       "tier": "gdelt"
+    },
+    {
+      "headline": "China launches new data relay satellite",
+      "url": "https://www.wam.ae/en/details/17c6gb5-china-launches-new-data-relay-satellite",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-23T23:29:05.880Z"
     },
     {
       "headline": "#US President Donald Trump says that the #US will use frozen Iranian money to pay compensations to ships damaged in Iranian attacks in the Strait of Hormuz\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3317800\n…\n\n#KUNA",
@@ -1357,16 +1422,6 @@
       "originalHeadline": "الكويت تتصدى لهجمات صاروخية ولمسيرات من إيران"
     },
     {
-      "headline": "Saudi-Bahraini Committee Reviews Joint Security Cooperation",
-      "url": "https://spa.gov.sa/en/N2640532?type=news&uuid=N2640532",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T21:37:55.000Z"
-    },
-    {
       "headline": "Addressing a high-level UN Security Council (UNSC) debate on Strengthening the Mechanisms for the Peaceful Settlement of Disputes, #UN Secretary-General Antonio Guterres calls for keeping the channels of dialogue open and spare no effort for peaceful settlement of disputes",
       "url": "https://x.com/kuna_en/status/2080406697110114790",
       "source": "Kuwait News Agency (KUNA)",
@@ -1395,7 +1450,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T21:35:02.000Z",
-      "originalHeadline": "ترامب: الاتفاق النوو�� مع السعودية مرهون بالاعتراف بإسرائيل"
+      "originalHeadline": "ترامب: الاتفاق النووي مع السعودية مرهون بالاعتراف بإسرائيل"
     },
     {
       "headline": "In a step that strengthens the partnership between the public and private sectors to support digital transformation, a memorandum of understanding was signed between the Ministry of State for Communications and Information Technology and stc company, to develop digital government",
@@ -2474,28 +2529,6 @@
       "date": "2026-07-23T18:26:58.000Z"
     },
     {
-      "headline": "Kuwait condemns in the strongest terms the continued aggression of Iran and its agents on its territory",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQ0hUdk1QbkU2b2pHS2E3Uk5tR29DZDRJbllRSkxQcmdIUGJ1SWIyRWN1cDZ0U1JlQkJDR2VIVGFMalg5aEExQjBkblJ0RlBoVHplYlRn?oc=5",
-      "source": "بوابة الأهرام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T18:22:00.000Z",
-      "originalHeadline": "الكويت تدين بأشد العبارات استمرار عدوان إيران ووكلائها على أراضيها"
-    },
-    {
-      "headline": "Take Centrica gas storage warning seriously – Britain still needs secure supplies | Nils Pratley",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/23/centrica-gas-storage-warning-seriously-britain-secure-supplies",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-23T18:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "The Capital Governor inaugurates the \"Little Merchant\" exhibition and emphasizes the importance of developing entrepreneurial thinking among the youth\n\nhttps://\npolicemc.gov.bh/news/80452/",
       "url": "https://x.com/moi_bahrain/status/2080355457018085686",
       "source": "Bahrain Interior Ministry",
@@ -2506,27 +2539,6 @@
       "date": "2026-07-23T18:12:46.000Z"
     },
     {
-      "headline": "Yemen appoints Afrah Al-Zouba as Minister of Foreign Affairs... Who is she?",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOS2EtWExRcVEtU29iZENxbU9DYXYyOXlZWWVNT0RPZHphbmFicTgxMW5MTUdmOVl5QnNWY3Z3TFBRSXAycEtaNWp5R1d3LXlhdmRobGFaN1VDaFZiMEo5RTd2cjRuWG1ja3JoOFpUZlU5R0FqclB1a1ZMQ2FpZmZtNmFfeG9CVmpzdTF3ZFFCcUIxcjBIX0FvSFpNaVY1VWxlMGZ5TmR5SXhZTUUycWMzdGRjSmYxOUI2dlRmazNhcnFiZHFDSUVvc280VGxKVWcxX1BDM1BQc3Y1M3VCX09nemVsSWVtSUh4aTJsWFhwSEhtd3ptU01Cd05nR1hqcjZBTy1uNGUwanVRYm5OMC1rbFdXODVKUFIzTWlJQ1U0b2ZHRHc5NWpZdFpoZkJ3U1RVSzltQ3FVMHQ5aENBamNXMmFZdWhMM0NXMWQ5elhCT0VtZ1BrSzZ3S2hGSFBXdnVKeTI2V3NYSlM3Sk13YXZlbWNtUGFMdzhHYzFJdXlIVWstZ2tzX1U3bDJ6WXc4Nk5NaHRaSHVYdw?oc=5",
-      "source": "annahar.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-23T18:12:00.000Z",
-      "originalHeadline": "اليمن يعين أفراح الزوبة وزيرة للخارجية... من هي؟"
-    },
-    {
-      "headline": "UK Condemns Houthi Militia's Targeting of Saudi Vessel",
-      "url": "https://spa.gov.sa/en/N2640386?type=news&uuid=N2640386",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T18:11:31.000Z"
-    },
-    {
       "headline": "The Director General of Legal Affairs and International Cooperation at the Ministry of Interior, and the Chief of Police of the Kingdom of Bahrain, are chairing the (7th) meeting of the work team of the Security Committee emerging from the Saudi-Bahraini Coordination Council.",
       "url": "https://x.com/MOISaudiArabia/status/2080354758456451121",
       "source": "Saudi Interior Ministry",
@@ -2535,16 +2547,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-23T18:10:00.000Z"
-    },
-    {
-      "headline": "UAE Strongly Condemns Houthi Attack on Saudi Vessel",
-      "url": "https://spa.gov.sa/en/N2640382?type=news&uuid=N2640382",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T18:02:49.000Z"
     },
     {
       "headline": "In the grip of the anti-vice squad.\n#On the lookout",
