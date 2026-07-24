@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-24T07:18:53.254Z",
+  "updated": "2026-07-24T07:32:51.515Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Friday",
+      "url": "https://spa.gov.sa/en/N2640617?type=news&uuid=N2640617",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-24T07:30:34.000Z"
+    },
+    {
+      "headline": "Rugby national team placed in Group C for Asian Games",
+      "url": "https://www.wam.ae/en/details/c1dsjpi-rugby-national-team-placed-group-for-asian-games",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-24T07:28:33.175Z"
+    },
     {
       "headline": "Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
@@ -279,6 +299,16 @@
       "date": "2026-07-24T06:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "توافق هسته‌ای ترامپ با عربستان ؛ چرخشی در سیاست سنتی آمریکا در خاورمیانه"
+    },
+    {
+      "headline": "US strikes Iran and Bahrain warns of incoming fire as clashes over shipping routes escalate - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2RzRDNJNGE4bkhwenhRYkRLV2tqQjh5akI2MkFmQThkZjdhbjVSUU9kLV9XNEUxbnJ3dmExOHpEb3VDOFVyam5sOTNsUGxXTzVkUDZjS0tFa1NPeDQ0MnRTQ1YzbzVWY0RZaWdMMk9JU08xSk5HWXcxV0FrRE83NXlJTERzRF90dVlLbndEYld6MEYwOXNCdW12NWQxTVk?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-24T05:59:00.000Z"
     },
     {
       "headline": "Six candidates make case to succeed UN Chief Guterres",
@@ -1186,7 +1216,7 @@
       "date": "2026-07-24T00:42:00.000Z"
     },
     {
-      "headline": "For the 13th night in a row...the US Army launches a new wave of strikes on Iran",
+      "headline": "For the 13th night in a row...the US army launches a new wave of strikes on Iran",
       "url": "https://arabic.cnn.com/middle-east/article/2026/07/24/us-launches-wave-of-strikes-against-iran",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -2002,7 +2032,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-23T21:35:02.000Z",
-      "originalHeadline": "ترامب: الاتفاق النووي مع السعودية مرهون بالاعتراف بإسرائيل"
+      "originalHeadline": "ترامب: الاتفاق النووي ��ع السعودية مرهون بالاعتراف بإسرائيل"
     },
     {
       "headline": "In a step that strengthens the partnership between the public and private sectors to support digital transformation, a memorandum of understanding was signed between the Ministry of State for Communications and Information Technology and stc company, to develop digital government",
@@ -2505,26 +2535,6 @@
       "date": "2026-07-23T20:14:56.000Z"
     },
     {
-      "headline": "KSrelief Distributes 728 Food Baskets in Kabul, Afghanistan",
-      "url": "https://spa.gov.sa/en/N2640484?type=news&uuid=N2640484",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T20:14:25.000Z"
-    },
-    {
-      "headline": "France Awards Ambassador Alruwaily Commander of the Legion of Honor at End of Mission",
-      "url": "https://spa.gov.sa/en/N2640480?type=news&uuid=N2640480",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T20:09:59.000Z"
-    },
-    {
       "headline": "For the Fourth Consecutive Year .. The Kingdom Leads Regionally in the Maturity of Digital Government Services at 99%",
       "url": "https://x.com/alekhbariyatv/status/2080384907524575708",
       "source": "Al Ekhbariya TV",
@@ -2533,16 +2543,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-23T20:09:48.000Z"
-    },
-    {
-      "headline": "Arab Interior Ministers Council Condemns Iran’s Repeated Attacks in the Region",
-      "url": "https://spa.gov.sa/en/N2640477?type=news&uuid=N2640477",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-23T20:08:07.000Z"
     },
     {
       "headline": "Taiz Governorate Agent Dr. Abdul Qawi Al-Mukhlifi: There is readiness among Yemen's sons to end the Houthi coup.",
