@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T07:32:51.515Z",
+  "updated": "2026-07-24T07:48:53.794Z",
   "itemCount": 300,
   "items": [
     {
@@ -21,6 +21,18 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-24T07:28:33.175Z"
+    },
+    {
+      "headline": "Four people were killed in the American attack on Iran, the claim of the Iranian army to target American military installations in Bahrain and Jordan",
+      "url": "https://www.bbc.com/urdu/live/c4gkxneqk77t",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-24T07:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ایران پر امریکی حملے میں چار افراد ہلاک ، ایرانی فوج کا بحرین اور اردن میں امریکی فوجی تنصیبات کو نشانہ بنانے کا دعویٰ"
     },
     {
       "headline": "Iran war - AP News",
@@ -277,18 +289,6 @@
       "date": "2026-07-24T06:07:56.549Z"
     },
     {
-      "headline": "Spain fires force more than 10,000 people to evacuate",
-      "url": "https://www.okaz.com.sa/variety/na/2258372",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-24T06:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حرائق إسبانيا تجبر أكثر من 10 آلاف شخص على الإجلاء"
-    },
-    {
       "headline": "Trump's nuclear agreement with Saudi Arabia; A turn in traditional American policy in the Middle East",
       "url": "https://www.bbc.com/persian/articles/cp9exv1k94eo",
       "source": "BBC",
@@ -299,6 +299,18 @@
       "date": "2026-07-24T06:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "توافق هسته‌ای ترامپ با عربستان ؛ چرخشی در سیاست سنتی آمریکا در خاورمیانه"
+    },
+    {
+      "headline": "Spain fires force more than 10,000 people to evacuate",
+      "url": "https://www.okaz.com.sa/variety/na/2258372",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-24T06:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حرائق إسبانيا تجبر أكثر من 10 آلاف شخص على الإجلاء"
     },
     {
       "headline": "US strikes Iran and Bahrain warns of incoming fire as clashes over shipping routes escalate - AP News",
@@ -497,17 +509,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Iran : Thinking the Unthinkable",
-      "url": "https://english.aawsat.com/opinion/5299524-iran-thinking-unthinkable",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-24T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "US Military Launches New Strikes on Iran as Clashes Escalate Over Shipping Routes",
       "url": "https://english.aawsat.com/world/5299521-us-military-launches-new-strikes-iran-clashes-escalate-over-shipping-routes",
       "source": "Asharq al-Awsat (EN)",
@@ -532,6 +533,17 @@
     {
       "headline": "MWL Condemns Continued Israeli Raids on Al - Aqsa Mosque",
       "url": "https://english.aawsat.com/gulf/5299518-mwl-condemns-continued-israeli-raids-al-aqsa-mosque",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-24T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Iran : Thinking the Unthinkable",
+      "url": "https://english.aawsat.com/opinion/5299524-iran-thinking-unthinkable",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -737,6 +749,17 @@
       "originalHeadline": "مصدر: ترمب ربط الاتفاق النووي بالتطبيع بدون تنسيق مع الرياض"
     },
     {
+      "headline": "Sky is falling , but no need to be alarmed – News will not be silenced | Amanda Meade",
+      "url": "https://www.theguardian.com/media/commentisfree/2026/jul/24/sky-australia-news-24-rename-weekly-beast",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-24T04:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Conveyed by the Prime Minister of Iraq... Iran rejects an American proposal for a ceasefire",
       "url": "https://www.aljazeera.net/politics/2026/7/24/%D9%86%D9%82%D9%84%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B6",
       "source": "Al Jazeera Arabic",
@@ -747,17 +770,6 @@
       "date": "2026-07-24T04:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "نقله رئيس وزراء العراق .. إيران ترفض مقترحا أمريكيا لوقف إطلاق النار"
-    },
-    {
-      "headline": "Sky is falling , but no need to be alarmed – News will not be silenced | Amanda Meade",
-      "url": "https://www.theguardian.com/media/commentisfree/2026/jul/24/sky-australia-news-24-rename-weekly-beast",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-24T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
@@ -2511,18 +2523,6 @@
       "date": "2026-07-23T20:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "تعديل وزاري محدود في اليمن يشمل 3 حقائب"
-    },
-    {
-      "headline": "Digital dementia...Do smartphones impair our memory? | Lifestyle",
-      "url": "https://www.aljazeera.net/lifestyle/2026/7/23/%D8%A7%D9%84%D8%AE%D8%B1%D9%81-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%87%D9%84-%D8%AA%D8%B6%D8%B9%D9%81-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-23T20:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الخرف الرقمي .. هل تضعف الهواتف الذكية ذاكرتنا ؟ | أسلوب حياة"
     },
     {
       "headline": "Kuwaiti Air Defenses Intercepting Iranian Missile and Drone Attacks\n#QNA #Kuwait\n\nhttps://\now.ly/9ego50Zs5P2",
