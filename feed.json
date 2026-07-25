@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T08:47:50.063Z",
+  "updated": "2026-07-25T09:04:28.355Z",
   "itemCount": 300,
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-07-25T08:43:15.000Z"
+      "date": "2026-07-25T08:53:01.000Z"
     },
     {
       "headline": "United States - AP News",
@@ -103,7 +103,17 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-25T08:06:14.000Z",
-      "originalHeadline": "البحر��ن والأردن والكويت لم تعلن عن وقوع أي ضربات إيرانية السبت"
+      "originalHeadline": "ا��بحرين والأردن والكويت لم تعلن عن وقوع أي ضربات إيرانية السبت"
+    },
+    {
+      "headline": "Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-25T07:58:59.000Z"
     },
     {
       "headline": "Kuwait signs an oil pipeline deal with a global alliance worth $16 billion",
@@ -125,16 +135,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-07-25T07:57:37.000Z"
-    },
-    {
-      "headline": "Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-25T07:57:03.000Z"
     },
     {
       "headline": "Kuwait signs a pipeline leasing deal worth $16 billion with 3 companies",
@@ -179,6 +179,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "The UAE and Canada conclude negotiations on the Comprehensive Economic Partnership Agreement",
+      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxObzJRTFZ2X3dpbVc4SFdweC13dF9UMFJUaUtUc2l0SWV6SHFlUy1SMHZkZlM4YnphUXQzOXlvZUVKTXV1aTZ0MXlPYkdTT2ZGdnlDRWdUSUZIa0psaEllQ2diRFQyTjFHTHgyb3NWejVHSldyT3B6eWVpNHNjdzY0a0dSSlYtRWswaERGNHd2ay1JZV9NbGdTaHV1Z3duWElRcDNYTUlIc3N2YlRXdGVqM2I4dmpGNWtmdXF3TS1hX19zTEVyeXhVT3FGa01uQ1ktOXRWMDVlSDZ0UDJ0Ynl0aUNodTllb2kyOWYzNUI3VDhBQV90V0JBSUJCZjJCdndtTE5nSzNxcUFHZWhoenR2UUhyOW9FUUlBT19nVEp2cUFFQW1ELVVWNDF2aEZpZE9FLWtnMGxLR3AyOG1vUHhqMHFPdWhZUFllQ2hCWkJWQzFsUEp5MVU2R1hNM3BtV0J6UkxqYkVjbFJLREZEa3dLUXNRSTFuQjBncDVZRlFhOHVCN3FMVFZSMDBtZE5iZzhjQVcxM3lrbHd3RnV5b29UcDM3bTRwclNYWTlCZVNaVTlxLTlScEN0bWprd0pRblhYbE1YZ05OalF3TDBDOTRNQXNRd1BDUE9haDRPRnQtZlREU0dEVXphbXZKaTIyU0pUZWRrd1lsVUVpRXIySFgtQ1hwOTdnNGJtVlBOZ0dsTXVodktpaDdhVERCSUt4OEtTQzlIMTB4YXdzWVk?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-25T07:42:08.000Z",
+      "originalHeadline": "الإمارات وكندا تختتمان مفاوضات اتفاقية الشراكة الاقتصادية الشاملة"
+    },
+    {
       "headline": "German industry group says 15,000 jobs lost each month",
       "url": "https://www.wam.ae/en/details/c1edzau-german-industry-group-says-15000-jobs-lost-each",
       "source": "Emirates News Agency (WAM)",
@@ -211,6 +222,17 @@
       "originalHeadline": "رئيس مجلس القيادة اليمني: الحوثيون يقامرون بمصالح اليمن خدمة لأجندات إيران"
     },
     {
+      "headline": "Kuwait...an oil pipeline deal with a global alliance worth $16 billion",
+      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNbzF4UUNJWm40djE1eEtTZXoyY1JkUUVRMGRNTjQyczZVYWsyaENkYzRtQ2J0c1ZoTkp2TDdKZlVicTd3RHJ6Z29XcF8yeF9jcUJzNkNINTJFdXprUFdQSVl6eDJ3dF9rYXpLWk9XVlUxNXY1bUhhWG5SRDhKYXR5NHZCdUVUZkRkUjdfU0dYaXRzWUNJV1A4VkJyOXVJZ2RjRFFvWlFWajUwYjNLWFFXSUxKdjV1MjhmdHphWENfQnVRd0tGS1ozTEE3MHlUcVlJUEctM0lEeWp2YjV1SEJXWTVxWEEwMHJqcWR5REx0RG5ZcjRzWkM4anBFV1Y4UldGYy1GOGNVRlJrVXczNktHZnhaN2hLbDlvaWhvZWlwQ3hjNzRXOHM2dzFsenMwRlRMS0JDNUVtanpoa2dHVXl4bllseXQtSGFldHhsOHVwemJlMXlES2FUU3JpdVNHek10QnlJT3VaRlA4bGJPcUJXQTZ0ekEtdXBsZnlZYndKVWpDU0lVVU92UUlHTWp6Rkk2TUlWbFYtdk5YSkM4ZkNTV09pX2FqMXRaZXhWVWd2YTV4UUFhUTg1QVk1M0lmby11Z3FQeDNRU1g?oc=5",
+      "source": "الشرق بلومبرغ",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-25T07:19:26.000Z",
+      "originalHeadline": "ا��كويت.. صفقة أنابيب نفطية مع تحالف عالمي بـ16 مليار دولار"
+    },
+    {
       "headline": "Egypt, Iran and the Sultanate of Oman call for reducing escalation and protecting navigation",
       "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxNLVVmNDdHXzI1MUNlUGxTSDNxT19lQWZJVmpDSWdLTUoyNTduc3BSRzFLbTNrQ0dNRkVIc0Nnb1JZNngtUzg1V3RuaVVnZEZxalRaWEtVT2hxLVZtYWUtRC1KUXRqcF9kOUFXcDQ1Y2NFRVRtSzExMkFsaVV3NlpxbUxiWUpWckdnNEpfSDFGRy1WMWh4RV91RGFjVHpwcUtnbFdLXzFTSkJPOURVY2lKN3g4NUVDR0RBaWxkbVBQcmtPMUtWMXRTRThiOHdOTWdWRVVZWFRpeGw4aWpUUDluaDlIXzhxOTlGWDVkZVVDTkRJN2VkVTUtZG84c3Y4bTRKR0RpUDh5RXZJa28yZDFSX3NfY19hMnhQUklFRlJObENRSWFHbjBwNE81d3dxRzI5QlozRTR5dFBBYXNubWVHYi1RMWlLengtQzl3TzNEM0F5LUR0MGFyNEJvd3RiWmtQWUhvV2ZGZ3NhYXR3RmZoUmM5QnR0WGxxVHk4WmFhSGhBNEtXV0toWVp1N2dSYmZ6NnRrazFrSG9EVmNBdTRHc3NNVUphSk5GNHZrV0ZqUndRdkJiOGRCWFFZaVBaRjhtMEt5Z0wxYWw0d3k0Tlh1a0c2LWJQcFR6LUV6NV9VNFJUS2p6c2M0NXJGdFRoenEwXzZqWm5QS05PYmFBZTluTkNKMW1fUkR4MEowOTVzOXRLX1pIc2xwVjFzWjVxb1hYRkI3YXZvdnVUZVRHNWQwa0NRSkx5T1FnYjliUHh6Z0pTTWIzNl8tZnlfUktRRlRSREE?oc=5",
       "source": "alghad.tv",
@@ -230,17 +252,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-25T07:13:59.000Z"
-    },
-    {
-      "headline": "Kuwait...an oil pipeline deal with a global alliance worth $16 billion",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQUE5kM3N1dE5JN29ENmRQWjc2ZHlaaHV6M0M2X0Z5T0taNWF4dzhUZGhjdHRZMkd6TGg3QmY5NGplOUhRNk84TkI4eU41c3JSb0pBSUdqYmp6X20yRVMya2tFMjhXQThwUHMxNkhPWXRaNHI1NTdzRFNGVEowaWFKZldqb1d0OUJhYjRhX3NHTERIa0NNamY2cFhmZnk0dGNxT2g1TDd5UjdrXzFYUmVyOXp4V0VxV1AxNlpTRkVvXzhlNjd0Y0stUmVIRldoRkc1UHN6U0FNZXdremMzblNoOWt4eWxfcWJoUjJYS3BvQmVCYmxfSkNVS0prS0dXOW40QXBzVU1ZZDJfcVVrdzdOX1J5dmdaUnFrelZZMDNTVTc2SW9vN2Q1YkVRZFY4RndRUjI1TFBFbnY1QVNEczVKcE1kZjhyVU5ubkYwanUxejFoQllwNXRjTjlLODg3RThzNnpGUUxKR1Q5blJlWDFORkFHRGpna1N6Q25MSEZBYnN2ZTh6WGsxTGt6dEhRS0JvaGpVUDgyYWJWeWdueTN5cnlvZGRtaVk3VnJ3SEF6WGdrc0VpN2ZrRTBzenVSaUlPVE5R?oc=5",
-      "source": "الشرق بلومبرغ",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-25T07:13:29.000Z",
-      "originalHeadline": "الكويت.. صفقة أنابيب نفطية مع تحالف عالمي بـ16 مليار دولار"
     },
     {
       "headline": "The Houthis attack a Saudi ship in the Red Sea.. And the coalition to support legitimacy in Yemen: We carried out a military response against Houthi targets in Hodeidah and did not target the port, and all ports are open to navigation.. Yemen: The response is consistent with international law",
@@ -264,15 +275,15 @@
       "date": "2026-07-25T07:07:29.287Z"
     },
     {
-      "headline": "Kuwait attracts the largest foreign direct investment in its history through the Shaheen Project worth $16 billion - Hapi Newspaper",
+      "headline": "Kuwait attracts the largest foreign direct investment in its history through the Shaheen Project, worth $16 billion",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNM3NIcmJOdHF6NWlPdEZpVDZjR3llY3lBSjA3el81U3lneDVrTVVZTXRtQWxGWUdQZFoyTEJFSG5Bb1dNVTFmZGtZUEgwdTlzb1hmcEg3bG0tWHAxckZVZEltalkxR0tJWGpiQ2xLVkhNM1Q4OVRBQ20zT2JmR3B0WC04ZjVfRFhiZVNVN0R2RlM5WDJmUFcySVlNSi1mTDM4R2FaZUMzT053ODliSnlHMFA2XzB4SzRuS1dGYkg1Sm53Tk1qWjRjUXZNZjRTVU1xWkZGQ1haZUlqY28yb3VtTERtVmdsZjYwVWhOaDdaTTllWXNCSnl4RVRDbDJzd2wzY2txeWhITVpnTEV1RHR2YlRyNmhVQlBUellWRXNOc0RzSEZkM3ZpMURmejA5N0d1bHMydG9BT2xxSjBhT2xXaWZxZmNseDQ1cWpSZS1zVEZxRnc?oc=5",
-      "source": "جريدة حاب��",
+      "source": "جريدة حابي",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-25T07:05:03.000Z",
-      "originalHeadline": "الكويت تستقطب أكبر استثمار أجنبي مباشر في تاريخها عبر مشروع شاهين بقيمة 16 مليار دولار - جريدة حابي"
+      "originalHeadline": "الكويت تستقطب أكبر استثمار أجنبي مباشر في تاريخها عبر مشروع شاهين بقيمة 16 مليار دولار"
     },
     {
       "headline": "Oman launches 'Purple Saturday' initiative to promote awareness of persons with disabilities",
@@ -336,7 +347,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-25T06:33:45.000Z",
-      "originalHeadline": "التحالف بقيادة السعود��ة يضرب \"مواقع عسكرية\" في اليمن والحوثيون يردون، وترامب \"لم يقرر بعد\" هجمات أوسع ضد إيران"
+      "originalHeadline": "التحالف بقيادة السع��دية يضرب \"مواقع عسكرية\" في اليمن والحوثيون يردون، وترامب \"لم يقرر بعد\" هجمات أوسع ضد إيران"
     },
     {
       "headline": "US Military Says It Disabled Tanker Attempting to Breach Iran Port Blockade\n#QNA \n\nhttps://\nbit.ly/3TkfKSX",
@@ -370,6 +381,17 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Lebanon Pilot Zone Test Intl Trust in State",
+      "url": "https://english.aawsat.com/arab-world/5299825-lebanon%E2%80%99s-%E2%80%98pilot-zones%E2%80%99-test-int%E2%80%99l-trust-state",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-25T06:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Saudi Arabia Approves System to Develop Public Education Governance",
       "url": "https://english.aawsat.com/gulf/5299823-saudi-arabia-approves-system-develop-public-education-governance",
       "source": "Asharq al-Awsat (EN)",
@@ -394,17 +416,6 @@
     {
       "headline": "Al - Jaber : Houthis Have Turned Yemen into a Bargaining Chip for Foreign Parties",
       "url": "https://english.aawsat.com/gulf/5299822-al-jaber-houthis-have-turned-yemen-bargaining-chip-foreign-parties",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-25T06:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Lebanon Pilot Zone Test Intl Trust in State",
-      "url": "https://english.aawsat.com/arab-world/5299825-lebanon%E2%80%99s-%E2%80%98pilot-zones%E2%80%99-test-int%E2%80%99l-trust-state",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -981,7 +992,7 @@
       "originalHeadline": "اليمن في قلب مشهد التصعيد مع إيران"
     },
     {
-      "headline": "Al-Riyadh newspaper | Zelensky accuses Russia of preparing for a new military mobilization in the fall",
+      "headline": "Al-Riyadh newspaper | Zelensky accuses Russia of preparing a new military mobilization in the fall",
       "url": "https://www.alriyadh.com/2199345",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -2624,16 +2635,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-24T19:48:21.000Z"
-    },
-    {
-      "headline": "Trump vows tariffs on Canada over wildfire smoke - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUtIR0Ewai1OQk1qTTViTmYxb24tT0lGSTNsbGdaM19nMVZ6N2pUTlRJMVZWbkZZcGRPWTZzWVliaVgtWmRseVNWNFY1Wk5iQUt1NzRURklpVFhrcWFXMDFxT2VfTE85cllVcEZwMUwxVlZmRE5VeWxQdjcyQmVBZ0pzN08wdGlvQ1N3LXA1UHc?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-24T19:48:11.000Z"
     },
     {
       "headline": "A reliable source at the General Authority for Transport: The targeting of the Saudi ship NCC MASA during its voyage in the Red Sea resulted in a minor injury to its hull, and the ship continued its journey to its destination after confirming its safety and that of its crew",
