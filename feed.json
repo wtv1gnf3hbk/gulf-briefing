@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-25T07:09:23.280Z",
+  "updated": "2026-07-25T07:19:19.267Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Saturday",
+      "url": "https://spa.gov.sa/en/N2641033?type=news&uuid=N2641033",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-25T07:13:59.000Z"
+    },
+    {
+      "headline": "Oman launches 'Purple Saturday' initiative to promote awareness of persons with disabilities",
+      "url": "https://timesofoman.com//article/174809-oman-launches-purple-saturday-initiative-to-promote-awareness-of-persons-with-disabilities",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-25T07:04:57.000Z"
+    },
     {
       "headline": "#QNB: Cyclical Factors Underpin US Dollar Resilience Despite Structural Headwinds\n#QNA  #Economy\n\nhttps://\nbit.ly/4wFjVrn\n\nhttps://\nbit.ly/3RS1sbK",
       "url": "https://x.com/QNAEnglish/status/2080908165328060837",
@@ -11,6 +31,18 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-25T06:49:02.000Z"
+    },
+    {
+      "headline": "The return of expatriates to Lebanon... Will tourism recover? | policy",
+      "url": "https://www.aljazeera.net/politics/2026/7/25/%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%87%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-25T06:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عودة الوافدين إلى لبنان .. هل تستعيد السياحة عافيتها ؟ | سياسة"
     },
     {
       "headline": "Typhoon Noul nears southern China, putting region on high alert for heavy rain, wind",
@@ -677,7 +709,7 @@
       "originalHeadline": "اليمن في قلب مشهد التصعيد مع إيران"
     },
     {
-      "headline": "Al-Riyadh newspaper | Zelensky accuses Russia of preparing for a new military mobilization in the fall",
+      "headline": "Al-Riyadh newspaper | Zelensky accuses Russia of preparing a new military mobilization in the fall",
       "url": "https://www.alriyadh.com/2199345",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -2676,40 +2708,6 @@
       "date": "2026-07-24T18:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مكاسب التكنولوجيا تدفع الأسهم الأوروبية للصعود"
-    },
-    {
-      "headline": "75% of them are thinking about leaving... Brain drain in America due to Trump’s policies | policy",
-      "url": "https://www.aljazeera.net/politics/2026/7/24/75-%D9%85%D9%86%D9%87%D9%85-%D9%8A%D9%81%D9%83%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D9%86%D8%B2%D9%8A%D9%81-%D8%B9%D9%82%D9%88%D9%84-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "75 % منهم يفكرون بالمغادرة .. نزيف عقول في أمريكا بسبب سياسات ترمب | سياسة"
-    },
-    {
-      "headline": "Arab participation in the Venice Festival begins in Gaza",
-      "url": "https://www.aljazeera.net/arts/2026/7/24/%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-24T18:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "المشاركة العربية في مهرجان فينيسيا تبدأ من غزة"
-    },
-    {
-      "headline": "Venezuela notifies UN of withdrawal from ICC - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmMyS3hPN3IyaC03US1SQ29YQjVvY2E0U1F0WU9CUlRsd285NE53TEk1eXhtbGtuczlST0c3X3FDQ2VhbWUyR0k0blZNUE5XUWpBOWJ0RnlUWTBMT1VLRXJiamN5NUxjWEQ4Q1dTTTFRYmpEdWlhOE9CLUR0aHZPaUdJSlhvdW96TEx4dkYtVFg?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-24T18:27:25.000Z"
     },
     {
       "headline": "UAE strongly condemns renewed Iranian hostile attacks on Bahrain, Kuwait, and Jordan\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1dskkx",
