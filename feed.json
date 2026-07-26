@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-26T10:34:17.864Z",
+  "updated": "2026-07-26T10:49:21.900Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Etihad Airways, Africa World Airlines sign strategic partnership agreement",
+      "url": "https://www.wam.ae/en/details/c1ezf5c-etihad-airways-africa-world-airlines-sign",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-26T10:47:59.258Z"
+    },
+    {
+      "headline": "Dubai Police search and rescue teams carry out 4,870 missions in H1 2026",
+      "url": "https://www.wam.ae/en/details/c1ezf5b-dubai-police-search-and-rescue-teams-carry-out",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-26T10:44:09.243Z"
+    },
+    {
+      "headline": "Sulaiman Al Habib’s profits exceed expectations and regain growth momentum in the second quarter",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNDRscDBjWHdUVGNGcFluM3pUdlBBRHZSbndsQ1lIWF9FSFNJSnBCaExReDlJYVBFMEZ1S2l2V1Y5R2NEQjA0MndPbGJwV29jZ1ZNemxWTjFxZFk?oc=5",
+      "source": "جريدة البورصة",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-26T10:41:15.000Z",
+      "originalHeadline": "أرباح \"سليمان الحبيب\" تتجاوز التوقعات وتستعيد زخم النمو في الربع الثاني"
+    },
     {
       "headline": "Jeddah Municipality Marks World Drowning Prevention Day with Beach Safety Campaign",
       "url": "https://spa.gov.sa/en/N2641546?type=news&uuid=N2641546",
@@ -232,6 +263,75 @@
       "date": "2026-07-26T09:47:35.000Z"
     },
     {
+      "headline": "Has enforced disappearance returned to the political forefront in Uganda?",
+      "url": "https://www.aljazeera.net/news/2026/7/26/%D9%87%D9%84-%D8%B9%D8%A7%D8%AF-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل عاد الاختفاء القسري إلى الواجهة السياسية في أوغندا ؟"
+    },
+    {
+      "headline": "Palestinians Say Israeli Settlers Torch 2 Mosques in West Bank",
+      "url": "https://english.aawsat.com/arab-world/5300134-palestinians-say-israeli-settlers-torch-2-mosques-west-bank",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Tal massacre... Palestinian blood fuels the Israeli elections",
+      "url": "https://www.aljazeera.net/politics/2026/7/26/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%AA%D9%84-%D9%88%D9%82%D9%88%D8%AF-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مجزرة تل .. الدم الفلسطيني وقود الانتخابات الإسرائيلية"
+    },
+    {
+      "headline": "Newcastle Boss Howe Uncertain About Guimarae Future",
+      "url": "https://english.aawsat.com/sports/5300086-newcastle-boss-howe-uncertain-about-guimaraes-future",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Japan Great King Kazu Miura Scores 1st Competitive Goal after Four Years at 59",
+      "url": "https://english.aawsat.com/sports/5300121-japan-great-king-kazu-miura-scores-1st-competitive-goal-after-four-years-59",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Alternatives to Bab al-Mandab.. Will Sidi Krir become the Saudi oil corridor to the Mediterranean?",
+      "url": "https://www.aljazeera.net/ebusiness/2026/7/26/%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8-%D9%87%D9%84-%D9%8A%D8%B5%D8%A8%D8%AD-%D8%B3%D9%8A%D8%AF%D9%8A-%D9%83%D8%B1%D9%8A%D8%B1-%D9%85%D9%85%D8%B1",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بدائل باب المندب .. هل يصبح سيدي كرير ممر النفط السعودي إلى المتوسط ؟"
+    },
+    {
       "headline": "The Center of the Al Sayl Natural Park Reserve, affiliated with the Environment Authority in the #South_Sharqiyah Governorate, succeeds in conducting the first experiment in propagating the ghaf tree using air layering technology (air rooting).\n\n\nhttps://\n2u.pw/pt3slp",
       "url": "https://x.com/OmanNewsAgency/status/2081314715964444914",
       "source": "Oman News Agency (Arabic)",
@@ -292,66 +392,6 @@
       "language": "ar",
       "date": "2026-07-26T09:37:00.000Z",
       "originalHeadline": "اتفاقية الشراكة الاقتصادية بين الإمارات وكندا تعزز التجارة"
-    },
-    {
-      "headline": "Can you be healthy even if you are obese? | health",
-      "url": "https://www.aljazeera.net/health/2026/7/26/%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%AA%D9%85%D8%AA%D8%B9-%D8%A8%D8%B5%D8%AD%D8%A9-%D8%AC%D9%8A%D8%AF%D8%A9-%D9%88%D8%A3%D9%86%D8%AA-%D9%85%D8%B5%D8%A7%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-26T09:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هل يمكن أن تتمتع بصحة جيدة وأنت مصاب بالسمنة ؟ | صحة"
-    },
-    {
-      "headline": "Medications for cows are their last resort.. How are crises affecting Lebanon’s Arabian horses?",
-      "url": "https://www.aljazeera.net/misc/2026/7/26/%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%82%D8%A7%D8%B1-%D9%85%D9%84%D8%A7%D8%B0%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%83%D9%8A%D9%81-%D8%AA%D8%B9%D8%B5%D9%81",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-26T09:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أدوية الأبقار ملاذها الأخير .. كيف تعصف الأزمات بخيول لبنان العربية ؟"
-    },
-    {
-      "headline": "Between exaggeration and truth.. This is what we know about the crash of a drone near Ben Gvir’s house",
-      "url": "https://www.aljazeera.net/news/2026/7/26/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%86%D8%B9%D8%B1%D9%81%D9%87-%D8%B9%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-26T09:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بين التضخيم والحقيقة .. هذا ما نعرفه عن تحطم مسيّرة قرب منزل بن غفير"
-    },
-    {
-      "headline": "Amnesty International: Giving the Indian police exceptional powers is an insult to human rights",
-      "url": "https://www.aljazeera.net/news/2026/7/26/%D8%A3%D9%85%D9%86%D8%B3%D8%AA%D9%8A-%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-26T09:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أمنستي : منح الشرطة الهندية صلاحيات استثنائية إهانة لحقوق الإنسان"
-    },
-    {
-      "headline": "The decline in popular support for the war on Iran confuses Washington's calculations policy",
-      "url": "https://www.aljazeera.net/politics/2026/7/26/%D8%A7%D9%86%D8%AD%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%A3%D9%8A%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%84%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-26T09:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "انحسار التأييد الشعبي للحرب على إيران يربك حسابات واشنطن | سياسة"
     },
     {
       "headline": "Araqchi talks about Iran's relationship with the Gulf states and its attacks against them",
@@ -436,6 +476,66 @@
       "date": "2026-07-26T09:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "رئيس الوزراء : أستراليا ستطرح مخاوفها بشأن الرسوم الجمركية مع ترمب | اقتصاد"
+    },
+    {
+      "headline": "Can you be healthy even if you are obese? | health",
+      "url": "https://www.aljazeera.net/health/2026/7/26/%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%AA%D9%85%D8%AA%D8%B9-%D8%A8%D8%B5%D8%AD%D8%A9-%D8%AC%D9%8A%D8%AF%D8%A9-%D9%88%D8%A3%D9%86%D8%AA-%D9%85%D8%B5%D8%A7%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل يمكن أن تتمتع بصحة جيدة وأنت مصاب بالسمنة ؟ | صحة"
+    },
+    {
+      "headline": "Medications for cows are their last resort.. How are crises affecting Lebanon’s Arabian horses?",
+      "url": "https://www.aljazeera.net/misc/2026/7/26/%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%82%D8%A7%D8%B1-%D9%85%D9%84%D8%A7%D8%B0%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%83%D9%8A%D9%81-%D8%AA%D8%B9%D8%B5%D9%81",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أدوية الأبقار ملاذها الأخير .. كيف تعصف الأزمات بخيول لبنان العربية ؟"
+    },
+    {
+      "headline": "Between exaggeration and truth.. This is what we know about the crash of a drone near Ben Gvir’s house",
+      "url": "https://www.aljazeera.net/news/2026/7/26/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%86%D8%B9%D8%B1%D9%81%D9%87-%D8%B9%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بين التضخيم والحقيقة .. هذا ما نعرفه عن تحطم مسيّرة قرب منزل بن غفير"
+    },
+    {
+      "headline": "Amnesty International: Giving the Indian police exceptional powers is an insult to human rights",
+      "url": "https://www.aljazeera.net/news/2026/7/26/%D8%A3%D9%85%D9%86%D8%B3%D8%AA%D9%8A-%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أمنستي : منح الشرطة الهندية صلاحيات استثنائية إهانة لحقوق الإنسان"
+    },
+    {
+      "headline": "The decline in popular support for the war on Iran confuses Washington's calculations policy",
+      "url": "https://www.aljazeera.net/politics/2026/7/26/%D8%A7%D9%86%D8%AD%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%A3%D9%8A%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A-%D9%84%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-26T09:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "انحسار التأييد الشعبي للحرب على إيران يربك حسابات واشنطن | سياسة"
     },
     {
       "headline": "Israeli Occupation Forces Launch Arrest Campaign Targeting 44 Palestinians in West Bank #QNA #Palestine \n\nhttps://\nbit.ly/4yW36dc",
@@ -1822,6 +1922,18 @@
       "date": "2026-07-26T01:02:14.000Z"
     },
     {
+      "headline": "Axios: Trump did not approve the 14th night attacks on Iran",
+      "url": "https://www.bbc.com/persian/articles/cx2vg271n1eo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-26T01:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "اکسیوس : ترامپ حملات شب چهاردهم به ایران را تایید نکرد"
+    },
+    {
       "headline": "The fires in Spain and France are expanding",
       "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5300052-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%AA%D9%85%D8%AF%D9%91%D8%AF",
       "source": "Asharq al-Awsat",
@@ -1856,18 +1968,6 @@
       "date": "2026-07-26T01:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "هل إيلون ماسك معادٍ للمسلمين ؟"
-    },
-    {
-      "headline": "Axios: Trump did not approve the 14th night attacks on Iran",
-      "url": "https://www.bbc.com/persian/articles/cx2vg271n1eo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-26T01:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "اکسیوس : ترامپ حملات شب چهاردهم به ایران را تایید نکرد"
     },
     {
       "headline": "The return of Star Wars in its nuclear version",
@@ -2804,17 +2904,6 @@
       "date": "2026-07-25T19:00:26.000Z"
     },
     {
-      "headline": "Kuwait denies its participation in military operations against Iran",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPZVVaMlBrdFU1cU5tVzhMVURUQXRfMFd3LTBpT09OazI0WjVsckp3UzZXUmF4NDJRZ1BEcU5Yb08wdDBLZ1poQjUwLVV4UTBxT0dZcVVfUlFoQWNlOEwzOWg1VkxsVG05ajlLeGhFYVdxTE9xZkstdkMwZllxb0E5TzNJRVdCUmR2TTlvbExqMEhiS3NnT0xkMkFGajVNSkVRRE9wNkxZVjZ6WXlIbDlpTC1aX2hMel9XeDN1Y3A5TkxrLUtYc0ZjcGNjRUNWai12Y2g3R25GNEo0eXpRekZXWU5JN1FqUjliSDV0dTlaajZfRFlwc291R3RFQzF1Z0V5bWlJS2dBc2VzTDNTczNRYUJjSk9fVDZYWWV4UVdKRlEwQ1UxdXptUUlwTF9XTFU0WFMtNGUyR09FUzROUmdTa1FoQ1ZGQ21YbUVGa0p6STk0a0VnbjNpcG1MY1VaTlFnbWs4X0hUMW5sNklBcTNRS2pnVy04ZEhMSjRKeGkxQk5abHJ3SzlQRVlNdHNmek92cEJ3SlpsS0o3OFF1b0o4Zl9QMjhXYjdDTE9jMmNfTdIBtANBVV95cUxPMERsZ285OF9mQVJCcG0tdHhHNnVueEJDN0xrWktHSVdlQ2p3SC1fQ09rWUV3MEJoTVRBLXNEY3JWSGJMYnFkR2UxSE9POU5Pa3FuOUUxaUZocmZkVlpGa2VNb3UzZGZza0F1LXB4UlBvRTRDYjQ0Vk1IbWRLLXZWbjJ3X3BzR0JSSzh1Z2JabHhtSDZfQkZIZThWUzNZajVLeThlZXZlLV9jNWI2OTFjcTJkUnFoazFLdTMyRzgtZTQzRXhiejlXWnU2dTZQdVNielh1TVF4UUtRNTI3aUpqMWt5ak83VWh4QTRHTkUyZV91LWJvMmJEVFNOdGR3MGVtd1J5RlN1bmNXbXkyZzVTT0lpb2RydkZVMWdZQ3BFcVlSb1AxUDJkQTRfY0xoMzJESmJwQ1FBSlc1akpXR1dxTm1PNFhyc1BnVDRCSmRRY2ZUNGhSN1RJSnlEQ2R6ajBhTG9xaGZMSUdXUlZ1T0cybThxTGQ1d3ZsNkp4UmpVMWN5UFAtV08yMnQ0dmhXOWhfUVF3ZTdWdXRTNTVNQ1RObzU5V0VlbHZGWEdzbHNoVFQ2UHJF?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-25T18:59:32.000Z",
-      "originalHeadline": "الكويت تنفي مشاركتها في العمليات العسكرية ضد إيران"
-    },
-    {
       "headline": "HH Shaikh Mohammed bin Salman highlights Bahrain's environmental achievements\n\n\nhttps://\ntinyurl.com/2befo542",
       "url": "https://x.com/bna_en/status/2081091933904966110",
       "source": "Bahrain News Agency",
@@ -2833,17 +2922,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-07-25T18:53:02.000Z"
-    },
-    {
-      "headline": "From \"Mahan\" to the Aramco bombing... here is the sequence of events that ignited the Yemen front",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOYnZqUllvUndWTEM1TmhwZFQ2MU9vbTdnZFVKX2R4b3NQVXVINC1pWm1ITXFJQ25SbkVycGhMamR4aHpJQnpLbDZJOEZfV3FkMWstcnNBc0prXzlyZFFqNmNrMndHVEpJMjZzdFFZTXZsLW1kYUJpS2t6cEtnVTBWYzVIYzJrUDFHbEtzTVlYanFkZDFlNEFWRElWeGJQUHk0bjhpbk5vMVMwTktPdW54M2dOMllyODBPY2tNSHl3b0ZmZW9oVlFxdjZhUlN2bXZmcXdoR0JEMEQtVGJXNFVHSHQzM09KQ0Z0OUtkam5zRk9CT0NHc3dqRWVuYnFiQks0ZVVSZ1N3WXUxYWlyZDEySlh3eE1jV3ZiS3dkaUtZTFlkc01nSFQ4U1RWTkhQM3FjaWRtOEtpQjZNUGPSAcACQVVfeXFMT1I5dmF1d2pkdHZ2aW1ibGlGSXM5WnNleFZiaFVSVWExRVZ0M1B5M2JaYkZxWnZPZlJXeXU5NENXWGpLZEs0Zjg4WWw4ai05QnY5NEdBNUFDcnpld2JNckVOSmlhMEw5V0YwQlVqemRMQzlpSFU1NlE3TmVhT2w3ZXI3NTRuZkdmbkRXcFdiVjRPeEJsNVNCZ2FIeDlXaXNmaTNPN0M1UFppVi16MjMweTYzTzlOb2FnLTB3MWgwRlBTR2d4REFGR2pwem9QSjNhbUVRVFU5Rjhkd2haUlpSVUZaTHE5bFVrekl6eWRKUGxKSjBqbEZHamVWV1p5aDdjRHliS1liVFJWVWJqbzBMb1dUQ0dNY2NVdW1FMjNlYzliaTV5Z2FvOWRSRjNsTGFmZ2FvVG9MX0o5ZnJkaWJMTHg?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-25T18:52:43.000Z",
-      "originalHeadline": "من \"ماهان\" إلى قصف أرامكو.. إ��يك تسلسل الأحداث التي أشعلت جبهة اليمن"
     },
     {
       "headline": "\"Prevention\": Drowning deaths in the Kingdom decrease by 31% since the adoption of the National Policy for Drowning Prevention.\n\nhttps://\nspa.gov.sa/N2641282\n#واس",
@@ -2867,28 +2945,6 @@
       "date": "2026-07-25T18:46:44.000Z"
     },
     {
-      "headline": "Dubai shapes unique sporting landscape to boost tourism, investment, global appeal",
-      "url": "https://www.wam.ae/en/details/c1ee065-dubai-shapes-unique-sporting-landscape-boost",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-07-25T18:45:52.204Z"
-    },
-    {
-      "headline": "George Wassouf: The pain of losing a son does not go away.. and Mrs. Fairouz’s message comforted me",
-      "url": "https://www.aljazeera.net/arts/2026/7/25/%D8%AC%D9%88%D8%B1%D8%AC-%D9%88%D8%B3%D9%88%D9%81-%D8%A3%D9%84%D9%85-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%A8%D9%86-%D9%84%D8%A7-%D9%8A%D8%B2%D9%88%D9%84",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-25T18:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جورج وسوف : ألم فقدان الابن لا يزول .. ورسالة السيدة فيروز خففت عني"
-    },
-    {
       "headline": "Major Maintenance Works for New Road Contracts\n\n#CGCKuwait",
       "url": "https://x.com/CGCKuwait/status/2081088327692759359",
       "source": "Kuwait Center for Government Communication",
@@ -2899,16 +2955,6 @@
       "date": "2026-07-25T18:44:56.000Z"
     },
     {
-      "headline": "Israel detains over 70 suspects following deadly violence in the West Bank - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX016UEJ6ZW5iYlFWclZ5eEpzRmZLOHQxcTM2T2dXQ2pYeTNseUdNdXBlcE8tZ191U0tLWlQtV3VkRWVuV2s0dkVhRFUwTElxa0ctR1R4cjJwcXZKQmhHWGdHYTZrTnZFNElQQVdPdVBlc3MxZmJHUU0yNllkWTFnLUxjS1lhU3N1WjI0V0wzMFVPazVvd2ZITFJNYVdacjNQTmJaZ3NaOVdCTThJVGhJTXNxRVM4WGM?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-25T18:42:00.000Z"
-    },
-    {
       "headline": "With Saudi support.. Hadramaut Governorate enhances its readiness with a new batch of vehicles and modern security patrols",
       "url": "https://x.com/alekhbariyatv/status/2081087304588820848",
       "source": "Al Ekhbariya TV",
@@ -2917,49 +2963,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-25T18:40:52.000Z"
-    },
-    {
-      "headline": "Twelve dead in attack on holiday camp in Russian-held part of Ukraine, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZktqZUdSTlpXWEtjQ0xIX1dITkxTWHBEaElnTUdWbHU2RDR4ZFppeERKT1NRRTZ2aFRIbTVqRG5pZ1F3LUdKUDZSTHhjN1RFVmlxSVI4YzZEaDhXOFUyRXhLOFJzZm5pcTF1TlhMSEVLMkR1UmJNN1BQd0dTTDg0RGJlN0kxc0g5eHZfUlVLVkQ0QUJLOGstNHM4YXdtdEJOUnNXRXc5Y183Q1NNLTBMbF93SFh1MlhMU3UxRFU2MURHQXc4?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-25T18:39:44.000Z"
-    },
-    {
-      "headline": "Kuwait denies participating in the war against Iran... and its ambassador to Washington rejects the Wall Street Journal’s accusation.",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SU0Z5RGtZVURjb1hBTzVVQThhdUZHblNWbkpxQWc5c1UtMGpYUFVGZ0tTUWp4QXk2Qm0zcFhpd21hYkRtdGxZ?oc=5",
-      "source": "صدى البلد",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-25T18:37:00.000Z",
-      "originalHeadline": "الكويت تنفي المشاركة في الحرب ضد إيران.. وسفيرتها بواشنطن ترفض اتهام «وول ستريت جورنال»"
-    },
-    {
-      "headline": "Israel Kills Senior Hamas - Led Police Official in Gaza , Medics and Police Officials Say",
-      "url": "https://english.aawsat.com/arab-world/5299973-israel-kills-senior-hamas-led-police-official-gaza-medics-and-police-officials",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-25T18:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Israeli Troops Round up Palestinians in West Bank Village After Shootout Involving Settlers",
-      "url": "https://english.aawsat.com/arab-world/5299966-israeli-troops-round-palestinians-west-bank-village-after-shootout-involving",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-25T18:30:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "● The Iranian-backed Houthi terrorist militia continues to promote the \"siege\" lies to justify its escalations and evade responsibility for the humanitarian disaster, while the facts confirm that it has never suffered from a shortage of resources. Rather, since its coup, it has",
