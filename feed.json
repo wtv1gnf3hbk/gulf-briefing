@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-27T20:34:21.731Z",
+  "updated": "2026-07-27T20:49:09.194Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Syria Condemns Attempted Attack on Saudi Oil Facilities",
+      "url": "https://spa.gov.sa/en/N2642667?type=news&uuid=N2642667",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-27T20:46:03.000Z"
+    },
+    {
+      "headline": "Saudi Arabia and Britain are discussing developments in the region",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNWml4VVJBNmhlaTVJT1JwQmI5OGVnZ1BOVHFlQzR6bVJrelpnVmdiYkNnQ2hDU0dVc2lVT1p4SlhOdjBDSmpaOFRHakRCR0RHd2ZkcTljRVQtd2g0VW1BbTRMZGFKVWRYbzZ2eGtNTXEtN2w3Ql9NeVYyMU50WTNWRUp6VTE0OE9BWkZpQkdGazJ1Ym40X1pCR3diX3JjRnlfZGJXdXVjZFBNNV9uNmhwdEJiZHdKTWthS0lETDNGUngtcE1uZkgyalc5ak0yWE9kRHpJNXg3MXhVYUtySWt5UTdXNEkyMmlqT0dZNWJWQ29qdnJ2dFRISjI3YzVmcFpKZ2xZaDRaLXhRak9PZXQ3dGk0RnZMbWR4MkNDdWFBcDQ5TFJJaXlramJFc01mSllTZzdoZ21nYnJteTY2ODNfWTNCTi1kZzFWN0xVakNUR2otSVJZWVYzSjRjQURZSFIxZlRocE54X0tZZndDRTVnRnl4aE04UDg0dl8tQ3dEcEhIZ1RVRkh4LW1fQ2FTZG4zZ1NwTGpJRmlKcjJubkRLeFJCSHJiMndFT2dGNUFUczF2YmtnTnFzUTR0aXRCdTZlNkt0YWhNQzBYZ0RUUzAxbTgyRkR1N1U?oc=5",
+      "source": "الهيئة الوطنية للإعلام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-27T20:44:18.000Z",
+      "originalHeadline": "السعودية وبريطانيا تبحثان تطورات الأحداث في المنطقة"
+    },
+    {
+      "headline": "UAE Strongly Condemns Aggressive Attacks on Oil Facilities in Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2642661?type=news&uuid=N2642661",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-27T20:39:31.000Z"
+    },
+    {
+      "headline": "Palestine Condemns Terrorist Attacks Targeting Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2642658?type=news&uuid=N2642658",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-27T20:34:36.000Z"
+    },
     {
       "headline": "Pakistan condemns the drone attacks against Saudi Arabia",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNE9jcjBJSUt5ZENrTXI2NEhrRlczRVF0THE4N2VqXzZyV2o4RDdWMDlwVXh2MVdieGpBTlJXQk5lRjVTNTR6SlhGTlloazRTZlRNNWNR?oc=5",
@@ -12,16 +53,6 @@
       "language": "ar",
       "date": "2026-07-27T20:18:00.000Z",
       "originalHeadline": "باكستان تدين الهجمات بطائرات مسيّرة ضد المملكة العربية السعودية"
-    },
-    {
-      "headline": "The top photos of the day by AP photojournalists - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDI2SzlpeXdFR1VkeTB2aTktdEVWQ25ySkVXN05oUFFOajZESnR0cS1FQlZhekk5SV9pOHRKaG5VT285Zks0bmZQc2JRYmsyci03N0hKT1V6Wi1NYWJGRGdTejZPa0Y1aUdLRHI2VFZvTjFjcm44RWI2Uy00LWFHcXJyTml4Vlh3dm1nVlZYY2Ftd29GN2xtUm1QaTNuZ011NlE?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-27T20:04:00.000Z"
     },
     {
       "headline": "Yemeni Foreign Minister: The Houthis are using Bab al-Mandab to simulate Iranian pressure",
@@ -106,6 +137,16 @@
       "language": "en",
       "date": "2026-07-27T19:45:00.000Z",
       "tier": "gdelt"
+    },
+    {
+      "headline": "Donald Trump - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-27T19:39:02.000Z"
     },
     {
       "headline": "The Palestinian presidency condemns the targeting of Saudi Arabia and affirms Palestine’s full solidarity with it",
@@ -721,7 +762,7 @@
       "date": "2026-07-27T17:34:04.569Z"
     },
     {
-      "headline": "The Houthis announce the killing of 9 of their members and targeting sites in Saudi Arabia",
+      "headline": "The Houthis announce the killing of 9 of their contemporaries and target sites in Saudi Arabia",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQbDhlMUk3VWR6Vm5MNkNUQW5GdjVZSlVaM2pPaHc5OUd6ZEJwYTBXb0hFUnplb0E3S1NxcW5FQV9UbHNIU2k5WllLU0VRVWNBQVZUSDhTWDhSaWQ5d0JCYkliaVBOQjVkR2o0eU55WEN3WlZ2Q2FGOGE3U1VxU2tGa1VWdU9lZHo5ZWYtNEJFRjQ1YUtDb1hpZnA2ZVVQSzlDVUc2QjQ1NTNkcS0xNVBqSTZsR2ZnRGM5MDJNTy1fZG9QZjYtaHN2bjdSWXVocHRwVGtodXlfZzRkNFJHakFPLTlVcnJGY3BaNWxNMlBvSmdXZG5LVG5KWjFiYTdaYk5vU2Nyajh1U2psZU0yTk5qTGE4VjMyTjg2Z0d2STF0RE0yeE1NT1Zjb1NOSjd1LUlPY0Z4SHNTaUJkb05RSC00SUJkTDhOWHU10gHOAkFVX3lxTFBjbWZDTjZmNFY2bjM3RS1FMldQUE1SbndRQ3FVenR3a0ZIcXNrSTQ2UEFuX2UyZ1ZpWjlVZmdIYlBxM2QtSGFoWGxIQmhDc3pycy1JRzZnME5VYmxtTTcwSG1PUklPTWtkOXhYWHJTaEtlSmV0TmtkSDJWRGZDb1BUekpOQXBxS0l1Vk5hM0t1V2FSMFNBX2k0R0RLUWZNcE9PODFVSVk4b3EyT1Fza19xeHF6bHlOVFNORzFXZzJpYUg0RTJwVjVMME1sUHo4UmhPM184RF9LQUp6cFVOaDJhejF0cnJzWTY5YXd0NU1fVkFXemFFQzRTbElvVFU5aVk1VnN0RmxuQkZqZXpIS2lxVlpWLWpCUklfR01pbVhTYVlNRVJpOUhaRDRCNjJFTFF0TTZwbGREamNZemEtU09lTkoxUVduZzRYU0dTVmc?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -729,7 +770,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-27T17:33:54.000Z",
-      "originalHeadline": "الحوثيون يعلنون مقتل 9 من عناصرهم واستهداف مواقع بالسعودية"
+      "originalHeadline": "الحوثيون يعلنون مقتل 9 من ع��اصرهم واستهداف مواقع بالسعودية"
     },
     {
       "headline": "The Organisation of Islamic Cooperation condemns the treacherous criminal attacks on the Kingdom.\n\nhttps://\nspa.gov.sa/N2642525\n#واس",
@@ -921,7 +962,7 @@
       "originalHeadline": "البلد الأهم في الوساطة العالمية"
     },
     {
-      "headline": "Kuwait condemns the targeting of oil facilities in Saudi Arabia and affirms its security with the Kingdom",
+      "headline": "Kuwait condemns the targeting of oil facilities in Saudi Arabia and affirms its solidarity with the Kingdom",
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOYXBodDdLUGg4T0FLMDduTmRWZlNKOEttR3piTGxtSU9WYTVkY1g5TnlUeVFTSDNVSHRaTUY5NDJQRkI3NXAxbHFJdTZBeEpDQzlfMTdvUkwzMGl1dDZ6aXBTaExJdVdfWjVMdG80YWY2Y0gzbXdXak12RWFZVEZCNzZrSjBCWG0yU3h1em95WjJ3VTNpX2lqV1p4OGpGb201dnloMXFlRUVFUXk2d1hEM1hhRkNNVkVSbmNOYVhwWTVnZjZYVWNmekdQNzRVTzBxcmFYNFVlbkpIX1dPaGJydlRsc3BCdWhlNDZUZTFyMnJJckxHcTc5Q0lQQWtVdW5kR1QwUHBHMk5wSDRuTTQza194X3BuTWhWWmN3akcwODhqd3h4bFM4N2NYQzE3U1hVY2NDeFVIcUpnWG9LRE1SSGxaTnNPZ1V2bGlxVG1wTW1LUmZDVmc3YS1aOVRRZEk3Rk1kVnFmRUtMVk1hendTWHBNdXZfcDVKdDZOeVFjYllJRE5NNzdYazRQUUllNkViZmVmMHZXOWlCWHVETWQyczRGZ3dpRlJGSlp0c3QxN3BMTzR4enZSX2ZyN2ZPM0xBaklQVUJuUEU2dXIzbXlOM0w0eUZ3MkZCUUZzREtXblhjZHVjRmdVMjlibGVuVFNpNEtvUUhCYng0enJZeWhTSkUxMDhlTTdQ0gGIBEFVX3lxTE5hcGh0N0tQaDhPQUswN25OZFZmU0o4S21HemJMbG1JT1ZhNWRjWDlOeVR5UVNIM1VIdFpNRjk0MlBGQjc1cDFscUl1NkF4SkNDOV8xN29STDMwaXV0NnppcFNoTEl1V19aNUx0bzRhZjZjSDNtd1dqTXZFYVlURkI3NmtKMEJYbTJTeHV6b3laMndVM2lfaWpXWng4akZvbTV2eWgxcWVFRUVReTZ3WEQzWGFGQ01WRVJuY05hWHBZNWdmNlhVY2Z6R1A3NFVPMHFyYVg0VWVuSkhfV09oYnJ2VGxzcEJ1aGU0NlRlMXIycklyTEdxNzlDSVBBa1V1bmRHVDBQcEcyTnBING5NNDNrX3hfcG5NaFZaY3dqRzA4OGp3eHhsUzg3Y1hDMTdTWFVjY0N4VUhxSmdYb0tETVJIbFpOc09nVXZsaXFUbXBNbUtSZkNWZzdhLVo5VFFkSTdGTWRWcWZFS0xWTWF6d1NYcE11dl9wNUp0Nk55UWNiWUlETk03N1hrNFBRSWU2RWJmZWYwdlc5aUJYdURNZDJzNEZnd2lGUkZKWnRzdDE3cExPNHh6dlJfZnI3Zk8zTEFqSVBVQm5QRTZ1cjNteU4zTDR5RncyRkJRRnNES1duWGNkdWNGZ1UyOWJsZW5UU2k0S29RSEJieDR6cll5aFNKRTEwOGVNN1A?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -929,7 +970,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-27T17:09:39.000Z",
-      "originalHeadline": "الكويت تدين استهداف منشآت بترولية في السعودية وتؤكد ت��امنها مع المملكة"
+      "originalHeadline": "الكويت تدين استهداف منشآت بترولية في السعودية وتؤكد تضامنها مع المملكة"
     },
     {
       "headline": "FIA President meets with Hungarian PM, Czech President at hungarian grand prix",
@@ -1261,6 +1302,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-27T16:07:44.000Z"
+    },
+    {
+      "headline": "The top photos of the day by AP photojournalists - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDI2SzlpeXdFR1VkeTB2aTktdEVWQ25ySkVXN05oUFFOajZESnR0cS1FQlZhekk5SV9pOHRKaG5VT285Zks0bmZQc2JRYmsyci03N0hKT1V6Wi1NYWJGRGdTejZPa0Y1aUdLRHI2VFZvTjFjcm44RWI2Uy00LWFHcXJyTml4Vlh3dm1nVlZYY2Ftd29GN2xtUm1QaTNuZ011NlE?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-27T16:06:00.000Z"
     },
     {
       "headline": "Lebanese President receives FNC Speaker\n\n#WamNews\n\n\nhttps://\nwam.ae/a/c1fkv8t",
@@ -2857,54 +2908,6 @@
       "originalHeadline": "إيران : الحديث عن تهدئة 10 أيام مع أمريكا « تخمينات إعلامية »"
     },
     {
-      "headline": "The Sudanese army thwarts a Rapid Support attack and advances in North Kordofan",
-      "url": "https://www.okaz.com.sa/politics/na/2258789",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T13:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الجيش السوداني يحبط هجوماً للدعم السريع ويتقدم شمال كردفان"
-    },
-    {
-      "headline": "Iraqi source: Al-Zaidi visits Saudi Arabia... Thursday",
-      "url": "https://www.okaz.com.sa/politics/na/2258779",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T13:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مصدر عراقي : الزيدي يزور السعودية .. الخميس"
-    },
-    {
-      "headline": "456 km² linked to the airport... A new plan charts the future of northeastern Riyadh",
-      "url": "https://www.okaz.com.sa/local/na/2258780",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T13:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "456 كلم² ترتبط بالمطار .. مخطط جديد يرسم مستقبل شمال شرق الرياض"
-    },
-    {
-      "headline": "With the anticipation of the Federal Reserve meeting, the dollar index declined",
-      "url": "https://www.okaz.com.sa/economy/na/2258798",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-27T13:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مع ترقب اجتماع « الفيدرالي ».. تراجع مؤشر الدولار"
-    },
-    {
       "headline": "His Royal Highness #Crown_Prince congratulates Mr. Vasile Tofan on the occasion of taking the constitutional oath as Prime Minister of the Republic of Moldova. \n\nhttps://\nspa.gov.sa/N2642330 \n#WAS",
       "url": "https://x.com/spagov/status/2081729720140411047",
       "source": "Saudi Press Agency (Arabic)",
@@ -2913,16 +2916,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-27T13:13:36.000Z"
-    },
-    {
-      "headline": "Ministry of Defense: Several UAVs from Iraqi Territory Launched Toward Saudi Arabia Intercepted and Destroyed",
-      "url": "https://spa.gov.sa/en/N2642332?type=news&uuid=N2642332",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-07-27T13:13:22.000Z"
     },
     {
       "headline": "Prince of Qassim Presides Over Meeting of the Supreme Committee for the Prince of Qassim Region Award for Volunteer Work.\n\nhttps://\nspa.gov.sa/N2642323\n#واس",
