@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-27T11:19:12.471Z",
+  "updated": "2026-07-27T11:33:11.499Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Al Wasl announces largest sponsorship portfolio in its history",
+      "url": "https://www.wam.ae/en/details/c1fkuua-wasl-announces-largest-sponsorship-portfolio-its",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-27T11:30:22.690Z"
+    },
+    {
+      "headline": "Two arrested in Sohar for possessing psychotropic pills",
+      "url": "https://timesofoman.com//article/174911-two-arrested-in-sohar-for-possessing-psychotropic-pills",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-27T11:20:17.000Z"
+    },
     {
       "headline": "MOCCAE conducts 30 inspection campaigns targeting 269 establishments in H1",
       "url": "https://www.wam.ae/en/details/c1fkuu9-moccae-conducts-inspection-campaigns-targeting-269",
@@ -11,6 +31,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-27T11:12:33.929Z"
+    },
+    {
+      "headline": "Oman Housing Bank launches first Digital Waiting List platform",
+      "url": "https://timesofoman.com//article/174910-oman-housing-bank-launches-first-digital-waiting-list-platform-1",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-07-27T11:10:18.000Z"
     },
     {
       "headline": "Digital loan platform launched to speed up housing finance in Oman",
@@ -72,16 +102,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-27T10:52:12.763Z"
-    },
-    {
-      "headline": "Oman Housing Bank launches first Digital Waiting List platform",
-      "url": "https://timesofoman.com//article/174909-oman-housing-bank-launches-first-digital-waiting-list-platform",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-27T10:51:07.000Z"
     },
     {
       "headline": "Saudi Tadawul's profits exceed expectations despite their decline in the second quarter",
@@ -266,7 +286,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-07-27T10:10:22.000Z"
+      "date": "2026-07-27T10:16:17.000Z"
     },
     {
       "headline": "Emirates Skywards unlocks over 12,000 European rail destinations using Miles",
@@ -393,6 +413,72 @@
       "originalHeadline": "وزيرا خارجية السعودية وعمان يؤكدان أهمية ضمان سلامة وحرية الملاحة البحرية في مضيق هرمز"
     },
     {
+      "headline": "Why is the IEA Questioning the Reliability of Gulf Producers ?",
+      "url": "https://english.aawsat.com/opinion/5300374-why-iea-questioning-reliability-gulf-producers",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi Trade Surplus Soars 329 % as Exports Drive Gains",
+      "url": "https://english.aawsat.com/business/5300427-saudi-trade-surplus-soars-329-exports-drive-gains",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Kuwait Condemns Repeated Houthi Militia Attacks on Ships in Red Sea",
+      "url": "https://english.aawsat.com/gulf/5300376-kuwait-condemns-repeated-houthi-militia-attacks-ships-red-sea",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Taif Museums Offer Visitors a Journey Through Saudi Arabia Heritage",
+      "url": "https://english.aawsat.com/culture/5300375-taif-museums-offer-visitors-journey-through-saudi-arabias-heritage",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi , Omani FMs Discuss Regional Matters , Hormuz Strait Security",
+      "url": "https://english.aawsat.com/gulf/5300412-saudi-omani-fms-discuss-regional-matters-hormuz-strait-security",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Yemen PM Demands Stronger Intl Stance against Houthi Threats to Marine Navigation",
+      "url": "https://english.aawsat.com/arab-world/5300383-yemen-pm-demands-stronger-int%E2%80%99l-stance-against-houthi-threats-marine-navigation",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-27T09:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Sudanese Army , RSF Both Claim Gains in Kordofan as Fighting Continues",
       "url": "https://english.aawsat.com/arab-world/5300407-sudanese-army-rsf-both-claim-gains-kordofan-fighting-continues",
       "source": "Asharq al-Awsat (EN)",
@@ -414,17 +500,6 @@
       "date": "2026-07-27T09:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "مهزلة .. البرادعي يعلّق على مطالبة أمريكا بـ تفكيك المحكمة الجنائية الدولية"
-    },
-    {
-      "headline": "Why is the IEA Questioning the Reliability of Gulf Producers ?",
-      "url": "https://english.aawsat.com/opinion/5300374-why-iea-questioning-reliability-gulf-producers",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Lebanon and Iraq Head Towards a New Partnership",
@@ -506,17 +581,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Saudi Trade Surplus Soars 329 % as Exports Drive Gains",
-      "url": "https://english.aawsat.com/business/5300427-saudi-trade-surplus-soars-329-exports-drive-gains",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Israel to Allow International Force into Gaza , Israeli Official Says",
       "url": "https://english.aawsat.com/arab-world/5300384-israel-allow-international-force-gaza-israeli-official-says",
       "source": "Asharq al-Awsat (EN)",
@@ -549,39 +613,6 @@
       "date": "2026-07-27T09:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "من غزة إلى جبل الفأس .. ماذا يحمل نتنياهو إلى لقائه المرتقب مع ترمب ؟"
-    },
-    {
-      "headline": "Kuwait Condemns Repeated Houthi Militia Attacks on Ships in Red Sea",
-      "url": "https://english.aawsat.com/gulf/5300376-kuwait-condemns-repeated-houthi-militia-attacks-ships-red-sea",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Taif Museums Offer Visitors a Journey Through Saudi Arabia Heritage",
-      "url": "https://english.aawsat.com/culture/5300375-taif-museums-offer-visitors-journey-through-saudi-arabias-heritage",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi , Omani FMs Discuss Regional Matters , Hormuz Strait Security",
-      "url": "https://english.aawsat.com/gulf/5300412-saudi-omani-fms-discuss-regional-matters-hormuz-strait-security",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Police Arrest 1 Person after Seattle Festival Shooting that Killed 3",
@@ -620,17 +651,6 @@
     {
       "headline": "Gaza Teen Triumphs Despite War , Loss and Displacement",
       "url": "https://english.aawsat.com/features/5300389-gaza-teen-triumphs-despite-war-loss-and-displacement",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-27T09:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Yemen PM Demands Stronger Intl Stance against Houthi Threats to Marine Navigation",
-      "url": "https://english.aawsat.com/arab-world/5300383-yemen-pm-demands-stronger-int%E2%80%99l-stance-against-houthi-threats-marine-navigation",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -820,15 +840,15 @@
       "date": "2026-07-27T08:33:33.095Z"
     },
     {
-      "headline": "The foreign ministers of Saudi Arabia and Oman discuss regional developments",
+      "headline": "The Foreign Ministers of Saudi Arabia and Oman discuss regional developments - Nile News Channel",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVDJhUXI2Nmx1SHZDakdtV0hfWHYzS2RfWnVpNzVUX3dPSEYxdDU4RnptY0VyX0hMUUQ5UEtlWFd0bWIzUWwtM2pwSjZ1eGhQTWNPdU9MbHFEelA5SjF0LWdlMHlGRTAwYkMxc2RsSEFMV3B1OE5WMkY4UGpKM25fV3pwdDR4cW1rdHJLaE9QMVVFQkVDYnV3ZHA3VEw5V3ZZcnBVZ1huM1pXbTdlVG9vdVU5d0F3a0FOWU5XckV4X1BZck9CNDZiVTExUUFjX09RdnVMRFJReldGY0RUS29sNm9pckpna0c1dzk4RzBSYWtBWTd4QnIycXVHdGtTZUZ1YVllVU05aU0wd0YxQncwSXloX0ZJY2xrNGRIV1ZEVVVLNGh4aVZYMlZPekJvWlJzcXNpUFU3bjZvbmJHc1E?oc=5",
-      "source": "قناة النيل للأخبار",
+      "source": "قناة ال��يل للأخبار",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-27T08:28:29.000Z",
-      "originalHeadline": "وزيرا خارجية السعودية وعمان يبحثان المستجدات الإقليمية"
+      "originalHeadline": "وزيرا خارجية السعودية وعمان يبحثان المستجدات الإقليمية - قناة النيل للأخبار"
     },
     {
       "headline": "Oman and Algeria are discussing expanding cooperation in communications and digital transformation",
@@ -2211,30 +2231,6 @@
       "date": "2026-07-27T02:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | ليلة ثانية من الهدوء في الحرب .. ومحادثات إيرانية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | “Institutional” holds a workshop on awareness campaigns",
-      "url": "https://www.alriyadh.com/2199592",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-27T02:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | « مؤسسي » يقيم ورشة عمل عن الحملات التوعوية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | “Aramco” offers more oil shipments through the Mediterranean",
-      "url": "https://www.alriyadh.com/2199586",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-27T02:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | « أرامكو » تعرض المزيد من شحنات النفط عبر البحر الأبيض المتوسط"
     },
     {
       "headline": "#Tunisia's Foreign Minister Mohammad Ali Nafti & his Egyptian counterpart Badr Abdelatty discuss the latest regional developments, underlineing the need to find political and diplomatic solutions to resolve various regional crises\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=33",
