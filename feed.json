@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T03:19:08.923Z",
+  "updated": "2026-07-28T03:33:17.021Z",
   "itemCount": 300,
   "items": [
     {
@@ -33,6 +33,18 @@
       "language": "ar",
       "date": "2026-07-28T03:00:00.000Z",
       "originalHeadline": "الذهب في الإمارات يتحرك بشكل محدود مع ترقب الأسواق لقرار السياسة النقدية الأمريكية"
+    },
+    {
+      "headline": "Netanyahu in Washington... between Trump's pressure and the erosion of American support for Israel",
+      "url": "https://www.aljazeera.net/politics/2026/7/28/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B2%D9%88%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%8A%D9%86-%D8%B6%D8%BA%D9%88%D8%B7-%D8%AA%D8%B1%D9%85%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-07-28T02:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نتنياهو في واشنطن .. بين ضغوط ترمب وتآكل الدعم الأمريكي لإسرائيل"
     },
     {
       "headline": "The Organization of Islamic Cooperation condemns the targeting of Saudi Arabia with drones from Iraqi territory",
@@ -1077,17 +1089,6 @@
       "date": "2026-07-27T21:12:59.000Z"
     },
     {
-      "headline": "Iraq opens an investigation after Saudi Arabia intercepts drones from its territory",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOallrT285SWhoQWV5eGJyTlJQdHdBOEVOMUV3VWNpeUM1bjdZNVNyQmd4bmxBODdCQmNsUHMzZ2J6YzIycURQUzRjNmhRcFNsZEljN1QtUW11bWF3SzJaM3h3UlM3UWpLZGxKQ3c0ampNaHBiMExSakVLYzEtME5DYURCVXpVZ1pGUUs3ODRvblRFZ2ZSRFBScU1aVlgzUkk3c0lidmFGV19tWnlQR2xNazRsUVhXU2JGVG5zOEtYUEZCd2lIanJ2Ti1tTGJXSW1naFVJeDA0Nm5fcDJEWWRJSGpXZVRsOWNHWlZWSk01T3dGVnBxaU5BSmFWYW1XOTBRWTYxY05jRDI2TDhFUVZwblZ1TjktWUxGZmFEYXdjQ29JOGlzbWU3ZFVDVG1sTVpQT3VNdWNIZnRXZThWYno0RtIBxgJBVV95cUxPcHZ0Z2Y1bUlONTcwVFRqOFk0ZkFIZi1PLWJkQk1Ub1dzb0F4RmdnRjFsZ1A0cEx2bVNRcWp0dEhmbDZRSFVVLXVTZWdoRkY2bi1HbTZlcHM5b1pzODEzZmVuMzRGRWtSUHFxMlJ2ZFNWREhTTW9DUUE2enJaUmNkWmI0Z0U3Rkw5WGVER29iRlllSF83aUJVQ1dPVXpWWGRWaGhVaFJTVEdoYkh2Z2NtLWRFek1qWnNkZGpyWlc2Sk5BSFdJeFFwWFRsTWljSFdnQWFVLV93dXJYY3VjbGJHYjNic2FCSG5WalpNNTh2YWQwLXl1MW5GWlhtTlFKX00wT0RkVEJFQk8yZXVJNGFkSktDaFlWX1BCMkV6VGJzcl9zWUdzaVFUQWFRZG50X296b0N5ZUxuNkNFYldaaDM3TkVvNURTUQ?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-27T21:12:32.000Z",
-      "originalHeadline": "العراق يفتح تحقيقا بعد اعتراض السعودية مسيّرات من أراضيه"
-    },
-    {
       "headline": "Trump says Iran war talks taking place during lull in strikes",
       "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC Middle East",
@@ -1311,6 +1312,17 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-27T20:23:51.000Z"
+    },
+    {
+      "headline": "Oil facilities were targeted.. Saudi Arabia announces the interception of drones from Iraq",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOallrT285SWhoQWV5eGJyTlJQdHdBOEVOMUV3VWNpeUM1bjdZNVNyQmd4bmxBODdCQmNsUHMzZ2J6YzIycURQUzRjNmhRcFNsZEljN1QtUW11bWF3SzJaM3h3UlM3UWpLZGxKQ3c0ampNaHBiMExSakVLYzEtME5DYURCVXpVZ1pGUUs3ODRvblRFZ2ZSRFBScU1aVlgzUkk3c0lidmFGV19tWnlQR2xNazRsUVhXU2JGVG5zOEtYUEZCd2lIanJ2Ti1tTGJXSW1naFVJeDA0Nm5fcDJEWWRJSGpXZVRsOWNHWlZWSk01T3dGVnBxaU5BSmFWYW1XOTBRWTYxY05jRDI2TDhFUVZwblZ1TjktWUxGZmFEYXdjQ29JOGlzbWU3ZFVDVG1sTVpQT3VNdWNIZnRXZThWYno0RtIBxgJBVV95cUxPcHZ0Z2Y1bUlONTcwVFRqOFk0ZkFIZi1PLWJkQk1Ub1dzb0F4RmdnRjFsZ1A0cEx2bVNRcWp0dEhmbDZRSFVVLXVTZWdoRkY2bi1HbTZlcHM5b1pzODEzZmVuMzRGRWtSUHFxMlJ2ZFNWREhTTW9DUUE2enJaUmNkWmI0Z0U3Rkw5WGVER29iRlllSF83aUJVQ1dPVXpWWGRWaGhVaFJTVEdoYkh2Z2NtLWRFek1qWnNkZGpyWlc2Sk5BSFdJeFFwWFRsTWljSFdnQWFVLV93dXJYY3VjbGJHYjNic2FCSG5WalpNNTh2YWQwLXl1MW5GWlhtTlFKX00wT0RkVEJFQk8yZXVJNGFkSktDaFlWX1BCMkV6VGJzcl9zWUdzaVFUQWFRZG50X296b0N5ZUxuNkNFYldaaDM3TkVvNURTUQ?oc=5",
+      "source": "الجزيرة نت",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-27T20:21:01.000Z",
+      "originalHeadline": "استهدفت منشآت نفطية.. السعودية تعلن اعتراض مسيّرات من العراق"
     },
     {
       "headline": "Pakistan condemns the drone attacks against Saudi Arabia",
@@ -2815,16 +2827,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-27T16:37:33.000Z"
-    },
-    {
-      "headline": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-27T16:33:05.000Z"
     },
     {
       "headline": "The Sultanate of #Oman strongly condemns and denounces the unmanned aerial vehicle (UAV) attacks targeting the Kingdom of Saudi Arabia, reaffirming its full solidarity with #KSA in all measures taken to protect its sovereignty, security and territorial integrity. Oman stresses",
