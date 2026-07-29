@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-29T11:33:52.396Z",
+  "updated": "2026-07-29T11:47:32.586Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "DP World opens first multi-client warehousing facility in Saudi Arabia",
+      "url": "https://www.wam.ae/en/details/c1grq1o-world-opens-first-multi-client-warehousing",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-29T11:39:56.107Z"
+    },
+    {
+      "headline": "SPL Issues Commemorative Stamp Honoring National Cultural Awards",
+      "url": "https://spa.gov.sa/en/N2643852?type=news&uuid=N2643852",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-29T11:35:43.000Z"
+    },
     {
       "headline": "Could US airstrikes stop insurgency in Mali?",
       "url": "https://timesofoman.com//article/175000-could-us-airstrikes-stop-insurgency-in-mali",
@@ -313,7 +333,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-29T10:34:00.000Z",
-      "originalHeadline": "\"SNB Capital\": سلاسل الإمداد عبر الشاحنات في السعودية ت��جه للتحسن"
+      "originalHeadline": "\"SNB Capital\": سلاسل الإمداد عبر الشاحنات في السعودية تتجه للتحسن"
     },
     {
       "headline": "Saudi Arabia: Our strikes in Iraq were in self-defense after targeting our oil facilities.. video",
@@ -535,6 +555,18 @@
       "originalHeadline": "Social Security launches \"Insurance Protection\" campaign to enhance awareness of insurance rights and benefits.\n\nhttp://\nspa.gov.sa/ar/w2643711\n#واس"
     },
     {
+      "headline": "The identity of one of the four Iranian pilots killed in the attack on Udeed base in Qatar was announced",
+      "url": "https://www.bbc.com/persian/articles/cp9e29mg8m3o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-29T09:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هویت یکی از چهار خلبان ایرانی کشته‌شده در حمله به پایگاه عدید قطر اعلام شد"
+    },
+    {
       "headline": "Al-Riyadh newspaper | The Jordanian army announces the interception of five missiles coming from Iran",
       "url": "https://www.alriyadh.com/2199950",
       "source": "Alriyadh",
@@ -593,18 +625,6 @@
       "date": "2026-07-29T09:45:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | تمكين مشروع نموذجي للضأن النعيمي في القصيم بإنتاج يتجاوز 221 ألف كيلو جرام من اللحوم سنويًا"
-    },
-    {
-      "headline": "The identity of one of the four Iranian pilots killed in the attack on Udeed base in Qatar was announced",
-      "url": "https://www.bbc.com/persian/articles/cp9e29mg8m3o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-29T09:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هویت یکی از چهار خلبان ایرانی کشته‌شده در حمله به پایگاه عدید قطر اعلام شد"
     },
     {
       "headline": "#South_Korea's Stocks Slide Amid AI Concerns\n#QNA  #Economy\n\nhttps://\nbit.ly/4hxoJtW",
@@ -2488,16 +2508,6 @@
       "originalHeadline": "ماذا نعرف عن اتفاقية التعاون الدفاعي بين الكويت و��اكستان؟"
     },
     {
-      "headline": "Latest news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-29T03:11:09.000Z"
-    },
-    {
       "headline": "#News_Infographic | \"The Saudi Armed Forces launch specific, targeted strikes against targets belonging to Iran-backed terrorist militias present on Iraqi soil and linked to attacks on petroleum facilities in the Kingdom\"\n\n\"Major General Turki Al-Malki \nOfficial Spokesman for the",
       "url": "https://x.com/alekhbariyatv/status/2082301695611060457",
       "source": "Al Ekhbariya TV",
@@ -2506,16 +2516,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-07-29T03:06:26.000Z"
-    },
-    {
-      "headline": "Trump says meetings with Zelenskiy and Netanyahu were positive - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk40d25GbEFLaXNXdzJVWFVNZ0Y0cHBFSW0xT2p3M09Vd2ZEaktDYVQ5MVJaYW80a1ptaHJacFlDQk5yWHh0b084dlFfc0NYZThwYVQ2RzdPRGFWelFJQTdOd2FQemtoRmRzZTRpT0dlc09DbGdmRkM3RmhqMjk1c1JIOF9IYi1MWjZXRHZDVkUtQWI2ck82YkRBNVZ0Wkl3Y00tQkFR?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-29T03:05:00.000Z"
     },
     {
       "headline": "Dammam Municipality joins the Global Initiative for Quality of Life.\n\nhttp://\nspa.gov.sa/ar/w2643462\n#واس",
