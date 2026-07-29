@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-29T07:48:43.570Z",
+  "updated": "2026-07-29T08:02:54.110Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Abu Dhabi to host 6th Spartan World Championship in Al Wathba Desert",
+      "url": "https://www.wam.ae/en/details/c1grpq1-abu-dhabi-host-6th-spartan-world-championship",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-29T07:59:08.884Z"
+    },
+    {
+      "headline": "Jordan Intercepts and Destroys Five Iranian Missiles Targeting its Territory",
+      "url": "https://spa.gov.sa/en/N2643649?type=news&uuid=N2643649",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-29T07:54:11.000Z"
+    },
+    {
+      "headline": "UAE floating hospital fits prosthetic limbs for 51 Palestinian patients",
+      "url": "https://www.wam.ae/en/details/c1grpq0-uae-floating-hospital-fits-prosthetic-limbs-for",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-07-29T07:52:18.292Z"
+    },
     {
       "headline": "Dammam Metropolitan Area Joins UN-Habitat's Global Quality of Life Initiative",
       "url": "https://spa.gov.sa/en/N2643639?type=news&uuid=N2643639",
@@ -21,6 +51,66 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-07-29T07:34:07.729Z"
+    },
+    {
+      "headline": "Saudi Arabia: Our strikes in Iraq came in self-defense and we do not seek escalation",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/29/strikes-iraq-were-self-defense-and-we-are-not-seeking-escalation",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-29T07:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "السعودية : ضرباتنا في العراق جاءت دفاعًا عن النفس ولا نسعى للتصعيد"
+    },
+    {
+      "headline": "Russia reveals the “hidden weapon” in monitoring space missions",
+      "url": "https://www.okaz.com.sa/variety/na/2259027",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-29T07:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "روسيا تكشف عن « السلاح الخفي » في مراقبة المهام الفضائية"
+    },
+    {
+      "headline": "Decades after graduation, students respond to their teacher’s invitation to marry his son to Ahad Rufaida",
+      "url": "https://www.okaz.com.sa/people-situations/na/2258941",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-29T07:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بعد عقود من التخرج .. طلاب يلبّون دعوة معلمهم في زواج ابنه بأحد رفيدة"
+    },
+    {
+      "headline": "In the bowels of the “Dorobinar” rock.. Will the 2026 radar resolve the legend of Noah’s Ark?",
+      "url": "https://www.okaz.com.sa/variety/na/2259028",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-29T07:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "في أحشاء صخرة « دوروبينار ».. هل يحسم رادار 2026 أسطورة سفينة نوح ؟"
+    },
+    {
+      "headline": "Analysis: Does Trump even care if Russia helps Iran target American forces?",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/29/does-trump-even-care-if-russia-helps-iran-target-us-troops",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-29T07:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تحليل .. هل يكترث ترامب أصلًا إذا كانت روسيا تساعد إيران في استهداف القوات الأمريكية ؟"
     },
     {
       "headline": "Iran war - AP News",
@@ -53,6 +143,17 @@
       "language": "ar",
       "date": "2026-07-29T07:24:27.000Z",
       "originalHeadline": "السعودية: إعدامات جديدة بحق مهاجرين إثيوبيين"
+    },
+    {
+      "headline": "Saudi Arabia's patience is running out and a new red line has been drawn with Iraq's strikes...a clarifying analysis",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUVhRRW9WUXpWUEdVVi13YkFxREZORW5kb3pkQXBtQTVtWkk5elJ4OUpvTzJPbXFwajBFUjBLYWJYYW9zVVZJM0l3enduQWpydTlSQzdLREY2MlFpczQybEZGcnF2cnJvMGczWDdqUnlqd2xqYzRrbGNyYnFuWDJhUF9UMTBoWlROcmpqZHhKb2FZZ0tYWjYzbHVmcXF2MzV0eVhHR0Y5c1ZPNWFaMThGQkYzRzlFYWlEdnlScEppaG5UcHhrN2wyWUln0gHUAUFVX3lxTE1BZ19TampzWVlGSERIZGljMWhHNHZWN3llQ3NWMWVXallsMFY2dzFDQlNEeVdHcU11U3lCZEJTeThZMVpaX3RJOVlOdV9WUUlWWHhEV0w0em9HZjlFdXRqLWFXUEZ3cThXdFlWZGpORHBMVkQ5WjFIc21icW5EM2h2a0Q2ZElxSnFGZFFwa05URTdXT1l6TG5IWHJ3OFhLLUkzTWpqYjZTZ251VFprY2Q4eWVpVjkyWUJRX3I1VHJzaDk4M21pY0hSaTBnS2s4dFljR19K?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-29T07:22:05.000Z",
+      "originalHeadline": "نفاذ صبر السعودية ورسم خط أحمر جديد بضربات العراق.. تحليل يوضح"
     },
     {
       "headline": "Ministry of Islamic Affairs Guides Umrah Visitors at Arafat's Key Sites",
@@ -145,6 +246,18 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-29T06:53:16.000Z"
+    },
+    {
+      "headline": "Figures reveal the strength of the Saudi Air Force in 2026 after the Hashd strike in Iraq",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/29/saudi-air-power-viral-iraq-info",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-07-29T06:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "أرقام تكشف قوة سلاح الجو السعودي في 2026 بعد ضربة الحشد في العراق"
     },
     {
       "headline": "Aldar posts AED4.9 billion first-half net profit, up 18%",
@@ -256,14 +369,14 @@
     },
     {
       "headline": "Saudi Arabia responds to the attacks on its oil facilities, with joint strikes with the United States on the Popular Mobilization Forces in Iraq",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAteHJuWkl6X1kxS1FXNFNNZTNBRm80Z1RLU1dEeUFBeW1aRTdBQm5VakVCdzNmSk5UQkRxdklOcExUdnlIdWhmNXJfRi1aNUpkXzdOWFFmT3JmTng5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAteHJuWkl6X1kxS1FXNFNNZTNBRm80Z1RLU1dEeUFBeW1aRTdBQm5VakVCdzNmSk5UQkRxdklOcExUdnlIdWhmNXJfRi1aNUpkXzdOWFFmT3JmTng50gFiQVVfeXFMTU42UjQ5M0M1RXRJMWZ4TFp0eXFxblcxN09vcm9iVnQ3bEdGUEFEZm5zeGZZREtEYWhlZ2VhdXpsbTZqcnktX2p4MUpMVExHWjRxR244TjBwQTVER0xKb09yTkE?oc=5",
       "source": "BBC",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-29T05:59:32.000Z",
-      "originalHeadline": "السعودية ترد على الهجمات على منشآتها النفطية، بضربات مشتركة مع الولايات المتحدة على الحشد الشعبي في العراق"
+      "originalHeadline": "السعودية تردّ على الهجمات على منشآتها النفطية، بضربات مشتركة مع الولايات المتحدة على الحشد الشعبي في العراق"
     },
     {
       "headline": "Jordan intercepts five missiles fired from Iran",
@@ -366,7 +479,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-07-29T05:32:01.000Z",
-      "originalHeadline": "أول تعليق من الحوثيي�� بعد الضربات الأمريكية السعودية في العراق"
+      "originalHeadline": "أول تعليق من الحوثيين بعد الضربات الأمريكية السعودية في العراق"
     },
     {
       "headline": "Al-Riyadh newspaper | Islamic Affairs continues its awareness and guidance efforts",
@@ -723,17 +836,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-07-29T03:29:00.000Z"
-    },
-    {
-      "headline": "American-Saudi strikes in Iraq against pro-Iranian militias - Al-Jeera Net",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQS3ozSnBmYzVFTGY3T3JDbUR6Z21YT0c4dTgyZnd3SHlOSklNU2RURUFYTXNFdzZ4Mlk1cWJwSDBBdGQ3bGpFVThfczlNWDI2dmJIS0pWbDJZdXVGUDdiSEkzSmRzT3VYaS1JYWpRa3NTY0VVRzFOWUZDNDFNU3l6dFhFS25EQndEUjI0WkNiaHdMNkVOdllGSGMtWXJsVFNuZlU0elNja3FXbl9mZ1ZjdHpDMW5Yc20wMl9uY0dHS1hUamp1NXJpZWFucGc5OVlSUDJFeTdEWWhHOUVtSDN5eVRiSjRvWUpQNWRpbHFmWTF5MDJDbEphR1F5TEpraEY5RGo2LTNQbndBYjZLSmNOUEtadTVqQXlBbU1WbW9QMHpaVkJRR2JvREo5N05OOTc5NHpZQzhGcjhPT2PSAcACQVVfeXFMTkk4a3JwNjhoQWs1MXpJVlIybzRrZk9Fa21xcXJwN2x2c0JpcVp4QV9oZDBLMmJieWZmQVNBZWtlWDhDbmYwb0dWV0RfUzNsUmw1VkdGckdJb3F0U1lTSWZfT01WNFUtUzREaExYQS1wcnBVOVY4X3ltN2lmNFkwNXR2S3ZGOFVUb01XOHN6a1c3V2ZBTWxjNXV1WldGbUlTWUxmMDFrWEtyQUhTTnpzcVpKLWgxUzc4bmJVdFo1ZktINWxuMUJyQUhUb1Y1ckhKaVdFMlFzYnNYcGNnR2RqelNZNFh0eWdXVDRQVWVQWGRsbDY1RkM3T1h5ZzA3bnFCZzQ4dnpqTWl3RnhwME42Ukhqc0RPbmtGbU9ZUDBlVXF4NU1MSXlLbnRCNmUtNm1pdW1TaDhiMHYySkpPTlhOblM?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-29T03:27:51.000Z",
-      "originalHeadline": "ضربات أمريكية سعودية في العراق ضد مليشيات موالية لإيران - الج��يرة نت"
     },
     {
       "headline": "Saudi Arabia says its strikes on Iran-aligned militia targets in Iraq were acts of self-defence under Article 51 of the UN Charter after drone attacks on the Kingdom. Riyadh says it seeks no escalation but will defend its sovereignty.\n\n\nhttp://\now.ly/rWQE30sXxTj\n\n#KUNA #KUWAIT",
@@ -2190,66 +2292,6 @@
       "date": "2026-07-28T22:02:01.000Z"
     },
     {
-      "headline": "Türkiye and Iraq agree to double oil flows and enhance trade economy",
-      "url": "https://www.aljazeera.net/ebusiness/2026/7/28/trkiye-iraq-oil-flows",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تركيا والعراق يتفقان على مضاعفة التدفقات النفطية وتعزيز التجارة | اقتصاد"
-    },
-    {
-      "headline": "After the bombing of an Iranian ship, the Ukrainian Foreign Minister communicates with Araghchi to contain the tension",
-      "url": "https://www.aljazeera.net/news/2026/7/28/%D8%A8%D8%B9%D8%AF-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بعد قصف سفينة إيرانية .. وزير خارجية أوكرانيا يتواصل مع عراقجي لاحتواء التوتر"
-    },
-    {
-      "headline": "6 hours between two executions.. What is happening today in Florida?",
-      "url": "https://www.aljazeera.net/news/2026/7/28/6-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85%D9%8A%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "6 ساعات بين إعدامين .. ماذا يحدث اليوم في فلوريدا ؟"
-    },
-    {
-      "headline": "Syria bids farewell to the sheikh of grammarians and the teacher of generations.. Who is the writer Mazen Al-Mubarak?",
-      "url": "https://www.aljazeera.net/culture/2026/7/28/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D8%AF%D8%B9-%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D8%A9-%D9%88%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%A3%D8%AC%D9%8A%D8%A7%D9%84",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "سوريا تودع شيخ النحاة وأستاذ الأجيال .. من هو الأديب مازن المبارك ؟"
-    },
-    {
-      "headline": "Trump is between the hammer of interests and the anvil of politics.. Where is the Russian-Ukrainian war heading?",
-      "url": "https://www.aljazeera.net/news/2026/7/28/%D8%AA%D8%B1%D9%85%D8%A8-%D8%A8%D9%8A%D9%86-%D9%85%D8%B7%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D9%84%D8%AD%D8%A9-%D9%88%D8%B3%D9%86%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T22:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ترمب بين مطرقة المصلحة وسندان السياسة .. إلى أين تتجه الحرب الروسية الأوكرانية ؟"
-    },
-    {
       "headline": "#UN Deputy Special Coordinator for the Middle East Peace Process Ramiz Alakbarov warns the Security Council that the deteriorating situation in the West Bank threatens broader regional escalation without immediate intervention\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=331841",
       "url": "https://x.com/kuna_en/status/2082223663626019272",
       "source": "Kuwait News Agency (KUNA)",
@@ -2258,27 +2300,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-28T21:56:21.000Z"
-    },
-    {
-      "headline": "Tornado that carved a path of destruction in Wisconsin stayed on the ground for more than 20 minutes - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1dGMTl6eFZEM1g3YnFWN0VxYlZ0SS0tQlZrb2Y2N21QVUktVUFGZmxyc05kM2xZZ1RjcWt3bWJQTG1jNTZ0LXd1dHpmb1RuQzhWdG1CTVpyTEhSX1EyMnZhNkVjcDlESFFCTTV5RFVsclUxbnRRanRHRk5MLVVDdjRtTUg2aGZaSXZTUEJ3?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-28T21:49:00.000Z"
-    },
-    {
-      "headline": "The Saudi Foreign Minister discusses with his counterparts in Qatar, Kuwait and Bahrain developments in the region",
-      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQV29ZdjBJNVI3dGt6S0V2U2xKNjZTYXZBVjFxamNZT0NVZWhpSkdlUXE0NjJ2YldWcHN2YmpVeUFxVkxSRktUODBLaEdWWU1wMVhsVlJmM0NvdnJMUFhJYXdFMURaZGFHcTEzNGJHTHFKUHZPT3hjdll1SXg1OW1BZXpZS2o3X3NtcGVEMF9LcEs0cjhJQXdQWi1nM281WXpjNmtsa3BObTgtVF93UUNZUjlqMVp2OHQzMEhuUmZqR2R2bnlkNGM5VmtyelE4eEVMbnU0ajJ3VjhfVG92QlM4Z2w4bFdleUN1MFFYUkItNDBaRWdrUmtLWk1WQ2F4eGlCbHpNMmsyUzREdEVNVlA5RkJ3V3QwN3d3UFQ5SXR0TWdmT3JDdlpXanhzcGdjY1Y0NHRBTVF0aHRQYnM5MlhQNWhudnVXckV2TVRzaHNTUW5kOVNYTTZEbThGckNBTXhWN0FtU28yWDRoRWIwcmNKOENQSDFWSUVrOUZueFpHaHRlTENEZVhSQ2tZUVFfZ1FkU1dvbHJCVFFOTU5KVE9RRDQ5bTZLMlZvck9HU2dlQkFla3o0WEVZZk1WUjgzOEk5bHd6NTJTZEpJNFRBOEVyZDBTSXhqLXlBN2dRTEZ2UXVVekh0U2ROS1JEdkVhVFoyZUstSjA5eGlKRzU5cC1Ydlo1QV9aX3gwSThBeHA2UWRpNmhidEwtc2RxTUtYczJmX3BfTmVDMlVrUE9xdU5Pdks0SkFfUHJ1TVZiaEpDQ2JQWndKaU9KdnRUc1AxVXV5cWJiMXQydjh1bFUzc1pLSGtoQkF5dWVNcDdFR3ZCTmo4MlFEQm4ta1BDRHhuY2pTVGRfb1MtV2lna3dCX3c?oc=5",
-      "source": "الهيئة الوطنية للإعلام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-07-28T21:42:08.000Z",
-      "originalHeadline": "وزير الخارجية السعودي يبحث مع نظرائه في قطر والكويت والبحرين التطورات بالمنطقة"
     },
     {
       "headline": "#Turkiye to Host 49th UNESCO World Heritage Committee Session in 2027\n#QNA \n\nhttps://\now.ly/1JLL50Zu1Rj",
@@ -2321,16 +2342,6 @@
       "date": "2026-07-28T21:32:19.000Z"
     },
     {
-      "headline": "Italy - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Td1hZN3hJaDVpNzlzZWo5M29pUmZ0T0hSazlGbS1rOVhHeVhhTjhsOGdVd1ZZRG03Y3cya3NWb1VIUQ?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-28T21:31:50.000Z"
-    },
-    {
       "headline": "#Saudi_Arabia Condemns Relentless Inbound Drone Attacks From #Iraq Targeting Oil Facilities in Eastern Province\n#QNA \n\nhttps://\now.ly/M5jT50Zu1LG",
       "url": "https://x.com/QNAEnglish/status/2082216629950169120",
       "source": "Qatar News Agency",
@@ -2349,18 +2360,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-07-28T21:25:20.000Z"
-    },
-    {
-      "headline": "Saudi Arabia announces that it will confront a new attack with drones originating in Iraq",
-      "url": "https://www.aljazeera.net/news/2026/7/28/%D8%B9%D8%A7%D8%AC%D9%84-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%D8%AA%D9%86%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-07-28T21:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "السعودية تعلن التصدي لهجوم جديد بمسيّرات مصدرها العراق"
     },
     {
       "headline": "Saudi Ministry of Foreign Affairs: Saudi Arabia strongly condemns the persistent drone attacks launched by Iranian-backed militias operating from Iraq towards oil facilities in the Kingdom's Eastern Province\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3318416&language=en\n…\n\n#K",
