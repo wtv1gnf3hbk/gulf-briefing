@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-30T13:03:49.447Z",
+  "updated": "2026-07-30T13:18:33.497Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "GCC Secretary-General Condemns Renewed Iranian Attacks on Kuwait and Jordan",
+      "url": "https://spa.gov.sa/en/N2644707?type=news&uuid=N2644707",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-07-30T13:09:34.000Z"
+    },
     {
       "headline": "Children explore world cultures at House of Wisdom’s summer camp in Sharjah",
       "url": "https://www.wam.ae/en/details/c1hd5to-children-explore-world-cultures-house-wisdom’s",
@@ -462,6 +472,28 @@
       "date": "2026-07-30T12:00:25.000Z"
     },
     {
+      "headline": "First Thing : US government borrowing costs hit new high as strikes on Iran resume",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/first-thing-us-government-borrowing-costs-hit-new-high-as-us-strikes-resume-on-iran",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-30T12:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Europe is burning – and if Trump war on the climate is not met with sanctions , things will only get worse | Alexander Hurst",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-07-30T12:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "The Governor of Al-Muharraq Praises the Important National Messages Ensured by the Meeting with His Excellency the Minister of Interior and the Editors-in-Chief of Local Newspapers\n\nhttps://\npolicemc.gov.bh/news/-0/",
       "url": "https://x.com/moi_bahrain/status/2082798358339420667",
       "source": "Bahrain Interior Ministry",
@@ -808,23 +840,12 @@
       "date": "2026-07-30T11:15:11.000Z"
     },
     {
-      "headline": "EU Says Polish Airspace Violated in New Russia Strikes on Ukraine",
-      "url": "https://english.aawsat.com/world/5301560-eu-says-polish-airspace-violated-new-russia-strikes-ukraine",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
+      "headline": "Tunajua nini kuhusu mapendekezo kwa Iran kuhusu Mlango bahari wa Hormuz ?",
+      "url": "https://www.bbc.com/swahili/articles/cd69gvl9w27o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
       "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-30T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Japan Quake Survivors Battle Thirst , Heat as Death Toll Rises to 25",
-      "url": "https://english.aawsat.com/world/5301552-japan-quake-survivors-battle-thirst-heat-death-toll-rises-25",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
+      "country": "Regional",
       "language": "en",
       "date": "2026-07-30T11:15:00.000Z",
       "tier": "gdelt"
@@ -863,6 +884,50 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Egypt Confirms Drone Caused Fire on Two Gas Vessels at Damietta",
+      "url": "https://english.aawsat.com/arab-world/5301566-egypt-confirms-drone-caused-fire-two-gas-vessels-damietta",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-30T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi Arabia Condemns Continued Iranian Attacks on Jordan",
+      "url": "https://english.aawsat.com/gulf/5301603-saudi-arabia-condemns-continued-iranian-attacks-jordan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-30T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "EU Says Polish Airspace Violated in New Russia Strikes on Ukraine",
+      "url": "https://english.aawsat.com/world/5301560-eu-says-polish-airspace-violated-new-russia-strikes-ukraine",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-30T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Japan Quake Survivors Battle Thirst , Heat as Death Toll Rises to 25",
+      "url": "https://english.aawsat.com/world/5301552-japan-quake-survivors-battle-thirst-heat-death-toll-rises-25",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-07-30T11:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Cuba Says Three Quarters of Hotels Shuttered",
       "url": "https://english.aawsat.com/world/5301533-cuba-says-three-quarters-hotels-shuttered",
       "source": "Asharq al-Awsat (EN)",
@@ -885,30 +950,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Egypt Confirms Drone Caused Fire on Two Gas Vessels at Damietta",
-      "url": "https://english.aawsat.com/arab-world/5301566-egypt-confirms-drone-caused-fire-two-gas-vessels-damietta",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-30T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Eurozone Economy Grows despite Middle East War",
       "url": "https://english.aawsat.com/business/5301611-eurozone-economy-grows-despite-middle-east-war",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-30T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Arabia Condemns Continued Iranian Attacks on Jordan",
-      "url": "https://english.aawsat.com/gulf/5301603-saudi-arabia-condemns-continued-iranian-attacks-jordan",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -957,17 +1000,6 @@
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
       "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-07-30T11:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Tunajua nini kuhusu mapendekezo kwa Iran kuhusu Mlango bahari wa Hormuz ?",
-      "url": "https://www.bbc.com/swahili/articles/cd69gvl9w27o",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
       "language": "en",
       "date": "2026-07-30T11:15:00.000Z",
       "tier": "gdelt"
@@ -1286,6 +1318,16 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-30T10:19:09.000Z"
+    },
+    {
+      "headline": "Canada - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-07-30T10:15:50.000Z"
     },
     {
       "headline": "The Saudi Ministry of Interior announces the implementation of the death sentence against a person convicted of child assault crimes",
@@ -1675,16 +1717,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-07-30T09:26:58.000Z"
-    },
-    {
-      "headline": "Canada - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-07-30T09:23:39.000Z"
     },
     {
       "headline": "#Urgent / \n\nHis Majesty the Esteemed Sultan /May God protect and preserve him/ discusses, during a phone call with the Prime Minister of #United_Kingdom, the developments of the situation in the region, and the means to achieve calm and prevent escalation to lay the foundations",
@@ -3049,26 +3081,6 @@
       "date": "2026-07-30T04:05:00.000Z"
     },
     {
-      "headline": "US resumes air strikes on Iran following missile attack on American base in Jordan",
-      "url": "https://timesofoman.com//article/175023-us-resumes-air-strikes-on-iran-following-missile-attack-on-american-base-in-jordan",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-30T04:04:39.000Z"
-    },
-    {
-      "headline": "Russia strikes Kyiv with ballistic missiles after Zelenskyy warned of 'massive attack",
-      "url": "https://timesofoman.com//article/175022-russia-strikes-kyiv-with-ballistic-missiles-after-zelenskyy-warned-of-massive-attack",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-07-30T04:00:49.000Z"
-    },
-    {
       "headline": "#Meteorology: Expectations of medium to heavy thunderous rainfall leading to flash floods accompanied by cold spells in Jazan and Asir, light to medium in Al Baha, Makkah Al Mukarramah, and the Eastern Province, with active winds also in Riyadh and Madinah Al Munawwarah that may",
       "url": "https://x.com/SPAregions/status/2082677582005248298",
       "source": "Saudi Press Agency (Regions)",
@@ -3077,17 +3089,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-07-30T04:00:04.000Z"
-    },
-    {
-      "headline": "US launches fresh strikes on Iran after days - long pause , amid fears the war is widening",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-07-30T04:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "US forces sucessfuly finish heavy wave of strikes against Iran\n\n\nhttp://\now.ly/JZRX30sXzXg\n\n#KUNA #KUWAIT",
