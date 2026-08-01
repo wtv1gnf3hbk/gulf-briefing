@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01T17:33:20.489Z",
+  "updated": "2026-08-01T17:48:13.309Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "UAE expresses solidarity with South Africa, conveys condolences over victims of passenger bus accident",
+      "url": "https://www.wam.ae/en/details/c1ik1bq-uae-expresses-solidarity-with-south-africa-conveys",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-01T17:39:57.295Z"
+    },
+    {
+      "headline": "UAE strongly condemns Iranian hostile attack on Kuwait",
+      "url": "https://www.wam.ae/en/details/c1ik1bp-uae-strongly-condemns-iranian-hostile-attack",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-01T17:37:19.449Z"
+    },
     {
       "headline": "Buraidah Date Carnival Opens to Showcase Qassim's Palm Heritage",
       "url": "https://spa.gov.sa/en/N2645698?type=news&uuid=N2645698",
@@ -157,6 +177,39 @@
       "date": "2026-08-01T16:07:05.000Z"
     },
     {
+      "headline": "Iran Seeks to Strip Iraq of Its Arab Depth",
+      "url": "https://english.aawsat.com/opinion/5302317-iran-seeks-strip-iraq-its-arab-depth",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "International Institutions Are Exhausted",
+      "url": "https://english.aawsat.com/opinion/5302304-international-institutions-are-exhausted",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi FM Holds Separate Phone Calls with Turkish , Kuwaiti Counterparts",
+      "url": "https://english.aawsat.com/gulf/5302302-saudi-fm-holds-separate-phone-calls-turkish-kuwaiti-counterparts",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T16:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Türkiye , Iraq Sign One - year Oil Pipeline Deal",
       "url": "https://english.aawsat.com/business/5302371-t%C3%BCrkiye-iraq-sign-one-year-oil-pipeline-deal",
       "source": "Asharq al-Awsat (EN)",
@@ -170,17 +223,6 @@
     {
       "headline": "Southern Lebanon First Pilot Zone : The Army Is Back , Hezbollah Is Not",
       "url": "https://english.aawsat.com/arab-world/5302335-southern-lebanons-first-pilot-zone-army-back-hezbollah-not",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iran Seeks to Strip Iraq of Its Arab Depth",
-      "url": "https://english.aawsat.com/opinion/5302317-iran-seeks-strip-iraq-its-arab-depth",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -235,28 +277,6 @@
       "date": "2026-08-01T16:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "جريدة الرياض | هزات ارتدادية تضرب منطقة نابولي جنوب إيطاليا بعد أقوى زلزال منذ عقود"
-    },
-    {
-      "headline": "International Institutions Are Exhausted",
-      "url": "https://english.aawsat.com/opinion/5302304-international-institutions-are-exhausted",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi FM Holds Separate Phone Calls with Turkish , Kuwaiti Counterparts",
-      "url": "https://english.aawsat.com/gulf/5302302-saudi-fm-holds-separate-phone-calls-turkish-kuwaiti-counterparts",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Israeli Strikes Kill Two in Gaza , Destroy Medicine Storage Warehouses",
@@ -335,7 +355,7 @@
     },
     {
       "headline": "Bahrain condemns the repeated Iranian attacks on civilian facilities in Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQZTRwOEdGLUJmYXUzcTVnRUhOa1JueWZOVDFpdl9fLVREZE5RX3BvRzZ3U0diejE2NWRuVkxocWdXdThpSnRmM0haQTQ0dldWRng3aTFYZnJ0dTUzMXVLSDRhTFluTjI2djBVOTN3ZTBsQlY3RDJkYWo5Nlk5OE8zbFhncEY3NVJCVFBKdkFURXpDelp3bWY4cXBtYUV3VFA0M2tnUDNCRUswb3ZCM1lxbF91TzV6Zkw2elFONi1XeW1qSFNDVnhVdkpDNU9rb1N2MV9CbTNSZTBrV1NZUXBNTFJJUG1tMkhEQlpPNTRIQ2lsU0NHVUxnTGlCRGF2WGtFZ1hkaXNZT21xanQ3WXUwZ19uZEwxR1FmMTJkd2stdUdob0lzZHJrN0lvdkNteGJjRU1SWUxMV0hJRWg4bjRZd3NtTlNJMmIwbm94aGVOM2Y5QkdGU0wzM2R0SlI1a1ZTOHNuXzhQcUE4R1RCYnNqX1JJN3ZBaTRLa05fRlpuZ0Nud09BeXNTa1djU3RPdkdTSGJDYWdPR2hva01icTlpTDdYckpnZG9vSGtPOVN0TXNXTngwR3FJcm12OUZRUVhqdkMtdmZrOTJmNEhqQ3MzZHJibFFrR1ZFY2FKVjNINW5zSGUwVzN6OEZtTGV5WFpEQzR3WENxS0FmUGdZczlTX2lLMzZiS1ZielU0bHM1Y2paUURwdHBMTUpGSnVJQWRnazlUNERFOEpRRjdPeTJ2dzZR0gG3BEFVX3lxTE1LdDcyNFNscEp5ckZReFpyYU1kQVhwNXRMNHVYekRlMUVIbXNCRXhYamxqWmk5OGxkQ1QyVXZJN0tDMmVCa0FaYy1GSV9ZdzRteUlEMFF1bXNSSzg4aUl5YVpwVGhWNEpFekthLXV4M3ZySENJbmlydVI1VHhlM2RRa2NIVUFHc24zYjhPeXpGRFg3VzBXUzFGMXRJYXlzYUlsSDU5d21BaUJsdDc4Skt3VzQxYnBYbC1FNG1rVVRYU2VqODZxMmlXS3ZJWmhIVzRZZ1B4eE01Q09hbFJKT2RrS3VqcEZXREIycUlOMDVRMUFSS1d4ajdiOWFZZHJLQU40aEtjYkFFV05DYnBUTURBMDRGRDY2eU5tUTZjUnZoS3ZlVjZ4SV9yb2FiTUZRcnJ2YWlJejJ6NWttLVFVdG4tdW9WSmo4OVdsWndlVjc5bjZfZS1pYlZweTFKS29fcUJwWFk2MFZpWTF5aFFlX0xrTzVWbWJfUlNrZEVhLVkxYW9DbnVieG9XNkVhMmp6NE5IYkxtU242VGdleEZVZk5SeGZ0LTRJRTkwRjY0NGtTb2p5Sk5OWlE3U1ZEeGhTRlF3eUJvSV9td0Q3eFVrWDEwUUZZQjVEWU9sVmRFMmJyRXVTaEVtX3dZNHF5NlFTdk9ieC1NS3k4Vk1NekNhRGFIR3Q3TEhFX0VzT21ja01aVUtSbVNxX2pXbERVcWFHSGloT0JlNUM3cmV0ZXFFYW5QOFZ6Q3RfWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNS3Q3MjRTbHBKeXJGUXhacmFNZEFYcDV0TDR1WHpEZTFFSG1zQkV4WGpsalppOThsZENUMlV2STdLQzJlQmtBWmMtRklfWXc0bXlJRDBRdW1zUks4OGlJeWFacFRoVjRKRXpLYS11eDN2ckhDSW5pcnVSNVR4ZTNkUWtjSFVBR3NuM2I4T3l6RkRYN1cwV1MxRjF0SWF5c2FJbEg1OXdtQWlCbHQ3OEpLd1c0MWJwWGwtRTRta1VUWFNlajg2cTJpV0t2SVpoSFc0WWdQeHhNNUNPYWxSSk9ka0t1anBGV0RCMnFJTjA1UTFBUktXeGo3YjlhWWRyS0FONGhLY2JBRVdOQ2JwVE1EQTA0RkQ2NnlObVE2Y1J2aEt2ZVY2eElfcm9hYk1GUXJydmFpSXoyejVrbS1RVXRuLXVvVkpqODlXbFp3ZVY3OW42X2UtaWJWcHkxSktvX3FCcFhZNjBWaVkxeWhRZV9Ma081Vm1iX1JTa2RFYS1ZMWFvQ251YnhvVzZFYTJqejROSGJMbVNuNlRnZXhGVWZOUnhmdC00SUU5MEY2NDRrU29qeUpOTlpRN1NWRHhoU0ZRd3lCb0lfbXdEN3hVa1gxMFFGWUI1RFlPbFZkRTJickV1U2hFbV93WTRxeTZRU3ZPYngtTUt5OFZNTXpDYURhSEd0N0xIRV9Fc09tY2tNWlVLUm1TcV9qV2xEVXFhR0hpaE9CZTVDN3JldGVxRWFuUDhWekN0X1nSAbcEQVVfeXFMTUt0NzI0U2xwSnlyRlF4WnJhTWRBWHA1dEw0dVh6RGUxRUhtc0JFeFhqbGpaaTk4bGRDVDJVdkk3S0MyZUJrQVpjLUZJX1l3NG15SUQwUXVtc1JLODhpSXlhWnBUaFY0SkV6S2EtdXgzdnJIQ0luaXJ1UjVUeGUzZFFrY0hVQUdzbjNiOE95ekZEWDdXMFdTMUYxdElheXNhSWxINTl3bUFpQmx0NzhKS3dXNDFicFhsLUU0bWtVVFhTZWo4NnEyaVdLdklaaEhXNFlnUHh4TTVDT2FsUkpPZGtLdWpwRldEQjJxSU4wNVExQVJLV3hqN2I5YVlkcktBTjRoS2NiQUVXTkNicFRNREEwNEZENjZ5Tm1RNmNSdmhLdmVWNnhJX3JvYWJNRlFycnZhaUl6Mno1a20tUVV0bi11b1ZKajg5V2xad2VWNzluNl9lLWliVnB5MUpLb19xQnBYWTYwVmlZMXloUWVfTGtPNVZtYl9SU2tkRWEtWTFhb0NudWJ4b1c2RWEyano0TkhiTG1TbjZUZ2V4RlVmTlJ4ZnQtNElFOTBGNjQ0a1NvanlKTk5aUTdTVkR4aFNGUXd5Qm9JX213RDd4VWtYMTBRRllCNURZT2xWZEUyYnJFdVNoRW1fd1k0cXk2UVN2T2J4LU1LeThWTU16Q2FEYUhHdDdMSEVfRXNPbWNrTVpVS1JtU3FfaldsRFVxYUdIaWhPQmU1QzdyZXRlcUVhblA4VnpDdF9Z?oc=5",
       "source": "Masrawy",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -880,6 +900,17 @@
       "date": "2026-08-01T14:44:58.000Z"
     },
     {
+      "headline": "“Prepare and think about leaving.” American embassies warn their citizens in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUFBvdFNzX0dKT0VVZzJ3TkotNm1YWVpYY2dDY2o4c2FPQURYemZvaTcyYjh1bzFOSFJxTUdfb2lwa3BEWDE2a1FBUEVxWjZ1ZmdscUxkWTRHamp2TS1hUTB4eXBJcmFhaG9JbmJkUUhsRHdsWXVtSU85YWd4eUZia29iZ1RTcm5wcDJjXzlnQzhYZ0ZVZmdHQ1I1ZXh2aW9SeFFUY3hRM0k3ZlJhczFwdGxGSUFxLVZ4NV9ZZk1heTRKZDNjYkxTN1ZLbHU3MjgwY0poWEEwbWIzdkZ0TDlMYVFOQngwLUtOTlBtYTlkLVNmUVdGeGRFTGt0N21kZ01OcHRwcmlQWDQ1UmEyM0JRU0lKVVNSWnNlYng5VWotcVRLOVZwOHdjcFl5UDlZeUhXNnJwWFExQ0VNZTkwWVd4V3lJWjhKZ3NiaXl3RDdtV19Jd2lnZ0o1adIB3gJBVV95cUxPZkM3dHBpZUNRdlZwbXlwYnljQWhXY2wwUDR5YlJFNHdkZGItY3ZPbWdjWGhuQnVyb2wtZE1sRVIwMU5BOWtobnNYR3pnVkVFbWEyV21kaDRZeUl4R3UwMmg4RnNOVHN4TUhNUnJOLTFiZFh3ektFRk5DbHFjaXV5ck01RTVNS1h4eUNudUVyZy1NVkg3UDd1cHVmSDZPTWtfSzFEbjVjS2dBcEx5eFIzalpDY2tHNnJZOUFNc1F1Zk40WFEtTVRYZlh2R1dSeWFVa3NPaDFCTEM4NndsbnJFVG5xZXY3bEtlX2ZNQ3JKdDluelBPQ3RxSHZoWl9iNjQ4dHJIYkRjQjJoQUk0THRjMUNRcWx3aThJUEwwSmJkV0YzSWtVamtHd3NLdFhMVUxUa0Z3M19fQVpjRzVRYUZJaVRmMHJKMjAxWU5HTGxoMFBSRzJZQXJoMmNHZFVDdw?oc=5",
+      "source": "aljazeera.net",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T14:30:59.000Z",
+      "originalHeadline": "\"استعدوا وفكروا في المغادرة\".. سفارات أمريكية تحذر رعاياها بالشرق الأوسط"
+    },
+    {
       "headline": "Winners of Al Ain Dates Festival (Rutab) competitions have discussed the high level across categories, significance of achievements in the inaugural edition, and the festival’s close ties to Al Ain Region’s history and identity, highlighting dates’ place in local heritage.",
       "url": "https://x.com/ADMediaOffice/status/2083560506011640103",
       "source": "Abu Dhabi Media Office",
@@ -900,17 +931,6 @@
       "date": "2026-08-01T14:28:28.000Z"
     },
     {
-      "headline": "“Prepare and think about leaving.” American embassies warn their citizens in the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUFBvdFNzX0dKT0VVZzJ3TkotNm1YWVpYY2dDY2o4c2FPQURYemZvaTcyYjh1bzFOSFJxTUdfb2lwa3BEWDE2a1FBUEVxWjZ1ZmdscUxkWTRHamp2TS1hUTB4eXBJcmFhaG9JbmJkUUhsRHdsWXVtSU85YWd4eUZia29iZ1RTcm5wcDJjXzlnQzhYZ0ZVZmdHQ1I1ZXh2aW9SeFFUY3hRM0k3ZlJhczFwdGxGSUFxLVZ4NV9ZZk1heTRKZDNjYkxTN1ZLbHU3MjgwY0poWEEwbWIzdkZ0TDlMYVFOQngwLUtOTlBtYTlkLVNmUVdGeGRFTGt0N21kZ01OcHRwcmlQWDQ1UmEyM0JRU0lKVVNSWnNlYng5VWotcVRLOVZwOHdjcFl5UDlZeUhXNnJwWFExQ0VNZTkwWVd4V3lJWjhKZ3NiaXl3RDdtV19Jd2lnZ0o1adIB3gJBVV95cUxPZkM3dHBpZUNRdlZwbXlwYnljQWhXY2wwUDR5YlJFNHdkZGItY3ZPbWdjWGhuQnVyb2wtZE1sRVIwMU5BOWtobnNYR3pnVkVFbWEyV21kaDRZeUl4R3UwMmg4RnNOVHN4TUhNUnJOLTFiZFh3ektFRk5DbHFjaXV5ck01RTVNS1h4eUNudUVyZy1NVkg3UDd1cHVmSDZPTWtfSzFEbjVjS2dBcEx5eFIzalpDY2tHNnJZOUFNc1F1Zk40WFEtTVRYZlh2R1dSeWFVa3NPaDFCTEM4NndsbnJFVG5xZXY3bEtlX2ZNQ3JKdDluelBPQ3RxSHZoWl9iNjQ4dHJIYkRjQjJoQUk0THRjMUNRcWx3aThJUEwwSmJkV0YzSWtVamtHd3NLdFhMVUxUa0Z3M19fQVpjRzVRYUZJaVRmMHJKMjAxWU5HTGxoMFBSRzJZQXJoMmNHZFVDdw?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T14:26:15.000Z",
-      "originalHeadline": "\"استعدوا وفكروا في المغادرة\".. سفارات أمريكية تحذر رعاياها بالشرق الأوسط"
-    },
-    {
       "headline": "The Gulf Cooperation Council condemns the sinful Iranian attacks on civilian facilities in Kuwait",
       "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxPeHFpWmJDQkM4Q0pqRnpVMUgxckRadnlLVnFjdEVQeXFqaTdfczJkanUxdDFadEhUX1FjczVvSkk3MXJudlo3dGxPblJyel9Yek11cGhWWEQ4eHJqMTBOZEwwbVpLVGdLSmN6dU5HanBad1QtS3FKM2V0azVfeWVBdjh0eDhHcWVKMTRGbEVURktseTR1MVFWWnh3Z2I5RkFFSS0yRXJiNUpQQkdXUXA4elpTek9jeThJallKVkJNRXRSNGdMT0ZVeVZ6YkRyQkJ3R1d0amQzOXY0UWwtUXZaZ0dHTm5zMENZOU1lTTBSNTdhMjQ0eUdmZGYyUzdGODVvVXFBZGUwd3dsTVc4QWtsa3ozWEpucEFGbzhHakJsc0JiX0JheEhyU052a1dzaVRfN3NsaDM1a3pLRzhLbk1jbVVENDJINHU3LV84SFd3a1g1S3pGb0ZxMERWS2RuWTNWaGh5TWg1bkl1RVFDSFJHTFpaVlFYZWxWemdwR3BNYUdqRnZieVBuRVlIRzMzb210T3VTUTdDUkZuUk1WOE9sbk15ZVItWlMyMGtOZkVWd095RjA2YzBrbkEwS1FTbmhDclpXYTdmUlNTVVZzU3NNRWJJalFaTjB6MGJmdG5iMW02NExzcEJRUFBBdnM4WjBmVlNOMFRMUmVCT0tQX3VLX2YyLTBjMDBWWkh4REt2QWdLS0NpaVRtanBBaGUybk1XaUdqdi1UNGFCLUdJSTZzaFBNaS3SAa8EQVVfeXFMT2oxeW4tWG1SMzF6SVRscDhUUGtpdTZwSVBiRldjQWlEUGQxQkktdlF2SGxwWFJHSG5RSFljSzVCOTVSQ19qYlJnYmtZSFFja0NVYzdkQmJtZjExeTZqVk5LeERWblpLcFBWM3RQLVAxZW1TM3IzLVJKU3pRNER5UTVlZGlsa2lNNHdIQ1A1S3YxRUlMU01rckZYdUpNYlRuSVJ4V3IxUjhVNTVYQlYwSHJjRWNVSHNFdUphc2JfZ1pnQXJRcTJpampXWkF2NlZtT1VpU3JmTTlIQkNDSmROeEQyWkkweWRmZ0NVWmVlS3VMeC16Vk1WTnU4enVuTkd5TUszdm11Tm05ZHlUR1pleUlfS1JfTmZiY3hHa1Ytb1RoVG1HaGhkaF9neHdwcDFmSWVJX3BNcDh2Tm9oalE3a0lfbWVIWW55MEtjOHpWZ3o5VzBiUWdHcS1HVzBHcU9ZVV92LXkxOXFIQ1c5RDVTNVAtQU1jWGpJd1NTRkpyWWsyREFjQzVLMXVGb29ZY29mVDJaTHpsV1I2MFR5MDhnbzl5a2pCZWxtcjlGWXMwaFNMcklpU1hLVEl6R2cwNFZ1Q2Y3N2tKbG50U1dXQUJqTWxFNVdLbzNPdE94V1hIRVBQaGZCTmlYN2JTVHdiY3U5bUM0d3dPbTVWYU1VWk9pQjZ6NEg3Wk1XQVBaNG1zOTA0d0VsM1owR2ZtVEZQa3BKVndvN2Z3VEVyY0RCUUVOYw?oc=5",
       "source": "اليوم السابع",
@@ -923,8 +943,8 @@
     },
     {
       "headline": "Bahrain: We condemn the repeated heinous Iranian attacks on civilian and vital installations in Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWE5RDY5S1h5dk5rWjBNa1Y0Q2ttd05WSjRqOTkwdTJmQUNrdHFHRC01dDFYVkdteHUtd0J2Q1BLR2R6VTNUQTdZVFIwenNCMThMMUpTS3JxNGdsUUFLaFJ2cXFkdHFDeDVTcml3MDV0ZlZsWV9wdFExOUJ2YnpSbkVLVGVoUlZWSUI0WWFGTVlvRG5pUGd5clVLQmRFVEdQa3AtSEp1MA?oc=5",
-      "source": "shorouknews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUElwa3cxOG1XSDRpUHdvSmlpenJHRWtPcjZET0prMG9CbG1qdmd5OEowMkZTV3ZLR3ZvYll4M2JoRjdEVGI4Y01BSlVHZTlMTTVMb0xERDJEVXB4OGF6U0NtdEk5ZlMxRjJCUGt6cGRWRVVURjN5WUd0MEQyYkpsa1EtSExWMTJFdHJLdVZpa0tPRHZVbFgxTV9ZZTRLdw?oc=5",
+      "source": "بوابة الشروق",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -1032,7 +1052,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-01T14:05:45.000Z",
-      "originalHeadline": "إدانة خليجية للهجمات الإيرانية على منشأة حكومية في الكويت"
+      "originalHeadline": "إدانة خليجية للهجمات الإيرانية على منش��ة حكومية في الكويت"
     },
     {
       "headline": "#GCC Secretary General strongly condemns the Iranian attack that targeted a government facility and vehicles belonging to a civilian company on Boubyan Island in the State of #Kuwait\n\n\nhttps://\nkuna.net.kw/ArticleDetails\n.aspx?id=3318939\n…\n\n#KUNA",
@@ -2713,30 +2733,6 @@
       "date": "2026-08-01T10:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "السعودية .. الأمن يعلن القبض على 4 إثيوبيين في الرياض ويكشف ما فعلوه"
-    },
-    {
-      "headline": "They did not exist years ago... new professions are igniting the labor market thanks to “social media.”",
-      "url": "https://www.okaz.com.sa/variety/na/2259443",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لم تكن موجودة قبل سنوات .. مهن جديدة تُشعل سوق العمل بفضل « السوشيال ميديا »"
-    },
-    {
-      "headline": "Launching the first high school for talented people in advanced industries and future technologies",
-      "url": "https://www.okaz.com.sa/local/na/2259445",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T10:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إطلاق أول ثانوية للموهوبين في الصناعات المتقدمة وتقنيات المستقبل"
     },
     {
       "headline": "EDE approves Lipfendra for high cholesterol, making UAE second globally to authorise drug\n\n#WamNews\n\n\nhttps://\nwam.ae/a/c1ik0p0",
