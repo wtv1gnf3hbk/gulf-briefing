@@ -1,7 +1,309 @@
 {
-  "updated": "2026-08-01T20:33:23.259Z",
+  "updated": "2026-08-01T20:47:06.894Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Severe heatwave claims 395 lives in Austria during June",
+      "url": "https://www.wam.ae/en/details/17cpqq9-severe-heatwave-claims-395-lives-austria-during",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-01T20:34:19.470Z"
+    },
+    {
+      "headline": "UN Says Israeli Demolitions in Lebanon Deeply Concerning",
+      "url": "https://english.aawsat.com/arab-world/5302423-un-says-israeli-demolitions-lebanon-deeply-concerning",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "11 Injured in Colombia Bombing Days Before Presidential Inauguration",
+      "url": "https://english.aawsat.com/world/5302394-11-injured-colombia-bombing-days-presidential-inauguration",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel Says Killed Several Hezbollah Fighters in South Lebanon",
+      "url": "https://english.aawsat.com/arab-world/5302415-israel-says-killed-several-hezbollah-fighters-south-lebanon",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | American embassies urge their citizens to consider leaving the Middle East",
+      "url": "https://www.alriyadh.com/2200331",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | سفارات أميركية تحثّ مواطنيها على التفكير في مغادرة الشرق الأوسط"
+    },
+    {
+      "headline": "Bournemouth Sign Portugal Defender Silva from Benfica",
+      "url": "https://english.aawsat.com/sports/5302385-bournemouth-sign-portugal-defender-silva-benfica",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | King Salman and the Crown Prince offer their condolences to the President of Algeria for the victims of the passenger bus accident",
+      "url": "https://www.alriyadh.com/2200339",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الملك سلمان وولي العهد يعزيان رئيس الجزائر في ضحايا حادث انقلاب حافلة الركاب"
+    },
+    {
+      "headline": "Donkeys leading lions...a book that predicted the failures of the Hegseth House 50 years ago",
+      "url": "https://www.aljazeera.net/politics/2026/8/1/%D9%81%D9%8A-%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حمير تقود أسودا .. كتاب تنبأ بإخفاقات بيت هيغسيث قبل 50 عاما"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | WhatsApp launches a new feature for managing files and documents",
+      "url": "https://www.alriyadh.com/2200348",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | واتساب يطلق ميزة جديدة لإدارة الملفات والمستندات"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | White House uses Bad Bunny song in anti-immigration video",
+      "url": "https://www.alriyadh.com/2200365",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | البيت الأبيض يستخدم أغنية لباد باني في فيديو لقوات مكافحة الهجرة"
+    },
+    {
+      "headline": "Electronic attacks on water systems in 7 American states.. What is the relationship with Iran?",
+      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هجمات إلكترونية على أنظمة المياه في 7 ولايات أمريكية .. ما علاقة إيران ؟"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Ferran Torres wants to move to Paris Saint-Germain",
+      "url": "https://www.alriyadh.com/2200361",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | فيران توريس يرغب في الانتقال إلى باريس سان جيرمان"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Kingdom distributes (135) food baskets in Sayun District, Hadramaut",
+      "url": "https://www.alriyadh.com/2200368",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | المملكة توزّع ( 135 ) سلة غذائية في مديرية سيئون بحضرموت"
+    },
+    {
+      "headline": "US Embassies Urge Citizens to Consider Departing Middle East",
+      "url": "https://english.aawsat.com/arab-world/5302388-us-embassies-urge-citizens-consider-departing-middle-east",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Closing of nominations for the elections to the Board of Directors of the Saudi Football Association",
+      "url": "https://www.alriyadh.com/2200338",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | إغلاق باب الترشح لانتخابات مجلس إدارة الاتحاد السعودي لكرة القدم"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Restarting the Talal Maddah Theater in Abha",
+      "url": "https://www.alriyadh.com/2200354",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | إعادة تشغيل مسرح طلال مداح في أبها"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Saudi Arabia provides urgent humanitarian aid to those affected by the fire in the Hosh Al-Ziraa area in Ma’rib Governorate",
+      "url": "https://www.alriyadh.com/2200360",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | السعودية تقدم مساعدات إنسانية عاجلة لمتضرري حريق منطقة حوش الزراعة بمحافظة مأرب"
+    },
+    {
+      "headline": "Brentford Sign Sangare from Lens for Club - record Fee",
+      "url": "https://english.aawsat.com/sports/5302425-brentford-sign-sangare-lens-club-record-fee",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | 26 injured and dozens evacuated as a result of an earthquake in southern Italy",
+      "url": "https://www.alriyadh.com/2200336",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | 26 جريحا وإجلاء العشرات جراء زلزال في جنوب إيطاليا"
+    },
+    {
+      "headline": "All 10 Climbers Swept Away in Avalanche in Pakistan Have Died",
+      "url": "https://english.aawsat.com/world/5302411-all-10-climbers-swept-away-avalanche-pakistan-have-died",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Barcelona is considering signing Onahi to compensate for De Jong's absence",
+      "url": "https://www.alriyadh.com/2200363",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | برشلونة يدرس التعاقد مع أوناحي لتعويض غياب دي يونج"
+    },
+    {
+      "headline": "Chelsea Sign Brighton Striker Welbeck",
+      "url": "https://english.aawsat.com/sports/5302407-chelsea-sign-brighton-striker-welbeck",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "The situation is about to explode... Israel is on alert in anticipation of an American strike on Iran",
+      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D8%B1%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الوضع على وشك الانفجار .. إسرائيل تستنفر تحسبا لضربة أمريكية على إيران"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | “World Health”: The Ebola outbreak in the Democratic Republic of the Congo is “out of control”",
+      "url": "https://www.alriyadh.com/2200334",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | « الصحة العالمية » : تفشي إيبولا في الكونغو الديمقراطية « خرج عن السيطرة »"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | The Qatar Football Association confirms its support for Infantino",
+      "url": "https://www.alriyadh.com/2200357",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | الاتحاد القطري لكرة القدم يؤكد دعمه لإنفانتينو"
+    },
+    {
+      "headline": "Al-Riyadh newspaper | Trump: Iran faces massive inflation after the collapse of its currency",
+      "url": "https://www.alriyadh.com/2200364",
+      "source": "Alriyadh",
+      "sourceId": "gdelt_alriyadh_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T20:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "جريدة الرياض | ترامب : إيران تواجه تضخماً هائلاً بعد انهيار عملتها"
+    },
     {
       "headline": "KSrelief Distributes 135 Food Baskets to Families in Yemen's Seiyun",
       "url": "https://spa.gov.sa/en/N2645755?type=news&uuid=N2645755",
@@ -152,7 +454,7 @@
       "originalHeadline": "بعد مصرع 67 مهاجراً .. إسبانيا : حكم المحكمة فُسر خطأ"
     },
     {
-      "headline": "The UAE condemns the Iranian drone attack on the State of Kuwait",
+      "headline": "The UAE condemns the Iranian attack with drones on the State of Kuwait",
       "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxOZm9aODdaRW84Ym1pSkVmNlYxSGFCeHZTNVluYTNsRXNFbWxnckhNZDdaSndHUG1KTnhIUHB3akxGY0VzUTJDV2xzbVlSMXo1UV8ydFBfYUpZcWJOWHNSVDJLSzNiVDdKN0ZjTEZyeHhfUmZyRkJpVC1hNzU4VFBjSzdEMnpsX25qQkNOYTg3dm5YVjRPZUhsbHpXRW1PcU1LZzZSVkhaWUQtUXI4ak1yMXhmRkh1Y2VYMjlMWlJ0aGxtMnloQ3dhNlZRWUkwbjlmdlNhYVRTalhORzJ1NGo4U0E0SlhveDFYWHU2WTlDR3lPbFc5VHBsb2tFZksycnNjRHpDMEtxbkp1X01xZjkxZnJHd1dMSTlKcTNSbkxBeF9sOUdkcTA0MTJZc1IxRVRlLTMxUDl5dTJpbjZRYmN0dDdnZGZtWVZna3lfOTlkZGVoLXhsTkQ0ZURnVzhaNU5Vb1VVQ1BzWWx5QS1KcnNNc0p0Smc0NW80LWlFREo3aThSdjdjMjhWcm0yenZLT3BPeFhwWVZ3MTZNTjcwbllUcDlQYjJfZkstNTlBS2dmRDZZLXVyZjVSNmIyRFE5M2dPOFJRVmpKc2RLb1BheFRRbXNaU3ByaXA5bXg5SHZGdGZ6Q1F5UlpVZklucUNLS0w2emNZUEo5RDhQSXpBLURGS3gyTTR4TTlIaDR3ZlVka1ZvVWfSAY4EQVVfeXFMUERtZTBtWVFUbGtnZEVpWTY1OVVrOFdGRmRaVjFPdV9rUEVhbXcweVpyazd0akpxWHNodFVWLWtyQzRmR1RRTHlwczEtc0x1NnF0SDNiRVU5UDZRY1R1SUFGbkpDaWoxWkVwdGlSU2dlV3BiRS1XQi1wRGg1VklydXVGVHNuQ3F5SDRmQThBajBfLTlPOEt6eVp0Q01zeEpIT29YYVhxaTZibTZORzR0ay1lWXZFb2tZNG9KYXRpZnN4aUQ5QWY0Vmxua1MwSWdNYkdjQzF5THlVX2xUUE9xWmNZVnMyTUZNZXJBaDBkZENqTnNYUDQ4cVJvV2d5V0dfNGplMnh5TEcwb2VKZTlLMkFtZ0kySjVDdDhmUmVPX1lMc2lwdnN5QThzTDREM0kyYWdOYVotVHA4YXN2UjA0VmR5OFpndlUwTm42THpTUW1JZWg2YXFqTUdDbS1EaVh3Q0wteGNFY1B0VUpWWVFvYkxjM3F1bVVnWUJEaGpEUXZ2ckJDTTFrN29zTVl5SjZ3dlg2Ulk0Qm8wb0JEcTlkV3pMcjhPc2FXbmZlZ0x5OVhaMWpIYkRSdFdTRXlmeDBiQk9ONUU2cU5EdHI4dU9uSDhMTmZ2M2kyTWVhZERlR0ZZTExCX3B5OUZ5S0d6bld3b3kzcGx0dHRFcXkxVGZBM2p1MUZjRDl4dDAyVTdLdw?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -160,7 +462,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-01T19:03:00.000Z",
-      "originalHeadline": "الإمارات تُدين الهجوم الإيراني بطائرات مُسيّرة على دولة الكويت"
+      "originalHeadline": "الإمارات تُدين ال��جوم الإيراني بطائرات مُسيّرة على دولة الكويت"
     },
     {
       "headline": "Gold prices in Bahrain stabilize with anticipation of global ounce trends",
@@ -217,7 +519,7 @@
     {
       "headline": "Maritime Authority: An oil tanker was hit by an “unidentified projectile” off Oman",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQRGxpT0tMX3FYWF8yQ0p0R25IT1J0MTR0LVNvUHZfc1hEc3UtdGdmdGprMTUzbk9fMVFCY1A5SU53eHdHRktlVHlnNXJMSEpfdlBGay1zOUxvYm84OEVhdWt5M1o3TTlrQVlTNHh0b2ZaTEJRamxkSEhkTUdPNnhBNENybkl4dDNoV0VScnVmZEtMNEZiWnRlckpoY1U0RUFucl9BZW9tcGJpWC1URTUzcnZsTVFIT0VwOFBzckNodThqcE5FUkY3U1I4TFcwSjNEdmMzRGlzVHBTaU41U2xNRWxsTUVVVENUdk16bTBEWnF0NmJVdUFKdk5WQ3JkNDQ5TzlIQk9HT0Q2enlxZGRDal9kVjhrT0RhSnBZdC1HYm82ZHdwSVdJU1pQckJmdkpjczBYTHk2T19iQ29odkYzU2JmaWRRZnhRVkZUNmFGdmZ6aXFZb1cta0hsbFVHUkNCcXF0SWxQSl9jUW83bzNpU2EtVGFpdXJTY0dva2VQWjdMTnJJNmlLOWlnTzA3eFR2Y21US01hZDZQMzB0OXpMaThiODNoUXRmb2llUm5Gaw?oc=5",
-      "source": "الشرق للأخبار",
+      "source": "asharq.com",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -418,6 +720,17 @@
       "date": "2026-08-01T17:37:19.449Z"
     },
     {
+      "headline": "The Saudi Ministry of Interior announces the execution of the death sentence against an Egyptian who was convicted of raping and killing a woman",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTZZbE9EamEyMFIxZE5qYW1JUTFZbnMzM0k3TG9NcGtoVWhjdVNycWVRa2dibXVvcm14d3poVS1JWV9qbnN3akMxaEF0MDJTNGF6NG9qUDJIZW1xR3pRWWxNZ0FfUlhuUHdFLW5Yd255Vmw1cUNiQzNMblFQQ1NFbUYzUjBOeUpseDlKaWhyT1Y1ajZXUU5OU2pmbHdUREN3cDk5ZGNwVQ?oc=5",
+      "source": "بوابة الشروق",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T17:36:42.000Z",
+      "originalHeadline": "الداخلية السعودية تعلن تنفيذ حكم الإعدام بحق مصري أدين باغتصاب امرأة وقتلها"
+    },
+    {
       "headline": "Iraq and Türkiye sign one-year agreement to pump 750,000 barrels of oil per day via port of Ceyhan",
       "url": "https://www.wam.ae/en/details/c1ik1bo-iraq-and-türkiye-sign-one-year-agreement-pump",
       "source": "Emirates News Agency (WAM)",
@@ -450,7 +763,7 @@
     {
       "headline": "A message of support for Infantino.. Qatar welcomes FIFA’s withdrawal from its new project",
       "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOTjgwemlBVUkxM0dTMXdMY0pVVERja05uTVZYT0ZqbmQxLXFBa3RPd1QtMkM1WEpqNTh3LTFQZHlmNElYMkVqaEJKamE0eEVfdGxpS3VwR0g1LWs0a0F1czRaTFIyU2tuOGFIYzNObGUzZEw3TWluZ3Y1bHkxWVEtNkluX2o2NWZIM1JrQjBEenVmbDZlTXE1Zlo1U0RxN0REdEYzTF8yUFc2N28wQ0FXeWhZTXpNcE9IMEVHMWVRR3o4NlVxc2NhbGdYakxNajFXSWRacElybFVIaWNWSW9BV1Ffakh0WDVWQklMbVdMV3loSEFqSjhMYXltTTBfNTQyeTdGMk5Ld19VTFpldmp5dVhWNXg4UFpBV0M1djNaVk96NG1XalJRRjNfSTlSX3I0OXREOU9BcXA2aE1DS0VQNUlhZWd4WmtmeDN2UWdOVkFYQUF0Qk1ESVh5bkFhTGZHdVBMSTd0Ylp4Rzh6ZWpkX0NHR0gxLXJXZlkxSERHUkU0SUZxd09HclBhczVwMER1ZHZRbWRQLWhkVTduZHozZzA4UmE3eENMeURxcHpkcDM1TU5EZDlGLVNmMnZ4Vm52QVFwb0VxVkdZemVlemtIblk1ZFhvVGhVZWVlRGRjZUczQlpURDRra3RJT3RodEV0V21fMnFOa9IB_ANBVV95cUxNM2RhTEJrSy1YV3FFanZzX1ZNSDhTbTRDQWFNdVI0UzVJUTlUeHMzbmxEdTU3VDlELVZ5X3ZOMlFWdUpXOTNsNkJ2U2RoRDNxWXMyNGM3U1NQa2JlWGJhRVp3LXJqdERlUmlZODdaOERWMU9YMUstTC1oZmF3MFhIRWpOVkdwQXliYmtTQWg1MFBMTjNFektIUVl5c1dhTVVFTVhhVkZoZ3dNOThFYWl5UlVlQmdzMUtZUnF3WDJLM3ZwdGhQU2puVHBaU1BpM0FDdnB2Uk5wNGRLLThxNjVNYTFZb21Bd1pEMTkxd2NJdUE1NXRfM2xMdGxaek5QR3dBZDNYeDd1RHB3QnQzUWdjRk0wQkYwaVlDc2NKOF83M3g2c0Vyc3BFbFRHbGpLazk4RkM0SjZxcXNCRVNxSlh3b2dYZEwxVTVKbnY2NHdoUlZKakxOM2F6UEl4VlJKSTZGcDljRVNMUG5jUWMwUDNzWmtEMGpkclBZOGhXaDRZNTEydHhsMW5IU29reFRhWlJ4bEZwVEFDTDdqbFJZaUNrYkVhYnR2OXdrLThUVEpJNkpBR0M2T3FxVThhcnpSMXN0LUZ6SDA1WU5BUF9raXRwQ2NfMEtDbGNUNGM5ZVhHallHcXFranNnbC0yakZRZGhhZk9ZOUlCRkRqNTRs?oc=5",
-      "source": "يلاكورة",
+      "source": "yallakora.com",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -469,6 +782,17 @@
       "date": "2026-08-01T17:15:42.131Z"
     },
     {
+      "headline": "“We are waiting for our turn, we do not know when it will come”: Convicts in Saudi Arabia appeal to the BBC to avoid execution",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKODRmYWJfODRQVHFwbDg1MTRoV1Z6SHl2XzdjaVlXTDYzWWI1WkhGT3BMTXVnazZhLWJ2RVU3bXYyeTFTRnZiMml4V3NsMzYyb2JpRFNjYTRXbnlK0gFiQVVfeXFMUHVkNUNDTmcxd0lVRjhQSFNqZXF4Mk5jRkZxeXpKMjJGc3RWZEVGRV8tQXFvZHRjaXFCZWRqU2kwcmxXUnNORnRTWVdiczllekpJOVpOQkc3U3BnQi1KS0d6aFE?oc=5",
+      "source": "BBC",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-01T17:08:08.000Z",
+      "originalHeadline": "\"ننتظر دورنا، لا نعرف متى سيأتي\": محكومون في السعودية يناشدون بي بي سي لتجنب الإعدام"
+    },
+    {
       "headline": "Damascus and Amman warn Baghdad: Any attack from Iraqi territory will face a response",
       "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQUUxOMjJiUzlLRUV4RnY2WWhCSlNvWTJyZk1iNmwxWDAwVUJOWllmYzJ6a093dThhZEVVanZ4WW9nVTlCSlNtV1Y1OE5pOE43eUJTb1hyRk05ZmpTeFp6ODFtbWpCb0lNM0JuZGtVaUkxVDVPY0EzYjlVSjBYRmszUVJRcjBlUGx5My1mS1BkbnpQXzUwalY3TTBqUk5TQnRldVYtUGtPUFFiLWJ0Q0gtTzJQdWVBOHNCY1RFcGgzN3cxbTlndzQ0SGphMU9vYmM4TXNXLXg1N2RoSVZCM09OZlJTU1VaNXZNUEc4WnZYb2dxclN5UXpnS2EzdGlpY0F3d0dyOUk5UlpzQmlOYmVyakQ5UUVtUzVXTHRSQ05DMUdlXzhTX0w2bXp2dzI2VjR5MGplaUtFMnRBSERDWTItcTBLMXJjaFowdWtPcWRPeE9sV0J5aVc5YjJST3lpYjdySHlQTHM5cVpobDJPZlJUc2hDWHRRT1doRk1oYlI5SWZmWE9CNmhlYnhtMFlPVG53Vy1HbkRfNjNWNXlfQU9MQU01LWNZdy14T1VicjlHZU9qdVctZlQ5VFM2Tk92SmRWelJoeGNaUl9odVlSUUVkUUh3Zm9NNk4yVHZRcVNsQnp3YW1KcWVlOThoNHdaUXZ2dGRZc24yQjFnUUthYkJTNFBkSDZvN29MaE4xLUxKcFNvWGVjRjVwSEpoY0hUcmI2TFRXQkRMUFRDVW9uQnA5RjFNb1pKcEY1QXFNYnBHS1dwZ2RhVXfSAcsEQVVfeXFMTk1yMHJSWlZuY01aN3RETktyWlNaSUs0UjZPbUthaVhxTU5FZTlVWkVhUXI2dUotNWduSkQ1RkRDemhWclRBTjF3MHVrMVhPbTdJVUhQQmZDT29CSXVlZXN1RDVMWXBFU0o4eVZHaFgzWmdPM0psS3JVcnBHQzV2eS1TMEFkaTZDdU4tTmI2YWxnVkR6V25Ga2gzY0tUbDVrcG9nSzVWMGhlY0p6QzBBLXhuUzE1Nl9hakxHRHRBYzFSVmlzWk1JczJVWVNobkdwVG5rdUtMenZQQzh6ZkpZUXVQWnNneFllcTlUQlZJUmJ4N2F0OVVBanRBSk5pR0ZpdXNlUUUzcm1PLVZEM3ExelVGUjg0MjA3YTVsak03SncyYkJQR0w4b2ZxMXVDTkFTODhobnBacEpjZ2tybThhMzdKSjBsS2lEMVgtSkFPYVNTTE5jeTlRd2ZXYXFnbVhEeUc4QjhOYkRlbkdMMmh6czg0d0VvTEdObzUwTDZZX2hDUjVwT1J6RFh0SjZGMWlUcGZBVG4tZzlVeHBYY3ZaLUwtQ0pLVkFWcnJNbExmVGstZWVwOVptRlZYcjZGdmFuc1E4VEZzX0dYcE1VeUJBaGY4UTlUZVlTQ29qVFJ4dEpsdHpBblZOdzdVVmpSdnplc1hDZFp5SEZQU0JyQWdFdkk4N2c4Rmd5aklEV3NmeGZpYWRuWHdMbWdsT241OGJPYU80TEFMWHJFMk1oUDZ5YmUybWtUdnA0YlRaSkJXZllzT1lPcFRncWMycU0?oc=5",
       "source": "alarabiya.net",
@@ -478,17 +802,6 @@
       "language": "ar",
       "date": "2026-08-01T17:06:00.000Z",
       "originalHeadline": "دمشق وعمّان تحذران بغداد: أي هجوم من أراضي العراق سيواجه برد"
-    },
-    {
-      "headline": "“We are waiting for our turn, we do not know when it will come”: Convicts in Saudi Arabia appeal to the BBC to avoid execution",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1ZDVDQ05nMXdJVUY4UEhTamVxeDJOY0ZGcXl6SjIyRnN0VmRFRkVfLUFxb2R0Y2lxQmVkalNpMHJsV1JzTkZ0U1lXYnM5ZXpKSTlaTkJHN1NwZ0ItSktHemhR0gFiQVVfeXFMUHVkNUNDTmcxd0lVRjhQSFNqZXF4Mk5jRkZxeXpKMjJGc3RWZEVGRV8tQXFvZHRjaXFCZWRqU2kwcmxXUnNORnRTWVdiczllekpJOVpOQkc3U3BnQi1KS0d6aFE?oc=5",
-      "source": "BBC",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T17:05:52.000Z",
-      "originalHeadline": "\"ننتظر دورنا، لا نعرف متى سيأتي\": محكومون في السعودية يناشدون بي بي سي لتجنب الإعدام"
     },
     {
       "headline": "SpaceX launches 24 Starlink satellites",
@@ -503,7 +816,7 @@
     {
       "headline": "Subscription to the August release of the “Sah” product in Saudi Arabia with a return of 4.7% begins tomorrow",
       "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNY291WkxWTy1nT3p1ZWJ6NDZxWjg4R3dvQkl0VTktVjR1eU1PcFNzVDhGeUIzczZicHRVUVhCRkdHblFNNm1adU5EeFFOQWZTTnQxZWNsRzM0UWpJN194YTlJa3NrcnM5QTc4RzNWbk5SVkJzdFlBcl9XeXpyYmlFdkE4YXJrLWZ1enN5X0R4azdENW1oZzJHbzM1SF9LcHJ3YkwxMnRXM3RtX1FfWklnLS1mQ0RDN2JpNkdaazlaQ25XNTJGYjNGUUU4X2lfZlowNnUzQ0s0bk5vQmdxM0tPUEprZnZWM1VTOGVzX2VTcEF3dTBoSWhCanZnRmZlQkg4dHgtazFKY0U1Y3Z6SHU4dXNISktRV1RIcThmYTMtNEpPY2VTZG5aQ19mU0xYZENhNExaR000QmZnaTZMeFI4eDhtX013eDZZczZpdmNsTHR6VDhjVm5wWVlxMmdScmRxaWxNdjc1Vm9fM0FqYUZPSEoxa09vemRMZ0hVemllRGdMTTJWRzZRM1g3c2xnUWgwYU83T1E1VDhsS1Nyc3VSUG41QU83ZGt3bE5nbFNlZ2ZyVjNaR21McjhwSFJfZTlCTW9tMHZCOU9LSlM5NDhPYlJRaFZ5LVp4U09PTG9FcFR1c3llZmlmRnJBeWt3RFXSAe8DQVVfeXFMTWNvdVpMVk8tZ096dWViejQ2cVo4OEd3b0JJdFU5LVY0dXlNT3BTc1Q4RnlCM3M2YnB0VVFYQkZHR25RTTZtWnVORHhRTkFmU050MWVjbEczNFFqSTdfeGE5SWtza3JzOUE3OEczVm5OUlZCc3RZQXJfV3l6cmJpRXZBOGFyay1mdXpzeV9EeGs3RDVtaGcyR28zNUhfS3Byd2JMMTJ0VzN0bV9RX1pJZy0tZkNEQzdiaTZHWms5WkNuVzUyRmIzRlFFOF9pX2ZaMDZ1M0NLNG5Ob0JncTNLT1BKa2Z2VjNVUzhlc19lU3BBd3UwaEloQmp2Z0ZmZUJIOHR4LWsxSmNFNWN2ekh1OHVzSEpLUVdUSHE4ZmEzLTRKT2NlU2RuWkNfZlNMWGRDYTRMWkdNNEJmZ2k2THhSOHg4bV9Nd3g2WXM2aXZjbEx0elQ4Y1ZucFlZcTJnUnJkcWlsTXY3NVZvXzNBamFGT0hKMWtPb3pkTGdIVXppZURnTE0yVkc2UTNYN3NsZ1FoMGFPN09RNVQ4bEtTcnN1UlBuNUFPN2Rrd2xOZ2xTZWdmclYzWkdtTHI4cEhSX2U5Qk1vbTB2QjlPS0pTOTQ4T2JSUWhWeS1aeFNPT0xvRXBUdXN5ZWZpZkZyQXlrd0RV?oc=5",
-      "source": "alarabiya.net",
+      "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -655,7 +968,7 @@
       "date": "2026-08-01T16:09:44.000Z"
     },
     {
-      "headline": "The UAE is the second country to adopt “Lipfendra” to treat high cholesterol",
+      "headline": "The UAE is the second country to adopt \"Lipfendra\" to treat high cholesterol",
       "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPSHRQSmZTVXdmekpHY2ctOEJXODdEN1ZMYTFhS3dSTDUyb1M0TWRZVU1OZVBIOE9ZVGxJNkR2ZHl2dGJDS0xlVjAwMWVGLVFUME1iR19pUk9CeExsTXYwM05xUGxHb2pLTGZ5RGJLVGpFcWpnb0h2Z0s5eG5xVnpBSWhydVhFNHRFaTNRYXA1NDZUN0dyWUo2SWpoYkhUU3pmMVpNQ3J5WnA3OGpvdGU0eG94VGotdEJ1WTFaNklsNzEyV0JGVWtuOFVlMlY3YTZEX0pzQi1sZ3dBS2J3OUdHbGlEdXBUZEZjamktUFQ3LV9NdzJTUVJsQmdLYXozcXdlOVNOR2tCMnMyenItcW5EOGtiX2c3ejRoNzNPZ2VOU0dJSkl6U0tOMjdlZXdEZk1RTlhIeTg1YXNqUlgzU2IxM3A0VEFPNjJBSkNaQmR4Q0RUVWJINk11dHFSSXN3R2xndnFZRGN3NGJrZW40aFZQc25DUHNNdGRLbS00SEtuLV95VTl5UEpuVFlwZTM4YUZtT1N3QTFKeTJuNnFTc3dnU3hGRTd3RGRYZ3FDT0tSeEpuUkN2bVZnNDZIUjRxLVU4SjJZZUcyTldPRmZIdkpqLXhHcEM0T2JrWHQ5U0Z0aEd5enJBemdLSDFJLXlQa3loMUdoY3U2ZVNIejc1bTRfUnVjSFN2NGZKZ0ZLeTlFeV81M09MNWpiYXJvZFN2TGs2ZmoyWFlrNFVRbjhlNFhsVHllT0FnMVhHZjhzWG5fRmx3ZmhBRmtoaWhTTDBmcXcxN0ZpSHpxN1FRazROajRlc015NHF0Mlpo?oc=5",
       "source": "France 24",
       "sourceId": "google_news_gulf_arabic",
@@ -663,7 +976,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-01T16:07:08.000Z",
-      "originalHeadline": "الإمارات ثاني دولة تعتمد \"ليبفندرا\" لعلاج ا��تفاع الكوليسترول"
+      "originalHeadline": "الإمارات ثاني دولة تعتمد \"ليبفندرا\" لعلاج ارتفاع الكوليسترول"
     },
     {
       "headline": "Consortium led by Amanda Staveley to buy Gold family's stakes in West Ham United - Reuters",
@@ -1236,7 +1549,7 @@
     {
       "headline": "Egypt renews its support for the unity of Yemen and confirms continued coordination with the legitimate government",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQdG5sWE11TVYxdFc4LVhGTERsUVdlODZyV0szNGlDcHZIVnRwLUd6b2Q0OHpIWDZPMDd6NS1tRnJ6RXJibE9uLVk0Y1FwZ185WmdVaVJrU05zcWZmeTFsOEpGUXNpdExUUnZweURNT2ZITUQ0VnJZOGExT1ZnOTFEYUFCbl9VTFE2bGlpdENMeUVqTVZDUmRFWVFfekxDTTBNV1JGU2VPWHBoZlBtM1JqVThwTjIwTks0Z2pqREczdEY4dVlrNU5Nd3Y2Mk1xUGxXZU9oeVI1dGpPajhMQldEaTBuUXR4NkpaTmoxSnVGV0xlVDJ2U3o2S1pFS05JV2MzZmJPYXF4VU1BWEFOTWowRjZIUk01MTJiaWZkMXZUa0JFcmtQa1JlRG5iWTdZa3hiTUhFM0JrX2VlcGwzM3c?oc=5",
-      "source": "nile.eg",
+      "source": "قناة النيل للأخبار",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -2432,17 +2745,6 @@
       "originalHeadline": "السعودية والكويت تؤكدان أهمية التنسيق الدبلوماسي لحماية حرية الملاحة"
     },
     {
-      "headline": "Kuwait condemns in the strongest terms the continued Iranian aggression on its territory",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQi1jVm9nNXpQZVF5RTZrUGRUdmR0aFM0cVgxMVNXLXhzc3RlWHJPeGxyam1DNGtTczlObUp6QmUtRmpFRzBn?oc=5",
-      "source": "صدى البلد",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T11:38:00.000Z",
-      "originalHeadline": "الكويت تدين بأشد العبارات استمرار العدوان الإيراني على أراضيها"
-    },
-    {
       "headline": "His Royal Highness Minister of Foreign Affairs Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n holds a phone call with His Excellency the Minister of Foreign Affairs of the Republic of Turkey, Mr. Hakan Fidan.",
       "url": "https://x.com/KSAMOFA/status/2083517373386985893",
       "source": "Saudi MFA",
@@ -2451,16 +2753,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-08-01T11:37:06.000Z"
-    },
-    {
-      "headline": "Foreign Minister, Kuwaiti Counterpart Stress Regional Stability, Maritime Safety",
-      "url": "https://spa.gov.sa/en/N2645576?type=news&uuid=N2645576",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-01T11:32:46.000Z"
     },
     {
       "headline": "The Minister of Foreign Affairs and his Kuwaiti counterpart discuss by phone the developments taking place in the region and support for diplomatic efforts that contribute to de-escalation and the protection of freedom of navigation.",
@@ -2504,48 +2796,6 @@
       "originalHeadline": "The Historic Al Ula Neighborhood in Hail.. Urban Testimonies Revive the Memory of the Place for More Than 150 Years.\n\nhttps://\nspa.gov.sa/N2645569\n#واس"
     },
     {
-      "headline": "King Salman Royal Reserve Highlights Environmental Role of Desert Arta Plant",
-      "url": "https://spa.gov.sa/en/N2645575?type=news&uuid=N2645575",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-01T11:26:24.000Z"
-    },
-    {
-      "headline": "Saudi-American strikes against militia targets in Iraq linked to the attacks",
-      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQYk1fZ2F1M19uX1A1Nkd2VEZFSEFKREkxbDdvcktJazRYcWJna1ZDTjlKT2NkdXpsamh1WEZxM1BseERWMjd0QmNJS2wyMzk2WDJjM3VvNm9jdXBhY0FfR2dNYjR0d0ZUN2wtYVdiSXhtMVRwYVpyVkhZaTVJNHZfcUJFcWhxLTFQdjh4S3c0dFhJUmdlSjcwcDFkYWpKWFowQWJxSlNIOUFZcnFFWGpHSXVOTmFhLUszM0k2MV9Hb2htQ09VSUMyQldvUlU0b1I4b2JnQTkyQ2FreDFndzNpbXpHOThYdEdLdUZoOUh3WTBuU0RqT01xQWdfUkotVTlfeXhJWUVfNUptcTZPOEdnUzJIUXVrWUktN21DLUtjazJkSkZiUFVnZFhqSVFPVkhYdWZwdG9SOWV4YlhDbDlDdnVuUXJHOTBHVXhWb2FOeFZLYlFpel9xSlgtV1VjUWZPVTRlWWlSSXNJbE1uVDRMc29RRnFKdTZFVW52QWswQk5FRklVdER0SGlLb0I5M2pqMnpvekwzZFBqQWtWb3lZZl80X2Q2akVaYnRmN3puRlNtaEszeWl3b0dpREo4dVB3RHJnTHlwUjhkNFVCODhnTklYek1BdEhaMUFhakRIU3NVOTRoc0lNQ2ZDMGxZcnBhU3ZrTC04TFRGaHpvWnlMQ1RhRl9sRklhRUtCVzhlUENjcGtVLVVjS1pCNU5kLVNEeHJMSWdnNWhVTHNtVDBvSFAwZUNZYnRFWUpkUk10a2V1dDd0NjZ5eFJrZ0JLZ0VrSHZFNXFFcWpCUnFqM2dLaTZMdFVFbjVYSjE3aG9yUU1zM0pUSGNjVkFWUUpxNWtkeGtSQ3JYUU5vcDVUNmlWZXduQ09YazY4Vjg1RkxTTGRkZDNLWjBsMUllSUpDYXdK?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T11:26:01.000Z",
-      "originalHeadline": "ضربات سعودية - أميركية ضد أهداف لميليشيا في العراق مرتبطة بالاعتداءات"
-    },
-    {
-      "headline": "Unprecedented revenues for Saudi telecom companies",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQSTNTZUpQTEM4alpnaWNIMm1UWVlhaEU5WDBCeEpNaXFKRUt6ejk5VUZiWUxxWkQwMFlveS1DZGpjZUNERFpDZmRxOHJEXzktVVBRVXhZNFdBMGREei1tcHBVVVM3U3g4aUdTVHlQd1l6UnU5V3pxc1hqNU5fX19xWmpSeEdOV3pXaVpFQ2JiWVlHR2hwbWpJVDBlazVjM3lLcC1JZHYtZ2JTNzZWUW5pQmk3X3RuVlplbTJNUFplZHdtLUpRWktXeWlNaDlFQ1FYY3U5Z2dXSE1uSVA5SFI4NjVXVWUtTl9jeEdJRFd6MjVrWHBZTHo4ek5WbEFYUlc1Q3pzNlAyX0FKVHhUeTE0STJodDJTb1lwQTNXRTM5eGlyWGJ0UC1xLWlCT21vWHMyUEVxZGs3Q1ZLa3BkcFJRbTZjNXB4Ti05My0xdnBwdmhxdENSNVVwRHk2LVJTY2RuTEx0VV9SOGxKY194SlV6NkNscUtHcGJzbXdQUVEyME5vdGl2N0NtaFhEa09XSDZHZDVkbUVmSWs2YVJyZGdEaG0yR0VmSTBvVExGbzRxUTAwSE8waUV6NzVLaVZpYlpz?oc=5",
-      "source": "الشرق الأوسط",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T11:25:17.000Z",
-      "originalHeadline": "إيرادات غير مسبوقة لشركات الاتصالات السعودية"
-    },
-    {
-      "headline": "Foreign Minister Discusses Regional Developments with Turkish Counterpart",
-      "url": "https://spa.gov.sa/en/N2645574?type=news&uuid=N2645574",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-01T11:25:04.000Z"
-    },
-    {
       "headline": "The Foreign Minister and his Turkish counterpart discuss regional developments over the phone and affirm the importance of strengthening and supporting diplomatic efforts to de-escalate and contain the crisis in the region.",
       "url": "https://x.com/alekhbariyatv/status/2083513826390016121",
       "source": "Al Ekhbariya TV",
@@ -2554,27 +2804,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-08-01T11:23:00.000Z"
-    },
-    {
-      "headline": "Live coverage - Iranian attacks target Kuwait and oil tankers near Oman",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSDdWQmJXQlg4R25ONl9mSnc5ZjhpR0JCYXdkc2xwQ2lGOUZTM2VrVFdUUkRoTGd0Qk5nQnJLZDlkWWhNLXdwcDNyRVdhazBNaWsySDZXMjNHY0x3amc?oc=5",
-      "source": "Iran International",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T11:22:27.000Z",
-      "originalHeadline": "تغطية مباشرة - هجمات إيرانية تستهدف الكويت وناقلات نفط قرب عمان"
-    },
-    {
-      "headline": "UAE Youth Kickboxing Championship opens with strong participation",
-      "url": "https://www.wam.ae/en/details/c1ik0ur-uae-youth-kickboxing-championship-opens-with",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-01T11:21:50.227Z"
     },
     {
       "headline": "His Highness the Foreign Minister and the Turkish Foreign Minister discuss regional developments over the phone, and affirm the importance of enhancing and supporting diplomatic efforts aimed at de-escalation and containing the crisis in the region.\n\nhttps://\nspa.gov.sa/N2645565\n",
@@ -2586,113 +2815,6 @@
       "language": "ar",
       "date": "2026-08-01T11:18:38.000Z",
       "originalHeadline": "His Highness the Foreign Minister and the Turkish Foreign Minister discuss regional developments over the phone, and affirm the importance of enhancing and supporting diplomatic efforts aimed at de-escalation and containing the crisis in the region.\n\nhttps://\nspa.gov.sa/N2645565\n"
-    },
-    {
-      "headline": "Kuwait announces that it has been attacked by Iranian drones",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/08/01/kuwait-under-drone-attack-armed-forces-say",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الكويت تعلن تعرضها لهجوم إيراني بطائرات مسيرة"
-    },
-    {
-      "headline": "Fed official: Selling bonds threatens the bank’s credibility in combating inflation",
-      "url": "https://www.aljazeera.net/ebusiness/2026/8/1/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A-%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D9%8A%D9%87%D8%AF%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مسؤول في الفدرالي : بيع السندات يهدد مصداقية البنك بمكافحة التضخم"
-    },
-    {
-      "headline": "The eighth of its kind.. An F-35 fighter jet crashed near the Miramar Air Base in California",
-      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الثامنة من نوعها .. تحطم مقاتلة إف - 35 قرب قاعدة ميرامار في كاليفورنيا"
-    },
-    {
-      "headline": "3 martyrs in Gaza and an Israeli raid destroys a medicine warehouse in Al-Aqsa Martyrs Hospital",
-      "url": "https://www.aljazeera.net/news/2026/8/1/3-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A8%D8%BA%D8%B2%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AF%D9%85%D8%B1",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "3 شهداء بغزة وغارة إسرائيلية تدمر مستودع أدوية في مستشفى شهداء الأقصى"
-    },
-    {
-      "headline": "From the yellow line to assassinations...Israel's cards to circumvent the understandings",
-      "url": "https://www.aljazeera.net/politics/2026/8/1/%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%B7-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D8%A7%D8%AA-%D8%A3%D9%88%D8%B1%D8%A7%D9%82",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "من الخط الأصفر إلى الاغتيالات .. أوراق إسرائيل للالتفاف على التفاهمات"
-    },
-    {
-      "headline": "Al-Hasakah wheat production is approaching 1. 2 million tons",
-      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%85%D8%AD-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-1-2-%D9%85%D9%84%D9%8A%D9%88%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "إنتاج الحسكة من القمح يقترب من 1 . 2 مليون طن"
-    },
-    {
-      "headline": "Bypassing naval bases.. Will Washington strike Iran’s bridges and electricity again?",
-      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تجاوز القواعد البحرية .. هل تضرب واشنطن جسور وكهرباء إيران مجددا ؟"
-    },
-    {
-      "headline": "The 6 most dangerous Israeli tools to strangle Jerusalem and re-engineer its geography",
-      "url": "https://www.aljazeera.net/politics/2026/8/1/%D8%A3%D8%AE%D8%B7%D8%B1-6-%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D9%82%D8%AF%D8%B3",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أخطر 6 أدوات إسرائيلية لخنق القدس وإعادة هندسة جغرافيتها"
-    },
-    {
-      "headline": "Google Rolls Back New Satellite Image AI Tool after Backlash",
-      "url": "https://english.aawsat.com/technology/5302250-google-rolls-back-new-satellite-image-ai-tool-after-backlash",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:15:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Kuwaiti Ministry of Defense: Hostile Drones Destroyed Inside Kuwaiti Airspace\n#QNA #Kuwait\n\nhttps://\nbit.ly/4hILKKv",
@@ -2713,26 +2835,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-08-01T11:08:16.000Z"
-    },
-    {
-      "headline": "Trump stands to profit off US policy announcements by selling fast access to his social media posts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-01T11:06:00.000Z"
-    },
-    {
-      "headline": "Dhofar Municipality temporarily closes food outlet after preliminary inspection",
-      "url": "https://timesofoman.com//article/175122-dhofar-municipality-temporarily-closes-food-outlet-after-preliminary-inspection",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-01T11:02:29.000Z"
     },
     {
       "headline": "For updates on Abu Dhabi's health sector, visit:",
@@ -2773,95 +2875,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-01T11:01:03.000Z"
-    },
-    {
-      "headline": "UKMTO Reports Two Tanker Incidents Off Oman",
-      "url": "https://english.aawsat.com/gulf/5302260-ukmto-reports-two-tanker-incidents-oman",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Sources to Asharq Al - Awsat : Gaza Understandings Likely to Overcome Israeli , Islamic Jihad Objections",
-      "url": "https://english.aawsat.com/arab-world/5302235-sources-asharq-al-awsat-gaza-understandings-likely-overcome-israeli-islamic",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Iraq Government Admits Difficulty Paying Salaries on Time",
-      "url": "https://english.aawsat.com/arab-world/5302239-iraq%E2%80%99s-government-admits-difficulty-paying-salaries-time",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Kuwait Says it Destroyed Hostile Drones , Iranian Attack Targeted Vital Facilities",
-      "url": "https://english.aawsat.com/gulf/5302259-kuwait-says-it-destroyed-hostile-drones-iranian-attack-targeted-vital-facilities",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Mystery Over Who Targeted Egypt Damietta Port Raises Questions",
-      "url": "https://english.aawsat.com/features/5302246-mystery-over-who-targeted-egypt%E2%80%99s-damietta-port-raises-questions",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Crude Heads to Israel for First Time in Nearly 3 Years",
-      "url": "https://english.aawsat.com/world/5302226-us-crude-heads-israel-first-time-nearly-3-years",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi - Backed Projects Boost Reconstruction , Services in Yemen Aden",
-      "url": "https://english.aawsat.com/gulf/5302238-saudi-backed-projects-boost-reconstruction-services-yemens-aden",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Abdullah Yahya Al - Mouallimi | The Middle East",
-      "url": "https://english.aawsat.com/home/writer/Abdallah%20Yahya%20Al-Mouallimi",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T11:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "Abdallah Yahya Al - Mouallimi | الشرق الأوسط"
     },
     {
       "headline": "Member of the Presidential Leadership Council – Governor of Hadhramaut Province #Hadhramaut Salem Al-Khanbashi announces the statement of the Security Committee regarding the results of the investigations into the assassination case of journalist Muhammad Aydah, correspondent for",
