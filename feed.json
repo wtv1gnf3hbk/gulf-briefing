@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-02T07:33:14.363Z",
+  "updated": "2026-08-02T07:48:13.331Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Donald Trump - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-02T07:42:11.000Z"
+    },
+    {
+      "headline": "Washington State Declares Emergency as Wildfires Scorch 250,000 Acres and Force Evacuations",
+      "url": "https://spa.gov.sa/en/N2645873?type=news&uuid=N2645873",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-02T07:38:47.000Z"
+    },
+    {
+      "headline": "Nadhira Al Harthy's body brought back to Oman",
+      "url": "https://timesofoman.com//article/175147-nadhira-al-harthys-body-brought-back-to-oman",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-08-02T07:36:03.000Z"
+    },
     {
       "headline": "U.S. President Suspends Strikes on Iran Pending Swift Agreement",
       "url": "https://spa.gov.sa/en/N2645863?type=news&uuid=N2645863",
@@ -147,6 +177,28 @@
       "date": "2026-08-02T06:49:31.953Z"
     },
     {
+      "headline": "Five of Cuba 15 Provinces Without Power as Grid Fails Again",
+      "url": "https://english.aawsat.com/world/5302531-five-cubas-15-provinces-without-power-grid-fails-again",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Begins Pre - Planned Withdrawal from Iraq Kurdistan Region",
+      "url": "https://english.aawsat.com/arab-world/5302525-us-begins-%E2%80%98pre-planned%E2%80%99-withdrawal-iraq%E2%80%99s-kurdistan-region",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "The President of the Emirates and the Ukrainian President discuss, during a phone call, strengthening cooperation relations between the two countries",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW16dmltUzM0NXVWNERuWWltUEptbVBQdmg5ZjVHRDczRGlOWXpkd0pVVk5KYTZ0ejdRMEdBTWctZFhhZzc1WlU3YkRrY1hlb1RNY0l3elF5SHpCX2V2eVhNZVdDUE9hNTkyeXFfLUc0S3BEVm5TcjlMYjFGOVhXTzJCX29zcGhXM2FYdDV3cEEyeFpkeWFhclAwU29GdFE3TnVxTTVFWQ?oc=5",
       "source": "بوابة الشروق",
@@ -272,7 +324,7 @@
       "originalHeadline": "ارتفاع ملكية مساهم في \"المعدات\" ببورصة الكويت"
     },
     {
-      "headline": "Conceive aims to expand into the UAE and Saudi Arabia within two years",
+      "headline": "\"Conceive\" aims to expand into the UAE and Saudi Arabia within two years",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82cWVDSmlvZll4UlF0WWlaVThiS3NUWnViUjZDV0h2M2lHdUUyQU9mNl9JNFpSRUJHbnctVTg3VlVXZGFndHU2YTRmX0I2YkFBZjhxRXZvNksxSnM?oc=5",
       "source": "جريدة البورصة",
       "sourceId": "google_news_gulf_arabic",
@@ -280,7 +332,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-02T05:48:45.000Z",
-      "originalHeadline": "\"كونسيف\" تستهدف التوسع ف�� الإمارات والسعودية خلال عامين"
+      "originalHeadline": "\"كونسيف\" تستهدف التو��ع في الإمارات والسعودية خلال عامين"
     },
     {
       "headline": "Saudi Arabia’s influence on Trump’s cancellation of strong strikes against Iran...an analyst explains",
@@ -411,7 +463,7 @@
     {
       "headline": "Gold in Qatar moves limitedly as global markets continue to be monitored",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQRUFZaVBoX2MtX1pCVERRSzZjaXhDT1Azd0RuaVVPbHFTRkdPV1JaMWlBZHVYdTFVRVZ0SHR1cGdmM0d6RVBqTW13TXhCZFEzZGFOUDdHVVNnODJCN2xlS1lnc0IzVU5yaFNKVEszVERxUGdpdkczRkJGaTJIUnhmY0RBTXlSZncycVQzRFduZC1SLXkxV1JHSXZiQ1NyYkpOZ0VpYnZERW9tai1UV3NIMTZlN1BuYy12VkpIbm9qaHdDRVdNT25pamRCWGFWcTdGTS1YN2FlR0xsVWNyZWNaLVdxOFZnTFhuRXRVWm9OYUpNQ09NWUlDZ2Q2UTFfMmJXa1JFVkM5Z1dWOEVyNmg2bWMyMjdmdHMwdnI1RDZpcll4cDJkLUx5NXdEWWZJVm1FSm5aMGhDUTlnWDJ5bHRpVmVOVHBBTzhGTFU2QkRFRnR1c2VvYmFxOUM1UjUzMXl0S3FLS0NTRjhJY0pYNTlOdnNIaEtwRGk0UVBJOTAyTThLdWl2NVJTdWMxOXMxRWJTM21IR2NxSW5YRU9PWGJBM2xUbXY0S1FMbW1CbkV0dXpVX1FzZk5nNGpkMlQ4dzFKOWlRdWVSQksxazI0RnNnSnZtY1LSAc8DQVVfeXFMTXpseEhPOU9tR2l5Q0FRTFN1WmlDXzRTYlFVYXc0TmNmM2hpSjZaU0Z3QkdIeWVZWnFoZFN4OS05ZThOeUFiYWl3STloNU9mdFhjZW9meWVHYzBPVHZROS1iTHRnQm5sV1J4aE8taWtBX19CdjRjM1FjejU2RDlpVE9jV3RFdGpZVFJBaGFfZUI3TzdjOTNFMlBsRmFVTVBYdHQxbEVCNnlCVkc5MnpHVkR5ZjVtV1htYUlJVjVucm5jMEhsaGhvTXpTeHY3Z2didXhNbFpoNFhnRGQxRVgwT3g1ZlZNdUdYWFJ1WklzT045RG0xWlYxSGtwd09yYW5fdDRoNXoyYXdFVWdKLVpGUVpENk5OZ3hpWWdsX0xKYXJzRlZFTXdBcFFINnlMdXlDczdHVTVMUEViUXpPRnp0cEtjZFFNNDNhbUJtajBGZ1RzRFVVNVBjQ2hFVV9rOUdNOGxGWEVvVlBzQThvZ2hTVnU1WHBYdnRVNl8xZFpwYnVHb1lOQWNUUDdNLXZPWjQ0clBIZVZSRUlSU3MzNXpUbW01blptYTJiOGsxT1BTVHVKWUlscnVrUEwtdzlhTTBrcjJsTklyaW90N1pyMzZfSQ?oc=5",
-      "source": "youm7.com",
+      "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -656,7 +708,7 @@
     {
       "headline": "The UAE stands in solidarity with South Africa for the victims of a passenger bus accident",
       "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPS3VpTkRKUDFybTlQT1dtVnVVVEJZU3pfNFBqTE5LUXFxTlg4aFVad2xNQVY4VzZJbDl6OVhKOTVaS2gyRnkyVTBuZTk3WW1mUmJBOWhJUGhiN3phR0Yyd1lIbE9MWVFTM082Vk56VlVZR3hrcHlxZlVnY2E5TWtQUjRRakRObnFQa1phQndKcGxQUnk3aWNucm9zYkdpa1Iza3JJbWhZOUNnakpsNXAybmRROUVfUVFYbHdUblREX1p0UG5sUkY1d19jQk9wakVpMFRvZlpJQUttaGt4NExpeTNLYVlSWmk0N1Z1QzdtTU43V0FOV1huWlNTc1dvak50UWFXdjRMbGw0NDlxbnRjTTgyREVlaHRqZ2E0SGxuVHkzRFVCZjNFLXhxZVY1emZNU1pFQUkySmpNajJTaG5sSTA4eEU3VXZmYlBMclIySG5DZ29MTTlrZFFtNmc3ZC15OUs4a294N21VWmJxaXQzT21lNEIwSmZTWXA1RnZ0NG5uT09ZbDVqb1k1MGVoTEIyQ1lZeEhVZzMtTmVIRF9zN0xJM1FXdXNUR1EwMXVLR3ZaVlFZSVVZd0JnWW0yXy14LTJYNzFhUjZfSEFG0gHHA0FVX3lxTFBRUnRtbm56SXh0bWpqOXBiVHgyWGg5bWZEdlN3SlFpd0REeV9KY0ZjLXNFSzYwcjB3SnhoOURWaTc2LUNTVzNzWUJsdFZxZXJxa1UyNGJyam9vNm9IRDVhbE5DNWwzb2dzSkhzUkZlWFlGc1VsNFNiV0gzNFJKa3FBVkl1Ul9TTTdxSzlObjdRclowWFdYX2J4UVZkY2F1a0EyamM5V0Y4dm5vTTQ1Q1ZrYnYzRll5Y0NCbjQycTN5QTNUZV9VRG9QU2NoUDRtZkc5RjRSTGJCaFRoWUNzR1oyWjlxTnVSMTVqdFcxTWtQbmFkWEpIdzd3U3NQRGZtNkE0clptUWhNR3JreHZJSnd3YmJOMEhOUGFsMkRlZ0UwS1lIVnlUdVBmZy1BMjdXNTIzRkxidW81dkN3bVM2cHFUMWpSdEdzTjJxTS1tZ05Vemg1X2dSSXIzeEltY0cwNm1KNEZocU04RllyS2RIbzQ2MXdKMmROYlhPMy1lTDZEQ1lBcFphOC1ITlNEYWJVY056Y1d0VklqWjZmVy02WkhXbXdQS1M2UUh6UTZPam9BVGJOcU9MMTktZU9zZGxQRWdrcDRBYjNJ?oc=5",
-      "source": "youm7.com",
+      "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -667,7 +719,7 @@
     {
       "headline": "Stability of gold prices in the UAE while following developments in global markets",
       "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOdnJVM0w3eDFNQkEtQnlsaURMZ3dEbW8zQUFjaFFBRjYyZXlNNXF3aWxndGhyaldrV0h1b3pjMHF3TGM1c3JyQ1J4S2loZ1VZaUJrV2o0dGNBMzVEbFl5S3o1bXZldlpuYzVvX1pTUndFNFhCMGlNS0VlYU8tbVJjVlZOVFdFN2F3U2EzOWx1VndaRm01V2t5cC04MzZqenk0YW1SWTUwMnphb1ZLN1kwNnRnSDJtM0l5Q3VOeUpKTS1Fdm1fRXJlMEZkTVAxNl95bFNJQTJDUkJMaW1LUlEyNDV3aDh2X1F4Q0RrX1pJUlo4Y2V3MlNMQWU0Qmx5RDRMRjNWczZfTXFIaGdobFpHSTY5Y1I5elNObldqdWlqUWcwTjZpMVByb19hSXBnTTNTbG4tT1VnYnVuamIwbDRRNE5MaHBvT1RsNjNyY3FZMUZ2Mk9uMkJNZ19DaTBKZnVsNkkwNlpaVnB2YUsxWXUwZlhZeGNMMXhLVS13cVZyc3hZY2h1aTlabWtyYU1hMFZrOTRaRW5HTG5Oa3hZWWxiY0t2Z1VROVpUMEJHMVNXeFdEQXFHeWF5ZmUxc1FrZUdXVnlPQVZzeXZGWHh2MDdGR3c4cDZMVWFtWGVuNHUwOGFHVkZBcUxHOU5Vd0pvNThBbGpWdjJhaFA1TEFPR3hFeGYzek43WXpLYjcwUHUyU3hnTm5GVzJUbGVIeXE0NmlXRTRibNIBnwRBVV95cUxOT292aGtTamRpZTZhcUx3RHdtZUVXTUZiVkZkZGVyeENTa2l0cURnbmQ4ZjdwYUNvZmFsYzU5N0t4SXY0NEUxLThVa2VWQWMzR3hUMHRlbzBEaHNfSzdkb2xMdHFmN1JXSi16d3dobHZfbkY2ZXZnQzFGZzRlQjJKaVdEX1IwNHRmaVpzQjJJQzJyY3poUlhWUkM3VUZrX3VuWk1STWp6SWFOcldVRm1UejMybzRBcXJwd2dBT0MtRmxha0gxb2g0Zm16d2ZENHNTYTE0ZlRVdXlmR1ZRWi04U0V5cTdNSG1WM2RwZk1qcTZtU0xzcDQzSlFlaHRxVU4zVjBmaWxIVzhBSlhlcU5TNzhxRGlfWXdvbjlYSmFiMDJHOWd1X0NvdlR1bFAtbnlwTGUyeTZsWGZ2R2F2eVZiaGJNRjJOSXlVOFdEcG04cElaRVljOHZQVkhwa04zQWZlRV9Ea2lBdDVQOEx5UFYxZHpMSmVuSXdkZG43YmgzQzU4UXJVXzBoMGZ5VW1MU2xJNm5mZDBzQTZlT3RCeHIta3RQZ2ZBUkt3TmZJMmxyaTg2RUNCcmRNTEJIVFRMamx2VHU3RHY3R19EcWxTRkJFVjBYTWtsLURpRDYxQk5GbUI1NnlqZW0wWmpjRVJUMFA2ZlVlbS1XMmxQUHJ1TzV2X1Z5a2tENkxES2xTSncwYjNMbTl4eTY4QWlqRk5Xb1k?oc=5",
-      "source": "youm7.com",
+      "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -1110,7 +1162,7 @@
       "date": "2026-08-01T22:34:59.000Z"
     },
     {
-      "headline": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
+      "headline": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2618,7 +2670,7 @@
       "originalHeadline": "الإمارات ثاني دولة تعتمد \"ليبفندرا\" لعلاج ارتفاع الكوليسترول"
     },
     {
-      "headline": "Consortium led by Amanda Staveley to buy Gold family's stakes in West Ham United - reuters.com",
+      "headline": "Consortium led by Amanda Staveley to buy Gold family's stakes in West Ham United - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1BZck5EVWxaa0x0QzZpLVp5aXpFbVpiVmtLdHRNNjNLcjc2NU95MlFRLXdDRWdia3g4VmJYdGtyWjhsNjVUTWptaWRmRFViOVAyaHdyamFxbUlIOXd0ZzVNV0pPWl92bmhuNURpWTFoYVFCclNFa3ZodVJTbjRpWWFKbVBvNW54MWtpVVRzdGlVOERmR29nS1ZYOXE5bVJCaGpaVHpLY3JVbHdNQUNfNXpjeGtfdHM?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2628,7 +2680,7 @@
       "date": "2026-08-01T16:07:05.000Z"
     },
     {
-      "headline": "Heart Of Staveley - reuters.com",
+      "headline": "Heart Of Staveley - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84SjdDOHV5T3VMWmF1Y1o3WFVwUnhkVDZyTF9OWTRpR0dwdWVKQVZFbktxVFZib3AyZ1NsYnl0RmxaNXBuSERqdFRfSWR3eW0yOFl0MnVaY1lYR2hGUXFZ?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2690,64 +2742,6 @@
       "language": "en",
       "date": "2026-08-01T16:00:00.000Z",
       "tier": "gdelt"
-    },
-    {
-      "headline": "Southern Lebanon First Pilot Zone : The Army Is Back , Hezbollah Is Not",
-      "url": "https://english.aawsat.com/arab-world/5302335-southern-lebanons-first-pilot-zone-army-back-hezbollah-not",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Production Resumes at Iraq Refinery after Fire",
-      "url": "https://english.aawsat.com/arab-world/5302365-production-resumes-iraq-refinery-after-fire",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | A total solar eclipse and Perseid meteors are the most prominent astronomical phenomena of August",
-      "url": "https://www.alriyadh.com/2200320",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | كسوف شمسي كلي وشهب البرشاويات يتصدران أبرز ظواهر أغسطس الفلكية"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Customs ports recorded 1,210 seizure cases within a week",
-      "url": "https://www.alriyadh.com/2200326",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | المنافذ الجمركية تسجل 1210 حالات ضبط خلال أسبوع"
-    },
-    {
-      "headline": "Al-Riyadh newspaper | Aftershocks hit the Naples region in southern Italy after the strongest earthquake in decades",
-      "url": "https://www.alriyadh.com/2200322",
-      "source": "Alriyadh",
-      "sourceId": "gdelt_alriyadh_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-01T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "جريدة الرياض | هزات ارتدادية تضرب منطقة نابولي جنوب إيطاليا بعد أقوى زلزال منذ عقود"
     },
     {
       "headline": "UAE Ambassador presents credentials to President of Ukraine\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1ik138",
