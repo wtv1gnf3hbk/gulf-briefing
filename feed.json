@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-03T06:33:29.189Z",
+  "updated": "2026-08-03T06:48:20.596Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "NCM forecasts weather from Monday to Friday",
+      "url": "https://www.wam.ae/en/details/c1jqvo3-ncm-forecasts-weather-from-monday-friday",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-03T06:41:50.398Z"
+    },
+    {
+      "headline": "The Qatar Stock Exchange reveals the most companies practicing brokerage activity during July",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPbkRLNEZzM2RVTW1KSWRTbVFNWkd1V0lPTEpaRHlVVUU5UGJTdmtvQVoya1BXdmxJMjFPOHBFUERmYjdiN2IwUnRRTFBEUHpVVFZLNDk0WHlNdldsZ1pQVTFiQzZOcV9adXZHVDYwWWc1UnpBay1SOFdta2ppdGR3QXdfS3pxZVVfdmZtWDlmdkdtdGQtUGFmd1lrVFlvQnhMUXNLTFk0RXdPZkRDSmdKX00yeVVkMEhiSXQ5eFRibl80ck5pY0JxNDZ6Z2FSRUFxQ0ZjVUJuaE5Ra1h6N0czUjd6VGpSbG1GYTZIaXJEWkVyQXVpRjNCeC04bW5IODlMZ3NYMnJ0QTBFVXZ5MkV3eTJKYm9pQlZ2ZWlUandLQ3NLTHhyckE3ZlFpSjdVNklRNXZCdW8wNjE2VTBQY3lOSnRudks2dFRBU2xScFNZd3hxOHJOQlZncFhZQ3YzdFpXb0NYZ1FQY0w4OE11S055NzZmcHhsaXhZaEIyMVBJYlJwWktkcmRoQ3dVZE1LeHgyZzZfY0MxNUJMRFI2QUpuQWl1RURFN1FMVFRNWXZVamMwY3poZDdCV2JGTjBTQlM2T3lpbk0zVFJIUnB2VXYzUjdOSGYxRGY2TXlUMkdTTlZ1RnZRT0E?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-03T06:22:40.000Z",
+      "originalHeadline": "بورصة قطر تكشف أكثر الشركات ممارسة لنشاط الوسيط خلال يوليو"
+    },
     {
       "headline": "UAE leaders congratulate President of Niger on Independence Day",
       "url": "https://www.wam.ae/en/details/c1jqvo2-uae-leaders-congratulate-president-niger",
@@ -178,30 +199,8 @@
       "date": "2026-08-03T05:25:00.000Z"
     },
     {
-      "headline": "Oil Tumbles as Trump Cancels Attack on Iran to Reach Nuclear Deal",
-      "url": "https://english.aawsat.com/business/5302786-oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-03T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Trump Says New Iran Talks Set to Start After Calling off Massive Attack",
       "url": "https://english.aawsat.com/world/5302785-trump-says-new-iran-talks-set-start-after-calling-massive-attack",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-03T05:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi FM Holds Separate Talks with Counterparts from Iran , Qatar and Jordan",
-      "url": "https://english.aawsat.com/gulf/5302784-saudi-fm-holds-separate-talks-counterparts-iran-qatar-and-jordan",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -222,8 +221,30 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Saudi FM Holds Separate Talks with Counterparts from Iran , Qatar and Jordan",
+      "url": "https://english.aawsat.com/gulf/5302784-saudi-fm-holds-separate-talks-counterparts-iran-qatar-and-jordan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-03T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Magnitude 5 . 5 Earthquake Strikes near Egypt Suez",
       "url": "https://english.aawsat.com/arab-world/5302787-magnitude-55-earthquake-strikes-near-egypts-suez",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-03T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Oil Tumbles as Trump Cancels Attack on Iran to Reach Nuclear Deal",
+      "url": "https://english.aawsat.com/business/5302786-oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -367,7 +388,7 @@
       "originalHeadline": "إنفوغراف: ماذا ربحت \"أرامكو\" السعودية من رعايتها كأس العالم؟"
     },
     {
-      "headline": "Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid - AP News",
+      "headline": "Blanche rescinds fund for Trump supporters after GOP senators threaten to block his AG bid - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU5UYjZEbzc0bzZZQmlHZ2ZVNk9IYTVPcG02TVVRdV8xLUxjQ200X25WZ0otTlQ3VDFlMGRpVnhZT0E5aFF1RVZ1NXlIMlprOWNvWXBKeExJSFhZSjViY21XYWg2RUVSMGFIaGljaE11YmxzSGprVmRTNzI1MWZzUWNRZk10c3o0X3hWZ3B6UjYtaUxSQl9zQg?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -521,7 +542,7 @@
       "date": "2026-08-03T02:05:34.000Z"
     },
     {
-      "headline": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes - AP News",
+      "headline": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRlBoRHJ2ODBzX1ItSVRXWlRfaHdjckEwemZId1BHUnFsbzZucTVvT2NnV2NOX2JLUkxMeXJjc3FDbFZrd01rRjhNU1FyM0VXcmlzYVN3QmxZUGFSN3hZZDhKQk9vMi1lbFZXeW1kTU9XWGMzOVlsNk9jWHJHNW9zNmhkeXV0N3JoNUlwdWhrOGtQSHVuQ2R4SHZpcWhTSnBaSHNFV2J1T1ZVaXNhVkpWSzhCanZIODlzekdvb0RnamdRcTZ4UUxyVnkzSmJJRTFJQUhuTTBHRDZTNVl2TUhYVXh1aFFHcFc4Smc1bA?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -561,7 +582,7 @@
       "date": "2026-08-03T01:59:51.000Z"
     },
     {
-      "headline": "The Saudi Geological Survey recorded a 5.3 magnitude earthquake north of Suez",
+      "headline": "The Saudi Geological Survey records a 5.3 magnitude earthquake off the Suez Peninsula",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZZ0w4S2NBLW9aVnZHYU1rRmdTYU1KOV9NakVWeWFiajMxcmwzWjkxa3ZZRXVpeE9NR3RpeXBVNlJJZ0pUOWVuYmxuRDBDTVV2VzAtbtIBVEFVX3lxTE1HdzRrLVU2MFd2SXdqMExfVjhmNTJ3VXJjWGlRMnVvWXhPcHNlaVpsN1RubzJMdWZQaXZYbWFHTWkzQXgxRk0teTRmam9VczJmUUFKYw?oc=5",
       "source": "عكاظ",
       "sourceId": "google_news_gulf_arabic",
@@ -569,7 +590,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-03T01:47:00.000Z",
-      "originalHeadline": "المساحة الجيولوجية السعودية تسجل هزة أرضية بقوة 5.3 درجة شمال السويس"
+      "originalHeadline": "المساحة الجيولوجية السعودية تسجل هزة أرضية بقوة 5.3 درجة ش��ال السويس"
     },
     {
       "headline": "King Salman Humanitarian Aid and Relief Center implements the \"Light of Saudi Arabia\" project to combat blindness in Aden",
@@ -726,7 +747,7 @@
       "originalHeadline": "جريدة الرياض | « إسلامية نجران » تنفذ أكثر من 50 ألف منشط دعوي"
     },
     {
-      "headline": "Rain halts the women's final at the DC Open in the 2nd set, prevents men's final from even starting - AP News",
+      "headline": "Rain halts the women's final at the DC Open in the 2nd set, prevents men's final from even starting - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FQ3oxTUZ6ZEFEX2pCRkFocmpRdnlRY2oyTS1DZnZqTUZPd0cxZFZuN0RId3pabFJlVjlUNUxNX2ZfWHE3cWxWQ0pkb0txcjZqcG96aGNOVjFRYndBLXpiYmxNenVOSmVWWVBCMkliNWpYNF9aSkE?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -2726,26 +2747,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-08-02T16:38:18.000Z"
-    },
-    {
-      "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC Middle East",
-      "sourceId": "bbc_middleeast",
-      "category": "competitors",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-02T16:37:02.000Z"
-    },
-    {
-      "headline": "Oman records fewer births and deaths in first half of 2026",
-      "url": "https://timesofoman.com//article/175172-oman-records-fewer-births-and-deaths-in-first-half-of-2026",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-02T16:35:15.000Z"
     },
     {
       "headline": "Emirates NBD Egypt, a 100% owned subsidiary of Emirates NBD Bank announces that it has entered into definitive agreements to acquire the retail banking business of HSBC Bank Egypt, an indirect subsidiary of HSBC Holdings.  The transaction remains subject to regulatory approvals",
