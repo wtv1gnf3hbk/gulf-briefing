@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-03T05:47:05.658Z",
+  "updated": "2026-08-03T06:02:21.321Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "5.6-magnitude earthquake strikes north of Egypt's Suez",
+      "url": "https://www.wam.ae/en/details/17crvyz-56-magnitude-earthquake-strikes-north-egypts-suez",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-03T06:00:43.440Z"
+    },
+    {
+      "headline": "5.0 magnitude earthquake strikes Egypt",
+      "url": "https://timesofoman.com//article/175182-50-magnitude-earthquake-strikes-egypt",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-08-03T05:55:40.000Z"
+    },
+    {
+      "headline": "Spain's wildfires: Counting the economic cost",
+      "url": "https://timesofoman.com//article/175181-spains-wildfires-counting-the-economic-cost",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-08-03T05:53:23.000Z"
+    },
+    {
+      "headline": "Kuwait issues a decree law to combat commercial concealment",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOaEQ3Q0pLQ19PdHdRc2NENTlRMVRxaWEzNDdfYk5zczhVRTZhV095X2pvY1l1UDVveHlaNGg0bFFtVmJXYzlEYkxsVlJ0c2FSa1ZKb3R0X2VhZm1aVV9UdGI0M3BZM2lsdzFWNVlhWFVXZlJjZ3VlM0cwVFQwTnYyTWxDbTlfdzBqaGVKZGxRUzVQeG0yNWwtUDV2S0xoWnpzUm9yeC1lYlpQdzdVT2dfT052UjYtTHUySEhvY2w5bnJpSFBJbDU1Y3FQNnRiZ0ZLeEVWSk5FSGh4a3MyN1hWRnZjZTBvQ2VNWWo2SWJXUW0yTGlnX0x0enFrWGJLaW41d0FFbFRvM0RSZ2FGSGsyYVNqb19PZjJBRXdRNFFNRGNoUlUzZ2xBRWN0OVJmdUQxODNxUF95RHFic2JlalhaZ1hxc1lXQ3RoTGpEeDFya3BhNWJoREJEMGpCMXh1bzcxaGtyVWIyRnk4ZG10a3pWN1pQUmM4SmJTczJIMmUyMWNZUnRoZzF3YVUwX2lKdi1PVmNoR25ja1JncmkwZHRBbXQwMA?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-03T05:51:22.000Z",
+      "originalHeadline": "الكويت تُصدر مرسوم بقانون لمكافحة التستر التجاري"
+    },
     {
       "headline": "5.5 Magnitude Earthquake Jolts Egypt",
       "url": "https://spa.gov.sa/en/N2646401?type=news&uuid=N2646401",
@@ -56,8 +97,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Ariana Grande Withdraws from London Musical , Seeks to Step Back",
-      "url": "https://english.aawsat.com/entertainment/5302789-ariana-grande-withdraws-london-musical-seeks-step-back",
+      "headline": "Saudi FM Holds Separate Talks with Counterparts from Iran , Qatar and Jordan",
+      "url": "https://english.aawsat.com/gulf/5302784-saudi-fm-holds-separate-talks-counterparts-iran-qatar-and-jordan",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -67,8 +108,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Saudi FM Holds Separate Talks with Counterparts from Iran , Qatar and Jordan",
-      "url": "https://english.aawsat.com/gulf/5302784-saudi-fm-holds-separate-talks-counterparts-iran-qatar-and-jordan",
+      "headline": "Ariana Grande Withdraws from London Musical , Seeks to Step Back",
+      "url": "https://english.aawsat.com/entertainment/5302789-ariana-grande-withdraws-london-musical-seeks-step-back",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -107,7 +148,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-03T05:00:00.000Z",
-      "originalHeadline": "استقرار أسعار الذهب في قطر ��ع متابعة المستثمرين لتحركات الأوقية عالميًا"
+      "originalHeadline": "استقرار أسعار الذهب ��ي قطر مع متابعة المستثمرين لتحركات الأوقية عالميًا"
     },
     {
       "headline": "Trump: US called off 'massive attack' on Iran amid deal hopes - reuters.com",
@@ -2753,52 +2794,6 @@
       "date": "2026-08-02T16:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "في غزة فقط .. ودّعت زوجها و6 من أبنائها ثم شيّعت سندها الأخير"
-    },
-    {
-      "headline": "Israeli Strikes Kill 15 in Gaza , Minister Says No Deal to Halt Attacks",
-      "url": "https://english.aawsat.com/arab-world/5302670-israeli-strikes-kill-15-gaza-minister-says-no-deal-halt-attacks",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-02T16:00:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "The moment the Black Widow was arrested...a fraud story that occupied Britain",
-      "url": "https://www.aljazeera.net/misc/2026/8/2/%D8%A7%D9%84%D8%A3%D8%B1%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B4%D8%BA%D9%84%D8%AA-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-02T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لحظة القبض على الأرملة السوداء .. قصة احتيال شغلت بريطانيا"
-    },
-    {
-      "headline": "With maps and testimonies... How did the crime scene deny the occupation’s story in Nablus Hill?",
-      "url": "https://www.aljazeera.net/politics/2026/8/2/%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D9%88%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA-%D9%83%D9%8A%D9%81-%D9%83%D8%B0%D8%A8-%D9%85%D8%B3%D8%B1%D8%AD",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-02T16:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "بالخرائط والشهادات .. كيف كذّب مسرح الجريمة رواية الاحتلال في تل بنابلس ؟"
-    },
-    {
-      "headline": "Israel Says It Has Serious Concerns with Hamas Disarmament Deal",
-      "url": "https://english.aawsat.com/arab-world/5302675-israel-says-it-has-serious-concerns-hamas-disarmament-deal",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-02T16:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "#KUNA AI News Bulletin:",
