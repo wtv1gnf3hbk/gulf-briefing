@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:18:15.246Z",
+  "updated": "2026-08-05T18:32:36.765Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,145 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-05T18:05:00.826Z"
+    },
+    {
+      "headline": "Lebanon , Syria Activate Security Coordination Against Terrorism , Smuggling",
+      "url": "https://english.aawsat.com/arab-world/5303832-lebanon-syria-activate-security-coordination-against-terrorism-smuggling",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel Resumes Lebanon Strikes as Talks Underway in Rome",
+      "url": "https://english.aawsat.com/arab-world/5303720-israel-resumes-lebanon-strikes-talks-underway-rome",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Israel launches raids on Lebanon and issues evacuation orders for the first time since June",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/05/israel-launches-fresh-strikes-on-southern-lebanon-amid-ceasefire-talks-in-rome",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "إسرائيل تشن غارات على لبنان وتصدر أوامر إخلاء لأول مرة منذ يونيو"
+    },
+    {
+      "headline": "Strait of Hormuz: 3 navigation routes for ships to pass through... What are the most dangerous?",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/05/strait-of-hormuz-routes-explained-iran-oman-talks",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مضيق هرمز : 3 مسارات ملاحية لعبور السفن .. ما أخطرها ؟"
+    },
+    {
+      "headline": "Egypt , Bahrain Discuss Regional Developments , Deepening Relations",
+      "url": "https://english.aawsat.com/gulf/5303803-egypt-bahrain-discuss-regional-developments-deepening-relations",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Woman Arrested After Four Men Stabbed in Central London",
+      "url": "https://english.aawsat.com/world/5303755-woman-arrested-after-four-men-stabbed-central-london",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "British tests document the first attempt by artificial intelligence to deceive humans.. What is the story?",
+      "url": "https://www.aljazeera.net/tech/2026/8/5/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%88%D8%AB%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D9%86",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "اختبارات بريطانية توثق أول محاولة من الذكاء الاصطناعي لخداع البشر .. ما القصة ؟"
+    },
+    {
+      "headline": "Arab and Islamic countries meet in Amman to support Jerusalem...and warn of a religious war",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/05/arab-and-islamic-countries-during-a-ministerial-meeting-hosted-by-amman",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دول عربية وإسلامية تجتمع في عّمان لـ دعم القدس .. وتحذير من حرب دينية"
+    },
+    {
+      "headline": "Will Oman and Iran reach an agreement on Hormuz by Friday? A Gulf official explains to CNN",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/05/gulf-official-tells-cnn-5050-chance-oman-and-iran-could-reach-deal-by-friday",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "هل تتوصل عُمان وإيران إلى اتفاق حول هرمز بحلول الجمعة ؟.. مسؤول خليجي يوضح لـCNN"
+    },
+    {
+      "headline": "Riyadh , Baghdad Stress Need to Prevent Iraq from Being Used as Launchpad for Attacks",
+      "url": "https://english.aawsat.com/gulf/5303805-riyadh-baghdad-stress-need-prevent-iraq-being-used-launchpad-attacks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "The family of the martyr Adnan Al-Barsh reveals the moments before he went to the torture cell policy",
+      "url": "https://www.aljazeera.net/politics/2026/8/5/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%B4-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "عائلة الشهيد عدنان البرش تكشف عن لحظات ما قبل ذهابه إلى زنزانة التعذيب | سياسة"
+    },
+    {
+      "headline": "Buses of fighters and military movements...the reality of the crowding scenes on the borders of Syria and Iraq",
+      "url": "https://www.aljazeera.net/news/2026/8/5/%D8%AD%D8%A7%D9%81%D9%84%D8%A7%D8%AA-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D9%8A%D9%86-%D9%88%D8%AA%D8%A3%D9%87%D8%A8-%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-05T18:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حافلات مقاتلين وتحركات عسكرية .. حقيقة مشاهد التحشيد على حدود سوريا والعراق"
     },
     {
       "headline": "KSrelief Central Kitchen Supports Food Security and Strengthens Humanitarian Response in Gaza Strip",
@@ -53,7 +192,7 @@
       "date": "2026-08-05T17:45:20.918Z"
     },
     {
-      "headline": "The Iranian Deputy Foreign Minister reveals the details of the agreement with the Sultanate of Oman regarding the Strait of Hormuz",
+      "headline": "The Iranian Deputy Foreign Minister reveals the details of the agreement with the Sultanate of Oman regarding the Strait of Hormuz - Ahram Gate",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KeWlwRkNOZ2dwdUVWYTR6ekJtakY1RmxTODB5Z3A2cDFmU19VcS15VWhiRUdlRDlQU3UyNXhnNDhxV1g1SzdTMmx1Qmh3X25NQ1dSOWZ3?oc=5",
       "source": "بوابة الأهرام",
       "sourceId": "google_news_gulf_arabic",
@@ -61,7 +200,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T17:39:00.000Z",
-      "originalHeadline": "نائب وزير الخارجية الإيراني يكشف تفاصيل الاتفاق مع سلطنة عمان حول مضيق هرمز"
+      "originalHeadline": "نائب وزير الخارجية الإيراني يكشف تفاصيل الاتفاق مع سلطنة عمان حول مضيق هرمز - بوابة ا��أهرام"
     },
     {
       "headline": "Egyptian-Saudi discussions in Amman about bilateral cooperation and regional crises",
@@ -115,6 +254,16 @@
       "date": "2026-08-05T17:14:00.000Z"
     },
     {
+      "headline": "Demi Vollering wins 5th stage of the Women’s Tour de France, Marlen Reusser keeps yellow jersey - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDFjVjI4dUFicDVzWThVXzVCcEd0b2tjbDRPQms5X3VkYWFjRUdCNnMwT0NPcGdhRURFdzhqREZlYjlLRV9oeEZFaE9hNjZJa053WTJhYXVHZDlsYkRRemVYbnlYNVFrLV81ZzVzMGtUdHFheGp5UGoxdklrZ3lONFk3X2Iwc19meVZXN2MyVjBIOWNtb2MxY0RTc2s?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-05T17:09:00.000Z"
+    },
+    {
       "headline": "Iran and Oman agree on the geographical characteristics of navigation routes in the Strait of Hormuz",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RSkR1TjN2bUM1MVl2LTI1aFF0YlAxLVhLejlsSjBWRUtYQ2lrSTdjMDU3aHk5MGRoeWRwb1F6RFQ2YzB4cEtJRmd5T1pnVEZsdUZ4UF9n?oc=5",
       "source": "بوابة الأهرام",
@@ -124,6 +273,18 @@
       "language": "ar",
       "date": "2026-08-05T17:04:00.000Z",
       "originalHeadline": "إيران وعمان تتفقان على الخصائص الجغرافية لمسارات الملاحة في مضيق هرمز"
+    },
+    {
+      "headline": "An Egyptian kills his father and wounds his mother and brother in Alexandria",
+      "url": "https://www.okaz.com.sa/variety/na/2260057",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-05T17:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مصري يقتل والده ويصيب والدته وشقيقه في الإسكندرية"
     },
     {
       "headline": "Najran Date Markets Thrive as Harvest Season Boosts Local Economy",
@@ -165,16 +326,6 @@
       "country": "Oman",
       "language": "ar",
       "date": "2026-08-05T16:40:53.000Z"
-    },
-    {
-      "headline": "Demi Vollering wins 5th stage of the Women’s Tour de France, Marlen Reusser keeps yellow jersey - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDFjVjI4dUFicDVzWThVXzVCcEd0b2tjbDRPQms5X3VkYWFjRUdCNnMwT0NPcGdhRURFdzhqREZlYjlLRV9oeEZFaE9hNjZJa053WTJhYXVHZDlsYkRRemVYbnlYNVFrLV81ZzVzMGtUdHFheGp5UGoxdklrZ3lONFk3X2Iwc19meVZXN2MyVjBIOWNtb2MxY0RTc2s?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-05T16:40:00.000Z"
     },
     {
       "headline": "Madinah Barni, Al-Ais Barni Date Varieties Showcase Diversity, Quality of Madinah Dates",
@@ -248,26 +399,15 @@
       "date": "2026-08-05T16:23:33.774Z"
     },
     {
-      "headline": "Saudi stocks closed higher on Wednesday, led by the “Clubs Sports” Company - Al Mal newspaper",
+      "headline": "Saudi stocks closed higher on Wednesday, led by the “Clubs Sports” Company.",
       "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxONldnZXoxMjM5czBmYXFDX1Y4enROQmR3c1YtTkRhQWE4TFg1OW9mZTR5WmFUYktvU1lEb1ZvbVVKTDNDTWZER2ZzaUNBejRYSm9zUkRUano1aGNlNmlHZlVpbndHVldENzhKQnhsajRfRV80ZlZUb0xpaXVCdlhzNnF1ZWNaM002dy1OR2xuaWNrRUlFMmNkblNlYk1yVHNtaV9TRWN3T2tTNzU0U3BVdnBmdEFmaXBOTURLREY4T3NFcGFpTDJtaC1mTUEyY3l6cnJ0REwySlI3c1FvT0ZhdlRvYjBEbkg1ekxLN3lwVHM3S3JXd2V0ekxINFNiY0MwSl82VjJTdEdac1cya3FNTVBoMHNoU1M1aTdFWjhMYnhsNlBJcmZLcEF2UUg4LTFQbkdTeXJQdnhJTVhHUFcwWUdSSFVzNGJoWVJud3lVY0VvMkxmcTFaZjhmc1ViZklsdU5ya0txRHF0VXhfVk81VTBLcXROUTJOUE5YSEJVamRTX00tU3NpcFFfR1g1QWNQUlFZZ1RROTJiR1owZkE?oc=5",
-      "source": "جريدة ال��ال",
+      "source": "جريدة المال",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T16:21:17.000Z",
-      "originalHeadline": "الأسهم السعودية تغلق الأربعاء مرتفعة بقيادة شركة «الأندية للرياضة» - جريدة المال"
-    },
-    {
-      "headline": "Saudi Arabia Calls for International Action to Protect Jerusalem , End Gaza Violations at Jordan Ministerial Meeting",
-      "url": "https://english.aawsat.com/gulf/5303738-saudi-arabia-calls-international-action-protect-jerusalem-end-gaza-violations-jordan",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-05T16:15:00.000Z",
-      "tier": "gdelt"
+      "originalHeadline": "الأسهم السعودية تغلق الأربعاء مرتفعة بقيادة شركة «الأندية للرياضة»"
     },
     {
       "headline": "King Abdulaziz Royal Reserve Records First Confirmed Nesting , Breeding of Egyptian Nightjar in Saudi Arabia",
@@ -283,6 +423,17 @@
     {
       "headline": "Riyadh Air Launches Direct Flights to Mumbai as Eighth International Destination",
       "url": "https://english.aawsat.com/business/5303757-riyadh-air-launches-direct-flights-mumbai-eighth-international-destination",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-05T16:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "4 People Have Been Stabbed in London Covent Garden Area and a Woman Arrested",
+      "url": "https://english.aawsat.com/world/5303755-4-people-have-been-stabbed-londons-covent-garden-area-and-woman-arrested",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -314,8 +465,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "4 People Have Been Stabbed in London Covent Garden Area and a Woman Arrested",
-      "url": "https://english.aawsat.com/world/5303755-4-people-have-been-stabbed-londons-covent-garden-area-and-woman-arrested",
+      "headline": "Saudi Arabia Calls for International Action to Protect Jerusalem , End Gaza Violations at Jordan Ministerial Meeting",
+      "url": "https://english.aawsat.com/gulf/5303738-saudi-arabia-calls-international-action-protect-jerusalem-end-gaza-violations-jordan",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -438,16 +589,6 @@
       "originalHeadline": "وزير الخارجية يبحث مع نظرائه في السعودية وتركيا وباكستان تطورات التصعيد الإقليمي"
     },
     {
-      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-05T16:00:00.000Z"
-    },
-    {
       "headline": "Iran: We agreed with Oman on the geographical characteristics of the routes in the Strait of Hormuz",
       "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxOMjh1dHVlN1BjaGhJY0VxNENETEtzWmpvV2JhSkpwREp6cFhYS0hpLXpXcDd3WnExS2hTRXUxcnFfTllxanFFR1UtSFBTUDZFT2VOZzhDRlR0UjdIc09ZLUdET1B2M1dNaExDU20zV0ltQlF3VnJzTC1wUG9Wc2tMb3ZMZENfSkcybW1Mcnh6NXJha1pjcnRJNVNwcFBCV1REV0piTV9NOTV0OHQ2Zmd3a0NlX3BLS283M29PY0p6WlBUekFLeTYxU01VWHNIOVRvRDhvUUFuZm1CZExZR3k5bXBsU09lMUJBLXV6bDg1YVdKajEwLWNjbjh5dWJ6T3RseXI0UXZXWnVQV1BWMGZhVkpKTTMwbldtTkJNczhhekhBa1ROelF5NmZ6VDBSZF82Zk01MUM2bHRIUTZtMVFBTzFkMGlReHh1QS02SU04YzdYRksxQTJCME55OEx3bTJlZU5FOEJNcEJ0WlNHeHlTYTFMT1hCVmsxZGlZWlBlMVk4X1ZQYzlqZlNJNEdkbGVVVEdUYkIyeE92LWliZGdILWk2R3BjUWRCeldSRFdSN2R5MkNnTVRfQ3pBN1laelk2RnJBMTBtNExSTVM1QXMza2FLb2ZVcEJVRkNLMlFtalVQRHp6NnNZY21icERPMW1iandmcTJTRTN2a2RtenpscEFBNnhsdndJTk1Id0NVbkRSZkxjMmVvUGF5R1lkdlJpRDNqckktZzNYaHJyMGQtTXR0cDV4a3NCN3dSOVdYdF9zTTQ1LTV5eTh3?oc=5",
       "source": "alghad.tv",
@@ -456,7 +597,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T15:59:09.000Z",
-      "originalHeadline": "إيران: اتفقنا مع عُما�� على الخصائص الجغرافية للمسارات في مضيق هرمز"
+      "originalHeadline": "إيران: اتفقنا مع عُمان على الخصائص الجغرافية للمسارات في مضيق هرمز"
     },
     {
       "headline": "Yemeni Shura Council President's Advisor Mohammed bin Al-Fakhr: Oil production is ongoing with more than two million barrels ready in the tanks of Al-Dabba Port",
@@ -818,7 +959,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T15:26:00.000Z",
-      "originalHeadline": "محللون لـ'النهار': اتساع القاعدة غير النفطية في الإمارا�� يعكس نجاح سياسة التنويع"
+      "originalHeadline": "محللون لـ'النهار': اتساع القاعدة غير النفطية في الإمارات يعكس نجاح سياسة التنويع"
     },
     {
       "headline": "#Qatar Development Bank Invests in Multiverse Computing\n#QNA #Economy \n\nhttps://\nbit.ly/4haXFR7",
@@ -1217,7 +1358,17 @@
       "date": "2026-08-05T14:20:37.000Z"
     },
     {
-      "headline": "The Bahrain General and Islamic Indexes rose at the end of trading",
+      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-05T14:20:00.000Z"
+    },
+    {
+      "headline": "The Bahrain General and Islamic Index indices rose at the close of trading",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Vbk5ITFY3azJGRFZKVGEzRVhyeEk5SE5pQVhhQ3gzNGs5VEhhVy1hbEJqVjF4b1RaOW1aZWt6QVFoeHFJNzdCM2Z5MVdOOVM4MWMtMWNR?oc=5",
       "source": "بوابة الأهرام",
       "sourceId": "google_news_gulf_arabic",
@@ -1418,7 +1569,7 @@
       "originalHeadline": "السيسي يستقبل ملك البحرين لبحث تعزيز التعاون في مختلف المجالات"
     },
     {
-      "headline": "President Abdel Fattah El-Sisi receives the King of the sister Kingdom of Bahrain at El Alamein International Airport",
+      "headline": "President Abdel Fattah Assisi receives the King of the sister Kingdom of Bahrain at El Alamein International Airport",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSVFHR1NqSnloQ2s4cFctUHRlNlBfTkZYTHFveWZDRzd5T25IMlU3Y2lBS2xpVnBwSEVUdmdqYzZqaGtwT04yUHZSOExCTl9TbVpEVXhTUmNUTDVrZjV0YW0yZmlzRE9SVTZHQTZDWWc1MWl5aEdHazNJaGZXTGx1RUdhSGgzdEFRN25BYXY3eWhPTU1JSERLMHJDSGVpbDVPZGtpU1hjSWxSb3hBN0VkNVRNTlRDRkl2SU5hZHM3T19DNnVSbVJKN0E2WXpRa1lqYlVQYnd2dHRLVkhHdUEwRldad1FlVXdyU1VvWGtqQXp6MXp2YWVnVEQxVmNjRjU2X0YtWQ?oc=5",
       "source": "presidency.eg",
       "sourceId": "google_news_gulf_arabic",
@@ -1426,7 +1577,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T14:04:31.000Z",
-      "originalHeadline": "الرئيس عبد الفتاح السيسي يستقبل ملك مملكة البحرين الشقيقة بمطار العلمين الدولي"
+      "originalHeadline": "الرئيس عبد الفتاح ا��سيسي يستقبل ملك مملكة البحرين الشقيقة بمطار العلمين الدولي"
     },
     {
       "headline": "UN rights chief alarmed by rise in Iran executions since March",
@@ -2837,54 +2988,6 @@
       "originalHeadline": "متاهة على الجسر بين الكتب والأفلام .. هكذا يتحول السيناريو إلى نص أدبي | ثقافة"
     },
     {
-      "headline": "We will not remain spectators... North Korea threatens to respond to Japan's accelerating armament",
-      "url": "https://www.aljazeera.net/news/2026/8/5/%D9%84%D9%86-%D9%86%D8%A8%D9%82%D9%89-%D9%85%D8%AA%D9%81%D8%B1%D8%AC%D9%8A%D9%86-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "لن نبقى متفرجين .. كوريا الشمالية تهدد بالرد على تسارع تسلح اليابان"
-    },
-    {
-      "headline": "Slow death... How is the blockade of medical supplies suffocating kidney patients in Gaza?",
-      "url": "https://www.aljazeera.net/politics/2026/8/5/%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D8%A1-%D9%83%D9%8A%D9%81-%D9%8A%D8%AE%D9%86%D9%82-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الموت البطيء .. كيف يخنق حصار المستلزمات الطبية مرضى الكلى بغزة ؟"
-    },
-    {
-      "headline": "Markets move... Controversy over early access to Trump's publications",
-      "url": "https://www.aljazeera.net/ebusiness/2026/8/5/%D8%AA%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%AC%D8%AF%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "تحرك الأسواق .. جدل بشأن خدمة الوصول المبكر لمنشورات ترمب"
-    },
-    {
-      "headline": "Claude obeys you in Arabic and argues with you in English... and researchers do not know why",
-      "url": "https://www.aljazeera.net/tech/2026/8/5/%D9%83%D9%84%D9%88%D8%AF-%D9%8A%D9%86%D8%B5%D8%A7%D8%B9-%D9%84%D9%83-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%8A%D8%AC%D8%A7%D8%AF%D9%84%D9%83",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T11:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كلود ينصاع لك بالعربية ويجادلك بالإنجليزية .. والباحثون لا يعرفون السبب"
-    },
-    {
       "headline": "Public parks and gardens represent one of the most prominent destinations that attract families and visitors during the #DhofarAutumn_2026 season; due to the recreational, educational, and cultural events they host, targeting various age groups, as part of the Dhofar",
       "url": "https://x.com/OmanNewsAgency/status/2084960721281114480",
       "source": "Oman News Agency (Arabic)",
@@ -2893,37 +2996,6 @@
       "country": "Oman",
       "language": "ar",
       "date": "2026-08-05T11:12:27.000Z"
-    },
-    {
-      "headline": "Minister of Finance Thanks Leadership for Cabinet Approval of New Government Tenders and Procurement Law",
-      "url": "https://spa.gov.sa/en/N2647942?type=news&uuid=N2647942",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-05T11:08:54.000Z"
-    },
-    {
-      "headline": "Consumer and retail spending growth in Saudi Arabia 2026",
-      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQcFZoSlRjZXItalItSlpHVVo4SkM1MklJcjVSWEROTHNlY1pJYnJkWWp2WW02dW5ZMVZqTjJnc1ZFb1YtN1JGaUFTN2ZTS0o3TXpKUDRpWHFsY1NNSnYtSHg1dmZuUW5wNndNci0zLWhyaHQ3emZ5S2xJU1BUNzhRYVNjM0ZDdS1DUFZteEUyazZ1WXZEMWRpTGVKTTlLZHZub213dzBEWTZQU1NQZDI0Q2RUbWt3cmZ3ek5OTTdXOE9VbWVmZ2NqY1FiWkg5cHAxaFNxQXlfYkV4d0JVeDg2QU9uMEdaeTlJZE9ZZXR1aWxOcGluMGZSS1N5S2hsRFFhNVVzRlJYS2RoZ01mSGtOMXhhVC00NDh4bjNwS0pHOEM1ZjByc1QxS2tlcktMYndZME94TFpqLTNSS2dXNlptcFNKX3ljUVJtUWZaR3pULXdiUGF6Q3dmZXQyaTdCOFpUQlNybk9tM2tTZ1VGaDBIWDJLVHgxbjEwUy1lY1NmbGtObTVTZ0JvS1B4STN1ZVRBWUp5ZVJ1dVFVUC1yVUpObUNnVTBhMUVFNWc2dmM3SHViT0R6NnZjejR5MnlrSi00dWdUY2tVVWVGU3U2RUotQnZtQ1NzeDZIaGl3ZVRRaUZoWGg5QW1MV0lOME1CYjkzYjRvZmo0TTNzSExSclZkS0FEcTN0LWhYbWhNdm5vWVowajBjTmNHUGJ4bXIxYV9kMEc3NU5QcFFlOXRPVTRFeTNmTWxEc2xHSVVN?oc=5",
-      "source": "annahar.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T11:08:00.000Z",
-      "originalHeadline": "نمو إنفاق المستهلكين في السعودية والتجزئة 2026"
-    },
-    {
-      "headline": "UXE Group signs strategic partnership agreement with South Africa’s NASCENT Group",
-      "url": "https://www.wam.ae/en/details/c1kxra5-uxe-group-signs-strategic-partnership-agreement",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-05T11:07:06.217Z"
     },
     {
       "headline": "Dubai ranks second globally in adoption of AI, intelligent technology\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1kxr7b",
@@ -2936,60 +3008,6 @@
       "date": "2026-08-05T11:03:30.000Z"
     },
     {
-      "headline": "Postpartum psychosis: when mental illness turns into a danger that threatens the lives of the mother and her child",
-      "url": "https://www.bbc.com/arabic/articles/cg4dnqv71nyo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T11:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "ذهان ما بعد الولادة : عندما يتحوّل المرض النفسي إلى خطر يهدّد حياة الأم وطفلها"
-    },
-    {
-      "headline": "Liverpool icon Mohamed Salah arrives in Istanbul ahead of Trabzonspor move - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDBvTnVySEZ0N2Ywdlh2NlB0Nnh3dHFnNlNLX2kyc29HLUFTOWNDUXJRR2VucHZMVDNwckJuaTZsdXd1N08ydGxidzYyRFpqbFZnb1djcVdVSUY4Rk1XQ3NPOTlKLW9uaGNBNmdMbDVRNWhVTWtMTjA0QVhpVjJTRktTUlh3Ri0xYmhGSHpEQlhRSURsQ0J0azZB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-05T10:56:00.000Z"
-    },
-    {
-      "headline": "HM the Sultan greets Governor-General of Jamaica",
-      "url": "https://timesofoman.com//article/175272-hm-the-sultan-greets-governor-general-of-jamaica",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-05T10:55:54.000Z"
-    },
-    {
-      "headline": "“Saudi Research and Media” turns profitable with the support of revenue growth",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LcllTUS1ITEJaV2IyMVV5Y29meDI0VDBXRUk2N1loamZ4VUtOclhGUlVaYzJ2bldDaWU3SnVzd2JUREM4ZE1FTEhpUndCOGRZY09yUUpuVW9VTGc?oc=5",
-      "source": "جريدة البورصة",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T10:52:30.000Z",
-      "originalHeadline": "\"السعودية للأبحاث والإعلام\" تتحول للربحية بدعم من نمو الإيرادات"
-    },
-    {
-      "headline": "Saudi “Maafiq” turns to a loss in the second quarter, contrary to analysts’ expectations",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IQU4xZWZOaWZhV09ScU9MeTkyLUlYTkp1X1hLRWJZdzdCdlVXRVhwdGgzb3dsWEFtU0dXTTZzMEphdWViQ2RiNlhPeUFfT3p1a0gycmZ6cUhHdWs?oc=5",
-      "source": "جريدة البورصة",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T10:52:30.000Z",
-      "originalHeadline": "\"مرافق\" السعودية تتحول إلى الخسارة في الربع الثاني مخالفةً توقعات المحللين"
-    },
-    {
       "headline": "Statement of the Annual Conference of Yemeni Scholars for the year 1448 AH \nHeld in the capital, Sana’a, entitled\n(Yemeni scholars in the face of aggression and siege) \nWednesday, 22 Safar 1448 AH, corresponding to August 5, 2026 AD   \n\nIn the name of God, the Most Gracious, the ",
       "url": "https://x.com/TvAlmasirah/status/2084955301019603049",
       "source": "Mohammed Abdulsalam",
@@ -2999,17 +3017,6 @@
       "language": "en",
       "date": "2026-08-05T10:50:55.000Z",
       "originalHeadline": "بيان المؤتمر السنوي لعلماء اليمن للعام 1448هـ \nالمنعقد بالعاصمة صنعاء بعنوان\n(علماء اليمن في مواجهة العدوان والحصار) \nالأربعاء بتاريخ 22صفر 1448هـ الموافق 5 أغسطس 2026م   \n\nبسم الله الرحمن الرحيم\nالحمد لله القائل: ﴿مُّحَمَّدٞ رَّسُولُ ٱللَّهِۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ"
-    },
-    {
-      "headline": "What theyre doing qualifies as torture : new details of ICE force - feeding revealed | US immigration",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-08-05T10:45:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "The healthcare provided by the Military Health Support Management institutions to national service recruits and members of the armed forces transcends the concept of treatment, embodying an integrated approach based on prevention, awareness, and enhancing quality of life, thereby",
