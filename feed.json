@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-05T13:48:17.920Z",
+  "updated": "2026-08-05T14:03:32.868Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Dubai Municipality begins implementation of Dubai Creek Lights project to create world-class nighttime destination",
+      "url": "https://www.wam.ae/en/details/c1kxrfw-dubai-municipality-begins-implementation-dubai",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-05T13:57:21.852Z"
+    },
+    {
+      "headline": "Travelling to Oman? Here's what you can bring duty-free",
+      "url": "https://timesofoman.com//article/175292-travelling-to-oman-heres-what-you-can-bring-duty-free-1",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-08-05T13:54:40.000Z"
+    },
+    {
+      "headline": "President Sisi receives the King of Bahrain at El Alamein Airport",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQekthaWM3TzNkbGtOWGFQalJzeV9GNWFZT3gydWEwb3Z0R2NJcmRvaEc4NVJkbURZR3hSOWNJemlkLUZ0T2VkOTI0a0hlOUppMWtJZFh3RElGa01vWE9EeENYVDNST3B3RlRFU3g4SzgtcklQZzk3cUlCRjVIa2Z2YjlaMDd5YkZ4UGlleUc2MUVFMjFheXkzZ2EwSWl6VFpQTlUyZGQxMWZmTm5kMkVNZTdIUmU5MkNTZ2pUbEszM09SdV93QVlXLXJTQS1xd3M5bXl5TTBWak13NmxPVk1xMkc5S0E4R1NHX1B6d1M5ZV9XVGxLOU85WHY3ZEpLZjFKUVlVT2RUSjF2ZlQxWjd3SElMekFNVm82Q09acEZibFhuUWhLcHhPVEdTd2dHZTcxaUhObmNnamQwR2VSMFNNNE14c3VPaGRWemZ1OWtLMjlfbDVpS1lRSkxWYnprUjhWSUNXVHQ0cGtYeVhsdUtBSmVNT1NYaHZNOExoU09VZlBDTktESGV0ckpGbkE1NEo3Mlo5bV8yRm5BQ2k0aUttYXYzSQ?oc=5",
+      "source": "الهيئة الوطنية للإعلام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T13:53:33.000Z",
+      "originalHeadline": "الرئيس السيسي يستقبل ملك البحرين بمطار العلمين"
+    },
+    {
+      "headline": "President Sisi receives the King of Bahrain at El Alamein International Airport and they hold a discussion session",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRN2Z0dXhWT1drLXVzUlg2bWMtdVpkdXlVMTRlclpkZzhXeFdXWkRhb0dyTk5BYmJtYXFTQ0RlNDhWb2RKdTJEX2dtQ01wUFlOem5NZVRB?oc=5",
+      "source": "بوابة الأهرام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T13:51:00.000Z",
+      "originalHeadline": "الرئيس السيسي يستقبل عاهل البحرين بمطار العلمين الدولي ويعقدان جلسة مباحثات"
+    },
+    {
+      "headline": "Central Bank of Egypt: Net international reserves reached US$ 56,293.9 mn at end of July 2026",
+      "url": "https://www.wam.ae/en/details/c1kxrfv-central-bank-egypt-net-international-reserves",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-05T13:50:58.772Z"
+    },
     {
       "headline": "Foreign Minister Participates in Ministerial Meeting in Support of Jerusalem and its Holy Sites in Amman",
       "url": "https://spa.gov.sa/en/N2648075?type=news&uuid=N2648075",
@@ -167,16 +219,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Travelling to Oman? Here's what you can bring duty-free",
-      "url": "https://timesofoman.com//article/175287-travelling-to-oman-heres-what-you-can-bring-duty-free",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-05T12:43:04.000Z"
-    },
-    {
       "headline": "Sultan Qaboos Institute for Teaching Arabic to Non-Native Speakers marks conclusion of 62nd course",
       "url": "https://timesofoman.com//article/175286-sultan-qaboos-institute-for-teaching-arabic-to-non-native-speakers-marks-conclusion-of-62nd-course-1",
       "source": "Times of Oman",
@@ -189,7 +231,7 @@
     {
       "headline": "The Bahrain Stock Exchange closed Wednesday’s trading higher, supported by 4 sectors",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQaUZDREp3OGtrOG54MklqM1ZBLXdIZmJ0QlZadmVLRHdmbEVmTTBITEU3SzVFcEVscDVxRVFfZzdWYW96RENEelo5TXJ6cnAxWHcyYmt4dnByZ0RTZDdCN0J1X2hrUEJIdHd3Qkd0NGtRdVd0aFloMkRrb0FoNFhYbWdxeGZGTkN2bE9tRUNINk1KejhZamJzRFp3WnJsUEpZZnlaeklTeHhPRlpKZVp5ZnZ0aGsyaURJOGotaG9md2hONHRfNEtoRTRVU3MySThndkozRzlsTkhfQm1EckI2RjVVbHJnMUlxam9hZWdrR2V6czBwWkllZ3F6Tkp6clA2Mm9EeTU1T3dzTDZwck14NmQxamtKM2ZFOGFENjdIMUZDOFVSUDlvM0NObUtsYXlPY3BmeXNuSnNZMmpqMVdta3RvdXBHdkZreENMWXpZRnpXQlNOWm9icjFkN3NHbUpwUFFVeG5zNnFqOGNzcEZrX3R6ZGoxdTBxd0c2VnlfU05pdDN6SFRYNThQdzFKYVV1amFqSTFONTVPTXlPZ3lNbFVVMmhSRFBCUlNJWHBHUzMxNTkyeWNBUW84ejNkZkpHUDhJZTRMRHc1eWtyckdxT1JXR0ROUQ?oc=5",
-      "source": "معلومات مباشر",
+      "source": "mubasher.info",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -240,7 +282,7 @@
     {
       "headline": "Kuwait Cement announces an increase in quarterly profits and supports the emergency fund by one million dollars",
       "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxOXzZvZHlfcVRfcFhFbXNOdDk5WnpzLW5iaHVlb2o1Zlk4eUU3MHhYa0VROWxyOW9lQU1Eb0lXUE9COHJQa1REaE1pd0g5cDdWdnYtblZYNE03UjJFRU1pajZDT0ZSMG9zdWNWdy1YVktLbWxyOEdmY085MUtyemkySXUxVW5BR1l5WW5RUDhOY1l0ZG1LV1NFOFNycEhyWEJBSGptSFdDN0haM0lyOE4xZmhvSW5kbHFwMS11M3JjUG9EbmhqQWx0STVza2x4cFdHTk40UmlVUTFueXVGb2hzNkU3QUJDaEJkY0RHeHh5MXVhUE5zYTlUSTAtR2ttVVZpekpFVjIzU2dBUHMtZ29GWTZTLUxNeE13UC15M1hHay1ocklMdF84UUNMbm1odXJXM1o4eVZLenJCTlljQm9sMUhaSG8xS0xIS2xOOXFfZE5TcEdRUjJXVE9RdHNHendjUFZjakFCd3Q1QWJnVUlaRGM4cGM4RUxWZVY4LTZ1WXNmSTBDeU5oelZMejVXVHBhbldIYVdQRjBmb3RRVFk5QlBVM0RhNGdPbFIwNVRlOEV2NUNtSlpaS25BMU1jR2ZzMVJOa3oweUZCSWE1cnM2U0NOMXdDSVhWTkowd2V2MFdZdGljMUI1aWZQNGFKWVJLTmVMbUM5RUVFQldjeGh3RDV0VFU0LVRfX2h6NkJBbUp0YXZrWVcyc2N2QlRkODE2N280N3pMUjBiejNJeDNlbk1jSUZrWE5zaEpzVmsybFp6NGVyNGlTOUtmOVV5bmxVX3c?oc=5",
-      "source": "معلومات مباشر",
+      "source": "mubasher.info",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -267,7 +309,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-05T12:07:17.000Z",
-      "originalHeadline": "خمسينة اقتصاد. . مصر ترفض عرض الخليج والسيسي يهدد.. المرتزقة يعبرون الحدود وجيش مصر يشتبك بضربة جوية ! #خمسينة_اقتصاد #مصر #السيسي #البحرين #الجيش_المصري #السعودية #إثيوبيا #السودان #إيران #ايران"
+      "originalHeadline": "خمسينة اقتصاد. . مص�� ترفض عرض الخليج والسيسي يهدد.. المرتزقة يعبرون الحدود وجيش مصر يشتبك بضربة جوية ! #خمسينة_اقتصاد #مصر #السيسي #البحرين #الجيش_المصري #السعودية #إثيوبيا #السودان #إيران #ايران"
     },
     {
       "headline": "World Faces Fresh Food Price Surge , FAO Warns",
@@ -291,16 +333,6 @@
       "date": "2026-08-05T11:55:58.000Z"
     },
     {
-      "headline": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-05T11:54:00.000Z"
-    },
-    {
       "headline": "Mohamed Salah joins Turkish Club Trabzonspor",
       "url": "https://timesofoman.com//article/175278-mohamed-salah-joins-turkish-club-trabzonspor",
       "source": "Times of Oman",
@@ -313,7 +345,7 @@
     {
       "headline": "Emirates Airlines expands its partnership with South African Airways",
       "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNMFYzZVJCZVplcmxEUUpQaElDc0Rxbm92MEs4b21nSjFxV2ZiTi1jQzR6OHVHaVUtV1d6cWYtR1RobjlHZ2dUaHhwbExVMm5USjVRYVEwWER5QlR2bW1DemF3WXBPSnJHUUxZUEdHZTViQmxSSjlPUnBDUDh6c29KYWU5T09BemZXcjhYQzl6YWc2YnJ6VzdfWnNQb0w5dHRWdktYMWd2S0YzSlliOHlGOWFodnhrTHpQSGNfclJuakpPbkJaLU5KeHZ1MTc0WjR6T2JncEVvRFJwQW5WR0NHcmdxdzQ0cWROSHBZWlpmUlVvTWRmZHE4VGd6TVNoUWoybXBGbjVtV05FS2w2QmdyRHdNYW9mNExSUDVvc0l5b0R2MktPUGM5a0VEYmNVdHc3MjloY1loOU9JNjdqYXV3Vm5ZMlBzejY5LU9GeFVFeG1BSnppX0c4Z0owdGNxc3BJSzcxSE5ueW5WWkNnbGtkZXdhWkVpaE0xeHF1VFBvNE1BNjFvb2MwWHpjaE9Vdkt4T0gwVzNLVGx4QkFuNDYxcTBTSnVxZ3hselZyRS1qLWNlTVRmWmx0WnJwUXc3LVhvNEFCV2VIcFN4UDRMTWc?oc=5",
-      "source": "معلومات مباشر",
+      "source": "mubasher.info",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -869,7 +901,7 @@
     {
       "headline": "Al-Sisi receives the King of Bahrain today... Details",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQd3RyeXlubGxzelRVQlZOLW1xRzJBY0piQ2prMXplUVU2RVpFUERROVNzRHhlVm1Db25YUzZnUks5T3phVld3NGZnTll2ZG1HM3o4VVBlV2Zfc0w1TTVZTjFHUnlYN3paQUlXTW5RYlpuYkhxUHluR0dJNmNLam5DZWFkckpTRkJDWHhWVmhyb3FVUFhBSm5YOWpWbVdsMUxLRXBvanVuRjNrbGtjVnhoZ1VsaUdUVFZvX1h1ak9WaFRzRU9GUTZaNWRQak5GMHd2eURHZVJhclNDNXFyNGtjdldfbkR5WTBiR0NNbU44S2VDRjZ3bURCQ1h3YWdfNVcxaXh3U1VyMTFFQ2tJRkd4VUNVOEVHemZjM2RZSG80VlVLSTJFcUJiOEEtZlUyeE9pYWVnUnp0Q3pEekV4Q1lhbUMtWDFfUjlMcmVPRDYyY0xfMC1BQ0pfemRERjFLY1ZwZ1VBNTlZeGVzdHExSHdrUjZSUXJfby1ZYmUxbFJybS1BUdIBhwNBVV95cUxQN1dKb0JtTXozaldoTnRJNTR2bzl3ckZZZUMzRjNmMTFVZjk4M2tvWFh2N2wweGo4ejdHajlPNmFmcEJVNjM4QTBkOU9uRnhDQzRnQmMxVUpSZHRnc0xwTGl5QTBWWTBKRlJVV0dCTEtNbDREdjVielBRMnI0Zm9iQ0t1eDhfRXhRclRCcWdMaDZBa251MXBKN3MyNktJNFkyQkRJaXgtb1o0dUlwT3NncWtSRzZuV3A3SEI5bjNibVdvZFRVOGk3QWY5MjNFcndrTTB5UUdrYURGMEFBQzlpeGZXUEgtSzRoVDVQUHdfVjZ4YWpja0RxVk8xT0JPNVM4MHV0dkoxNFJTRVZlLTY1Slh4Q3lDYlgya2tiRUppMHZSb1huclZvREJaTXNDNE1RejdIamhqQjBhMmFOS2pHUHBPTTc3cVBPR0oxVVpGM0tEU2s4aGlESlN6VkFGTzJYTlFRbWZ6M1FaS1BxRjZZZEt2LTBzOVQ1NEwtdmgtNXlXcElJWjdv?oc=5",
-      "source": "Masrawy",
+      "source": "masrawy.com",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -1797,6 +1829,16 @@
       "date": "2026-08-05T08:04:28.000Z"
     },
     {
+      "headline": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-05T08:03:00.000Z"
+    },
+    {
       "headline": "#Amman | His Highness Minister of Foreign Affairs Prince #Faisal_bin_Farhan \n@FaisalbinFarhan\n arrives in the Hashemite Kingdom of Jordan to participate in the ministerial meeting in support of Jerusalem and its holy places.",
       "url": "https://x.com/KSAMOFA/status/2084912718667014648",
       "source": "Saudi MFA",
@@ -2281,47 +2323,6 @@
       "language": "ar",
       "date": "2026-08-05T05:37:38.000Z",
       "originalHeadline": "مؤشر مديري المشتريات في الإمارات يرتفع إلى 52.7 نقطة في يوليو مقابل 50.8 نقطة في يونيو الماضي"
-    },
-    {
-      "headline": "EU expresses 'full solidarity' with Spain following migrant crisis; outlines plan to combat illegal border crossings",
-      "url": "https://timesofoman.com//article/175265-eu-expresses-full-solidarity-with-spain-following-migrant-crisis-outlines-plan-to-combat-illegal-border-crossings",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-05T05:37:35.000Z"
-    },
-    {
-      "headline": "Trump says Hormuz to be opened 'very soon'",
-      "url": "https://timesofoman.com//article/175264-trump-says-hormuz-to-be-opened-very-soon",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-05T05:36:00.000Z"
-    },
-    {
-      "headline": "Trump says Hormuz to be opened \"very soon\", warns Iran will be \"hit really hard\" if no deal reached",
-      "url": "https://timesofoman.com//article/175264-trump-says-hormuz-to-be-opened-very-soon-warns-iran-will-be-hit-really-hard-if-no-deal-reached",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-05T05:36:00.000Z"
-    },
-    {
-      "headline": "Gold prices rise by 0.64% in Kuwait",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSzQtSzNQWGFEUnlaOWhTM3VENHc2dF9BYzNoR2M2TDNRVkRjUjF1dnRhV1JsN09mblZ4UFhNcHM1ZnF2SF9kTFd2SEg4bEE3M3R4d214UTgySDRWZExRN3IyOGR6T0VqNnpybjVrcEFjVk43Q2Z6eUFvaTdRZ2FoQWdleVMxOGljVnNHNG9jLWlWOGxFWjAyN1B2WllRYTUxb3gwVGRkaHVURmJteUp2V2JCal9TZU5ndUpBTnpUdGdqWWk5VGw4dVBUaU1qd3hrdGlBRXpNa3J0S2pzRGtjNkNHdFRhMzFDZzBQWVlxMUxuV0NhOUFyakJCMHgxYW41ZTZlY1lnVzE3Qld3WnphUEZjS0JuQQ?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T05:30:13.000Z",
-      "originalHeadline": "أسعار الذهب ترتفع 0.64% في الكويت"
     },
     {
       "headline": "KPC: Kuwait oil price up USD 4.97 to USD 78.21 per barrel\n\n\nhttp://\now.ly/iG5z30sXLus\n\n#KUNA #KUWAIT",
