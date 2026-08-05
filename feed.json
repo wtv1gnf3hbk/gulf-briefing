@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-05T15:03:29.020Z",
+  "updated": "2026-08-05T15:18:20.644Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "SAR Exceeds 2025 Local Content Target, Achieves 67.35%",
+      "url": "https://spa.gov.sa/en/N2648116?type=news&uuid=N2648116",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-05T15:09:00.000Z"
+    },
+    {
+      "headline": "The Foreign Minister meets his Qatari counterpart on the sidelines of the ministerial meeting on Jerusalem in Amman",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YRHJLOTB1OUpRTWJDOG0yVGVOcHRPaVVROE1LdUtuV25TaU1QaV8yY25Yd2Fwd3RzZHg1WGZZbEY5c0FXOEI3OVE4bmVSU1M1MEVwY0tZNGdqRW85T2hzUlRucFpqNEtYVmtwT3N6MmhqdUE2OVE?oc=5",
+      "source": "mfa.gov.eg",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T15:07:18.000Z",
+      "originalHeadline": "وزير الخارجية يلتقي نظيره القطري على هامش الاجتماع الوزاري حول القدس في عمّان"
+    },
+    {
+      "headline": "Arab Parliament President urges international action to halt Israeli violations in Gaza, West Bank",
+      "url": "https://www.wam.ae/en/details/c1kxrlk-arab-parliament-president-urges-international",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-05T15:05:49.235Z"
+    },
     {
       "headline": "Salik’s H1 2026 revenue reaches AED1.41 billion",
       "url": "https://www.wam.ae/en/details/c1kxrir-salik’s-2026-revenue-reaches-aed141-billion",
@@ -21,6 +52,18 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-08-05T14:50:02.000Z"
+    },
+    {
+      "headline": "5 injuries in accidents involving various aircraft due to bad weather conditions in America",
+      "url": "https://arabic.cnn.com/travel/article/2026/08/05/denver-airport-weather",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-05T14:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "5 إصابات في حوادث لطائرات مختلفة بسبب سوء الأحوال الجوية بأمريكا"
     },
     {
       "headline": "15.5 million dinars trading volume on the Amman Stock Exchange",
@@ -145,6 +188,30 @@
       "language": "en",
       "date": "2026-08-05T14:15:35.000Z",
       "originalHeadline": "News correspondent Abdulrahman Al-Musa: Preparations for the launch of the \"Seven Abha\" project in Asir under the patronage of the region's emir\n\n#صيف_السعودية"
+    },
+    {
+      "headline": "Hormuz's diplomacy revives Wall Street and gold clings to its gains",
+      "url": "https://www.aljazeera.net/ebusiness/2026/8/5/%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%87%D8%B1%D9%85%D8%B2-%D8%AA%D9%86%D8%B9%D8%B4-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-05T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دبلوماسية هرمز تنعش وول ستريت والذهب يتمسك بمكاسبه"
+    },
+    {
+      "headline": "Ponzi scheme...fake profits funded by the pockets of victims",
+      "url": "https://www.aljazeera.net/encyclopedia/2026/8/5/%D9%85%D8%AE%D8%B7%D8%B7-%D8%A8%D9%88%D9%86%D8%B2%D9%8A-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%88%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D9%85%D9%88%D9%84%D9%87%D8%A7-%D8%AC%D9%8A%D9%88%D8%A8",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-05T14:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مخطط بونزي .. أرباح وهمية تُموّلها جيوب الضحايا"
     },
     {
       "headline": "\"Geomecanica\" receives the ESIG International Award for the National Geomecanica Platform and Digital Twinning.\n\nhttps://\nspa.gov.sa/N2648025\n#واس",
@@ -626,6 +693,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-08-05T13:25:25.000Z"
+    },
+    {
+      "headline": "Oil prices rebound after Houthis say they attacked Saudi tanker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-05T13:23:04.000Z"
     },
     {
       "headline": "Dubai South Business Hub Free Zone (DSBH) announces a strategic partnership with Sony Middle East and Africa, bringing Sony’s technology, expertise, and educational programs to the entrepreneurs, startups, SMEs, and growing businesses operating within the free zone.",
@@ -2616,76 +2693,6 @@
       "originalHeadline": "الاحتلال يقتحم مخيم قلنديا شمالي القدس ويهدم منزلين قرب بيت لحم"
     },
     {
-      "headline": "A short truce from the war... Music restores the spirit of the children of Gaza",
-      "url": "https://www.aljazeera.net/misc/2026/8/5/%D9%87%D8%AF%D9%86%D8%A9-%D9%82%D8%B5%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%AA%D8%B9%D9%8A%D8%AF",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "هدنة قصيرة من الحرب .. الموسيقى تعيد الروح لأطفال غزة"
-    },
-    {
-      "headline": "A historic ruling in Britain... Your opposition to Zionism does not mean your anti-Semitism",
-      "url": "https://www.aljazeera.net/politics/2026/8/5/%D8%AD%D9%83%D9%85-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D9%86%D8%A7%D9%87%D8%B6%D8%AA%D9%83",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "حكم تاريخي في بريطانيا .. مناهضتك للصهيونية لا تعني معاداتك للسامية"
-    },
-    {
-      "headline": "Gold leads the precious metals' gains as the dollar declines",
-      "url": "https://www.aljazeera.net/ebusiness/2026/8/5/%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-05T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "الذهب يقود ارتفاعات المعادن النفيسة مع تراجع الدولار"
-    },
-    {
-      "headline": "US Central Command: The southern route through the Strait of Hormuz remains open to commercial ships",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/08/05/centcom-southbound-route-through-strait-of-hormuz-remains-open-ships",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T08:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "القيادة المركزية الأمريكية : المسار الجنوبي عبر مضيق هرمز لا يزال مفتوحاً أمام السفن التجارية"
-    },
-    {
-      "headline": "Growth of the non-oil private sector in the UAE 2026 | S&P Global report",
-      "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQLUVMM05NUTVKN1F6RjBXT29zVHlOQlZrOFlGS0FIdGk0bVFFT19YRXYxRm5YRFBSZHZSS2pJbFpTYUlHMFZfMkdaeWRHQ3A5NnpzNzV0d0ZyNW1KRFpLLXhMeXBFaksyc3lqZnRERFFpX1VrX19DaWItelpFNjM5ZEZYT3ZYN3JyXzd0TkNQWEk2N28zUEhNQzFxa08wMGVFbzB6QlRqVGN6S1lON2ttMV9xZ1VpMHpoX19RYWpaUmF2YzVEc2J0RllpLS1OSkp6XzV6ZTJRazJfRFJWQmtjWkF5ZEd6bWFtZTNuRlFncGNRQWpkMV9zdklFdFZPSzRjVEpQcUdJaWtCdkRGNnpGNEpRclkxXzVIem83REpvMG5DemtSSGduX0JTNWdValVSREhwUno1V2hLQ2VkNzQ1bl9qQlB0LXJpcTNSVmUzem9BeWZYWUgtLTFheTRXV2lqN1FJSXJnMjRWMGpRemlYNHZyZU1DTTk0Z3g3QVZOamw3emhKWEQyQk82dTFCY3loVFdneEszcWhUQWRmVXB1RGJnMlFBdDk2WExUTlJNZC1PTUVXVm9fQjVsa2RoU1RBN2Y5cldPOWpwdV9IdTJLQTdwbHZSTDdGVGhsNktqRlREaVJtTlZ3T2NOQktHaDR1bnVVZDUyVElHUDR5dkpIUUNjbHZLWHVfMlJEbnFYZmxteEtRRU9wS3hkQlJDNGZLWVdXLTk5SXhudURlTktKNEJ5WVNfMXhIWF9mOHZ3MkFiUWFKNl9Pbmo5aFhIVkhrb2c?oc=5",
-      "source": "annahar.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T08:45:00.000Z",
-      "originalHeadline": "نمو القطاع الخاص غير النفطي في الإمارات 2026 | تقرير S&amp;P Global"
-    },
-    {
-      "headline": "“Waha Capital” and “Salama” are the most bullish on the UAE stock exchanges in the middle",
-      "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPVnAzVzFZMjdtY1dFRmZYclNEOVZMd1dFcE5nRlBFVjFqOGQyMi1rLVVJUjdZMUtfTGhHQVJ5QVZEaWdnUkhubGJQNWVvY0ZTcTVCN3lwT2dFYzBSSVZCZ2xfUVNYeVpia0FILVpuTG9tSWdBYTdLdnZvOFJRVHpJRURmUlAwZmx1RHJ5cGpBZ2ltcFh5TFlqWWZpa18zZ2RpSENxV0dkYWEzX3UwUWhXQkM2c2dTc3RmSFlXUlhhcHF4VDB2Vm90cWRNdC1SN28yUW4xc0NyalZSS0xLNlhwdHhRVE9Dd05BYUJYdWhOSUE4SF8tWnBQamc3R0NnTW01dFhudmV4MXRqcDMxZ0d0elBrQmJKMkNHZG1ZbmhsckxpTEVTSUtDOWplUVZ0aFByS0N3Y1dvY2g1RmU1OVh1WFNrSTNjQWhJVmxyLUhTNVZDV2pJMXhselNxVlE5LS16QWQwQVF5Q2V5MDR0MU53eWpRSXlFZVlrQkFqb2lrM3gybFQwSnhIcWt0dlJncUtWWldpLUlaVDlNOVhRNFRzcFlvZnM2NnlkRFJfTlFIM09qWXd3Y0RmNldvRVdyaEpVR0Y5YkkzMmNwbzg4WkN3aWlDbTh3UjUweTJiUEQ0WEdnUW1ZUzNBRFhSaDFrQzBzNTNPdjJ1cDlJVzNUR092ZC1mTVJGWUFLMGtDZDBVNA?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T08:44:50.000Z",
-      "originalHeadline": "\"الواحة كابيتال\" و\"سلامة\" الأكثر صعوداً في بورصات الإمارات بالمنتصف"
-    },
-    {
       "headline": "The official price of #Oman_oil for delivery in next October reached $79.16 today.\n\n#Omani",
       "url": "https://x.com/OmanNewsAgency/status/2084923486515220722",
       "source": "Oman News Agency (Arabic)",
@@ -2704,17 +2711,6 @@
       "country": "Kuwait",
       "language": "en",
       "date": "2026-08-05T08:41:50.000Z"
-    },
-    {
-      "headline": "The Foreign Minister meets his Iraqi counterpart on the sidelines of the ministerial meeting on Jerusalem in Amman",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qUEVjNHhESGViMFJTY3BoeWJIcFFWNjYxSjdFQlEyblU2M0M2MGUwNlotWXB6QlpydVlMOWhja0FlVm9XdXdNZEpMQ0tuN2RieTVCcmtwbUd6M2VyZVE2Tms1YWpUbi1jMUpHWXdkTmRHelVxUFE?oc=5",
-      "source": "mfa.gov.eg",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-05T08:41:31.000Z",
-      "originalHeadline": "وزير الخارجية يلتقي نظيره العراقي على هامش الاجتماع الوزاري حول القدس في عمّان"
     },
     {
       "headline": "Urgent\n\nStatement of the Annual Conference of Yemeni Scholars for the Year 1448 AH titled (Yemeni Scholars in Confronting Aggression and Siege):\n\n- No alliances will deter our people from reclaiming their legitimate rights and national wealth\n\n- The Saudi regime must take a",
