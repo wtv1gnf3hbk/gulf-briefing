@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-08T08:34:07.188Z",
+  "updated": "2026-08-08T09:03:00.020Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Pakistani Deputy Prime Minister and Foreign Minister Hails Historic Makkah Joint Defence Agreement",
+      "url": "https://spa.gov.sa/en/N2649662?type=news&uuid=N2649662",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-08T09:00:57.000Z"
+    },
+    {
+      "headline": "Donald Trump - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-08T08:52:51.000Z"
+    },
+    {
+      "headline": "Qatar National Bank: 3 factors support the resilience of the American economy despite the current challenges",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQMUxVVEhZSlBHM0ZuZDlONVpGNXhOTnpiT2sybnZmVFJnc0UtbmdPQnpKWEVxTmtFV0NNdE5ydDY0U0tLZnBRWGYyRl9vdXV5TlVBdWktU1praW4xVzlLcEhoU0l4RmhZeTNPWXVDZTdlbzFDUEpCZEhFX0RKUTJYUTlNajRYaEUycUowZTVOTTYzXy1wWl81dXdydFo4NUZNVTYwSTFfdlhLM1Nmalp1STNwd29md01rZTlZbFlGaEZKNlpKa2FQYm9zOW92WUpIUlBkUlZiZ2hYZ0piR0VkZzlkVngxT1p1bmM1aWJKYl9nYkR2cjBndC1CSTlTY29mcFMyUk5IWXVEcnNZRWNaanhMdkNwTWFWTlVRUjBEVXJBMkIxYWtwSEpLWnRlbmxvS1FSZmtkN2hib0FLel9TNm9fZEVBRzRXUko3UUVXYVJaX1Q0RDB5TlJOOEFUREJJVUNRQkQyckpQN3N6aUZvLXJRLUlRbzhzbHQtdVo5Y1l6ODdBSDBDby1xNzNsQ2JZcnBYSWFJSkxrRDNEM3cxeHE1TjAtZG9MLXdlc0lmY191SjBVR1hrQUpRcHJGUkh4V3RIUzhvcExER2VRcDhUWW91a2pzbTdiWldxTjhjeWoxcFV6RHM1M25jWC00VGJiRDRvSTFWUnhmQjhIamhRWWRJTmxKQ3VpeVlFWUw5SVp2eDJHczVLaXhzWVNLWmdVUlFoT0lqV3c?oc=5",
+      "source": "معلومات مباشر",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-08T08:50:36.000Z",
+      "originalHeadline": "قطر الوطني: 3 عوامل تدعم مرونة الاقتصاد الأمريكي رغم التحديات الراهنة"
+    },
     {
       "headline": "National Security Operations Center Receives 2.7 Million Calls in July",
       "url": "https://spa.gov.sa/en/N2649644?type=news&uuid=N2649644",
@@ -13,14 +44,27 @@
       "date": "2026-08-08T08:30:18.000Z"
     },
     {
-      "headline": "Donald Trump - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
+      "headline": "The Yemeni army says it has responded to the attacks of the Houthis aligned with Iran",
+      "url": "https://www.bbc.com/persian/articles/c9d8v2vqp26o",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
       "language": "en",
-      "date": "2026-08-08T08:26:47.000Z"
+      "date": "2026-08-08T08:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ارتش یمن می‌گوید به حملات حوثی‌های همسو با ایران پاسخ داده است"
+    },
+    {
+      "headline": "The meaning of signing a Saudi-Turkish-Pakistani agreement.. A former American ambassador comments",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1ZqdG5DUG4tSU1tUFNmeEIwSkpfNzE0TWIzYzc5ZE1QeHN5c3djODNZOXdwUlBreXFNVGd4ZzNFRnpNdGIxWEd3NTFJY2tUcDdCWlNoUUlROGpjVVN1ZTBLQUlCYVRxaVFsMDdFWHIzOGF1T0gzRlNDNVhnZWc3RUZWZk1HTnVDc1B2d1B3TmF6UlhCUm03OXlyamE2UklURlZ4NkZ1Z29YMTR6MkZyeUppMmJRSXlVdWfSAcQBQVVfeXFMTW50RUxqaVhBNjRoVGNCMnVqMEZRaFNrNUJBbDJYRnpyODN1REViWGd1X1pqS3FlOGlRQ1RFbVFITmdWbDRrd1dlamx3ZzZ4ZkJ2cnJFUG01VXM4ajVnbnB1Q3loRzBnSllPMVJITS1aN2JaUDJxbXNvNDdzbG5oOEpQdzRONU1ndHpCRDJFejJPaDZ4ODZyQ2llamJ0V3pmM2VJVkpENkhIckVsQnZvSmZtVXRtNGlkLUpRcDhKNlRDVTdGWA?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-08T08:24:20.000Z",
+      "originalHeadline": "معنى توقيع اتفاق سعودي تركي باكستاني.. سفير أمريكي سابق يعلق"
     },
     {
       "headline": "Over 162,000 Registrations Recorded for Summer Educator Programs",
@@ -43,7 +87,7 @@
       "date": "2026-08-08T08:07:09.508Z"
     },
     {
-      "headline": "News and Analysis - Saudi Arabia, Turkey and Pakistan: “The Mecca Joint Defense Agreement” at a moment of regional tension",
+      "headline": "News and Analysis - Saudi Arabia, Turkey and Pakistan: “Mecca Joint Defense Agreement” at a moment of regional tension",
       "url": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxNd1VIQi1BV3RIRUNhc3hZc21IeWk4UjBLVFl5VzVqQWg3enpQNDVEbmRGZWsxSGNieEVkSXdIX29aRl84alNtTlZDOXNlRHpDRDdkQnpHWnZyV3ktdGx0VlBxWEx2SjZfZF96WVhOYVFSMEhicUZobzJKQlBpU2pNTmNubnRJLUo1S1VETm9wX0thWW94N1JmQ243N21nOU1YY1phc1dwemdyam5POUstU1VoMXgxYnU4TGc5Q3RuN01Td1VyeWhSR1FjNHFsdWhLZzh0V3ZNZExZS0JKRmh2N1FCY2xFN0J2ZmZPekRsQ3pvZ2hnQWk0M0YtLUJSY25qWmJSWGR1Mi1waFlSclFQLWJWNWJpUTJBdDB2elRvT1FmbjA1VEFYbDFSZ1h1cFIydVBqd3ZLUDk2cnFtMGR0ZkhUUmRQZEpIa09JdmM5dGRqeTNfUHNWal9QcXFoWkctUENTVmxYNnVxTzJYRFh2R3R1ZnUyYnFHd2V4ZFpSZFdZYVRfNmIzM1EwdEdoRmVvQjBBb1RwRzZVdzNTUGNuZ0FCVEtocklxdVdSc3Fsa1RSMHJqSFVBenJrdnVOa05sZ3JQekNJb0RyN04xMVdOUTRtWWROLXNDMVJrRGJxVFpiZlBKb2E2eUN1SEZxX0tjcVF0dUZRNTBNMFpDbC1QamppYzMwZnc4dm5NZXZVRkRZN25DUEpzOEhJMHZQZ2hYNGxkbXAtRTk3Qk5uTlFmZS1QT1paN1NsTlRpS0pXdnRkNDNjVkx1RVk3QjdiRUxzdThjT3Q2ZkhibjA0c0Z0Rnlqa3h4RUdrMDFfS2RQU3ZKNTYzSXV0UlFNWnNBTzVCdVdBNXppR25VWEJNaEVpV0Z3di1mc3lRYTZXWjQ2Q3pZbkR4cER4N0VveXoyQkFMdzBCMlNwSjF1YS1NYzBabTRGLUVqZURNNGhia0VmaTBxSGVEdFVTeHlHU2h5X3BsMm1UWU13?oc=5",
       "source": "مونت كارلو الدولية",
       "sourceId": "google_news_gulf_arabic",
@@ -51,7 +95,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-08T08:04:51.000Z",
-      "originalHeadline": "خبر وتحليل - السعودية وتركيا وباكستان: \"اتفاق مكة للدفاع المشتر��\" في لحظة الاحتدام الاقليمي"
+      "originalHeadline": "خبر وتحليل - السعودية وتركيا وباكستان: \"اتفاق مكة للدفاع المشترك\" في لحظة الاحتدام الاقليمي"
     },
     {
       "headline": "EU strongly condemns Houthi attacks against Saudi Arabia, Yemen",
@@ -95,6 +139,17 @@
       "date": "2026-08-08T07:46:56.322Z"
     },
     {
+      "headline": "Why did the escalation return to ignite the Yemeni front?",
+      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQV1l1d1M2VFBLaFFxMFhlbVlZMU9FTHJSbm1fTVU3aGU4YkctLUowczFjWHVtNHROM0lvLTgxZkV3ZDVCMnBLbTQyUElpeWlWTHpYbHptcFhRTy00V2ZOZzJTaEljeXZFYnZwNjZSaGloeGhiQWtFTmQ1UmtiSEVMWFhJbHlEZTZhd09pN2NJWXMzWGR5WXhOWnpZUFQtcktoMnpJTW56b2NMQkEyTGI5ZHNFdzNuNTA5RXFTVUplcko2Y2VLcWlob2NnVGg4U1RicHpnOTVzdnJxRTZKdWVRMTIzU0lBdzd2X05TM21JZ0pLcEEtQkR1T2x4Smpod0Vib2RuUWhEOVFqMHppUVNrdlVmMEFNYTNJOEpzNWZnMmdubHRqU01jY2dCLWFETXhlbXVUSEE1cWJza2ZOSjd3RVBYc2xKZFJDUWw5Rl82MEtPU0V2UEFqbjZJVWd3NUtXQS1yd2cwOE5FeXVnSmxDcXBxcWpqQ2JYOVR5ZWcxcmZNTE1XUm5OaXM0TWp4Rm9jRkg5NnQwaHNWVjFpN0hEeEYzbklDYW5sYnc4WUNTdHlMOFZSTjFmXzhQVDgzVm5ueXdrSXBSTWhWdGxQTG5hOFM2ZmlGMFRHWXVlTXAySWt3RWpsT2FVWXMxVmFyUnRDNUtoU1JBZm16VVN1Nk9hRFdjaw?oc=5",
+      "source": "مونت كارلو الدولية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-08T07:44:19.000Z",
+      "originalHeadline": "لماذ عاد التصعيد ليشعل جبهة اليمن؟"
+    },
+    {
       "headline": "America expects to reach an agreement between Iran and Oman regarding Hormuz soon",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QktnbGJuUTdmVFQ4MEtwbHE0Uml2SHhVb2NxdEh4XzJERUhsNnNYTkE0VnJwWEhqekNBaTFvUGFiaDJaNnlzeXVPSU1la3psck5VRVN3?oc=5",
       "source": "بوابة الأهرام",
@@ -106,12 +161,45 @@
       "originalHeadline": "أمريكا تتوقع التوصل لاتفاق بين إيران عُمان بشأن هرمز قريبًا"
     },
     {
+      "headline": "Palestinian Authority , Bahrain , Muslim World League Welcome Saudi - Pakistan - Türkiye Defense Pact",
+      "url": "https://english.aawsat.com/gulf/5304631-palestinian-authority-bahrain-muslim-world-league-welcome-saudi-pakistan-t%C3%BCrkiye",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T07:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "UN Envoy Warns Yemen on Verge of Wider Conflict",
+      "url": "https://english.aawsat.com/arab-world/5304649-un-envoy-warns-yemen-verge-wider-conflict",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T07:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Yemen Army Carries out Military Operation Against Houthis in Retaliation to Their Attacks",
       "url": "https://english.aawsat.com/arab-world/5304647-yemen-army-carries-out-military-operation-against-houthis-retaliation-their",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
       "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T07:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Kwa nini tupigane ikiwa tunaweza kuzungumza ? – Rais wa Iran",
+      "url": "https://www.bbc.com/swahili/live/cm3w0zyglv10t",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
       "language": "en",
       "date": "2026-08-08T07:30:00.000Z",
       "tier": "gdelt"
@@ -161,30 +249,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Palestinian Authority , Bahrain , Muslim World League Welcome Saudi - Pakistan - Türkiye Defense Pact",
-      "url": "https://english.aawsat.com/gulf/5304631-palestinian-authority-bahrain-muslim-world-league-welcome-saudi-pakistan-t%C3%BCrkiye",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-08T07:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Typhoon Dolphin Hits Japan Okinawa , China Shuts Ports Ahead of Landfall",
       "url": "https://english.aawsat.com/world/5304644-typhoon-dolphin-hits-japan%E2%80%99s-okinawa-china-shuts-ports-ahead-landfall",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-08T07:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "UN Envoy Warns Yemen on Verge of Wider Conflict",
-      "url": "https://english.aawsat.com/arab-world/5304649-un-envoy-warns-yemen-verge-wider-conflict",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -228,7 +294,7 @@
     {
       "headline": "Fitch confirms Kuwait's credit rating at AA-with a stable outlook",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrMExIV3B4WFBIcDlBRng2TVFOV3ZCSFFGTEFEUDk0MU1YRV9GMjliV0RKVElhR3R2R2prNnEyb29NNFhDNTNxTXdjc1NkYzd1WkpsOUdEdnNsaFE?oc=5",
-      "source": "alborsaanews.com",
+      "source": "جريدة البورصة",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -286,7 +352,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-08T07:00:34.000Z",
-      "originalHeadline": "رسميًا السيسي ي��علن العصيان لـ صفقة تاريخية ومصر ترفض عرض السعودية.. كواليس أخـطـر 48 ساعة ! #خمسينة_اقتصاد #مصر #السيسي #السعودية #تركيا #الإمارات #إيران #ايران #الكويت #قطر #باكستان #البحرين #عمان #جيش_مصر #الجيش_المصري"
+      "originalHeadline": "رسميًا السيسي يُعلن العصيان لـ صفقة تاريخية ومصر ترفض عرض السعودية.. كواليس أخـطـر 48 ساعة ! #خمسينة_اقتصاد #مصر #السيسي #السعودية #تركيا #الإمارات #إيران #ايران #الكويت #قطر #باكستان #البحرين #عمان #جيش_مصر #الجيش_المصري"
     },
     {
       "headline": "Cuts that reveal more than they hide... Georgina Rodriguez and bold fashions over the years",
@@ -358,6 +424,39 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Makkah Agreement : A Defense Pact between Saudi Arabia , Türkiye and Pakistan",
+      "url": "https://english.aawsat.com/gulf/5304626-%E2%80%98makkah-agreement%E2%80%99-defense-pact-between-saudi-arabia-t%C3%BCrkiye-and-pakistan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T06:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi AI Team Wins Three International Awards at IOAI 2026",
+      "url": "https://english.aawsat.com/technology/5304625-saudi-ai-team-wins-three-international-awards-ioai-2026",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T06:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Arab League Condemns Houthi Attacks on Saudi Arabia and Yemen",
+      "url": "https://english.aawsat.com/gulf/5304617-arab-league-condemns-houthi-attacks-saudi-arabia-and-yemen",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-08T06:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Saddam Hussein's daughter publishes a video of her father and crowds of Iraqis on the anniversary of August 8",
       "url": "https://arabic.cnn.com/middle-east/article/2026/08/08/iraq-saddam-hussien-iran-war-anniversary-8-aug",
       "source": "CNN Arabic",
@@ -372,28 +471,6 @@
     {
       "headline": "Syria : Jaramana Voices Point to Israel as Prime Suspect in Bombing",
       "url": "https://english.aawsat.com/arab-world/5304618-syria-jaramana-voices-point-israel-prime-suspect-bombing",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-08T06:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Makkah Agreement : A Defense Pact between Saudi Arabia , Türkiye and Pakistan",
-      "url": "https://english.aawsat.com/gulf/5304626-%E2%80%98makkah-agreement%E2%80%99-defense-pact-between-saudi-arabia-t%C3%BCrkiye-and-pakistan",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-08T06:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi AI Team Wins Three International Awards at IOAI 2026",
-      "url": "https://english.aawsat.com/technology/5304625-saudi-ai-team-wins-three-international-awards-ioai-2026",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -437,17 +514,6 @@
       "date": "2026-08-08T06:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "أمير سعودي يرد وسط جدال حول الاتفاقية الدفاعية التركية الباكستانية السعودية"
-    },
-    {
-      "headline": "Arab League Condemns Houthi Attacks on Saudi Arabia and Yemen",
-      "url": "https://english.aawsat.com/gulf/5304617-arab-league-condemns-houthi-attacks-saudi-arabia-and-yemen",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-08T06:30:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "5.5 Magnitude Earthquake Strikes US State of Alaska \n#QNA\n\nhttps://\nbit.ly/4hgTW4x",
@@ -564,6 +630,17 @@
       "date": "2026-08-08T06:00:04.000Z"
     },
     {
+      "headline": "We have no tents or blanket : Ceuta migrants struggle to survive brutal heat and freezing nights | Refugees",
+      "url": "https://www.theguardian.com/world/2026/aug/08/we-have-no-tents-or-blankets-ceuta-migrants-struggle-to-survive-brutal-heat-and-freezing-nights",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-08-08T06:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Bazashkian in his second year... political messages and an unusual interview | policy",
       "url": "https://www.aljazeera.net/politics/2026/8/8/%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%B9%D8%A7%D9%85%D9%87-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9",
       "source": "Al Jazeera Arabic",
@@ -598,17 +675,6 @@
       "date": "2026-08-08T06:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "بعد تنصيبه .. النمر يتعهد بتصفية نفوذ العصابات في كولومبيا"
-    },
-    {
-      "headline": "We have no tents or blanket : Ceuta migrants struggle to survive brutal heat and freezing nights | Refugees",
-      "url": "https://www.theguardian.com/world/2026/aug/08/we-have-no-tents-or-blankets-ceuta-migrants-struggle-to-survive-brutal-heat-and-freezing-nights",
-      "source": "The Guardian",
-      "sourceId": "gdelt_theguardian_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "en",
-      "date": "2026-08-08T06:00:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "Zayed bin Hamad reviews UAE Customs' efforts to combat drug smuggling\n\n#WamNews \n\n\nhttps://\nwam.ae/a/17d2lqh",
@@ -2551,16 +2617,6 @@
       "date": "2026-08-07T18:52:00.000Z"
     },
     {
-      "headline": "Pakistani President Welcomes Signing of Makkah Joint Defence Agreement",
-      "url": "https://spa.gov.sa/en/N2649444?type=news&uuid=N2649444",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-07T18:51:34.000Z"
-    },
-    {
       "headline": "Bahrain Welcomes the Signing of the Mecca Agreement for Joint Defense",
       "url": "https://x.com/alekhbariyatv/status/2085800811343286684",
       "source": "Al Ekhbariya TV",
@@ -2569,27 +2625,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-08-07T18:50:40.000Z"
-    },
-    {
-      "headline": "The joint defense agreement between Saudi Arabia, Pakistan and Turkey.. What do we know so far?",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTmdhb0s3YmxIVzMtVFBhX1NmT0VFeW1qa1Byek5zZEJQXzZCX19ENS1jUVY3X3BDUE16MVBtV19IY0ZQcUNJcUdRZ0ZGY2lIdncycGN6Q3AxQVVubjhXV3FESlRHcllpR2xVaWdha3AwOVRVdWkxbmtGaVZaX2YzdEdfemZjTllSSHFWVG0yMWo5X09JYmRwZWdVTjlWYVBJV3hFUEJ4T3RLbnBRTGpldkRVMDRsWUx2bVRlaTB4RUFOLXFoVlN4blFldzRsUW16dzRGVmFHN1pRUTNzT2ZuVEY4VHpwTmFVYXRSSUdZcnREMGNKREZwSko5b0MwcHowdHlYdTVVM1hyWGdqMUUzQjliLS1OYlFTaVdVOWsyVnZISC0zaFgtdDBBclQ3QdIBswJBVV95cUxQMlkwSlBvUS1JMncyOGNGZGd2UWZDMTd5Q3NWVXZCUktSMk9SZ0p0VlRQUFhVeXR3bW5PTGo4eTJyM0RSbzQwMzUxajZuLU5XR2lOYVFaRzFGMHRZelpWdVhNRm9Pa19VRDV6Vm5Hb250dmVGSlp1X2RnWWhrYUhpeFpjVE9NMWVGZENVS2QzZmxaOU43ck85Tm12TWtZZXc1NWFTd0ZXN1QzNjNSY3Q0cWlnNXRCLTVOdVFMVDVmb1BxSERxZTlQY1dpNkY5RWxBWmo5dE9taTgyZDQwcDBQRGVUTDhhMnJHRklVeGhBYzNFRzJtQUpGalUwRWw4YkM3bHBTVnhRZVdsajhERnItRVM2Ml8zVm5TUmUwblM1bjdUY1hUQWdHRDh3U3p3eEFCRm1v?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-07T18:50:14.000Z",
-      "originalHeadline": "اتفاقية الدفاع المشترك بين السعودية وباكستان وتركيا.. ما الذي نعرفه حتى الآن؟"
-    },
-    {
-      "headline": "War and unrest - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-07T18:48:56.000Z"
     },
     {
       "headline": "Two human rights organizations condemn the escalation of terrorist Houthi militias against civilians, displaced persons, and international navigation.",
@@ -2656,26 +2691,6 @@
       "date": "2026-08-07T18:38:44.000Z"
     },
     {
-      "headline": "Lebanese Prime Minister Receives Saudi Ambassador",
-      "url": "https://spa.gov.sa/en/N2649441?type=news&uuid=N2649441",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-07T18:38:26.000Z"
-    },
-    {
-      "headline": "US economy loses 23,000 jobs in July, unemployment rate falls to 4.1%",
-      "url": "https://www.wam.ae/en/details/c1m4n1o-economy-loses-23000-jobs-july-unemployment-rate",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-07T18:38:21.396Z"
-    },
-    {
       "headline": "Pakistani Prime Minister: #Makkah_Agreement_for_Joint_Defense embodies fraternal ties and a shared will to enhance peace and security.\n\nhttps://\nspa.gov.sa/N2649421\n#واس",
       "url": "https://x.com/SPAregions/status/2085797268586713548",
       "source": "Saudi Press Agency (Regions)",
@@ -2685,16 +2700,6 @@
       "language": "ar",
       "date": "2026-08-07T18:36:35.000Z",
       "originalHeadline": "Pakistani Prime Minister: #Makkah_Agreement_for_Joint_Defense embodies fraternal ties and a shared will to enhance peace and security.\n\nhttps://\nspa.gov.sa/N2649421\n#واس"
-    },
-    {
-      "headline": "Islamic Affairs Ministry Issues Guide for 46th King Abdulaziz International Quran Competition",
-      "url": "https://spa.gov.sa/en/N2649440?type=news&uuid=N2649440",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-08-07T18:36:02.000Z"
     },
     {
       "headline": "The Pakistani President welcomes the signing of #Makkah_Agreement_for_Joint_Defense.\n\nhttps://\nspa.gov.sa/N2649416\n#WAS",
