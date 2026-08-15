@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-15T23:03:49.802Z",
+  "updated": "2026-08-15T23:34:00.319Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "MBZUAI develops landmark benchmark to bridge cultural, dialect gap in Arabic AI",
+      "url": "https://www.wam.ae/en/details/17djr00-mbzuai-develops-landmark-benchmark-bridge-cultural",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-15T23:12:22.212Z"
+    },
+    {
+      "headline": "GCC Secretary General condemns repeated hostile Iranian attacks on ADNOC tankers",
+      "url": "https://www.wam.ae/en/details/17djqzz-gcc-secretary-general-condemns-repeated-hostile",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-15T23:05:25.847Z"
+    },
+    {
+      "headline": "Worth 9 million euros... Italian police recover 3 stolen paintings by Renoir, Cezanne and Matisse",
+      "url": "https://www.aljazeera.net/culture/2026/8/16/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D9%84%D9%88%D8%AD%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-15T22:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "بقيمة 9 ملايين يورو .. الشرطة الإيطالية تستعيد 3 لوحات مسروقة لرينوار وسيزان وماتيس"
+    },
+    {
+      "headline": "Erdogan: Egypt's accession to the defense agreement with Saudi Arabia and Pakistan is possible, and Turkey will not leave Syria and Gaza",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UWVDdUZvYzBDbEFlRWd3MjR4TEhQQ1A2LTR0LXAwamNRc3FSdkh2SGdJaVhPTDB4bXRiV1FWVEFBbXA2NV9xREZ1Y3dhcE9CLTBfeVhMMFU?oc=5",
+      "source": "TRT عربي",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-15T22:19:19.000Z",
+      "originalHeadline": "أردوغان: انضمام مصر لاتفاقية الدفاع مع السعودية وباكستان ممكن، وتركيا لن تترك سوريا وغزة"
+    },
     {
       "headline": "(Multimedia) Qatar denies detention of Iranian pilots (expanded) - ��华网",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UTllSYmd1QzlGMEdXSkN6RTI5MjVMS2tyb19WMEdKTnYwMVFjc2dULWlKc2tQS3VQQW8wcHZTbVpNZ0lDa2pmWVpIeS0ybTVpQkZRTVA2MktRSmM2UVJtOUVfX2gxWGxnOG43Y2RfOG1sXzNRYThsUkZ3?oc=5",
@@ -44,6 +87,126 @@
       "date": "2026-08-15T21:31:05.000Z"
     },
     {
+      "headline": "Al-Houthi bombs Marib neighborhoods crowded with displaced people... and the Yemeni army responds with painful strikes",
+      "url": "https://www.okaz.com.sa/politics/na/2261440",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الحوثي يقصف أحياء مأرب المكتظة بالنازحين .. والجيش اليمني يرد بضربات موجعة"
+    },
+    {
+      "headline": "Painful strikes by the Houthis in Taiz... 3 killed and field commanders injured in Maqbanah",
+      "url": "https://www.okaz.com.sa/politics/na/2261450",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "ضربات موجعة للحوثي في تعز .. مقتل 3 وإصابة قيادات ميدانية في مقبنة"
+    },
+    {
+      "headline": "Iranian delusions and “riding on the head” will not frighten the world",
+      "url": "https://www.okaz.com.sa/local/na/2261467",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الأوهام الإيرانية و « ركوب الراس » لن يخيفا العالم"
+    },
+    {
+      "headline": "The Yemeni Deputy Minister of Transport told Okaz: Economic establishments will not be hostage to Houthi blackmail",
+      "url": "https://www.okaz.com.sa/local/na/2261472",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "نائب وزير النقل اليمني لـ « عكاظ »: المنشآت الاقتصادية لن تكون رهينة للابتزاز الحوثي"
+    },
+    {
+      "headline": "The President of Nigeria appreciates the initiative of the Muslim World League for Community Peace",
+      "url": "https://www.okaz.com.sa/local/na/2261471",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "رئيس نيجيريا يثمن مبادرة رابطة العالم الإسلامي للسلم المجتمعي"
+    },
+    {
+      "headline": "Authority cars.. What do presidents’ vehicles say about their countries?",
+      "url": "https://www.okaz.com.sa/variety/na/2261478",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "سيارات السلطة .. ماذا تقول مركبات الرؤساء عن دولهم ؟"
+    },
+    {
+      "headline": "The Arab League warns: The Israeli escalation threatens the explosion of the Lebanon front",
+      "url": "https://www.okaz.com.sa/politics/na/2261447",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "الجامعة العربية تحذّر : التصعيد الإسرائيلي ينذر بانفجار جبهة لبنان"
+    },
+    {
+      "headline": "“Smell Traps” and “The Journey of the Najdi Boy” in Korean and Kurdish",
+      "url": "https://www.okaz.com.sa/culture/culture/2261451",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« فخاخ الرائحة » و « رحلة الفتى النجدي » بالكورية والكردية"
+    },
+    {
+      "headline": "Apple retires the iPhone",
+      "url": "https://www.okaz.com.sa/variety/na/2261468",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "« أبل » تحيل آيفون X إلى التقاعد .. الصيانة تتوقف رسمياً"
+    },
+    {
+      "headline": "Blood and fainting in a fist fight between the wives of a major Arab star.. What is the story?",
+      "url": "https://www.okaz.com.sa/variety/na/2261382",
+      "source": "Okaz",
+      "sourceId": "gdelt_okaz_com_sa",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-15T21:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "دماء وإغماء في اشتباك بالأيدي بين زوجتي نجم عربي كبير .. ما القصة ؟"
+    },
+    {
       "headline": "Arab League Decries Israeli Attacks on #Lebanon as Grave Escalation Scuttling De-escalation Efforts\n#QNA\n\nhttps://\nbit.ly/4qjF080",
       "url": "https://x.com/QNAEnglish/status/2088739196164768048",
       "source": "Qatar News Agency",
@@ -52,6 +215,16 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-08-15T21:26:45.000Z"
+    },
+    {
+      "headline": "Benjamin Netanyahu - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-15T21:26:23.000Z"
     },
     {
       "headline": "Iran and Oman are close to an agreement to regulate navigation in the Strait of Hormuz",
@@ -216,6 +389,16 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-08-15T20:13:38.000Z"
+    },
+    {
+      "headline": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-15T20:06:00.000Z"
     },
     {
       "headline": "Tehran: We agreed with Oman regarding the maritime navigation map in Hormuz",
@@ -503,16 +686,6 @@
       "country": "Yemen",
       "language": "ar",
       "date": "2026-08-15T19:04:21.000Z"
-    },
-    {
-      "headline": "Iran claims Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-15T19:04:00.000Z"
     },
     {
       "headline": "The Advisory Committee in Abyan discusses social cohesion initiatives and the phenomenon of girls dropping out of education",
@@ -1097,18 +1270,6 @@
       "originalHeadline": "زيارة تثير الغضب .. وزير الدفاع الياباني في ضريح ياسوكوني"
     },
     {
-      "headline": "The Yemeni Deputy Minister of Transport told Okaz: Economic establishments will not be hostage to Houthi blackmail",
-      "url": "https://www.okaz.com.sa/economy/arabian/2261420",
-      "source": "Okaz",
-      "sourceId": "gdelt_okaz_com_sa",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-15T17:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "نائب وزير النقل اليمني لـ « عكاظ »: المنشآت الاقتصادية لن تكون رهينة للابتزاز الحوثي"
-    },
-    {
       "headline": "The Saudi team achieves 3 international awards at the International Informatics Olympiad 2026",
       "url": "https://www.okaz.com.sa/local/na/2261426",
       "source": "Okaz",
@@ -1293,6 +1454,16 @@
       "language": "en",
       "date": "2026-08-15T16:49:11.000Z",
       "originalHeadline": "فتح البلاغات الجنائية\nFile Criminal Reports\n\n#خدماتي_رقمية\n#MOI_go_digital\n#خدمات_وزارة_الداخلية\n#MOI_Services\n\n@uaedgov\n\n\n#فخورين_بالإمارات \n\nللدخول إلى الخدمة بشكل مباشر ، يرجى الضغط على الرابط التالي\n\nTo access the service directly, please click on the following link"
+    },
+    {
+      "headline": "Yemen | Latest News from Yemen Today - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-15T16:48:49.000Z"
     },
     {
       "headline": "Bahrain condemns Iranian attack on UAE's ADNOC vessel",
@@ -1581,6 +1752,16 @@
       "date": "2026-08-15T15:27:04.000Z"
     },
     {
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-15T15:26:52.000Z"
+    },
+    {
       "headline": "Trade between Oman and India Capturing Newer Heights",
       "url": "https://timesofoman.com//article/175652-trade-between-oman-and-india-capturing-newer-heights",
       "source": "Times of Oman",
@@ -1691,7 +1872,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-15T15:02:19.000Z",
-      "originalHeadline": "خمسينة اقتصاد. . السر الخطير وراء رفض مصر الانضمام لـ \"تحالف مكة\"! #خمسينة_اقتصاد #مصر #السيسي #السعودية"
+      "originalHeadline": "خمسينة اقتصاد. . السر الخطير وراء رفض مصر الانضمام لـ \"تحالف مكة\"! #خمسينة_اقتصاد #مصر #السيسي #ال��عودية"
     },
     {
       "headline": "Licensing Issuance Service via #Salama_Portal.",
@@ -1937,6 +2118,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-08-15T14:35:54.000Z"
+    },
+    {
+      "headline": "Trials - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4xRE9iQ01Ial90bjlLOUxiZlRuRHpHeTZyX3BONTduUkJXRFF1bHFtazhZV2ZXU040TFBWRDdodVMzd0U?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-15T14:22:13.000Z"
     },
     {
       "headline": "USS Abraham Lincoln to return to US after more than 250 days deployed amid scrutiny over sailor conditions",
@@ -2197,16 +2388,6 @@
       "country": "Qatar",
       "language": "en",
       "date": "2026-08-15T13:41:54.000Z"
-    },
-    {
-      "headline": "Trials - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4xRE9iQ01Ial90bjlLOUxiZlRuRHpHeTZyX3BONTduUkJXRFF1bHFtazhZV2ZXU040TFBWRDdodVMzd0U?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-15T13:36:19.000Z"
     },
     {
       "headline": "Reuters - Reuters",
@@ -2561,104 +2742,6 @@
       "date": "2026-08-15T12:51:10.000Z"
     },
     {
-      "headline": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-15T12:49:49.000Z"
-    },
-    {
-      "headline": "Iranian Revolutionary Guard: Qatar has detained 3 pilots since their fighters were shot down in March",
-      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxNQnZ1cGdmTjllcFFXRTZoVlg0VGtsRlVadWxYOVVjd0xKZ0dJazFSenNIUFEyNkhTNGJmZGc0MjVwTkw1S2tMQTN2cDNicGR2MDM1c1R5TzN5cmx3MElCTi1IeWVqYUxfaUM2a1BiQ2l3WHFkQUFqbWEyVXd4WmNjZmdlODd3OURRaFZpX0ZOMXpScURKZWRtTndkbUZsVTRnaXVVd29ISWc0WWJFbkhXanlhRFh5WkdkX1E1SDloNmc5VXR5STk1N3R5c2s0T1JLUnJWa3BSaXdIRDNQNnNVTldIU2VyYjlXRXJ1RFYtanFlUTczUjhkZmlUQ2hMWktqWkVoT1lGdHVxMTVqZEdhN2lNaUNDdk5Ld1pHdzgwLUtqSzVBOHJMTDgwSFFiTElKUUd2TGkzSW5GamFMMno3Zjd4Z2JxdW1fOUVTbk8wUGdxWmJocmFDWnN1Q0c5V1JCSTRtajJYUUJSY3dvR3MzTjVRYWl3Sm5YYkVQc0YyUXR4eG4xbGFuQVlwNWpPUUFmOEFYR1BHNTczeVFWQjMzZ1JxVGdEVFR0b2gxb2J6b09LNmxQV0MybXg1SWdwMV9vRlI5c01sd1REU1pJbjlNbU93UEVaSUNleXpvaTlFRGhZQWhuMUk4X0NpaXhXVkRDX0RMVUxqOTc5SGROM2I4VVNFRjFrMHlpeFlWTFpkYWhHUW1LTDJWTEN1Qk9sRVAzcWI0SWx2NnppM0pGa3d5Q0pkNG9yc2g3T3NLMWltb25uR0lEbTBya25MVmJUN0HSAdQEQVVfeXFMT2hLSlY0NU5wbmd6dUduejhIZC1xbHJuSnJyMlp1bDdSRHd6SzNIV0tRNmlrRWR5SnZ5amQ0a05UR05WeEFDcGZnNS14UUJrcUp2aG9rUTdyMS16NTlsWWxtdndlNFZiRl84YVhPam9fNTJmbUJYdWp6b2pwNjNJYkNPYW92d0EzRHZGR0hYM2xsSGk5MG8xUHNiMS1ZZktsNWp3MzQwajVGX2g1YlRDVklxR0h2YUdRRmtCcTFoVXE4Z2VvblhUd3NDbEswMmZOX0J4R1IwWm5vRmlMNlVrNF91QXVuUkM3SVBNTGlNZlZaa1lkQ0NORjJiTDZzVFVlR2gxSTJEVnFLTG9Zc3g0MlpGR1djUndCTXRibmlBWU1aTzJXaENBLXI1Q3l0RlcyeVFwck56NjgyWGw0aThoWk1OX3hYNUt1UTNfQXpjb0FJRWF2bEFxcGlnaUpFRUxGOWttcXgtRThrc0VaOHdPRXZDTGVudWJZR3dpdDhUTjR2N25DOWZXT2VGanVaTldjUi1FNmtGS2d1cUdHQVhNOFhjcFU5dXVOaGRRY0kzVWQySkVkdkUxemNYc2dmRXJCdm5VQTdQeHlmdF9FZjdfZm9hX3dwcU5mTW9SWjNJQy1RSElrQ0w3anhkaFdYSHo2Q01RRHhuamdzcVBaYkVURWhMRFV6TmMyOW1XanJ6NTNZM0lFVVNpdmJZZF9pNDhPUmpJQlJDS3B2Y2FramxZVjR4Y0FlYW9KUFB4MmhZSDZmOF85cGp6V3VQS0N3NGh0MmpQR2g?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:49:12.000Z",
-      "originalHeadline": "الحرس الثوري الإيراني: قطر تحتجز 3 طيارين منذ إسقاط مقاتلاتهم في مارس"
-    },
-    {
-      "headline": "Agency: Oil pollution affected 12 kilometers of the coast of Oman",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xMkFMYU5tdFQwTl9faTNwYjZRSFhDcmV0MmNkWHFqSGkxbloySTMwQjM5aGNxZUhEZnhxcV9wZzU3RzNxb29zc0EtWEFtQlZ4Q28zWWl3Z0ktcWdhZlZfejU0X0RSbmtWTzkwQTZweXg4MHY4MjQ3emlSYw?oc=5",
-      "source": "Reuters",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:39:46.000Z",
-      "originalHeadline": "وكالة: تلوث نفطي أثر على 12 كيلومترا من سواحل عُمان"
-    },
-    {
-      "headline": "EU reports 37% decline in irregular border crossings in first seven months of 2026",
-      "url": "https://www.wam.ae/en/details/c1qw3en-reports-37-decline-irregular-border-crossings",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-15T12:33:37.266Z"
-    },
-    {
-      "headline": "Iranian Foreign Ministry: Talks with Oman regarding Hormuz are progressing",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPakRvVmIyN2c1ZG83clBPckpoblVjY3pYR2dJTjRkSk10UVlabjFoNFZGbVRwV3VXTDY1NXN5S2ZHQUZCb0JDX2FLRWlLLXBzaG9xcUMwMEtVVmNLNV9GZ1B1WkVEYlk4cTg1a0t3NGpiYjBqLWNCSWxpNlVOdDNwYlU4eXFQa3ZESUZsTkhyRkRjRUF2OW9SanJwZHIzVFJxaDI0anprZHMwdzgzbVRVSG5fVDM5c3JKVzFyUUk3ejFBcExjTUVKV3ZMR3c1dnpLbEJTUTQ0WTlHRmJxM0dzQ2UxMy02dkpTZGIyZHpQVmlSY3ViTXlBV0xMcVNzTjNRTjhJMWNjeDE2alRrOVRNNTRUeE1OZ21pdlAwUzBRWWw5Y0dfbkpjazk2WnViYkoyWURHTVRyLVllQzNNemhqWTR1UXRfbkE0T3lqcjF2WF9vUVNWRjhxSDZqWXVCNDRkMEFsdmFRakphZ253Tzl3QkxJekljM1NCUU9iaTB1dFBySnVzOE5nM0ttbVBsSE1qMTB0dFBYZ3Z3OHJmUzFDM1JZQlgxbGk2MGtxZ1E5T1lRXzA2azU5OVd0M0NIQm1jY1FMUzRhTdIBzANBVV95cUxPTUdkaF9YbW9QTkQyVVN4ODQxQTJZUUpJaldVVUduMjl4U0hHVlpSeTZlSjk1Z1pfV1Y2eUpYVEpMZmFoUU1QLXlVcEZKYnZpR3ZTSkhkbmJOWFNNYVBRM0tXWl9PQldYY2xBY05IWlQyNFFHZlJYSlRVQy1Uek1Db3hfdFFKeWEyY2NCQmYzakFRYzVrT2RURGNYbkJ1cHd1V1BsenhXUHdibjRUU1BlQTk2RjR6bDVWQUR3T2dDM1hYZDdqUzU5RXpvRVVkUmI1OVV5WmJhQVBURGNhUllfOXp0R2UwR19vXzZFRl9rN3FTc2RNMm81cTZfR2FVUm5meEdvaS1DSmdMNHoxUGJ5NzdCRDdqek1BT3AwbW5Qa1Zoa1E3RENtZ1NjckpJc1daOExwbm9QNG1tSndCOGNzdUs1NjVGam1NUjZXUjBXeGRhQ19XdF81RTYtc3hGYTdFWE5zYmkwcEZpcDh3Qm5tTFhSS3ZkTGhMX3NkU1ZXbkdLU292ZlJxZEJETkFwZzhSUzdhVEVuUk84Ni0ydWY0aXo0dDhQVzdackpHdmk0NmNVcFkyMXR0RzJ3cXRwTnQ1RXRadUlnOFV4bzBF?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:32:00.000Z",
-      "originalHeadline": "الخارجية الإيرانية: المحادثات مع عُمان بشأن هرمز تتقدم"
-    },
-    {
-      "headline": "Kuwait: Settler attacks are an extension of the occupation’s escalatory policy against the Palestinians",
-      "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPdlhUdk9JSHhDOVlUQTk2eDhhTHBxb0F3ZGFZeHdLYjZYZGIxNzA3QWRsOC1lLUJyWG5Td2VDT2xwSklnaTZPd0M2WHVVWU9rOHZVd3JLcXRUZXpURUd1Y0czV1VXNkJOSXFIYk9lR2ZRVE9uTWozejM0TEFvVTNwa0E0Wm5UZTVwRnBSSXZHZVAwaC1oWW5LVXNPa2hnSzJocF95U2l1SWlQNlU3dDFxLW5zai1ndmpJaXZvdnRqNXVxNzdmenJLLWZacGdyR0NaX1hZWXdoLVNhN1Byb3RTdk1aS2ZhME9lSDE3TWp4QzBfMGtRZF91US1zU1lmd1BaRzFTUXpxdU85VXhOdnh3OENZV3EtdG5BbVpsWmJOR3BVd29PWlVaQS1XaGhkaHFOa2w1SFhGVDZla2J0Mi1SVkVBUnQ4WlJJM0MtMzdnaENKeVJMWlZnMG9mNzRkMUFZR1h1eWFtcDZrREo0REktSDdxbUxyS0RhWUZCbTRkVUhScVp3ZmliT2ExMnNYLUYycS1qOVlTSDZPVm1nbVpRTzlqemhMbUNBM1ozcU5XNzFJd3hFV1A2RWZ0azYtdWhUVUZUd2lQMDFWRkV2V2FwekxXcHVXYWhGVXJ5SWxLOHpvVUZWQnZ1V3hmME9JUmdvVXdNMXFRYnhaZGQya2t2TDhVR3dIZDd4WERUUnMtc3pGODNaZnp0enBhMGpvLUZZS1lsVW1aWjc3S1I1RGFKRXVUN3Jha2NvNkFKcm5HaFNLajN2RGhvYmhPLWlubU1mOUc3MGZseWx6WmZpcWdhWDFmbGVPYWMyTUpCOEJ1Qi1qTlB3dWhvSlBZWHFsemNMelE?oc=5",
-      "source": "الهيئة الوطنية للإعلام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:26:24.000Z",
-      "originalHeadline": "الكويت: اعتداءات المستوطنين امتداد لسياسة الاحتلال التصعيدية ضد الفلسطينيين"
-    },
-    {
-      "headline": "EA's huge deal.. Why is Saudi Arabia spending $55 billion on the gaming industry?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3c0SXc4dU5WcUJwWVF2Z3hGYUF4b08yM1JMZUhzNDlFT0RBdEFfLW5IZDJPWmhBVmZWSUJGNVlOeUxaTDBJV2NCSDhiaEhXbHVDZk1MUWxnWHVnN201SGRlX3AxUGJtb2ZLVW1vRFlvNHpmbGhzdFh5Q2NjTkZvQkVneklsOUdJLWFwdHh2ck43TzA?oc=5",
-      "source": "i24NEWS",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:20:28.000Z",
-      "originalHeadline": "صفقة EA الضخمة.. لماذا تنفق السعودية 55 مليار دولار على صناعة الألعاب؟"
-    },
-    {
-      "headline": "Revolutionary Guard: Qatar has detained 3 Iranian pilots since their fighters were shot down",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNV21RUTlpUEtNMW83aTR3MDN5Nm5qUGRFc3lMZFRTdE9TTnJ5R1RjWUI5MHd3REdZTmFWTndsVjgyVnhXQTdFNnNIWktDS1VfYnQtTnB6aFZGMndkb3otenZmemV3ZHlueHAwZkdUdHNHRjQyLV9KWGlCQWxZSEhyN2NDeE1FcTVnRVZVdkd0Z05BY041d3dFRUVpVnRkc09wd2lTNDZIT2ZpeTZjRHR4aVVsSkFHTDV3dmQ5eTBVN0lYNXFfbmtfM1RiMUxKOXJsQlFtcjczZ1F5cjJfaVpicllSZDBFTVI5SFhydEZ4MGVweGZZWWQzZ1VsM2NZQlIyb0V2enFkYjFxUFZURVh6dUtjc1ctZU5DVEl4elk4M2RuSHNfZWVXTUxIM19MNENTbjdjNG9TZjg2ZldyQXR3WC1ndUVfR1libnNGMWxzaW55VzJQemM1MUR0a1F5SEFZMkZqRnk2LVBMaGFmd0pTalFsX3RxSXRzRXoxYk1KNG83ZjlfZ3hyVVRVb2otSllFLWZ3Q1pHVHNVb181SU9rU1pQNjMwV3FzQnZ0RkE2UG9LdmhvdlNySmVnbldZZU5oNkdpSk5laUlBc09ZTXdEYmRPYVRYaThyMzB5aWZFQnVFOTNVcXVNSV9nSjAtY21Xb3dXVThZTDlQOGdrQWZDSjlpdEFKYnfSAYwEQVVfeXFMTW5LcFNneERjMldlUUQ1aHRwdG5DRzZJT2NHMTVURHU2SzZIMVdRY1RTMnV2bDNVWElNVlZIdW53RmlEYnA1UFlaQ2dhTmdHUFYwb3dhN1BtMXF5bEdCN1JBcjVrdVh0LURsc3lUU0pBMC1Wa0JsSXM0Uk9HSXBnUU9mZmluYXRvNTg0SHlLN3lSY0RyYklQREFpNWhmSTlxeUh1bTZRZ01fSlQzZmFTek96Ymhueng0b0pYMWRldU8zWHJaS0FJdDkyZE9UckdXTDVEWE5SSXhoR3pWVklOUzEzdzNfN3BhUGRPWXBJcnpZUDZ5UUlUS3dmRFBCbVlHV251VVc5aGV2R0U5ZmlocEQ1MTh5MjZKY1BRZlhTbU80bVYwNDlwaEdfSDd6cUFfQnJPR3V3cHNaSVB6bkNjeVlncmdkSHBRbWljSHk4SW5XMk8zeXBHNGU2S2RUY19Cel9qbmFPQjJPcWxDZkJ5MVhJM0c5azF4X0lWWTdiamVRc3Z2Si1GbnZ3UU85ZzlaVU1jNmJoRmJKT1VOX1VTeXh6WXJsWXBzdnBpVG5pN0Z0TGs1Vm1tYzhtakpwNkVDbm5faWZwNTdub3pVbnF5NENJYWpmQlpQNENvaDVLeWhJQ0Z0UU5iWl9vakhPVkJHV01Bb3hYMGFIS2JJSkdiT0ZMczQtSkd6Vk5iQU0?oc=5",
-      "source": "alarabiya.net",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:16:00.000Z",
-      "originalHeadline": "الحرس الثوري: قطر تحتجز 3 طيارين إيرانيين منذ إسقاط مقاتلاتهم"
-    },
-    {
-      "headline": "Songs created by artificial intelligence... Who owns the rights and reaps the profits?",
-      "url": "https://www.aljazeera.net/tech/2026/8/15/%D8%A3%D8%BA%D9%86%D9%8A%D8%A7%D8%AA-%D9%8A%D8%B5%D9%86%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D9%86",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-15T12:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "أغنيات يصنعها الذكاء الاصطناعي .. من يملك الحقوق ويحصد الأرباح ؟"
-    },
-    {
       "headline": "Dubai Customs foils export of 70 million illicit cigarettes to Europe\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1qw3bt",
       "url": "https://x.com/WAMNEWS_ENG/status/2088600096862777638",
       "source": "WAM (Emirates News Agency)",
@@ -2669,28 +2752,6 @@
       "date": "2026-08-15T12:14:02.000Z"
     },
     {
-      "headline": "Qatar condemns the escalation of Israeli settler attacks in the occupied West Bank",
-      "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxNdG5WY2d4UTkyTjJQSmh4bWNKSHMxQ042cjJUcVJpc1NMRFlfQlN3R29Db0g0cjlxRGV2dThuODlJd1o3NWVQTkdYQk1ab1JLRlVOMFNBeThZdzZkdjR5RThVbGpiV3JXWlptR2ppYWx6MHJNOTRJUzhuUF9CT0IyOUZqV3RwOWlHSThVNU9aLTNVTl95UmdiMTZNTUItdEMzbEJmMTlNNlpKdkRLUk9fQ2VxWmhzRmc5T09UUXRHNlRaUTR5aEt4RWJnOG9McXB0MzVlMkV1RGJCTWljNG0xVGpsYWZBQ1N6dFIySm9lOFFoUk1GY1lhQXY1U3BVZ1NjRzh4bklLeDdQclhGcUtuZVk4dnhmakNUZEUwOF9IZlFWdTBrVjl2RzhiSGd1Ni0xNGM1ckl5eVpRdlBUQ0hIbWpyOXNlV0c0WVFLRWRvbjY3aWcxOHRUU1FBdXczZmpmZ3dSanN4VmI1WDhVc2RfWHdVVm04b1BKOXVHbEItR3YyY2ZYekloV20zeGk2MVh6OVZzX1l2ZjhMZ2JfaGVSeEJrVHVGbWpydnRtUjRMY01yeHBYcU9BNlltNkdrNXY0OTcyU3ItbjNQRFR2VGlySlBCSmE3blJQcGJaODV2c2JvOGszemhEOUQ4UnF3RU1kcndDN0s5clNpUHhiUWZlOTk1Uk9aQkRTcnl4Wmk4QkVyNjQxeEtORU51b3FGVk10d1hhcC1oeFZWUkhvakVEbEhsaVJPMHh6cXZUdkRyWUN5Nmx2dWgtNDJPZFZfY2hwTnlJYm05TFhadVQ3WHfSAdgEQVVfeXFMTXhnZFVHTFB5Vmo2MXg2NWQ0UmRUWlUtOUFrZ25GSWxxcG0xT0ZvZ3VIVHFKX3AwWkQySHZKczhmeGJMUklIZmNtVEFaX1g2d2lFbC05cUtzN0VUT2FKbHVJY3ZiVUlZSXM5aGlyMG5zd3Z4clV6RjZvR01JVkIzMDI5c2pKSXhsZzhnUGNKby1MUlp4dXk2RnNtUGFMSmdrb0NBdURvU2xkZmZqdEFkVGlVMzVkRnROVmdWVHg4QjdsdlhBSTQwS1RiazZEYWQya3Y1NE5CMklSTXRIc0hub3AwN2NWM0VubEx1UzhsZnhHcHEtTTlReTR2UWxCcEY4NXctSVJ5QWJUcUpTQkxCR2JHaDlacXRvdWVCSDQxbEVqV0ptRjU4U2d6OFNUYWQwd3ozcnZ2YVFTc0RlaDdRWFNLaXBRay1TOVpfX2tGQXU4bmFiUzVZM3FuamJuNm9lOHhwNHdsb1Y5dkctQXNUWDFRTUFpdUxPMU1IS2R0Q1BCS1VsX1JlOG5VbnMzM01ILW5oWWJSdHd4ODFmWHhLenpKUjdxOURfTXZsbFBCX1FMSC1TV3A3VGFVOWJYYktGU3A3cERpSEF6UTZGWmxBRi1JS281VDVLaF9EQ21kZ2tkY296eERRYk1fZVdFbFdzalhQUlh2aVE1b1QzQWFXaFB3Si1UZzE4dlN2M3FFZnJXUGIxRnVwMmRCdjNVX1FHMDhvMmVUZzFpcmM4Tjg3ZTk5WDh5WGZJRGN1UDIzRVFmS09YekRyd1FZTndlWnZGOGdJVmFwbmNO?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:05:00.000Z",
-      "originalHeadline": "قطر تدين تصاعد اعتداءات المستوطنين الإسرائيليين في الضفة الغربية المحتلة"
-    },
-    {
-      "headline": "Iranian Foreign Ministry: The negotiations with the Sultanate of Oman witnessed progress and were positive",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVLVllUUx5N1hxTm03Q0V6MXhxVE1UdmdQQ0lOZ0FSdGhGVGJTSmFDRmV5aEZMX1BuZ0x5LS01Z0Q3RlNnYnVwQ1hpZllfbnFSZU5JcWd3?oc=5",
-      "source": "بوابة الأهرام",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T12:03:00.000Z",
-      "originalHeadline": "��لخارجية الإيرانية: المفاوضات مع سلطنة عمان شهدت تقدمًا وكانت إيجابية"
-    },
-    {
       "headline": "The Environment Authority continues monitoring, tracking, and responding to the oil pollution, as the latest field results indicate that the scope of beaches affected by pollution in the #Ras_Madrakah area spans approximately 12 kilometers, with field response efforts underway,",
       "url": "https://x.com/OmanNewsAgency/status/2088597282153488769",
       "source": "Oman News Agency (Arabic)",
@@ -2699,16 +2760,6 @@
       "country": "Oman",
       "language": "ar",
       "date": "2026-08-15T12:02:50.000Z"
-    },
-    {
-      "headline": "Muscat Stock Exchange index reaches its best level in 4 weeks",
-      "url": "https://timesofoman.com//article/175643-muscat-stock-exchange-index-reaches-its-best-level-in-4-weeks",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-15T12:02:20.000Z"
     },
     {
       "headline": "Statement Issued by the Ministry of Foreign Affairs  \nSaturday, August 15, 2026  \n\nThe Ministry of Foreign Affairs expresses the State of Kuwait's condemnation and strong denunciation of the reprehensible Iranian aggression against a vessel belonging to the UAE's ADNOC company",
@@ -2731,17 +2782,6 @@
       "date": "2026-08-15T11:56:46.000Z"
     },
     {
-      "headline": "Saudi Arabia..classification of pilgrims’ residence as “economic” and “first class”",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPVFZscVYtdWtGTmZKbmtqal9KcU5aNEt2OWhpOVRkMFZRRURlVlR0MHh6WWE3UXJGenZrdGRPY2o3U3daMHY0dWFYSjkwRXFoemtxUWRGS0xXdzZHWU5UQ1ZwbzM4dzBIbWF1M0E2UjBzVmp0eXpNaG9tYmYyZmhjaU1TQVRVei1iazg0VVFDWWJ3TFpYdWdfOHRpNURkZUg5b2RDTjdVTlBXS0lWdnJMalExdFBsNkszWTZfR285dkVJWnh4MkJLQVl3bld2eExMYW9vRU1Bc1NmcWJpdzNoWUYwMEF2Zmlzb01zaVpMRWJaekh0WjAxaUhnNGxDalp1MnYxUzJsVWNtOWZ4Y2hhWE4tdndPeGtFbWo3LXNuNDAzR2owSFJ6U2ozMjZsV2RVdmZEdTFBUDN6WllhaGp3cVlxOGdBdHctdU9GdXBRQmthbnd3Y1BHZ3Q3VUYtRGZaamVrcWxSMUdCTS11Q1hGTDNqWS1KQXZCVUdmMFk0VUxkUjZnS1M0NEJkQVZ1Nm5wQ2V1TGpFN3g1VlFKZjFkVVF6UXo0d0RQV25wc05zc3TSAbYDQVVfeXFMT3BEa1BaZmVPSk5ySTkxR3JQOUhIR0J3TWY5NGJ2LVk0bVFuSWtnX2xnMC1iOGZtOTBxR0EzUENiUjRlTEEwY2RCOGRpMUcwVlR3Q1F2ZjRwSnp6RHZhMGpiUVhNN1hIdUtCMHI5Z3lkaHZRcUxaRzhMMlBtdEFvd2VraVBONVg5VlBWRE5oVFhfV2tYdTJZRVlfY2w5ZXpGN2ExUWN1d0QxVGRQWDg1dUtTa3FoVzc0dWVrVlBld0JGUHRiZFl4dzlQUldseWNBME1QcEVrcDV1TVlPOXZCNUxQM2ZwUEhWNE9kMHd3VTF5cERuMTVwU1ZpaHZwX3F1a3pJWFVqcUlYeURqM21MQS1pU2lFSzU4QVVuMjF4V3NsN1JqRDhJOWV4dVJnSGZhR05QbGd5d2JGRU9nbHlSUktXMjlhWkNxTzlPLUR0QVRuX25UVVZQZWNmRURpQ0loWmtINWJTYVdNa3ZfRzBxandKLWNReTNnRFJfaTd3T0RTb1B1SlpjOVdFR1lJRmhQQTM5eVNnMS1mdjdGeG1wTXBBc0FWb1hicTlUY1REdnVDOGRQTkp3?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T11:56:24.000Z",
-      "originalHeadline": "السعودية.. تصنيف إقامة الحجاج \"اقتصادية\" و\"درجة أولى\""
-    },
-    {
       "headline": "Hamdan bin Zayed issues resolution on protection of species, habitats in emirate\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c1qw3bu",
       "url": "https://x.com/WAMNEWS_ENG/status/2088593460735754373",
       "source": "WAM (Emirates News Agency)",
@@ -2750,39 +2790,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-15T11:47:39.000Z"
-    },
-    {
-      "headline": "Net profits of MSX-listed insurance and takaful firms exceed OMR20mn",
-      "url": "https://timesofoman.com//article/175642-net-profits-of-msx-listed-insurance-and-takaful-firms-exceed-omr20mn",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-15T11:47:36.000Z"
-    },
-    {
-      "headline": "Qatar condemns settler attacks in the West Bank and calls for the protection of the Palestinians",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeTVYVFhVR0VzbXBpeGpOZ2MyTWV1THAwSHZXZGkwa0pTUzcwUDFFdGJ4MEN2TGxuV0xIZnY0eG9IUEZEOFl0YXBPZ0RWSGhLUC1BNkZNWEdnZkdtc0RXQ0JiSThINnpZbVVCVVllcG1XaEpuUlp4UFMwb09uck04SlhibUdKMGRfZlkyZkZGakdKc3I1ZDYzRVRldUZoc1BUYncxMVdOcmM0d1M1WUZqOXJYVTh1c3ktZE1KSy1OSU1ZSDF5cWtOV3YxdEU2aEtJNmZPWlBRTFFnZ3JpUkpqS2xuWjFZYzNmUFd0TjN0WXJiaXJ3OWFwZWxkREhRYXpQaFA2YlVpLTdic0hwdUlobHJIYVpSbV90SG16TGEwR1lsQVo2Q1NXWjREeklnOFQwUmx5R1dqRUNTeEdWYmZiSXQ2QUlfUVBteFpVUHU0SzAtT1FVQ2JMa1p30gHfAkFVX3lxTE5XUXhTQUVJekJOZzNUSkRJcnpyT09TNnROTmcxX1RXNU9VOUxMdk0yMC02RHJkSXlvUEVqdVh4a29keXJza1RNSnNWLUk3aFNwWW1aUXNLWmpoUUlCaU1ZcnoweGp3NU5QQmxITXhLWEpJb0Nfa3Z2MXdOM2NySHhHUExGdlVjdUN2UmxEWDhnZTVtbnlfYkV5V3MtWHZLUjhOVkxDbVJacWpDYk45clpGOENjLUJJU2ZMYnJkNDBKNUZJR2NiTDVkd0ZZaDNSM1NGSFdEdzJpbjFGR3EzMWQwYVgwNDZXUnljcWpTYW1jV3Mtak51cUpHT3hNMkZsOFkwdjVDSmhra3RaLThjSXJWakk3MlhISTVDVk5mUWwwTi1XdnllVXJIODZGdUFoaFdaeTBBcWlXRGtjS0o0M1dreEdPT2tYeURnR0FsXzNjdE1kRzl2a0VRbXNjRGliNA?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-15T11:45:53.000Z",
-      "originalHeadline": "قطر تدين اعتداءات المستوط��ين في الضفة وتدعو لحماية الفلسطينيين"
-    },
-    {
-      "headline": "Eastern Syria is on alert and anticipating the level of the Euphrates.. What are the reasons for the summer rise?",
-      "url": "https://www.aljazeera.net/news/2026/8/15/%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%B4%D8%B1%D9%82%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%82%D8%A8-%D9%84%D9%85%D9%86%D8%B3%D9%88%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-15T11:45:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "استنفار شرقي سوريا وترقب لمنسوب الفرات .. ما أسباب الارتفاع الصيفي ؟"
     },
     {
       "headline": "Statement Issued by the Ministry of Foreign Affairs  \nSaturday, 15 August 2026  \n\nThe Ministry of Foreign Affairs expresses the State of Kuwait's solidarity with the friendly Republic of Indonesia following the earthquake that struck the country, resulting in a number of",
