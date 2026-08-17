@@ -219,11 +219,6 @@ function generateHTML(briefingText, config) {
       font-size: 0.85rem;
       color: #666;
     }
-    .refresh-link {
-      color: #666;
-      text-decoration: underline;
-      cursor: pointer;
-    }
     h1, h2, strong {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
@@ -349,67 +344,8 @@ function generateHTML(briefingText, config) {
     <div class="title">${title}</div>
     <div class="timestamp">
       Generated ${timestamp.full}
-      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
-
-  <script>
-    const WORKER_URL = 'https://gulf-briefing-refresh.adampasick.workers.dev';
-
-    async function refreshBriefing() {
-      const link = event.target;
-      const originalText = link.textContent;
-
-      try {
-        // Step 1: Trigger the workflow
-        link.textContent = 'Triggering...';
-        const triggerRes = await fetch(\`\${WORKER_URL}/trigger\`, { method: 'POST' });
-        if (!triggerRes.ok) throw new Error('Failed to trigger');
-
-        // Step 2: Wait for run to be created
-        link.textContent = 'Starting...';
-        await new Promise(r => setTimeout(r, 3000));
-
-        // Step 3: Get the run ID
-        link.textContent = 'Finding run...';
-        const runsRes = await fetch(\`\${WORKER_URL}/runs\`);
-        const runsData = await runsRes.json();
-        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
-
-        const runId = runsData.workflow_runs[0].id;
-        const runUrl = runsData.workflow_runs[0].html_url;
-
-        // Step 4: Poll for completion
-        let attempts = 0;
-        while (attempts < 60) {
-          const statusRes = await fetch(\`\${WORKER_URL}/status/\${runId}\`);
-          const statusData = await statusRes.json();
-
-          if (statusData.status === 'completed') {
-            if (statusData.conclusion === 'success') {
-              link.textContent = 'Done! Reloading...';
-              await new Promise(r => setTimeout(r, 5000));
-              location.reload(true);
-              return;
-            } else {
-              link.innerHTML = \`Failed (<a href="\${runUrl}" target="_blank">logs</a>)\`;
-              return;
-            }
-          }
-
-          link.textContent = \`Running... \${attempts * 5}s\`;
-          await new Promise(r => setTimeout(r, 5000));
-          attempts++;
-        }
-
-        link.innerHTML = \`Timeout (<a href="\${runUrl}" target="_blank">check</a>)\`;
-      } catch (error) {
-        console.error('Refresh error:', error);
-        link.textContent = 'Error';
-        setTimeout(() => { link.textContent = originalText; }, 3000);
-      }
-    }
-  </script>
 
   <div id="content">
 ${briefingText
