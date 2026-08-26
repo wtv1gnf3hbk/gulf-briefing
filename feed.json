@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-26T18:02:58.316Z",
+  "updated": "2026-08-26T18:32:15.910Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "SALIC Enhances Saudi Arabia's Presence in Global Food Ecosystem",
+      "url": "https://www.spa.gov.sa/en/N2662395?type=news&uuid=N2662395",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-26T18:14:01.000Z"
+    },
+    {
+      "headline": "العقوبات الأمريكية تختبر شرايين التجارة بين إيران ودول الخليج",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPQnAyLXFXdld0T1p4aVFybGZITzZNOU9RdF9VVkNQWjhSR0toT243ZWdPdmZCUjhkTFlVVTBrSEFNVVluS3JUUDg0eVp5TXB0RnlVZ3RJT24weEYyZEYwUXdoWmo5N0lDOHlNaFdoUXRBZEU3UjhrZFBGb21SS1NrQnZHYjJRODItM1lsRTBXSVkwcFZDUlNUOHVvUXJpQ2Y3Z1VqRmpxSGlWMFNYVGlDVF80Sy1UMnV3UHNvS0NGSHVOb3RKU1NURmtGaWxfZXN1UFdWcDNTeU8yQTBveDc5dTVOd1dLUFl6b1h0bnZhTXJ3U3FfN1M1Y2tHaC14dkhwam5FYXR0YTVRdkllY09qVnFfSS1xZS1rWlI3cmR0cHdTSGR0RVZzZ1R3WEgtbGUwbWxWTmt6U1BFQm9tZlE?oc=5",
+      "source": "الجزيرة نت",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-26T18:13:55.000Z",
+      "originalHeadline": "العقوبات الأمريكية تختبر شرايين التجارة بين إيران ودول الخليج"
+    },
     {
       "headline": "UAE judo team opens Lausanne Grand Slam campaign on Saturday",
       "url": "https://www.wam.ae/en/details/c1xfvhe-uae-judo-team-opens-lausanne-grand-slam-campaign",
@@ -74,6 +95,17 @@
       "date": "2026-08-26T17:34:42.535Z"
     },
     {
+      "headline": "Paul Brown obituary",
+      "url": "https://www.theguardian.com/media/2026/aug/26/paul-brown-obituary",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-08-26T17:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Reuters President to participate in Arab Media Summit 2026",
       "url": "https://www.wam.ae/en/details/c1xfvha-reuters-president-participate-arab-media-summit",
       "source": "Emirates News Agency (WAM)",
@@ -115,28 +147,6 @@
       "date": "2026-08-26T17:18:18.000Z"
     },
     {
-      "headline": "Türkiye Says Dissolution of Kurdish - Led SDF Crucial for Syrian Stability",
-      "url": "https://english.aawsat.com/arab-world/5311449-t%C3%BCrkiye-says-dissolution-kurdish-led-sdf-crucial-syrian-stability",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "CIA Director Was on Semi - Routine Mission in Moscow , Says Trump",
-      "url": "https://english.aawsat.com/world/5311441-cia-director-was-%E2%80%98semi-routine%E2%80%99-mission-moscow-says-trump",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Kuwait Foils Biggest Drug Operation in Its History",
       "url": "https://english.aawsat.com/gulf/5311464-kuwait-foils-biggest-drug-operation-its-history",
       "source": "Asharq al-Awsat (EN)",
@@ -161,6 +171,83 @@
     {
       "headline": "Trump Believes Iran Supreme Leader Is Still Alive",
       "url": "https://english.aawsat.com/world/5311481-trump-believes-iran%E2%80%99s-supreme-leader-still-alive",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Misk Art Institute to Launch Creative Forum 2026 in September",
+      "url": "https://english.aawsat.com/culture/5311414-misk-art-institute-launch-creative-forum-2026-september",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Mawani Adds RC2 Shipping Service to Jeddah Islamic Port",
+      "url": "https://english.aawsat.com/business/5311376-mawani-adds-rc2-shipping-service-jeddah-islamic-port",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "No further energy bills support likely before price cap rise , say united kingdom government sources",
+      "url": "https://www.theguardian.com/business/2026/aug/26/energy-bills-support-price-cap-rise-andy-burnham",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi Arabia Offers Condolences over Tragic PIMS Hospital Fire in Pakistan",
+      "url": "https://english.aawsat.com/gulf/5311417-saudi-arabia-offers-condolences-over-tragic-pims-hospital-fire-pakistan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Behind the Sun and Wind , Saudi Arabia Invests in Stored Energy",
+      "url": "https://english.aawsat.com/business/5311389-behind-sun-and-wind-saudi-arabia-invests-stored-energy",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Türkiye Says Dissolution of Kurdish - Led SDF Crucial for Syrian Stability",
+      "url": "https://english.aawsat.com/arab-world/5311449-t%C3%BCrkiye-says-dissolution-kurdish-led-sdf-crucial-syrian-stability",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-08-26T17:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "CIA Director Was on Semi - Routine Mission in Moscow , Says Trump",
+      "url": "https://english.aawsat.com/world/5311441-cia-director-was-%E2%80%98semi-routine%E2%80%99-mission-moscow-says-trump",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -214,52 +301,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Misk Art Institute to Launch Creative Forum 2026 in September",
-      "url": "https://english.aawsat.com/culture/5311414-misk-art-institute-launch-creative-forum-2026-september",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Mawani Adds RC2 Shipping Service to Jeddah Islamic Port",
-      "url": "https://english.aawsat.com/business/5311376-mawani-adds-rc2-shipping-service-jeddah-islamic-port",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Trump : Time to Teach Canada You Cant Do This Anymore",
       "url": "https://english.aawsat.com/business/5311451-trump-%E2%80%98time-teach-canada-you-can%E2%80%99t-do-anymore%E2%80%99",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Saudi Arabia Offers Condolences over Tragic PIMS Hospital Fire in Pakistan",
-      "url": "https://english.aawsat.com/gulf/5311417-saudi-arabia-offers-condolences-over-tragic-pims-hospital-fire-pakistan",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-08-26T17:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Behind the Sun and Wind , Saudi Arabia Invests in Stored Energy",
-      "url": "https://english.aawsat.com/business/5311389-behind-sun-and-wind-saudi-arabia-invests-stored-energy",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -311,6 +354,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-26T17:11:30.901Z"
+    },
+    {
+      "headline": "TALES AZZONI - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMlNVU29icml3ZEo0SVRvVXVzSjZieGFyTEt0WS1oQUxvTUkxYW1oLUlnY0FuYVMyNzlwUE5vaFBCc2g0TTdCaS1JbEhwTkk?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-26T16:58:47.000Z"
     },
     {
       "headline": "Funeral held for renowned Palestinian artist Sliman Mansour",
@@ -1384,6 +1437,16 @@
       "date": "2026-08-26T14:26:52.000Z"
     },
     {
+      "headline": "Israel - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-26T14:20:42.000Z"
+    },
+    {
       "headline": "Minister of State for Foreign Affairs Receives Indian Ambassador",
       "url": "https://www.spa.gov.sa/en/N2662267?type=news&uuid=N2662267",
       "source": "Saudi Press Agency",
@@ -1497,16 +1560,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-08-26T14:01:09.000Z"
-    },
-    {
-      "headline": "Israel - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-26T13:59:35.000Z"
     },
     {
       "headline": "An unprecedented departure out of loyalty and allegiance and belonging and love for the Messenger of Allah, peace and blessings be upon him and his family  \n#المولد_النبوي_الشريف",
@@ -2283,7 +2336,7 @@
       "originalHeadline": "خمسينة اقتصاد. . زلزال مصر.. ماذا سيعلن رئيس الصين من القاهرة؟ جيش مصر يتحرك نحو السد؟ ماذا يخبئ السيسي في سيناء؟ #خمسينة_اقتصاد #مصر #الصين #السعودية #الإمارات #السيسي #السودان #ترامب #إيران #ايران #الجيش_المصري #جيش_مصر #اثيوبيا"
     },
     {
-      "headline": "السعودية تطلق حزمة تحسينات هيكلية لتنشيط سوق المشتقات المالية - جريد�� البورصة",
+      "headline": "السعودية تطلق حزمة تحسينات هيكلية لتنشيط سوق المشتقات المالية",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mX1ZIaEYyZzYwQUhuRmFhNmlKakdYb0sxbGlmNEM5LXk4YlFvcXZHOE1WSm5aa3k3dVdMSHdjaG5FemR0eGV3amxfNFF0bFRpWHJEd2xwOVFEMDg?oc=5",
       "source": "جريدة البورصة",
       "sourceId": "google_news_gulf_arabic",
@@ -2291,7 +2344,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-26T12:34:48.000Z",
-      "originalHeadline": "السعودية تطلق حزمة تحسينات هيكلية لتنشيط سوق المشتقات المالية - جريد�� البورصة"
+      "originalHeadline": "السعودية تطلق حزمة تحسينات هيكلية لتنشيط سوق المشتقات المالية"
     },
     {
       "headline": "إيران تشكك في مصداقية واشنطن وتحصر ترتيبات هرمز بينها وبين عُما��",
@@ -2314,16 +2367,6 @@
       "language": "ar",
       "date": "2026-08-26T12:32:16.000Z",
       "originalHeadline": "رئيس وزراء قطر يبحث مع وزير الخارجية السعودي سبل خفض التصعيد بالمنطقة"
-    },
-    {
-      "headline": "Drug crimes - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93d191dFI2TEJvenFuRUE5el9ZS2Q5WUsyXzlXRDJHcGpWWXlXLU9qX3NVU1AzN0ZIQmdEVzJVTmRjN2xsUXNiZkF3?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-26T12:30:33.000Z"
     },
     {
       "headline": "Ministry of Education announces readiness of education system for 2026-2027 academic year",
@@ -2509,37 +2552,6 @@
       "date": "2026-08-26T11:37:36.000Z"
     },
     {
-      "headline": "دولتان عربيتان في الصدارة.. مصر خارج العشرة الكبار المديونة عالميًا",
-      "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxQT25IQUVjbEt5UEZORXJqaEdZZW52aWRGTC1XTS01c2dRX0NwN19TSFBQM1NHMTZ0MnZPY3BOWGFrWlRrSFZYUEttRUlxcEdHX1V2SUtQRmhSMTlFYVFraTQxa2YzNDFEeC1pUmFXY2lzdWdIZzd2YlJGNkYzUENyRm94dk9CM19CRWVNOEtkcGtMZnprNkxWX0V1VVRZM1JoZHc3SGhRMmw4bE82S0FieTNNdXFWNWZiZlBadmgxQXlUdVVsRUx6eEViX29KcW0xdGR3bVFXZ0tRd1dyeTBGTm90RnBnOXY2NEpSTFNJVlJUNkxiZFBsRmEzM1RzbWZpYmx3Q2hUdDMzUWlSWFR5RGloT2NuTUd6cnNxRFpaRVk0WlUtQm9nbHZEcTgyVXpCU2dtWG1DWDd2LXFUSGQtV0UxNVhmS1RVQXNZbVcxZ05la1lhTHJQTEE5MC05WXp4a05FZk1ZNkdwZ3B6bXZvdEQ3OW1Xdi1jR09ZSEU0ME1nTzg2c0ZNOHgySVVrVmZzRG9YajJtVVpPb2pTT0xLbTE0aUFhYTY5M1pFWFQxcDJZMDRrV0Y2WGJCUUlOdGFiN2hnZzl4TEhWWUJvazhXQlBKOXkwSmt3czZncFdOTVNLb0ZYNWg0RjdYR1JvbUdWdUFvR04tVVhyZzJ3WjRqbnNqSkhNQ3lObEt4ODNDLXJpQ0N0dnltV1NJbGtQX0ZsamJ0V2VrcjZyRkhBZXc1STFwUWhIUVV6aHRDVNIBwgRBVV95cUxNMHV6MnVIVzlBM0dPNjZmcDVJb0s2Q0d4QnlYSTFEd0l2YWx3UkpIQ3FjQWNXQndpMnNlbXBabE9UcWNWS3pxdHlWVHluNVV5djdFYmpTWEdDWDBnd0s5NU9Oamh1aTV4N3FaNlRhajEta3VmWVNwQ2s3VmtKcUJGQVVBWG5pWURNVVlDdS11QVlKcXN2V2JrenRtZjRUXy1OVnc5YVRfUFZVVThuLTN6Q015WF9YM2ViaU9wLUkwVms5d0g0bzRudzZlS0djOTdoUkdPcXlLazVZZy1JX2huUVpQYTNFd3ptMlFidFRSbFpxYjUzRDdmSHNLSWtlcHM5dFVCeGRpSVU3ekNSUl9XamlEVW54blBFT3lZQWJ0eXd2OF9ISjBhbHZkUWJXdE5fWWsxb09GY1NuU0ZMa29GTjYtSG5ibjhqNWpSMi1xOUVIbzk2VkpmbGR1VDd3RlVXalJTbU9yVWVuTWNRWWZ5a3FiUnhuM1o3TDdkcXlLNG9qd3dIbldON3RZNUhuMVk4U0dTR1NMUEZFelJnSTBOYUFCdnBuWWVheUN3b2szMDhFTU55a1BpWUZWbGlQekNIVFc3cTlDSGFxck94cjdMWndaVkY5VnVGTmg0c2k2a0JnNU1HYnI0cVR3cmVqb1hRZ2MtdGs5Vzd5dk1rS2lEUjhVMTE5Uy1fZ3FkTHlWU1plQzBiakpDdzRTLS0wa1pIZlp6enN1QTdlUDdDVFI5T3lXcXRLVnMydFhFclYybTJkQQ?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-26T11:35:15.000Z",
-      "originalHeadline": "دولتان عربيتان في الصدارة.. مصر خارج العشرة الكبار المديونة عالميًا"
-    },
-    {
-      "headline": "WETEX 2026 dedicates platform to showcase latest water innovations, future solutions",
-      "url": "https://www.wam.ae/en/details/c1xfuzi-wetex-2026-dedicates-platform-showcase-latest",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-26T11:34:25.117Z"
-    },
-    {
-      "headline": "Oman oil price drops by $5.45 to $86.41",
-      "url": "https://timesofoman.com//article/176089-oman-oil-price-drops-by-545-to-8641",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-08-26T11:33:01.000Z"
-    },
-    {
       "headline": "The Foreign Minister discusses, during two separate phone calls with his Tunisian and Bruneian counterparts,  the relations of #Oman with both countries and means of promoting cooperation. He also exchanged views with them on latest developments, as well as regional and",
       "url": "https://x.com/ONA_eng/status/2092575657276625314",
       "source": "Oman News Agency",
@@ -2548,16 +2560,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-08-26T11:31:29.000Z"
-    },
-    {
-      "headline": "UAE Ambassador presents copy of credentials to Minister of Foreign Affairs of United Republic of Tanzania",
-      "url": "https://www.wam.ae/en/details/c1xfuzh-uae-ambassador-presents-copy-credentials-minister",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-26T11:30:08.319Z"
     },
     {
       "headline": "Largest Drug Seizure in Kuwait's History\n\n#CGCKuwait",
