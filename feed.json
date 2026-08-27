@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-27T22:01:12.980Z",
+  "updated": "2026-08-27T22:31:13.064Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Ministry of Education launches back-to-school campaign",
+      "url": "https://www.wam.ae/en/details/17e9gx1-ministry-education-launches-back-to-school",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-08-27T22:28:58.068Z"
+    },
+    {
+      "headline": "Vice Foreign Minister Meets with Palestinian Foreign Minister",
+      "url": "https://www.spa.gov.sa/en/N2663311?type=news&uuid=N2663311",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-08-27T22:02:37.000Z"
+    },
     {
       "headline": "Vice Foreign Minister Meets Qatar's Minister of State for Foreign Affairs",
       "url": "https://www.spa.gov.sa/en/N2663310?type=news&uuid=N2663310",
@@ -11,6 +31,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-08-27T21:57:45.000Z"
+    },
+    {
+      "headline": "الإمارات ومصر.. استثمارات عابرة لخلافات السياسة",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9tMmsyYzdyNlRvMThlTksxZW9veVFiLTRFampJYWFyQXNYYzlyU2VrVXgxTkpKNVo0RF8wZWdR?oc=5",
+      "source": "الحرة",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-27T21:50:37.000Z",
+      "originalHeadline": "الإمارات ومصر.. استثمارات عابرة لخلافات السياسة"
     },
     {
       "headline": "Minister of Human Resources and Social Development Chairs ARADO Executive Council Meeting",
@@ -23,7 +54,7 @@
       "date": "2026-08-27T21:45:28.000Z"
     },
     {
-      "headline": "تجديد رئاسة السعودية للمجلس التنفيذي للمنظمة العربية للتنمية الإدارية",
+      "headline": "تجديد رئاسة السعودية للمجلس التنفيذي ل��منظمة العربية للتنمية الإدارية",
       "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQX1pwellIazJrdVdKb0s4QjV6QVRUVjVMaUlSYkl4Y1NwYUQwdExHaGtRQTFGSnlnNGd1dnM4UlpYTHJQTlg3aXRoZ3lYTTlQUkw4YS1qNTRZbkFrNFFuc1dSUGo1cWo2eWpMa3B0bzdyS05nUEVjaEdyMjFkQ1E2Q3hWaC04VWdxR3c4cFZtOG1DWUI0VXdVTFdoTDUtMXdDZmFQM3pXNTQzWURJMUVVbXNEcFZ2Rm4xTjh6STlZcTF3SmhweWdEcEdmLVNrTUxxUDFsTUxKbFF0TkxSYVE4ckFXckhUbFRkSDMySUtYdXRPX1E1TmhPZ3lIRVJHUnZ1MzlkYmtuNmxSdUNvSnhWQmRQOXhHRGxPUnlreEIzaHNjZGJtRWRURVZlNU1fdFpac0dUUU1pS2lCTG5XQlJmTXN5eHlKaHpyRE9RTHRHT2VncUV6TDVqbnhWdXFoR0FneUpPWnY2X0VZTzhwcDRJS3VkVGQwcDdtQUk1UDBwV1ZiWmc1TVpZQVVUcWtzWFJueDdhOWgzN2JxM1FNWlF6ZjgxMjRYZlFUVzV3QTA4VVJZazk3RXdjMDg1ZVBLdU8wT1c0WHRoVUlnNHdUMVhlMnY5MU5tN3U1Vi03dVNEMGk1YUE1c2trUGFJT2tDdk9Jd1dRNFpaVldvNUZSSER4bWJpMkZ3NXpqQ3dJU1dHS0RNeTNPQUp4Z05xVWRGa2ZZQjlPelEtQ05MOHZHc1Q1MjJob0RkYlNRMzJqRExlbUxZOHdZS3hQUFdJUy02QXlr?oc=5",
       "source": "الهيئة الوطنية للإعلام",
       "sourceId": "google_news_gulf_arabic",
@@ -31,7 +62,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-27T21:34:37.000Z",
-      "originalHeadline": "تجديد رئاسة السعودية للمجلس التنفيذي للمنظمة العربية للتنمية الإدارية"
+      "originalHeadline": "تجديد رئاسة السعودية للمجلس التنفيذي ل��منظمة العربية للتنمية الإدارية"
     },
     {
       "headline": "إيران تحدد شروط إعادة فتح مضيق هرمز وتعلن اتفاقًا مع عُمان لإنشاء ممر ملاحي",
@@ -311,7 +342,7 @@
       "date": "2026-08-27T19:43:34.000Z"
     },
     {
-      "headline": "رئيس وزراء قطر يزور طهران لإحياء المسار الدبلوماسي بين إيران والولايات المتحدة",
+      "headline": "رئيس وزراء قطر يزور طهران لإحياء المسار الدبلوماسي بين إيران والولايات الم��حدة",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPUHd6NUtIdjEwLU9NTVhYaG4yNjVZbHhFR2hqSktWa2xNOUQwaXRCV1dIMlFlcnhGQTV6V2pTRlo5NzlqRjByd2pncWJxeTFWd0dIYkY0RlRJVDdCLTZJSkJVU05SMFJIcGF4RXBvdEdKeVdKOHRnMkxBMTlKcnRNZjFNVVg1VWhXaXppcHpVUXpxMy1Pc1p6TkRNVnRPa1JQMWstLXNQTmJnd091STFwaFpfajVjcUl1b1VVcXM1c3VKaHdUQnhicENCdE5JOFJaMExDQy1Ha3o0cGZHenBkbmdOWGF1WjVFd1NjYjI5LTlwT3VpWHdkem1TZUVvbDlZQlBPWTRFQ0VVWWVUVWZlcGx6MWY5cjhPR19Oc1o0ZmZxc2syWlNrd1VadkdJSVU0ZjYzRTI5elducXZ3c3RCWlFId2g2RTFJc21ORl9zZWtGSkRk?oc=5",
       "source": "جريدة حابي",
       "sourceId": "google_news_gulf_arabic",
@@ -319,7 +350,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-27T19:41:46.000Z",
-      "originalHeadline": "رئيس وزراء قطر يزور طهران لإحياء المسار الدبلوماسي بين إيران والولايات المتحدة"
+      "originalHeadline": "رئيس وزراء قطر يزور طهران لإحياء المسار الدبلوماسي بين إيران والولايات الم��حدة"
     },
     {
       "headline": "\"طيران الرياض\" و\"الخطوط السعودية\" يدشنان أول شراكة رقمية في قطاع الطيران",
@@ -556,16 +587,6 @@
       "date": "2026-08-27T18:53:45.888Z"
     },
     {
-      "headline": "Pakistan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02TXFaNnp3NUxYdzNVamtWZlk3Y05uQng1ZHZDYldaTno1enBqY0hVN18zZ3BtUGx1LWhaU3NiSnByRGZVZEE?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-27T18:52:34.000Z"
-    },
-    {
       "headline": "زلزال بقوة 5 درجات يضرب شمال التبت الصينية",
       "url": "https://www.okaz.com.sa/variety/na/2263185",
       "source": "Okaz",
@@ -642,6 +663,16 @@
       "language": "ar",
       "date": "2026-08-27T18:33:15.000Z",
       "originalHeadline": "ترامب: لا مفاوضات جارية مع إيران، ونركز على الحرب الاقتصادية"
+    },
+    {
+      "headline": "Pakistan - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02TXFaNnp3NUxYdzNVamtWZlk3Y05uQng1ZHZDYldaTno1enBqY0hVN18zZ3BtUGx1LWhaU3NiSnByRGZVZEE?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-27T18:32:52.000Z"
     },
     {
       "headline": "Exclusive: US Patriot missile stocks in Europe are 'beyond critical' due to Iran war, officials say - AP News",
@@ -810,7 +841,7 @@
       "originalHeadline": "السعودية تقترب من إقرار مبادرة مدعومة حكومياً لتأمين الشحن البحري"
     },
     {
-      "headline": "داخلية الكويت ت��لن ضبط مقيم مصري ومواطنة وتكشف ما فعلاه",
+      "headline": "داخلية الكويت تعلن ضبط مقيم مصري ومواطنة وتكشف ما فعلاه",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVNuRDkxZ1E0T2hNTFRsR1UtWDhPazZHZ29KbEFjWEd2ME9SOVZMeHlpZkJhM2JuN01WcmQ3b1RMWngyNkFYM25laGRNblZUVFBFLUI0cTNvOEl0S25aNlJPd2dueXc0MlVzQUI1TEVnZE82UGdqOFIxLTVVQzFRVUxVN2MwaTJESGtPRHRhamdoakw0bFMxTjloYko4OXRWWTk2MW9EQXY3YknSAbYBQVVfeXFMUEl1eklHVkg4X1JOTmZKUlhlcU0ta21XSDRLX3laeUFQYVRVQzctYmtfbHhVYU5Cc054MXg1Zk5oZjFaUUNEWVlLdmoxLTZvUjZlbDJpU0hyZzZzaXRYZXVsTXlIc2Itc2loeWd6ODBlU21oSGs1akFxaHR3eDBZOXZSMmo1UkcyamJlT2RmNjJpeldSX0ZuYjZsc3BDc3lTbERERmMwVll1NE5lVklBa0tiLWxXcnc?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
@@ -818,7 +849,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-27T17:12:52.000Z",
-      "originalHeadline": "داخلية الكويت ت��لن ضبط مقيم مصري ومواطنة وتكشف ما فعلاه"
+      "originalHeadline": "داخلية الكويت تعلن ضبط مقيم مصري ومواطنة وتكشف ما فعلاه"
     },
     {
       "headline": "Interactive experiences at Emirati Women Forum 2026 project future of endless possibilities for Emirati women",
@@ -1101,7 +1132,7 @@
       "date": "2026-08-27T15:37:54.337Z"
     },
     {
-      "headline": "الكويت: إجراءات مكافحة الإرهاب المتخذة في ظل الحرب مع إيران تهدد الحقوق الأساسية وتوسّع نطاق عقوبة الإعدام",
+      "headline": "الكويت: إجراءات مكافحة الإرهاب المتخذة في ظل الحرب مع إيران تهدد الحقوق الأساسية وتوسّع نطاق عقوبة الإ��دام",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQWd0WWNvOEhfc1k4cDRDVWwtdVRJclB3UnJLdlgzcFhDMFZJY0tIWmFYMzdFcWxDSGFLNmRPMlJHUHZNZ0xGQVlNRjhHRGtZZkZOZXdURF96RWp2VmVLOTlXQ0g1alpZMlFscnNsemtZSWNjUUhUU2xnNUZaRzhZWms1ZWF3aExySXFfcjhmYktlbTZlaDdhOFlPd0t4cEFtdTlCYWlhc1o5MmVhLWdaZkRMdzhidkJGdENUTFhJeUpCM3B1RG4wOEZUWHQ1S0hUUDFwclhVWTJQSUlJMjZ5eWxCQ3VYVk9kNUE?oc=5",
       "source": "Amnesty International",
       "sourceId": "google_news_gulf_arabic",
@@ -1109,7 +1140,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-27T15:33:39.000Z",
-      "originalHeadline": "الكويت: إجراءات مكافحة الإرهاب المتخذة في ظل الحرب مع إيران تهدد الحقوق الأساسية وتوسّع نطاق عقوبة الإعدام"
+      "originalHeadline": "الكويت: إجراءات مكافحة الإرهاب المتخذة في ظل الحرب مع إيران تهدد الحقوق الأساسية وتوسّع نطاق عقوبة الإ��دام"
     },
     {
       "headline": "Saud bin Saqr receives Consul General of Kingdom of Netherlands",
@@ -1909,40 +1940,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-27T12:22:23.923Z"
-    },
-    {
-      "headline": "الكويت وباكستان تبرمان اتفاقية دفاع وتعاون عسكري مشترك",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWnVxTTgwcHBBRzZfZXV4aERubm5FTUx3aWhJWl9mNWpGc1JINmtWWk1SQ2xPWW1LUXdfaEVtUEdYTEg5RDVmM2tTTXFiRjExTkZIZmRycUdsUXF5MGttQ3BaTlZSNGcyaVI1R292VFRBUm14Yi1JYkZmd2ZhNXJRNXZ2eUJzYkhaN2ZoYXVjcUZYd0JlU2tEb29JUTdUYmhENnBuTWVqTVdfdElEa3RxcXdURmlwbWlpbDBPVzhFOEJScHhiZ1RtdVpYd1dkS1QxN3oyclgyamNwMDYzeVZSYjN2ZkdSSXVDUFhLV0xZc1dSLWRIY2xhdDNYNHA5a0JVSDlZbGVhanFValltTUJwX2ZsZk1mSGh6cFRSdGhWbjlpOWlRa3ZaWXNTNmVhQWI1UWI0RlFhRjAyZlRDOHhVZ01sMzRGbEVnLWZhVkVOOEFRVDM3TWhzb0ZXMDNVNlJRYlpWMnNpdllRWmdJMzYta2l4QnhjY2hadHhVN1N6TElONThWeF81YXg4bEY5WHNmQm5vcEtlSlVldHlxNkM1bmZlUl9KVnl6R21Cb2hlanJ4Zi1wdmltcUw5MkRzeHY0YWxmS2Ixd3RuTFdRdGwyZmNTbw?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-27T12:20:59.000Z",
-      "originalHeadline": "الكويت وباكستان تبرمان اتفاقية دفاع وتعاون عسكري مشترك"
-    },
-    {
-      "headline": "قطر وإيران تناقشان إنشاء ممر ملاحى مشترك مع عمان فى مضيق هرمز",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZjdvbEk1WVEyYWhFeUt3ekVEVW1JbnlmSzRiZzEyaFM2RmNhdEoxMUxXZ1RzSGNoZ2ZKXzMyYUhjSmJGRnNGWUluVGtUMEJTNGxIMWx6LWJ4VG5qVW9BbFpvNDRPVUNZYzNLOEg0RzI4aDEzRHVFOVhnYXdua2hWNlYzRVFmTFBNcjVCYTZidFI2bkI3a0pGNVJzcUlxaVZlSmE5bFpGRm9hMXNzXzBwRFJfNTFZS1ZVdkFldGdLSmN6S18tSlIyLWcxTFVJSmZ4dDU2dzdNTmpRbWliSUJveFloUWlqTWhtZWhkbjRQWHNDdmRqSm9mblRJemJWTUtsaGdRWVhlWi1OazVrZmdUSloteXVlNVIyTlpwcmxmVVJHbGRZSk5fOUp3cFU3MnJzbGdoSUt1VUZyR29Ta3NN?oc=5",
-      "source": "قناة النيل للأخبار",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-27T12:15:58.000Z",
-      "originalHeadline": "قطر وإيران تناقشان إنشاء ممر ملاحى مشترك مع عمان فى مضيق هرمز"
-    },
-    {
-      "headline": "زامير : خزينة الجيش الإسرائيلي فارغة ونعمل بميزانية منهَكة",
-      "url": "https://www.aljazeera.net/news/2026/8/27/%D8%B2%D8%A7%D9%85%D9%8A%D8%B1-%D8%AE%D8%B2%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-08-27T12:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "زامير : خزينة الجيش الإسرائيلي فارغة ونعمل بميزانية منهَكة"
     },
     {
       "headline": "The official price of #Oman oil, for delivery in next October, today reaches 88.72 USD.",
