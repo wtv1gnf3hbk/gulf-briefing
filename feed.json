@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T22:33:02.522Z",
+  "updated": "2026-08-29T23:02:01.679Z",
   "itemCount": 300,
   "items": [
     {
@@ -11,6 +11,18 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-29T21:48:09.785Z"
+    },
+    {
+      "headline": "A New York Times report sounds the alarm: Are the entire Himalayas melting?",
+      "url": "https://www.aljazeera.net/news/2026/8/29/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%84%D9%86%D9%8A%D9%88%D9%8A%D8%B1%D9%88%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%8A%D8%AF%D9%82-%D9%86%D8%A7%D9%82%D9%88%D8%B3-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1",
+      "source": "Al Jazeera Arabic",
+      "sourceId": "gdelt_aljazeera_net",
+      "category": "gdelt",
+      "country": "Qatar",
+      "language": "ar",
+      "date": "2026-08-29T21:45:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "تقرير نيويورك تايمز يدق ناقوس الخطر : هل تذوب جبال الهيمالايا بأكملها ؟"
     },
     {
       "headline": "Banque Misr clarifies the position of its branch in the UAE regarding the American regulatory action",
@@ -34,7 +46,18 @@
       "date": "2026-08-29T21:04:56.000Z"
     },
     {
-      "headline": "إيني توسع رهاناتها على نفط فنزويلا مع تحركات لإحياء قطاع الطاقة",
+      "headline": "The UAE Central Bank opens an urgent inspection of Banque Misr branches after the American action",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00T2NhM2Zfc3FkU0dLeWU2WHZWV01XMEVhNFBNWU1VLTZMd1diZ3hzWW1ldEhuS0dXc1gyeHJnaWR2MmNuM3RR?oc=5",
+      "source": "صدى البلد",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-29T21:02:00.000Z",
+      "originalHeadline": "مصرف الإمارات المركزي يفتح فحصا عاجلا لفروع بنك مصر بعد الإجراء الأمريكي"
+    },
+    {
+      "headline": "Eni expands its bets on Venezuelan oil with moves to revive the energy sector",
       "url": "https://www.aljazeera.net/ebusiness/2026/8/29/%D8%A5%D9%8A%D9%86%D9%8A-%D8%AA%D9%88%D8%B3%D8%B9-%D8%B1%D9%87%D8%A7%D9%86%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%86%D9%81%D8%B7-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D9%85%D8%B9",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -46,7 +69,7 @@
       "originalHeadline": "إيني توسع رهاناتها على نفط فنزويلا مع تحركات لإحياء قطاع الطاقة"
     },
     {
-      "headline": "قلق وخفقان وعزلة .. عائلة عمران خان تثير تساؤلات حول ظروف سجنه",
+      "headline": "Anxiety, palpitations, and isolation... Imran Khan's family raises questions about the conditions of his imprisonment",
       "url": "https://www.aljazeera.net/news/2026/8/29/%D8%A3%D9%8A%D9%86-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%86",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -58,7 +81,7 @@
       "originalHeadline": "قلق وخفقان وعزلة .. عائلة عمران خان تثير تساؤلات حول ظروف سجنه"
     },
     {
-      "headline": "200 فنان عالمي يطالبون مهرجان فينيسيا بوقفات جادة دعما لفلسطين",
+      "headline": "200 international artists call on the Venice Film Festival to take serious stances in support of Palestine",
       "url": "https://www.aljazeera.net/arts/2026/8/29/200-%D9%81%D9%86%D8%A7%D9%86-%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -243,7 +266,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-08-29T19:41:15.000Z",
+      "date": "2026-08-29T19:43:41.000Z",
       "originalHeadline": "قطر تبحث مع تركيا وسوريا مستجدات الأوضاع بالمنطقة"
     },
     {
@@ -275,7 +298,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-29T19:33:41.000Z",
-      "originalHeadline": "قطر وسوريا تبحثان هاتفياً تعزيز التعاون وآخر الت��ورات الإقليمية"
+      "originalHeadline": "قطر وسوريا تبحثان هاتفياً تعزيز التعاون وآخر التطورات الإقليمية"
     },
     {
       "headline": "#Riyadh Civil Defense Extinguishes Fire in Front of Truck and (4) Fuel Tankers in Al-Noor Neighborhood, No Injuries.",
@@ -381,7 +404,7 @@
       "date": "2026-08-29T19:01:24.000Z"
     },
     {
-      "headline": "المصرف المركزي الإماراتي يعلن عن إجراء خاص وعاجل بشأن بنك مصر",
+      "headline": "The UAE Central Bank announces a special and urgent measure regarding Banque Misr",
       "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/uae-central-bank-urgent-decision-banque-misr",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -580,17 +603,30 @@
       "originalHeadline": "الإمارات: المصرف المركزي يعلن عن قرار \"خاص وعاجل\" بشأن بنك مصر"
     },
     {
-      "headline": "Soccer - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-08-29T18:16:44.000Z"
+      "headline": "The Central Bank of the Emirates conducts an urgent inspection of the branches of the Bank of Egypt in the Emirates",
+      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPZVlRSlY5eFdtNG1Ydm8ybDVxNHhlVVdYVkExMUp6NWZxSlY3YzZXNzB2aTZLUWVIcUc1MkVjd2ZXN1c5WWtPLXN5QXpabWZ2dTktWUxpNC16VTBHWWNRR2dVRUN5RV9lQ3Y2dXE2b0tpZFFxeHF6UnpRSVh2dlBXczdMMnZkMkxWMmlsc0hCZFZod1VOeDBwaGI0QS00dzF1UEEtSjIxeHZxSEx4LTJXUlcyWWxZV3lQaEhwempkNjktRGlocERwWkdQeE9GZzZ3RG5kc0wzNWJaRVljNlN5YzhQcHZRMDY5Q3FnX1dfTERkbkhHRTUwT1dWNi1Ual8ySGJKQ2VuUzVhNVlWQkVSS29paTdlQ2NsYkp0M2JydmhzM2hlR0I5VzBzNTQ3VnJyUzk0S1psRHh2V3FFczhaM2ViQ0pEaDJLam5hYUNFdzVlQ29ZTW1JR3l5UjBLekhhTHdMVW9CdnkyTm9ycm4ydGtUM1RmT2ttWTZtb2FEdjVvR2xla1AtVFRvUG1xeDFaWUVBcDR0dlFOTXIwMlFNVmRZYjdzQzJYTFNRUHktNGJoaUZBNTB2Y3RNODllcWZDaHBadWQxSGlzRjFJaU1CdEsxQnJob2lNVGhvSHBYcGE0eHF0YVNLLUd4YTBmYnplaXNr?oc=5",
+      "source": "بنكي",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-29T18:16:16.000Z",
+      "originalHeadline": "مصرف الإمارات المركزي يجري فحصًا عاجلًا لفروع بنك مصر بالإمارات"
     },
     {
-      "headline": "عراقجي : أمريكا تتلاعب بأسواق الطاقة لإبقاء ترامب غارقاً في حرب خاسرة",
+      "headline": "Palestinian official: A strike targets a hospital in Gaza, and the Israeli army comments",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/israeli-military-strikes-gaza-hospital-again-destroying-storage-room",
+      "source": "CNN Arabic",
+      "sourceId": "gdelt_arabic_cnn_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-08-29T18:15:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "مسؤول فلسطيني : ضربة تستهدف مستشفى في غزة والجيش الإسرائيلي يعلق"
+    },
+    {
+      "headline": "Araqchi: America is manipulating energy markets to keep Trump mired in a losing war",
       "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/araghchi-the-us-is-manipulating-energy-markets-trump",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -602,7 +638,7 @@
       "originalHeadline": "عراقجي : أمريكا تتلاعب بأسواق الطاقة لإبقاء ترامب غارقاً في حرب خاسرة"
     },
     {
-      "headline": "نجيب محفوظ صاحب العمود الأسبوعي",
+      "headline": "Naguib Mahfouz, author of the weekly column",
       "url": "https://aawsat.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/5312471-%D9%86%D8%AC%D9%8A%D8%A8-%D9%85%D8%AD%D9%81%D9%88%D8%B8-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A",
       "source": "Asharq al-Awsat",
       "sourceId": "gdelt_aawsat_com",
@@ -614,7 +650,7 @@
       "originalHeadline": "نجيب محفوظ صاحب العمود الأسبوعي"
     },
     {
-      "headline": "أمريكا تلغي تأشيرة وزيرة عراقية سابقة وتدرجها على قائمة مراقبة الإرهاب .. فكيف ردت ؟",
+      "headline": "America cancels the visa of a former Iraqi minister and includes her on the terrorism watch list.. How did it respond?",
       "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/us-revokes-visa-of-former-iraqi-minister",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -626,7 +662,7 @@
       "originalHeadline": "أمريكا تلغي تأشيرة وزيرة عراقية سابقة وتدرجها على قائمة مراقبة الإرهاب .. فكيف ردت ؟"
     },
     {
-      "headline": "الصين : الفيضانات أخطر كارثة عابرة للحدود منذ سنوات",
+      "headline": "China: Floods are the most serious cross-border disaster in years",
       "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/chinese-fm-floods-most-serious-cross-border-disaster-in-years",
       "source": "CNN Arabic",
       "sourceId": "gdelt_arabic_cnn_com",
@@ -636,18 +672,6 @@
       "date": "2026-08-29T18:15:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "الصين : الفيضانات أخطر كارثة عابرة للحدود منذ سنوات"
-    },
-    {
-      "headline": "مسؤول فلسطيني : ضربة تستهدف مستشفى في غزة والجيش الإسرائيلي يعلق",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/08/29/israeli-military-strikes-gaza-hospital-again-destroying-storage-room",
-      "source": "CNN Arabic",
-      "sourceId": "gdelt_arabic_cnn_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-29T18:15:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مسؤول فلسطيني : ضربة تستهدف مستشفى في غزة والجيش الإسرائيلي يعلق"
     },
     {
       "headline": "البنك المركزي الاماراتي يصدر بيانا بشأن فروع بنك مصر العاملة في الإمارات",
@@ -837,6 +861,16 @@
       "originalHeadline": "خفض التصعيد وتعزيز الاستقرار يتصدران مباحثات وزيري خارجية قطر وتركيا"
     },
     {
+      "headline": "Gianni Infantino - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyVUR3QUJKakNHa3NkS1RTdThzaklrMy1UVHZkcmQyYkRMWmpseG44RW16SllCNUgzUjljWWtMd3dxUVNUNkY5RkpsUmw0WGhj?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-08-29T17:13:45.000Z"
+    },
+    {
       "headline": "Officials from various supporting and participating entities in the Abu Dhabi Nukhudha Summer Program discuss the role of the event in developing maritime skills, strengthening ties to the Emirati maritime heritage, and inspiring the next generation of sailors through hands-on",
       "url": "https://x.com/ADMediaOffice/status/2093745747133137211",
       "source": "Abu Dhabi Media Office",
@@ -847,7 +881,7 @@
       "date": "2026-08-29T17:01:00.000Z"
     },
     {
-      "headline": "من بيلغورود إلى ياروسلافل .. حرب المسيّرات تلغي فكرة الخط الخلفي الآمن | سياسة",
+      "headline": "From Belgorod to Yaroslavl... the drone war eliminates the idea of ​​a safe back line policy",
       "url": "https://www.aljazeera.net/politics/2026/8/29/%D9%85%D9%86-%D8%A8%D9%8A%D9%84%D8%BA%D9%88%D8%B1%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D9%8A%D8%A7%D8%B1%D9%88%D8%B3%D9%84%D8%A7%D9%81%D9%84-%D8%AD%D8%B1%D8%A8",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -859,7 +893,7 @@
       "originalHeadline": "من بيلغورود إلى ياروسلافل .. حرب المسيّرات تلغي فكرة الخط الخلفي الآمن | سياسة"
     },
     {
-      "headline": "من شاشة الهاتف إلى قاعة المحكمة .. كيف تحولت محادثات الذكاء الاصطناعي إلى أدلة ؟",
+      "headline": "From the phone screen to the courtroom... How did artificial intelligence conversations turn into evidence?",
       "url": "https://www.okaz.com.sa/technology/na/2263417",
       "source": "Okaz",
       "sourceId": "gdelt_okaz_com_sa",
@@ -871,7 +905,7 @@
       "originalHeadline": "من شاشة الهاتف إلى قاعة المحكمة .. كيف تحولت محادثات الذكاء الاصطناعي إلى أدلة ؟"
     },
     {
-      "headline": "جريدة الرياض | الشؤون الإسلامية تقيم الدورة العلمية السادسة لتأهيل الأئمة والخطباء والدعاة في مملكة كمبوديا",
+      "headline": "Al-Riyadh newspaper | Islamic Affairs holds the sixth scientific course to qualify imams, preachers and preachers in the Kingdom of Cambodia",
       "url": "https://www.alriyadh.com/2204338",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -883,7 +917,7 @@
       "originalHeadline": "جريدة الرياض | الشؤون الإسلامية تقيم الدورة العلمية السادسة لتأهيل الأئمة والخطباء والدعاة في مملكة كمبوديا"
     },
     {
-      "headline": "جريدة الرياض | المنافذ الجمركية تسجل 1078 حالة ضبط خلال أسبوع",
+      "headline": "Al-Riyadh newspaper | Customs ports recorded 1,078 seizures within a week",
       "url": "https://www.alriyadh.com/2204337",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -895,7 +929,7 @@
       "originalHeadline": "جريدة الرياض | المنافذ الجمركية تسجل 1078 حالة ضبط خلال أسبوع"
     },
     {
-      "headline": "جريدة الرياض | نائبة رئيس الاتحاد الأوروبي : التهديد بمقاطعة كأس العالم كان ناجحًا",
+      "headline": "Al-Riyadh newspaper | Vice President of the European Union: The threat to boycott the World Cup was successful",
       "url": "https://www.alriyadh.com/2204341",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -907,7 +941,7 @@
       "originalHeadline": "جريدة الرياض | نائبة رئيس الاتحاد الأوروبي : التهديد بمقاطعة كأس العالم كان ناجحًا"
     },
     {
-      "headline": "جريدة الرياض | منشآت تصدر تقرير النمذجة الأولية وتستعرض دورها في تطوير المنتجات والابتكار",
+      "headline": "Al-Riyadh newspaper | Monshaat issues a prototyping report and reviews its role in product development and innovation",
       "url": "https://www.alriyadh.com/2204340",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -919,7 +953,7 @@
       "originalHeadline": "جريدة الرياض | منشآت تصدر تقرير النمذجة الأولية وتستعرض دورها في تطوير المنتجات والابتكار"
     },
     {
-      "headline": "جريدة الرياض | ليفربول يتوصل لاتفاق مع سان جيرمان لضم باركولا",
+      "headline": "Al-Riyadh newspaper | Liverpool reaches an agreement with Saint-Germain to include Barcola",
       "url": "https://www.alriyadh.com/2204342",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -931,7 +965,7 @@
       "originalHeadline": "جريدة الرياض | ليفربول يتوصل لاتفاق مع سان جيرمان لضم باركولا"
     },
     {
-      "headline": "جريدة الرياض | هروب ثلاثة لاعبين من بعثة تونس في تارانتو",
+      "headline": "Al-Riyadh newspaper | Three players escaped from the Tunisian delegation in Taranto",
       "url": "https://www.alriyadh.com/2204346",
       "source": "Alriyadh",
       "sourceId": "gdelt_alriyadh_com",
@@ -943,14 +977,14 @@
       "originalHeadline": "جريدة الرياض | هروب ثلاثة لاعبين من بعثة تونس في تارانتو"
     },
     {
-      "headline": "Gianni Infantino - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyVUR3QUJKakNHa3NkS1RTdThzaklrMy1UVHZkcmQyYkRMWmpseG44RW16SllCNUgzUjljWWtMd3dxUVNUNkY5RkpsUmw0WGhj?oc=5",
+      "headline": "Soccer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-08-29T16:44:50.000Z"
+      "date": "2026-08-29T16:44:48.000Z"
     },
     {
       "headline": "UAE expresses solidarity with China, conveys condolences over victims of floods and landslides",
@@ -995,7 +1029,7 @@
       "originalHeadline": "تقارير تكشف.. موقف تمبكتي من الانضمام لمنتخب السعودية في خليجي 27"
     },
     {
-      "headline": "كيف غيّرت 6 أشهر من الحرب شكل إيران ؟",
+      "headline": "How did 6 months of war change the appearance of Iran?",
       "url": "https://www.aljazeera.net/politics/2026/8/29/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-6-%D8%A3%D8%B4%D9%87%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B4%D9%83%D9%84-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -1007,7 +1041,7 @@
       "originalHeadline": "كيف غيّرت 6 أشهر من الحرب شكل إيران ؟"
     },
     {
-      "headline": "الإبادة البيئية .. الموت الذي يحتاج سنوات ليصل إلى ضحاياه",
+      "headline": "Ecocide...death that takes years to reach its victims",
       "url": "https://www.aljazeera.net/opinions/2026/8/29/%D8%A7%D9%84%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -1019,7 +1053,7 @@
       "originalHeadline": "الإبادة البيئية .. الموت الذي يحتاج سنوات ليصل إلى ضحاياه"
     },
     {
-      "headline": "أمطار وسيول تضرب شمال وساحل سوريا .. وتحذيرات من حالة عدم استقرار جوي",
+      "headline": "Rain and torrential rains hit northern and coastal Syria... and warnings of air instability",
       "url": "https://www.aljazeera.net/news/2026/8/29/%D8%A3%D9%85%D8%B7%D8%A7%D8%B1-%D9%88%D8%B3%D9%8A%D9%88%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D8%B3%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -1031,7 +1065,7 @@
       "originalHeadline": "أمطار وسيول تضرب شمال وساحل سوريا .. وتحذيرات من حالة عدم استقرار جوي"
     },
     {
-      "headline": "آلاف الغزيين في عداد المخفيين قسرا منذ بدء حرب الإبادة",
+      "headline": "Thousands of Gazans have been forcibly disappeared since the start of the genocide",
       "url": "https://www.aljazeera.net/news/2026/8/29/%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%BA%D8%B2%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D9%81%D9%8A%D9%8A%D9%86-%D9%82%D8%B3%D8%B1%D8%A7-%D9%85%D9%86%D8%B0",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -1043,7 +1077,7 @@
       "originalHeadline": "آلاف الغزيين في عداد المخفيين قسرا منذ بدء حرب الإبادة"
     },
     {
-      "headline": "الحياة السرية لمرافقي بوتين الشخصيين",
+      "headline": "The secret lives of Putin's personal entourage",
       "url": "https://www.aljazeera.net/news/2026/8/29/%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D9%84%D8%AE%D8%AF%D9%85-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%8A%D9%86",
       "source": "Al Jazeera Arabic",
       "sourceId": "gdelt_aljazeera_net",
@@ -2758,7 +2792,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-08-29T09:30:00.000Z",
-      "originalHeadline": "بنك مصر يوضح م��قف فرعه في الإمارات بعد الإجراء الأميركي"
+      "originalHeadline": "بنك مصر يوضح موقف فرعه في الإمارات بعد الإجراء الأميركي"
     },
     {
       "headline": "ADIBF highlights Balkans’ literary heritage as Guest of Honour",
@@ -2769,17 +2803,6 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-08-29T09:28:46.338Z"
-    },
-    {
-      "headline": "Banque Misr: The Emirates branch continues to provide banking services to its customers",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNRXI5THhtUFd6anlMTGFFQThObEp6SnY4UDZQMkppR3RJaWs4cFk3TDdiOU1lTkFRQ291M0t2TmNqVllWeXotR01PQVRVLU5YclV3SjZCQ3BlVTM2NWV4Y3JOZjlYNm9ucnBmTmNaZnlneXM2endHUnVxZFZhMnZHbktHYnJtWVVTX2tTUGRWQWUtbzZHeEN2X1FXa3p3ZS1yOGYxTzBSNzVaX2dNbXB5VGpUb0pLbGZXR0JxNXZjbW94S1U0VkMxbnktVWpNcnI3M3VjUHo0U2dpXzJkbDNnWGQ5d05wRGFfbnBNNG00QmtnNE5fa1JicDdFVVk3czBCY1NlT0hGYkQyeFdza2hobmxBcXZNV2lQeGxDSDY2NmpKc3pWbnNXLWZNaXB1VjNhUjZ3dGcydWJCUkw0bUs3N25laTMwWHQzT1p0RDJ1di1fX3VLMHlwNk9RVWEyb0ZEQkZHSXZ4Q2IzekNJWFpCWGNCZkptdDNUbW9UYlFrNmRabUdoSTgwbGwybW91R3BKelpjdHZydjZZOGdsQXNKWVVnNEtUR0xsTEU0S2czbmh3UGlGQWs4M1JVNTFKODBiRDdjN0VFbndEcTFKRHQ4NGZNZkhya2psOUlQZGc0Y2pzYl9qWVkwOWdVN2xibXgtcDhmcmFGbEIyd2JFZWc?oc=5",
-      "source": "CNBC عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-29T09:26:57.000Z",
-      "originalHeadline": "بنك مصر: فرع الإمارات مستمر في تقديم الخدمات المصرفية لعملائه"
     },
     {
       "headline": "#Qatar_Chamber Participates in Arab-Brazilian Economic Forum\n#QNA  #Economy\n\nhttps://\nbit.ly/4qN2OBF",
@@ -2810,17 +2833,6 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-08-29T09:05:23.000Z"
-    },
-    {
-      "headline": "\"بنك مصر\": خدماتنا في الإمارات مستمرة ونتواصل مع الخزانة الأميركية",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPWmlLV3FXWXJyTFplUnJ1WGZ0R1VERDBKOE8ySlFybDRHRGdmY3dOZF8zVk5jWUF5TDNXcm8wckl6MkFWS3g1QTZuY1JZU1EzbDhqOWpodnQ3UjZBa2xsM1JySFI2NUUyaVFNcGpNT3lFR0pFV3JlYXkyZ3ZyLUNwQ2UxazdNMGZub1pielB6MFBlQTBKY1E0TnFnc095WklPcDllSXdEb2hZckkxTWpaT2NNNlV3cEhRWGZNUWc1T3FtNUZWMlUzdndRdWFUR3NqRjhnX3JYeHR4MFlwdHZ1eXVWZjlYanp3RkJnRi1ZcjFMRVUyWmU0bnhuQUJfSDgxaDA4YXc4QURfY1FWZkhqamZxUzlsUm9aWHd5WGtxZEpQR082cWhGeVlPRmVVTUxhVDRRM2RmNlE5QjVNMUVGQkJpeXQtUDRZSWRYMkc5MWZNSlRxY3VubzIyYmJRQ05wcXduZlpxaW1MMTRmQXhhUDljc1JVTkhZX2dTTUcwNXctbjllUXFENDlMblVXZUNGMU1OcFBMWGpIeGhQMFRlQjFjX1lTWkJEYWFFWWdXampnMmg5LUlLb3Nwc1c3YTN4ZXljRXBzTjBrVC15MDRYUnZhcWl1akx1dnZOQUVNcEtMdDMtSGc?oc=5",
-      "source": "الشرق بلومبرغ",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-08-29T09:04:11.000Z",
-      "originalHeadline": "\"بنك مصر\": خدماتنا في الإمارات مستمرة ونتواصل مع الخزانة الأميركية"
     },
     {
       "headline": "#Memory_was",
@@ -2994,16 +3006,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-08-29T07:28:28.000Z"
-    },
-    {
-      "headline": "17,000 children need urgent aid after Nepal floods: UNICEF",
-      "url": "https://www.wam.ae/en/details/17ebm5i-17000-children-need-urgent-aid-after-nepal-floods",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-08-29T07:18:00.661Z"
     },
     {
       "headline": "Tomorrow.. the return of male and female students from Mecca, Medina, Jeddah, and Taif to their classroom seats",
