@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-08T05:34:19.776Z",
+  "updated": "2026-09-08T06:04:42.203Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Tuesday",
+      "url": "https://spa.gov.sa/en/N2671239?type=news&uuid=N2671239",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-08T06:00:29.000Z"
+    },
+    {
+      "headline": "النمو السكاني والاقتصاد غير النفطي في الإمارات 2024-2025",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQaHBMQ3pvdi1GaWMtemJ4eGprbk9aX1lpclJaN2xrVGlQWnVSU0lma1NSY0hDdjdJVGdFOS00alBYNVpSQlpKTE9yb1R1U201c0ZUbHkxZWw0QW1KeXRQVDVmbUJqVkxSclZ3ZWdKUjdObzJHQVktVFI1bzZybXFXYVAxOFZRblNEM1ZCQzgxd1FxU1lBeXlxRl9hSExWNGJ4eUQxX241eTZFWDBtbnE0QmFidjNZTjlzR2xmUzNFemxkUkN1ODJZeng4V1ZFQU1ycEpLVmJYWndGa3BsaTgxclQ2NTI2Ti1tMEkxUFRSem1yVXpUV1JRbmZPZDE2TVZFQkp0TnlfVm1rMFNRb1EtSDUtUjZPSXA5aW9fTHE5eDlCN2JoYlozR3BOTzRxWFlva3h0SGVLWENIc09hN0RlWTNEdUdfeDBxN2NvRmxwRTYxcVlsWVpPS2ZiNzl4OG5fUDI2VFFvSkw0LTZZdmZuc29DaUhXcVNLODRZdzlTQXBqNkxCdDFXTnNrSjZIM3FvM29VTFdhZWM1S013MHFOZHVXRUh3QlIyc1RSSVFKb1YxZjdrejRxRjVZLWVfZVRQZ0VZ?oc=5",
+      "source": "annahar.com",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-08T05:51:00.000Z",
+      "originalHeadline": "النمو السكاني والاقتصاد غير النفطي في الإمارات 2024-2025"
+    },
+    {
+      "headline": "Eiffel Tower employees strike after female staff removed",
+      "url": "https://timesofoman.com//article/176638-eiffel-tower-employees-strike-after-female-staff-removed",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-08T05:47:15.000Z"
+    },
+    {
+      "headline": "Ministry of Energy Source: Energy Sector Facilities Targeted in Saudi Arabia's Southern Region",
+      "url": "https://spa.gov.sa/en/N2671232?type=news&uuid=N2671232",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-08T05:45:55.000Z"
+    },
+    {
+      "headline": "ISRO not being privatised, employees' concerns will be addressed: Chairman",
+      "url": "https://timesofoman.com//article/176637-isro-not-being-privatised-employees-concerns-will-be-addressed-chairman",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-08T05:35:17.000Z"
+    },
+    {
+      "headline": "مسؤول: هجمات الحوثيين على السعودية أسفرت عن إصابة 73 شخصا",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNjlrRXh1WnlDS1RzZGFBeXF1Nk1xSkZUbXk1OHlOZUJZcG50UXN5T3pXc29VNGd3Y3kzbnotMUdrVDRldmFuY0FxdlNhLUM0OEhmb1dXRW40YjdYZUVRU0NWZkpIM0JpTXNlT2VzMDlKMlBUZ3dlN0RneW1zOWZHcVIwbmd0M3l1MDVJUUtSSmlhVTN3clBjRC13Vmx3b2ptR0hHZDRRbw?oc=5",
+      "source": "بوابة الشروق",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-08T05:35:16.000Z",
+      "originalHeadline": "مسؤول: هجمات الحوثيين على السعودية أسفرت عن إصابة 73 شخصا"
+    },
+    {
+      "headline": "IMF Dy Managing Director meets Sitharaman, acknowledges India’s economic resilience",
+      "url": "https://timesofoman.com//article/176636-imf-dy-managing-director-meets-sitharaman-acknowledges-indias-economic-resilience",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-08T05:32:25.000Z"
+    },
     {
       "headline": "Life insurance industry seen growing 11-12% in FY27, private players to lead: Report",
       "url": "https://timesofoman.com//article/176635-life-insurance-industry-seen-growing-11-12-in-fy27-private-players-to-lead-report",
@@ -11,6 +83,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-09-08T05:28:55.000Z"
+    },
+    {
+      "headline": "\"الطاقة\" السعودية: استهداف عدد من المنشآت والمرافق في المنطقة الجنوبية من المملكة",
+      "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxOb1RHZUM1UnVkeU1LVi1iYmVrRVB1WnFrTWdqWVVHbU1YQjR4c3NqdVhaTmIwRXpGTlNiLTk2Q3laOWdETDN2LTczUDhISHhldThEUEd5X0FQZ3JhMW85amxJN2Y3NkhSMDY4Q05nZUd3a2FwYVlSSF9USDhQSWRlckVjajZQVEtuS2JTektjOFRTX1ZUME9pTmZTejdWYWpibzhWLVlCQWpVVWRkQlQ1Nm1KTTVPM004aEtyT3dLVzE1T2tjRnpWcEVVUll0WjJoejY1VlpTNlpWdE9HODZ0eElTZy1DUjVyMnZpNDlQNm1sT18wdTMySjVLa2xYd1VfM0ZWM3JIRXZQTFEtWEpCM3NGTkVhRFBjcGdFZ3FpUnpPYkxZQ1pWWjl2RWlTaldoNlZxTDdPT2JFN0wyUU1KOW1IMm5zYjFaTlRtOC0taFFCRUlPM3lhZlBxbnZZY0daa182bmhKREhCZE1UT0tkb2Z0Z1ZJYUR4WHRvc0RwQ2FMaVJ2RnlJOV9KTUdqUmZhLXQxUmh2V201TGxIcl8wLXQxRXpKNjgxWFotTmZoUFBGWFNJMkwtQ2dDMVNweENHVDRNRUlzcTRHMXdGY0xDbzdwRmZnNHAtaFJFYWsxZ0EzalU2Wjd6Q0Z0cnhRRHFuVlB4Qk5xQURMZ0dsNy1HWFlRc1YzYjVqN0RUMUExMXVCYjVNWmNfbUJadUNXZ1hWSXdGYmh5eHJqY0taTnJhVWc2TnRqRkExc290azRHbV9pcjd3VEZEd3o1QkwtN3RKSmVSeGpNZWNyZ21zc3VRd3NkZ1R4R2RvbjhLS0RoZ3lLNmlZYWdkWmJjWVNWN01rWmtN0gGIBUFVX3lxTE1UUjBMcG1HRkdJVTRXbUFVTzRoTnpGbVcwbks2QmV3U2IzUWoySUphcUVmSndINUNWVWFwb2NTSXZYNXQ1dEV0bnZFNUwzNnV5a3BOUk5IVDBXZ3E2U0FFcWJiYmVwbktJT0I3X3FKOEtaNWlHS1kxOFJrbkxOdkNMdEF3eFJGSkFrZEhSMVlnLW1tSF8wSVJQUW90dnRSU3VKZlcwaFloYnBJVnpFRmpDc2VsY3IxdGRLVENPR252TjB2NjI3TjhkcXVyeUpNU2JYZmFhMFNvRDBmZVowaGhKRF9mNllFR1ZmWTdvUTV2Z1k3Zy1PbmxzLTAtZ21VUXBaQmdWdjRjWVhZcFNCeXdTd09YZng1eTV5dm85TWVGZGZHVHJFM1dIS2RybkFzZWZYS0FQRjJMTUl5ZWF4WFBleXIyd3VoUzNTUEp1NUdCQ21qNjcza0txdV9BcGh0LUF6REU1NS1RblZucHB3ampnM1dnVGdXR05sTzdUUFhES2FJS3VvVXlLdS1ybHlSUFdoalVER0Y1YkZVOE5fajdXQjZrSmJvMVA2MEZmVEVhbnhlanl1MU5nSTRwM0VCV2dpaVd5M1ViZ1RNMDU5d3hRSTJCbEpnbTZUa1k3eWVscUE3LVJaeTRtZWd0dUstTElBOVZKSFZSbDZBbnFmSVY1WVRBRUVyd2trRlJ6MzNQZTlpTHZOUjRkTmQzUTRSb3oweWg2bmthT01GRWhKVDlhMGdXREdGNjF5MWl4VU5nZEVTLWxWX3ByYURLdnhFTzZPaUdZTEFRWVFTUXl0ZzI1aW44bjI3Y25kYXNBRDE4bm9ZZXBCdE9IRmZTc19Od2Ffck91UG9fVg?oc=5",
+      "source": "العربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-08T05:25:00.000Z",
+      "originalHeadline": "\"الطاقة\" السعودية: استهداف عدد من المنشآت والمرافق في المنطقة الجنوبية من المملكة"
     },
     {
       "headline": "Trump backs new H-1B fee in Labour Day push to prioritise US workers",
@@ -82,6 +165,28 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-09-08T05:09:35.000Z"
+    },
+    {
+      "headline": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-09-08T05:00:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Europe fighter jet plans are in disarray . What happens next ? | Aerospace industry",
+      "url": "https://www.theguardian.com/business/2026/sep/08/europe-fighter-jet-plans-france-germany",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-09-08T05:00:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "أسعار الذهب في الإمارات الثلاثاء.. عيار 21 عند 471 درهمًا مع تراجع الأوقية",
@@ -171,6 +276,16 @@
       "originalHeadline": "الإمارات ومصر تمددان الشراكة الاستراتيجية في التحديث الحكومي"
     },
     {
+      "headline": "AP News Search - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-08T04:38:38.000Z"
+    },
+    {
       "headline": "الإمارات ومصر تمددان الشراكة الاستراتيجية في التحديث الحكومي - سكاي نيوز عربية",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQWVV3cDAzVmFsQktvQ2p4a1BlZjhYYUNXZi1HVkNCaFlIX3FBa3otbmVacXZmV3dZN0drd3ctVGY5TlRlREZhd0lMZzhPRW5mOTFwaHdNT0U4REFWcVYwczhta21WNVpEYmhCZV9wWFRTb3VJcXBiQmxhN3hZTzJvc3FfbXpTSDVKQmg4ODdSUjN3RlYwNTZhNGkxOWlBcXVocnVMRzZDNUpEQmU3QlFGWWljVzlYcFZFYVotd3UybXRWUmFWX2FuVlJnanptb28zc0Vwbl82bnpjTllOd0FCQ2Y2UUJUSm1mTW1BRVZrS1lyUzhWRHZLa2RXUGxyWU1Dak5CQTdyUGdUbFpFMFdlaWhSQ0hZUVlBdXZ5N0JEWHdSZzE5X0hJcjZ4bmpUdTliaVZfUXJUSDBwdW9fYUU4enNaTDBXUHdxdHNTTk10RHpMckllMS1sMEtCV1VZUEdDZ3FzcWdCVnFpRWtFVkpQa0xCbS1MaEduSU1OaUlQcEhicm9ZVFVtckVlZUxGelp3elc2YnNiNlZLenloaGVzVHAtUTI5ZmI4eDl2enZHY0wxV0FXaWt4aWNtNWdEdGpSc2xIbE50TnpaQjc4b3MwVmtTdFl4cFU2U1ZITk91MU1YMGNkb1JfYXZUejF3OGRkbmxwSVN6elhpd2fSAYAEQVVfeXFMTkVEY3lEa2U1NkNGVTdHc05na2VnRF90SGgwN0dNcTJHNi1HU2U0cFBCNnlYR2RPd3NMbExCbFFpNElEY0F1Z3h3anRuQTl5cnM4X3FzSlI2UVNnbi1zR1pFTGYyTGh6c1JoSjd3UUtGdkUyUWNYS1NqTlNfS0dsaVd5NkZOVTlZY1dGMjdsUzRORy1DNms1VXpIWDhCcDdxUXQtdXNlT0toT0o4ZjEzTy1ZV18ydEZaakZyRDA4ME5BQnNuR2RpTXBQR0NBd09uT2NiazNULWw4dUxpZmtpMHZncGN0UkdCMnVOWG5nUXVHR3EzSEVqS0ZzbHQyRXBQVHczNjVrdlh5NkhhTEVoV1hLcEp5SWItbTFXQVg3Q2FVV05CamM0LVkxTktBMEF2d1NwVTNzNXA4bXMtOGRZMjhkRkNrZUF2NVNIY2FtU3doN2lOY0lUMlBpbEtPMjNGTjJGQ3BocFVGMndrV1ppOUp3THlsbWN6YUJoRllreTRQbDgtN3V2b3kxRjZEcXVIMGN6M1l5UC1RSjJVZjFRMWpLeFd0SEMwNFN6YVR5V293TFJxSXg0Wm1qSlhxVGdJTW84Z3p6ZE50UVhXeWNZQkNBbzNieUlOTzVwQU84UHJKV2Y1TFZDcUlreXM1cGhFay1LeXJsb1BsNVVnMXlCai0?oc=5",
       "source": "سك��ي نيوز عربية",
@@ -195,7 +310,7 @@
     {
       "headline": "السعودية: إصابة 73 مدنيًا بينهم نساء وأطفال بهجمات حوثية",
       "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPYURtMGhNMnlkWm5keWZIWkhNLTVENlU2dnZ4ZVJLZXAtVzduRDVDSVFMWThlZXB2SHduQ3I4SmN1cmxySm5aOGVzVXhmZVhhYVZrcldwRmswQmlfYmJsM19zdkh4ekZKdTd4b2gybWU5cmhhZnJlSk5tZ2I1amEyZ1VBNVVPeEtvdWxhOS1IaGotY0Ixdmw5Mk1neGtFT2FyelJQRFlmNW9vWjJJcUs2WldOQjk0QlRoWlBiZTc2NGlLM1dleFI0b1VHaVJsbUI4UUhoUFhPOFRqQW5pVUtqV2FYUnBVOWwzQ3k0THBJai1OYUQyWmtjNFQ4OUpER203aVAxZG9wdEpwaE1RTDBVbGRxcDI1N0diYklqY09iaktqMGF1Z2FkeUNUejNQZTlVcGtZREpjUFQtUzMwS1lYamxXbWJjaDhUOGVaTllRdEo1QlV0emFNb1RTZ25uYkd3VTBubWdrTTlIQTM1LU0xMV91Wm1hSjZmSDhsLWNpeEpRZEY1X2JDMEcza1dkcnpYLXZyRk9US3VPNk1iNUdseUczRm9ORTExeDlHeml1YW5GdGVaQTlWVEtmYWRTOXg0YlNkamtOX3pfRUZLaWlGYXVic1FDaGxfMGgwa081N3R6WWxLOU8zb3NFZmI?oc=5",
-      "source": "masrawy.com",
+      "source": "Masrawy",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -224,6 +339,16 @@
       "date": "2026-09-08T04:21:31.000Z"
     },
     {
+      "headline": "Saudi-led coalition in Yemen says 73 injured in Houthi attacks on the kingdom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXB6MGlpMW50OElMY1FiZ2hXYlNmbmI0ZG8xT2RLc0FOWG9IazNMVDdfdTdILUJINFYweFF5VFFOQldXU3k2T0NSekpIOVhyT050UXR3TzRGTEk4TGlnLVhJQ2s2LWRmamNyRGwyT3ZyU1gwQVlSYU5hQ3hBUHo2bTBwckJNQXlqSTQySzhhUV9WR0laNjZJVEktLXpiMF93N3hrYmRRejBXRFlPVmNrTTJJZ0w1NlhITEE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-08T04:19:43.000Z"
+    },
+    {
       "headline": "There's obviously a feeling of uncertainty: Pakistan’s newly appointed Test bowling coach reflects on squad shake-up",
       "url": "https://timesofoman.com//article/176628-theres-obviously-a-feeling-of-uncertainty-pakistans-newly-appointed-test-bowling-coach-reflects-on-squad-shake-up",
       "source": "Times of Oman",
@@ -232,16 +357,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-09-08T04:19:26.000Z"
-    },
-    {
-      "headline": "Saudi-led coalition in Yemen says 73 injured in Houthi attacks on the kingdom - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXB6MGlpMW50OElMY1FiZ2hXYlNmbmI0ZG8xT2RLc0FOWG9IazNMVDdfdTdILUJINFYweFF5VFFOQldXU3k2T0NSekpIOVhyT050UXR3TzRGTEk4TGlnLVhJQ2s2LWRmamNyRGwyT3ZyU1gwQVlSYU5hQ3hBUHo2bTBwckJNQXlqSTQySzhhUV9WR0laNjZJVEktLXpiMF93N3hrYmRRejBXRFlPVmNrTTJJZ0w1NlhITEE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-08T04:19:00.000Z"
     },
     {
       "headline": "Coalition: Terrorist Houthi Militia's Attacks on Saudi Arabia Constitute Dangerous Escalation; Hostile Approach Will Be Firmly Confronted",
@@ -262,6 +377,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-08T04:09:00.000Z"
+    },
+    {
+      "headline": "Latest news - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-08T04:06:34.000Z"
     },
     {
       "headline": "سوريا تتحرك لكسر العزلة المصرفية.. ماذا تقدّم السعودية وتركيا؟",
@@ -297,7 +422,7 @@
       "originalHeadline": "تحالف دعم الشرعية في اليمن: إصابة 73 في اعتداءات الحوثيين على السعودية"
     },
     {
-      "headline": "Houthi attacks on Saudi Arabia wound 73 people, officials say - AP News",
+      "headline": "Houthi attacks on Saudi Arabia wound 73 people, officials say - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -305,6 +430,17 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-08T04:03:00.000Z"
+    },
+    {
+      "headline": "تحالف دعم الشرعية: إصابة 73 مدنياً باعتداءات حوثية على السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOWEI5Y1ozR2ppMVI2bkFYQjQ0bl9zWmk5ejZNaGxnM1dMckNhV0NZdjQxMDlIc3Rna1VWUFpiX0FYM1dXaFMxaUtuUWhfeHJmclNnOTdUSEdXTEVQTl96N3lnQ2o1QnVIREcybFZ5OXJMNHdYRWNOTk9scHptQ2pfV3U3MFQxVURfOWQ4Y1p0TkdHekxIdlhWTjRrZTZ0Nk56a2taMERLNDB4bjQ2LVhtUEl4WEFWVDlUN0pJMVJvd001clEtUkpQVFNMTU9zOExuMkVKQkJqTmozMV9zeVJBLTRmSC0tVmlnQ00tSHAzazQxdXVmbnluTlRMbTFfUWZlUVNtWkVIOU1TV2U2Wl9MOXMtYU9OaTlqbkVJVGRFS0NfTjNGdEthTktDWUxCSXR5c2pfYWxhTUF0YTFDUzg0RExVNnl3bTJnYW5oN0Joc1EzSVhEelowUmFGdXF6LWVkREdCQ2dfLWYwYThjUHBMenVIMzFKQXlPNFo3U2VKU2pxdzA1MHM4OHhvNnlfOFN2NC1hVGRrNm03RFdUN1RRWk1MbHdaTjI2S0dGV09qanNhbTdNeTYxTGtLekg2alg1ZlE?oc=5",
+      "source": "الشرق للأخبار",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-08T04:02:40.000Z",
+      "originalHeadline": "تحالف دعم الشرعية: إصابة 73 مدنياً باعتداءات حوثية على السعودية"
     },
     {
       "headline": "Foreign Minister Discusses Middle East Issues with German-Arab Parliamentary Group Chair",
@@ -315,16 +451,6 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-09-08T03:45:51.000Z"
-    },
-    {
-      "headline": "AP News Search - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-08T03:38:28.000Z"
     },
     {
       "headline": "ألمانيا: تصدّوا لدور الإمارات في السودان وقمعها في الداخل",
@@ -547,7 +673,7 @@
       "date": "2026-09-08T02:00:00.000Z"
     },
     {
-      "headline": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments - AP News",
+      "headline": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFGcTR4d3dmZ2JzQlJCcWNlR3JOUGJ5TW9YVHFDX0J0djhXeFRncFFkUWJXMXhISnFsWTFJNEZwYmhqQzZpV1Fva0VUSElfVVFKWXlsb2ZON3luRTVYLTdKaDdoQ2hINDdFQl9oZGMzMWU5THhEZXE3bWUyZXFxZFdVemlzUFlJNG9NOWJjLU9VZFc3TlpkOWJDdlNndw?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -587,7 +713,7 @@
       "date": "2026-09-08T01:46:00.000Z"
     },
     {
-      "headline": "Houthis accuse Saudi Arabia of a strike on a prison in northern Yemen, killing 7, including a child - AP News",
+      "headline": "Houthis accuse Saudi Arabia of a strike on a prison in northern Yemen, killing 7, including a child - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3I0bEdyWHZPdGRnMVRRZ29uRHktMF90VklvUmpfZVpkZWk2X1pTOGhrUWhoQm83ZlJReEozYUgxQWJqX2I3XzNUSE10WXRKMUVycENNWlVGeWtwVUF3QWMyQ3JaQ1l0WVJnRWx5VjZkRHJ4cC1yMVdOU185cHk4V3lGRGsyQmp2T1pjMmluaUptNGZmeHpYT01XRV8tTDRzRmN2SHgtS3RkNm4tWE1FajZR?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -627,7 +753,7 @@
       "date": "2026-09-08T01:35:44.506Z"
     },
     {
-      "headline": "Tehran - AP News",
+      "headline": "Tehran - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5NDlDVTVaLUZKeDN2VXY5Qm9QZmg4bUUwQThRQ005NUxHU2dtTlY2WlM0a2xaYkV0V3JIcTRIZ1JwaE0?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -635,16 +761,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-08T01:32:32.000Z"
-    },
-    {
-      "headline": "Latest news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-08T01:28:42.000Z"
     },
     {
       "headline": "Death toll from Ebola virus in DRC rises to 3,226",
@@ -730,6 +846,16 @@
       "originalHeadline": "أمين عام الجامعة العربية يؤكد الحرص على مواصلة دعم اليمن والحكومة الشرعية"
     },
     {
+      "headline": "Reporter and cameraman for Hezbollah-controlled Lebanese TV station hit on air by Israeli strike - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSWhTVXN6bGVkZGNtRDZ0c2xLdlVmUmIzZDl3SG9pVjBaUnpkN2d4OE5vTDJwZ1l6RUJ0aG1ubDI5WkFTT1czdWlOVkJzbTNSZlVxbGxXMGxZZHh4ZjZ4bXRRdmR6UEgtR0s4T2RxcmxZMExpeWZVSmdfV1RUdUF0SEVGY0ZhNUVvVHNsV0V1OWlmM20wMGdrekNCanBYM3VtNTVxSERyaGlkaEg4Sm95Ty1RbVdfLVQ1T0Y1UUxuRFdCdHk5elQ5WHV0bHMxaEw1NzQwYi1xalNEVWdlUFpVSThYc3pCNS1UX3c?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-08T00:37:00.000Z"
+    },
+    {
       "headline": "Gold prices fall, silver rises",
       "url": "https://www.wam.ae/en/details/17ex1pc-gold-prices-fall-silver-rises",
       "source": "Emirates News Agency (WAM)",
@@ -807,6 +933,16 @@
       "date": "2026-09-08T00:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "سلام على حساب كييف .. تلغراف تحذر من فخ روسي جديد"
+    },
+    {
+      "headline": "Japan upgrades Q2 GDP on slight capex improvement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDBCbnBuREtSbXVFYTdjdnBKWEJmQVdGS2tTTlZMVnVRSW8zS1dtREV1b2VoelJYZWl0Yk5wUGlNWW9ySWhWUHV2WUM3U2FsMk1Genk2bEdjblc2V3Rmdm1tRGJLcUlpZWQtN0x3dlZya0tWOUx0dGc0N24wVmFGSjQzYnlYZk5QTUJTazFZWmVONlhaWVFGRDg1R2M5YmJTaDREdg?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-07T23:59:00.000Z"
     },
     {
       "headline": "Israeli air attacks kill 12 people in southern Lebanon",
@@ -1084,7 +1220,7 @@
       "originalHeadline": "العليمي : قواتنا ماضية لاستعادة الدولة .. والحوثي يتحمل عواقب مغامراته"
     },
     {
-      "headline": "Iran says improved ballistic missile shows it will take preemptive action against threats - AP News",
+      "headline": "Iran says improved ballistic missile shows it will take preemptive action against threats - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW9PNHFnZGJneDI2Zk5KQUdybFlKMWJzcjhpcGpTN29VQjg0RlB0N0MybWRqeDA2eGtWZ0pkNWNyS3REMVlzMjg3UE5lbGczMzRnM21iVnpxMDZFRlAtRTRYdTlGdzlyMXdETFl6bi10Qjl2Rjg1YUlxRDc1QVo1RXh4OFRDMkVQUDk2cVpnYVRuYlk0OVN3TF9xcWkwcmRwRkRBUzY4S01ZaGRIZHZR?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -1206,7 +1342,7 @@
       "date": "2026-09-07T21:06:02.410Z"
     },
     {
-      "headline": "Al-Hilal’s 47-game unbeaten run in Saudi league shattered in home loss - AP News",
+      "headline": "Al-Hilal’s 47-game unbeaten run in Saudi league shattered in home loss - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aVgwel9fa1JRQlhBS1FOZTZHWUVIT0gyLXZFTVd2TWNtTXF0aENLV1ZHODZQRGI1X1hhQm1yRU9QTGhMNExjNTNQcWdhOFItVFVVMXJEc0VLMXNPWTZXcGJBMUpWak4xT3pPSXJVSzJHaHd0N0dxTEV4NTBZZTQ?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -1830,146 +1966,6 @@
       "language": "ar",
       "date": "2026-09-07T17:54:19.000Z",
       "originalHeadline": "تأجيل النسخة الثامنة من معرض البحرين الدولي للطيران إلى نوفمبر 2028"
-    },
-    {
-      "headline": "Iran: The Strait of Hormuz negotiations with the Sultanate of Oman have reached their final stages",
-      "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOS2ZPRHlrUWNzZ2NxTEUxbUV6NDZkSUxQNFA3VlBSZFF5V2tXMURnR3dub0hVR0l5c0dmcWpzYzI5Z1VSQ05fdHRoZjhXbU0zdE1FUmxqOWRMRVRZRVowR2lPTVpjYXVQaUxaOTg1S1lDbS12am8xS2dmLWw3Tm1Xd3NURnZxNGd5em1YbmRqbm1lSk5oSWpOVEs3bHJWSXJxUHpoNENucGROTk83ZEYwR0NNOE91dHMzZjAwVld3RFlMZ0hNZWR5dVhiZzZyd2tmcWJCOTZlUHljdExZdHR4b1g4dDEwcG5mWXU5VGFQeEhRdG0tdjV1SW9BSHZpMnFHLW5XVU1kT0dGWkRSTXdnc1FFS2sxaE9RMXZER2VEa19WOFhsVHlYSE9Ndk9IZGZsS29pcERsUzNHbGVCY3Y2TFdVRnljOWd6QjUzZEJIR3NPR084OWpLTU9QYXhWYXQxRkJvWVdZUnI5enVIdFVJR1h3SmJSSjZJeTZfUWpYVW8zdWJHd0ExSW9IaXBYeElwRm80TzNVME1wclN4NkVDNWVsNXNKTVRSM0h3MUlZZ2hFbTVVdVhpSmNmVHRCcTFQM3FXRUVOV2dYbWFIWlJhQnpNR1pXeUZhU1MwLVFOUGFuQ3R5aXNGZ1A3NFJLRU1lTG5JaHBxeUJSTjdXOTNCOWFBZEJCWEFHWHNEaE9iQ2Zud0ZoTzM1dm1LMFNXNXJ4UzNLUFA5aW9saWlvMGtaV0h0a9IBuARBVV95cUxQdW1RQ3N4c1h6MmplQ19fTGtZdXE3M25FaDBpQ3NfUU9Mc1dkU0piTXgxaWEwYWpDaUp3NTJqTHJYdllnYjhnY09PekY2d1JhckxybGlTRUNmSFlfbHQzVjlpRlFTeWFCUFVKZW00VjRVdmEtT2ttTUZCMFlJN0lQQ3pPZkRDcUpCNlBDaFZSelNldm5fUmV0eFFPWWVnenNDWmlNRFFBT3o0UXhhR2JwVU8yR0t5OEkzZkRZVmFlUEJuaHJXUDY1RXRURHlFdllvZ0V4VEVfZmQwbTJYZ0o1aF9QaExBWTkyXzZyREJxS25QS3hEdE51aVJjTGNBd09YWnNtTmwxU1FFY1BjRkVFclh0QkpoTFZzM3huN2tBZUVNeEZtdTROS1M1UG9QU1JJdmlaWFJRb1lKcXBKaGEzMkw2Z3dveDRtclVpRlcyUHNwNmNpODFid3E4TXFXZWFBb2dVeGtEZmpCUmNmQlFUU3VDalIzeUI1ZG5TVy1ValhvTTVGQ091WlhtNGNDMFI0OG1SQ3U2THhVYlM1blMwR21HSTBWYUpHdFVNMHBoNGRFbmNQZGE5clZoUURpUXdVR3NtV1ViMWNIZlV6RXctZGZjSi1NZjlwZXNVcG5NT3JSbTJ2aTl4NmtSOW8tVDZGSXV6ZFYzYmlFUVB1ODB5ek9VUlEyempRR0l1elYxbk5DbGFjX2lVY0t3anBHTzlDZy1mWWhmd2U1SG1XeklBb1B4a3QtUTVU?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-07T17:53:02.000Z",
-      "originalHeadline": "إيران: مفاوضات مضيق هرمز مع سلطنة عمان وصلت إلى مراحلها النهائية"
-    },
-    {
-      "headline": "تأجيل دعوى إلغاء منع بعض النساء من السفر إلى السعودية لـ14 نوفمبر",
-      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOUEZLc25kNnhMM0JRblFiemt6cnd1S2FZMjRPMHg2THVnNDZxMFlqd2l2WEx0Zl9RbFAzbWh2TWtMV0xEVGxLTW5YQVhVQ1Q1Wk1UVXdmeE9hak5OM1dXcXFYd09PbVNIMGRhcS1pRHYyOXRhb2NlNWpucXN0OVdvMFloZnc1QWdRejJNcGlvTnlFdU00NG93a0NWSFVZNnVZdEc5TEhaRERxdFZESjNiVVhIcU96aHltYVBPdTFKcjNpZGctdVRzTFZXXzI4SW5mNU9FYnI1dU9MbERiTlZTMk45cTBVVWd5b0NvMGJnTTZtRElJd2JnaF9fOFFMelNicWVKS092WU5TcnpuX25nT0VkZ25UZWYtY1VoYXJ6NS00QTF6SzgzQTVKWDlETXdPRlkwMmtvd0V0UUZ0dmZldEtjTWd5amcwY25hZUZuMEpuWVRpUVVnV3FsS19OMzVMdHNDT3J5UUFjTUtnSVd3VnU5dFMxZ3FONm5VWDBZNnBHMEhWd3F5WVFGTXdqUlA5QzZGbXNxUVBSTm5mWkY5eDVmWW56NURrWGNtWXJselpNaG14Qm9nMTU2OS1VSGRiWnlZadIBvwNBVV95cUxNXzlJVVdsangxU0E3QUZTcXdmWk9JVVUxNnJ4MDdPTE16anFNVWY3T2lyeTNOdFZDb1Y3NHh1YVhVLWhhWWhic3ZCaC0zeEs3MldQZEZEYVBUSWw0akZFc2JuUVdrR1BYQ1JwdGF5VW5Ob1N5cFU1R3JPRlhVSlBkY0c4dUwzaFVlejlBSGhCWjZTMEVLbkktWm1zemFFMTRkX3lWNHMzQm5BMURIcC0tQ3h2U1AzX1IzT2hzS2lKajk5czJXc0J4TXJuQ0gzV2VIRFVCazA1dXQyZ24zdlBKTERiUGdfcnB1WFhZM2tFUV9WYWFKbDUxNTlfZUwtYVRtY2Uxbm9xUXVRTVFqNVlLdVRXNzhDSENEWnJfc3RxZUlwUnljMFM4eTNtbC04MnRJSjQ0Y0dlWno5cWpkY1FVUzBnenhhaml6QzM1QjkwUWpRQ1U0elhyVEtHQWJsdGM3dU9ZcGU0QlViRTZZSUJ0b080MHhuSERMMnhQR0lIYmZJU3d1SDJtTjNpckZCaGFISzRhc3VDd1BBem4tTDBjUGFzRm1faTBqUG9uSjh5MTJ3UjZUSDBWdkNBU2VLM0E?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-07T17:47:00.000Z",
-      "originalHeadline": "تأجيل دعوى إلغاء منع بعض النساء من السفر إلى السعودية لـ14 نوفمبر"
-    },
-    {
-      "headline": "Saudi Ambassador Meets EU Ambassador to Lebanon",
-      "url": "https://english.aawsat.com/gulf/5315642-saudi-ambassador-meets-eu-ambassador-lebanon",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "New Battlefronts in Yemen Leave Houthis in Disarray",
-      "url": "https://english.aawsat.com/arab-world/5315745-new-battlefronts-yemen-leave-houthis-disarray",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Russia Announces the Closure of the German Consulate in St . Petersburg",
-      "url": "https://english.aawsat.com/world/5315686-russia-announces-closure-german-consulate-st-petersburg",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Makkah Advances Preservation and Development of Historical and Cultural Sites",
-      "url": "https://english.aawsat.com/culture/5315648-makkah-advances-preservation-and-development-historical-and-cultural-sites",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Envoy Sees Movement Toward Three - Way Talks with Russia , Ukraine",
-      "url": "https://english.aawsat.com/world/5315584-us-envoy-sees-%E2%80%98movement%E2%80%99-toward-three-way-talks-russia-ukraine",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Lebanon Says 12 Killed in Strikes as Israel Vows to Remove Threats",
-      "url": "https://english.aawsat.com/arab-world/5315651-lebanon-says-12-killed-strikes-israel-vows-remove-threats",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Dont Ban Children from Social Media , Estonia Tells EU",
-      "url": "https://english.aawsat.com/varieties/5315708-don%E2%80%99t-ban-children-social-media-estonia-tells-eu",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-07T17:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "\"المناطق الحرة\" تدعو الإمارات لدخول قطاعات الصناعات الهندسية",
-      "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxOWDBocFJWcElXWDFiNk5iejM1R2pTY2ZHV1JyeVV4RmJPcDhUemFNUnV5YWhZSXNVMERuY1F2X1RpLUVxZlc0UHIyc1R5Z2VzUVEtSXdObWRaMS1HNWxNUTBIdDBGdHFoNmVabk9DcGxvYkFpTVIwR293Nlk4eXpUOTA2cDFIZkZGQkJFRDc4ZU8yM0NiV3NlMlBHTHhRcFNrMGVwdkhHWnlkcG0waGZwbXZRY2ZMaXd2VDZtSWU1OUVIaFd5YjY1a3YxbzlfWlVLZmVySV85ZlFWS2FweVp1U3d0MkxtY3FwQUZlMl9lQjdtQ3VnUm9NWVpJOElkTEZCWGVWOVhnWDl1V0RyUlcyTnFYNWZFV1NpYlZ0SElzSkt3NE1OSzJYcEY0eFNzdU9KX21qcTc1UUU1eDFmTEJNQTNQdTZnRDNqSUNXcll1dEN5MlM5Q3VzajUtQlFKMzJBTFNVMVZ5R0NrRVEyaGFuOVUwbFZ6TDJsRFJJaEdfMWNOUlFVQkJSeEpaT0hTSlFwY1JtMjJCQlVvb1V0R1ZwUk1MYzZCR0NFQjhSbUxDV2hoenkyX2pJRFE3R2lLREZQYnh3SDhDX1pGYW5TR0JFLTdGZEJfb0VCNzEyTUY1OWJXYmxuRmJaekRQQlp2b2VpUzR6aktmRkNLY1hIVU5QeGdxTDRreGZhYVQ4eS1uOGVZMmFSeFRvd9IBngRBVV95cUxQRFFCU19VSDU4UGxvaTk1NDg2VnN2MXB0dUgzcVZiQlNnZHpBOUdUQjd1cmZ2WTA5R1RWRDZXVkJuOHhBa3pJa0VFN2x5SW14RHp6dXpQeWNOYS1DdjZ0VlQxMjkwUDg2VTFqeXJMZURUVWR0NUhIUVhnQ1pPZGFpYld1azA1ZDN6UDBQVGtQRkZnS2Vua0xKU2RlQU9tcVM5Snh4T1dkd2prUXpRSFowMHNrdVVuTTZVNmx5ZkJGeGVhOGg5S21oNzIzSmNFS2U3SU9TcVQ2aFNOcHo0OFVkb1U5SXVwNDVldnBibHpwblU0STRwbnZBbU9sd1kwUGoxcTRWYkM5VDhoOTJNTzlFN29oUzFWR0RDX1lxMGxVMUVmVEFGc0EzeVBwa2MtSkJXZFpfSVVIVlZ6RjdCYmp2YzlEdnpiMlpISzlZSUlZRWZFYVFxTndnYnhLT2ZGUHRSbWZxeUVBcXdEQUJMM1NMOC1oTDVacV81amh4eFhRSFV1cFdjNk1MQUZEbFlDa0FTUFBVX3pFRnZZN19nNXNaZUwxNUswNEdrSDh3ZGFlOUZWVFFwb2NRcTM2R1Z4NFBCZ1o4bFk0aFhtWTBoRnRrVFNhMU51SEV2TkdnRmNDNjRsME1WMU1TTG1UbklSanliTnRuMVk3MHJKcjdjOGtDUXhKRDIxTWZnSDJEM2kwaFJ0Y0pkclI4MEtuMlB5Zw?oc=5",
-      "source": "Masrawy",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-07T17:45:00.000Z",
-      "originalHeadline": "\"المناطق الحرة\" تدعو الإمارات لدخول قطاعات الصناعات الهندسية"
-    },
-    {
-      "headline": "Saudi-Chinese Partnership on Joint Use of Water, Environmental Research Facilities",
-      "url": "https://spa.gov.sa/en/N2670981?type=news&uuid=N2670981",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-07T17:36:17.000Z"
-    },
-    {
-      "headline": "Mohammed bin Rashid visits Natural History Museum Abu Dhabi",
-      "url": "https://www.wam.ae/en/details/c24l2qo-mohammed-bin-rashid-visits-natural-history-museum",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-07T17:34:39.770Z"
-    },
-    {
-      "headline": "Sharjah Ruler approves part-time work system for senior citizens",
-      "url": "https://www.wam.ae/en/details/c24l2qn-sharjah-ruler-approves-part-time-work-system-for",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-07T17:32:08.308Z"
     },
     {
       "headline": "#UAE and #Turkish leaders discuss bilateral relations, regional issues.\n\n \nhttps://\now.ly/vnX430sYK24\n\n#KUNA  #KUWAIT",
