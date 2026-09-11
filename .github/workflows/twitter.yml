@@ -1,17 +1,38 @@
 name: Scrape Twitter
 
-# Playwright-based Twitter scraper for the live Wire.
-# Runs every 3 hours (vs. feed.yml's 15 min) because each run takes ~30 min
-# wall-clock for 33 handles and X rate-limits / blocks headless more aggressively
-# than RSS sources. Tweets merge into feed.json using URL-based dedup, same as
-# RSS items.
+# Playwright-based Twitter scraper for the live Wire. Tweets merge into
+# feed.json using URL-based dedup, same as RSS items.
+#
+# CADENCE: hourly, as a deliberate workaround for the Cloudflare bot challenge
+# x.com serves to some GitHub Actions runner IPs (diagnosed 2026-09-08; see
+# lib/scrape-twitter.js detectBotChallenge). Roughly 1 in 3 runner IPs is clean,
+# and the block is IP reputation — not the X session cookies, and not the
+# browser fingerprint (both ruled out by measurement). So the only lever
+# available without new infrastructure is more attempts: ~8 good pulls a day
+# instead of the ~1 that a 3-hourly cadence was yielding.
+#
+# This is only affordable because the scraper now aborts after 5 consecutive
+# challenged handles: a blocked run costs ~2.5 min instead of grinding all 45
+# handles for ~7 min. Do NOT raise the cadence without that abort in place.
+# Actions minutes are free here (public repo).
 #
 # See: generate-briefing.js --twitter-only mode, plan harmonic-leaping-trinket.md
 
+# CAVEAT on the cadence: GH Actions free-tier cron is throttled and unreliable
+# here — feed.yml gave up on it entirely and is now dispatched every 15 min by
+# the gulf-briefing-refresh Cloudflare worker, because Actions cron was
+# stretching to 3-4hr gaps. So 'hourly' below is a ceiling, not a guarantee.
+# If the observed rate stays near 3-hourly, the next step is to add a
+# twitter.yml dispatch to that same worker rather than fighting Actions cron.
+#
+# Shares the write-main concurrency group with feed.yml (cancel-in-progress:
+# false), so an hourly Twitter run can delay a feed run by at most one
+# scrape — ~2.5 min when challenged, and nothing is ever cancelled.
+
 on:
   schedule:
-    # Every 3 hours, offset 15 min so it doesn't collide with feed.yml (:00)
-    - cron: '15 */3 * * *'
+    # Hourly, offset 15 min so it doesn't collide with feed.yml (:00).
+    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
