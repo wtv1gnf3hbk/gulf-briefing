@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-12T04:34:13.072Z",
+  "updated": "2026-09-12T05:02:48.709Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Saturday",
+      "url": "https://spa.gov.sa/en/N2674200?type=news&uuid=N2674200",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-12T05:00:38.000Z"
+    },
+    {
+      "headline": "France: More than 40 injured in train derailment",
+      "url": "https://timesofoman.com//article/176806-france-more-than-40-injured-in-train-derailment",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-12T04:54:12.000Z"
+    },
+    {
+      "headline": "Razaullah-Abbas blitz entertains as hosts set 130 to win after Pakistan's fightback",
+      "url": "https://timesofoman.com//article/176805-razaullah-abbas-blitz-entertains-as-hosts-set-130-to-win-after-pakistans-fightback",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-12T04:49:40.000Z"
+    },
+    {
+      "headline": "بصور جوية.. ماذا نعل�� عن استهداف خط أنابيب \"شرق-غرب\" في السعودية؟",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTl9YeWN6TkdyT0UwQ0RYNXNmbVY1cno1QlM2MjlpMmtFWEw1LWFSbnNac24wMU5hV2llaU80VVZyYU9GOXE3ZThpWEowckJFWTNfT05OMUNfOVhad2JQMU8wSkdoSHU0ajhMUXBTUEVLRks2T25sVHRoOFBudGMtMHNyTEdOWTlZOTFwS1hNdEZtUDBOeTBneEtZNFljTXExQ1cxUXlvVTVqWXMxaF80?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-12T04:49:29.000Z",
+      "originalHeadline": "بصور جوية.. ماذا نعل�� عن استهداف خط أنابيب \"شرق-غرب\" في السعودية؟"
+    },
+    {
+      "headline": "US Open: Alexander Zverev survives Karen Khachanov in two tie-breaks to reach final",
+      "url": "https://timesofoman.com//article/176804-us-open-alexander-zverev-survives-karen-khachanov-in-two-tie-breaks-to-reach-final",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-12T04:47:01.000Z"
+    },
+    {
+      "headline": "I enjoyed the standing ovation: Pakistan’s Razaullah after fearless 81 on Test debut",
+      "url": "https://timesofoman.com//article/176803-i-enjoyed-the-standing-ovation-pakistans-razaullah-after-fearless-81-on-test-debut",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-12T04:45:20.000Z"
+    },
+    {
+      "headline": "Women’s Asia Cup 2026: Sri Lanka overcome Sana brilliance to beat Pakistan, set up title clash with India",
+      "url": "https://timesofoman.com//article/176802-womens-asia-cup-2026-sri-lanka-overcome-sana-brilliance-to-beat-pakistan-set-up-title-clash-with-india",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-12T04:42:37.000Z"
+    },
+    {
+      "headline": "Nearly 50 , 000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+      "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-09-12T04:30:00.000Z",
+      "tier": "gdelt"
+    },
     {
       "headline": "إدانة أردنية بحرينية لاستهداف خط شرق غرب في السعودية",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wTzZnVC1QOVpjOEpnS2l0bzVjUS1tV0Nrd2RYZFpLNEg3MTdCZF91UnVYdVF6UVlrV09GamFGMU42TTdMVmlVT1lQZDhwTHdCWUN0aFBB?oc=5",
@@ -199,6 +281,18 @@
       "language": "ar",
       "date": "2026-09-12T02:05:04.000Z",
       "originalHeadline": "العراق يدين استهداف السعودية ويعلن فتح تحقيق عاجل لكشف المسؤولين"
+    },
+    {
+      "headline": "حمله به خط لوله شرق - غرب عربستان از خاک عراق ؛ رویترز : دولت عراق مرز شلمچه با ایران را بست",
+      "url": "https://www.bbc.com/persian/live/c6y0zkrdyx7kt",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-09-12T02:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "حمله به خط لوله شرق - غرب عربستان از خاک عراق ؛ رویترز : دولت عراق مرز شلمچه با ایران را بست"
     },
     {
       "headline": "Mutual attacks between Russia and Ukraine, and Putin renews his criticism of NATO expansion",
@@ -418,7 +512,7 @@
       "originalHeadline": "رئيس وزراء العراق يقيل قائد عمليات ميسان بسبب انطلاق اعتداءات على السعودية من المحافظة"
     },
     {
-      "headline": "\"إس آند بي\" تثبت تصنيف السعودية رغم ضغوط الحرب ومخاطر صادرات النفط",
+      "headline": "\"إس آند بي\" تثبت تصنيف السعودية رغم ضغوط الحرب ومخاط�� صادرات النفط",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNSi1OaW5QeTFhblBZOWl1ejVoemtuNHB6blhhZWswaXJYRF9TU19NY3JCTHlZVzBVYzlEY2Iyekl4dC10Z2p3cXpqcHhHc0IwZ19mZDZ6T2xNV01iZnlNOHJZRkd0ZnhocHloSk9KREdaZEY3Y1NsUlV4SGUzZnhIR3JROHktV2taUzEyRTN4ekFjOC15LUVXLWNRX3A3LTVvaExaamEtQlZZM09NcFZEWVA4QzFad25pU2lHQjBCYmdDWUh3OXUtdV9YTHBpdWxBelJCUEJBWUVJdmpNX1BaRmo5akRyb0hZS1d5SVZ1emRJeE05NmM0SGtpWmlwb2RYck9jUFFUd2JnVkY4QV8yZFZVX1R3TlJoMkJUYVVkcFZiRjNOQUtfZkFBenAwS2ZVOHJDcXNZUXdBSFpnOHFpMExCRVF4U2VBdUJtQTd2WE5oSlZwWEJ1ZXJDX243LVU4VXhiS2FIRWlSeDVlakNJVFBhWnNhZTdxOVhpTnpadzBieDFZMTJsbmE3dzBaQXZyODVvc2xvTVhZdlBabEpVZVJycE44LUcxclBnbElBOTlockV6Snk1V2liMERfOTNBTV83ZGZqLXlRazlUc0hEYlZOQjJnVFhUWGx2MlBpVlBHYVYtR2c?oc=5",
       "source": "الشرق بلومبرغ",
       "sourceId": "google_news_gulf_arabic",
@@ -426,7 +520,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-11T23:54:55.000Z",
-      "originalHeadline": "\"إس آند بي\" تثبت تصنيف السعودية رغم ضغوط الحرب ومخاطر صادرات النفط"
+      "originalHeadline": "\"إس آند بي\" تثبت تصنيف السعودية رغم ضغوط الحرب ومخاط�� صادرات النفط"
     },
     {
       "headline": "GCC Secretary-General Condemns East-West Pipeline Attack in Saudi Arabia",
@@ -689,7 +783,7 @@
       "originalHeadline": "الإمارات وألمانيا تؤكدان دعم حل الدولتين وتدينان الهجمات الإيرانية"
     },
     {
-      "headline": "العراق يتحرك بعد هجمات على السعودية.. إقالة وإغلاق منافذ مع إيران",
+      "headline": "العراق يقيل قائد عمليات ميسان بعد هجمات على السعودية",
       "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPYkFOampMNHRqdGE4TUhIbVE0VHlvT0oydHhzb3drS21KR2dnc1NnejN2NkxFa2ttbzMwSDZzU0RCc09JYWhJSDA0dEFwcW9GLVhtOHZMNU9kNHIyV1o2bUpCZmZFd2RqMzlYRWtXLUtzcXJIbzdYR2w5UXhuVEFWNHg3WTF2Nl9UOURxbFpFM3NFekQ5b2lNeVBwMFdRNWppcldiM2EyUHNVaERvM0VHUlV4UFpxZ0lXVUF5Nkk5VG5uNG9GZEhibHRaV0x0NXhBRndLZjdwel8tSUkwTXpvalQ3WEswNndINXZhVHlMOWJwcDdRMkZ2bHJjSmRneTA2YXF3V1BUaVVoVmQ3T1JObkxid09zUk5ham92QzctRGtOQjhuZEIyWlJSdGN1cUZENHpBVVJQTFVzblU0S2dXSTFSQm5XdFkyazVWY1gzUjR0QkFiWWRNdmZCZS1XTWx2Y3JncmNzYVJiUVFUZ2xJelZ6MUx2QVdGRURxY09fdXVBclpCeHRVYXo4NlR3VDN2YTl4TThlckVLaHppbHlJNHBtVnpyeXlYV3BsaHhEMUNmTlhyWnFBWHBOMy0zdkZ0RGlWTUdDUUpXMmwxT2tWblB0Z9IB2ANBVV95cUxQZUUySXlRZlVLSTFwSHJoT1pWUW5BaVdJMVZTb0RBYWRJX2R0ZVVHOFNCUnZWQXBrNXpOTkZOOWV5TnUtYWZua1pQczVJSktaOFRrYUhDVk9EcWVpNzlneVBxb19OQVE1bEtvVlk4NEJPNXd6cXRRc3BCRGhiS1RwUk5pR1d4aEJubklsRlZOY055WWFZXzBReFEyVnJjb2ROT1dSa2VsUU1oemxWNU1jQ2h3bzcwZFNjVURaTFhLUk5BUnc3b2c1SVhpRGFKS2NIakJhZHh5d3RkZWh1c2VSYm15VVhkd3RhWTdlNEl3cXZuSlk2TTlSdTVUVlRSaVZwejZBYllSd1YtWXBBT1FUM1NPQXdfR2RTaDUwTndILV94XzFHak5Zc3hEZTM4LTJIQ21iVXZYdUw1aVl2RDhQNUMwbnNJcTFPYUxCR1RfdTUydm5pUlJ0Vk8zdmNoc1RPRGRBLWtYbTBIZ3hmYmRScVlEZWRTMlBfQUJYS3FIZGhSeEk5VXBFUHdHdVlBZ2FPdlF4dU84V3JlU2dIb2FwYk5zakRzMGxnU3o5dmkxZEp3X1h4bnVLQnhmaHcxelBhejZhOHpxN28zSUg3OVE4Nl9GeW9DM3B1?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
@@ -697,7 +791,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-11T21:51:00.000Z",
-      "originalHeadline": "العراق يتحرك بعد هجمات على السعودية.. إقالة وإغلاق منافذ مع إيران"
+      "originalHeadline": "العراق يقيل قائد عمليات ميسان بعد هجمات على السعودية"
     },
     {
       "headline": "Saudi Arabia Strongly Condemns Drone Attack on East-West Pipeline by Drones Launched from Iraq",
@@ -721,7 +815,7 @@
       "originalHeadline": "السعودية: مسيّرات من العراق استهدفت خط أنابيب \"شرق غرب\""
     },
     {
-      "headline": "Exclusive: Saudi Arabia threatens to respond to Iraqi factions after targeting the east-west line",
+      "headline": "خاص: السعودية تهدد بالرد على فصائل عراقية بعد استهداف خط شرق – غرب",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE8yUEUwcndmTl9MYS1LNVJPLWExV1N4dEhuREtubVN2NWptLURQTlRzRm1FTDZaR0VYN3gwbDhR?oc=5",
       "source": "الحرة",
       "sourceId": "google_news_gulf_arabic",
@@ -794,7 +888,7 @@
       "originalHeadline": "ستاندرد آند بورز تثبت تصنيف السعودية عند A+/A-1 مع نظرة مستقبلية مستقرة"
     },
     {
-      "headline": "Antropik announced the use of artificial intelligence by institutions related to Iran's government to advertise and monitor citizens",
+      "headline": "آنتروپیک از استفاده نهادهای مرتبط با حکومت ایران از هوش مصنوعی برای تبلیغات و رصد شهروندان خبر داد",
       "url": "https://www.bbc.com/persian/articles/crer5pgpj0do",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -918,6 +1012,16 @@
       "originalHeadline": "قطر تعلن تضامنها الكامل مع السعودية بعد استهداف مسيرات خط أنابيب"
     },
     {
+      "headline": "Former Canadian leader Jean Chrétien tells US: ‘Never mistake our generosity for weakness' - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0lPb2l6WFFBSWpucXVqckdXS2dBZlFqeU41ZjRnYXZiQkd2YjF4b0gzZnRqLTZwZXAxM1BDN2NMOW1EZUd1U3EyTERvdFV0QkVsV3JiN21zQjVpQ3ZJOGZlNU52YzMzbThBNnM5ZGNnMWRzMWdXYzJ6Y1hyZzl0aWtTLUNIaFAxTnoxNUJlWHoxWUZqeHNfR0pOSlhWUGljS01B?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-11T20:59:00.000Z"
+    },
+    {
       "headline": "Saudi Arabia says drones launched from Iraq hit East-West pipeline, holds off on retaliation - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc09uNHhSUmdLUm1zelhoY1VxQUtabG9lNENtc0FRTV8yczUtOE9VT1EweEM5MDR5bGkwbEgzMy1mOTFKNS1nc2I3RUI2VGtPcVdheGpWWjYwWi1XVC1zLVRqVXJiOTZUNFR3SzBvWDNhRFp2WmpPblpUVEVuVDE1bHVfTmczdVE5YVg4LURnUUZycVZ0VVN5ZGJMQ3IzWmZiaHNqbkRqczZtcnBtZDU0NXRZTUFROHJmOFRpNE1rOW1TZUk?oc=5",
       "source": "Reuters Gulf",
@@ -959,7 +1063,7 @@
       "date": "2026-09-11T20:37:00.000Z"
     },
     {
-      "headline": "Princess Diana's revenge dress is up for auction",
+      "headline": "فستان الانتقام الخاص بالأميرة ديانا في المزاد العلني",
       "url": "https://www.bbc.com/arabic/articles/cd94y4v5v1wo",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -1414,7 +1518,7 @@
     },
     {
       "headline": "قائد سنتكوم في السعودية لبحث التطورات الأخيرة في اليمن",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNU2RzZzNhUWRWQ2xKV2xhREhfeDcwMmhoc1pVRWR1SDY1T3hEYjl3a01RSUNZa3NMdWJtTE9EWFY5aFpKRUxRVjdJOW5xNXlJZGNwQVVwOXJ1TllJLVZOUnJGdEZxcGU1UlVPb0xOanREMGZwajItZlR2ckhqRjFfWEpZb1lNcWtCUWVzOWROazI4YUdna092NVNHVERZXzF1dWExZ3drZVhYampDX1htWGZsWVlYenFxWnhDX3oxSWV4ajJyWlQyNjcwQnJxenFnbzl0YjBmRkJtUThpdkVzcmtfdWpPQ2VvUUtLUWVXb3QtN3hCeC0zVGlORjBhaTE3by1zd1VLeVlTa1NlWjRKb0tibDViUE0yQ2UwcHVXUjZFcTA2WnV1Y25vTm9rNWhCSEU2QmV5NUx6Ul9JY1lneWJxTXd0VUVNLUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNU2RzZzNhUWRWQ2xKV2xhREhfeDcwMmhoc1pVRWR1SDY1T3hEYjl3a01RSUNZa3NMdWJtTE9EWFY5aFpKRUxRVjdJOW5xNXlJZGNwQVVwOXJ1TllJLVZOUnJGdEZxcGU1UlVPb0xOanREMGZwajItZlR2ckhqRjFfWEpZb1lNcWtCUWVzOWROazI4YUdna092NVNHVERZXzF1dWExZ3drZVhYampDX1htWGZsWVlYenFxWnhDX3oxSWV4ajJyWlQyNjcwQnJxenFnbzl0YjBmRkJtUThpdkVzcmtfdWpPQ2VvUUtLUWVXb3QtN3hCeC0zVGlORjBhaTE3by1zd1VLeVlTa1NlWjRKb0tibDViUE0yQ2UwcHVXUjZFcTA2WnV1Y25vTm9rNWhCSEU2QmV5NUx6Ul9JY1lneWJxTXd0VUVNLUHSAc8CQVVfeXFMUGxWc2U4TnFCVjZ4VnQ0RV9qUkhteGt0Sm03WUtIcmtQejV1Zkk0ZlIzY3lMZHZnRGhSWXltdUs2dFAzbk1LRHRtZnlhOVE2S3RYVjd1MlJwaUdxdVdyVFEwMjVsS0I0V2NCaHRLdW45dVlfR0VyV2FNMUVWdFY2NG14b2hwU0JjcGY2b01DT2ctelRKbEVpNXVWeHMtUmJDck9VRHNtSl94SkFvOWZRTENwUDZua051YmwzWUJQdlRlc1duSGtnYlE5M3hDMGVEVjZDOHgyazQ2RVVNZ0FudDR0UXZIaGpxeS1vMl9tSFowMjlOYlNGY25JencxZkFxcUdWb3JSbVpWcWxsWmtGbzNTeUhpZFkyUURxZGxvbzRJQmVFTmRubGdWZ3JjMERYZmpVMkUyMnVWelA4aEdacjZzSTdDM3NzTUJzVmZENk0?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -1445,7 +1549,7 @@
       "originalHeadline": "استُخدم الذكاء الاصطناعي كلود في مشاريع الصواريخ والتأثير في الإمارات العربية المتحدة وإيران واليمن: أنثروبيك"
     },
     {
-      "headline": "BRICS summit; The doctors demanded to increase the banking cooperation of the member countries",
+      "headline": "اجلاس بریکس ؛ پزشکیان خواستار افزایش همکاری بانکی کشورهای عضو شد",
       "url": "https://www.bbc.com/persian/articles/cevwz3j82vpo",
       "source": "BBC",
       "sourceId": "gdelt_bbc_com",
@@ -1844,110 +1948,6 @@
       "language": "ar",
       "date": "2026-09-11T15:41:41.000Z",
       "originalHeadline": "أول تعليق لخارجية إيران على الاجتماع المرتقب مع دول خليجية في عُمان | CNN Arabic | CNN"
-    },
-    {
-      "headline": "السعودية تُحدّث 4 لوائح لتنظيم الأنشطة السياحية والارتقاء بجودة الخدمات",
-      "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxQNVlEQzd6MmQ4RUM0bnV4Z2xYSTZjc3NVdzkzLWhfcl9abWlfajFQZlpHdDFMUG9LQ0s5QWRLSjRlcHdDUkNkQm85ZDJpbFg5b2wwQmRZMF9fVnB4UGRPQkVGM1FtRlZnUUNHamt4bEZ2TmlXUTRuRE1RWkdtdU4yclpQWHVGNVBwWXhKQmI4bXpBcEVCQWh2TW1kYU1TZWx4WW5hRFduNWp1Wnh2MmVtMVdpeGVubHpZdVdsRXc4d1B3ZjBkc3dkOHptdVU1NzFkSy1HYU5VWXNhSnlyWWtMTTJQUEJGaUN3VUZLWjZQeUVUQjNoWm9zTl92UFYxWmVLb1A5ZFpiQ3c3NHVOOFZlaE1GY3NFSzFkZ1VmcHd4cFlWcU92UFZaUFlBWmR1SThSeUFFR0M1bWNpdmxLbXl4WlJLWlZJcnByTmMxenN2Rmh3LU1lU3VGS19Yb3M3WGlaWXFqVW0wQTNOb0twN09zVWJQTVRuVFBMY2xnc2lLOUNwN3AtOVRaMXhyZWJhWGdXZ2NfMFRObm9GS2tuOUZlQmVaSDRjUnI1MmtMcUNkclNLQUhiSHFjNjQxQktscnFMcmJDWHIyNWtaY0EzWlE4QzRnQ0xkNjZsamZnUFVaN2Y5WXZuWlZiWHRaTWdhRi1pbDZIa0psQW9FSktUUEZSdzh5S1JQMk5qVFdBbk9oWWlVazNnMkU0YlNGRzk5Rk82R3l0SjRxUlBrUXNobW9zNUI4dzUxNFF2Y2c?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-11T15:38:41.000Z",
-      "originalHeadline": "السعودية تُحدّث 4 لوائح لتنظيم الأنشطة السياحية والارتقاء بجودة الخدمات"
-    },
-    {
-      "headline": "Government Communication Forum to explore forces reshaping strategic communication in evolving information landscape",
-      "url": "https://www.wam.ae/en/details/c26yt01-government-communication-forum-explore-forces",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-11T15:25:20.259Z"
-    },
-    {
-      "headline": "قطر للطاقة تبحث اتفاقيات طويلة الأجل للغاز الطبيعي المسا��",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxObEhFdnAzNGNCVnFvN1NTdGVPSDJnRGpjMDJESHlSNnJuM0JPM2cza3o3QnZzRHdscjRUWm1XaHhxUnJLYllxVUNWRGczX3pJQ3NQRU44Q1JISnRoLWtjNkxfekttcW1HeHVIRE9PN1RUTFBOTlJvM1VKT0NOeVlDZUhHaEdZcEQ2bkZqYlNwZllvMUhOa1JBQWVBbllZTWFTMGl5aUlFWE1VZ2FTcE92dUNsS0dFbzIyNnBSOFkzQUdBYl90eXEwT1UtQVZlS1JIWkZDUkJzZkNYbW1wazdJaWY0REhHdDN1eVhEMzlKT2FhMlBZZEx1Q01ycEZhcGFZMGtfZy1CTjBaWWduTEZrMXo4bm9aSjZITERSVFM0WnR5Vk1LM1ZmbTIzWEhpdU9PR1ctbEhrbU13dkxtUm1fZWhpd1N4OVFDWlJxLXVQNnFGczJFUFBsMG1MMTdZZThucTlpd0Q2Ml9BWnhDMHByc1c0VUh4dl8yVkNZMS1Vem5LcjFtWjB4MkgyaEljaUtxRjdCWDJ4cV9QWG1XUThKSnkzX3ZpSk9tdlpZd05lNlh1SEJJbElsQnJDb2VvVkl1cU5YRmdyU2EtN01mS0lucS1aV0t0eDJtaFliWjhOUE01SUk?oc=5",
-      "source": "annahar.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-11T15:20:00.000Z",
-      "originalHeadline": "قطر للطاقة تبحث اتفاقيات طويلة الأجل للغاز الطبيعي المسا��"
-    },
-    {
-      "headline": "Germany reaffirms support for advancing UAE–EU Comprehensive Economic Partnership Agreement",
-      "url": "https://www.wam.ae/en/details/c26yt00-germany-reaffirms-support-for-advancing-uae–eu",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-11T15:15:58.314Z"
-    },
-    {
-      "headline": "Ministry of Health to launch influenza, seasonal respiratory diseases campaign Tuesday",
-      "url": "https://www.wam.ae/en/details/c26yszz-ministry-health-launch-influenza-seasonal",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-11T15:14:54.933Z"
-    },
-    {
-      "headline": "Tabuk's Mountains and Dark Skies Frame the Milky Way",
-      "url": "https://spa.gov.sa/en/N2673899?type=news&uuid=N2673899",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-11T15:06:29.000Z"
-    },
-    {
-      "headline": "Woman arrested in Al Khoudh following fatal knife attack on mother",
-      "url": "https://timesofoman.com//article/176799-woman-arrested-in-al-khoudh-following-fatal-knife-attack-on-mother",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-11T15:01:15.000Z"
-    },
-    {
-      "headline": "باب المندب: الحوثيون يسيطرون على المضيق، وتقرير يفيد: ترامب يرفض طلباً من ولي العهد السعودي باستهدافهم",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11RmhHRXpOdXJTMU5CT1c1SFpjTC14d3h4bEVPYjRYSlVJQms5VGRiNm85cGEzd0k0T0s1SWU1T3hFMHJsaTkzTzNLdmtkd1hTMUREWGFwZ09CWThJ0gFiQVVfeXFMTU9YOEw3VTI5TzBsUmZBM1lOb1YwS2NaaGtqdWxteWNKWU8xZDJpWmVGT3VXaUdCUmRLOXhDMXJkbWNLLWNibXdkblJpLW1TMUZhZncxSi1nZWgwSHhSMkNXbWc?oc=5",
-      "source": "BBC",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-11T14:54:01.000Z",
-      "originalHeadline": "باب المندب: الحوثيون يسيطرون على المضيق، وتقرير يفيد: ترامب يرفض طلباً من ولي العهد السعودي باستهدافهم"
-    },
-    {
-      "headline": "وزيرا خارجية البحرين والكويت يبحثان تعزيز الأمن والاستقرار الإقليمي",
-      "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNSFphZ21TQXQ3Umw4anFrRmJ2b2licG5JblpMRjMzUTJheFliUXpFZ3Nqai1rc1JVNUo4dTNyaWE2ZzBtc2UyMS1DOGZRNVNFTFl3OFpDZEI1MEhkTFE2LS1xU1VGTFI3OWJfNWhEcGU1RVRDallCdEljSy1wcHdmUDBJZWQ1S3NsN0JwSWgtRnRBa0NyRUhlN1NBOXlnd3hPem9rZG0xVXp6VFM2UF9IcWUyUGVRRVBueU9QODRSS2NqZ2dEUi04UWVObkRobGFZTkE2amUyUTNiMGk1WEphQTNpYmJ2VWVkaElrTnMyTERuR1k4dDZTODVLYnBsdzNBNXBLOHoyNVY0bVVPUXhrSDE2V1l1VGZseGN1M3VLZVRacGxGamZEVFd0SF9FeWNvZm1BMWtoUzFJRFBubmFOcHQzdWlZSmlxdGtuSFk1YndOSXZzaExfWUlqVjR3RF9DZmtneTZPU2NvSEVqT1RKU2J0LTBBNDFQNXZUOXpLM083WnhKRFpzemRyclFiZEREOUdjX21sNkkyQjNrRGo2SWpROXFjdHhoRjd2QUMxb2tleldLY3FKZU1HZFFhcVVBdElIYUNvUHJOVTdWT1cxTHVQVW5UTnlsN0ljMGgtMXpIQkZsS0NLRWoxNzYyWUF5d0tibzZOS2NjdG9SVzhTT3kzOXg4YmtMVmpZSzhXM2lsYzUxbmZrcHlFMFc5TFQzelRtTG5LcmJKWGRlLUVPQ0htS2s?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-11T14:53:28.000Z",
-      "originalHeadline": "وزيرا خارجية البحرين والكويت يبحثان تعزيز الأمن والاستقرار الإقليمي"
-    },
-    {
-      "headline": "Guests of the Custodian of the Two Holy Mosques Program Attend Friday Prayer at Grand Mosque",
-      "url": "https://spa.gov.sa/en/N2673890?type=news&uuid=N2673890",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-11T14:49:20.000Z"
     },
     {
       "headline": "The Cooperation Council: The Houthi attacks in the south of the Kingdom are a flagrant violation of the security of the region",
