@@ -1,153 +1,17 @@
 {
-  "updated": "2026-09-17T07:32:41.379Z",
+  "updated": "2026-09-17T07:35:04.226Z",
   "itemCount": 300,
   "items": [
     {
-      "headline": "Saudi Industry Forum Draws Wide Media Attention",
-      "url": "https://spa.gov.sa/en/N2678655?type=news&uuid=N2678655",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-17T07:31:55.000Z"
-    },
-    {
-      "headline": "Saudi Arabia - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-17T07:27:08.000Z"
-    },
-    {
-      "headline": "Khaled bin Mohamed bin Zayed chairs first Abu Dhabi Executive Council meeting to use agentic AI platform",
-      "url": "https://www.wam.ae/en/details/c2ajdyz-khaled-bin-mohamed-bin-zayed-chairs-first-abu",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T07:26:31.267Z"
-    },
-    {
-      "headline": "Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-17T07:24:46.000Z"
-    },
-    {
-      "headline": "خليجي 27.. الكويت عملاق تاريخي يبدأ رحلة البحث عن كبريائه",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMR3JtV2UtTFdlSjVQOTZQNnc4MmxzUXNZTkttLVFpS0RkSGtGOVIyRUNreXFSY2U1ano4X2JkR0FKRkU1YnRfYzM1WHA1dUF2dEhXODdR?oc=5",
-      "source": "gate.ahram.org.eg",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T07:23:00.000Z",
-      "originalHeadline": "خليجي 27.. الكويت عملاق تاريخي يبدأ رحلة البحث عن كبريائه"
-    },
-    {
-      "headline": "Islamic Affairs Ministry Launches Intensive Course for Preachers and Imams in Ethiopia",
-      "url": "https://spa.gov.sa/en/N2678647?type=news&uuid=N2678647",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-17T07:22:05.000Z"
-    },
-    {
-      "headline": "خليجي 27.. منتخب اليمن يحلم بطموحات جديدة بعد التحرك من خانة الصفر",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kcURhVWdzMElXOVJyLXR2LVdIOTV6NHdQeWtwMWhWR3RhVDRJTk9BUVdvTGxOMDZVWjNKbnkyUzRmd0dHbzIySEtjbnBwZ1RGNHFmRDVn?oc=5",
-      "source": "gate.ahram.org.eg",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T07:22:00.000Z",
-      "originalHeadline": "خليجي 27.. منتخب اليمن يحلم بطموحات جديدة بعد التحرك من خانة الصفر"
-    },
-    {
-      "headline": "Yemen | Latest News from Yemen Today - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-17T07:16:47.000Z"
-    },
-    {
-      "headline": "Department of Energy – Abu Dhabi announces inaugural Abu Dhabi Water & Power Week – Special Water Edition",
-      "url": "https://www.wam.ae/en/details/c2ajdyy-department-energy-abu-dhabi-announces-inaugural",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T07:16:07.044Z"
-    },
-    {
-      "headline": "حيازة الكويت من سندات الخزانة الأمريكية ترتفع بـ11.11 مليار دولار خلال عام",
-      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQckFWMTJDYWdFT3ozVEdyLS1FdHhyd3MwQ3JiaFBzT3pvYU9USG9RYl9PRGlKNTRndy13NUNocjRmc3ptQjgtMV9idVVwekVkTGZtZmRNcXk5Y1JyaVdpeFpKU2Y1cDNqbVZ5Nng0RnBObUxMNzZsbmNWbjJGN0E2bXAyVWhkVnphNXI2elBQRFVXLXlSeXhjOWk4R3E4OUYzb2FOeU9mc2kySDZCQnBxamxMeUFUREZHQTlyb3FVRGZGdnFxOERhS2k0V1ZoLTNBajdjOVpRa3NlM2d1d3dQdHk3SnFoMjM3Y0VBbnRlYkluR2Qxbm5wR1NIMUlfQUR6QTQ3UDNCMG04WkFEQ0p6VVpfSVJsb0NlVVFlY0pSck5vcDFDUXZVR2ZGMVZEaXdMSkZKUHN4R1g5RGlWYzUxdzVwUjE2eWlONjhjOURMU0drcm9nRlVnY2xZdGlVTXFNWWRsNkt3czgzbVduQVg4TDREd0UycFA3ZE1NM0NxWlFWYmM5M2pyNEowcDZGcXFpaE95UFNEbW1jTExDVG93ejFEYldCN2djRHgxWnc2dllLa0lzQ0pYOUpMQWIwREZKbE5hLW03RW51VTlzVF9DTlZEbFAtcThyQXpEem4yOUptdVFHUklVMmx6MkpBQkJUQjFOQU94ekd1Z1Exc3BHUld0b0lTMHZTN2lSaDdsMW1VUDZKTnlTMVRNdm5JdkRHcFBVeUFFLVFuSEZiVEpMdzlHWk5KUzQ?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T07:04:43.000Z",
-      "originalHeadline": "حيازة الكويت من سندات الخزانة الأمريكية ترتفع بـ11.11 مليار دولار خلال عام"
-    },
-    {
-      "headline": "أسعار الذهب فى السعودية تتماسك بعد تراجع الأيام الماضية",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxNWno5U0U5bnhxdmpIWV9WWDlnclFvd2R4THpZX0tycm9FZE1JckRuY2poaDFiV0FLMGRnZnM0dllZbVoxT3VMelBleVVfdlhEMXNJVldBUmM5VXd3OVZuZEJxWGthOC1xNF9tRnJ6RWtRVDltVklTeV9naEhRR055d195MllERWdvTzhWSnVoRENQWnVxRFIzZV9jX1N6UkpyLWNzQVRUQnN3dDlwWnJONVlVQUI2Q19SYnFGOUZ6Ny1FVW44ZXZjVEpxSkhwb0lWNExFeVhST0tUN3VGTVgxdmx6RG96SFZWRG1ubm5uYUdkaDA0TzRhR1p5Q0U5SjNOZTZUUDJhWkR2emdwOFBmNlVfOHhRdEdwa1Rablk2VVVCd0VoNElldzhpb19zS2ZTcnNwMnZhQTM2OHFENElNMUp0eEZHNWF4YXFaWHk3TWZCb1VTVE1GeE1TT1FpQ3lOeWdoSFBnWGEzV1RBNFhUN3BfSVI5cWp6aFBRbTYxamZybnJhUnhtTE12Z1Uzc044WjFXdG03eG1TcFdQWllzWE9FS3o4djV3MGlsdnNjY09hM0VjNF9aaTQ4Z1AwTlFCX0tHdVdQalNYLXQ4eGxUNm9ydU5iYzRaZ2lGUNIB1wNBVV95cUxPMW5EMjZYZDNNYnhrZ2lSamJXZkV6VEo2aXJ0OU1qbEdNWHVEMTFScVZTLUVGRmF0a01wYmJvNVUyU3MzWk9JNjUtQnlHdllyd3JXd091WXZyVWFHeldxbnpBemRCQ0RKTVZTRjZrTkNLbkZXUzNRendBbUJ0ak1vZFphS2RvNzUxdlFRYkR5Vm40QWxqT0FPZFkxT09rM09CSjMxZmtMN1pvY05QN0xOYndZY1ItVDhpbU1MRHJmcUtaQ3pwVTdNaEdRME45UFBHYmprbzFYRG5jcjZZQ1NCREM3LVhzN3VUMFZaa3BJVWNkZm1VbGU0VmczRVdDemxLcXdBZ3RnR0tIcldjN2lzWUtYRjNWWEhJQkdUbXp3RkFJbEVJdnduOWhMb2F0TWF0UlNZbFljWmQtOXl6STBRUGJMTGJVdDhlbXpkUU5ZV25Ickk5dFpSdjVWYkRfS2duMFZOTmpjR3kwUVQtMjNpTUt5UXFGR1I0TkFUS05TTFFRVTNrdjVodTE4YXNfZl9ZcjBfNlZrS04yU21Obnp6bnVuRGgxNkt5MnJwLV9SX182OVNBZE1PM2VoNFRiVkNmc25Ydm9WZXpWS2lpRV9JVlR1WDVkbms?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T07:00:00.000Z",
-      "originalHeadline": "أسعار الذهب فى السعودية تتماسك بعد تراجع الأيام الماضية"
-    },
-    {
-      "headline": "بورصة قطر تنخفض صباحاً عقب قراري \"الفيدرالي\" و\"المركزي\" بشأن الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOV1BZYUJQUzUtdVozNS1oelJJckhtVnBCbUhEdlRWNkt2OXhpalF4dnk2bkJqSkVHZWdBZFFoblpubk9relZsek1lYkRXMDRmWnBFVUE2THN6VmRUcTM0NGhrZkFhY2FVRE80NDlINlBwMk1US0lPMms5dUEyZWdsZWdlOHF5dlhBekJBSno5Y3dla2ZpRzhnNHh6QlVuVGtTTWF0SHloMzI2bXJuU2VzSTBOM1NFZE1yS0JmZWs2dUpEZ2hVSFJCT3VlOC1WZ2JlNW43SXAtT1djUmp4VjBfYjNVeWk0MVozSTFMcmhNc3NGaEVzcmMwX1EybGRfbmFIQjRoZ1hwa01qSlA1S0UyOXV2ZkNmYzVDQnA3cW9zdzdITFQ3R08xekFfdEZfaXZkMm5oMDRudWVJeGNDZ2d3S1hwZ2dXYXZUODBRVG1UbEtuYWVON3NDVXd4TTBQdXBjLTRGRHRIcnlfcWp1Qk5BNmtZQWZfVzFwU25QWkVab1RnWjhmX1cxXzAxdnI1OW1FMGQ3LWVWMEM4SW1FTVB1TWlWaFJzN2owMTY0bGJxWUpkZFNpYkJBR2M3MmRZQ3RJcGhQb29fZXFyZWtCSzF6VkFzM05RaEVRbmNYRnF3UlQyTWNRazVrVTZ5WkdmUGhKQ1luQTVwY1lVVExCYUJWeDdJRkVLLXljbWpZbElYbw?oc=5",
-      "source": "معلومات مباشر",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T06:59:44.000Z",
-      "originalHeadline": "بورصة قطر تنخفض صباحاً عقب قراري \"الفيدرالي\" و\"المركزي\" بشأن الفائدة"
-    },
-    {
       "headline": "منتخب عُمان يتحدى لعنة الفضة في خليجي 27",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ia0dtNEZVUUN2UlBmYV9zRU81YXBtMld5VVFXUWFJdUpQeEVnMWNtbWZ5Q3M3T0lkWnVkdlJWdTN0UVZEZXFEQ1BZTi16RDNtOXlGV293?oc=5",
-      "source": "gate.ahram.org.eg",
+      "source": "بوابة الأهرام",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-17T06:51:00.000Z",
       "originalHeadline": "منتخب عُمان يتحدى لعنة الفضة في خليجي 27"
-    },
-    {
-      "headline": "رئيس دولة الإمارات ورئيس السنغال يبحثان مؤتمر المياه 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQX3JCVkxmejRuSEEzZFZVSnlNNEJqMnBXTFJVWFc2OGRTR1hadmc1NU50RXV3OUdFQW1XWnFqWEhiNnB3QVg0Y0NuMnJpTVB6bi11cVN2c1R3U3RGYzlHY2Q3S3M3ZXU0S1FXVmZYNzREWjdFRXhPaTJrZ3EyanRMVXMtLWhFVXJfNHR5M0lUV0J6Y0xjTlJkWTA4azh5YzJEblZ1VTRwTXJQTW53dVJtc2hjakNBNFBTY0N6djBBZXBLNHNnQzVyeW56dG5ITS1UOU4yTkhNUklHekZtTExVR0xyN1hlT2lNTHdBLVhVdVFsMVVvcGZzdktRd3ZPQUlpQTc2cW91VzlXY0VJTElGd3o1cUstek5JY1ZuRnM4akVTTGI2SFkweFhoVVd6REZkMWlScWh3blhZZ1d6RHUyN2UwOHlWWGJZZF9qLVRsMlZ5dnF0X1NveE5XcXJYZ2V6cURna0piT09Ud09JRnVBWllKWVMzTExweVFGVVh4elVEcjZzOHdVRlZ6V2JaVFZ0S0ViQ2Z5NVU3TUFXaW1pRnR6Mnpjd2VSVS11amtaaDNsdy1Rb1dQUmJCc29ySWgtWUcwM05uTk5BN1RBZmNkczZmdlRJSnPSAdwDQVVfeXFMT1p1X3FvNjVFMURrNnVFVmJpX1NpZDRIdEQzOGdWWlJ3dXRsZ2tsRjIwaEV4d2duUm9Kalc2YVllT0hyc3BzaEEwZmdDWWJhaUJhcEpKNTdfLTF2MFRFcG9JamFNWG1tcXNod0N3NV9PY3ZMUVpwVzM5YW8tSy1SS3piR21jUnFXcXNwbnpzazl6MGhFdHZFRmpuSl9WTzBScWtjcVdlUzh0SDZNOW4talI3Mm13ejZjZDFYWlpPNVBhQjh1YjJKa1RZeWZfRWlVS0hITUxaRXlrTHlQcmFjRHZtRHZQWlp3MldfM1FUUE5tUldGNGZzSUNMbVk4WXpZZjdrYTUyNnVfaFotcUlTZlpuWXFUUzh2VU5CVk1GWVNxVlVjNnRYMVZRNEdBS1pLaDJmMHV2WGhmTDVkNjdGaGFKVmJpb2FHVklxamJLMWZRWGU0bWhCOFlqaFlaSTNUOFNOZFRNNTEwb2hhd29ZbUM4QUZkcE5Cd1YxbHdnM1g1QS1PRmxIQmJxWHV5eWlSZDJfaURyVmQ0WVZUcUc2MEtTSXZDRWROV21KRVpuUF9ydGU1S1MtWnpNMjdCRldrak1wekRYVGdMWXUySVhGNjFLRk1Dal9oUmplYzk?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T06:47:22.000Z",
-      "originalHeadline": "رئيس دولة الإمارات ورئيس السنغال يبحثان مؤتمر المياه 2026"
     },
     {
       "headline": "TRENDS continues cultural programme at Abu Dhabi International Book Fair",
@@ -172,7 +36,7 @@
     {
       "headline": "النفط يتراجع مع انحسار مخاوف الإمدادات السعودية لكنه يبقى فوق 100 دولار",
       "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQWnhsamdFWFo3dURGZmloamlId1daZ281c05JU2k2WXpTdzNGOTJHbERfSGR0blNZMXhVWnUyV1dvSF9ZWlo1MzdndjNBU29HM0tVRkFxNkdiLU54aGV3bF9VOW41Q0VKZDY4ZXhyMWx1T3lod3Z6TU51a3hQdVdxZVFXdFJ5eE50NXV1cExOMFRnYlJxZWdYZXBPLXpqS3d0OVpnZFhIYmxLVzljWGc1M2tRUkVvdENGTUszZEdRQmIwRnF6OXd5UWRMdXFLVUptREt6QURTZzNKNWMyQ2JCV2VvVXdrajR0NVc3RU9PUl9BT2dIcDhvQmpIOXRzLW1hREZSUkZxTDY2TkZhbmdvV1BQdDNOMVA3cHQ2TFFoWU0xc1pLT0NmY2lsYXFnZk5kXzhoSmxvb0V3MEhyUXVRbW9Za3VPVVg2Qkp3cm9DREFQUzg1RjYwU1JNbkxaYWpnNkF0TExidDE5RlFaY1NiV2FBd2JUTmxKQndGWlNpRFBieXliY0JQamhzNEFib3JSX2t4N09ES1NOTWVoR1c5V25RRFZtMjVYbVgxVnJlRHpDNmxTREI5YkpkdGduNHdmME9QYTU2WnZzcUFBYnpaLXFKX05LYWNkLUZpN29sR19NZEYtVjVVTk1pNkFDUDFfNGZyUjZTV2xzcmxnYVVVVGJ2cUZmLXpVcGFNNWJWb1BDblJkVDdSVTZLZEVObnJnaGpMcFlJNEsyanZMZmRYWU0yOW9oa3BP?oc=5",
-      "source": "maspero.eg",
+      "source": "الهيئة الوطنية للإعلام",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -190,17 +54,6 @@
       "language": "ar",
       "date": "2026-09-17T06:21:00.000Z",
       "originalHeadline": "مصر والسعودية.. ركيزة التوازن العربى"
-    },
-    {
-      "headline": "موانئ السعودية تتداول أكثر من 341 مليون طن من الشحنات خلال 2025",
-      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNVW9YU0FSRW02MUFWbk83YWJ5Y25SUkZDZ3dHY3FuZ2U5MG1CMDNqXzczWEF2b3dkS0lPdkY5cVlFbnpsWm16dTlOY01FLTVfdktsU0NwRTZvWmlfUXUwTFcyTGEwMWNVTzhnYmctVFVXc0Q0cmFJTXZ1RHp5OVFVQ3J0TVhQcm81dVNHdkYxTzBucEd0QTI0ZDZqTVFNMzlpdzVsNlBWMG90MnQzQXJRdzAyU0tyWGlwc3lpMkhiVHhuR19uRDhwTkpYbGxyb0wzek9ZNzFHTzVQQzdIT3UxQzhGODJzaVl4aHNRVlA2SHV6bm4xSHNYNHJnLVpWRHUzSVRBVDFFbUVtSG1ocW93eVZKV29EdHpWUFROSmc4X3N2N1BoRTlmZTlMWnRndi0xWFM3U2ZqNVFXMWRKYVhmV3YwYWpRNkRuLVA3Q0U4dUZFeWEtWnE2U3JXM081SUpKM3hZQU1sQ05kQkFubjVIb1E4UmNFb013U3VfOHZtNmd6Yjc1c3BmeFJib1B2VmtubHFYS2s1VU1SVDFtQlVwQmdEQWpYcjdkMkxwREZVQlB0aWVNdkJkcTZlaFpUbVVTRnljUTB5Umx0cjMwMFc0U1hMZ1FFTERpUklnYVVUeEnSAeYDQVVfeXFMT1I5alFrZzhUZTdETVFVN1pPTHluWG4tUTd2U3hzODNLSGtRdHlaRTRkWkVaMjRHbF9xc2RSbHZYaGcwMXYyZnRqOU41dWNJazlEYTE0akxEdW8wMk9pQVZJcHZXODlVSGVkTERveE1OZW5DZ2h0SGdXLXNTMzNsOHNyMDEtY3dXX2RIdlNHMEgtbWNuTF84VDlWSmZrZFUtaDZVSkJibkFtQ3RYU2xrN2tXYUFSZXAtLVhWT0M4QS04QkdKVW9LQnpOOEpVdmhJcUhhQ1F5OGZySjNFMnRQT2hxcTU1SFV3eVlsV2Q5d1RraDhOZW0wZUVCbjl0RUUycF9kUExYTnlCQXVrNzFnb29fTEcwOUh1Mkhqc3pfLVNKOG5XTmN4SFk5YUR4c2RwZ0dEZ3JBT3FSSUdCalRqbHllRExIc0RjaFQyRUVud240TVBTTVNkUGRPRGs3cllmSzlmSHRTa0c2cGtvZzBwNzhsYUIyZ2dhUkJ5d3owalhsNGlvS1hVa2czVzBIaXBxdUQwUzRFTl9zekVPSHZmVVhhSjJJR3hhUGdfSFJMYzdyTUVBN2FkYjJTbE9NaEl3U3YtbzUtUEMxOTZsaWVyMlRESlJYa0xJcFdYd1l5b3lDOUF4dWd3?oc=5",
-      "source": "العربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T06:18:00.000Z",
-      "originalHeadline": "موانئ السعودية تتداول أكثر من 341 مليون طن من الشحنات خلال 2025"
     },
     {
       "headline": "الحوثيون ينشرون مقطع فيديو يزعم إظهار مقاتلة سعودية من طراز \"إف-15\" أُسقطت",
@@ -287,7 +140,7 @@
       "date": "2026-09-17T05:30:41.919Z"
     },
     {
-      "headline": "Number of ships transiting Strait of Hormuz falls to three on Wednesday, data shows - reuters.com",
+      "headline": "Number of ships transiting Strait of Hormuz falls to three on Wednesday, data shows - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY040VUp0a3duZlRTZW9xeHNnQ0hIUm42eUZRUmZvcjFfaW53SWFZTFZlaElfaXM5bW0zdlhib2M1N3BqZGJUV2tHeGdydFlMMFg3dngyLUJtREtjZVFLUGxCZ2ZMX3FZSHp6MjlPS29sR2xwbkRvd2M4c3BGajFGWFZadkVORTdwWGxJYVVRc2RsTWxZY3ZLMXJJWUp1TlZMX0QtUUEyaE9Gc01hOHA5bHNyN3ZsdWZFWFV2bENmV3pkZw?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -327,7 +180,7 @@
       "date": "2026-09-17T05:00:18.000Z"
     },
     {
-      "headline": "محمد عثمان: أمن السعودية خط أحمر.. واستهداف مكة المكرمة مساس بالأمن القومي العربي",
+      "headline": "محمد عثمان: أمن ال��عودية خط أحمر.. واستهداف مكة المكرمة مساس بالأمن القومي العربي",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPamZDYlVQTzVqMXlaZ0dGVkoxaEZ6WDBrbjE1SzA4VHlCRElfamIyRlctQ25uZlRFZTJPMXlaRzgxLUlpS19kTU9oMVVraEc1RGRsYkxNQVZIZWFyV01JcjZIdkpQNlVPb1VNX1JhaGhPSk9KNERGNGplbXJfSnBYZWJ1eTYtM3R5NlRrUTNpd1BqdzZLc3NkYWNYeXc4cU1UX1E2Z19pVDVJSFZUSEhDMksyRENXTUJVMmV0M2RzZm1GMVNUcXN6bkpHSHRvVDEweE92c01VYUNzMVREQkJFbVhaM0FsNndydExNeFozVXJXTU1Va2pZb1c5dnVudFpXR2YwY2tYOVNkVnZUaVhiWUpJVEhwR0F0M29FRGozVTNRSGw3dFB4eGJHeUthb0Q3YmRDdkdfY0xidC0zVjFrOUI1cVZhSnN0dTgtVU1NRW4tN0hMYmZ5aWVybGlhQ0s4M21fZWRhYWdoT0kyXzVwVHBYdG9BUmoyWjJnbFB6blZ4cjVLcUhOelBHR2dnaGZfOFgyNV8zZUE5VWx0UFdDLTRRX2hCcEZERzlRU09TeldTdURLYXJBdGFObHc3T3VDUF9sWWZxS3hBUVYxMDN0TjRXZVMzUTVJR3hGaC1peEl5NEdLeGfSAeADQVVfeXFMT3NGclRlOXEyUzJkVXp3eVBNMG5SOFhwX2t4WVFwbXM5cER4MlhRbzNwUzdqcUI5TkE5SkRNX3NyNEJ6LW0xQmpRZk43OGZoY1RMOEJDMFdHZC1aOTZHcXpZMndxLXJQbkl3aTE5d1VuQlVoYXF0ZjhUSC15enVxMU13WURRdm5QaWkzZ01vTlZzLTlndHZTdlRiVEVEbHhYRHRyclJjbUk5TkpyQVZ0NjgyVjZ3d3NvSy1xWEZDRW5udEZnTk5KNVNjVGhhd3gtZk8tQS1iaEpvRldfYVE1ejFmcl9ha2FuU1VoeGhyQXFqUUJkYzctNm43bjJoUVlUT1RZSEFEeTRyTlBsY2xma00wXzBEZ3pZNlpISnRkRE5QMlNoX2FlOWRXS2diRGNMUE82R2tYbmFleEJEQUc2emwwazd4TDNodDUyWkxVU21teG9DM2ltV1lYMnpUTG5pMFpPR2lUU2VVSENGa0txLXB4Sjd6bkRyR3FfMTdsZG1scmkyNU9KQi1oT193NDI1aTFDN2hrTWcyV0hpSm05a3dLNlFfUDJmMXFYUnhzVW94MG8yNVNRaTlrcGNKZE1uR1hTZWViWkZvbWcwN081aXZ5X3dkMXNDc2ZXekE3dDFK?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -335,7 +188,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-17T05:00:00.000Z",
-      "originalHeadline": "محمد عثمان: أمن السعودية خط أحمر.. واستهداف مكة المكرمة مساس بالأمن القومي العربي"
+      "originalHeadline": "محمد عثمان: أمن ال��عودية خط أحمر.. واستهداف مكة المكرمة مساس بالأمن القومي العربي"
     },
     {
       "headline": "أسعار الذهب فى الإمارات تتحرك قرب مستويات 520 درهمًا لعيار 24",
@@ -359,6 +212,16 @@
       "date": "2026-09-17T04:49:00.000Z"
     },
     {
+      "headline": "Oil prices extend losses as fears of Middle East supply disruptions ease - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-17T04:34:00.000Z"
+    },
+    {
       "headline": "PHF seeks neutral venue for Pakistan matches or relocation of Asian Champions Trophy from India",
       "url": "https://timesofoman.com//article/177066-phf-seeks-neutral-venue-for-pakistan-matches-or-relocation-of-asian-champions-trophy-from-india",
       "source": "Times of Oman",
@@ -379,7 +242,7 @@
       "date": "2026-09-17T04:23:32.095Z"
     },
     {
-      "headline": "Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - reuters.com",
+      "headline": "Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdfN2t1cTlMdHJXa1FQN0ZiU1M1dklpd2llNGtrTW1ndEEwSjZqc2VNcjY0VkFOQXFmLVUzNXFYUHdQTUU1Tm1leURSclhSajZPS29nZng3Sl83eUs2clpyMS1XbW0tNXpnbDdDc25SMVB6cHYtMWY2aFdYRzZsSEtPS1FBSHpQSGp6dFF6NV9mSkJBbXM4UnNWSDYyRzJjc0RtMkZod3l0Q0ZYSzljc3JPYmVFMlVZUGc?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -574,7 +437,7 @@
       "date": "2026-09-17T02:35:11.000Z"
     },
     {
-      "headline": "Indian shares rise on bargain buying, Fed, oil cap gains - reuters.com",
+      "headline": "Indian shares rise on bargain buying, Fed, oil cap gains - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJa0oyTlF5UEN1Z1F0ZUhhN1dfOHpyZmwwUFJVUnNyZUYyT0xiUDNaRmNGNUViX0UxZ3NralBWd1dHd0VZeFlDeTBoYXFMb1k4eWZvNU16c0M4Q20xM0VDUWYzbFZVWjlFTUF5b0h4VFptTUNETC05OVdWM0lHSE9La2kxUUozMFFnUEYxN1lXR01sZEdpcXR1cHlGYzcyUWpaVHpSS0NhVHFTM0o1clhKcVMtdkM4VTYzY0RINA?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -594,7 +457,7 @@
       "date": "2026-09-17T02:30:11.000Z"
     },
     {
-      "headline": "Gold rises as investors digest Fed hike, oil rally stalls - reuters.com",
+      "headline": "Gold rises as investors digest Fed hike, oil rally stalls - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRrQzlscmZjQ08wVi1BSUZCTEU4d0xkdFpFelAzQURMS0VyS21Gb1VWUkV2OEIzRTVUWmJQTXkxRXJnTEltLXR6dWJiWW9UV1pzZWJQOEdJRGpkMnhXV0lIWUlHUEdHNVIzYmU2UTY3OHAwczNsVmpuRDNUVlpkeVl5emEtTlJoWFJrUnhWSUxFTkZqMGxSYUd5M05GVHA0bGZ6eWZ5YWpLWFMy?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -708,16 +571,6 @@
       "date": "2026-09-17T01:05:00.000Z"
     },
     {
-      "headline": "Oil prices extend losses on easing fears of Middle East supply disruption - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-17T01:00:00.000Z"
-    },
-    {
       "headline": "أسعار الذهب فى البحرين تتحرك قرب 53 دينارا مع تراجع الضغوط",
       "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPMWNXUGZwYlNzVTVHSjU1ckNwRXVUblFEOXVDQ2ZsMGJ1Wm1VN1pCWVp3Wm5rR1VCVGNKS2JydEgtT3hhZ2hMV2VNbmhZM3JsdmJTd1R1U2FWa1dXNFlkZFVDSmNOa2ZaRkVvNEhoa1J5NDNSaFdqNjJQck45c1FNcFRTdnNrb01qYTRxMjdDdG5ZS0VQbzk1Z1hoN2NjUzZLRWdsaHdWMnZUZ1ZaZTJoNWZadVpJc1EzdmphbDVXSkZNc2FEOVVOcTZPWXM5b084VTRWemNuQlVzejIwT0FDVUh4cGQ4cUFYaGtCckVSY3dSQURmN3ByZlh3M2hwS2VQWmZWd193WmNyVFpKMkFyREI3RkpZQm5MRGNQYVVSaWhLMVdQdkhPcnVjWjR5M2lPWUxnVjctd0tyYTdMUWJtY2ZuN2N3bTJxVXR2NHBWeVNFWVBBcXF5RGJnVzdQTTd4RDY1cUpuaDY2Vm5RZC1zcGlQcXlaeW43VEtQWjYwb2pwdk1rYWx0akt0dEFRaDZIS0JMT3lnY29qMHpkZjVFemwta3lsOXZi0gGjA0FVX3lxTE5WbzFvazRLQ0FqZVJVSG5GT3FQdkJIb0lkVm5KUzFhOXNvb2twMEZ0aFUwUDc1dV9XWThKSF9tS2FvbWtMWC0wN2tSbjhCdnBIM1Q4NG10c0gyZlo4bG81MnpxcWgxU2pXU3ZWLUFyLU1ZZkowWWNPdmRNVHBNVHRLeGo5TE1tT3VXYXlJWUE4MkhSbnkxUmFOVEVpVWFmUE1LbktndWlaSVowVGsySW5TUHVCbUNJUmFuLVMyWE9zUDJDVFpkNzR5YW5QQXFvV28tRjduMnhNWEIxSVU4WHVtQktEd29hZ3hyNFhRcUkwaHJ4dU5DNnVqaEpMUk53OWpYTnhoMXh3QnhRbzlxM3pBdE85ekUyZzB3QlRJd0cxRkNjMllnRG1jOURHNVFDNnZTRHdlaTVDM0phS3pLTmZ6UmxETl9BX3FUekwxd1VzVFFsbm9BTS1jTlQwX3oxbERPeHZ2WXVJV1ZCOGgwekRZUFVmRlBTMjY1cHpkWFJ5RDl5NEdqTWRVQmtJUllrWUZHcVdwZ1ZHNHpQcy1Hc2p5X3VB?oc=5",
       "source": "اليوم السابع",
@@ -761,6 +614,16 @@
       "originalHeadline": "Turkey condemns the Houthi militia's targeting of Mecca Al-Mukarramah with a drone.\n\nhttps://\nspa.gov.sa/ar/w2678437\n#واس"
     },
     {
+      "headline": "Yemen | Latest News from Yemen Today - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-17T00:15:49.000Z"
+    },
+    {
       "headline": "Canada applies to join UK-led Joint Expeditionary Force",
       "url": "https://www.wam.ae/en/details/17fgc5b-canada-applies-join-uk-led-joint-expeditionary",
       "source": "Emirates News Agency (WAM)",
@@ -801,7 +664,7 @@
       "date": "2026-09-16T23:59:31.000Z"
     },
     {
-      "headline": "Trump says 'hopefully we are towards end' of Iran war - reuters.com",
+      "headline": "Trump says 'hopefully we are towards end' of Iran war - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVZBS2JnVTZ6bnkwemhVOGRlX2puQkR2RHNnZnpLaHRzcHMxNktCNGwtNkU2ZTJaTzRMSFZzYXRzeHVnanUtaTNIdjVZTm5wVjd5bm9iMHNndXFwRzFOSmh3QWI0T3lqU3MwVE9UenMwNWZWYURMWm1ZOHNDTzVBVmlZVjBHT0F6cEJoRE5BYTVqRVFnM3N3cjZZU3RKWFJSeGZLVUhUVkVQZW9tb0FhRThfSEpmcVZM?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -935,7 +798,7 @@
       "date": "2026-09-16T23:13:31.000Z"
     },
     {
-      "headline": "US officials met Iran-backed Houthis in Oman over the weekend, sources say - reuters.com",
+      "headline": "US officials met Iran-backed Houthis in Oman over the weekend, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNVlvS0o5eGw3QnFsN1NoVTdWbElpWFhDLS14WFpCb0duUUJMYzVoS2VZSHpqQUxQWXVtN0VadTJHNnNhYlNCZmlhMDVJQVl3Y2pqTjQ2bmRuVEdDR3FKY0VGQ1Uxc1pwVzcteUNJSTB0Mm9wZHRIWUdTUmVLTUVsTEpYMFRmN21ENmtrbnZvTm9XZjZsOU5DN2JHWUYtdm5OcFJiUzJzZTVBeUJ3a3NmSEJROEFxekl5RGlMNw?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -985,7 +848,7 @@
       "date": "2026-09-16T22:59:55.000Z"
     },
     {
-      "headline": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead - reuters.com",
+      "headline": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -1718,7 +1581,7 @@
       "date": "2026-09-16T19:40:00.000Z"
     },
     {
-      "headline": "US senators seek more information on Trump's Saudi nuclear proposal, letter says - reuters.com",
+      "headline": "US senators seek more information on Trump's Saudi nuclear proposal, letter says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXdUZjRSYjdyTDRXd3RDSHlyM0pYNVlqSXpPNzhqUlROVVppYXpHNW5xMDFLOWo3b1FxM2t0bTlwbEo2T05zRkNIcnJRLVhrQW9YNTlhbXJ6ZXVVdW5Jd0ZSM2U1dWlfc3NlWE9rdUVLQXpWWnZIQnZuYjYyWnZ6aE12Y1VQOUdzUi16OUlzUGppd2lyUDJaSk5WcEJhTFlCdU1fUkdyS09YY0RScEpRNWtxQ18tS1BENlJfQ1VleG12aTNzbFNj?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2282,7 +2145,7 @@
       "originalHeadline": "الإمارات تحبط 640 ألف هجمة سيبرانية في يوم واحد"
     },
     {
-      "headline": "Yemen offensive elevates enigmatic Houthi commander's standing - reuters.com",
+      "headline": "Yemen offensive elevates enigmatic Houthi commander's standing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0FZY0J4cFN1dGZjZEsxUXc5aVlrd2ZJdHF5LWtEcWU2bnJ6aFZ4X1I5WHhRQ3pfZUNfVzJUYlEzbW9lSTdINmtnVFYyUXNBZW5LcXlYQS0zVUNlTllVTUhkR29xaWFhZFlsSTgzU1p5Z3FTSzJtMEpka0lHS0VoZHltRXMxME40Zldtb0xOcWxEekxIOGN5WG5vV2I5NHpZbGd6X21kTzMzT3hnWjVLUDZFejNYeEgzcEJnRFFuQlN5UQ?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2404,7 +2267,7 @@
       "date": "2026-09-16T17:53:50.000Z"
     },
     {
-      "headline": "Poland's Orlen buys 16 extra crude cargoes to cover Saudi disruption - reuters.com",
+      "headline": "Poland's Orlen buys 16 extra crude cargoes to cover Saudi disruption - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFFudmx0U3E1NzBfc0JHT0ZTT0ppYjJiRmhINTRRX2lRT19lQ2w5bEJjOC1KWnhaTDV6empwNmtxQU5PVHc3aHhBcFhSd1V5S3hSSjM0ZWpQbUJEOFAtSWNxRkQ4TXJhM2JubGZreVl4ZEg5Q0ZmNkFVM2JWdmtpUUZoc2s5ZTV0ZFItZXl5bl92Z1JEZkU3Y1pzYU5UMEdLbGpLTWV6cWQxbTMwMXdOSmpJWHdYUQ?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -2412,6 +2275,76 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-16T17:53:01.000Z"
+    },
+    {
+      "headline": "Saudi Industry Forum Highlights Innovation, Entrepreneurship Support Models, Future City Requirements",
+      "url": "https://spa.gov.sa/en/N2678271?type=news&uuid=N2678271",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-16T17:49:04.000Z"
+    },
+    {
+      "headline": "Arabian Sea collision between Pakistani and Indian naval vessels sparks tensions - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcllKNXUycU5Nb0lmVC1pZmNnQ1VaWm91NkN3MXFRM2dlY0J3VWZ2UmF4YWNMbU9pbkdUakJIVFQwUTBZZ3hpRm9JTHlsTldtRlhoS1BXaHJNcWNfSzNoUE5yN0w4dHo3b01XaERtblo1OWpTbzgxX3VRTGIyN1RqUzZCLVJ5dw?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-16T17:48:00.000Z"
+    },
+    {
+      "headline": "Saudi Industry Forum Discusses Grain Supply Resilience and Milling Sector Efficiency",
+      "url": "https://spa.gov.sa/en/N2678262?type=news&uuid=N2678262",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-16T17:44:05.000Z"
+    },
+    {
+      "headline": "Nahyan bin Mubarak opens Education in the Service of the Family Conference",
+      "url": "https://www.wam.ae/en/details/c29xz6l-nahyan-bin-mubarak-opens-education-the-service-the",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-16T17:43:52.175Z"
+    },
+    {
+      "headline": "US Treasury gathers global financial institutions to advance Iran sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzUwU0VnMDVwQm1aTmZIQ25odU1FYXpWRkM4R2ZTMjdwalhFVDJ3dGtWV0szd1hYRVdJY1VlRmdPemJDOG9ONy1FZXUzbWhZRkFiTVVSRkdLX19Za3h2c0RneVpmbjhVdzhiZXRmYTJtc2JwYmFUU085RXBvclZoNkM1Y1AyUGF0RjhoTFRwaHF5WFNNbFlzdEMzSTZNNnhzTHB0N0p1aXdRYjY5SUpXVHhRVEtsclZPUkNGZEpCdzBvLVJu?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-16T17:42:29.000Z"
+    },
+    {
+      "headline": "Messi-linked Eldense hires coach Javi Calleja until 2028 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3NrRWpxOXRRc1p3NXhqM2dVeFdJOW54aHRZUlN4NDl1Qzh1RTAtY3Q3ajlnc3VVdXUxSnA2blZOSVdVX2tZWmwtd0YyTkxiQVJVaGY4VW5odXJLZlh6WGlEWmxzR1dCVlpVUnZreXFDSEsyY3ZOSXlXQURUVXdxT3JlTXd4SWViYzlVTktkaE1WNEZib2JVMQ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-16T17:41:00.000Z"
+    },
+    {
+      "headline": "IPHRC Condemns Houthi Terrorist Attacks on Civilians, Infrastructure in Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2678252?type=news&uuid=N2678252",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-16T17:39:10.000Z"
     },
     {
       "headline": "A delegation from the Ministry of Defense participated in the activities of the Xiangshan Forum in its thirteenth edition, held in the Chinese capital, Beijing, under the chairmanship of His Excellency Ali Abdullah Al-Ahmad, Assistant Undersecretary for Defense Policies and",
@@ -2424,6 +2357,16 @@
       "date": "2026-09-16T17:30:27.000Z"
     },
     {
+      "headline": "Lebanon Condemns Attempt to Target Makkah and Affirms Full Solidarity with Saudi Arabia",
+      "url": "https://spa.gov.sa/en/N2678238?type=news&uuid=N2678238",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-16T17:29:03.000Z"
+    },
+    {
       "headline": "His Royal Highness #CrownPrince receives a written message from the King of Jordan regarding the bilateral relations between the two brotherly countries.",
       "url": "https://x.com/KSAMOFA/status/2100275688196419775",
       "source": "Saudi MFA",
@@ -2432,6 +2375,57 @@
       "country": "Saudi Arabia",
       "language": "en",
       "date": "2026-09-16T17:28:39.000Z"
+    },
+    {
+      "headline": "AURAK research identifies key barriers to air taxi adoption in emerging economies",
+      "url": "https://www.wam.ae/en/details/c29xz6k-aurak-research-identifies-key-barriers-air-taxi",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-16T17:25:28.726Z"
+    },
+    {
+      "headline": "HRH the Crown Prince Receives Written Message From Jordanian King on Bilateral Relations",
+      "url": "https://spa.gov.sa/en/N2678226?type=news&uuid=N2678226",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-16T17:23:17.000Z"
+    },
+    {
+      "headline": "بعد الهجوم على مكة.. تحرك أردني وكويتي لدعم السعودية وإدانة الحوثيين",
+      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxQLURZNXRya2VIWVM4U3hQR0UwXzBhbFl3cHpacmt1Q0dTMW1GVXp6NUhsYnZLb2tRamhPampMd0hwNlJyVXYyZU1rMkc1c3ZtcHFRV0NRN2ZnZUhvdkliMXhQRmx0QVFtOU5YZENSS2JCNVdJQ1hmXzRlUHlTWHRLMFhVeTBRYUZUOVRCcDhhNUF5UDVjTE9CQUJGcExkRVRtOGs5dEVoNWxleTAtSzFadkdnVS00OXltdXNYbDJpMTVwVmVCTXM5TUF2anR1U2JUbElLSzFOU01FcEVOQ3VxZUJDOXAtR2xVTVdTeVBiSkZFTldNdThWVEFIV1kzaFk4ZVAwTElndUMxTEFwSURuNnl2Q3NMbFhUaEtuOHlXOXBKdUlqYkIwYmczdzlBNF9XZWxjNC1DVllXTmpGem1EVFpLVUswaDU0U0hmMUdfZm1faEVjNXlJbUNrd2ZYNGVpR3RzRmNzcGVBSEFDdThxOXZrN3BweWV5QnhOTDVpV19sZlA2OXk3T1NRSy0tSGlGd0JzT0lPTVF5bWxLbGFJRFUzaTE3V0pvbjNoMUFkVWo4SlYyem40VlZtdktnTnRwSGNYN1ZUbl8xV0VWeGdiM0h1eW1ndlRtQTNlWGtiTXl3NHUyVWNzeWp5QUxSRThQdWwwOGdkTnlUSkoxcG1GZTQxNW9IVkpQWGZ0bFBVaUF5VWtoSzgzd0h2dHNXQjg1akxzajNIMnFiTVR1X0E3T0hnTWVvY3hSaV9fYzdSUjgxN2F6dWVtZ3U1SWLSAdIEQVVfeXFMUE9FXzh5Qjg2ejMyTlBNR3JJUkZlb19JY0ZrVDZPbkdOWVZ5bXFWMEhPY0YxUlQ0MFRLaEp5Vm96cmN2ZEotUURPdmJzRTI4ZEV0Z3V4XzUzaWY2cFNIYkNQcFZoRWp5Y2oyM0I1a0I5N0wtbjZnWFU3TzFnci1tQktUZmxlYWl3X3BfRDNGbFpxaUVJSURpWmFDRklWZGZTU2h4d1RndHBVQ2hzTGZwenlPRGJ0MGZUNTNTR3BxRFozVGgzaFZrOEgxc2laQk9YQUhmQlBQUGJSZFNPSzhNd1FCWjdWRGVDRFhIbXJtRkxCemhfSC0tWkp0Q3NrUEhfQXNnaXhnR2dKVzBmQzh4S2lsamhGNEg1eDBHdWQzQmtEbExhOGZNampBb3VWOWFhSXkzMUxjMm9pQ0QtMFV4VVo0eWdfeXR1eHFtUjNOVUplLTlIa0FCLXNWdmlvYzRhMjhKaGk4aloxR1lyaU4ycmVkclZySkhESlhScEowdVBXRVdkVzVlaFplemt3ZkZWMDViZkMxZExjZGlza0pyZHR6UzZvSEZFcXVtejVkQ2tjbkJrbGFNb1lUbnQySUh0VHRDWmh4cnNLQWRsa3F1RzhEVWlaall0dl9YdFJkdzBoOFdTYnBtSU5OX2xDTFhpVVdzVTZ2Ull6MVR4c2tFMG0zdzE4QWUxVG1ISzJaSVhZSjEtVjY1Mk1tckk5M1VEZ0hLT2FvT0pJYjFOZWs4aUs2M2J4aldHRWZFZ09fVXVRVTEzOEtteGJEZl8xaTJRSVZ3?oc=5",
+      "source": "Masrawy",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-16T17:22:33.000Z",
+      "originalHeadline": "بعد الهجوم على مكة.. تحرك أردني وكويتي لدعم السعودية وإدانة الحوثيين"
+    },
+    {
+      "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC Middle East",
+      "sourceId": "bbc_middleeast",
+      "category": "competitors",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-16T17:16:47.000Z"
+    },
+    {
+      "headline": "RAK Ruler receives graduates of scholarship programme, emphasises importance of education in building future of the nation",
+      "url": "https://www.wam.ae/en/details/c29xz6i-rak-ruler-receives-graduates-scholarship-programme",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-16T17:12:49.038Z"
     },
     {
       "headline": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, offered condolences to the families of the martyr Major Abdullah Shams Al Menhali and the martyr Candidate Saeed Abdullah Al Shamsi, who were",
