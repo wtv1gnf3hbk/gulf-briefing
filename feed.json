@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-18T06:42:51.631Z",
+  "updated": "2026-09-18T07:03:46.694Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Friday",
+      "url": "https://spa.gov.sa/en/N2679683?type=news&uuid=N2679683",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-18T06:55:24.000Z"
+    },
+    {
+      "headline": "��اكستان لـ إيران: استمرار هجمات الحوثيين سيدفعنا للالتزام بالدفاع عن السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EdGdwbnZJS3BFOVlrN0MtdWg3TFpwZENieHpneXJ1MzZkMTR2OG9jaDFtNHU1SGkzSG1TNVZyU3pfa0tBU3lVVnlOLUlGNkF4STJBM0Rn?oc=5",
+      "source": "بوابة الأهرام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-18T06:55:00.000Z",
+      "originalHeadline": "��اكستان لـ إيران: استمرار هجمات الحوثيين سيدفعنا للالتزام بالدفاع عن السعودية"
+    },
+    {
+      "headline": "UAE President confers First-Class Order of Zayed II on Ambassador of the Holy See",
+      "url": "https://www.wam.ae/en/details/c2b4ti8-uae-president-confers-first-class-order-zayed",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-18T06:43:25.319Z"
+    },
+    {
+      "headline": "هاجمت السعودية بسبب اليمن.. النائب الأمريكية رشيدة طليب تدعو لعرقلة صفقة الأسلحة المحتملة",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXZPWlRPTDdFaTIwaHMtRVlBQXlFd1JrclAtTzB1c2dfNmJlVU43UnB1eUNmM1VhMG5lY1RVUXhFRVlxc2RJdGNRaHVtOEtKeV92UngwU1JDVDJhcC1wbGdBVkNPWW9iWnc4UUd3VU12cUxxMFNmUWlqWUdQbG42MHE3bGxHSmY1Z2oyaF9tZXFPY0JYV0s3c21NTGFkdTFuc19NT19pRlJGdw?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-18T06:42:38.000Z",
+      "originalHeadline": "هاجمت السعودية بسبب اليمن.. النائب الأمريكية رشيدة طليب تدعو لعرقلة صفقة الأسلحة المحتملة"
+    },
+    {
+      "headline": "UAE President receives Ethara delegation following F1 Promoter of the Year win",
+      "url": "https://www.wam.ae/en/details/c2b4ti7-uae-president-receives-ethara-delegation-following",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-18T06:37:33.347Z"
+    },
     {
       "headline": "Bank of Japan raises rates to 31-year high of 1.25%",
       "url": "https://www.wam.ae/en/details/c2b4tfe-bank-japan-raises-rates-31-year-high-125",
@@ -11,6 +63,17 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-09-18T05:52:53.079Z"
+    },
+    {
+      "headline": "الجامعة العربية تدين الاعتداء الحوثي على الطائف وتؤكد تضامنها مع السعودية",
+      "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxPZGZWMGt4c1NkclFicUhWQm54bkVHVW04Z0NYMDNHb1pjVjdoelhfSjkwVG5MOWVJS0hMZ01aY3ljMS1RUHFHaWwyeUZ5V00teWZnV0RZUTgyaDV1LTdpdS1ETTBoeUgyN1FMTzdSOS1zNjFHYmFBZ0RSOGo1T08yWi1rM01DZDN4amo4WkFtbi1FZjhSZHhFX1pGTmEwVDdDOXFpUEpOWURsSFRfeF9IUkRoSUFhQ0lDeFJvTFhhMjFVYXVKTlhpNUtpTG5NMk5TbFkwYTFkYU5Obll2bTNYVmRDcVVJdXJWZHF5UFFxdWxVR0YwaUp1dy1BLW45aDk1WGJfYno1NVRvWFpPeVA5UnNWbmdYVXJHVXlvZ205S2stUnc4T3RUUEpHTFM5a2pzWG9Xdi1WejZtODFvV2RGRGNWMDc0aHJoUUJQQmQ0MVlvcmM1QWpsMGwzUFpMV3hSQ2haRzQ4N2ttYTR2bGkydWxhSGc5Q214SUJjaHI4RU41N2xqRHpkc0JpSUFZUnhtZm5ieWtSQkhsaVdjcUVlSmZiQk93bzFJUU9FQ1BHekZDang1R2taOVRRaW4xTXA2elo4T0tmTmNtTTFCV0RKS2lJUUZvMDJLYUJRVWVfSURKa2hObDlFNkdUSHlCbVpyMExkQWVVc3FXTEhqZTZlaF9PTy1WaWlFU0ZaR2dINEVZVkM5N0JCaE9pTEhZMzNKcVhPWDBOMkdkWm4tb1RHbWlZU3FjVndwSFhkdW9EOVYwRlZxSm90Z2lfbFZpNUgzN0lqNEt1N1VKTDliN0tOcXFJUEJKN3fSAewEQVVfeXFMTlpKWkl6c2daMXFibWJsQWk0TTFtLWZ0bkh0U19vVkxuRFV6cW5zLWRNVWNhTWRrZE40VkJpRE5VMlk0ajJWd0lQS1hsd3lCLXZnV29VMzhfZW43RFJQV2E0LVZHWURIbTlUb2lsY3FrckM5dDNlWElxM054QTQzSzM1M3VkMWEyU2RhUG52QkxHeHdwaVB0UF9SVGZsTEN2RXZxbkZ1U1VzQ3YwclRRN002aVg0Z2dYSWZTVDBjNW05R3pielFiYUhhR2hKUFFHSlRPUHVqeVhVTXJ6eTVQUXk5SzNXOU1jZjNvWHZCVU04OUxFRVNGVVVxd2ZYS0FvNzFFSE4ta19WbGRqMmMxLVpyellwZmVZWF9QUkcwV1dIYXZHYmlpRGFqSGVRNHJjeUUyVkpFREdSNTdiOEFQRVBUN3FpZ3k2NG5hN2pZcUNoWFppQmJQSE9VYlRDVFRoOWFJODBUWWhCXy04Z2FIZndpMWtmUFdXQV9wWnhZR1U1azFYOWk4d3BKcS16WnlwZTA5bmpCd3d1SE95UDF1ZVdfbHNxWlFnakZjZEt6aGNJSDJPQlZ3LWhUeURDdm1BUkVXUG85d0s1ajFjN3RmMi1vQ1VMR0VSTUJCZ2tMYnQwV04yM3BPX3M2aEtRbVQ0dlFWcEJPd2E4Y2FMYTNPN3R5MlE0SnZzdE1aQkhCem14cUNhTnZuQl9oR080MGFWWUUyTU9UM3NVTm8wSVlZM0NaTkdhUmJaVTlZTnNqTklyOUFmNTF6TGFwRW43V3NNaVJPdXFVTHNIVTNJcGUzVmVqZk5peDl2T1JibEo?oc=5",
+      "source": "العربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-18T05:36:00.000Z",
+      "originalHeadline": "الجامعة العربية تدين الاعتداء الحوثي على الطائف وتؤكد تضامنها مع السعودية"
     },
     {
       "headline": "President of Senegal visits UAE Council for Fatwa Chairman in Nouakchott",
@@ -55,15 +118,15 @@
       "originalHeadline": "أسعار الذهب في الإمارات ترتفع إلى 523 درهمًا لعيار 24"
     },
     {
-      "headline": "السعودية.. خارجية أمريكا توافق على صفقة أسلحة محتملة بـ24 مليار دولار | CNN Arabic | CNN",
+      "headline": "السعودية.. خارجية أمريكا توافق على صفقة أسلحة وطائرات F35 محتملة بقيمة 24 مليار دولار",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXdqWE95Q1pqcXVkc2NoSnpXSXF6ellUZDBRSkRjRWF2Q25oWnEtSzFBOFNtLXpxSG1IdXp6Y0JhblMzcFVIYkZRS0lFbmJ0M0ZPSXpwNEIxNjQ5aklNaXlwOUFjRTFLc1lfSV9rMWVSd2dxZkhfTUxRRk1oY3NDejlpdVgxYWVoemVna2p2TW80ekpqSnpKU3l3Vkl5NU0tNnFteWJGaFJhYkJyU3RkaElhQkUzaWcxOVBBcnFGWnJkM2s?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-09-18T04:58:55.000Z",
-      "originalHeadline": "السعودية.. خارجية أمريكا توافق على صفقة أسلحة محتملة بـ24 مليار دولار | CNN Arabic | CNN"
+      "date": "2026-09-18T04:57:03.000Z",
+      "originalHeadline": "السعودية.. خارجية أمريكا توافق على صفقة أسلحة وطائرات F35 محتملة بقيمة 24 مليار دولار"
     },
     {
       "headline": "UAE leaders congratulate President of Chile on Independence Day",
@@ -128,7 +191,7 @@
       "originalHeadline": "بلاغ عن تعرض سفينة لهجوم في مضيق هرمز قبالة سواحل عمان"
     },
     {
-      "headline": "الهروب من اليمن بالقوارب.. ا��بحر طريق النجاة",
+      "headline": "الهروب من اليمن بالقوارب.. البحر طريق النجاة",
       "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOQVNHRXFnM2ZhV3RSVngxcE8wZzVlWDZfZEVaYzlWdXRudTQ1TjltOTZkSldUbDQ1RldSb3lyVk1nWWZ0UDhaelVKSHQybEJZdTJUMHRJYW85bE5vUkZxX2YzaWJWMHpOcVBkZWw2VktVNEVQMmF6T0l6aEt6ZktzQU9fYlpCTGhQc3JHektySDRHUWJWZ084cTFiRF9PWjRIOWp6aW1HYlZMTnl0MVp4ZUVaYmRZT2lBZmdfenB1ZzBCQ3BiblpmRG1QYkZUR25vQmlTeXBsOFZHYW9UcWpLVEtsLVRCVzd4T3g1bXV2clNjLXVCZ2duU01xa1ozX1h1QWYzVURlRzJrSHJ1R2RreExSVjd1QkpGNTZoM0xKZGlWTDlZeWNLUXJaVmIxclRZM3Q2bkoyOGZqOEk1Rm9wN1FBSy1SNGpZdGZkQ2ViQnhOUE9Mcml0czBsZ3pBN2czUm9udGU3Q1RFbzRoWHdEdklVeFFjUdIB-wJBVV95cUxNMGhuWlVUaGJGaTRoMDVVYW9Gb0lqT2xBQXlYMUh3dHJ1QkpNODdqcndzbG5FUWhicDE2ZnczUTl3Y2VrVlBndW9pTy1yaUdOTjhOcDlQLVR6S1VnZzF1a2QyRXdrc2tYMUx4T2huS2FXeUJXUXktWkV5VXp1eW5hczVFc1VVUGJ4VG8tSjBFemFFbnlHU3R6d3F4aVNEVUFPdDVFSVFkS1g1TVdVQlJ1cGdWTUlvQ1ZzWi1TUXZtbDdadnNMVmRBcXVEdlNHdGdNLUJSV2ZaNHJoZEcyWXlkaDhWYl9KRXBsRXM3NWFDWTd6dXUwRS00UU1jbmZ0X2VOS0ZmejNPdzEwMGUzRklHcXpfUXBpZWtpTDhLel9Cb3lWdFZjTnhDb1FJOTg4NkEyQ1FUaGJNRmxFVVM2eEswRHlQQkpDdkIyS1dLUGw0VF9UWkcxMnd2bHIyRDUwbEl0ejg4emtVZXV3NmJJeEZmWnQ4R193TTJfcjg0?oc=5",
       "source": "سكاي نيوز عربية",
       "sourceId": "google_news_gulf_arabic",
@@ -136,7 +199,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-18T04:04:34.000Z",
-      "originalHeadline": "الهروب من اليمن بالقوارب.. ا��بحر طريق النجاة"
+      "originalHeadline": "الهروب من اليمن بالقوارب.. البحر طريق النجاة"
     },
     {
       "headline": "Rockfall reported on Sultan Turki bin Said Road in Ibri",
@@ -149,7 +212,7 @@
       "date": "2026-09-18T03:59:59.000Z"
     },
     {
-      "headline": "واشنطن توافق على صف��ة محتملة لبيع 48 مقاتلة \"F-35\" إلى السعودية",
+      "headline": "واشنطن توافق على صفقة محتملة لبيع 48 مقاتلة \"F-35\" إلى السعودية",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYUxVTGR4RUM1eU5KQkpwUXBiV1RfRmN1dzh1djZzMnloMUtiNERlY1RMUjVnOURGRVZORnQtSkdGYW1FbXpfemxtX2p2amE2ZVEwd05uanZQbzR6RkN6dzNYWmVUUkhmZmhqN1E4a284THVUX01HaVh6eHJFb3pZMzJXQ2QyaWowYVEyTnJ2UEg5RW9NUV83UzlicGdxV1BDYU85QklTVjQ0SDRNdmNfZENsZjhDOGpuLU1pNUxqUVhLN1Z4YTE3UDl1aU5yOExIQVI2NWhSZzJhUFp1VUtGckp1WHVIUmRaU1B2c05oTE9jRENhempGTS1mUmo3Q2xyaW1adUhlcUFaSGQxVS1HOHNYSW5xT2NmZkFDRElXcFpYUlBnTHJQMU1paC04ZmtTZEl2QU51RVFpbXp3X3EwejA1TFljR29hVF93a0c1QVQ3YTEwTERMMEFDS3ZxUFd6VnJqdE40NllaUFJOOWpQM2FldXVjUUNGMzhvMTNKeTBQSVVKNDNENm5pQlhadU1uRVgwdkdiZDFJM0VTal9rMWdvRQ?oc=5",
       "source": "الشرق بلومبرغ",
       "sourceId": "google_news_gulf_arabic",
@@ -157,7 +220,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-18T03:55:31.000Z",
-      "originalHeadline": "واشنطن توافق على صف��ة محتملة لبيع 48 مقاتلة \"F-35\" إلى السعودية"
+      "originalHeadline": "واشنطن توافق على صفقة محتملة لبيع 48 مقاتلة \"F-35\" إلى السعودية"
     },
     {
       "headline": "Abhishek’s record ton helps India beat Afghanistan by 127 runs in third T20I, clean sweep series",
@@ -190,7 +253,7 @@
       "date": "2026-09-18T03:48:22.000Z"
     },
     {
-      "headline": "63 قتيلاً على الأقل في اليمن ومقتل شخص بشظايا مسيرة في السعودية، وواشنطن توافق على بيع الرياض مقاتلات إف-35",
+      "headline": "63 قتيلاً على الأقل في اليمن ومقتل شخص بشظايا مسيّرة في السعودية، وواشنطن توافق على بيع الرياض مقاتلات إف-35",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xSEZWeWRsNWNxcDJUZ19PU1FndHVtSThrNVZRaTRSNzBZMy16VlU5NDVpaEpkTlNjeTgyU0F5cjkzd0JWYVBwLXVxZ3d0UTNGMXdEcHh1U0hSbjJjenfSAWNBVV95cUxOR1FsamNlT2gyNTBwV0RjQWFiNFoybTBDQ00xdUFGcTJKbEpQeV83WVIzblB5Sk5pdWJ5V0ZOUjQxUXVsbXJGMnJCUFQ2RXlrTXpBQzNTWjhSN3pEcE1xWVJTbWM?oc=5",
       "source": "BBC",
       "sourceId": "google_news_gulf_arabic",
@@ -198,7 +261,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-18T03:31:34.000Z",
-      "originalHeadline": "63 قتيلاً على الأقل في اليمن ومقتل شخص بشظايا مسيرة في السعودية، وواشنطن توافق على بيع الرياض مقاتلات إف-35"
+      "originalHeadline": "63 قتيلاً على الأقل في اليمن ومقتل شخص بشظايا مسيّرة في السعودية، وواشنطن توافق على بيع الرياض مقاتلات إف-35"
     },
     {
       "headline": "Saudi Minister of Interior Meets with Qatari Counterpart",
@@ -209,6 +272,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-09-18T03:30:48.000Z"
+    },
+    {
+      "headline": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUxiUzdsYTJRdFoyOG1oY0FHU0daRGxzTzhwQVhiYXg1ZUpEVDM4Rk1td01IZEV2Z0VDVVlTY0hHTElnTnZ1cnNuMWxDWUZCWjNhYmpZVkN1bFAyZ1RtT0xQVko0OExlUm9wc3lFNjZNNnU1eE1DcjlmTkZQY2ZuWkFvUGEwTnNZOVhqdmh1dlRsZk1nd3I3emo1dnRybG51Z09xMTR4a3lPak9WbDFsd25qTVEtSFVVTmpKZkZ0OUlFYXpT?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-18T03:27:00.000Z"
     },
     {
       "headline": "Asian shares mostly rise, cheered by a US rally and easing oil prices - AP News",
@@ -244,7 +317,7 @@
     {
       "headline": "واشنطن توافق على صفقة محتملة لبيع مقاتلات \"إف-35\" للسعودية",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdldLa3ZOWEhSc1ZSVmt2MVl6VXRwYjRFcUdlVGlNa1FRc2xpcFZPU0tBMmVNeWVfR1E0RGxrOERDMV9rTXk5bHFSMFRIVlpOMVo0OE4wV05xTEtldVpxQ1dMZVlOd3djVDFjMlZBMGdBZll1b0tHcUsyOVlUeks2SE5tSU9oU0lzdlhPa3pNV0ZCZ1g3T0tObGdvbklMWjlrRTRONGtBZTJZeXRmZmx5U29MQV84Y2pXY1RFWUFvT25OSGR4RW5Qb2ZpRkVvSU51WmIxT0FqdmxRZGJ4MXE5VmtPNHFoU1liT2dHSVZzSThmUkpqM0M0VUZkYU9PeURHM0plbnZuLTNmWUNuTmFPTDJuWjczWnlQbFZ6ZHZ6S3hRYldGeFhQUlNldWpmc0o5b1hGMUh4VmlEQ0k3b09vVTZBNEcwX25O0gHOAkFVX3lxTE4xNTlYMjlHcHQtaXhSYVJ2aDdVV3d5WDIwWWpTTFJPZlFtNnF0WUk2c0FqUlBrczdmYWt0dzl4eG5VVTNlTE5CdkJSaTA5Z0VrSGJCY3hKcm53OW9mY19WV3lERGcxd3VsTEVvb1FxSVNCVnlPcHhRNkhIMUxfYTRvTE94Wk9JQ180WE1RVHdfSjRhXzl2aUtPcGt0cFZYNjBaaTFrd1BLcmR0aUZuZDVoWE5BVFZBcGd0ME1OeERndVdzeFE1ajlieThVRTVKRjZvSUFHTXFaNW82cXhOSDROSjI2aDVaVW5HOVVWRDYxRUR2bGJvazM1Tkg3bHJrZHdIcVM5ZmUzSG9pVUtOTF85R0VySEU3SHBfeGpOV1IwRUkwUm5DSnNSLW82eDhJZDEwd25JcGpJVEZiSEZnRnl6VXhibFNTZDdCankybHc?oc=5",
-      "source": "الجزيرة نت",
+      "source": "aljazeera.net",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -1245,16 +1318,6 @@
       "date": "2026-09-17T18:48:10.551Z"
     },
     {
-      "headline": "Saudi civil defense says falling debris from intercepted Houthi drone kills 1 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalVuVFgycG9Pb3YwMjUyakJsUXVlVmNrLWZ6aFNLVjN0ME0tMl9HbUkxYUhmdl9xSENfc0ZUcGdGYnRQMldMdU1fdnFwVzRjcm1pb3VNc3hPekctanpXazZPc0xDbVZDT3NFYzZCRHdUZWZGZzRTYUtUdGpvYjBfaEtnZEpSdnNyRVpRbW9tMHR5UDZQdGc?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-17T18:47:00.000Z"
-    },
-    {
       "headline": "Monsha’at Concludes Legal Week with Participation from 50 Entities and 3,500 Visitors",
       "url": "https://spa.gov.sa/en/N2679384?type=news&uuid=N2679384",
       "source": "Saudi Press Agency",
@@ -2136,6 +2199,16 @@
       "date": "2026-09-17T16:11:40.000Z"
     },
     {
+      "headline": "Fewer migrants are reaching Europe by sea but more people are dying, IOM warns - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFgzOGlWX29lX3FYTXJFbzNGTWhHTzFFS0ZEcUJrMFc0Yk9sTUZ3cnVQR2doYzJtM1JzY2lUNmJjLWVfLVBVWnFJZ1JsMVpEeGxmUkFHNEs4QzVlNDRvcjRUcFdKd3VYNm9mck1kSmlRNkYzd0lYeUZSYW1KYnZ3RjAyRWR6c1dXcmpQNlYzQnZFZld3SzBnUGZFUDAxRy1DbXc0QTFjNTBzRF83N1Rid05JdGtHLU54WGJJ?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-17T16:07:00.000Z"
+    },
+    {
       "headline": "The Higher Organizing Committee for the \"IDEX\" and \"NAVALDEX\" 2027 exhibitions, alongside the accompanying International Defense Conference, held its second meeting to discuss preparations for the eighteenth edition, the largest in the event's history.\n\nThe edition, held under",
       "url": "https://x.com/modgovae/status/2100617046786752717",
       "source": "UAE Defense Ministry",
@@ -2337,47 +2410,6 @@
       "date": "2026-09-17T15:33:24.000Z"
     },
     {
-      "headline": "في اليمن، تستغل الصين الثغرة الأمنية الأمريكية بينما تسعى إلى كبح جماح الحوثيين.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3JwaXQ5OW5JNy1lS1d0QnNtZTVxR212VUZBOV81Q05wRENRY0pobkFVb1FwX2JqemJEWl81R2lZUGdTRjk4QlFwV0pqcUY0dXBRNkxEOFhNaVUzdUxRRDJOQjMxUVdKVWttaGZqVjFkRTFpTXo4elJkREhHam1wMTVhRDViS0pKc05tN1RfcFIyNU1xTkhSWFRtczc3SnhmSi1hRm1rbm1fZWRIbGJzVW94bDQ5N2Q3OGdZQXJKTWRwdE5vX0tRMw?oc=5",
-      "source": "Al-Monitor",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T15:31:05.000Z",
-      "originalHeadline": "في اليمن، تستغل الصين الثغرة الأمنية الأمريكية بينما تسعى إلى كبح جماح الحوثيين."
-    },
-    {
-      "headline": "United Arab Bank ranks 10th globally in its peer group in Forbes’ World’s Top Performing Banks 2026",
-      "url": "https://www.wam.ae/en/details/c2ajemc-united-arab-bank-ranks-10th-globally-its-peer",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T15:29:22.901Z"
-    },
-    {
-      "headline": "Saud bin Saqr receives Ambassador of Slovenia",
-      "url": "https://www.wam.ae/en/details/c2ajemb-saud-bin-saqr-receives-ambassador-slovenia",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T15:29:07.040Z"
-    },
-    {
-      "headline": "iCapital deepens commitment to Middle East with ADGM license",
-      "url": "https://www.wam.ae/en/details/c2ajema-icapital-deepens-commitment-middle-east-with-adgm",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T15:26:22.398Z"
-    },
-    {
       "headline": "HE Capital Governor Chairs Governorate's Security Committee Meeting\n\n\nhttps://\npolicemc.gov.bh/en/news/82115/\n\n#bahrain #MOI",
       "url": "https://x.com/moi_bahrain/status/2100606505036742844",
       "source": "Bahrain Interior Ministry",
@@ -2386,37 +2418,6 @@
       "country": "Bahrain",
       "language": "en",
       "date": "2026-09-17T15:23:12.000Z"
-    },
-    {
-      "headline": "Abu Dhabi's Special Olympics Global Centre for Inclusion in Education launches Inclusion Academy to equip 6,000 educators globally",
-      "url": "https://www.wam.ae/en/details/c2ajem9-abu-dhabis-special-olympics-global-centre-for",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T15:17:20.224Z"
-    },
-    {
-      "headline": "وزير دفاع باكستان: حان الوقت لتفعيل اتفاق مكة إثر تصاعد هجمات الحوثيين",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYnE4c21kaUFBTTRHRm1FYzhlaG8zbldab3RESkROZWVyZnhDeE1jajZVQ0lYbFhaSEpCdFJHNnVpUm9mNU1lN3ZjNVVveG5SbUs2dUFIWmtpZUp0bmZ5VngxTHNQWHV5UkZjUkRSdHludlhsaDBwWXVwZTM2ak9jWmUybDFmM09qLWR6ZWg4ZG5fT2JtZnNyX2U2OHA1X0lSdDFrOE45cG42NEFvVGh4ZmVQNjlpZ2ZZSGtraW94Q2JrSGk4ejREdThRMW9USlNBbVpzR01nQmlPZVlJU1VaTE5yd1lXNlhZTmdBSVVUeXBNb2FfQXAyX2NvejBUSzJDWDFkb2VzTWZMVlFja2FoRVlGQW4tdXA0YWFYa3owYlNtNGVnNEFqbFlzWHpNR2p2TUpRZnBiZ1hyRUJMRlA4VmdESlVMY2xBQTZMbXl4Rk5jZ9IB1wJBVV95cUxPaWxRaVdwekxRM0Z1M3BKd2tBRjZiWUxoaUJlQkxkMkg4SjdLOWNicGYtOTAtZjIxVkVaV0ZQYWJZSVpqQlNIZUNOSnBGVDFBU19JbVYyaTZLbEh2Qks1NFlBX1V4U1drV18ycjB0MThwUWlkeHF5ZGpUbXJQVkJZcGFFakFKWTFsNVBjZTdGOEUxSjFNSHhSd3V6aDJLa09MblVjQ3VtNWJ3bzhjcEZ1c2ktaTdfd3I1a1hac2tmX0JDMmdTc1pTUGZQZWRwSFFYSVpQMjM3cERtTG1FVVE3bFIwSGZsWXBlVnJtX3FFckhNbHdMWHBibVNNTEtVMkVNVHhUREd4X05WZjFzWmIzMDZaRXpWUG0tTHZrbXEwVzM3aC1RaG9xOHR6eExJSy1QWElmcmNKY0RsNTRlQlFvUEIzS2RMckNYeFJHWWNPRjRadUN3Z3Nn?oc=5",
-      "source": "الجزيرة نت",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-17T15:15:47.000Z",
-      "originalHeadline": "وزير دفاع باكستان: حان الوقت لتفعيل اتفاق مكة إثر تصاعد هجمات الحوثيين"
-    },
-    {
-      "headline": "Dubai Media Council, ABG partner to strengthen Dubai's media industry through responsible AI in advertising, talent development",
-      "url": "https://www.wam.ae/en/details/c2ajem8-dubai-media-council-abg-partner-strengthen-dubais",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-17T15:10:37.317Z"
     },
     {
       "headline": "The Security Committee in the Capital Governorate discusses ways to enhance awareness of child protection in cyberspace\n\n\nhttps://\npolicemc.gov.bh/news/82115/\n\n#Bahrain #Ministry_of_Interior",
