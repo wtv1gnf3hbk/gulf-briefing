@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-27T06:01:22.445Z",
+  "updated": "2026-09-27T06:32:42.091Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "China, US agree tariff cuts on $30 billion of goods",
+      "url": "https://www.wam.ae/en/details/17g1rss-china-agree-tariff-cuts-30-billion-goods",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-27T06:32:10.046Z"
+    },
+    {
+      "headline": "OpenAI says AI agents posted 53 user images online",
+      "url": "https://www.wam.ae/en/details/17g1rsr-openai-says-agents-posted-user-images-online",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-27T06:27:09.754Z"
+    },
+    {
+      "headline": "DR Congo Ebola death toll rises to 3,833",
+      "url": "https://www.wam.ae/en/details/17g1rsq-congo-ebola-death-toll-rises-3833",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-27T06:26:50.658Z"
+    },
+    {
+      "headline": "Foreign Minister Meets UN Secretary-General",
+      "url": "https://spa.gov.sa/en/N2686777?type=news&uuid=N2686777",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-27T06:21:39.000Z"
+    },
+    {
+      "headline": "Foreign Minister Meets Algerian Counterpart",
+      "url": "https://spa.gov.sa/en/N2686776?type=news&uuid=N2686776",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-27T06:16:08.000Z"
+    },
+    {
+      "headline": "Three arrested for stealing AC units from house in Bausher",
+      "url": "https://timesofoman.com//article/177401-three-arrested-for-stealing-ac-units-from-house-in-bausher",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-27T06:09:25.000Z"
+    },
+    {
+      "headline": "Gulf 27.. Night of accounts in Jeddah.. UAE and Qatar are at the gates of the semi-finals, and Bahrain and Yemen are facing the last chance",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GU2hzOGtIWjhzSXVHZ0Y4bWE1XzRBYTJnU2ZsbXZ1X3ZzWlFZbHo1TjhydlotS1hUV1c5eGJJRGFTc0NNblZF?oc=5",
+      "source": "صدى البلد",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T06:00:00.000Z",
+      "originalHeadline": "خليجي 27.. ليلة الحسابات في جدة.. الإمارات وقطر على أبواب نصف النهائي والبحرين واليمن أمام الفرصة الأخيرة"
+    },
+    {
+      "headline": "Qatar faces the new economic reality through Wall Street deals, according to Amal Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnVpMjZiVGM0OG91Q2gtaXZUaktlblVRLVVIU1ZIUS0xYjBqLUNJVVJ4a1lxOFJ5UE1fc0w5M3VmVkd3MXNiZnRkdl9xM3JiU1FVMWFxaHFhcDFwYklkTURKT19aNTgySTl2UzVTN0JtemVTazhNU0NqR3N6dHlDdWNmY1lUbDlMb0lyZFhHcEpDUUx1cnhyNGRaN01pTlp3cnhvTEFKSUZvV3JwdF9xcVlUd3pBZ3B0Y2c?oc=5",
+      "source": "Al-Monitor",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T05:48:59.000Z",
+      "originalHeadline": "قطر تواجه الواقع الاقتصادي الجديد من خلال صفقات وول ستريت، حسب أمل هرمز"
+    },
     {
       "headline": "Weather Forecast for Sunday",
       "url": "https://spa.gov.sa/en/N2686767?type=news&uuid=N2686767",
@@ -11,6 +93,16 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-09-27T05:45:30.000Z"
+    },
+    {
+      "headline": "The wall needs no words: A hearing impaired climber's ascent",
+      "url": "https://timesofoman.com//article/177400-the-wall-needs-no-words-a-hearing-impaired-climbers-ascent",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-09-27T05:39:48.000Z"
     },
     {
       "headline": "\"التجارة\" تع��ن أسعار تداول الذهب في الكويت",
@@ -24,6 +116,17 @@
       "originalHeadline": "\"التجارة\" تع��ن أسعار تداول الذهب في الكويت"
     },
     {
+      "headline": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+      "url": "https://www.bbc.com/news/articles/cmvgyyw2jeego",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-09-27T05:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "\"أسمنت الكويت\" تعلن إلغاء حكمَي استئناف بدعويين بشأن رسوم مكافحة الإغراق",
       "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOcWoxX0QwVTktZEwyTlB2UDV0dWljZ1BmVUk2MHpzb09OVGVzZldIRzVyLXVNT0tiMXlQWUNYSzNlWlhyVWk4STY0dGlYVExySUdvdGJTa0k0VXBOTFI1cVR2M3BTeXkzdmVDU2s2dXc0OG05MDFfSFg2NW00NDFFcGNSQzFTcmZxa09ubkhMRzRaWVFfSVpGQnhQeGwyX2FxdElQS2IzXzFicVJyaHRsX3p6RlRnMVp0eVVoR3AzYUVmcVZvY05BUHlKOVBqbzYyajhaVnZQU3k1NDVtUFhxQ1RYbncyeHhSWjNseTUtaUxYQzU4cVcwRlVUeHBHOUQ4N1JqbGV5WHdudnNxYXdPaHExM1Q0UTNoSFk2ZnFGM2Z5SjQ3VXp5QkNoWWliejRvaDl4RmlIblZPMlZ2bU9lbkkyZG12Q29mNVhQdmNNQmNSTU9vYWFHTDBPRnRjSE45dnhjd3VEOEl2dWFfa2FzY29UdW92WUUxRW1aX3p4X3FERExHWWRTa3U1WWFqOXdnU0hpbXZLblN2bmpZRFQyY1ZXb2QybXN0RzN0ZlU4QjBZa1QyZDY5R0hUS3FIWVZYQkthaTlqb3lrREZyVm1KUGNvdlFqTV9CMzFBQmRjRUtPMUhtWnZDRk1qNWdKcmFPejVjMFNUdm96OWJNcTdGTXlLbl9vLWQ0M2FPeFk2aVpFaDhndmg3Wk5LQUVuOVJ1Z29DODZPZXd6aWxZdkY3YkhhbkNNVmVRVHc?oc=5",
       "source": "معلومات مباشر",
@@ -35,7 +138,18 @@
       "originalHeadline": "\"أسمنت الكويت\" تعلن إلغاء حكمَي استئناف بدعويين بشأن رسوم مكافحة الإغراق"
     },
     {
-      "headline": "الإمارات وأوزباكستان تبحثان تعزيز التعاون",
+      "headline": "The King of Morocco denounces the Houthi attacks against Saudi Arabia: They cannot go unpunished CNN Arabic | CNN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk9remRmRk96bVcxMXNWLWV1VU9ZbFV6VXUtTDRsX0ppSWRqc1V0cEV5Mzl2V2oyUjRvcG45YkFERGZiNXhtUVdPT2FmbzRBblpaU3RjdkU0SUpjT283Nm9rOER3ZGNYMU9MZUdYVEhlSXVubEliMlZpaEY3eWtyVDFrS2xZdjJiV2JYc3JSNHFhc2xYTjdySXllMVBvbnA2VnBCNDNXRWhsbHFjX2xZbk1pNA?oc=5",
+      "source": "CNN Arabic",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T05:10:09.000Z",
+      "originalHeadline": "ملك المغرب يندد بهجمات الحوثيين ضد السعودية: لا يمكن أن تمر دون عقاب | CNN Arabic | CNN"
+    },
+    {
+      "headline": "The UAE and Uzbekistan are discussing enhancing cooperation",
       "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxONHhPZ2V2S19UQkk2cW85ajdWOUlGcDcteEd2d19wNVJOSVp4bGM3UHJYTlpqa1AwSmdzOTI5NTF5dVV0S1NCU2lYNWp6MUFva0p4QlRtSHNnMjV0M0syOEdQLVIzbU1QX3E3QzExOWJ0SzR0RDZ4Q3pLb0xqXzExVWFBWHhObi0xcUpaOTRmR0x2cFAzUlp6NC1YNXNrTE14NU1wSWFiY2t3SjNvMGVRRnFrbU4xLTVXeWt4VWlneHpGN0ZwWFRCcDJOZ09vSldnUE9lVzc2Z0tzaXdSeEpKd3N0cGpjekVaVk5rMXU5MmJwOV9jbjNLMWlmZzk5QXozOXVpRmthMFM2dm1lNnk1MkFSai1wellqME1NaC1JLTBSMmh0XzMtLTBzcnB1RzZ1N2w1OHUtSDg2WXlGLUY4OWpIa3VENHdGV1FJMHJkbTlHSloxWmlkal92R2J5QWY0NVlaUENXWFZXSndfaURXbnUzVnRvWWNwZ1BGc0Y3VHp3VU1pOHJB0gGCA0FVX3lxTE9aYWFEMVdYRVF3MjFfbHJ2M3FtbjBtWjZ0bk1qdWN6VnF3MTJkMzBFY2pKcE9aY0UxbzRrWjVjTlBrNU4yd3RWU0x5MUlDRXRIS1VjdmtIMlNVRkRBbUlQX0xIS05PTTlXRnNJemlQWWR6UldNeldKLVRGcXZSNEMtRlhXNWpiYlY3Ti1lNUk3SmZ5Rmh1a3NBTUdUcHJLTmExMVBJdGZEVHIyMWVRREpUaHJXUHBWX2NUYmp2eW04V1ZxYWswcUZyYUpNbVpIU2xSVktqV29aY003c1d0SzFnVkhsZzBWWVlFRm5GRWJOWG9ZZDlmMlNDcjJBSUpoZW44SnNSVFpZcDJzTm4xbi1ib0Z2dlhvcnVYczZ4R01BbURkdWZBQjAtdHAtTVJLVjRzMHZpSjlXTjBKZnJxNGhrZ1JaTzdlbzZjZHJEdUZKZTZTTkpNb1BtRXNVejJuQzNxdFVWMy14bm9UWmxYd09XcTd1TVM4blpab1M1UGxPRkpB?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -46,7 +160,7 @@
       "originalHeadline": "الإمارات وأوزباكستان تبحثان تعزيز التعاون"
     },
     {
-      "headline": "أسعار الذهب في البحرين تستقر مع تحرك الأوقية قرب 4274 دولارًا",
+      "headline": "Gold prices in Bahrain stabilize with an ounce moving near $4,274",
       "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQMzlLMUtXV0JiclFkNHcwdFdHTmJTeWxfaFRfSWVPekNrZUk1OFpiMjByLWY3NzViX2Y2WlAwNVppN0JFYXBBTWswQ1ZhbXhIajMxX0N1UzVYUzljb1N2Y3pLeEx3dTJ0bUZKQ0VaSFBXVXM3ZjVrZGhJd015c042VUZ5RVdDMThKZmVJSXZDY05iVjQ2T0NURzQzd1JOc096eXJPYUZMWDV3amMxRWtuYW10T0dCY0tYRS1oYXdjRGphTGIzLUgzT242NnZuQ2FzcG1HeDRvZjJJQ2p2UG9fVm5ORm4zOFo0N3gwQk0wd25hR096VENFSExZd3FRS1ZjV2pjSVM5ZS03MWp1Mjdvd2JjUzM5NlIzSWRTNDZ4VWE4bjVBVEs2TTE2TGkzcDVTS2JfVWE2OTZaRGpQaFdjQnBGMTBKNzB5RUtzVmMxMDB2ZGh2aWNxTUVTZXdqNnN6dzNGX0Y0U0RTYkV3aVdMUkluSVF1MWFFR1k2ak9MUi1ySWdVTWVGVEZOTTZxSUs1ZHhzMWhfTUJwcXMtVG50Z0VkSk1HbTZsM1cw0gGmA0FVX3lxTE1xY2dCRTMzUW1Ma0JsYnVrLUdBTFhGNnNPMVJ3VmVNSDdKYk1zczZNVFR2SHVfREl6OVpZTnJseTc3cGppc21uWUxuckVtZGNVd0hvS2FvYzlfdzc4Y2NyOHZsMUpMU3Q1ZUc1dVlnQjYyS0lObll5eF8wQzVxVWVVM0MyMDZtUVpYRkpZcXJmOVRaOGxLcUtrWWppNW93WUxwLXBhSU8xNVFsY1Vhd3prVkd3SWhhYkh0T01KLXZyS3czcDRvLTBlV3YwNVVURG1ubTFzSENsRFFJWndRcWNfX1RQaDBtUUVtbWgzb3YtY3hzTHR6c1VCeHl2NXVXZEVibVZiQnFXOHN1blB5X1pNSUx0aEF3aHpkUjFpVUNrd3pIVUk5Z2ozQnZTVXh3UGZnb2RWZnpwMU9WU1djSVFIQTJzb0ZfZ245bWRLX3FnRHhFNlZPbG1oLU4wRTFLMkRHck5GWFh3LTBrS3VSSGJHMjRWYm5USUVwdjZicDc2WWhfN3Q2Y0pnSE1qcngwQm5OeDdWQjB2VVlDNjhMV3RwMmlHSjNn?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -109,7 +223,7 @@
       "date": "2026-09-27T04:33:04.000Z"
     },
     {
-      "headline": "بالصور..الجيش اليمني يكشف رسمياً عن قدراته في سلاح الجو المسير",
+      "headline": "In pictures...the Yemeni army officially reveals its capabilities in the unmanned air force",
       "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNRjh6Y0dzbTJxQ3p2NEUxOEVPT1ZFaGxaUHY0aS1KMzVwWXRNN3pZVjRsNDRyQXBGXzVTOTZyTXAzdVFzcmNDSjJfazEtUU5kRDZjbnE4NmFmUnFiLWJBZ2ktS2tuV2tLak1FWXluZlRfMXVBaXRaMEtxMkRuWGQ4Yl9DMm80Y2NYSjJwR2RPT1VMZ1NncGp3RW5tdlFibm9hSUM5WFpLM2xpNDhGMWtLX0hWVVRGaWtFU2lzcmpPeGtETzVEVGh2QzFEbkYyTW5EbW83UGMzVXJUWmdFUndrZXktSFg5WEhiMEhPdUVRMURSaEYtWV9DdnFLdkstM2tlRmh6YnVnVmVfTWdsaVRaSVRtR2pidVNFeXpxSXNyeG1wVEg1dWJxNEtCUGVJSG0tbDkweUdmbUVSMWs5YVhYempsTEFlay1GMjlpN0p0Z3hRWWhoOTJVLTd1a2VvOHA4YzI4SXg2bzRoY0poZHJiN0xTZXB6cTJBSjI2U28yX3F5R3oxN1BXT1RsQUhNelYyUXY4TGFOajEzYlRiQmtMcWoxc2NReDhkNkFQeWZuWC1LbzlrX2dSRzRYeUpfUFpVQ0ItdXVhVk5ZTmdiOEdNOUNUaUw0b01Td1pQMkM5Z2twaWh6OHo1ci0tTUFhajFfcDNjLTFId2xpeHJwUFlnR2QwcFdQUdIBiwRBVV95cUxQSUstWHdaWk1zWUlyMEhNWHBmSnlXb0RQRkROX2RlTUM1a1p1ZVVWT2Y2WVFKX3h2eWhJLVNYTVo5OG0wS0Y1TGZmTEJQQnJOSE1SeXE3dU5zWnFxZ0pxTnRUNldPWng5YjREUEpocGEwNEVSd3pkTENZbWtZeU9xUkZ6dkRZa3U2dUtEc1NCTWMtQ3dacGYyaVNPa1JBTjgteENmaTd1bHFXUkV4S1NZdndHRk5XV04tVnkwZ09WSG9kU3dSeEZ4T2FpMG8zQThtbVRxb1k5cGxmZDVRV0FqckZtZmpEVUJ2QWhuOUw5czV5V3NNZzNXRjROcXlDaEJYeTRBSlhYbl9tcHZiR2k5MkMxWkdXLUtiRHAwSGdyOVVlMUJISEVaYkJEbDJoMElWenBQWF8zNk1abjF3U0RSQkxMaTRocUNPVUdaWHhld2RMT3pCZHlVYS1RVlhNZlJGOWxGN0tKeXJlY3pHVmxUQ09INmZBR2VKR09nRmZ0VUdYcmNHYUNCa1VleGdiZ3FHb1ZORVJxQTFscmRXekNCSEVza1dxWm1MS09nTHhmYXlvSno5SUVEYjBOb2RoTUxvTUw3RGhuT0NlZ1p0MlA3ZUhxVnNsRngtaEJMeERveTJWMGdIWEJFakllakJoWU4zMXdrNlF6aVZSMTBfNkdnT0tsSDZoNks0ek1V?oc=5",
       "source": "العربية",
       "sourceId": "google_news_gulf_arabic",
@@ -120,7 +234,7 @@
       "originalHeadline": "بالصور..الجيش اليمني يكشف رسمياً عن قدراته في سلاح الجو المسير"
     },
     {
-      "headline": "هل موّلت الدوحة الجناح العسكري لحماس فعلًا؟ رئيس وزراء قطر يعلق",
+      "headline": "Did Doha really fund Hamas' military wing? The Prime Minister of Qatar comments",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT185YTBva0oxYXZqcXRZVXViN0F6bTlxN2RqVU5zNGZjZUE5Y3BEQlI4M2J1YWlLMVRlUTBPVm9VRHNCMWxQdDlXekowVlUtQXVSeU5GZlQtR0p1VENhd3c1QWJMNUdQdVB1dnp2UjRCWEQ3dlpWY2JCMWp0c1c1ajRsN0hXTjBHejRnQ1ktakFZTDdLelgySkpwU0pWY3JjV0F5MFZGR0ZTcmpIS0ZaeExTd0cyUQ?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
@@ -131,7 +245,7 @@
       "originalHeadline": "هل موّلت الدوحة الجناح العسكري لحماس فعلًا؟ رئيس وزراء قطر يعلق"
     },
     {
-      "headline": "موعد مباراة البحرين والإمارات اليوم في كأس الخليج.. والقنوات الناقلة",
+      "headline": "The date of the match between Bahrain and the Emirates today in the Gulf Cup... and the broadcast channels - Sada Al-Did",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5DVUdIMFQ2RjhhTkZwZzBTa3A4NnFqYUE5M1YtRmZQTVZfaXFIcDBLcVhtVmNydmpYcmxfNFhhS1dXSl9NNGNj?oc=5",
       "source": "صدى البلد",
       "sourceId": "google_news_gulf_arabic",
@@ -139,7 +253,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-27T04:15:00.000Z",
-      "originalHeadline": "موعد مباراة البحرين والإمارات اليوم في كأس الخليج.. والقنوات الناقلة"
+      "originalHeadline": "موعد مباراة البحرين والإمارات اليوم في كأس الخليج.. والقنوات الناقلة - صدى ال��لد"
     },
     {
       "headline": "The case of the elderly Maricar ignites the streets of Madrid against the housing crisis",
@@ -154,7 +268,18 @@
       "originalHeadline": "قضية المسنة ماريكار تشعل شوارع مدريد ضد أزمة السكن"
     },
     {
-      "headline": "السعودية وغانا تبحثان تعزيز التعاون المشترك",
+      "headline": "Djibouti Foreign Minister: The influx of displaced people from Yemen exceeds our ability to meet their needs",
+      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPZnNyeFlVZWJQbnNBd0FTNnk5WFhwek05VWJzLUlMS3NsSGJ5eGtYNVRSRDc0eFVTeGtoS1BLLWpWM09IdEVxaEUxRDEtNWNuNm1uM3hiQzlmT3pKT0gyaV9OeXZFTkRHSm5zLXF2d3JyUVdLdmQwLTZfSjB1dXdHVTB5SldmekVBSlVtTFp4MjJhSktwdnFYckNjeHg2QnQ1N0tFQTFkOTh3QW4xNEtKby02b3Q3VlJnNHpsSVItYmhZQnNvMDZadEZHbHlMdFNfVE5EcTdGZmVxamJMZENQOHB3ZGpQcklLWU1UcGpRT3JVT3ZLOUpBSzFYLUxwR1otLUlHT2U5R1RCYkt1c2RlMDFWQmJZc1Vtc2FCV1RURm8yY2FraXZfVUFZUWlwamh5Q0JZNi0tcTJBR3E1bzJocGlmeURYYUQ4SDdvaEFQNGFvV1VQMmwyYU1SOENPZUtaWC02azJQWkJNZ01aRmEyV1VRektVbTlpdHVtazF0aUlsOXkzdmx5QlNYdDJkaTkwbHRNM0Fjc1Z2M3laMjNMenJyQnFQYm9UWDZLSkpENnd5WDFPUjgyX0t4SDhkbUMyUENheExZbG9MZFkxSlZUc2wxRWNma2FMWGppRlZrVFlYOXZ0UUVNeGV3VXZCTEk5Qk11TERVb1lhZ3h3bENaWjd1djNsbTdkV0hRdWlJbTh3OWRRcXpMd2tOdVRLQk5KdW9XbzYxVU5GSXBTbVdyY0FXVm8zRWdEaHhYVWhsY05WcWVEU3RYNnJ0NHpXdy1GN2VqeXZLVHdvZGFQV2dqMDRzYVFJRVJWZk5YWlR1VkFyUTEzR25VU01aazNRa0l2QUFDRlVB0gGLBUFVX3lxTE9JbmY5QXNMMmJrbFJkQkFjSERFT0Z3M0NiRTdUMmJhRDNCYVRXbTRvc01kLS1ZaFVSRXFsVkRsa09MUWpRdTFKdjZoYmhZX1FvNVBoQ21FdTBSX3lIcDNqU3RCVndWRFB0NTd1U0FFV0RnTEwySFk1OWRuSFJjWGt3cHh1ZWNiQzNPN3hDUW9IcjhLdFJLYnk3dm5TTzlxN1ItS1hqM3oxZjdtZUpwUEgzbDMtYTVjcHRjanllUHZDQWJyN0dFSTdaUE93Vk82UDlYX2ttdk9CRFRWcU5uMEVYazlQeXBXbTFjTkFGa29OZDFUM1ZlZ09maUtIWjRBcU9XX0ZUNjk2VmQ0OFI3VnB1QW5XdURFVjdTYXJXTm1uU1lWN0poU0NCNnRWSFBoYW1vSHdQYXhKamVlLVhuamJTQUtnWEtmUnNoTmRtXzAwNjZKb3pTMG1lSlMzLUZjR0xZQnZHaDYyWFA5ZHRnQmRyakloVzJSWVBvb2hMc1lsQlB0T2F6bWhRRUdxNkM3aFVzbkg1RjJDUlFnczlMeHhZSTFybHAtTWp0dFMwdXVLMC1lUGZKSjMtR0VzdlRZZWNhLW5vSFVmTUJDbWdGbXRNNUJ4aTFXNGdRdmQ1YTF5UHFfU3Z3bWJMaHZ2RnhuQmFkQkFlY3RKM2lfTV9jTUxSSU1HcHdiTENKQlBqNkdRd2JlOGpLM0hhZk5PNXN4NkxyRm5obkFPSldTYTNtWFI2a2Z4d3NzQ3RNeE85MlM3UUJTYThhcGlfR0dfNHIzQ2VEOXdnQ29oeGNwSXdPSEdJelNNNkpVZ2hvRGtNZnRXM0Mtemh3OGVXTFU1MUdheGk0VGtqRU5aUE5rbw?oc=5",
+      "source": "Masrawy",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T04:00:00.000Z",
+      "originalHeadline": "وزير خارجية جيبوتي: تدفق النازحين من اليمن يفوق قدرتنا على تلبية احتياجاتهم"
+    },
+    {
+      "headline": "Saudi Arabia and Ghana are discussing enhancing joint cooperation",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQX3FVd1I0NHVCdjBzSXlPSDJ6alFiQ1Y2el9qcmQ5RTk5MGpBRmdwcHN4ZEdjbnFNNlVTMzdiRVM3RWppTmRQOU5OMDJ5TTRuaXZzSFY4YUtILU9tTF9QOVozVl85UkctVU9kQnpoTDNMMXBnT1dQclIydTZ6S2VEYTBKZHRDWW1jUTBvRzhMbm5WYmM4SC0zVHpKWGcxeXlsVmFabXNxd0xYTEozQktYSFhrOUYwR0J2ZEE2RENLMHFNVjJfVVAxajZUZEVQSnNxSkQ5cWlMR2RySDE1STJhVXZxVHdEdlV1ZlIzb3hWcUxuUk5pbVBTeUo5VFZWdjJCZVA4VFZKazhfWHAzYlhEWVFwMFdvXzhIOUY2WFFucjBuMGc2b1hQT2pJRDU2QWYzcmFJVG1pVXJZNHR0bmZlUnBMVVEtak54QlNjQk9kRjJ5alBzLUdUUW9vU1V1ZVpQOWhiQnpVelp6bjZiSDVkbmNqT2JlQm4xWWlvTzhhU1BNNXZJaFhPRGVEZjMzZy1M0gGLA0FVX3lxTE15dkZ5bWVxbHhvdk5UMXJnS3ZkYXAtVDNXaEdzUlM0SnVVakh3Mm95LXBfQ211QVN4ZGhHa1JSZGxtdENrYUVrckdwM0ttdENVc3FPMkxFYWVTMHpMak1ldjFPQWgwMzViZHdiQlNIYktUM2tIMWlxa2NFelNsenZDcFFEbTdiSlN1N0Y0UnlqR0lTXzVjR3lsRHZ0SU5MRnRMYTBLdm1FZVhZSlN4QzVwRTdjdl9vVlB1MmpUYVhsOVY2NUhGeV9mVGdCTWVCcUtaenh1d2F0QlR5LUdXTXF6RWtrdFZnRmlQXzdBai1OV013WmFsTk42bS1CdU1iV1ppVVYwd1JFTEJiN2ZNWFZRWUVCai1sWmdoWUpQM19SNmcxY2swOVREbndWZmQydzZzYW5LWXJrRjBkWDk2STZEVDFkcFUyR2RQLXFhWWM3cENIdDQwZHRxSmR1UUxnM3lzQ0dramJma0JIazlTNFJzUEN2UWpaaGpuWUhPYUh2RjBfQ0JWWHlvSE5B?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -173,17 +298,6 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-27T03:46:51.000Z"
-    },
-    {
-      "headline": "Djibouti: We cannot meet the needs of those fleeing Yemen alone",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQMXg2c3VQdzBTb2FlbTNPUW5FSWxYY1Q2Z2psZS1yWFlnZWNSMU1TQ2dndGdzTGxYZktlYjFJMUM1Z2lXaFBydE4tYWxEenJ3MFlRQ2hwMDZ6NUwwQndXdGxia0hmWTRKRElNM1A3cW1la1I3eVZQS3hxdEZSNFBQSzFHWU9vWXdhNW9ockpwdXdjQXhCTHpFOFBESXZSMjZTZGZKQmp6TnhvWW5VdlRrLVN4cnMweExhUFA5VzA3eTZIRV9OVEhBcFRYZU4xVE5QdkJNOG96SEdBM2FpZTdLYW9qQTlFVU40M0lycloyeUN6VnpkWDBVTFAxOGVHYUIxeV90RkhuS1RiWnhmYVpMVzdQMnRhM2ZiWmc2dDVvS0xuYmNkdlVmYU1EbTBnU21CeDJ5dXM1OG10QmVYaGJyVmZSdWhDanU4SFB3eUwxa1YxV3VQUEhodVVsaEstMlhUZ1ZUb1BnMTlSX1NCUEZ0VVAxT1ZFeEVzdU5VU0hnTEhRYUowdnVWWkdBTDF4cHFKcVBhVVpuUDhsbmdFTEMtdm1LcmZ4amRXdW90VWxTODJWWlhPN25WeDZSZ3BmVW1rSTZQZVhlMNIBzANBVV95cUxQa1p1SnVRVlExdWhVSURrX2E2UGc2clVZUkZMV3NDVDhyclFNR1FQZHFsV0xhN2tPWkFtNEQ2dFNHMnBuQTJPWGVWRThDOTU3a1F1STctdndqbTdibnZsN0ZVcmRuRFhWcl9Fck1OeF95NFM4Rmx0VURaRHBNVXlrekd3d3RkTmJ6Zk44UF9SRUFNYXdqd3NfZ1h5dEVZT0txeHd2eEJQcU90alFZQlZHaDdER185RVBrVUV3U0RsVHRBTFlQSDJxWEFleTZ5RHgxWXgyZnZyT3dPWjRDY0w1aXZDN0REQnlMZmpSenRlSmp0WklqX2UwWThtOGVjZFg4Mkh2Qi11NXlGaVQxb3VDY29TcUhLenFUNDNaRHZBV3QyZVZzb0l0Yzh3UWlTZkxMZ2EzWFZEY2V1UlprMndjQXlaNVhKOUsxbVRVNG45enpndjJCWm8zTDlJZG9fUmpROXduOElxbktfZDhtOGZtVUFyQXlyMmw0eFVCY3NjWl8xMnhET3d3Z2JSNWxVUkhOcndXMEh2UVNtWVRmWGdJemxyUVBmZTFrZ09JaDNQdHhWY0VYdHd4anNxV0lPbE40cXRjSU4tdHZUR2JK?oc=5",
-      "source": "سكاي نيوز عربية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-27T03:38:11.000Z",
-      "originalHeadline": "جيبوتي: لا نستطيع بمفردنا تلبية احتياجات الفارين من اليمن"
     },
     {
       "headline": "Sayyid Badr meets President of UN General Assembly",
@@ -206,7 +320,7 @@
       "date": "2026-09-27T03:31:33.000Z"
     },
     {
-      "headline": "موعد مباراة اليمن وقطر اليوم في كأس الخليج.. والقنوات الناقلة",
+      "headline": "The date of the match between Yemen and Qatar today in the Gulf Cup... and the broadcast channels",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nZEZxd0I5al9xZG1INktRRWdCOXZSQm1QZEF4YmM3UTdSRnZ0ZlFJTDhFcXI3TS1OdnVDRTMybFZZbTRlMFhz?oc=5",
       "source": "صدى البلد",
       "sourceId": "google_news_gulf_arabic",
@@ -225,6 +339,17 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-09-27T03:26:05.000Z"
+    },
+    {
+      "headline": "Djibouti: We cannot meet the needs of those fleeing Yemen alone",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQMXg2c3VQdzBTb2FlbTNPUW5FSWxYY1Q2Z2psZS1yWFlnZWNSMU1TQ2dndGdzTGxYZktlYjFJMUM1Z2lXaFBydE4tYWxEenJ3MFlRQ2hwMDZ6NUwwQndXdGxia0hmWTRKRElNM1A3cW1la1I3eVZQS3hxdEZSNFBQSzFHWU9vWXdhNW9ockpwdXdjQXhCTHpFOFBESXZSMjZTZGZKQmp6TnhvWW5VdlRrLVN4cnMweExhUFA5VzA3eTZIRV9OVEhBcFRYZU4xVE5QdkJNOG96SEdBM2FpZTdLYW9qQTlFVU40M0lycloyeUN6VnpkWDBVTFAxOGVHYUIxeV90RkhuS1RiWnhmYVpMVzdQMnRhM2ZiWmc2dDVvS0xuYmNkdlVmYU1EbTBnU21CeDJ5dXM1OG10QmVYaGJyVmZSdWhDanU4SFB3eUwxa1YxV3VQUEhodVVsaEstMlhUZ1ZUb1BnMTlSX1NCUEZ0VVAxT1ZFeEVzdU5VU0hnTEhRYUowdnVWWkdBTDF4cHFKcVBhVVpuUDhsbmdFTEMtdm1LcmZ4amRXdW90VWxTODJWWlhPN25WeDZSZ3BmVW1rSTZQZVhlMNIBzANBVV95cUxQa1p1SnVRVlExdWhVSURrX2E2UGc2clVZUkZMV3NDVDhyclFNR1FQZHFsV0xhN2tPWkFtNEQ2dFNHMnBuQTJPWGVWRThDOTU3a1F1STctdndqbTdibnZsN0ZVcmRuRFhWcl9Fck1OeF95NFM4Rmx0VURaRHBNVXlrekd3d3RkTmJ6Zk44UF9SRUFNYXdqd3NfZ1h5dEVZT0txeHd2eEJQcU90alFZQlZHaDdER185RVBrVUV3U0RsVHRBTFlQSDJxWEFleTZ5RHgxWXgyZnZyT3dPWjRDY0w1aXZDN0REQnlMZmpSenRlSmp0WklqX2UwWThtOGVjZFg4Mkh2Qi11NXlGaVQxb3VDY29TcUhLenFUNDNaRHZBV3QyZVZzb0l0Yzh3UWlTZkxMZ2EzWFZEY2V1UlprMndjQXlaNVhKOUsxbVRVNG45enpndjJCWm8zTDlJZG9fUmpROXduOElxbktfZDhtOGZtVUFyQXlyMmw0eFVCY3NjWl8xMnhET3d3Z2JSNWxVUkhOcndXMEh2UVNtWVRmWGdJemxyUVBmZTFrZ09JaDNQdHhWY0VYdHd4anNxV0lPbE40cXRjSU4tdHZUR2JK?oc=5",
+      "source": "سكاي نيوز عربية",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T03:21:53.000Z",
+      "originalHeadline": "جيبوتي: لا نستطيع بمفردنا تلبية احتياجات الفارين من اليمن"
     },
     {
       "headline": "Oman reaffirms its approach to peaceful, consensual solutions of disputes",
@@ -246,6 +371,18 @@
       "language": "ar",
       "date": "2026-09-27T03:00:00.000Z",
       "originalHeadline": "أسعار الذهب في الإمارات تستقر مع تحرك الأوقية قرب 4274 دولارًا"
+    },
+    {
+      "headline": "Middle East issues and the Hormuz crisis top the speeches of the fifth day of the general debate of the United Nations General Assembly",
+      "url": "https://www.bbc.com/arabic/articles/c68044nzp0vzo",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-27T02:30:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة"
     },
     {
       "headline": "The suspicious similarity... Did Weber steal Al-Biruni’s intellectual achievements?",
@@ -282,18 +419,6 @@
       "date": "2026-09-27T02:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "العنكبوت الكولومبي في قبضة الأمن الأمريكي"
-    },
-    {
-      "headline": "Middle East issues and the Hormuz crisis top the speeches of the fifth day of the general debate of the United Nations General Assembly",
-      "url": "https://www.bbc.com/arabic/articles/c68044nzp0vzo",
-      "source": "BBC",
-      "sourceId": "gdelt_bbc_com",
-      "category": "gdelt",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-27T02:30:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة"
     },
     {
       "headline": "Drone video shows beached boats in drought-hit Serbia - Reuters",
@@ -338,17 +463,6 @@
       "originalHeadline": "أسعار الذهب في قطر تستقر مع تحرك الأوقية قرب 4274 دولارًا"
     },
     {
-      "headline": "The King of Morocco denounces the Houthi attacks against Saudi Arabia: They cannot go unpunished CNN Arabic | CNN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk9remRmRk96bVcxMXNWLWV1VU9ZbFV6VXUtTDRsX0ppSWRqc1V0cEV5Mzl2V2oyUjRvcG45YkFERGZiNXhtUVdPT2FmbzRBblpaU3RjdkU0SUpjT283Nm9rOER3ZGNYMU9MZUdYVEhlSXVubEliMlZpaEY3eWtyVDFrS2xZdjJiV2JYc3JSNHFhc2xYTjdySXllMVBvbnA2VnBCNDNXRWhsbHFjX2xZbk1pNA?oc=5",
-      "source": "CNN Arabic",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-27T00:56:48.000Z",
-      "originalHeadline": "ملك المغرب يندد بهجمات الحوثيين ضد السعودية: لا يمكن أن تمر دون عقاب | CNN Arabic | CNN"
-    },
-    {
       "headline": "Lavrov launches an initiative to resolve the Hormuz crisis and meets his German counterpart after a break",
       "url": "https://www.aljazeera.net/news/2026/9/27/%D9%84%D8%A7%D9%81%D8%B1%D9%88%D9%81-%D9%8A%D8%B7%D9%84%D9%82-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A3%D8%B2%D9%85%D8%A9-%D9%87%D8%B1%D9%85%D8%B2",
       "source": "Al Jazeera Arabic",
@@ -384,17 +498,6 @@
       "originalHeadline": "منتخب قطر يواجه اليمن لحسم التأهل إلى نصف نهائي كأس الخليج"
     },
     {
-      "headline": "منتخب قطر يواجه اليمن لحسم التأهل إلى نصف نهائي كأس الخليج",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdidmQ2dGdzWFBZNnB3STFSQWNkaERuQ0Vnb2xrRjRMT19VZE93SVBPckVBRkdpOVBVbE1jWlppRmw3VF9yM1BYSWV1aTU3dG1QX3ZEVWJPdFpjSklFUW9NWDA3Vlp5c0R5SG5lUGtCS0twQzhkYXVVSUxUS0ZtZUVUT3VyWV9SdVFHNTN3TW9VZ0Q0elRQZXJQckpOR2c1b2hWM1J6X0FCREtTa281cEJEUnZiekNFclBJNVZiTTVoZTRUSmJVOThTWTVuZzBmcUlMZkZRckQtVGZrY3FSUHdwVmwyaERiUGlPZ1R2TzEwOTAtU2lBczlqamtRSUhxOTNXLXdmUElQSVV2S0JKazdpX05ZcnZMOEdCWW5hUDlCbGV5dms0dTF1OUlpWENYSmZwVVo0WDJHY191WEhxWGJ5MUhzTGV2SHhLdDBhYnFRVFZUbkVJbFR3N1hfVjlURlBNNmNMUUx1eDVfMkdpeGg5ajk1Mm01VEVxaU80YWU0WXNrSlBIcGdJVVhBeWJVdG9GNDQwa0d5LXZJbmZWODhkcjdFVzFuT3c3LTRVaHVmckNzckHSAbADQVVfeXFMTVVIWUZyVlM3VmpoV3k2aTN0NTA1RXlFLXpNdEhMdmxWby1wbzl0TFg5VUFwb25XbXdBWDMxTGQwcGVPNFBXQlp1Ri1SanFCaWN5eHpUelZhNEdjQlZnRUxXYTJiYkJzZ25aYmV5R1d5OUdIN2FqaFNPTkdObFV0RThMZXRGNGFLdE5Yd2luaGFnM3BPVTEwSWpxeWVNYnBITy1HQ3l3R0lwY0ZnZzh6ZWFRQ01ibEFKWGFldVFoRVhCVmV5TTdtSjd5cHQ3Wlh0TUFvT2xaZXVFQ2hGeU1wbERxUHhGcExpdHpyUGRIa2ppTjN1RFhWUEJtcTYxeGRKaFE3ZXI1SFJpMU45UXlwSXlycFU5T3dzYVp5MDBNNGVmTTVkWEVtSmRSSWZUSWprN2dEdWp5YTYxb2dYbTdWaEMtNXhDWWdJcnBPWUp4SUtvWDBqNWx5enFJVmgxRVlVUUNpRGxqODVOeTNWZmlsX3NsbFNvVDJSZ0hmcmg0OWtCMFpKckRFZG8tYkNmTDRpcEJkWG55MEthTVltdGpYODlIWjI4d04tc1V0ZWJ0MUdP?oc=5",
-      "source": "اليوم السابع",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-27T00:00:00.000Z",
-      "originalHeadline": "منتخب قطر يواجه اليمن لحسم التأهل إلى نصف نهائي كأس الخليج"
-    },
-    {
       "headline": "Deputy Minister for International Multilateral Affairs Participates in Meeting on Somalia on Sidelines of UN General Assembly",
       "url": "https://spa.gov.sa/en/N2686705?type=news&uuid=N2686705",
       "source": "Saudi Press Agency",
@@ -415,17 +518,7 @@
       "date": "2026-09-26T23:06:00.000Z"
     },
     {
-      "headline": "Masoud Pezeshkian - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XcGRTYi1mbDFjNkJVc3F1bmRNU1NVcDYzbDNhVEJpc1F0T0M5d2VSaTNNb0ZiQ1h6UE5KYjJRR3JwbHZrei1mLUM5QkZ5U2NZSUE?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-26T22:49:27.000Z"
-    },
-    {
-      "headline": "موعد مباراة عُمان والكويت في \"خليجي 27\" والقنوات الناقلة",
+      "headline": "The date of the match between Oman and Kuwait in “Gulf 27” and the broadcast channels",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTzJ0VXh4ZkxxU3N0bEM1d0NZRnR6cjZUel93MHNQT2ZXM1hYcWp0VFpEWmVPRFhyMHBZMjVfYmdLMG1LQnhoMjA1NG1VYUh1Rk5YLUhNcmJhcXhrNVNUZ3g5QjNhLXdEbTFQOG51V1FBX2JKYk9sQU5QX3JwMjNOdDZOcHJtSHZQQmZDSkJrTzZTM0w4QWRIZGQ5YWxOYUljQmtSQW1ZUENXUjd5cFhZUUpFTE5laXJ5TUhHZzNnWXJsRVpfVzdtWHk0T0RodFpPd3lVazdnZkZqNjJ4MGVnRGkwQlAtaXlnLVVPZ3hSUlBSNThPaHZhUkdaX0p5RkctNDByX09ham1BWTVoZzYycHc0RlBMbkI5cnhmbTR2TUVrNEJ2cElSMEtvYUNFMXdONW9mT19XZmZfaG93cURr0gHEAkFVX3lxTE5wLWhZUDRSY2U4NTZBdnJLeTNnZmRqcGF2Nk9GamJzMENUd0Z1TE92UFpuLW9BcHlWczhvQUpJT1NxdGhIUlpuUm5kWlhNZTh1TzBleGZRQnRRSmVjYmFWNFk4eHkxdUMtZnVGdnJwYi1Lek1aWmxhd3VudWNsWHlFVU11d1lvTkFXX1pkaUdUSmZyTTRrV2FmeTYyU01qOU56elFCYXI4OHpkMVEteG5pbG54SHY3VVNPdFpKUkN1UDVKMVh6bGZKSjZoMlRySGtaNGRhYXpCTU5fNUFVckt2M3lHYy1hWlhqa0pPaEpJUW5jY1JZT1hNM0lRTzdtYU83dU9hQUF6QlFyWWQ0a0NlSmxyX3hTR3R1eWFMWnd6aVRsVk9xWE5QOHdzNm5uUUdweTBZZG1kUFZqck1UTl9OdW9RWQ?oc=5",
       "source": "الجزيرة نت",
       "sourceId": "google_news_gulf_arabic",
@@ -447,16 +540,6 @@
       "originalHeadline": "موعد مباراة السعودية والعراق في خليجي 27 والقنوات الناقلة"
     },
     {
-      "headline": "Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-26T22:41:25.000Z"
-    },
-    {
       "headline": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
       "source": "Reuters Gulf",
@@ -476,6 +559,26 @@
       "language": "ar",
       "date": "2026-09-26T22:27:43.000Z",
       "originalHeadline": "السعودية تدعو لضمان الملاحة في هرمز وباب المندب وحماية أمن الخليج"
+    },
+    {
+      "headline": "Masoud Pezeshkian - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XcGRTYi1mbDFjNkJVc3F1bmRNU1NVcDYzbDNhVEJpc1F0T0M5d2VSaTNNb0ZiQ1h6UE5KYjJRR3JwbHZrei1mLUM5QkZ5U2NZSUE?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-26T22:27:38.000Z"
+    },
+    {
+      "headline": "Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-26T22:24:10.000Z"
     },
     {
       "headline": "- apnews.com",
@@ -836,7 +939,7 @@
       "date": "2026-09-26T19:12:11.345Z"
     },
     {
-      "headline": "‏عمان ضد السعودية.. الأخضر يتقدم بثلاثية في الشوط الأول بـ«خليجي 27»",
+      "headline": "Oman vs. Saudi Arabia.. Al-Akhdar leads by three in the first half in “Gulf 27”",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxPa0NXNzUyYm9BZE1lakl5WTVBbWJaU2RFTHRPU1dueWJWRFVaVEMwYm1FN1lmU0N5dElJQ2VydkhnOFhNNnVKRjdHdXB4Mnp1QTJndkhrbWhjLVgwd1U3QjRBdGlLS0IwMVdVanJMd2ZvQ0FnQlFpbUdEUVF5c0k4czNGNHdqSHdXd0lvMTdmU1pKeDVQVW9CSGlCUWxTRUpQeFgzX1V4ZVF2X25qeHVqRTBtY3FvZU15ckJiM1FEbUEwZ3g2QmF6LTcxTXhaVWtjSzhxRTJyTzV4WUlFR3g5VUdzRm1TTWNNZWE0RmlfSVdVT3VFa3oxbS13RjFIalNNeHBacldMTVRaWnhtb2x2MGZoT1ptYUNDN2VONmhqUzZhWlE3RlppbnNHUXNNSW83eGNTSjduVnNDeWdVNUlKRUFFTVBZR1liOEd6VjB0YmpVQ2dvQXMxS2RSeU1XYkpkbVo2UHNFSDhCVmE4WnpLYkh6NGJITTZ3TDdGZmgzQVpLRVFNdGFFdEhjZERwQnItTkNkekZSaHJURmwzdGRVOWVPYm5OTU4wMUNIOTI5YllmV0JKZ244NjZGb0JvczEtN1NZeXRicklOWnhqSHhVNTgwRGFDRlVJM3JBOUVNY2RuU00tSDZhTFQyeUR6VXJmQTdnQWtld2djZU85dTBGWFd2VDE0ajZLeWdEVzllQnZPZ9IBjARBVV95cUxPR3dsTFJiQmFRZ0RxTEp0RWxHZk1BRzV5b2NRb0F6d29SeFRUdkVad3hac0lpTUpST09uQkpWYVJUQ2RqSGlBcVZTNWMyMk5PY2lCa3U0dVd5ZGsxbWk2Vkh5SVlscWVSeXFtOUtmTHN3ZVFUVUM2OUdzb3F5MHFDbHkyX1NIc2R1YWV3ci1qVWl0a210ZGdaVFBTcVdkWUpDVEsyalhDWV95Z1lpa2FpLU1aN1JoSXRlQmtwYW1nQ0JoLWlkUFJ4MGRDT2dYcy0ydXF5WTVnX2tFZnNkX3AwYlBidG5QaDRGRjI5bzNWOUVmRFBiODNZb1BCRVhTaExfYkJOaUpGR3p0TVpLdmJHaGJrYnl5Yy1HZ1hrMlhwaS1CODJwN3pJZ0JnbmZkREZlY1NDTUtBendmd21IYmM1aktzcFFQdUVxbm0xTXh3WDlld19COUlncEcwZWtDLVhReURlLW5admNUWENFSjYxTHU1V2U2clFSbEtYZTlzSl9va2d4eVgxTkJPNjBWczZzX3ozek1ZOE1KTVdkSklTanhIeURoaVRPdTJ1eFJ5TkN3WHA1YnNZUGV4OXFRT1dMbGtpdkNScVo5V3VaRTBtMVlkcXZvRGFIOVVqUFdJczhEZi1aM0pDTUVSanBRVWUyZmhpcGxlZ0xuaXNrN0xnMjJManBONHp6SzhDQg?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
@@ -991,7 +1094,7 @@
       "category": "wire",
       "country": "Wire",
       "language": "en",
-      "date": "2026-09-26T18:14:37.000Z"
+      "date": "2026-09-26T18:13:35.000Z"
     },
     {
       "headline": "Ranking of the first group of Gulf 27 after Kuwait tied with Iraq",
@@ -1204,6 +1307,16 @@
       "country": "UAE",
       "language": "en",
       "date": "2026-09-26T17:09:19.121Z"
+    },
+    {
+      "headline": "House Democrats plan vast oversight of Trump administration. Impeachment is an option - AP News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-26T17:09:00.000Z"
     },
     {
       "headline": "Summary of the match between Saudi Arabia and Oman (3-0) in the Gulf Cup “Gulf 27”",
@@ -1787,117 +1900,6 @@
       "country": "Oman",
       "language": "en",
       "date": "2026-09-26T13:31:01.000Z"
-    },
-    {
-      "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-26T13:20:42.000Z"
-    },
-    {
-      "headline": "Burjeel Cancer Institute marks Childhood Cancer Awareness Month with family-centered initiative",
-      "url": "https://www.wam.ae/en/details/c2fwawa-burjeel-cancer-institute-marks-childhood-cancer",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-26T13:12:04.409Z"
-    },
-    {
-      "headline": "Munich picked as Germany’s candidate to host Summer Games - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRThRWXlKNHNXZVEtbHEtOXpSV2c0X3hmcVJucjV0YmpnSkZlaGVIcXg5enBVNTRENXFQb1ZxYjZiVmVlLWRuaEswNDZxVUZsXzd4enNjVkQ1TktIX3QweVMxNnpqN0QtbTNvVUR5STZ5VUs5U0FQcmZ5RWZqTjUxZXNQaUIxbEhpYzFiSWlUekpoVnFmeTQ3eQ?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-26T13:11:43.000Z"
-    },
-    {
-      "headline": "ADFD highlights investment in sustainable tourism to support economic diversification, local growth",
-      "url": "https://www.wam.ae/en/details/c2fwaw9-adfd-highlights-investment-sustainable-tourism",
-      "source": "Emirates News Agency (WAM)",
-      "sourceId": "wam_api",
-      "category": "uae",
-      "country": "UAE",
-      "language": "en",
-      "date": "2026-09-26T13:10:11.716Z"
-    },
-    {
-      "headline": "American intelligence assessment: Saudi Arabia has not ruled out developing a military nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxNekdXaDcwcjA2UkFBTXk4YVBXdUsyOHlLSGJLRllTYjhWRFNncmxkT25iaHREb2VoWWNJbzFFNHdRaWFEd2R5QXBTS3NIWWtHZDFhT09Sbjd5Y29yWTJaQ2ljYTVSQTRjNmdBOWtnalhIN1dNY2JaMFhadEN4TEtDZzAydVlBUUpEeUxNSXRGakNkWDJmZml6bTdkTmJKWVV4MnRHNmRiNUdJUHRJV3FBc0llMVhFdFJQVzY1TjJURWFUMlZtUGhJZ1Nxb3R3N0RINjNjS21hUTN4Ri12aFcwVXJjNHpHQXNVY1o2WU9Mb2RXN3FxWU13LXl2dWgtWGhGRW5rQURRdmVRX1pkU1VzSFJhVE5kU0laTHBsNE1uN0pUYm0xeWlUN3lpT0lhM1lIUjJwY2EyTXIyMkFySG45a0ZUQzVSVTBval9Fam1uUVR0Q3Y5Slh4dGdsNGpVb01ERnBEbkRGcmJ5OGFSRVFPc2R4OEtuTURBd1lzMXF5Z2FoQngybmJaM2ljaVB2WDd5WDRMSnFCZnlHS2oyUmRLRHZxZWcyOTAzcFBkb0NzNk1OaTRoeHJhYWw2eTFwYzFZMXl2RjNFZWRyZ1YwVDNMMS1yVDdJd1lFZVkteDFodHRhZUNJZXp6ZjczTlZ1YzRrMExueTFaVTJacU1KM0k2STlNS1lIWFAyWFRuVkVJeWZ4U2Z4RnZKc25XTy02MlJNaUtPRzBqUDBGYU1mS3BwMWZyWW0xaW9XZGJpN2VnNjJ0bHFwdVUtUW5pTENQYk9wTlpaRUs2MkhHek5BZXp6TnJRbFljMlgxZm9zbkk1MWE3bU45MTRiSC1Pbmw?oc=5",
-      "source": "مونت كارلو الدولية",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-09-26T13:05:30.000Z",
-      "originalHeadline": "تقييم استخباراتي أمريكي: السعودية لم تستبعد تطوير برنامج نووي عسكري"
-    },
-    {
-      "headline": "Government continues to monitor prices, markets and supply chains",
-      "url": "https://timesofoman.com//article/177382-government-continues-to-monitor-prices-markets-and-supply-chains",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-26T13:04:55.000Z"
-    },
-    {
-      "headline": "Oman participates in meeting to defend international law",
-      "url": "https://timesofoman.com//article/177381-oman-participates-in-meeting-to-defend-international-law",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-26T13:03:39.000Z"
-    },
-    {
-      "headline": "Thailand: Bangkok flooding triggers disaster declaration",
-      "url": "https://timesofoman.com//article/177380-thailand-bangkok-flooding-triggers-disaster-declaration",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-26T12:59:55.000Z"
-    },
-    {
-      "headline": "Peace is most durable solution to forced displacement: UN refugee chief",
-      "url": "https://timesofoman.com//article/177379-peace-is-most-durable-solution-to-forced-displacement-un-refugee-chief",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-26T12:54:47.000Z"
-    },
-    {
-      "headline": "House Democrats plan vast oversight of Trump administration. Impeachment is an option - AP News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-26T12:54:39.000Z"
-    },
-    {
-      "headline": "Oman wins bid to host the 23rd World Wind Energy Congress",
-      "url": "https://timesofoman.com//article/177378-oman-wins-bid-to-host-the-23rd-world-wind-energy-congress",
-      "source": "Times of Oman",
-      "sourceId": "times_of_oman",
-      "category": "oman",
-      "country": "Oman",
-      "language": "en",
-      "date": "2026-09-26T12:50:13.000Z"
     },
     {
       "headline": "Eleven horses line up in Poland tomorrow for UAE President's Cup title in Central European Derby\n\n#WamNews \n\n\nhttps://\nwam.ae/a/c2fwahw",
