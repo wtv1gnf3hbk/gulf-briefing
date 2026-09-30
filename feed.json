@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30T05:31:44.553Z",
+  "updated": "2026-09-30T05:35:07.708Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "Weather Forecast for Wednesday",
+      "url": "https://spa.gov.sa/en/N2689339?type=news&uuid=N2689339",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-09-30T05:15:19.000Z"
+    },
+    {
+      "headline": "وزير الخارجية يؤكد دعم مصر الكامل لأمن واستقرار المملكة العربية السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JRDh3RXRjMjB6VXEwQjV6aUh3ZWVNQ0llRGtFNUNTM1dza09IaDZocS01cnlJRmM5b1BDR3c1MTlSTmx2cjJ4THRDSTVHU0F4cnJ4ZTJ3?oc=5",
+      "source": "بوابة الأهرام",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-09-30T05:09:00.000Z",
+      "originalHeadline": "وزير الخارجية يؤكد دعم مصر الكامل لأمن واستقرار المملكة العربية السعودية"
+    },
     {
       "headline": "Foreign Minister, US Senators Discuss Defense and Security Cooperation",
       "url": "https://spa.gov.sa/en/N2689335?type=news&uuid=N2689335",
@@ -31,7 +52,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-09-30T04:30:53.000Z",
+      "date": "2026-09-30T04:33:03.000Z",
       "originalHeadline": "قطر تعمل على \"سد الفجوة\" بين الولايات المتحدة وإيران، وترامب يؤكد أن طهران \"ستستسلم\""
     },
     {
@@ -45,6 +66,16 @@
       "date": "2026-09-30T04:30:01.530Z"
     },
     {
+      "headline": "Iranians face soaring prices for medicine as the US blockade and sanctions hit hard - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFVKM0hYRU5nbi1RcFpabV9CVHhZSE1pYndNdEtibTVKaGpUZGNXLVc4TWszYzJ4cDctd2dYT3RkWm10enh2MV8xYVgzS3hEOXJXeTg2VTlVQ1phbDN6VEpoa1RBU1l6OHpZSU5idWpOVGRGenY3ZDZBQ3lxazJRY1R4cWNrU0Z0YWd4U09XQkQ4emt6d0RVSTl3WU45Sms3UGVUR2xra21OVEpq?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-30T04:10:00.000Z"
+    },
+    {
       "headline": "ناقلات قطر تعود إلى هرمز.. لكن تعافي الغاز مرهون بإنهاء القوة القاهرة",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4R3Rtd3FFVnc2Qkdkd2lkX2FhQjBvMzhmWmZ4R0hoVENGa0tPMGVodGl1aF9ZTjdZYVRXbFMzYUVKVnpHTUlqemJaTmVzOEgxTkE4U0d3?oc=5",
       "source": "إرم بزنس",
@@ -54,6 +85,16 @@
       "language": "ar",
       "date": "2026-09-30T04:06:25.000Z",
       "originalHeadline": "ناقلات قطر تعود إلى هرمز.. لكن تعافي الغاز مرهون بإنهاء القوة القاهرة"
+    },
+    {
+      "headline": "Republican redistricting in Texas and Florida may not turn out as Trump had hoped - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzJVMDNSYWJ5allnZlVZREFyMlVaZjhaeEVTWE5FWWhDbW00eFBZVmhXMHFWaGpGaVZRR21vOXdXX3h2Wk5vMFZWdHRGRHoyc2s3eWdfOUNyRkFjeDBWaTVzczdFOWpjWnNXZzFvZVAtRDMzVXNMMUhaWDJkWWFNdDBhUEN4ZEI1MXV4VjJSaEswcUJOeVZXS19JckxXdi1Nc2RBaVQxcTNMNE5Q?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-30T04:02:00.000Z"
     },
     {
       "headline": "الإمارات: استمرار احتجاز كاتب صحفي منذ عام",
@@ -119,8 +160,8 @@
     },
     {
       "headline": "قطر: المنطقة بحاجة لمعالجة 3 ملفات ضرورية لنزع فتيل الحرب.. وسنواصل الوساطة من أجل السلام",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQNFJncnFVR0VkeGFrRG9HSlNXcjIxdVg5UjBIbVVVTEpWbHc4U0EyZEU3UTlCUFpRMFpCUnlCMUQtLXRzUnFpWWQ0NTZPbjZUYnNoZ2tHSGRrY3NvaFJwa0RxQzF0SEM1UGt3WnN0RW5HNUVHWGFyZ1ZEbmxkM1NoejR1a2hSdkE1UzU2MDFLV1h0aW9NTW9Oekl2M21xZFM1LTRnek85NzlQeFdfcHlmX2J3NmxtWkswLXA1dkNaVXVDd2NkSDlLNU03UjlvOWdsYWxmMFRUekFCdkdsajgtSjZlbjI2LVpoQ3lDYzUyVVlXa0RCMV8tYmNsa3pEUzNrSXd5X2ZHcjZSdFBPc2puSVBGRV9vUXp0bW5PTFVnakMzcVN5NHRaazAxMDY0SGFRNURLVXFVN3RTUkhyTXRJNThWdHFrV25XVVVBVmZyS2VtbUc2a192MkxNVkJmRExCNTZkZ2FaYWZRa2UxYUk2NU5ER1pBS1BRQTgyRnlmU0dpQnVGU1RDaHFWZ2ZSblcyV0gzaXF1Mm5haGJwVjd0VDRPRW50cUZvMU5ubmFfWjZUU0ZiTlBaNk16TlI1enZtb0JtSDhEemlRaEhCMldvQjFFSkViMUF5WVVjZ0Y2RlVCdWJ6VFBVY0NxQmpGRkN0dTh1VmhCbXoyZVkxSlptUmpMUVJtcW1JT2tIRl9sUHUyZjNmZVJrdy1YUDVuQ0hpOFo4ZDVrZlBYQTI4XzlsX1JRTW5nbjJoRHlZLU9EUmYycjRMNGFDWmJNX3JOMTJDNkQ1cjVsN1pfbEZwdnZ6ZW5CcEZOQnNHcFZvN2oza9IB0AVBVV95cUxQWlVZaWtTTXhfVkZrLThaUXpIQXE5TzFCNW1yNVpZWGxJM0pOa2UyaDZoYm9PeDQwQTZkOTY5RUFLdGo3ZDgwcDdCMjRsTHdFYkx0ek10WXNXUHVrSVlUbVlla2Q0aVk1dGxHYklGam9Bd3FzeTQxZ1pGQTZIZ2NsQlpoX0NyZWFZTldXcnNMT1lBb1hmdXItbnhMLUZrS3BwSjF2ZmJFZXY2OFo5RTFYWVBNUE9ldlhRdGtkNXJ4TTNfS0NYQmUxajJiYVNMZGZKdjhLc2ktQV85V2lXWXB1ZHB0MTV1UFpxUEVucE1WWk9vNmlManZYa1ZzSUlGN1Y3WmlBYnVidXNDRXVsdkpKUk9oMWRyWm10VGpWQzJveTR1X2RxbW1ZVFRLRmU0RmNBb2RQdmUxd18yYktWUmNuRm42Z0tIb1BlY2Vpa3JoNUR2NUJ3YXZqUmxvOHhEa2FCMnFaYnAyMzVCcmlTQnFVYWNkRXE1NS1BeHF5NDRfQ3REeVBJZXQ4bmktc1hxVGZDNXJKMl9BSkxqY3FWc3RqWGRTaFVyVDF1bnBwYU5IVHZ0UnpmdFRnaF9pZEJrTGdVYU1TM0pFUkc1RmJ1clJ1YWYwQjhpM2ItQ2lFOWxCMmVZc1FlMEZ6VWg5UWhiYUtZczhPZGtlY1lobkNxOERidE5RVEV6bVBWdTY5UTlxcVJ4cnNseGs5RjRhMFJqNEhUamUyanN4UGlWUGIzaU42dnFBcFFXNnphVDVhcDEwcFBOV21qaGZZb3FiMlFhZmZPQ3ZmTlhSeXUwMEdyRnMxMzRLOE9rOVZPMnBsRkxSdTAzTS1uMVFaMDc2LTJmcFlwSU4yM1pEa2oxYnhtWTZ3QXZGTHY3UlRCczhLbHNmcTZxdmhiemNDcmZiY0lqV3QyNjZiaW1DU2dpb2J3RFhEeU5aZjZ1eG5LYms3NjhTNVg?oc=5",
-      "source": "Masrawy",
+      "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxQd2lILXFyWHRQX01CRGtKQ0xxN3pxazhnNGI5VDdTNXF0Rzl2WlVUckVrVDhQWTFEclh5NVJ1MmlIVk40YkZkVXp5cFlTeXRKdWx6c2l4ZUJ3OExGeFBBelFKclRPR2pWSHdSLVQ2dGRJQlBCRzRyV2Etd25SLUFoVzlneFR6ZVZ4SXpIS1FVUm9MSVFFS2dWa2J3dHZwZFBVX1JWVGZSNGFrTV9DSUpLNWhNRm9kdi1xdlByU1ZrLXd6aktwd1BLVEt2Vk9oZjBUajI0SFNLOVBFWVF1S1JFVE1OekRGaTJ2ZWpGWmJBdHhlQ2hma3Q3ckh3MTJGUmVqQ1hkUVlXWTY4VTI5SHZqSUVVM0k1a1BwWWtQLXFfeGt2SzZCajI2TWZYZzh0YVhkRUhkdmdXc1B4YVhKZmtOSmUtRzV1aUxIa1g4enhWMDlQcThTcXlKQVlEaFJEWjFyV0VnU0J1czhhTHJic05oVkJxUTFjMTR5OXhvczBhSjNPRnhFbkt0NW1IcXQzckVpUlpULV9oRlhYSHpTNmhQbVM1YnY0amVBSnF0Q0lwMldtdUJXWXM5alYzRDBuSWt2QndaY2FPQnJIWkFvUXdNdUpEcFRGdmtnbTctS3QyaFdHdm1BdjIxOEhjbkJBU2lQREVvbzNQTWJuT1Y4bTVSVnl3Y0w2X04zWC01SEZNYXlKMnpHUERfMnYyd1N5bHlGc3puWGgtZFpVaDZvNGctM2FqT2wySGNESndKMG4xeUpRZ05fWmdQLXJxNnFPSmk2N29wZG15aEZCMWxQd04xeDU4ZXRhV3NVaVA5ZGlMdjNjYUs0RUwxWXN3Vm1VUzdTYW9vSkVYeGQyNnR6ekJ6d25JOU8xWENrRm80cTFsVTU4aWRjSGRYQks4ZHh6dWoySmRKd0RBS25TbWtwaFoxZm5qSzQ1ekxpNURr0gHQBUFVX3lxTFBaVVlpa1NNeF9WRmstOFpRekhBcTlPMUI1bXI1WllYbEkzSk5rZTJoNmhib094NDBBNmQ5NjlFQUt0ajdkODBwN0IyNGxMd0ViTHR6TXRZc1dQdWtJWVRtWWVrZDRpWTV0bEdiSUZqb0F3cXN5NDFnWkZBNkhnY2xCWmhfQ3JlYVlOV1dyc0xPWUFvWGZ1ci1ueEwtRmtLcHBKMXZmYkVldjY4WjlFMVhZUE1QT2V2WFF0a2Q1cnhNM19LQ1hCZTFqMmJhU0xkZkp2OEtzaS1BXzlXaVdZcHVkcHQxNXVQWnFQRW5wTVZaT282aUxqdlhrVnNJSUY3VjdaaUFidWJ1c0NFdWx2SkpST2gxZHJabXRUalZDMm95NHVfZHFtbVlUVEtGZTRGY0FvZFB2ZTF3XzJiS1ZSY25GbjZnS0hvUGVjZWlrcmg1RHY1QndhdmpSbG84eERrYUIycVpicDIzNUJyaVNCcVVhY2RFcTU1LUF4cXk0NF9DdER5UElldDhuaS1zWHFUZkM1ckoyX0FKTGpjcVZzdGpYZFNoVXJUMXVucHBhTkhUdnRSemZ0VGdoX2lkQmtMZ1VhTVMzSkVSRzVGYnVyUnVhZjBCOGkzYi1DaUU5bEIyZVlzUWUwRnpVaDlRaGJhS1lzOE9ka2VjWWhuQ3E4RGJ0TlFURXptUFZ1NjlROXFxUnhyc2x4azlGNGEwUmo0SFRqZTJqc3hQaVZQYjNpTjZ2cUFwUVc2emFUNWFwMTBwUE5XbWpoZllvcWIyUWFmZk9DdmZOWFJ5dTAwR3JGczEzNEs4T2s5Vk8ycGxGTFJ1MDNNLW4xUVowNzYtMmZwWXBJTjIzWkRrajFieG1ZNndBdkZMdjdSVEJzOEtsc2ZxNnF2aGJ6Y0NyZmJjSWpXdDI2NmJpbUNTZ2lvYndEWER5TlpmNnV4bktiazc2OFM1WA?oc=5",
+      "source": "masrawy.com",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -150,7 +191,7 @@
     },
     {
       "headline": "موقعة الصدارة.. الإمارات تواجه قطر في كأس الخليج",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNcU5uSmtYOFlXOS1HQ2NMT2pMakZjUGEzaFRneVRsRzczYVE4M2NLZk56QkdEOWxjTk9CWmpTbXFuWnNGNXJSdXBBenFRc2ZUUHFtazR3Q21heTFCTnBscGFoODhiMnVCaFRDeEkwZUc4b3RxbHQwN0RNUXI4S1VZT2kzRVI5QXIyc04zel85ODBmUHVPdTF0aWMyVGVIbzNERjNDbk5rTHJ0NVVFQTRLbjZzLU5MdjdKQlcxeTREaWN2dlNRbzFBWGlQUXBOUE4tMzdFMWMtX25yVDdodld0TVJEaEtFd0dyeVNJWEVJa1Nma2NMUUplSk93LW9CSXpHdGI0Rm9MMi1GS1BDakF3Ml9US0xJcV9vT0JDUVI4QkYyMnhDbjlteFJTVHNoemMwSU5QRUhFRGRIUGxUejVUN09BcU5zUXJXb1lwSHZlTlF5SjBaRDZ5a3hWemhKcmVVbWdBaldjRzl4SFJ4Nm9LU2lBRFRvN3l1bWN5enpCVjRKcjRubDQ0eHVBejZrRXV5ZzR0RzVicnJrdWPSAZYDQVVfeXFMTnU1VHBYR3NzVU5mY015bFRRQXdOa2FHeDBKcTEtN3BTc3hMa19odW4tejJjczlzN3BDc2JnMUJMb2xIdVV1YlVrTGNPRDNuMGxodGRObklWZ0txc19SWHBBVF84UEd6ZTVQc1B5NUZBYkxPSjNFejBndFNSQzJOWHdVY1BWc1ZMMENXcXlseExUemVtLWhybzBXWWt4aWk2YVRiTllwU2x1UHFWd0xuREhldW5fZXBIb0RiaVhnNldHaFh0T1VxckhJc0puZ1hsV1c5STNpUVVqd1JUbHdTWEdRbkNocENocjNvNGhvY1hudlFzeDRZQWQ5NjcyVkRCUGYtR3lqc3QyVVp5TzNTVWZwYkx4MmdUZG50bTdnR3drTU9sbFBjM3Mxc2hQcmd3U0oyejlWeUd4bUNtYmNQa1BrVEYwNU9Rb0FVRjdRQ3phSnh5ejlNR0trR1FmQUFzUmNnekxLMTFfZUxZenFNak5sQmVuWWNrcUhCdHlxNVpvbXlvbzJ6SXVWalN1YnBteFNLdGZhUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNcU5uSmtYOFlXOS1HQ2NMT2pMakZjUGEzaFRneVRsRzczYVE4M2NLZk56QkdEOWxjTk9CWmpTbXFuWnNGNXJSdXBBenFRc2ZUUHFtazR3Q21heTFCTnBscGFoODhiMnVCaFRDeEkwZUc4b3RxbHQwN0RNUXI4S1VZT2kzRVI5QXIyc04zel85ODBmUHVPdTF0aWMyVGVIbzNERjNDbk5rTHJ0NVVFQTRLbjZzLU5MdjdKQlcxeTREaWN2dlNRbzFBWGlQUXBOUE4tMzdFMWMtX25yVDdodld0TVJEaEtFd0dyeVNJWEVJa1Nma2NMUUplSk93LW9CSXpHdGI0Rm9MMi1GS1BDakF3Ml9US0xJcV9vT0JDUVI4QkYyMnhDbjlteFJTVHNoemMwSU5QRUhFRGRIUGxUejVUN09BcU5zUXJXb1lwSHZlTlF5SjBaRDZ5a3hWemhKcmVVbWdBaldjRzl4SFJ4Nm9LU2lBRFRvN3l1bWN5enpCVjRKcjRubDQ0eHVBejZrRXV5ZzR0RzVicnJrdWM?oc=5",
       "source": "اليوم السابع",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
@@ -191,7 +232,7 @@
       "date": "2026-09-30T02:56:04.000Z"
     },
     {
-      "headline": "العراق أم عُمان.. ��ن رابع المتأهلين لنصف نهائي \"خليجي 27\" بعد إجراء قرعة؟",
+      "headline": "العراق أم عُمان.. من رابع المتأهلين لنصف نهائي \"خليجي 27\" بعد إجراء قرعة؟",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56eXFJaTZRQm1ybkluNGE3eldUbHRta0FqTjh5WDNKdlpEUnRBaGF6QUhMcTZGeGwtR0ZHb25GYmI3V2xUUnl2bzh4SE11SUdYVmJmaUJCenFQWWlrQ0ZOd3FPNHZhMkNaWFdueHJXejUwdmR2?oc=5",
       "source": "CNN Arabic",
       "sourceId": "google_news_gulf_arabic",
@@ -199,7 +240,7 @@
       "country": "Regional",
       "language": "ar",
       "date": "2026-09-30T02:48:45.000Z",
-      "originalHeadline": "العراق أم عُمان.. ��ن رابع المتأهلين لنصف نهائي \"خليجي 27\" بعد إجراء قرعة؟"
+      "originalHeadline": "العراق أم عُمان.. من رابع المتأهلين لنصف نهائي \"خليجي 27\" بعد إجراء قرعة؟"
     },
     {
       "headline": "Iran appeals to US voters as American troops leave Iraq - Reuters",
@@ -210,6 +251,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-30T02:48:00.000Z"
+    },
+    {
+      "headline": "Iran tells the US public that Trump’s war has failed, and other Mideast developments - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-09-30T02:41:00.000Z"
     },
     {
       "headline": "رئيس وزراء قطر: نتنياهو مجرم حرب وتجاوز الخط الأحمر بمهاجمة الدوحة العام الماضي",
@@ -244,17 +295,6 @@
       "originalHeadline": "مصدر أردني ينفي صحة مزاعم عن \"المشاركة في اجتماع مع نتنياهو بالإمارات\""
     },
     {
-      "headline": "Syria Says Arrested Hezbollah - Affiliated Cell Planning Attacks",
-      "url": "https://english.aawsat.com/arab-world/5324131-syria-says-arrested-hezbollah-affiliated-cell-planning-attacks",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-30T01:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "AlUla Skies 2026 Returns with Exceptional Celestial Experiences",
       "url": "https://english.aawsat.com/varieties/5324136-alula-skies-2026-returns-exceptional-celestial-experiences",
       "source": "Asharq al-Awsat (EN)",
@@ -268,39 +308,6 @@
     {
       "headline": "Trump Says He Does Not Know if Iran Is Going to Give Up Yet",
       "url": "https://english.aawsat.com/world/5324109-trump-says-he-does-not-know-if-iran-going-%E2%80%98give-yet%E2%80%99",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-30T01:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Settler Attack on West Bank Village Injures Israeli Forces , Drawing Rare Rebuke",
-      "url": "https://english.aawsat.com/arab-world/5324117-settler-attack-west-bank-village-injures-israeli-forces-drawing-rare-rebuke",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-30T01:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says He Is Embarking on 32 Days of Campaign Travel Before November Elections",
-      "url": "https://english.aawsat.com/world/5324103-trump-says-he-embarking-32-days-campaign-travel-november-elections",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-30T01:15:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says Top Tech Firms Have Signed Accord to Self - Police AI Development",
-      "url": "https://english.aawsat.com/world/5324099-trump-says-top-tech-firms-have-signed-accord-%E2%80%98self-police%E2%80%99-ai-development",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -389,6 +396,50 @@
     {
       "headline": "US Imposes Sanctions on 13 Tied to Iran Weapons Procurement",
       "url": "https://english.aawsat.com/world/5324112-us-imposes-sanctions-13-tied-iran-weapons-procurement",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-30T01:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Syria Says Arrested Hezbollah - Affiliated Cell Planning Attacks",
+      "url": "https://english.aawsat.com/arab-world/5324131-syria-says-arrested-hezbollah-affiliated-cell-planning-attacks",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-30T01:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Settler Attack on West Bank Village Injures Israeli Forces , Drawing Rare Rebuke",
+      "url": "https://english.aawsat.com/arab-world/5324117-settler-attack-west-bank-village-injures-israeli-forces-drawing-rare-rebuke",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-30T01:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says He Is Embarking on 32 Days of Campaign Travel Before November Elections",
+      "url": "https://english.aawsat.com/world/5324103-trump-says-he-embarking-32-days-campaign-travel-november-elections",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-30T01:15:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says Top Tech Firms Have Signed Accord to Self - Police AI Development",
+      "url": "https://english.aawsat.com/world/5324099-trump-says-top-tech-firms-have-signed-accord-%E2%80%98self-police%E2%80%99-ai-development",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -507,6 +558,16 @@
       "country": "Wire",
       "language": "en",
       "date": "2026-09-30T00:24:00.000Z"
+    },
+    {
+      "headline": "US consumer confidence hits its lowest level since 2014",
+      "url": "https://www.wam.ae/en/details/17g878e-consumer-confidence-hits-its-lowest-level-since",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-09-30T00:04:38.550Z"
     },
     {
       "headline": "البحرين واليمن فى مواجهة وداعية بـ«خليجى 27» الليلة",
@@ -845,16 +906,6 @@
       "date": "2026-09-29T21:13:49.000Z"
     },
     {
-      "headline": "Iran tells the US public that Trump’s war has failed, and other Mideast developments - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW5lLTJrXzFqbTNDbGl1WURtOXlhYUVZTkN0ZFo1d0lLYVhWQl9MdzhJbmZBajhVV1dMUUM5N0kwbWxHWTRFRHBJQmozM0dEZmNwaDZRVUdvMmZYdElFelJrTVU2MEZ4TG1JRGhHOVRrUjd5dFhveEpabFFmMVlLX3FRYUdTNnkzYV9WR2xHRUtpV29TSWQ5TGxmaThkM3cxbjdZaFQzSk1Mc1RBWFp5Y0o1TUU?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-29T21:12:00.000Z"
-    },
-    {
       "headline": "فيديو.. القرعة تقود عمان إلى نصف نهائي \"خليجي 27\"",
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNT1A3eFpZQ25NaHpnZWsxMVJrTzZtVXdXNkl6Xy1PRUVQeWJBc0xmbXRYN081ZjlfWVBrSEs2Y2EtY3RFV1J4ckg2OXBwY3Frd1F4M1NLTUFuZHU0N3NPUGo4SHlTc1NQOE04cmhOdnpuUnl0UmNxeG5GSnBadkFUVWRwTlVobGpCcU0yQmZxX0ZFYzNWWDJ2MklFN0YzMktZMGdCOEVaUXh4OTE3UTdCZktMOENoSjZJRmRpdHRndlJ2c2kxZGZILTlmTmtmMTJ5QmpfTFNDR2llOWhjc3Z5QTF4Z1Q3SjQ5cnhzLV90NDhIQlFXUl84UTJLdzI2dHEwWm1TdnlYY29nbThZUWxCT3NNMFdNa0NRTDRyS3M5NV94ZFJ1bnEtdWpoUU5pVk1EZEl2RDJKY3YzaWtYZlktRUU2NUxhc3llcU5xeVAzWTFkeW9rY002SEVNN1BkM1MwVE9FNjJ3TjZIS0RFQy1tNGdvU01JNkVFZnlv0gGAA0FVX3lxTE80MlJpOXZrOVZvT2lzYUFzY0N3ejFFdnRwVUlqN0p4VFJzeUxueDcxUXJJY2ZvSjlLTEZjbmswaTNsQURUNy1FRUJNd1ZHQzd2NVZ0ZGZqQVk1YldnYUFuSkpNVEpLRzl1c2VsOWRCZncwVktTZFk2WXYzS1FIRmsxR3hxZ3dwekh5UnRMMXlkT01UdmZNRmt4REhzTTFFZ1RNak5paXdvYUNQdTJYTVhvanluZ05GTU1NWHFHeEZwT0pVRlFCUW12UU0zRkxWcnI2OVJNekJEek41OE1UOEdqdURhX1BZVl9kYWVyb2k4UW82S3NJOF8tZlpfUmItQWVtZVB0aGRPMUc3SjdSamw4TzZkVjRKUlRZY0FGM0d1YWNXTjl2RWdCOTB5UXlaX0FBZnZjb2JUZDIxUHM4eVp5Z1doalZfekc3QmRKZXRoQ29DaFVUaHRwVVdVTGxWUVB0bXFrVHBrbTZpNmJzWV9tR1ExX2pUZllncndNMGNCVw?oc=5",
       "source": "العربية",
@@ -898,7 +949,7 @@
     {
       "headline": "خليجي 27.. سيناريو مثير يؤهل عُمان مع السعودية ويطيح بالعراق",
       "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYVd1M3NjN1FPRERqMTlPcVVQcm5YSHpPSmxjSFlZc0JtUUFxcW1GNUtaV1ZmX2ZHY1FkUXdoRklQQ1dhRXhkZTRidDI2QlNsSjhMVjdlSjBHVnF3R09OUDYzNFoyMUNiY19ZanFCbWxHcHU0SEw0NlFjODhLSFpIUC1pbkFmRHBDYUhheU9xbFBuX240UzhudE15UndkNWQxRXBnX2p2R0JzUG9fMTZrMGloZHZBQWxFQ2tGZFVhRzJacjNoUzUxa2ZyeWdJQ3N2NjZWOEtaNXBmZ1VFbXBtMVV0dk5Ublk3dklfQ3VvRVRkNm9ocVZzOFIyeld0RHZPRnVjZkc3WWlXZjZUOG5wdnFONTRsb3VRME9kTjdMMW1SN2dpZGdVSXdXcmhmS1l6d3puSVEwbXVuMTRtdjNXU2R3RHhiWXN4RDRXb1l2djRwYkh4T0tSaHlRMkNEY3pyU1ptbnh2MHdfTzdXRHR6ODdaTEcyZWo4dkJWUHczY0ZpS3V3RDJDbF9KTG15dXQyakNPX2RxYXM5RVBWWUk1Z3BQZmlnWHJObEdsOWxzU2p0cU04QkVyMWEyOW5QeVFvUXZNd9IBygNBVV95cUxPT1laNE1xN2dacUZHSGF1QUJDSUJOU29haVpaUXBXU3Z6bDg1ZjhVYnVnVHlLeWxYTXQ1dDcxdkJtZVRQR3pZLWxQM3lUel8wSTNQRjVOcDVncG1mQWZSSHVnRUloNUo1X0l0U2toZlEzNkZ1VGZYWEpLaG9ST25JOUtWdWNoTGNGMXZFMno4ME03YzlQWVBFLTYtX0Y1UEk3QTdVMEdZV2gyX1RrdE91M2JUaURWWGtsOURpeVdJYm1tVnhRNk9ZbUtXNF9DTFFsdmp0dHpBek5XX2pDYlJLRGZqUWtkQ0Y2M1AwUUlnUWhMVmxOWWEzcFNpNDRjV2FwQ0lWTWdpdkxKdzcyQjdtYTYtbmx1ZlNRZGp0SDlNTjY4LUtTRUVORVM0c3MyeW1OejJHcWgtNXI4aERnNkFqVGRMWmdpTFAxTjBJVUc3emZvVWNQbWFUX0FTYnhOb1JOZmh6UGpKZERBMHp0QWx2cXV6ZFhOb1B6NkdPeHNmZkRxUkd2dzJMY0RiUDVpUlJVQURBdHlBVkYzRjg4cElULURGS2ZnRDFmT3k1Nl94TGFrUHk0WTlndVJRV2hzYXAyWmhtLVdKaXE3UQ?oc=5",
-      "source": "سكاي نيوز عربية",
+      "source": "skynewsarabia.com",
       "sourceId": "google_news_gulf_arabic",
       "category": "arabic_aggregate",
       "country": "Regional",
@@ -1637,6 +1688,28 @@
       "date": "2026-09-29T17:36:05.000Z"
     },
     {
+      "headline": "100 Days to Go Until AFC Asian Cup Saudi Arabia 2027",
+      "url": "https://english.aawsat.com/sports/5323912-100-days-go-until-afc-asian-cup-saudi-arabia-2027",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-29T17:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "AFC Unveils Khuzama as Official Ball for Asian Cup Saudi Arabia 2027",
+      "url": "https://english.aawsat.com/sports/5323914-afc-unveils-khuzama-official-ball-asian-cup-saudi-arabia-2027",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-09-29T17:30:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "أمير الحدود الشمالية يقلّد مدير السجون رتبته الجديدة",
       "url": "https://www.okaz.com.sa/people-situations/na/2268465",
       "source": "Okaz",
@@ -1733,17 +1806,6 @@
       "originalHeadline": "الإطاحة بموقع في « البطحاء » يدرب الهاربين من كفلائهم على إنشاء متاجر إلكترونية بـ 300 ريال !"
     },
     {
-      "headline": "100 Days to Go Until AFC Asian Cup Saudi Arabia 2027",
-      "url": "https://english.aawsat.com/sports/5323912-100-days-go-until-afc-asian-cup-saudi-arabia-2027",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-29T17:30:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "300 ريال وشهادة « عالمية ».. ماذا كان يجري داخل مقر مخالف في البطحاء ؟",
       "url": "https://www.okaz.com.sa/variety/na/2268467",
       "source": "Okaz",
@@ -1777,17 +1839,6 @@
       "date": "2026-09-29T17:30:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "السجن 15 عاماً لمحتال أمريكي جمع 400 ألف دولار لعلاج القطط من السرطان !"
-    },
-    {
-      "headline": "AFC Unveils Khuzama as Official Ball for Asian Cup Saudi Arabia 2027",
-      "url": "https://english.aawsat.com/sports/5323914-afc-unveils-khuzama-official-ball-asian-cup-saudi-arabia-2027",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-09-29T17:30:00.000Z",
-      "tier": "gdelt"
     },
     {
       "headline": "War and unrest - AP News",
@@ -1872,62 +1923,6 @@
       "date": "2026-09-29T17:00:00.000Z",
       "tier": "gdelt",
       "originalHeadline": "حسين فهمي : أفلام الذكاء الاصطناعي لن تشارك في مهرجان القاهرة"
-    },
-    {
-      "headline": "من انسحاب 2011 إلى إنهاء مهمة التحالف .. ماذا تغير في العراق ؟",
-      "url": "https://www.aljazeera.net/politics/2026/9/29/%D9%85%D9%86-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-2011-%D8%A5%D9%84%D9%89-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D9%85%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%85%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-09-29T17:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "من انسحاب 2011 إلى إنهاء مهمة التحالف .. ماذا تغير في العراق ؟"
-    },
-    {
-      "headline": "مرآة سيارة تكشف لغز جريمة قتل بعد 11 عاما .. ما القصة ؟",
-      "url": "https://www.aljazeera.net/misc/2026/9/29/%D9%85%D8%B1%D8%A2%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%84%D8%BA%D8%B2-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%82%D8%AA%D9%84-%D8%A8%D8%B9%D8%AF-11-%D8%B9%D8%A7%D9%85%D8%A7",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-09-29T17:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "مرآة سيارة تكشف لغز جريمة قتل بعد 11 عاما .. ما القصة ؟"
-    },
-    {
-      "headline": "كتلة التغيير .. تجمع الأحزاب الإسرائيلية المناهضة لنتنياهو",
-      "url": "https://www.aljazeera.net/encyclopedia/2026/9/29/%D9%83%D8%AA%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8",
-      "source": "Al Jazeera Arabic",
-      "sourceId": "gdelt_aljazeera_net",
-      "category": "gdelt",
-      "country": "Qatar",
-      "language": "ar",
-      "date": "2026-09-29T17:00:00.000Z",
-      "tier": "gdelt",
-      "originalHeadline": "كتلة التغيير .. تجمع الأحزاب الإسرائيلية المناهضة لنتنياهو"
-    },
-    {
-      "headline": "American Agriculture Takes Center Stage at The Saudi Food Show",
-      "url": "https://spa.gov.sa/en/N2688970?type=news&uuid=N2688970",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-09-29T16:59:10.000Z"
-    },
-    {
-      "headline": "Iraq begins importing gasoline via Syrian port to bypass the closed Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjctdFJScmV0YW5oUjE0eFQ3cEFwUmN1Z2J4UzNZS3l5MU9RTFJxQ0t1cUt3LUxpSlR3UUlRVW1OTlNiNmp3V1dZbzVBS0lLVHYtemdJanlmQUUxT3VLVmxfS0drQUEybnBpT0c0WFBtelB1bHJGeG55MGNzREs3b0tuLWZPUk1BMXRZZmdxYTcxbFk?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-09-29T16:56:00.000Z"
     },
     {
       "headline": "Madinah Al-Munawwarah.. A religious and historical status supported by an integrated tourism system and continuous growth in the number of visitors",
