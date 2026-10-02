@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-02T08:04:27.962Z",
+  "updated": "2026-10-02T08:34:15.917Z",
   "itemCount": 300,
   "items": [
+    {
+      "headline": "4x4 Desert Driving Experience Draws Crowds at Saudi Falcons Exhibition",
+      "url": "https://spa.gov.sa/en/N2691431?type=news&uuid=N2691431",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-10-02T08:28:03.000Z"
+    },
+    {
+      "headline": "Mohammed bin Rashid names Ahmed bin Mohammed as Chairman of Al Wasl Sports Club",
+      "url": "https://www.wam.ae/en/details/c2jgw4m-mohammed-bin-rashid-names-ahmed-bin-mohammed",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-10-02T08:27:04.585Z"
+    },
+    {
+      "headline": "Jeddah Chamber Explores Energy Partnerships with German Companies",
+      "url": "https://spa.gov.sa/en/N2691425?type=news&uuid=N2691425",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-10-02T08:21:43.000Z"
+    },
+    {
+      "headline": "Pakistan Strongly Condemns Houthi Attack on Madinah Power Station",
+      "url": "https://spa.gov.sa/en/N2691422?type=news&uuid=N2691422",
+      "source": "Saudi Press Agency",
+      "sourceId": "spa_api",
+      "category": "saudi",
+      "country": "Saudi Arabia",
+      "language": "ar",
+      "date": "2026-10-02T08:17:17.000Z"
+    },
+    {
+      "headline": "Sheikh Tahnoun Bin Mohammed Medical City achieves clinical breakthrough in rare neurological case",
+      "url": "https://www.wam.ae/en/details/c2jgw4l-sheikh-tahnoun-bin-mohammed-medical-city-achieves",
+      "source": "Emirates News Agency (WAM)",
+      "sourceId": "wam_api",
+      "category": "uae",
+      "country": "UAE",
+      "language": "en",
+      "date": "2026-10-02T08:07:52.993Z"
+    },
+    {
+      "headline": "INS Trishul joins French Navy in Toulon for 24th edition of Exercise Varuna",
+      "url": "https://timesofoman.com//article/177570-ins-trishul-joins-french-navy-in-toulon-for-24th-edition-of-exercise-varuna",
+      "source": "Times of Oman",
+      "sourceId": "times_of_oman",
+      "category": "oman",
+      "country": "Oman",
+      "language": "en",
+      "date": "2026-10-02T08:03:37.000Z"
+    },
+    {
+      "headline": "پشت جبهه جنگ ایران ؛ آمریکا از کدام پایگاه‌های اروپا استفاده کرد ؟",
+      "url": "https://www.bbc.com/persian/articles/cmd7912g4xeno",
+      "source": "BBC",
+      "sourceId": "gdelt_bbc_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-10-02T08:00:00.000Z",
+      "tier": "gdelt",
+      "originalHeadline": "پشت جبهه جنگ ایران ؛ آمریکا از کدام پایگاه‌های اروپا استفاده کرد ؟"
+    },
     {
       "headline": "Trump says tariffs bringing factories back to US",
       "url": "https://timesofoman.com//article/177569-trump-says-tariffs-bringing-factories-back-to-us",
@@ -32,6 +104,17 @@
       "language": "ar",
       "date": "2026-10-02T07:32:00.000Z",
       "originalHeadline": "الاستثمارات الأجنبية المباشرة في السعودية ترتفع 11.4% بالربع الثاني إلى 304.5 مليار دولار"
+    },
+    {
+      "headline": "الإمارات تدرج الإصدار الثاني من صكوك الخزينة للأفراد في «ناسداك دبي»",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXMDJKM3B3OXpfbExiN0VhU1dLLTFUb3RLZU5pLWVOQ01aUUdlVHlneHd0TEZpVDEzN19FYWVaZjhDMUhiZEMtMnc3Z3YwQkhBUV9FaVhVVQ?oc=5",
+      "source": "إرم بزنس",
+      "sourceId": "google_news_gulf_arabic",
+      "category": "arabic_aggregate",
+      "country": "Regional",
+      "language": "ar",
+      "date": "2026-10-02T07:30:10.000Z",
+      "originalHeadline": "الإمارات تدرج الإصدار الثاني من صكوك الخزينة للأفراد في «ناسداك دبي»"
     },
     {
       "headline": "مجدى طنطاوى يكتب: حين يصبح التقدم أسلوب حياة..الامارات نموذجا",
@@ -86,7 +169,7 @@
       "date": "2026-10-02T07:12:14.969Z"
     },
     {
-      "headline": "Why renewed fighting in Ethiopia's Tigray risks a regional war - reuters.com",
+      "headline": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1Vib2ZuYTBsRWNFRnR5SE16MDh0Q1RYUnRtbHBYVnA5blZ1VURmcXNuVkZkUUVnb1JMbjdpcmVaQ0E1NlYxdzczb3c4akIwV2JHcl81UGM3VHk1dHdTUFFOUVhKbzVYWDc3TzNRNEYzbnlkdHlVUEZlaXJsOGt4NzN6TXh4UXRCd0ZBQkpoRlhhbnh0MHNLZ3RYZnBiWmhVblNmbTNIYks?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -150,6 +233,60 @@
       "originalHeadline": "بسبب حصص لقطر وا��سعودية.. إسرائيل تعرقل استحواذ \"هاباغ لويد\" للشحن على \"زيم\""
     },
     {
+      "headline": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5",
+      "source": "AP Gulf",
+      "sourceId": "ap_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-10-02T06:56:00.000Z"
+    },
+    {
+      "headline": "Coalition Intercepts Houthi Ballistic Missile Targeting Khamis Mushait",
+      "url": "https://english.aawsat.com/gulf/5325027-coalition-intercepts-houthi-ballistic-missile-targeting-khamis-mushait",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Arab and Islamic Bodies Condemn Houthi Attack on Power Station in Saudi Arabia Madinah",
+      "url": "https://english.aawsat.com/gulf/5325017-arab-and-islamic-bodies-condemn-houthi-attack-power-station-saudi-arabia%E2%80%99s-madinah",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Friday briefing : How we covered the flydubai incident as it unfolded",
+      "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-10-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "UK Maritime Agency : Tanker Attacked in Strait of Hormuz",
+      "url": "https://english.aawsat.com/world/5325030-uk-maritime-agency-tanker-attacked-strait-hormuz",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-02T06:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Not - so - brave New World : Virtual Taekwondo Makes Asian Games Debut",
       "url": "https://english.aawsat.com/sports/5325044-not-so-brave-new-world-virtual-taekwondo-makes-asian-games-debut",
       "source": "Asharq al-Awsat (EN)",
@@ -205,28 +342,6 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Coalition Intercepts Houthi Ballistic Missile Targeting Khamis Mushait",
-      "url": "https://english.aawsat.com/gulf/5325027-coalition-intercepts-houthi-ballistic-missile-targeting-khamis-mushait",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-02T06:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Arab and Islamic Bodies Condemn Houthi Attack on Power Station in Saudi Arabia Madinah",
-      "url": "https://english.aawsat.com/gulf/5325017-arab-and-islamic-bodies-condemn-houthi-attack-power-station-saudi-arabia%E2%80%99s-madinah",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-02T06:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Heat - trapping Gas Once Frozen in Arctic Ground is Slowly Leaking , Warming the Planet",
       "url": "https://english.aawsat.com/varieties/5325039-heat-trapping-gas-once-frozen-arctic-ground-slowly-leaking-warming-planet",
       "source": "Asharq al-Awsat (EN)",
@@ -251,17 +366,6 @@
     {
       "headline": "When the World Saw van Gogh as a Madman , she Saw his Genius",
       "url": "https://english.aawsat.com/varieties/5325024-when-world-saw-van-gogh-%E2%80%98-madman%E2%80%99-she-saw-his-genius",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-02T06:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "UK Maritime Agency : Tanker Attacked in Strait of Hormuz",
-      "url": "https://english.aawsat.com/world/5325030-uk-maritime-agency-tanker-attacked-strait-hormuz",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -324,7 +428,7 @@
       "originalHeadline": "ارتفاع أسعار الذهب في السعودية اليوم.. و«عيار 24» يسجل 506 ريالات"
     },
     {
-      "headline": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - reuters.com",
+      "headline": "Yemen carried out 20 strikes on Houthi targets in Taiz province, spokesperson says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk4tSFZmYTc1TmM0Nk9rT0QzQjBkdUJyWlFTTllHN3ZsSU5QZWd3eW42bjB4dHo4MzZoQm9yOFRBaE1fVF9nTFlxTWswMWRlZV9PZXFRZm13aUdpR1UtX2FZVzdTb21IcHFFbzBxdzlRY015TkE5bWlmNTdncGprWWZkRUMzWVR1Y3VfbnBCUlRuMTlvZ2NLTlpUaEFmUU9Ra1VoNDVKYVhJaVZQV3NCUVMzQlpjWEJlb2NzRkRySUNLUmxXQUN4Rg?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -428,7 +532,7 @@
       "date": "2026-10-02T05:39:20.982Z"
     },
     {
-      "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
+      "headline": "Associated Press News: Breaking News | Latest News Today - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -562,7 +666,7 @@
       "originalHeadline": "أسعار الذهب في الإمارات ترتفع مع استقرار الأوقية عالميًا"
     },
     {
-      "headline": "Foiled flydubai attack clouds regional airline revival - reuters.com",
+      "headline": "Foiled flydubai attack clouds regional airline revival - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt?oc=5",
       "source": "Reuters Gulf",
       "sourceId": "reuters_gulf",
@@ -592,6 +696,16 @@
       "language": "ar",
       "date": "2026-10-02T04:45:00.000Z",
       "originalHeadline": "من الورشة الإيطالية إلى سوق الذهب في دبي... الإمارات مركزاً إقليمياً للمجوهرات الإيطالية"
+    },
+    {
+      "headline": "Pacific Islands get their climate moment with pre-COP meeting, but the guest list is thin - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFU3VE4tWktZV1p6MkcyTzdoMjZreEhDUTdYTGV2VWhxUTZDVnVtQlBLcGtZUjA1Nm14QjVxc2FYOVkwWEpZRjJEN3kxcDRINnoyU0pyeE5hOHdVdVRBTFZIc0hYSTVPVnN2RUw5elpRMTJwMlhsSjlpTmhDRGt0RjZMTHZEVnU4dTJLV1h5N2p6bEJmeEx5U19oRVZpc0dQX0xGUEVndlJxVkRVQXc3em04VjQtMU9QZWgwTTN5bmx5bEtnNlhHeER4anozaGto?oc=5",
+      "source": "Reuters Gulf",
+      "sourceId": "reuters_gulf",
+      "category": "wire",
+      "country": "Wire",
+      "language": "en",
+      "date": "2026-10-02T04:34:00.000Z"
     },
     {
       "headline": "Egypt Accuses 6 Arrested Journalists of Being Members of the Muslim Brotherhood",
@@ -648,16 +762,6 @@
       "date": "2026-10-02T04:18:14.000Z"
     },
     {
-      "headline": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-10-02T04:18:00.000Z"
-    },
-    {
       "headline": "200 منظمة في 60 دولة تنظم حراكا عالميا من أجل فلسطين",
       "url": "https://www.aljazeera.net/news/2026/10/2/200-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D9%81%D9%8A-60-%D8%AF%D9%88%D9%84%D8%A9-%D8%AA%D9%86%D8%B8%D9%85-%D8%AD%D8%B1%D8%A7%D9%83%D8%A7-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D9%85%D9%86-%D8%A3%D8%AC%D9%84",
       "source": "Al Jazeera Arabic",
@@ -709,7 +813,7 @@
       "category": "arabic_aggregate",
       "country": "Regional",
       "language": "ar",
-      "date": "2026-10-02T03:09:55.000Z",
+      "date": "2026-10-02T03:11:56.000Z",
       "originalHeadline": "رئيس أكبر مشترٍ للغاز المسال لا يتوقع عودة إمدادات قطر للسوق قريباً"
     },
     {
@@ -776,7 +880,7 @@
       "date": "2026-10-02T02:43:37.000Z"
     },
     {
-      "headline": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - AP News",
+      "headline": "Trump and Vance hit the campaign trail in deep-red areas where GOP candidates seek a boost - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JVnMyNXZRMUpySjhfMXNLa0RsVXVHZnhpOFBTREZYQXBONlA3ZTZGYUV2UG5vS0xWbFJFVDJSMVNiMFdyckQyUDVOTFY1a3pPLXRvZkhrYkVGT0VLRjQxa0JCS3k5aVRCa0FTU0xqeWJwbkxpc2hXT0ItS0xKbDFHUUFvSXFBd3BpMUxkN3ZUeEVUQWFFWkw4Zzg2UW9uRm5MTFpOcWVnU0R3VnNFTUVfbzVmNmZCRnc?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -794,6 +898,17 @@
       "country": "Saudi Arabia",
       "language": "ar",
       "date": "2026-10-02T02:33:40.000Z"
+    },
+    {
+      "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+      "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+      "source": "The Guardian",
+      "sourceId": "gdelt_theguardian_com",
+      "category": "gdelt",
+      "country": "Regional",
+      "language": "en",
+      "date": "2026-10-02T02:15:00.000Z",
+      "tier": "gdelt"
     },
     {
       "headline": "النووي أقل كلفة 30 % لتوفير كهرباء مستقرة في السعودية",
@@ -842,7 +957,7 @@
       "date": "2026-10-02T01:58:28.000Z"
     },
     {
-      "headline": "FBI arrests Energy Department employee on charge of trying to support Iran-backed Houthis in Yemen - AP News",
+      "headline": "FBI arrests Energy Department employee on charge of trying to support Iran-backed Houthis in Yemen - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0ZyY1psUmYxY2phYnZibVIyWG8wWUZOczB1djBweXkyYlFzTTVPMUZUOVpPdnprYWp2SkEwWEctdExBVVNsakF2N3pCZE56XzJqZ2lheGpPRDBpYUplR0lwRG9QdXBXRGFDdDVhb3VIMjJZX2xIRjhFU19FWEJLd0NTZWZIQ21RUlpPLWZkaWlhdDA?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -882,7 +997,7 @@
       "date": "2026-10-02T01:45:25.000Z"
     },
     {
-      "headline": "California helicopter crash kills 2 people and leaves 2 hospitalized and 1 missing - AP News",
+      "headline": "California helicopter crash kills 2 people and leaves 2 hospitalized and 1 missing - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4V0hpd093a2JRZEYzS1g0NzZZN2NhWTMxOV9tSElrNDFGbW16MmFtNHlIeHlwMF9CS08ydXFjSUZydkNYV05WWUJvSERFMHNpZDlldWtGSVZrX0NSLVNCZkY4ZWNSQTN4aTl5YTIxaUhJWHpRaEEwNDJPaXhUek8tY3RKbVpERW9NcVN2UGhobXNUTWY2R0tnUGN4S2R3NXlzRXdrTGlaMWZR?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -935,7 +1050,7 @@
       "originalHeadline": "بعد استغاثة طائرة الإمارات.. ماذا يعني رمز 7700؟ 3 أكواد مهمة للطوارئ في الجو"
     },
     {
-      "headline": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - AP News",
+      "headline": "Hurricane Rachel strengthens to a Category 3 storm off Mexico’s Pacific coast - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVJhSGVobUxHZWNqZ3FDWmd1TWtHSzBZUE12amtIVXN1anBZcDVqMzBMUllfUEJNcXRIczlyZWd5Q1Q2N3VfbWYzLWZVWEN0Q09OODdlWjdGdjVNc3E5TzUyMzV6ekd2VHBxTTRWQklOZU1aUmRTT0pQcFlfYjJoT1ZYTnlmb3QtalNnR2x4eGJrTmUxa2E1MFV3?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -1035,6 +1150,83 @@
       "tier": "gdelt"
     },
     {
+      "headline": "Riyadh Air Adds Two Flights to London Heathrow , Increases Service to Nine Weekly",
+      "url": "https://english.aawsat.com/business/5324976-riyadh-air-adds-two-flights-london-heathrow-increases-service-nine-weekly",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Trump Says Iran Will Be Hit Very Hard if It Is Behind Co - Pilot Who Tried to Crash Flight to Israel",
+      "url": "https://english.aawsat.com/world/5324982-trump-says-iran-will-be-hit-%E2%80%98very-hard%E2%80%99-if-it-behind-co-pilot-who-tried-crash-flight",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Announces $24 . 4 Bn Contract to Speed up Missile Production",
+      "url": "https://english.aawsat.com/world/5324979-us-announces-244-bn-contract-speed-missile-production",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "US Sanctions Target Iran Auto , Rail Sectors as Blockade Chokes Ship Lanes",
+      "url": "https://english.aawsat.com/world/5324980-us-sanctions-target-iran%E2%80%99s-auto-rail-sectors-blockade-chokes-ship-lanes",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Coalition : 2 Ballistic Missiles , 4 Drones Destroyed in Saudi Arabia Khamis Mushait , Jazan",
+      "url": "https://english.aawsat.com/gulf/5324971-coalition-2-ballistic-missiles-4-drones-destroyed-saudi-arabia%E2%80%99s-khamis-mushait-jazan",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Saudi Defense Minister Discusses Regional Security with Hegseth , Vautrin",
+      "url": "https://english.aawsat.com/gulf/5324974-saudi-defense-minister-discusses-regional-security-hegseth-vautrin",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
+      "headline": "Coalition : Terrorist Houthi Militia Targets Taibah Power Distribution Station in Madinah",
+      "url": "https://english.aawsat.com/gulf/5324975-coalition-terrorist-houthi-militia-targets-taibah-power-distribution-station-madinah",
+      "source": "Asharq al-Awsat (EN)",
+      "sourceId": "gdelt_english_aawsat_com",
+      "category": "gdelt",
+      "country": "Saudi Arabia",
+      "language": "en",
+      "date": "2026-10-01T23:45:00.000Z",
+      "tier": "gdelt"
+    },
+    {
       "headline": "Nike Plans More Job Cuts to Boost Sputtering Turnaround , Forecasts Steep Revenue Drop",
       "url": "https://english.aawsat.com/fashion/5324998-nike-plans-more-job-cuts-boost-sputtering-turnaround-forecasts-steep-revenue-drop",
       "source": "Asharq al-Awsat (EN)",
@@ -1079,63 +1271,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Riyadh Air Adds Two Flights to London Heathrow , Increases Service to Nine Weekly",
-      "url": "https://english.aawsat.com/business/5324976-riyadh-air-adds-two-flights-london-heathrow-increases-service-nine-weekly",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Trump Says Iran Will Be Hit Very Hard if It Is Behind Co - Pilot Who Tried to Crash Flight to Israel",
-      "url": "https://english.aawsat.com/world/5324982-trump-says-iran-will-be-hit-%E2%80%98very-hard%E2%80%99-if-it-behind-co-pilot-who-tried-crash-flight",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "Trump Sidesteps Questions on Endorsing Netanyahu Before Oct . 27 Israeli Elections",
       "url": "https://english.aawsat.com/world/5324985-trump-sidesteps-questions-endorsing-netanyahu-oct-27-israeli-elections",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Announces $24 . 4 Bn Contract to Speed up Missile Production",
-      "url": "https://english.aawsat.com/world/5324979-us-announces-244-bn-contract-speed-missile-production",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "US Sanctions Target Iran Auto , Rail Sectors as Blockade Chokes Ship Lanes",
-      "url": "https://english.aawsat.com/world/5324980-us-sanctions-target-iran%E2%80%99s-auto-rail-sectors-blockade-chokes-ship-lanes",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Coalition : 2 Ballistic Missiles , 4 Drones Destroyed in Saudi Arabia Khamis Mushait , Jazan",
-      "url": "https://english.aawsat.com/gulf/5324971-coalition-2-ballistic-missiles-4-drones-destroyed-saudi-arabia%E2%80%99s-khamis-mushait-jazan",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1156,30 +1293,8 @@
       "tier": "gdelt"
     },
     {
-      "headline": "Saudi Defense Minister Discusses Regional Security with Hegseth , Vautrin",
-      "url": "https://english.aawsat.com/gulf/5324974-saudi-defense-minister-discusses-regional-security-hegseth-vautrin",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
       "headline": "UN Worried about Impact of Latest Lebanon War on Agriculture",
       "url": "https://english.aawsat.com/arab-world/5324983-un-worried-about-impact-latest-lebanon-war-agriculture",
-      "source": "Asharq al-Awsat (EN)",
-      "sourceId": "gdelt_english_aawsat_com",
-      "category": "gdelt",
-      "country": "Saudi Arabia",
-      "language": "en",
-      "date": "2026-10-01T23:45:00.000Z",
-      "tier": "gdelt"
-    },
-    {
-      "headline": "Coalition : Terrorist Houthi Militia Targets Taibah Power Distribution Station in Madinah",
-      "url": "https://english.aawsat.com/gulf/5324975-coalition-terrorist-houthi-militia-targets-taibah-power-distribution-station-madinah",
       "source": "Asharq al-Awsat (EN)",
       "sourceId": "gdelt_english_aawsat_com",
       "category": "gdelt",
@@ -1659,7 +1774,7 @@
       "date": "2026-10-01T22:39:31.000Z"
     },
     {
-      "headline": "Rubio waives human rights restrictions to release $320 million in military aid to Egypt - AP News",
+      "headline": "Rubio waives human rights restrictions to release $320 million in military aid to Egypt - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkQ2Y0dQS3ZOT1BoWHBHY3MxOTlPb0lxaHNlQ2lxZEx3ZVJVTjhpWm1EZ1NKU2JEWDBlcTV6RHhFbElhazNTSEYyVWZuMG1GaDhYczJiZGRodnR1Z3V1NFZ0d1BEWmo2djNpNjAwR2swb1U1MEtNTXByNEVnNmlDZmZBS2w5ZUloRmpBcmVIVm5HXzYzZkN4b1FGekRMdw?oc=5",
       "source": "AP Gulf",
       "sourceId": "ap_gulf",
@@ -1824,118 +1939,6 @@
       "language": "ar",
       "date": "2026-10-01T21:11:39.000Z",
       "originalHeadline": "ملك البحرين يوجه رسالة شكر وتقدير إلى شيخ الأزهر ويشيد بجهوده في تعزيز الحوار"
-    },
-    {
-      "headline": "Saudi Arabia Elected to ISO Council for Seventh Time for 2027-2029 Term",
-      "url": "https://spa.gov.sa/en/N2691184?type=news&uuid=N2691184",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-10-01T20:59:11.000Z"
-    },
-    {
-      "headline": "Photos of passengers returning to Tel Aviv after attack aboard FlyDubai flight - AP News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbk9Ud3NnUXZMLTRmQ2ZoVXd6XzhtejQwM1V4dDl6Q3o1T1BQOFNlQjdkQlI2cXI4Wm5Tamc0eUhxeUE3ZkRhenNrSUFUNXFIVU54RUNEMjZEcXlFeEpDRjk3NzBNdExpS3lONGVBd1BneDdINVMxUS1GVlgtRXQ3WEw5OWg2LXpPcFk4dlV4cFo0Z2ZXVG40eXdTV2VDRzhhQ1RNY21uRnBIU3pIM05PYWxvbE9oWVlDY3M4cXBvaEdpV0lmTkUxLVBLOVN6QmZxNUJuag?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-10-01T20:58:59.000Z"
-    },
-    {
-      "headline": "Trump says latest Iran peace offer not enough, may resume bombing, and other Mideast developments - AP News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXBWUXotWDR6bldkQVZvZXVnaTNfa0Yzc1NqM2tLa1RqSnoxZ29iOE52LW5hNm85UVo4VFgySl9ZNjVHM1VYVEkxMVhzU3Voa2VLclFCRHJMSDFLbHlscGx5eW9SLVdheXQ0Q2dyU2xDZVJicjg5Q2thak1nSV9jTjNWd3NRYkp2UmxLUkZqX3htNmFBS0JldGxwUUpkdXgzWmpPUE4tdVJmQ08zX2F1MUxYNlZPYl9tLTdZRmd2alhSQVdZbkE?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-10-01T20:57:00.000Z"
-    },
-    {
-      "headline": "Public Security Participates in Interior Ministry Pavilion at International Saudi Falcons and Hunting Exhibition 2026",
-      "url": "https://spa.gov.sa/en/N2691180?type=news&uuid=N2691180",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-10-01T20:53:39.000Z"
-    },
-    {
-      "headline": "Madinah Bus Launches Express Route 300 Linking Haramain Railway Station with Prophet’s Mosque",
-      "url": "https://spa.gov.sa/en/N2691178?type=news&uuid=N2691178",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-10-01T20:52:37.000Z"
-    },
-    {
-      "headline": "US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5",
-      "source": "Reuters Gulf",
-      "sourceId": "reuters_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-10-01T20:52:13.000Z"
-    },
-    {
-      "headline": "Arab Parliament President Condemns Houthi Militia Attack on Power Distribution Station in Madinah",
-      "url": "https://spa.gov.sa/en/N2691175?type=news&uuid=N2691175",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-10-01T20:50:37.000Z"
-    },
-    {
-      "headline": "Dual UK-Iranian national arrested over security incident at US-run air base in England - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDFBc1NtMUxrV3E5ZDZwMXRHeks1LUh4VWg1VS1oVThqd1M4UnRzN2g4VFMwWWZXX253ZVdWN1J3eTFWM1BfQ01JNlpaWTRNNlJ5a25nY2xBa2RRa2FjRVJEQmVZc1NLSzVlOFJGVFdqcmhiaVo4UjN5MmZZYndkWjRPOHdDbnlXNi11bmlWSkhnOGpH?oc=5",
-      "source": "AP Gulf",
-      "sourceId": "ap_gulf",
-      "category": "wire",
-      "country": "Wire",
-      "language": "en",
-      "date": "2026-10-01T20:49:00.000Z"
-    },
-    {
-      "headline": "بيان صادر عن وزارة الخارجية والتعاون الدولي والمصريين بالخارج: مصر تدين استهداف محطة كهرباء بالمدين�� المنورة في المملكة العربية السعودية تعرب جمهورية مصر العربية عن إدانتها الشديدة للهجوم الذي استهدف محطة كهربائية في المدينة المنورة بالمملكة العربية السعودية الشق",
-      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPQUplcGNLb0NLemJjVFZsc3BLUG85V1RCTk90Q21HaS1DSDFsSFN1WDFJTW9YQXJKUVJLQlpTeFF6c0Z1X2pwa2FyVVdYWHg0el9UT0t0Q1F1bkhyZWxtMTNjWHpwTE9jS0M5ZnBDYmVUUk9iQ1dpMVhBdlc2NjhkZmtleDliMnhpcE1NQV9vRDhGSEExU00tb05PazQ5cUpwQ1ljclVkS01vdzNHOGJSa1loMnBsZXZ4bWxtcVdHU01iWGlaTmxCRFdjdFBSd29pSVN5cjFXdy1EdUtEcEdFcHlQbXhFRld5VU5HaWc4Nk1QZGMwMXBaTWgwUHh5Mmg1VS01UW1SS3pFeTlGczNVamJOX0lrVVpGSTN6LVpCR2phRWtjNWs2alhpeWZ1NkxfdGM3TjN0M0MyRUs1Vmd4LVRpcEFSa1VyeHBLRDRuS09SNWtsRlo5TGVxdzBsR2gzS3U1YTRwR1FXX0tQSmJFaUJxQWgyaW1fQW5NT3RyM0QxbThaUzBzanVkSVc5M2o3UnZVeVVFRlNmeXZWWVpnczUtNVhvR09haE9aNHJ0dG5vcDdwa2JmMjZsNFRQa1hTWHE1cml2a3ZuTkJKc1RBOVFwQzM0TWZ4cjNNaTVhc2U4RGtabVJIaE41M2FSNjVqQll6WjZEVklOeHAyRkJzdW1WLWRVOVdSQTVDX2tsd1A5REs0UFFISmNLVE9CSFVvYmNHbndaUTJEWUF2TFhnUm4tT09TaEY3LUVyZGYwWFQ3VmxPdlhndlpNLV9RdkF0Ym5YTS10MjlKTzZGY1VvR1VPbnEtTThLejcxLTh2bTZDV2VWbEtkWFllZWROcmtMdWdra09Ca1E0bks5MHBKMGZGLUljVnloSGxPTXAyakdMYkFwZXdieHdn?oc=5",
-      "source": "facebook.com",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-10-01T20:47:23.000Z",
-      "originalHeadline": "بيان صادر عن وزارة الخارجية والتعاون الدولي والمصريين بالخارج: مصر تدين استهداف محطة كهرباء بالمدين�� المنورة في المملكة العربية السعودية تعرب جمهورية مصر العربية عن إدانتها الشديدة للهجوم الذي استهدف محطة كهربائية في المدينة المنورة بالمملكة العربية السعودية الشق"
-    },
-    {
-      "headline": "اليمن – قلق أممي عميق إزاء التصعيد العسكري المستمر",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBUGRBa0ZSWm1ickZ1bGNvbGFVbm5PUjNQd1U5alM1cWZNdTgwNzBIdE41dlpJMTFHYTdSYS1ZdHF0TWtKeGEzTFpnZFBTZS1CQ29nVE83MA?oc=5",
-      "source": "UN News",
-      "sourceId": "google_news_gulf_arabic",
-      "category": "arabic_aggregate",
-      "country": "Regional",
-      "language": "ar",
-      "date": "2026-10-01T20:45:16.000Z",
-      "originalHeadline": "اليمن – قلق أممي عميق إزاء التصعيد العسكري المستمر"
-    },
-    {
-      "headline": "Coalition: Two Ballistic Missiles, Four UAVs Intercepted, Destroyed in Khamis Mushait, Jazan",
-      "url": "https://spa.gov.sa/en/N2691165?type=news&uuid=N2691165",
-      "source": "Saudi Press Agency",
-      "sourceId": "spa_api",
-      "category": "saudi",
-      "country": "Saudi Arabia",
-      "language": "ar",
-      "date": "2026-10-01T20:39:38.000Z"
     },
     {
       "headline": "#خادم_الحرمين_الشريفين and His Royal Highness #ولي_العهد congratulate the President of the Republic of Botswana on the occasion of the anniversary of their country's independence.",
